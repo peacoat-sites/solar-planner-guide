@@ -6,10 +6,10 @@
     <nav class="breadcrumb">
       <a href="/">Home</a>
       {{ if .Params.categories }}
-      <span>></span>
+      <span>›</span>
       <a href="/categories/{{ index .Params.categories 0 | urlize }}/">{{ index .Params.categories 0 }}</a>
       {{ end }}
-      <span>></span>
+      <span>›</span>
       <span>{{ .Title | truncate 40 }}</span>
     </nav>
 
@@ -20,7 +20,7 @@
       {{ end }}
       <h1 class="post-title">{{ .Title }}</h1>
       <div class="post-meta">
-        <span>By {{ .Site.Params.author }}</span>
+        <span>By {{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}</span>
         <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
         <span>{{ .ReadingTime }} min read</span>
       </div>
@@ -67,6 +67,37 @@
       {{ range .Params.tags }}
       <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
       {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Author Bio -->
+    {{ if .Params.author_bio }}
+    <div class="author-box">
+      <div class="author-box-name">{{ with .Params.author }}{{ . }}{{ end }}</div>
+      <p class="author-box-bio">{{ .Params.author_bio }}</p>
+    </div>
+    {{ end }}
+
+    <!-- YouTube Short Embed (auto-injected by video pipeline when available) -->
+    {{ $youtube := dict }}
+    {{ $dataFile := "data/youtube.json" }}
+    {{ if fileExists $dataFile }}
+      {{ $youtube = getJSON $dataFile }}
+    {{ end }}
+    {{ $videoData := index $youtube .Slug }}
+    {{ if $videoData }}
+    <div class="youtube-short-wrap">
+      <p class="youtube-short-label">Watch: Quick Summary</p>
+      <div class="youtube-short-frame">
+        <iframe
+          src="https://www.youtube.com/embed/{{ $videoData.video_id }}?rel=0"
+          width="315" height="560"
+          frameborder="0"
+          allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          loading="lazy">
+        </iframe>
+      </div>
     </div>
     {{ end }}
 
