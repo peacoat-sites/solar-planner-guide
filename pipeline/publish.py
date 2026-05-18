@@ -124,6 +124,115 @@ SITE_PERSONAS = {
         "ymyl": False,
         "disclaimer": "",
     },
+    "home-insurance-guide": {
+        "tone": (
+            "You are a former claims adjuster who spent 14 years reviewing homeowner insurance claims "
+            "at a national insurer before switching to consumer advocacy. You know exactly where coverage "
+            "gaps hide and what insurers don't advertise. You write clearly and directly, explaining what "
+            "policies actually cover in plain language. You are skeptical of marketing language and help "
+            "readers ask the right questions before they buy or renew."
+        ),
+        "authors": [
+            {"name": "Patricia Lawson", "bio": "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand their coverage before they need it."},
+            {"name": "Gary Simmons", "bio": "Independent insurance agent with 20 years helping homeowners compare policies and understand coverage limits."},
+            {"name": "Diane Kowalski", "bio": "Consumer insurance educator and public adjuster with experience handling hundreds of homeowner claims."},
+            {"name": "Brian Oates", "bio": "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."},
+        ],
+        "ymyl": True,
+        "disclaimer": (
+            "*This article is for general informational purposes only and does not constitute insurance advice. "
+            "Coverage details, exclusions, and costs vary significantly by insurer, policy type, and location. "
+            "Always review your policy documents and consult a licensed insurance professional for advice "
+            "specific to your situation.*"
+        ),
+    },
+    "mortgage-advisor-guide": {
+        "tone": (
+            "You are a former mortgage underwriter with 16 years at both regional banks and national lenders. "
+            "You have seen every mistake borrowers make -- and you write to help people avoid them. You are "
+            "precise with numbers, honest about the downsides of different loan products, and always explain "
+            "the fine print that loan officers tend to gloss over. You write for the smart borrower who wants "
+            "to understand what they're signing, not just what rate they're getting."
+        ),
+        "authors": [
+            {"name": "David Carver", "bio": "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."},
+            {"name": "Susan Park", "bio": "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."},
+            {"name": "Tom Whitfield", "bio": "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."},
+            {"name": "Alicia Rivera", "bio": "Real estate finance educator specializing in first-time homebuyer programs and down payment assistance."},
+        ],
+        "ymyl": True,
+        "disclaimer": (
+            "*This article is for educational purposes only and does not constitute financial or mortgage advice. "
+            "Mortgage rates change daily and vary by lender, loan type, credit profile, and property details. "
+            "Consult a HUD-approved housing counselor (find one at hud.gov) or licensed mortgage professional "
+            "for guidance specific to your financial situation.*"
+        ),
+    },
+    "therapy-finder-guide": {
+        "tone": (
+            "You are a mental health educator and therapist referral specialist who has worked alongside "
+            "clinical teams helping people navigate the often confusing process of finding and accessing "
+            "mental health care. You write warmly but practically -- you don't minimize struggles, but you "
+            "also don't catastrophize. You explain therapy types clearly, address common fears about starting "
+            "therapy, and always point readers toward legitimate professional resources."
+        ),
+        "authors": [
+            {"name": "Maya Okonkwo", "bio": "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."},
+            {"name": "Jordan Hayes", "bio": "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."},
+            {"name": "Dr. Emily Strauss", "bio": "Psychologist and mental health advocate with 12 years in community mental health and private practice settings."},
+            {"name": "Carlos Mendez", "bio": "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."},
+        ],
+        "ymyl": True,
+        "disclaimer": (
+            "*This article is for general informational purposes only and does not constitute mental health, "
+            "medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, "
+            "please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest "
+            "emergency room. Always consult a licensed mental health professional for care specific to your needs.*"
+        ),
+    },
+    "pet-doctor-guide": {
+        "tone": (
+            "You are a registered veterinary technician with 13 years of clinical experience in small animal "
+            "practice. You write for pet owners who want real, practical information -- not vague platitudes "
+            "about 'consulting your vet for everything.' You give clear guidance on what's an emergency, what "
+            "can wait until Monday, and how to communicate effectively with your vet. You are warm, specific, "
+            "and always honest when something is beyond what a non-vet should handle at home."
+        ),
+        "authors": [
+            {"name": "Karen Briggs", "bio": "Registered veterinary technician with 13 years of clinical experience in small animal care."},
+            {"name": "Dr. Samuel Osei", "bio": "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."},
+            {"name": "Lisa Tanaka", "bio": "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."},
+            {"name": "Mark Callahan", "bio": "Animal behaviorist and veterinary educator. Helps owners understand their pets' health and behavior."},
+        ],
+        "ymyl": True,
+        "disclaimer": (
+            "*This article is for general informational purposes only and does not constitute veterinary advice. "
+            "Pet health symptoms can have many causes and require professional evaluation. Always consult a "
+            "licensed veterinarian for diagnosis and treatment specific to your pet.*"
+        ),
+    },
+    "small-biz-finance-guide": {
+        "tone": (
+            "You are a small business CFO and financial consultant with 18 years helping entrepreneurs "
+            "set up clean financial systems, navigate funding, and understand their numbers. You are direct, "
+            "no-nonsense, and practical. You explain concepts like a trusted advisor would -- without the "
+            "jargon or the upsell. You know that most small business owners are not accountants, and you "
+            "write to fill that gap honestly."
+        ),
+        "authors": [
+            {"name": "Frank Medina", "bio": "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."},
+            {"name": "Angela Torres", "bio": "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."},
+            {"name": "James O'Brien", "bio": "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."},
+            {"name": "Priya Nair", "bio": "Business finance educator and startup CFO. Specializes in cash flow management and small business funding strategy."},
+        ],
+        "ymyl": True,
+        "disclaimer": (
+            "*This article is for general informational purposes only and does not constitute financial, tax, "
+            "or legal advice. Business finance and tax rules vary by entity type, state, and individual "
+            "circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice "
+            "specific to your situation.*"
+        ),
+    },
 }
 
 # ── AMAZON AFFILIATE PRODUCTS (by niche key) ─────────────────────────────────
@@ -152,6 +261,41 @@ NICHE_ASINS = {
         ("B098PPB3TN", "Kill A Watt Electricity Usage Monitor"),
         ("B07YTL2HFN", "Renogy 100W Flexible Solar Panel for RV and Roof"),
     ],
+    "home insurance education": [
+        ("B08N5LNQCV", "Fireproof Document Safe Box for Home Records"),
+        ("B07WDNRQGK", "Kidde 2.5lb ABC Fire Extinguisher"),
+        ("B08KGP3H3M", "Govee WiFi Water Leak Sensor for Home Protection"),
+        ("B0BW2FGQBF", "Home Inventory Organizer Binder with Dividers"),
+        ("B09JQLB8YD", "First Alert Smoke + Carbon Monoxide Detector"),
+    ],
+    "mortgage & home financing": [
+        ("1524763438", "The Book on Rental Property Investing"),
+        ("B0B9PXKXB4", "Home Buyers Checklist and Moving Planner"),
+        ("1119697026", "Mortgages for Dummies"),
+        ("B09VW3KFVK", "Locking File Box for Mortgage and Financial Documents"),
+        ("0812927427", "The Total Money Makeover by Dave Ramsey"),
+    ],
+    "mental health & therapy": [
+        ("1572245018", "The Mindfulness and Acceptance Workbook for Anxiety"),
+        ("B09B8LGTDG", "Therapy Journal with CBT Prompts and Mood Tracker"),
+        ("1626258406", "The Body Keeps the Score (Book)"),
+        ("B08FT3BK6S", "Breathing Exercise Tool for Anxiety Relief"),
+        ("1572244275", "DBT Skills Training Handouts and Worksheets"),
+    ],
+    "pet health & vet advice": [
+        ("B09L3GS3L2", "Pet First Aid Kit for Dogs and Cats"),
+        ("B07FZBKKDQ", "Arm and Hammer Dog Dental Spray"),
+        ("B07RJJ5RCG", "Zesty Paws Hip and Joint Supplement for Dogs"),
+        ("B00XNGNQ58", "FRONTLINE Plus Flea and Tick Treatment for Dogs"),
+        ("B01BMKAGP2", "Thundershirt Anxiety Wrap for Dogs"),
+    ],
+    "small business finance": [
+        ("1119475347", "Profit First: Transform Your Business from Cash-Eating Monster"),
+        ("B09JQLB8YD", "Business Expense Tracker and Ledger Book"),
+        ("1260455890", "QuickBooks Online for Small Business (Book)"),
+        ("1591845572", "The E-Myth Revisited by Michael Gerber"),
+        ("B08MBTZJ7H", "Expandable File Organizer for Business Records"),
+    ],
 }
 # Partial-match aliases so any niche string resolves to a key above
 NICHE_ALIAS = {
@@ -161,6 +305,18 @@ NICHE_ALIAS = {
     "senior health":   "medicare & senior health insurance",
     "solar":           "residential solar & home energy",
     "home energy":     "residential solar & home energy",
+    "home insurance":  "home insurance education",
+    "homeowners":      "home insurance education",
+    "mortgage":        "mortgage & home financing",
+    "home financing":  "mortgage & home financing",
+    "therapy":         "mental health & therapy",
+    "mental health":   "mental health & therapy",
+    "counseling":      "mental health & therapy",
+    "pet health":      "pet health & vet advice",
+    "pet doctor":      "pet health & vet advice",
+    "veterinarian":    "pet health & vet advice",
+    "small business":  "small business finance",
+    "small biz":       "small business finance",
 }
 
 # ── AUTHORITATIVE REFERENCES (linked naturally in articles) ──────────────────
@@ -183,6 +339,36 @@ NICHE_REFERENCES = {
         ("the National Renewable Energy Laboratory (NREL)", "https://www.nrel.gov/"),
         ("EnergySage's market data", "https://news.energysage.com/"),
         ("the U.S. Department of Energy", "https://www.energy.gov/eere/solar/homeowners-guide-going-solar"),
+    ],
+    "home insurance education": [
+        ("the Insurance Information Institute (III)", "https://www.iii.org/"),
+        ("the National Association of Insurance Commissioners (NAIC)", "https://www.naic.org/"),
+        ("your state's insurance department", "https://www.naic.org/state_web_map.htm"),
+        ("the IBHS home fortification guides", "https://ibhs.org/"),
+    ],
+    "mortgage & home financing": [
+        ("the Consumer Financial Protection Bureau (CFPB)", "https://www.consumerfinance.gov/owning-a-home/"),
+        ("HUD-approved housing counselors", "https://www.hud.gov/i_want_to/talk_to_a_housing_counselor"),
+        ("the Federal Housing Finance Agency (FHFA)", "https://www.fhfa.gov/"),
+        ("Freddie Mac's home buyer resources", "https://myhome.freddiemac.com/"),
+    ],
+    "mental health & therapy": [
+        ("the National Alliance on Mental Illness (NAMI)", "https://www.nami.org/"),
+        ("SAMHSA's treatment locator", "https://findtreatment.gov/"),
+        ("the 988 Suicide and Crisis Lifeline", "https://988lifeline.org/"),
+        ("Psychology Today's therapist directory", "https://www.psychologytoday.com/us/therapists"),
+    ],
+    "pet health & vet advice": [
+        ("the American Veterinary Medical Association (AVMA)", "https://www.avma.org/"),
+        ("the ASPCA Poison Control Center", "https://www.aspca.org/pet-care/animal-poison-control"),
+        ("PetMD's veterinary resource library", "https://www.petmd.com/"),
+        ("the AAHA hospital accreditation standards", "https://www.aaha.org/"),
+    ],
+    "small business finance": [
+        ("the U.S. Small Business Administration (SBA)", "https://www.sba.gov/"),
+        ("the IRS small business tax center", "https://www.irs.gov/businesses/small-businesses-self-employed"),
+        ("SCORE mentorship resources", "https://www.score.org/"),
+        ("the Consumer Financial Protection Bureau's small business resources", "https://www.consumerfinance.gov/"),
     ],
 }
 
