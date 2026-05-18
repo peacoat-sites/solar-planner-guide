@@ -20,19 +20,19 @@ import anthropic
 from datetime import datetime, timezone
 from pathlib import Path
 
-# ?? CONFIG ??????????????????????????????????????????????????????????????????
+# ── CONFIG ──────────────────────────────────────────────────────────────────
 
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
 GITHUB_ORG = os.environ["GITHUB_ORG"]
 PEXELS_KEY = os.environ.get("PEXELS_API_KEY", "")
-FLUX_KEY = os.environ.get("FLUX_API_KEY", "")  # optional - fal.ai or replicate key
+FLUX_KEY = os.environ.get("FLUX_API_KEY", "")  # optional — fal.ai or replicate key
 ANTHROPIC_MONTHLY_BUDGET = float(os.environ.get("ANTHROPIC_MONTHLY_BUDGET", "150"))
 
-# Site registry - Claude Code adds entries here for each new site
+# Site registry — Claude Code adds entries here for each new site
 SITES = json.loads(os.environ.get("SITES_CONFIG", "{}"))
 
-# ?? BUDGET MONITORING ????????????????????????????????????????????????????????
+# ── BUDGET MONITORING ────────────────────────────────────────────────────────
 
 def check_api_budget():
     """Check Anthropic usage and warn if approaching limit."""
@@ -49,21 +49,21 @@ def check_api_budget():
             remaining = ANTHROPIC_MONTHLY_BUDGET - spent
             pct = (spent / ANTHROPIC_MONTHLY_BUDGET) * 100
 
-            print(f"?? API Budget: ${spent:.2f} spent / ${ANTHROPIC_MONTHLY_BUDGET:.2f} ({pct:.0f}%)")
+            print(f"💰 API Budget: ${spent:.2f} spent / ${ANTHROPIC_MONTHLY_BUDGET:.2f} ({pct:.0f}%)")
 
             if pct >= 90:
-                print("?? BUDGET ALERT: 90% of monthly Anthropic budget used!")
-                print("??  ACTION REQUIRED: Please increase budget or pause pipeline.")
+                print("🚨 BUDGET ALERT: 90% of monthly Anthropic budget used!")
+                print("⏸️  ACTION REQUIRED: Please increase budget or pause pipeline.")
                 # Write alert file for Claude Code to detect
                 with open("/tmp/BUDGET_ALERT.txt", "w") as f:
                     f.write(f"ALERT: {pct:.0f}% of ${ANTHROPIC_MONTHLY_BUDGET} budget used. Spent: ${spent:.2f}")
                 sys.exit(1)
             elif pct >= 75:
-                print(f"??  Budget warning: {pct:.0f}% used. ${remaining:.2f} remaining.")
+                print(f"⚠️  Budget warning: {pct:.0f}% used. ${remaining:.2f} remaining.")
     except Exception as e:
         print(f"Could not check budget: {e}")
 
-# ?? NAMECHEAP DOMAIN CHECK ????????????????????????????????????????????????????
+# ── NAMECHEAP DOMAIN CHECK ────────────────────────────────────────────────────
 
 def check_domain_available(domain: str) -> bool:
     """Check if a domain is available via Namecheap API."""
@@ -89,7 +89,7 @@ def purchase_domain(domain: str) -> bool:
     Prompt user to approve domain purchase, then buy via Namecheap API.
     This is the ONE step that requires human approval.
     """
-    print(f"\n?? DOMAIN PURCHASE REQUIRED")
+    print(f"\n🌐 DOMAIN PURCHASE REQUIRED")
     print(f"   Domain: {domain}")
     print(f"   Cost:   ~$12/year")
     print(f"   Available: {check_domain_available(domain)}")
@@ -114,13 +114,13 @@ def purchase_domain(domain: str) -> bool:
     }
     r = requests.post("https://api.namecheap.com/xml.response", data=params, timeout=30)
     success = "\"Registered\" Value=\"true\"" in r.text or "DomainCreateResult" in r.text
-    print(f"   {'? Purchased' if success else '? Failed'}: {domain}")
+    print(f"   {'✅ Purchased' if success else '❌ Failed'}: {domain}")
     return success
 
-# ?? IMAGE FETCHING ????????????????????????????????????????????????????????????
+# ── IMAGE FETCHING ────────────────────────────────────────────────────────────
 
 def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
-    """Fetch image from Pexels - primary source. Instant API key, 200 req/hr."""
+    """Fetch image from Pexels — primary source. Instant API key, 200 req/hr."""
     if not PEXELS_KEY:
         return None
     headers = {"Authorization": PEXELS_KEY}
@@ -128,11 +128,11 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
     try:
         r = requests.get("https://api.pexels.com/v1/search", headers=headers, params=params, timeout=10)
         if r.status_code != 200:
-            print(f"??  Pexels error: {r.status_code}")
+            print(f"⚠️  Pexels error: {r.status_code}")
             return None
         remaining = int(r.headers.get("X-Ratelimit-Remaining", 200))
         if remaining < 5:
-            print(f"??  Pexels rate limit low: {remaining} remaining")
+            print(f"⚠️  Pexels rate limit low: {remaining} remaining")
             return None
         photos = r.json().get("photos", [])
         unused = [p for p in photos if str(p["id"]) not in used_ids]
@@ -147,7 +147,7 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
             "source": "pexels"
         }
     except Exception as e:
-        print(f"??  Pexels fetch failed: {e}")
+        print(f"⚠️  Pexels fetch failed: {e}")
         return None
 
 
@@ -181,30 +181,30 @@ def fetch_image_flux(query: str) -> dict | None:
             url = r.json()["images"][0]["url"]
             return {"url": url, "credit": None, "credit_link": None, "source": "flux"}
     except Exception as e:
-        print(f"??  Flux generation failed: {e}")
+        print(f"⚠️  Flux generation failed: {e}")
     return None
 
 
 def fetch_image(query: str, used_ids: set) -> dict | None:
     """
     Image strategy:
-    1. Pexels (primary - instant key, 200 req/hr, no approval needed)
-    2. Flux Schnell AI (fallback - unique AI images, ~$0.003 each)
+    1. Pexels (primary — instant key, 200 req/hr, no approval needed)
+    2. Flux Schnell AI (fallback — unique AI images, ~$0.003 each)
     """
     img = fetch_image_pexels(query, used_ids)
     if img:
         return img
 
-    print(f"   ? Pexels miss - generating with Flux AI...")
+    print(f"   ↩ Pexels miss — generating with Flux AI...")
     img = fetch_image_flux(query)
     if img:
-        print(f"   ?? AI image generated via Flux")
+        print(f"   🎨 AI image generated via Flux")
         return img
 
-    print(f"   ??  No image available - article will publish without one")
+    print(f"   ⚠️  No image available — article will publish without one")
     return None
 
-# ?? ARTICLE GENERATION ????????????????????????????????????????????????????????
+# ── ARTICLE GENERATION ────────────────────────────────────────────────────────
 
 def generate_article(keyword: str, site_config: dict) -> dict:
     """Generate a full SEO article via Claude API."""
@@ -258,7 +258,7 @@ Make it genuinely useful and thorough."""
 
     return {"content": content, "description": description}
 
-# ?? MARKDOWN BUILDER ??????????????????????????????????????????????????????????
+# ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
 
 def build_markdown(keyword: str, article: dict, image: dict | None, categories: list, tags: list) -> str:
     """Build Hugo-compatible Markdown with frontmatter."""
@@ -288,7 +288,7 @@ slug: "{slug}"
 """
     return frontmatter + content
 
-# ?? GITHUB COMMIT ?????????????????????????????????????????????????????????????
+# ── GITHUB COMMIT ─────────────────────────────────────────────────────────────
 
 def commit_to_github(repo: str, filename: str, content: str, message: str) -> bool:
     """Commit a Markdown file to a GitHub repo."""
@@ -315,14 +315,14 @@ def commit_to_github(repo: str, filename: str, content: str, message: str) -> bo
     r = requests.put(url, headers=headers, json=payload, timeout=30)
     return r.status_code in [200, 201]
 
-# ?? SITEMAP SUBMISSION ????????????????????????????????????????????????????????
+# ── SITEMAP SUBMISSION ────────────────────────────────────────────────────────
 
 def submit_sitemap(domain: str):
     """Submit sitemap to Google Search Console via API."""
     # Requires GOOGLE_ACCESS_TOKEN env var (OAuth token)
     token = os.environ.get("GOOGLE_ACCESS_TOKEN")
     if not token:
-        print(f"   ??  No Google token - skipping sitemap submission for {domain}")
+        print(f"   ⚠️  No Google token — skipping sitemap submission for {domain}")
         return
 
     sitemap_url = f"https://{domain}/sitemap.xml"
@@ -331,11 +331,11 @@ def submit_sitemap(domain: str):
 
     r = requests.put(url, headers=headers, timeout=15)
     if r.status_code in [200, 204]:
-        print(f"   ? Sitemap submitted: {sitemap_url}")
+        print(f"   ✅ Sitemap submitted: {sitemap_url}")
     else:
-        print(f"   ??  Sitemap submission failed: {r.status_code}")
+        print(f"   ⚠️  Sitemap submission failed: {r.status_code}")
 
-# ?? KEYWORD LOADER ????????????????????????????????????????????????????????????
+# ── KEYWORD LOADER ────────────────────────────────────────────────────────────
 
 def load_keywords(site_name: str) -> list:
     """Load keyword list from site's keywords.csv in the repo."""
@@ -353,21 +353,21 @@ def load_keywords(site_name: str) -> list:
     reader = csv.DictReader(io.StringIO(content))
     return [row for row in reader]
 
-# ?? MAIN ??????????????????????????????????????????????????????????????????????
+# ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def publish_site(site_name: str, count: int):
     """Publish N articles to a single site."""
     if site_name not in SITES:
-        print(f"? Site '{site_name}' not found in SITES_CONFIG")
+        print(f"❌ Site '{site_name}' not found in SITES_CONFIG")
         return
 
     site = SITES[site_name]
     repo = site["repo"]
-    print(f"\n?? Publishing {count} articles to {site_name} ({site['domain']})")
+    print(f"\n📝 Publishing {count} articles to {site_name} ({site['domain']})")
 
     keywords = load_keywords(repo)
     if not keywords:
-        print(f"   ??  No keywords found for {site_name}")
+        print(f"   ⚠️  No keywords found for {site_name}")
         return
 
     # Pick least-published keywords
@@ -387,14 +387,14 @@ def publish_site(site_name: str, count: int):
 
             # Generate article
             article = generate_article(keyword, site)
-            print(f"   ? Article generated ({len(article['content'])} chars)")
+            print(f"   ✅ Article generated ({len(article['content'])} chars)")
 
             # Fetch image
             image = fetch_image(site.get("image_query", keyword), used_image_ids)
             if image:
-                print(f"   ? Image fetched")
+                print(f"   ✅ Image fetched")
             else:
-                print(f"   ??  No image available")
+                print(f"   ⚠️  No image available")
 
             # Build markdown
             slug = keyword.lower().replace(" ", "-")[:60]
@@ -408,21 +408,21 @@ def publish_site(site_name: str, count: int):
                 repo, filename, markdown,
                 f"Add article: {keyword}"
             )
-            print(f"   {'? Committed' if committed else '? Commit failed'}")
+            print(f"   {'✅ Committed' if committed else '❌ Commit failed'}")
 
-            # Organic pacing: randomized delay between articles (45-90 sec)
+            # Organic pacing: randomized delay between articles (45–90 sec)
             # This avoids API rate limits and makes publish cadence look natural
             delay = random.uniform(45, 90)
-            print(f"   ? Waiting {delay:.0f}s before next article...")
+            print(f"   ⏳ Waiting {delay:.0f}s before next article...")
             time.sleep(delay)
 
         except Exception as e:
-            print(f"   ? Error: {e}")
+            print(f"   ❌ Error: {e}")
             continue
 
     # Submit sitemap after publishing
     submit_sitemap(site["domain"])
-    print(f"\n? Done: {site_name}")
+    print(f"\n✅ Done: {site_name}")
 
 
 def main():
@@ -431,7 +431,7 @@ def main():
     parser.add_argument("--count", type=int, default=5, help="Articles per site")
     args = parser.parse_args()
 
-    print("?? Hugo Content Publisher")
+    print("🚀 Hugo Content Publisher")
     print(f"   Time: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     check_api_budget()
 
@@ -441,7 +441,7 @@ def main():
     else:
         publish_site(args.site, args.count)
 
-    print("\n?? Publishing complete!")
+    print("\n🎉 Publishing complete!")
 
 
 if __name__ == "__main__":
