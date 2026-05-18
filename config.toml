@@ -20,12 +20,24 @@ enableEmoji = true
   primary_color = "#2d6a4f"
   cloudflare_analytics = ""
 
+  # Authority theme
+  hero_color_1 = "#052e16"
+  hero_color_2 = "#14532d"
+  hero_color_3 = "#15803d"
+  hero_color_4 = "#0f172a"
+  monthly_readers = 38000
+  research_hours  = 320
+  satisfaction    = 97
+  trust_extra     = "Certified solar advisors"
+  impact_verification = ""
+  impact_tracking_id  = "" 
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
 
 [sitemap]
@@ -37,6 +49,10 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
 
 [permalinks]
   posts = "/:slug/"
