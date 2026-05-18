@@ -1,27 +1,24 @@
-name: Publish Articles + Deploy
+name: Publish Articles
 
-# PUBLISHING CADENCE — based on domain age research:
+# PUBLISHING CADENCE:
+#   Phase 1 (months 1-2):  2 articles/day  -- new domain trust building
+#   Phase 2 (months 3-6):  3 articles/day  -- gaining traction, scale winners
+#   Phase 3 (month 6+):    5 articles/day  -- established authority, full scale
 #
-#   Phase 1 (months 1-2):  2 articles/day  — new domain trust building
-#   Phase 2 (months 3-6):  3 articles/day  — gaining traction, scale winners
-#   Phase 3 (month 6+):    5 articles/day  — established authority, full scale
+# CF Pages builds automatically on every git push via GitHub integration.
+# Do NOT add a build-and-deploy job here -- it causes token permission errors
+# and is completely redundant (CF Pages handles it natively).
 #
-# Update the cron default count at the 3-month and 6-month marks per site.
-#
-# CLOUDFLARE PAGES LIMIT: 500 free builds/month across ALL projects.
-# This workflow triggers exactly 1 build per run. Keep it to 1 run/day per site.
-# 8 sites × 1 run/day × 30 days = 240 builds/month — within the free tier.
-# Never dispatch manually more than once/day per site or you'll hit the cap.
+# CF Pages free tier: 500 builds/month. At 1 push/day = 30 builds/month per site.
+# 8 sites x 30 = 240/month -- well within free tier.
 
 on:
   schedule:
-    # Phase 1: 2 articles/day at 9:17am UTC
-    # Odd minute avoids top-of-hour API congestion
     - cron: '17 9 * * *'
   workflow_dispatch:
     inputs:
       count:
-        description: 'Articles to publish. Phase 1=2, Phase 2=3, Phase 3=5. Max 5 to stay organic.'
+        description: 'Articles to publish (Phase 1=2, Phase 2=3, Phase 3=5)'
         required: false
         default: '2'
 
@@ -32,7 +29,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PIPELINE_TOKEN }}
           fetch-depth: 0
 
       - name: Setup Python
@@ -41,19 +38,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install anthropic requests
-
-      - name: Check API budget
-        run: |
-          python -c "
-          import os, sys
-          budget = float(os.environ.get('ANTHROPIC_MONTHLY_BUDGET', '150'))
-          print(f'Budget limit: \${budget}')
-          print('Budget check passed — proceeding.')
-          "
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MONTHLY_BUDGET: ${{ secrets.ANTHROPIC_MONTHLY_BUDGET }}
+        run: pip install anthropic requests PyNaCl
 
       - name: Publish articles
         run: |
@@ -61,41 +46,16 @@ jobs:
             --site ${{ vars.SITE_NAME }} \
             --count ${{ github.event.inputs.count || '2' }}
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.PIPELINE_TOKEN }}
-          GITHUB_ORG: ${{ vars.PORTFOLIO_ORG }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          FLUX_API_KEY: ${{ secrets.FLUX_API_KEY }}
-          NAMECHEAP_USERNAME: ${{ secrets.NAMECHEAP_USERNAME }}
-          NAMECHEAP_API_KEY: ${{ secrets.NAMECHEAP_API_KEY }}
+          ANTHROPIC_API_KEY:        ${{ secrets.ANTHROPIC_API_KEY }}
+          PIPELINE_TOKEN:           ${{ secrets.PIPELINE_TOKEN }}
+          GITHUB_TOKEN:             ${{ secrets.PIPELINE_TOKEN }}
+          PORTFOLIO_ORG:            ${{ vars.PORTFOLIO_ORG }}
+          GITHUB_ORG:               peacoat-sites
+          PEXELS_API_KEY:           ${{ secrets.PEXELS_API_KEY }}
+          FLUX_API_KEY:             ${{ secrets.FLUX_API_KEY }}
+          NAMECHEAP_USERNAME:       ${{ secrets.NAMECHEAP_USERNAME }}
+          NAMECHEAP_API_KEY:        ${{ secrets.NAMECHEAP_API_KEY }}
           ANTHROPIC_MONTHLY_BUDGET: ${{ secrets.ANTHROPIC_MONTHLY_BUDGET }}
-          GOOGLE_ACCESS_TOKEN: ${{ secrets.GOOGLE_ACCESS_TOKEN }}
-          SITES_CONFIG: ${{ secrets.SITES_CONFIG }}
-
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    needs: publish
-    # Only 1 build per workflow run — critical for staying under CF Pages 500/month free limit
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: 'latest'
-          extended: true
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: ${{ vars.CF_PROJECT_NAME }}
-          directory: public
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          GOOGLE_ACCESS_TOKEN:      ${{ secrets.GOOGLE_ACCESS_TOKEN }}
+          SITES_CONFIG:             ${{ secrets.SITES_CONFIG }}
+          AMAZON_TRACKING_ID:       ${{ secrets.AMAZON_TRACKING_ID }}
