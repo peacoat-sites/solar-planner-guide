@@ -1,0 +1,42 @@
+baseURL = "https://solarplannerguide.com/"
+languageCode = "en-us"
+title = "Solar Planner Guide"
+theme = ""
+paginate = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Plan your home solar installation with confidence - costs, tax credits, financing, and savings calculators explained clearly."
+  niche = "Residential Solar & Home Energy"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
+  image_query = "solar panels home rooftop energy"
+  author = "Solar Planner Guide Editorial Team"
+  logo_text = "Solar Planner Guide"
+  tagline = "Plan Smart. Power Your Home."
+  primary_color = "#2d6a4f"
+  cloudflare_analytics = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug/"

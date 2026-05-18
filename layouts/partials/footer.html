@@ -1,0 +1,22 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="footer-logo">{{ .Site.Params.logo_text }}</div>
+        <p>{{ .Site.Params.description }}</p>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Explore</div>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+      <p class="disclaimer">This site may earn affiliate commissions from links on this page.</p>
+    </div>
+  </div>
+</footer>

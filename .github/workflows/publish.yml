@@ -1,0 +1,88 @@
+name: Publish Articles + Deploy
+
+on:
+  schedule:
+    # Publish 3 articles daily at a randomized-ish time (9:17am UTC)
+    # Low count keeps publishing organic - Google rewards steady cadence over bursts
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Number of articles to publish (keep <= 5 for organic pacing)'
+        required: false
+        default: '3'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Check API budget
+        run: |
+          echo "Checking Anthropic API budget..."
+          python -c "
+          import requests, os, sys
+          key = os.environ['ANTHROPIC_API_KEY']
+          budget = float(os.environ.get('ANTHROPIC_MONTHLY_BUDGET', '150'))
+          print(f'Budget limit: \${budget}')
+          "
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MONTHLY_BUDGET: ${{ secrets.ANTHROPIC_MONTHLY_BUDGET }}
+
+      - name: Publish articles
+        run: |
+          python pipeline/publish.py \
+            --site ${{ vars.SITE_NAME }} \
+            --count ${{ github.event.inputs.count || '5' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.PIPELINE_TOKEN }}
+          GITHUB_ORG: ${{ vars.PORTFOLIO_ORG }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          FLUX_API_KEY: ${{ secrets.FLUX_API_KEY }}
+          NAMECHEAP_USERNAME: ${{ secrets.NAMECHEAP_USERNAME }}
+          NAMECHEAP_API_KEY: ${{ secrets.NAMECHEAP_API_KEY }}
+          ANTHROPIC_MONTHLY_BUDGET: ${{ secrets.ANTHROPIC_MONTHLY_BUDGET }}
+          GOOGLE_ACCESS_TOKEN: ${{ secrets.GOOGLE_ACCESS_TOKEN }}
+          SITES_CONFIG: ${{ secrets.SITES_CONFIG }}
+
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    needs: publish
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: ${{ vars.CF_PROJECT_NAME }}
+          directory: public
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
