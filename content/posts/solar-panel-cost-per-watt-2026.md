@@ -126,3 +126,15 @@ Getting the right price per watt in 2026 comes down to one thing more than any o
 
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, 30A PWM charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — the top-rated mid-range solar generator for home backup power. Charges in under 2 hours.
+- **[Anti-Anxiety Journal](https://www.amazon.com/dp/B095WS28JL/?tag=contentportfo-20)** (~$9) — Daily structured journal for tracking anxiety triggers, patterns, and progress — ideal between therapy sessions.
+- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10) — Daily check-in journal for depression — structured mood tracking and reflection prompts designed around therapeutic principles.
+
