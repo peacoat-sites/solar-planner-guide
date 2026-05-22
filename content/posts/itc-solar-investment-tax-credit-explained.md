@@ -3,7 +3,7 @@ title: "Itc Solar Investment Tax Credit Explained"
 date: 2026-05-21T12:29:54.079827+00:00
 draft: false
 description: "Learn how the ITC solar investment tax credit works, who qualifies, how much you can save, and how to claim it to reduce your federal tax bill."
-image: "https://images.pexels.com/photos/30440447/pexels-photo-30440447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5816298/pexels-photo-5816298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "investment", "credit", "explained"]
 author: "Amanda Park"
