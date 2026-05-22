@@ -3,7 +3,7 @@ title: "How Much Do Solar Panels Cost 2026"
 date: 2026-05-18T18:23:15.972868+00:00
 draft: false
 description: "Find out how much solar panels cost in 2026, including average prices, installation fees, and factors that affect your total investment to help you plan smarter"
-image: "https://images.pexels.com/photos/29206495/pexels-photo-29206495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5816283/pexels-photo-5816283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["much", "solar", "panels", "cost", "2026"]
 author: "Derek Walsh"
