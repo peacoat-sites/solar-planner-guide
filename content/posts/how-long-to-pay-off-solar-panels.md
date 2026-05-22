@@ -3,7 +3,7 @@ title: "How Long To Pay Off Solar Panels"
 date: 2026-05-18T21:12:10.195388+00:00
 draft: false
 description: "Discover how long it takes to pay off solar panels, what affects your payback period, and tips to maximize your savings and return on investment faster."
-image: "https://images.pexels.com/photos/29206495/pexels-photo-29206495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5598707/pexels-photo-5598707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["long", "solar", "panels"]
 author: "Chris Navarro"
