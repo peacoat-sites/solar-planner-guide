@@ -3,7 +3,7 @@ title: "Solar Panels Worth It Financially"
 date: 2026-05-18T18:33:07.074180+00:00
 draft: false
 description: "Find out if solar panels are worth the investment. We break down costs, savings, payback periods, and long-term financial benefits to help you decide."
-image: "https://images.pexels.com/photos/16427010/pexels-photo-16427010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/6285079/pexels-photo-6285079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "panels", "worth", "financially"]
 author: "Derek Walsh"
