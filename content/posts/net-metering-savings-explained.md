@@ -3,7 +3,7 @@ title: "Net Metering Savings Explained"
 date: 2026-05-18T21:19:27.335949+00:00
 draft: false
 description: "Learn how net metering works and how much money you can save on your electricity bill by sending unused solar energy back to the grid for credits."
-image: "https://images.pexels.com/photos/17762230/pexels-photo-17762230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5816299/pexels-photo-5816299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["metering", "savings", "explained"]
 author: "Derek Walsh"
