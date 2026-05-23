@@ -9,6 +9,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+author = "Stephen Brenish"
   description = "Plan your home solar installation with confidence - costs, tax credits, financing, and savings calculators explained clearly."
   niche = "Residential Solar & Home Energy"
   adsense_id = "ca-pub-3466203197759215"
