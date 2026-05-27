@@ -1,43 +1,40 @@
 ---
 title: "About Solar Planner Guide"
-description: "Learn about Solar Planner Guide — our mission, editorial standards, and the topics we cover."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "About Solar Planner Guide — meet Derek Sato and learn how we help homeowners evaluate solar energy."
 ---
 
-## Our Mission
+## About Solar Planner Guide
 
-Solar Planner Guide helps homeowners understand the real numbers behind going solar — payback periods, incentive stacking, installer vetting, and what questions to ask before signing anything. Our goal is an informed homeowner, not a rushed sale.
+Solar Planner Guide is an independent resource that helps homeowners evaluate solar energy realistically — understanding costs, incentives, installer contracts, and what going solar actually involves before committing to a system.
+
+## Meet the Editor
+
+**Derek Sato** is the editor behind Solar Planner Guide.
+
+Derek is a renewable energy researcher who tracks solar technology, installation market pricing, utility net metering policies, and federal and state incentive programs. He started Solar Planner Guide after noticing how much misinformation circulated around solar — inflated savings claims, misleading payback estimates, and contracts with terms homeowners didn’t understand until after signing.
+
+His goal is to give homeowners an accurate, complete picture so they can evaluate installer proposals with confidence.
 
 ## What We Cover
 
-Solar Planner Guide publishes in-depth, reader-first guides on home solar panel systems, installation costs, federal and state tax incentives, payback periods, net metering, battery storage, and choosing a solar installer.
+Solar Planner Guide covers residential solar from every angle — system sizing, panel types and efficiency, installation costs by state, the federal tax credit (ITC), state incentive programs, net metering policies, financing options (cash, loan, lease, PPA), installer vetting, and realistic payback timelines.
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Our Approach
 
-## Editorial Standards
+We don’t partner with installers. We don’t earn referral fees when you get quotes. Our job is to explain how this industry works so you can make a better decision for your home.
 
-We follow a straightforward editorial process:
+All cost data and incentive information is sourced from NREL, SEIA, DSIRE, and published installer market data — updated regularly as prices and programs change.
 
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+## Disclaimer
 
-## Important Disclaimer
+Solar Planner Guide provides general informational content. Derek Sato is a researcher — not a licensed electrical contractor or solar installer. System costs, savings, and incentive eligibility vary significantly by location and home. Always obtain multiple quotes from licensed installers and verify incentive programs with your utility before making a purchase decision.
 
-<div class="disclaimer-box">
+## Affiliate Disclosure
 
-The content on this site is for **general educational purposes only** and does not constitute professional installation, electrical, or financial advice. Solar system costs, incentives, and regulations vary by location and change frequently. Always consult a **licensed solar installer and a qualified financial advisor** before making any solar energy investment.
-
-</div>
-
-## About This Site
-
-Solar Planner Guide is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
+Some links on this site are Amazon affiliate links for solar monitoring equipment and related products. Purchases may earn us a small commission at no extra cost to you.
 
 ## Contact
 
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@solarplannerguide.com](mailto:hello@solarplannerguide.com)
+Questions or corrections? [Contact us here](/contact/).
