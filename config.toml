@@ -2,6 +2,7 @@ baseURL = "https://solarplannerguide.com/"
 enableGitInfo = true
 languageCode = "en-us"
 title = "Solar Planner Guide"
+
 enableRobotsTXT = true
 enableEmoji = true
 
@@ -9,7 +10,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
-  page_bg = "#f5fdf8"
+  page_bg = "#f0faff"
   nav_style = "light"
   description = "Plan your home solar installation with confidence - costs, tax credits, financing, and savings calculators explained clearly."
   niche = "Residential Solar & Home Energy"
@@ -38,7 +39,7 @@ enableEmoji = true
 
 logo_text_1 = "Solar"
 logo_text_2 = "Planner Guide"
-primary_color = "#15803d"
+primary_color = "#0891b2"
 hero_color_1 = "#0a0900"
 hero_color_2 = "#151200"
 hero_color_3 = "#facc15"
