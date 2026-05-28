@@ -35,7 +35,7 @@ enableEmoji = true
   impact_tracking_id  = ""
   persona_name       = "Derek Sato"
   persona_title      = "Solar Energy Research Editor"
-  persona_bio        = "Derek is a renewable energy researcher who covers solar panel technology, installation costs, utility incentives, and home energy systems. He helps homeowners understand what going solar actually costs and involves — so they can evaluate quotes intelligently and avoid common mistakes."
+  persona_bio        = "Derek is a renewable energy researcher who covers solar panel technology, installation costs, utility incentives, and home energy systems. He helps homeowners understand what going solar actually costs and involves ,  so they can evaluate quotes intelligently and avoid common mistakes."
   persona_initials   = "DS"
   disclaimer         = "This site is for general informational purposes only. Solar system costs, incentives, net metering policies, and payback periods vary significantly by location, utility, and home characteristics. Always obtain multiple quotes from licensed installers and verify incentive eligibility with your utility."
 

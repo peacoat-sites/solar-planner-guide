@@ -19,7 +19,7 @@ enableEmoji = true
   tagline = "SITE_TAGLINE"
   primary_color = "SITE_COLOR"
   cloudflare_analytics = "CF_ANALYTICS_TOKEN"
-  # Authority theme — hero gradient
+  # Authority theme ,  hero gradient
   hero_color_1 = "#052e16"
   hero_color_2 = "#14532d"
   hero_color_3 = "#15803d"
@@ -28,7 +28,7 @@ enableEmoji = true
   research_hours = 320
   satisfaction = 97
   trust_extra = "Certified solar advisors"
-  # Impact affiliate (pet-doctor-guide only — others leave blank)
+  # Impact affiliate (pet-doctor-guide only ,  others leave blank)
   impact_verification = ""
   impact_tracking_id  = ""
 
