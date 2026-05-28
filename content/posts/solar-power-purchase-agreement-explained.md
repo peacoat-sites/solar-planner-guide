@@ -3,7 +3,7 @@ title: "Solar Power Purchase Agreement Explained"
 date: 2026-05-26T12:26:15.320285+00:00
 draft: false
 description: "Solar power purchase agreements explained: Learn how PPAs work, key terms, benefits, and what to consider before signing. Complete guide for homeowners."
-image: "https://pixabay.com/get/g7f2daf67fbab1acf27fb4089f23eb50962886dd24c705e9883e26edcca3399a0e1d06edff65b9253a0cf1797808683bc04c0ee1d99729c20e75059f65c99e48c_1280.jpg"
+image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Solar Financing"]
 tags: ["solar", "power", "purchase", "agreement", "explained"]
 author: "Chris Navarro"
