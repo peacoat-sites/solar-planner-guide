@@ -2,12 +2,15 @@ baseURL = "https://solarplannerguide.com/"
 enableGitInfo = true
 languageCode = "en-us"
 title = "Solar Planner Guide"
-[pagination]
-  pagerSize = 12
 enableRobotsTXT = true
 enableEmoji = true
 
+[pagination]
+  pagerSize = 12
+
 [params]
+  page_bg = "#f5fdf8"
+  nav_style = "light"
   description = "Plan your home solar installation with confidence - costs, tax credits, financing, and savings calculators explained clearly."
   niche = "Residential Solar & Home Energy"
   adsense_id = "ca-pub-3466203197759215"
