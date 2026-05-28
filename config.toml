@@ -39,6 +39,13 @@ enableEmoji = true
   persona_initials   = "DS"
   disclaimer         = "This site is for general informational purposes only. Solar system costs, incentives, net metering policies, and payback periods vary significantly by location, utility, and home characteristics. Always obtain multiple quotes from licensed installers and verify incentive eligibility with your utility."
 
+logo_text_1 = "Solar"
+logo_text_2 = "Planner Guide"
+primary_color = "#facc15"
+hero_color_1 = "#0a0900"
+hero_color_2 = "#151200"
+hero_color_3 = "#facc15"
+hero_color_4 = "#060500"
 [taxonomies]
   category = "categories"
   tag = "tags"
