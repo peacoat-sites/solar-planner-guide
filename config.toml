@@ -19,14 +19,9 @@ enableEmoji = true
   author = "Solar Planner Guide Editorial Team"
   logo_text = "Solar Planner Guide"
   tagline = "Plan Smart. Power Your Home."
-  primary_color = "#2d6a4f"
   cloudflare_analytics = ""
 
   # Authority theme
-  hero_color_1 = "#052e16"
-  hero_color_2 = "#14532d"
-  hero_color_3 = "#15803d"
-  hero_color_4 = "#0f172a"
   monthly_readers = 38000
   research_hours  = 320
   satisfaction    = 97
