@@ -3,7 +3,7 @@ title: "Solar Incentives Florida 2026"
 date: 2026-05-24T10:54:31.161767+00:00
 draft: false
 description: "Discover Florida's solar incentives for 2026, including tax credits, rebates, and financing options to reduce your installation costs and go solar affordably."
-image: "https://pixabay.com/get/g02e3ef4eb47dccb61bd75e67bc436bb94c1ff57f8b71ec0490b8c56dd86f0ee5a9abaecbe7066904c4fd056b38d17f265254cab18563bf1eceee6471b85d69ec_1280.jpg"
+image: "https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "Florida", "2026"]
 author: "Derek Walsh"
