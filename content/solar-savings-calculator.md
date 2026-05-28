@@ -1,5 +1,5 @@
 ---
-title: "Solar Savings Calculator 2026 — Estimate Your Savings"
+title: "Solar Savings Calculator 2026 ,  Estimate Your Savings"
 description: "Use our free solar savings calculator to estimate your system cost, federal tax credit, and 25-year savings based on your electricity bill."
 date: 2026-05-21
 layout: "page"
