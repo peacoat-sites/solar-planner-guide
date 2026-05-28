@@ -15,6 +15,7 @@ title = "Solar Planner Guide"
 
 disableHugoGeneratorInject = true
 
+
 enableRobotsTXT = true
 enableEmoji = true
 
