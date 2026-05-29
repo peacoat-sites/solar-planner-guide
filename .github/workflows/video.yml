@@ -1,12 +1,13 @@
 name: Publish YouTube Videos
 
 # Publishes one YouTube Short (9:16) + one Standard video (16:9) per run.
-# Schedule: Mon / Wed / Fri at 11:00 UTC (after articles go live at 09:17 UTC)
+# Schedule: Wednesday at 12:00 UTC
 # Each site repo has ELEVENLABS_VOICE_ID and YOUTUBE_CHANNEL_ID set as GitHub variables.
 
 on:
   schedule:
-    - cron: '0 11 * * 1,3,5'
+    # Wednesday at 12:00 UTC
+    - cron: '0 12 * * 3'
   workflow_dispatch:
     inputs:
       dry_run:
