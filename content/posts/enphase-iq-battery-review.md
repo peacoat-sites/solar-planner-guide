@@ -3,7 +3,7 @@ title: "Enphase Iq Battery Review"
 date: 2026-05-29T21:46:35.526123+00:00
 draft: false
 description: "Discover our in-depth Enphase IQ battery review covering performance, costs, compatibility, and whether this home energy storage system is worth the investment."
-image: ""
+image: "https://images.pexels.com/photos/698485/pexels-photo-698485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Battery Storage"]
 tags: ["Enphase", "battery", "review"]
 author: "Dana Hargrove"

@@ -3,7 +3,7 @@ title: "How To Choose A Solar Installer"
 date: 2026-05-29T22:00:12.432799+00:00
 draft: false
 description: "Find the best solar installer for your home with our expert tips. Learn what to look for, questions to ask, and how to compare quotes with confidence."
-image: ""
+image: "https://images.pexels.com/photos/9875418/pexels-photo-9875418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["choose", "solar", "installer"]
 author: "Claire Novak"
