@@ -1,6 +1,6 @@
 ---
 title: "Home Battery Storage Options Compared"
-date: 2026-05-29T21:44:32.449248+00:00
+date: 2026-05-24T20:48:55.022910+00:00
 draft: false
 description: "Explore and compare the best home battery storage options available today. Find the right system for your energy needs and start saving on electricity bills."
 image: "https://images.pexels.com/photos/37177070/pexels-photo-37177070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Solar Power Purchase Agreement Explained"
-date: 2026-05-26T12:26:15.320285+00:00
+date: 2026-05-22T21:51:22.997125+00:00
 draft: false
 description: "Solar power purchase agreements explained: Learn how PPAs work, key terms, benefits, and what to consider before signing. Complete guide for homeowners."
 image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

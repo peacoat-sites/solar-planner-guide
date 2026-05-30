@@ -1,6 +1,6 @@
 ---
 title: "Solar Loan Vs Solar Lease Vs Ppa"
-date: 2026-05-18T14:30:29.780089+00:00
+date: 2026-05-21T16:35:51.942193+00:00
 draft: false
 description: "Compare solar loan, lease, and PPA options to find the best way to finance your solar panels. Learn costs, ownership benefits, and long-term savings for each ch"
 image: https://images.pexels.com/photos/5934192/pexels-photo-5934192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

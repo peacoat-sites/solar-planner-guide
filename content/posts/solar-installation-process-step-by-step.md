@@ -1,6 +1,6 @@
 ---
 title: "Solar Installation Process Step By Step"
-date: 2026-05-29T21:58:04.604245+00:00
+date: 2026-05-22T12:37:34.017564+00:00
 draft: false
 description: "Learn how solar panels are installed with our step-by-step guide. From site assessment to final inspection, discover what to expect during your solar installati"
 image: "https://images.pexels.com/photos/8853500/pexels-photo-8853500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

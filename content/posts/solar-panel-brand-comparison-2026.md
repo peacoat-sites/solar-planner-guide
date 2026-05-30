@@ -1,6 +1,6 @@
 ---
 title: "Solar Panel Brand Comparison 2026"
-date: 2026-05-29T12:32:38.990779+00:00
+date: 2026-05-21T05:18:00.369315+00:00
 draft: false
 description: "Compare top solar panel brands in 2026 by efficiency, cost, warranty, and durability. Find the best option for your home or business and maximize your solar inv"
 image: "https://images.pexels.com/photos/8457866/pexels-photo-8457866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

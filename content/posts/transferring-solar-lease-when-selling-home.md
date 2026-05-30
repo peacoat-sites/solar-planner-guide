@@ -1,6 +1,6 @@
 ---
 title: "Transferring Solar Lease When Selling Home"
-date: 2026-05-28T22:20:58.286545+00:00
+date: 2026-05-23T14:41:34.999309+00:00
 draft: false
 description: "Learn how to transfer a solar lease when selling your home. Understand your options, buyer requirements, and steps to ensure a smooth, successful property sale."
 image: "https://images.pexels.com/photos/6233727/pexels-photo-6233727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

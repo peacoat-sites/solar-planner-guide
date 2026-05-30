@@ -1,6 +1,6 @@
 ---
 title: "Hoa Solar Panel Rules"
-date: 2026-05-29T22:02:28.870810+00:00
+date: 2026-05-26T18:41:51.063679+00:00
 draft: false
 description: "Learn how HOA solar panel rules work, what restrictions are allowed, and how to get approval for your installation while protecting your property rights."
 image: "https://images.pexels.com/photos/35105464/pexels-photo-35105464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

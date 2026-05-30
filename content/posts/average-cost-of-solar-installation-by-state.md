@@ -1,6 +1,6 @@
 ---
 title: "Average Cost Of Solar Installation By State"
-date: 2026-05-18T18:30:06.361668+00:00
+date: 2026-05-26T05:30:20.993879+00:00
 draft: false
 description: "Discover the average cost of solar installation by state. Compare prices, incentives, and savings to find out what you'll pay for solar panels in your area."
 image: https://images.pexels.com/photos/5583982/pexels-photo-5583982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

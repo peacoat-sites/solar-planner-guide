@@ -1,6 +1,6 @@
 ---
 title: "Solar Cost Vs Electricity Bill Savings"
-date: 2026-05-18T21:21:26.028396+00:00
+date: 2026-05-22T05:02:18.921653+00:00
 draft: false
 description: "Save money by going solar. Compare upfront solar installation costs against long-term electricity bill savings to find out if solar panels are worth the investm"
 image: https://images.pexels.com/photos/5833878/pexels-photo-5833878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

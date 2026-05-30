@@ -1,6 +1,6 @@
 ---
 title: "Solar Lease Vs Buy Cost Comparison"
-date: 2026-05-18T14:28:36.821432+00:00
+date: 2026-05-18T20:58:25.777526+00:00
 draft: false
 description: "Compare solar lease vs buy costs, savings, and long-term value. Discover which option fits your budget and helps you maximize energy savings and ROI."
 image: https://images.pexels.com/photos/5853819/pexels-photo-5853819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

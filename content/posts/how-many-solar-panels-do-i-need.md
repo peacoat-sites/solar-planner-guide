@@ -1,6 +1,6 @@
 ---
 title: "How Many Solar Panels Do I Need"
-date: 2026-05-20T00:34:53.770200+00:00
+date: 2026-05-27T07:37:14.702246+00:00
 draft: false
 description: "Find out exactly how many solar panels your home needs. We break down the key factors like energy usage, panel wattage, and sunlight hours to help you plan."
 image: https://images.pexels.com/photos/5715854/pexels-photo-5715854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

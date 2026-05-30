@@ -1,6 +1,6 @@
 ---
 title: "Best Home Battery 2026"
-date: 2026-05-29T21:53:32.066849+00:00
+date: 2026-05-21T05:40:01.516728+00:00
 draft: false
 description: "Discover the best home batteries of 2026 for reliable backup power and energy savings. Compare top-rated systems by capacity, cost, and performance to find your"
 image: "https://images.pexels.com/photos/3639037/pexels-photo-3639037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
