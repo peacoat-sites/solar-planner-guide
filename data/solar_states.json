@@ -1,7 +1,104 @@
 {
   "title": "Solar Production Potential by State",
-  "system": "6 kW residential rooftop",
+  "system": "6 kW residential rooftop (80% performance ratio)",
   "rate_assumption": 0.17,
-  "source": "NREL PVWatts v8",
-  "states": []
+  "source": "NASA POWER (power.larc.nasa.gov)",
+  "states": [
+    {
+      "state": "Arizona",
+      "sun_hours": 5.8,
+      "annual_kwh": 10245,
+      "est_savings": 1742
+    },
+    {
+      "state": "California",
+      "sun_hours": 5.6,
+      "annual_kwh": 9891,
+      "est_savings": 1681
+    },
+    {
+      "state": "Nevada",
+      "sun_hours": 5.6,
+      "annual_kwh": 9830,
+      "est_savings": 1671
+    },
+    {
+      "state": "New Mexico",
+      "sun_hours": 5.5,
+      "annual_kwh": 9684,
+      "est_savings": 1646
+    },
+    {
+      "state": "Florida",
+      "sun_hours": 5.0,
+      "annual_kwh": 8780,
+      "est_savings": 1493
+    },
+    {
+      "state": "Colorado",
+      "sun_hours": 4.9,
+      "annual_kwh": 8498,
+      "est_savings": 1445
+    },
+    {
+      "state": "Texas",
+      "sun_hours": 4.8,
+      "annual_kwh": 8431,
+      "est_savings": 1433
+    },
+    {
+      "state": "Georgia",
+      "sun_hours": 4.5,
+      "annual_kwh": 7907,
+      "est_savings": 1344
+    },
+    {
+      "state": "North Carolina",
+      "sun_hours": 4.5,
+      "annual_kwh": 7836,
+      "est_savings": 1332
+    },
+    {
+      "state": "Ohio",
+      "sun_hours": 3.9,
+      "annual_kwh": 6875,
+      "est_savings": 1169
+    },
+    {
+      "state": "New York",
+      "sun_hours": 3.9,
+      "annual_kwh": 6869,
+      "est_savings": 1168
+    },
+    {
+      "state": "Illinois",
+      "sun_hours": 3.8,
+      "annual_kwh": 6735,
+      "est_savings": 1145
+    },
+    {
+      "state": "Massachusetts",
+      "sun_hours": 3.8,
+      "annual_kwh": 6681,
+      "est_savings": 1136
+    },
+    {
+      "state": "Michigan",
+      "sun_hours": 3.8,
+      "annual_kwh": 6641,
+      "est_savings": 1129
+    },
+    {
+      "state": "Oregon",
+      "sun_hours": 3.7,
+      "annual_kwh": 6427,
+      "est_savings": 1093
+    },
+    {
+      "state": "Washington",
+      "sun_hours": 3.4,
+      "annual_kwh": 5988,
+      "est_savings": 1018
+    }
+  ]
 }
