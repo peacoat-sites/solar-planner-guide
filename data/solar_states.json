@@ -1,0 +1,7 @@
+{
+  "title": "Solar Production Potential by State",
+  "system": "6 kW residential rooftop",
+  "rate_assumption": 0.17,
+  "source": "NREL PVWatts v8",
+  "states": []
+}
