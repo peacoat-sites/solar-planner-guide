@@ -1,0 +1,149 @@
+{
+  "title": "Is Solar Right for Your Home?",
+  "intro": "Answer 7 quick questions to see how well home solar fits your roof, habits, and goals. This is for general education and fun, not a financial quote or guarantee of savings.",
+  "disclaimer": "This quiz is for general education and fun only. It is not financial advice or a savings guarantee. Actual costs and savings vary widely by home, location, utility, and equipment. Always get written quotes from licensed installers before deciding.",
+  "questions": [
+    {
+      "q": "How would you describe the sunlight your roof gets during the day?",
+      "options": [
+        {
+          "t": "Mostly open sky, lots of direct sun",
+          "s": 3
+        },
+        {
+          "t": "Some sun, but trees or buildings shade part of it",
+          "s": 1
+        },
+        {
+          "t": "Heavily shaded most of the day",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about your latest electricity bills?",
+      "options": [
+        {
+          "t": "They're high and climbing, and it bugs me",
+          "s": 3
+        },
+        {
+          "t": "Moderate, I notice them but they're okay",
+          "s": 1
+        },
+        {
+          "t": "Very low, electricity is barely a cost for me",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How long do you expect to stay in your current home?",
+      "options": [
+        {
+          "t": "Many years, this is home for the foreseeable future",
+          "s": 3
+        },
+        {
+          "t": "A few years, then maybe a move",
+          "s": 1
+        },
+        {
+          "t": "I'll likely move within a year or two",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What's your take on the condition of your roof?",
+      "options": [
+        {
+          "t": "Newer or solid, no replacement needed soon",
+          "s": 3
+        },
+        {
+          "t": "Decent, but it might need work in a few years",
+          "s": 1
+        },
+        {
+          "t": "Old or due for replacement very soon",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about making a larger upfront or financed investment that pays back over time?",
+      "options": [
+        {
+          "t": "Comfortable, I like long-term payback projects",
+          "s": 3
+        },
+        {
+          "t": "Open to it if the math looks reasonable",
+          "s": 1
+        },
+        {
+          "t": "I'd rather avoid big or financed home projects",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How interested are you in energy independence and lowering your carbon footprint?",
+      "options": [
+        {
+          "t": "Very, it's a real motivator for me",
+          "s": 3
+        },
+        {
+          "t": "Somewhat, it's a nice bonus",
+          "s": 1
+        },
+        {
+          "t": "Not really, I'm only here for the dollars",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How ready are you to research options and gather a few installer quotes?",
+      "options": [
+        {
+          "t": "Ready now, I like to compare before deciding",
+          "s": 3
+        },
+        {
+          "t": "Willing, but I'd want some guidance first",
+          "s": 1
+        },
+        {
+          "t": "Not yet, I'm just casually curious",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "Solar might not be your easiest fit right now",
+      "body": "Based on your answers, a few things, like shading, roof age, a short time horizon, or low energy use, could make solar harder to justify today. That doesn't mean never; it just means the timing or setup isn't ideal yet. Start small by learning the basics and revisiting after any roof work or a longer-stay decision.",
+      "cta": "Read solar basics for beginners"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "Solar could work well for you, with a plan",
+      "body": "You have several traits that point toward a good solar fit, along with a couple of things worth checking, like roof timing, shading, or your comfort with the investment. With a little homework and a couple of real quotes, you could land on a setup that makes sense. A good next step is seeing how production varies by location.",
+      "cta": "Compare solar output by state"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You're a strong solar candidate",
+      "body": "Your roof, energy habits, and goals line up nicely for home solar. You've got sun, motivation, a reasonable time horizon, and readiness to compare options, which is exactly the profile installers love to work with. Dig into the planning details and start lining up quotes to see your real numbers.",
+      "cta": "Explore our solar planning guides"
+    }
+  ]
+}
