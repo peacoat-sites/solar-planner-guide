@@ -3,7 +3,7 @@ title: "Do Solar Panels Work In Winter"
 date: 2026-06-01T15:35:00.771615+00:00
 draft: false
 description: "Discover how solar panels perform in winter months. Learn how cold temperatures, snow, and shorter days affect energy output and why solar still works year-roun"
-image: ""
+image: "https://images.pexels.com/photos/29206499/pexels-photo-29206499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Performance"]
 tags: ["solar", "panels", "work", "winter"]
 author: "Alex Reeves"

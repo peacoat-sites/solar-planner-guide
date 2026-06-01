@@ -3,7 +3,7 @@ title: "Solar Incentives California 2026"
 date: 2026-05-19T06:52:56.564818+00:00
 draft: false
 description: "Discover California's top solar incentives and rebates available in 2026. Learn about tax credits, financing options, and programs to reduce your installation c"
-image: "https://images.pexels.com/photos/159397/pexels-photo-159397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/9875438/pexels-photo-9875438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "California", "2026"]
 author: "Priya Mehta"
