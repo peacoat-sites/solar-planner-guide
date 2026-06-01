@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Is Solar Right for Your Home? Take the 7-Question Fit Quiz"
 description: "Wondering if home solar makes sense for you? Take our quick 7-question quiz to gauge how well solar fits your roof, habits, and goals. Estimates only, not quotes."
 slug: "is-solar-right-for-your-home"
