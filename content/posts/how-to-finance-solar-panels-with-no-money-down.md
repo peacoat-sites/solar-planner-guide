@@ -10,6 +10,17 @@ author: "Derek Walsh"
 author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "how-to-finance-solar-panels-with-no-money-down"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I finance solar panels with bad credit?"
+    a: "Yes, though your options narrow. PACE financing uses home equity rather than credit score. Some solar companies offer leases with minimal credit requirements. A co-signer can help you qualify for a solar loan. If your credit is below 650, you'll likely pay a higher interest rate or need to lean toward lease/PPA options."
+  - q: "Will a solar loan affect my debt-to-income ratio?"
+    a: "An unsecured solar loan will show up on your credit report as installment debt, which can affect your DTI. If you're planning to apply for a mortgage or refinance in the next 6 to 12 months, think carefully about timing. Some homeowners choose to close their mortgage first, then finance solar."
+  - q: "How do I know how many panels I actually need before financing?"
+    a: "You need to size the system correctly before you can accurately evaluate any financing offer. A system that's too small won't offset your bill; one that's too large wastes money. This guide on how many solar panels do I need walks through the calculation based on your energy usage."
+  - q: "What happens to my loan if I sell my house?"
+    a: "With a personal solar loan, you can typically pay it off from your home sale proceeds, just like any other debt. Owned solar systems generally increase home resale value, so the sale price often covers the remaining balance. PACE loans, by contrast, may transfer to the buyer or require payoff at closing depending on your state."
+  - q: "Is the 30% federal tax credit still available in 2026?"
+    a: "As of 2026, the 30% Investment Tax Credit is still in effect. It was extended and expanded under the Inflation Reduction Act through 2032 before stepping down. That said, policy can change, and there are ongoing legislative discussions. The federal solar tax credit expiration page tracks the current status and timeline."
 ---
 
 Imagine you're spending $180 a month on electricity, your utility just announced another rate hike, and your neighbor's solar panels are clearly cutting their bill to almost nothing. You want in. But when you get your first quote, the installer tells you a system will run $25,000 before incentives. You don't have $25,000 sitting in a savings account. Most people don't. Here's what the solar industry doesn't always lead with: you don't need a single dollar upfront to go solar. There are at least four legitimate financing paths that let you start saving on day one, and each one works very differently.

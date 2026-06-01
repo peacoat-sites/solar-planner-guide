@@ -10,6 +10,17 @@ author: "Chris Navarro"
 author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "solar-power-purchase-agreement-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I cancel a solar PPA early?"
+    a: "Early termination is allowed under most contracts, but it comes with a cost. The typical penalty is calculated as the net present value of remaining payments, meaning you're essentially paying off the whole contract at a discount. Some contracts also charge flat early termination fees. Read Section on 'Default and Termination' in your contract carefully before signing."
+  - q: "Does a PPA affect my homeowner's insurance?"
+    a: "It can. Some insurers require you to notify them when a third-party-owned system is installed on your roof, since it introduces additional equipment and liability. You may also need to verify whether the solar company carries their own insurance on the equipment. Ask both your insurance agent and the PPA provider before installation."
+  - q: "Who is responsible if the panels are damaged in a storm?"
+    a: "Because the solar company owns the equipment, they're generally responsible for repairing or replacing storm-damaged panels. That's one legitimate advantage of a PPA. Just make sure the contract spells this out clearly, including their timeline for repairs, since some homeowners have waited weeks for fixes while paying the monthly PPA rate for reduced production."
+  - q: "Will a PPA increase my property taxes?"
+    a: "In most states, solar installations are exempt from added property tax assessments. But since you don't own the system under a PPA, you likely wouldn't have to worry about this anyway. The panels are technically personal property of the solar company, not a fixture of your home, though state tax laws vary and it's worth a quick check with your local assessor."
+  - q: "How does net metering work with a PPA?"
+    a: "This depends on your utility and your contract. Some PPA agreements pass net metering credits back to you at the same rate you're paying per kWh. Others keep the credits and simply reduce your monthly invoice. Know which arrangement you have, because the value of net metering can be significant. Policies also vary widely by state, and understanding the rules where you live matters before signing anything. Our guide to net metering savings lays this out in detail."
 ---
 
 Imagine a solar installer knocks on your door and says: "We'll put solar panels on your roof for free." No upfront cost, no loan, no hassle. That pitch sounds almost too good to be true, and in some ways, it is. What they're actually offering is a Power Purchase Agreement, or PPA. Millions of American homeowners have signed one. Some are thrilled. Others feel stuck. Understanding exactly what you're agreeing to before you sign is the difference between a smart energy decision and a 20-year financial headache.

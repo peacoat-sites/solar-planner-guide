@@ -10,6 +10,17 @@ author: "Derek Walsh"
 author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "solar-panels-worth-it-financially"
 affiliate_disclosure: true
+faqs:
+  - q: "How long do solar panels actually last?"
+    a: "Most solar panels come with a 25-year performance warranty guaranteeing at least 80% of their rated output. In practice, many systems keep producing well into their 30s. NREL research on panel degradation shows an average annual output decline of about 0.5% per year, meaning a panel that produces 400 watts today will produce roughly 380 watts in 10 years. That's slow enough that it rarely meaningfully impacts financial projections."
+  - q: "Does solar increase my home's value?"
+    a: "Generally, yes. Studies suggest owned solar adds roughly $4 to $5 per watt of installed capacity to a home's market value. A 6 kW system could add $24,000 to $30,000 in home value, though this varies by market. The effect is strongest in high-electricity-cost states where buyers immediately see the utility bill benefit. Leased systems don't add the same value and can actually complicate a sale if a buyer doesn't want to assume the lease."
+  - q: "What happens to my solar savings if my electricity rate drops?"
+    a: "It's unlikely over the long run but possible. If a major utility rate decrease happened, your savings would shrink proportionally. This is a real risk in deregulated energy markets or regions where cheap natural gas dominates. Most financial models assume relatively flat or modestly rising rates. If your utility is historically volatile, that's a variable worth discussing with your installer."
+  - q: "Is it better to buy solar with cash or a loan?"
+    a: "Cash purchases almost always yield the highest total return because you avoid interest costs entirely. If financing is your only option, look for a secured solar loan through a credit union or the federal Green Energy loan programs rather than a dealer-arranged loan, which often carries a 'dealer fee' buried in the system price that can inflate your true cost by 15 to 30%. Always compare the all-in cost of a cash purchase versus a financed one before deciding."
+  - q: "Can I go solar if I have an HOA?"
+    a: "Probably yes. Most states have 'solar access laws' that prevent HOAs from prohibiting solar installations, though they may regulate placement or aesthetics. Check your state's specific law before assuming your HOA can block you. California, Florida, Texas, and most other high-solar states have strong protections for homeowners."
 ---
 
 The average American homeowner installing solar in 2024 pays around $30,000 before incentives, or roughly $18,000 after the 30% federal tax credit. That's a serious chunk of money. And yet installers will hand you a glossy brochure showing you "saving $50,000 over 25 years" without telling you that the math behind that number is built on assumptions that may not apply to your house, your utility, or your financial situation. I've seen clients sign contracts based on projections that fell apart within two years. I've also seen clients who absolutely knocked it out of the park. The difference wasn't luck. It was knowing which questions to ask upfront.

@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "solar-ppa-pros-and-cons"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I get out of a solar PPA if I change my mind?"
+    a: "Cancellation is possible but expensive. Most contracts have early termination fees, often calculated as the present value of remaining payments, which can run into the thousands of dollars. Some contracts allow cancellation without penalty within a specific window (sometimes 30-90 days) after signing. Read the termination clause before you sign anything, and ask specifically what it costs to exit in year 3, year 7, and year 12."
+  - q: "Does a solar PPA affect my homeowner's insurance?"
+    a: "It can. You'll want to notify your insurance company that a third-party-owned system is installed on your roof. Some insurers require a rider or documentation. The PPA company typically carries their own equipment coverage for the panels and inverters, but your home's structure is still your responsibility. Confirm in writing who is liable if a panel causes roof damage."
+  - q: "Will a solar PPA increase my home's value?"
+    a: "Probably not, and possibly the opposite in the short term. Studies, including research cited by Lawrence Berkeley National Laboratory, show that owned solar systems increase home resale value. Leased and PPA systems don't show the same effect and can actually complicate appraisals or deter buyers who don't want to assume the contract."
+  - q: "What happens at the end of the PPA contract?"
+    a: "Typically you'll have a few options: renew the agreement for another term, purchase the system at fair market value, or have the company remove the equipment. The removal option sounds clean, but the company isn't always incentivized to move quickly, and you're left with patch work on your roof. Get the end-of-term provisions spelled out clearly before signing."
+  - q: "Is the electricity from a PPA actually greener?"
+    a: "The panels produce the same clean energy regardless of who owns them. Where it gets nuanced is with renewable energy certificates, or RECs. In some contracts, the PPA company retains the RECs associated with your system's production, which means technically they can claim the environmental attributes, not you. If the 'green' aspect matters to you, ask specifically whether the RECs are assigned to you or retained by the company."
 ---
 
 You got a knock on the door, or maybe an email, from a solar company offering to put panels on your roof for free. No upfront cost, no equipment to buy, just sign here and start saving. It sounds almost too good to be true, which is exactly why you're here researching it before you commit. Good instinct. A solar Power Purchase Agreement, or PPA, is one of the most misunderstood financial products in residential energy, and the people selling them aren't always going to walk you through the parts that could complicate your life five years from now.

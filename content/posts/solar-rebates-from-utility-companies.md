@@ -10,6 +10,17 @@ author: "Amanda Park"
 author_bio: "Home energy analyst and solar consultant. Specializes in helping homeowners evaluate solar ROI."
 slug: "solar-rebates-from-utility-companies"
 affiliate_disclosure: true
+faqs:
+  - q: "Are utility solar rebates taxable income?"
+    a: "Generally, yes, rebates from utilities are considered taxable income by the IRS and should be reported on your federal return. However, the rules can vary based on how the rebate is structured. Some rebates reduce the cost basis of the system rather than functioning as income. Talk to a tax professional who understands residential energy credits before assuming either way."
+  - q: "Can I get a utility rebate if I lease my solar panels?"
+    a: "Usually not. Most utility rebate programs require that the homeowner own the solar system outright or through a loan. If you're leasing, the third-party system owner typically claims the rebate and may pass some of the savings to you through lower lease rates, but you won't see the rebate directly. This is one of several financial reasons to consider buying versus leasing. The solar lease vs. buy cost comparison breaks down the full trade-off."
+  - q: "Do utility rebates affect my federal solar tax credit?"
+    a: "They can, depending on the program. Some utility rebates reduce the cost basis you use to calculate the 30% federal ITC. Others don't. You need to read the specific program documentation or ask your installer and a tax advisor. The federal solar tax credit for 2026 covers the ITC rules in detail if you want to understand the full picture before doing the math."
+  - q: "How do I know if my utility offers a solar rebate?"
+    a: "Start with your utility's official website and look for sections labeled 'solar,' 'renewable energy,' or 'energy efficiency programs.' Also check dsireusa.org, which is the most comprehensive national database of utility and state incentives. EnergySage's marketplace also shows available incentives when you enter your address. If you can't find clear information online, call your utility directly and ask about solar interconnection incentives and any current rebate programs."
+  - q: "What happens if the rebate program runs out of funding before my installation is complete?"
+    a: "This is a real risk. Many programs operate on a first-come, first-served basis with an annual funding cap. If you've submitted a pre-approval application and received a reservation, you're usually protected even if the program runs out of funding after your submission. If you haven't applied yet and the cap is reached, you may be waitlisted for the next funding cycle. This is another reason to apply early and before installation begins, not after."
 ---
 
 Imagine you've just gotten a solar quote for $28,000. The installer mentions the federal tax credit, you do the math, and you feel pretty good about the $8,400 you'll save through that alone. But then a neighbor mentions she got an extra $1,500 back from the electric company itself. Nobody told you about that. You go back to your installer and ask. "Oh yeah," they say, "there's a utility rebate for that too." That kind of money sitting on the table, unmentioned, happens more often than it should. Utility solar rebates are one of the least-publicized ways to reduce the upfront cost of going solar, and understanding how they work can meaningfully change whether a system makes financial sense for you.

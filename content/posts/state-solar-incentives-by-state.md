@@ -10,6 +10,17 @@ author: "Derek Walsh"
 author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "state-solar-incentives-by-state"
 affiliate_disclosure: true
+faqs:
+  - q: "Do state tax credits reduce the amount I can claim for the federal ITC?"
+    a: "Generally no, but there's an important nuance. If a state offers a direct rebate (cash from the government to the installer), that can reduce your system's tax basis and therefore your federal credit. State income tax credits applied on your personal return typically don't reduce your ITC basis. Ask your tax professional to confirm the treatment for any specific rebate you're receiving."
+  - q: "Can I claim both a state tax credit and the federal credit on the same system?"
+    a: "Yes. Most state credits are designed to stack with the federal ITC. In New York, for example, you can claim both the 25% state credit and the 30% federal credit, which is one reason New York has some of the best payback numbers in the country. Just confirm you have sufficient tax liability to absorb both credits, or understand the carry-forward rules if you don't."
+  - q: "How do I know if my installer is telling me about all available incentives?"
+    a: "The honest answer is you often don't, until you do your own homework first. Run through DSIRE before your first quote call. That way, if an installer misses a significant utility rebate or SREC program in your area, you'll catch it. In my experience, most installers are thorough on the big items but sometimes miss smaller utility rebates that still add up to real money."
+  - q: "Are SREC markets available in my state?"
+    a: "Active SREC markets as of 2025 exist primarily in New Jersey, Maryland, Pennsylvania, Massachusetts (which uses a similar structure via SMART), Ohio, and Washington D.C. Illinois has the Adjustable Block Program (also called Illinois Shines) which functions similarly. If you're in one of these markets, factoring SREC income into your solar panel ROI calculation can meaningfully improve your projected returns."
+  - q: "Do incentive programs run out of money?"
+    a: "They do. This is one of the most important things I tell clients who are still in the 'thinking about it' phase. NY-Sun has closed specific tranches when funding caps were hit. California's SGIP battery rebate regularly runs waitlists. The Massachusetts SMART program sets incentive rates by capacity block, and rates drop as blocks fill. Waiting six months to get a better quote could mean missing a current incentive block entirely. The federal 30% credit is currently scheduled to step down after 2032, but state programs can change with much less notice. The gap between the best and worst states"
 ---
 
 Most homeowners I talk to are shocked when they realize the federal tax credit is only part of the story. A homeowner in Massachusetts can stack so many incentives that a $28,000 solar system ends up costing closer to $10,000 out of pocket. Meanwhile, a neighbor in a state with weak net metering laws and no state rebate might wait 12 years just to break even on the same size system. The difference isn't the panels. It's the policy.

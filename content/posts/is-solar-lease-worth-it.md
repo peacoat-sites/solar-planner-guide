@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "is-solar-lease-worth-it"
 affiliate_disclosure: true
+faqs:
+  - q: "Does a solar lease affect my home's resale value?"
+    a: "Yes, and usually not positively. A purchased solar system typically adds measurable value to a home. A leased system is a liability that requires buyers to either qualify for the lease transfer or force you to buy it out. Some buyers specifically exclude lease-encumbered homes from consideration. It's not a dealbreaker for everyone, but it's a complication you're creating for future-you."
+  - q: "Can I buy out a solar lease early?"
+    a: "Most leases allow early buyout, but the pricing formula is often based on remaining payments at net present value, which means you'll pay something close to the remaining contract value rather than getting a discount for early settlement. Some companies offer a predetermined buyout schedule. Ask for it before you sign, not after you want out."
+  - q: "What happens if the leasing company goes out of business?"
+    a: "This is a legitimate risk. Your lease contract is typically assigned to a successor company or financed through a third-party bank, so your panels don't just go dark. But customer service quality can drop sharply. Look for companies that have been operating at least 8-10 years and check their Better Business Bureau rating. Sunrun and SunPower (now restructured) are among the largest; scale doesn't guarantee quality, but it does suggest staying power."
+  - q: "Is a solar PPA better than a lease?"
+    a: "For most homeowners, a PPA is marginally preferable to a lease because you pay for actual production rather than a flat fee regardless of output. If the system underperforms, your cost drops automatically rather than requiring you to chase a guarantee credit. That said, both PPAs and leases leave ownership with the third party, and both have escalators. The structural advantages of owning still apply."
+  - q: "Are solar leases worth it for seniors or retirees on fixed income?"
+    a: "Sometimes, yes. If a retiree can't use the 30% tax credit (because they have limited tax liability), the ITC advantage of ownership shrinks. A lease eliminates equipment risk, monthly payment risk is capped, and many seniors aren't planning a home sale. The calculus is different here than for a 40-year-old with 25 years of equity building ahead. That said, I'd still recommend exploring a cash purchase if the funds are available, because the 25-year savings gap remains substantial."
 ---
 
 Your neighbor just got solar panels installed for $0 down, and suddenly your electricity bill looks even more offensive than usual. The installer made it sound simple: sign a lease, get panels, save money. What's not to love? Quite a bit, actually. Solar leases have helped millions of Americans get panels on their roofs without writing a five-figure check, but they've also trapped homeowners in contracts they didn't fully understand, complicated home sales, and delivered savings that looked better in the pitch deck than on the bank statement. Let's go through what a solar lease actually is, when it makes sense, and when you should walk away.

@@ -10,6 +10,17 @@ author: "Chris Navarro"
 author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "net-metering-policy-by-state"
 affiliate_disclosure: true
+faqs:
+  - q: "Does every state have net metering?"
+    a: "No. As of 2025, most states have some form of net metering or similar policy, but roughly a dozen states either have no statewide mandate or leave it entirely to individual utilities. If you're in a state without a mandate, your compensation depends entirely on your specific utility."
+  - q: "Can utilities take away net metering after I've already gone solar?"
+    a: "In most cases, grandfathering provisions protect existing customers for a set number of years. However, this varies by state and utility. California protected NEM 2.0 customers for 20 years. Some states offer no explicit grandfathering protection. Always confirm this with your installer and verify it in the utility's actual tariff document, not just marketing materials."
+  - q: "Is net metering the same as selling electricity back to the grid?"
+    a: "Not technically. Net metering is a billing arrangement where you offset what you owe, not a direct sale. You're credited for what you export, and that credit reduces your bill. Actual cash payments are uncommon in residential net metering programs, though some utilities do issue checks for excess annual credits at a reduced rate."
+  - q: "How does time-of-use pricing interact with net metering?"
+    a: "Under time-of-use net metering, the value of your exported electricity depends on when you export it. Peak hours (typically late afternoon and evening) carry higher rates, while midday exports may be credited at lower off-peak rates. This is increasingly common and one reason battery storage has become more valuable in states like California and Nevada."
+  - q: "Will net metering policy changes affect my decision to go solar right now?"
+    a: "It depends on your state. If you're in a state with strong retail-rate net metering, locking in now before any potential changes is a reasonable argument for moving forward. If your state already has degraded net metering, you need to run the numbers based on current, not historical, export rates. Either way, factoring in the 30% federal tax credit still makes the economics significantly more favorable than they were even five years ago. Net metering policy isn't the only factor in your solar decision, but ignoring it is one of the most common and costly mistakes I see homeowners make. The pan"
 ---
 
 Imagine you install a 10-kilowatt solar system, generate more electricity than you use on a sunny July afternoon, and expect a healthy credit on your next bill. Then you open that bill and see almost nothing. Not because something went wrong with your panels, but because your state quietly changed its net metering rules six months before your installation. That scenario isn't hypothetical. It's exactly what thousands of California homeowners experienced after NEM 3.0 took effect in April 2023, slashing the value of exported solar energy by roughly 75% compared to the previous policy. Net metering policy is, without exaggeration, one of the most important financial variables in your solar decision, and most installers gloss right over it.

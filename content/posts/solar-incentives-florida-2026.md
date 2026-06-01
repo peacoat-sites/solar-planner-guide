@@ -10,6 +10,17 @@ author: "Derek Walsh"
 author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "solar-incentives-florida-2026"
 affiliate_disclosure: true
+faqs:
+  - q: "Does Florida have a state solar tax credit in 2026?"
+    a: "No. Florida has no state income tax, so there's no state-level solar tax credit. What Florida does offer are a sales tax exemption on solar equipment and a property tax exemption on the value solar adds to your home. Combined with the 30% federal ITC, these create a meaningful incentive package even without a direct state tax credit."
+  - q: "Is net metering still worth it for Florida homeowners?"
+    a: "Yes, but the calculation has changed. Florida has moved away from full retail-rate net metering credit for exported excess power, so oversizing your system to maximize exports is less effective than it was before 2023. The smartest approach in 2026 is sizing your system to match your consumption and pairing it with battery storage to use more of what you generate on-site."
+  - q: "How long does it take to pay back a solar system in Florida?"
+    a: "For most Florida homeowners, the payback period runs 7 to 11 years after applying the federal ITC and accounting for electricity savings. Homes with higher electricity usage, south-facing roofs, and high local utility rates tend to hit the shorter end of that range. How long to pay off solar panels walks through the variables in detail."
+  - q: "Should I buy my system or lease it in 2026?"
+    a: "Buying (either cash or a solar loan) makes more financial sense in most scenarios because you own the ITC and all future savings. Leases and PPAs transfer the tax credit to the installer. That said, leases can work for homeowners who can't use the ITC due to low tax liability, or who simply don't want any maintenance responsibility. The solar loan vs solar lease vs PPA comparison is worth reading before you decide."
+  - q: "Do I need to worry about hurricane-proofing my solar installation in Florida?"
+    a: "Yes, and it's not optional. Florida Building Code requires solar installations to meet specific wind load standards. Make sure your installer is pulling permits and that the racking system is rated for your local wind zone. Most quality residential installations in Florida are engineered to withstand 160+ mph winds. Ask for documentation of the wind rating before signing any contract."
 ---
 
 Florida gets more sun than almost any other state in the country, yet it ranks behind California and Texas in total solar installations. That gap is closing fast. In 2024, Florida added over 3.6 gigawatts of new solar capacity according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and homeowners are a big reason why. If you're sitting in Tampa, Orlando, or Jacksonville wondering whether 2026 is the right year to pull the trigger on solar, the honest answer is: the incentive stack is genuinely solid right now, but it won't stay this good forever. Let me walk you through exactly what's available, what the numbers look like, and where the catches are.

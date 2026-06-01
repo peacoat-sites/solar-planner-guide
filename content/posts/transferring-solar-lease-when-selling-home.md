@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "transferring-solar-lease-when-selling-home"
 affiliate_disclosure: true
+faqs:
+  - q: "Will my solar lease automatically transfer when I sell my house?"
+    a: "No, and this is one of the most common misconceptions I run into. The lease does not transfer automatically. You have to initiate the process with the leasing company, and the buyer has to be approved. Nothing happens on its own just because a property changes hands."
+  - q: "Can a buyer back out of a deal because of a solar lease?"
+    a: "Yes. If the lease wasn't disclosed upfront and the buyer discovers it during due diligence, they may have grounds to walk, depending on the contract language and local disclosure laws. This is why early, transparent disclosure is so important. Make it part of your listing, not a closing day conversation."
+  - q: "What if my solar lease has a power purchase agreement instead?"
+    a: "A PPA works slightly differently: instead of paying a flat monthly lease, you pay per kilowatt-hour for the electricity the panels produce. The transfer process is nearly identical to a lease transfer, including the credit check and paperwork timeline. Buyers should compare the PPA rate to their local utility rate to evaluate the value they're inheriting."
+  - q: "Does a solar lease show up on a title search?"
+    a: "It can. Many solar companies file a UCC-1 financing statement against the property to protect their interest in the equipment. This can appear in a title search and occasionally spooks buyers or title companies who aren't familiar with it. Your title company needs to know about the lease early so they can handle it correctly and not confuse it with a lien."
+  - q: "How long does a solar lease transfer take from start to finish?"
+    a: "Budget 3 to 5 weeks minimum. Some companies complete it faster, and some take longer, especially if the buyer's credit application requires review or if there are issues with the transfer documentation. Start the process the moment you decide to sell, not after you accept an offer."
 ---
 
 You're three weeks from closing on your house sale, the buyers are excited, and then your real estate agent drops a bomb: the solar panels on your roof aren't yours. You've been paying a monthly lease to a solar company for the past six years, and now that lease has to go somewhere. The buyers didn't budget for it, they don't fully understand it, and your closing date is suddenly in jeopardy. I've seen this exact situation derail more home sales than most people expect, and it's almost always preventable if you know what's coming.

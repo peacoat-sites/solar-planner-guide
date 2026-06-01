@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-choose-a-solar-installer"
 affiliate_disclosure: true
+faqs:
+  - q: "How many quotes should I get before choosing a solar installer?"
+    a: "Three is the minimum that gives you a real basis for comparison. Two quotes can be close enough to mislead you. Four or five starts generating diminishing returns on your time. EnergySage data consistently shows that three or more quotes leads to meaningfully lower costs and better system designs. The platforms that aggregate multiple quotes simultaneously (EnergySage, Solar-Estimate) can shortcut this process."
+  - q: "Does it matter whether I use a local installer or a national company?"
+    a: "It depends on what you prioritize. National companies generally have stronger financial backing, which matters for long-term warranty support, and more polished customer-facing processes. Local installers often offer faster response times and more flexibility. The critical question for either is whether the actual installation crew are employees. Subcontracted installation is where quality control gaps appear regardless of company size."
+  - q: "What questions should I ask during an installer's sales presentation?"
+    a: "Ask these specifically: Who performs the physical installation and are they employees? Can you show me the shading analysis for my roof? What happens to my workmanship warranty if your company closes? What's included in the permit and interconnection process? Can you provide three local references from systems installed in the past two years? The answers will be more revealing than the sales pitch."
+  - q: "Is the cheapest quote usually a bad sign?"
+    a: "Not automatically. Lower overhead, better supplier relationships, or a hungrier business development team can legitimately produce lower prices. But a quote more than 15-20% below the median of your other quotes warrants specific questions. Ask what equipment is being used, whether the workmanship warranty length differs, and whether any line items are excluded. The answers will tell you whether the discount reflects efficiency or corners being cut."
+  - q: "What does a workmanship warranty actually cover?"
+    a: "A workmanship warranty covers defects and failures caused by the installation itself: roof penetrations, wiring, racking attachment, conduit work. It does not cover panel degradation (that's the manufacturer's performance warranty) or inverter failure (the inverter manufacturer's warranty). Standard is 10 years. Some installers offer 25 years, which is a genuine differentiator. Whatever the length, it needs to be in your contract, not a verbal commitment."
 ---
 
 Most homeowners spend more time choosing a Netflix show than vetting the company about to drill holes in their roof and wire a $20,000 system to their electrical panel. That's not a knock on homeowners. Installer selection is genuinely confusing, and the solar industry doesn't make it easier. Slick websites, aggressive door-to-door reps, and "limited-time" pricing pressure are features of this market, not bugs. Here's how to cut through it.

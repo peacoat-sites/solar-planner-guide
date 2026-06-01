@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-installation-process-step-by-step"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does the solar installation process take from start to finish?"
+    a: "The honest answer is 2 to 4 months for most homeowners, though I've seen it stretch to 6 months in jurisdictions with slow permit offices or backed-up utilities. The physical installation itself is 1 to 3 days. Almost all the time is consumed by permits, utility interconnection approval, and equipment lead times."
+  - q: "Can I be home during the installation?"
+    a: "You don't have to be, but I'd recommend being available at minimum during the morning start and the end of day wrap-up. The crew will likely need access to your electrical panel, and you'll want to walk through the installation with the site supervisor before they leave. Make sure you understand where all equipment is mounted and how to access your monitoring system."
+  - q: "What can go wrong during installation?"
+    a: "The most common issues I see are roof penetration flashing done poorly (which causes leaks), older electrical panels that need upgrading before the system can be connected, and shading that wasn't fully accounted for in the original design. A structural issue with your roof is rarer but not unheard of. This is why the site assessment matters so much. Don't skip it or let an installer skip it."
+  - q: "Does my roof need to be new before I go solar?"
+    a: "Not necessarily, but if your roof is more than 10 to 15 years old and due for replacement in the next 5 years, do it before you install solar. Removing and reinstalling a solar system for a roof replacement typically costs $1,500 to $6,000 depending on system size, and that cost is not covered by solar warranties. Many installers will tell you the roof looks fine because they want to close the deal. Get an independent roofer's opinion if you're unsure."
+  - q: "What happens if my system underperforms after installation?"
+    a: "Check your monitoring data against the production estimates in your original contract. If there's a sustained gap, contact your installer first. Most reputable installers offer production guarantees. If your inverter is the issue, it's typically covered under a 10 to 12 year warranty. Panels usually carry 25-year performance warranties guaranteeing they'll produce at least 80 to 85 percent of their rated output. Document everything in writing when you raise a concern."
 ---
 
 Most homeowners I talk to think the hardest part of going solar is deciding to do it. Then they sign the contract and realize: there's a whole other journey ahead of them. A journey that typically takes 2 to 4 months before a single panel produces a single kilowatt-hour. I've seen clients get genuinely blindsided by this timeline, and I've watched others stress out unnecessarily because no one walked them through what was actually happening behind the scenes. So I went deep on this. Here's the real, unfiltered breakdown of what the solar installation process looks like from contract to first power bill.

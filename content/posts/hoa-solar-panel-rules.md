@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "hoa-solar-panel-rules"
 affiliate_disclosure: true
+faqs:
+  - q: "Can my HOA legally ban solar panels entirely?"
+    a: "In most states, no. Over 30 states have solar access or solar rights laws that prevent HOAs from prohibiting solar installations outright. If you're in one of those states and your HOA denies your application with no specific, lawful reason, the denial is likely unenforceable. The SEIA maintains a regularly updated list of state-by-state solar access protections worth checking before you proceed."
+  - q: "What happens if I install solar panels without HOA approval?"
+    a: "This is a serious risk. Even in states with strong solar protections, the law typically still allows HOAs to enforce a process, meaning you need to go through the approval workflow. Installing without approval can expose you to fines, forced removal orders, and legal fees, even if your panels would ultimately have been approved. Always submit the application first."
+  - q: "My HOA approved my neighbor's panels but denied mine. Is that fair?"
+    a: "Probably not, and this is called selective enforcement. If you can document that another homeowner in the same community received approval for a comparable installation, you have a strong argument that your denial was arbitrary. Document your neighbor's system, submit that documentation in your appeal, and consult an attorney if the board doesn't reverse course."
+  - q: "Do I need to tell my HOA if I'm only adding a small number of panels?"
+    a: "Yes. Even small installations, like a 4-panel partial system, are typically considered exterior modifications requiring ARC approval under most HOA governing documents. The size of the system doesn't change your obligation to apply. The good news is that smaller systems are often less likely to draw objections."
+  - q: "Can my HOA require me to use a specific solar installer they've approved?"
+    a: "In most cases, no. HOA-mandated installer lists are generally considered unenforceable because they restrict your ability to competitively bid your project and may benefit specific contractors. That said, your HOA can require that any installer be licensed, insured, and able to provide proof of both. That's a reasonable requirement. An exclusive approved-installer list is a different thing, and worth pushing back on."
 ---
 
 You submitted your solar application to your HOA three weeks ago. You've done the research, gotten quotes, and you're excited. Then the letter comes back: *denied*. Or maybe you haven't applied yet, and you're wondering whether it's even worth the hassle. Either way, you're probably feeling somewhere between frustrated and confused, and you might be wondering whether your HOA actually has the legal authority to stop you. Here's the thing: in most of the country, they don't. But the details matter enormously, and getting this wrong can cost you time, money, and a genuinely bad neighbor relationship.

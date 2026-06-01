@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "do-solar-panels-work-in-winter"
 affiliate_disclosure: true
+faqs:
+  - q: "Do solar panels produce any electricity on cloudy winter days?"
+    a: "Yes, they do. Panels generate electricity from diffuse light, not just direct sunlight. On an overcast winter day, you might see 10-25% of your rated system output, depending on how thick the cloud cover is. It's not nothing. A 10 kW system might produce 1-2 kWh on a heavily overcast short winter day instead of 40-50 kWh on a clear summer day. The gap is real, but zero output on cloudy days is a myth."
+  - q: "Should I be worried about snow weight damaging my solar panels?"
+    a: "Reputable solar panels are tested for significant load bearing. Most panels are rated for 5,400 Pascals of pressure, which translates to roughly 113 pounds per square foot. Standard snow loads rarely approach that threshold. More importantly, if your roof structure can handle the snow load (which it needs to regardless of panels), your panels almost certainly can too. Consult your local building codes and your installer if you live in an area with extreme snowfall."
+  - q: "Will my solar system pay for itself if I live somewhere with harsh winters?"
+    a: "Location matters, but harsh winters alone don't kill the economics. A properly sized system in Minneapolis can still deliver a 6-10 year payback period with the federal 30% Investment Tax Credit factored in. The annual production is lower than Phoenix, yes, but electricity rates in northern states are often higher, which helps the math. Always ask your installer to show you production estimates by month, not just annual totals."
+  - q: "Do I need to do anything special to prepare my solar system for winter?"
+    a: "Not much. Solar systems are passive by design. The main things I recommend: make sure your monitoring app is working so you can spot unusual drops, trim any branches that may have grown into summer shade patterns, and know how to safely clear heavy snow accumulation if needed. Your inverter is typically located indoors or in a weatherproof enclosure, so it doesn't require winterization."
+  - q: "Is winter a bad time to get solar panels installed?"
+    a: "Actually, no. Installation timelines can be shorter in winter because demand for installers is lower. Pricing may be more negotiable. And your system will be operational and earning credits by the time peak summer production season arrives. Cold weather doesn't affect the installation process itself. I've seen homeowners get better deals by signing in December or January than they would have in May."
 ---
 
 Picture this: it's January, there's six inches of snow on your roof, the sun sets at 4:30 PM, and your solar installer is telling you your panels are still generating power. You probably think they're just trying to keep you happy. I thought the same thing. But after spending time digging into actual production data and talking to homeowners from Minnesota to Maine, I'll be honest: winter solar performance surprised me more than almost any other topic I've researched in this industry.

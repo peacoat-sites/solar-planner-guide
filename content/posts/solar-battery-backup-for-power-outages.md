@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "solar-battery-backup-for-power-outages"
 affiliate_disclosure: true
+faqs:
+  - q: "Will my solar panels charge the battery during a power outage?"
+    a: "Yes, but only if your system is specifically designed and configured for islanded operation. A standard grid-tied solar system without backup capability shuts down completely during an outage. A hybrid inverter with battery storage can disconnect from the grid and let your panels continue charging your battery. During a prolonged outage, sunny days will replenish what you used overnight. Cloudy days will rely heavily on stored capacity."
+  - q: "How long will a solar battery last during a blackout?"
+    a: "It depends entirely on your battery capacity and your consumption. A single 13.5 kWh Powerwall running only critical loads (refrigerator, lights, phone charging, a few small appliances) might last 24 to 48 hours without any solar recharging. Add a sunny day's worth of generation and you can theoretically run indefinitely on a modest critical load. Run the air conditioner heavily and a single battery might last 6 to 8 hours."
+  - q: "Is a solar battery worth it if I rarely lose power?"
+    a: "Financially, probably not in most cases. If your grid is reliable and you're not on a time-of-use rate structure with steep peak pricing, the payback period on a battery alone can stretch to 15 or more years. That's longer than most battery warranties. The ITC helps, but it doesn't change the underlying math. If peace of mind during infrequent outages is the goal, a generator is often cheaper. If you want clean backup that works automatically without fueling and maintaining a generator, the battery's premium starts to make more sense."
+  - q: "Can I add a battery to my existing solar system?"
+    a: "Usually yes, but compatibility matters. If your current system uses a string inverter, you'll likely need to replace it with a hybrid inverter, which adds cost and complexity. Enphase microinverter systems can often add battery storage more cleanly because the IQ batteries work with the existing microinverter architecture. Get a site assessment from an installer experienced with retrofits, and ask specifically whether your existing equipment is compatible or needs replacement."
+  - q: "What's the difference between a solar battery and a generator for backup power?"
+    a: "Generators are cheaper upfront, run as long as you have fuel, and can power high-load appliances easily. They're also loud, require maintenance, need fuel storage, produce exhaust, and typically don't start automatically (unless you pay more for an auto-start model). Batteries are silent, maintenance-free, start in milliseconds, and can be recharged by your solar panels for potentially indefinite runtime. They're expensive upfront and have finite capacity without solar recharging. Many homeowners in areas with multi-day outage risk use both: a battery for seamless short-term backup and a gener"
 ---
 
 Your neighbor's lights are on. Yours aren't. You both have solar panels on the roof, but during yesterday's grid outage, his system kept running and yours went dark within seconds. The difference wasn't the panels. It was the battery.
