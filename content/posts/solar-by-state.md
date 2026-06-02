@@ -1,5 +1,6 @@
 ---
 title: "Solar Production by State: Output and Savings Estimates"
+image: "https://images.pexels.com/photos/9893731/pexels-photo-9893731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "Compare estimated annual solar production and electricity savings for a standard 6 kW rooftop system across US states. Data from NASA POWER."
 slug: "solar-production-by-state"
 date: 2026-05-28T09:00:00+00:00
