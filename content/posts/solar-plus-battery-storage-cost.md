@@ -3,7 +3,7 @@ title: "Solar Plus Battery Storage Cost"
 date: 2026-06-02T12:56:15.921790+00:00
 draft: false
 description: "Discover the true cost of solar plus battery storage systems in 2024. Compare prices, explore savings, and find out if this investment is right for your home."
-image: "https://images.pexels.com/photos/6233727/pexels-photo-6233727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9799765/pexels-photo-9799765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Costs & ROI"]
 tags: ["solar", "plus", "battery", "storage", "cost"]
 author: "Alex Reeves"

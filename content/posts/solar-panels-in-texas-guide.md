@@ -3,7 +3,7 @@ title: "Solar Panels In Texas Guide"
 date: 2026-06-04T12:22:58.517599+00:00
 draft: false
 description: "Discover everything you need to know about solar panels in Texas, including costs, incentives, top installers, and how to maximize savings under the Lone Star s"
-image: "https://images.pexels.com/photos/6233727/pexels-photo-6233727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8853509/pexels-photo-8853509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "Texas", "guide"]
 author: "Dana Hargrove"

@@ -3,7 +3,7 @@ title: "Solar Incentives Texas 2026"
 date: 2026-05-25T19:11:58.886637+00:00
 draft: false
 description: "Discover the latest solar incentives and rebates available in Texas for 2026. Learn about federal tax credits, state programs, and how to maximize your savings."
-image: "https://images.pexels.com/photos/9875418/pexels-photo-9875418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/27873610/pexels-photo-27873610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "Texas", "2026"]
 author: "Chris Navarro"
