@@ -1,0 +1,132 @@
+---
+title: "Best States For Solar Energy Savings"
+date: 2026-06-08T12:08:07.023502+00:00
+draft: false
+description: "Discover which states offer the best solar energy savings through top incentives, tax credits, net metering policies, and abundant sunshine to maximize your inv"
+image: "https://images.pexels.com/photos/30440512/pexels-photo-30440512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+categories: ["State Solar Guides"]
+tags: ["best", "states", "solar", "energy", "savings"]
+author: "Dana Hargrove"
+author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+slug: "best-states-for-solar-energy-savings"
+affiliate_disclosure: true
+faqs:
+  - q: "Which state has the best solar incentives overall?"
+    a: "Massachusetts consistently ranks at the top when you combine the SMART incentive program, full retail net metering, state tax exemptions, and high electricity rates. New Jersey is a close second thanks to its SREC-II market and aggressive net metering protections."
+  - q: "Is it still worth going solar in California after NEM 3.0?"
+    a: "It depends heavily on your usage and whether you add battery storage. The export rate cut makes panels-only systems much weaker for new installations. If you pair a system with a Powerwall or similar storage to self-consume more of your generation, California still works financially, just with a longer payback period, often 10 to 14 years now versus 7 to 9 before 2023."
+  - q: "Does solar add value to a home in any state?"
+    a: "Generally yes, and a 2019 Zillow study found that solar homes sold for about 4.1% more on average. But that premium varies by state, local buyer awareness, and whether you own the system outright. Leased systems can complicate a home sale considerably."
+  - q: "What's the minimum electricity rate where solar makes sense?"
+    a: "I usually tell homeowners that below 10 to 11 cents per kWh, the math gets very tight and payback periods can stretch past 15 years, making the investment hard to justify. Above 14 to 15 cents, solar almost always makes solid financial sense with good sun exposure and net metering."
+  - q: "Do I need full sun exposure for solar to be worth it?"
+    a: "Not perfect sun, no. A south-facing roof with no shading between 9 AM and 3 PM in a state with 4+ peak sun hours per day is enough to build a viable system. What kills ROI faster than clouds is shading from trees or nearby structures, or a poorly oriented roof (north-facing in the northern hemisphere generates almost nothing useful)."
+---
+
+My favorite myth to bust: the sunniest state is automatically the best state for solar savings. I've seen homeowners in Phoenix actually get *worse* returns on their panels than homeowners in Massachusetts, and the reason comes down to something most installers gloss over during the sales pitch.
+
+Sunlight matters. But utility rates, net metering policies, state rebates, and your roof's situation matter just as much, if not more. Let me walk you through which states are genuinely worth it right now, and why a few obvious candidates might disappoint you.
+
+## Why "Most Sunshine" Is the Wrong Metric
+
+Here's the thing about solar economics: you're not selling sunshine, you're offsetting a bill. And if that bill is tiny to begin with, all the sunshine in the world doesn't add up to much.
+
+New Mexico gets around 5.5 to 6 peak sun hours per day. Oklahoma gets about 5. Both are excellent solar resources. But average residential electricity rates in New Mexico hover around 13 cents per kilowatt-hour, while some mid-Atlantic states are charging 18 to 22 cents. So a kilowatt-hour you generate in New Jersey is worth a lot more in bill offset than one you generate in Albuquerque, even if Albuquerque has better sun.
+
+The formula I use with homeowners is simple: solar savings = (energy produced) x (rate you're not paying). Maximize both sides of that equation. That's why the best states for savings cluster around places with high rates, strong net metering, and decent (not necessarily exceptional) sunshine.
+
+What most people don't realize is that the [Solar Energy Industries Association (SEIA)](https://www.seia.org/) ranks states by installed capacity, and California dominates that list. But dominating installations doesn't mean you'll personally save the most money there. California has great sun and historically strong incentives, but their net metering rules changed dramatically in April 2023 under NEM 3.0, slashing the export credit rate by roughly 75% for new customers. Installing in California right now without a battery is a significantly weaker value proposition than it was two years ago.
+
+## The States Where Savings Are Genuinely Excellent Right Now
+
+> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+
+
+
+**Massachusetts** keeps showing up at the top of every serious analysis I've done, and it keeps earning that spot. Rates average around 24 to 27 cents per kWh depending on the season. The state has a Solar Massachusetts Renewable Target (SMART) program that pays you a per-kWh incentive on top of net metering credits. And they still have real net metering. A typical 8 kW system in the Boston suburbs costs around $24,000 before the 30% federal tax credit, which brings it to roughly $16,800. With current rates and incentives, payback periods of 6 to 8 years are common. That's a strong return on what is essentially a home improvement investment.
+
+**New Jersey** is a sleeper pick that surprises people. High electricity rates (often 18 to 21 cents per kWh), a functioning Solar Renewable Energy Certificate (SREC-II) market, full retail net metering, and property tax exemptions on the added home value. I've seen 7-year paybacks in New Jersey. The market is competitive enough that you can get multiple quotes and actually drive down installation costs.
+
+**Illinois** became much more interesting after the Climate and Equitable Jobs Act passed in 2021. Their Adjustable Block Program pays upfront incentives for solar, electricity rates have been creeping up toward 15 to 17 cents, and Chicago gets more peak sun hours than most people assume (around 4.2 to 4.5 per day). Not California, but not nothing.
+
+**Texas** is complicated, and I'll be honest: it depends almost entirely on where in Texas you live. Houston residents served by CenterPoint Energy can see rates of 12 to 14 cents, which is on the lower end. But Texans in deregulated areas can shop for retail plans that pair well with solar, and the state has no income tax, which affects how you benefit from the federal credit. West Texas sun is exceptional. No statewide net metering mandate is the catch, so you're at the mercy of your utility's export policy.
+
+**Maryland** is underrated. The state's net metering is solid, there's a residential clean energy rebate, and average rates around 14 to 17 cents make savings meaningful. The Baltimore/DC suburbs in particular have seen strong installer competition, which keeps prices reasonable.
+
+## The Federal Tax Credit Is the Baseline, But Don't Stop There
+
+Every state benefits from the federal Investment Tax Credit (ITC), which is 30% through 2032 under the Inflation Reduction Act. On a $25,000 system, that's a $7,500 credit against your federal tax liability. Not a deduction. A credit. That distinction matters a lot.
+
+But here's what a lot of homeowners miss: if your federal tax liability is less than $7,500 in a given year, you can only claim what you owe. The unused portion can roll forward one year, but that's it. I've talked to retirees on fixed income who were sold systems partly on the promise of a big tax credit they couldn't actually use. Before you run the numbers on any incentive, run your tax numbers first.
+
+State-level incentives stack on top of the federal credit, and they're where the real differentiation happens. A few things worth checking for any state you're considering:
+
+- Net metering: Does your utility have to credit you at the full retail rate, or some lower "avoided cost" rate? This single policy can cut your annual savings by 40 to 60%.
+- Sales tax exemption on equipment: Some states exempt solar hardware from sales tax, saving you 5 to 8% on equipment costs.
+- Property tax exemption: Many states exclude the added home value from solar panels when calculating property tax. In a state with 1.5% property tax rates, this adds up.
+- State income tax credit or rebate: On top of the federal 30%, some states chip in another 15 to 25%.
+
+The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a state-by-state breakdown worth bookmarking before you get on the phone with any installer.
+
+## States That Disappoint More Than You'd Expect
+
+Florida is bright, beautiful, and genuinely decent for solar. But the state had its net metering rules weakened under SB 2626, which took effect in 2023. Utilities now compensate excess generation at a lower "avoided cost" rate rather than full retail rate for new customers. That meaningfully lowers the lifetime value of a system. Florida is still probably fine if you're a heavy AC user with big summer bills, but it's not the slam dunk it would have been in 2021.
+
+Arizona is similar to Texas in that the sun is incredible and rates in Phoenix-area APS service territory have risen to around 12 to 14 cents, but net metering battles have left export credits well below retail in some areas. Not a bad state, but not the automatic home run people expect.
+
+Louisiana, Mississippi, and most of the Gulf Coast: low electricity rates from cheap natural gas undermine the bill offset math. It's genuinely hard to build a strong business case for residential solar in states where electricity averages 9 to 10 cents per kWh.
+
+Hawaii is technically incredible for solar, with rates exceeding 40 cents per kWh in some cases, but their grid saturation has led to export restrictions that require battery storage to make a system truly valuable. If you're willing to add an LG RESU or a Tesla Powerwall to the equation, Hawaii makes sense. Without storage, it's messier.
+
+If you're thinking about monitoring your system's output yourself, a home energy monitor like the [Emporia Vue](https://www.amazon.com/dp/B084CZWGCZ?tag=solarenergy-20) (around $70 on Amazon) can give you real-time circuit-level data and help you verify that your system is performing as promised. It's one of the cheaper ways to stay on top of production without relying entirely on your installer's app. *(Disclosure: this site may earn a commission on purchases.)*
+
+## How to Evaluate Your Own State
+
+The honest answer is that state-level generalizations only get you so far. Your specific utility matters more than your state label. A homeowner in Sacramento Municipal Utility District gets different net metering treatment than a PG&E customer 40 miles away.
+
+Here's the sequence I walk homeowners through:
+
+1. Look up your utility's net metering tariff. Not the state policy. Your specific utility. Google "[your utility name] net metering tariff" and read the actual document.
+2. Pull 12 months of electricity bills and find your average monthly kWh usage. This tells you what system size you actually need.
+3. Get at least three quotes through a competitive quoting platform like EnergySage. I've seen price differences of $4,000 to $8,000 on identical systems just from shopping around.
+4. Run the numbers on financing carefully. A $0-down loan at 5.99% APR on a 25-year term is not the same as owning a system outright, and some solar loan products have dealer fees baked in that inflate the effective cost.
+5. Check the DSIRE database (dsireusa.org) for every state and local incentive available to you before you sign anything.
+
+---
+
+## FAQ
+
+### Which state has the best solar incentives overall?
+
+Massachusetts consistently ranks at the top when you combine the SMART incentive program, full retail net metering, state tax exemptions, and high electricity rates. New Jersey is a close second thanks to its SREC-II market and aggressive net metering protections.
+
+### Is it still worth going solar in California after NEM 3.0?
+
+It depends heavily on your usage and whether you add battery storage. The export rate cut makes panels-only systems much weaker for new installations. If you pair a system with a Powerwall or similar storage to self-consume more of your generation, California still works financially, just with a longer payback period, often 10 to 14 years now versus 7 to 9 before 2023.
+
+### Does solar add value to a home in any state?
+
+Generally yes, and a 2019 Zillow study found that solar homes sold for about 4.1% more on average. But that premium varies by state, local buyer awareness, and whether you own the system outright. Leased systems can complicate a home sale considerably.
+
+### What's the minimum electricity rate where solar makes sense?
+
+I usually tell homeowners that below 10 to 11 cents per kWh, the math gets very tight and payback periods can stretch past 15 years, making the investment hard to justify. Above 14 to 15 cents, solar almost always makes solid financial sense with good sun exposure and net metering.
+
+### Do I need full sun exposure for solar to be worth it?
+
+Not perfect sun, no. A south-facing roof with no shading between 9 AM and 3 PM in a state with 4+ peak sun hours per day is enough to build a viable system. What kills ROI faster than clouds is shading from trees or nearby structures, or a poorly oriented roof (north-facing in the northern hemisphere generates almost nothing useful).
+
+---
+
+The best state for solar savings is ultimately the state where your bill is high, your utility plays fair with export credits, and you can get a competitive installation price. Sometimes that's Massachusetts. Sometimes it's your specific corner of Illinois or Maryland or New Jersey. The homework is worth doing before anyone puts panels on your roof.
+
+## Helpful Resources
+
+*As an Amazon Associate this site earns from qualifying purchases.*
+
+- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
+- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
+- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
+
+
+*Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
