@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "alex-rivera",
+    "name": "Alex Rivera",
+    "title": "Solar Engineer",
+    "specialty": "Solar System Design & Engineering",
+    "bio": "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+  },
+  {
+    "slug": "patricia-moore",
+    "name": "Patricia Moore",
+    "title": "Policy Writer",
+    "specialty": "Solar Incentives & Net Metering Policy",
+    "bio": "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+  },
+  {
+    "slug": "derek-hansen",
+    "name": "Derek Hansen",
+    "title": "Installation Contractor",
+    "specialty": "Solar Panel Installation & Permitting",
+    "bio": "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+  },
+  {
+    "slug": "nadia-patel",
+    "name": "Nadia Patel",
+    "title": "Sustainability Writer",
+    "specialty": "Environmental Impact & Clean Energy",
+    "bio": "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+  },
+  {
+    "slug": "craig-stevens",
+    "name": "Craig Stevens",
+    "title": "Financial Advisor",
+    "specialty": "Solar Loans, Leases & Tax Credits",
+    "bio": "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+  }
+]
