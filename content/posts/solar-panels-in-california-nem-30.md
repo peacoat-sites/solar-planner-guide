@@ -6,8 +6,6 @@ description: "Discover how California's NEM 3.0 affects solar panel owners. Lear
 image: "https://images.pexels.com/photos/37083400/pexels-photo-37083400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "California"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-panels-in-california-nem-30"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They vary by hour and season, but as a rough planning figure: midday summer exports (10 AM to 3 PM) typically earn $0.04 to $0.08 per kWh, while late afternoon and evening exports (4 to 8 PM) can earn $0.18 to $0.30 per kWh. These rates are determined by the Avoided Cost Calculator, which updates annually, so they'll shift over time."
   - q: "Does NEM 3.0 affect solar leases and PPAs differently?"
     a: "Mostly no. If you're leasing panels or buying power through a PPA, the export credit structure still applies in the same way, but the financial arrangement you have with the leasing company may or may not pass those credits through to you. Read your contract carefully. Some lease agreements lock in rates that assumed NEM 2.0 export values, which can make the deal worse than expected. Ownership, especially with the federal tax credit, tends to look better under NEM 3.0 than third-party financing."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 If you've been sitting on the fence about going solar in California, I'll be honest: the window you missed in 2022 was genuinely great, and what replaced it is genuinely worse. That's not a scare tactic. It's just the math.

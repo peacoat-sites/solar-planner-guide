@@ -6,8 +6,6 @@ description: "Discover how long it takes to pay off solar panels, what affects y
 image: https://images.pexels.com/photos/5598707/pexels-photo-5598707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["long", "solar", "panels"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "how-long-to-pay-off-solar-panels"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and this is one of the most underappreciated factors. Rising utility rates increase the value of every kilowatt-hour your panels produce, which accelerates your payback. With U.S. electricity rates having risen roughly 15% in just two years, this tailwind is real."
   - q: "Does adding a battery storage system change the payback period?"
     a: "Adding a battery typically adds $10,000 to $15,000 to your system cost, which extends the payback period if you're evaluating it in isolation. However, in states with weak net metering like California post-NEM 3.0, a battery can dramatically improve the economics by letting you use your own solar power instead of selling it back for low export credits. Whether it pencils out depends heavily on your state's policies and your usage patterns."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 The average American homeowner installs a solar system that costs around $30,000 before incentives. After the federal tax credit brings that down to roughly $21,000, many people assume they'll be saving money from day one. Sometimes that's true. But I've watched clients with that exact system take anywhere from 6 years to 14 years to fully pay it off, depending on factors their installer never brought up. The payback period is the most important number in solar, and it's also the most misunderstood.

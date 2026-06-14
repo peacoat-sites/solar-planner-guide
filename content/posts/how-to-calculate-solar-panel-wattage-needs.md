@@ -6,8 +6,6 @@ description: "Find out how to calculate your solar panel wattage needs by assess
 image: "https://images.pexels.com/photos/16427010/pexels-photo-16427010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["System Sizing"]
 tags: ["calculate", "solar", "panel", "wattage", "needs"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-calculate-solar-panel-wattage-needs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You have a few options: use higher-wattage panels to maximize production from limited space, add battery storage to maximize the value of what you do produce, or accept partial offset and plan to supplement with grid power. In some cases, ground-mounted systems are worth exploring if you have land."
   - q: "Does my panel wattage matter more than panel count?"
     a: "Not really, what matters is total system output in kW. A 20-panel system with 450W panels produces 9 kW, same as a 25-panel system with 360W panels. Higher-wattage panels are useful when roof space is limited. Otherwise, the wattage per panel is less important than the total system size and the quality of the installation."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Most people get this wrong before they even talk to an installer.

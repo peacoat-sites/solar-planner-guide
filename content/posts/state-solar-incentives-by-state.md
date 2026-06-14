@@ -6,8 +6,6 @@ description: "Discover the best solar incentives and rebates available in your s
 image: https://images.pexels.com/photos/6592700/pexels-photo-6592700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Tax Credits & Incentives"]
 tags: ["state", "solar", "incentives", "state"]
-author: "Derek Walsh"
-author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "state-solar-incentives-by-state"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Active SREC markets as of 2025 exist primarily in New Jersey, Maryland, Pennsylvania, Massachusetts (which uses a similar structure via SMART), Ohio, and Washington D.C. Illinois has the Adjustable Block Program (also called Illinois Shines) which functions similarly. If you're in one of these markets, factoring SREC income into your solar panel ROI calculation can meaningfully improve your projected returns."
   - q: "Do incentive programs run out of money?"
     a: "They do. This is one of the most important things I tell clients who are still in the 'thinking about it' phase. NY-Sun has closed specific tranches when funding caps were hit. California's SGIP battery rebate regularly runs waitlists. The Massachusetts SMART program sets incentive rates by capacity block, and rates drop as blocks fill. Waiting six months to get a better quote could mean missing a current incentive block entirely. The federal 30% credit is currently scheduled to step down after 2032, but state programs can change with much less notice. The gap between the best and worst states"
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Most homeowners I talk to are shocked when they realize the federal tax credit is only part of the story. A homeowner in Massachusetts can stack so many incentives that a $28,000 solar system ends up costing closer to $10,000 out of pocket. Meanwhile, a neighbor in a state with weak net metering laws and no state rebate might wait 12 years just to break even on the same size system. The difference isn't the panels. It's the policy.

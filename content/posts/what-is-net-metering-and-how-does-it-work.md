@@ -6,8 +6,6 @@ description: "Learn how net metering works, how it credits solar energy users fo
 image: "https://images.pexels.com/photos/9875684/pexels-photo-9875684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Incentives"]
 tags: ["what", "metering", "does", "work"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "what-is-net-metering-and-how-does-it-work"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, and this is where a lot of homeowners get tripped up by national averages. Net metering rules are set at the state level and sometimes at the individual utility level. Two neighbors in different utility service territories can have dramatically different credit rates, carryover rules, and program caps, even within the same state."
   - q: "What's the difference between net metering and a feed-in tariff?"
     a: "A feed-in tariff (FIT) pays you a fixed rate for every kilowatt-hour you generate and export, separate from what you pay for electricity you consume. Net metering offsets your consumption bill with credits for exports. Feed-in tariffs were more common in Europe and in early U.S. programs; most current U.S. residential solar incentives run through net metering rather than FITs, though the lines blur a bit in avoided-cost compensation models."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Most solar shoppers spend weeks obsessing over panel brands and installation quotes, and then barely glance at the three words that will probably determine whether their system actually pays off: net metering policy.

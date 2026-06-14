@@ -6,8 +6,6 @@ description: "Learn how to transfer a solar lease when selling your home. Unders
 image: "https://images.pexels.com/photos/8292794/pexels-photo-8292794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["transferring", "solar", "lease", "when", "selling"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "transferring-solar-lease-when-selling-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can. Many solar companies file a UCC-1 financing statement against the property to protect their interest in the equipment. This can appear in a title search and occasionally spooks buyers or title companies who aren't familiar with it. Your title company needs to know about the lease early so they can handle it correctly and not confuse it with a lien."
   - q: "How long does a solar lease transfer take from start to finish?"
     a: "Budget 3 to 5 weeks minimum. Some companies complete it faster, and some take longer, especially if the buyer's credit application requires review or if there are issues with the transfer documentation. Start the process the moment you decide to sell, not after you accept an offer."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 You're three weeks from closing on your house sale, the buyers are excited, and then your real estate agent drops a bomb: the solar panels on your roof aren't yours. You've been paying a monthly lease to a solar company for the past six years, and now that lease has to go somewhere. The buyers didn't budget for it, they don't fully understand it, and your closing date is suddenly in jeopardy. I've seen this exact situation derail more home sales than most people expect, and it's almost always preventable if you know what's coming.

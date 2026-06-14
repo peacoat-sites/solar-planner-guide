@@ -6,8 +6,6 @@ description: "Comparing solar panels vs solar shingles? Discover key differences
 image: "https://images.pexels.com/photos/27863809/pexels-photo-27863809.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Equipment"]
 tags: ["solar", "panels", "solar", "shingles"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-panels-vs-solar-shingles"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "With Tesla Solar Roof, Tesla replaces individual tiles rather than the entire roof, but sourcing replacements and scheduling a repair can be slow depending on your region and service backlog. With conventional panels, a single damaged panel is straightforward to swap out since they're modular and multiple installers in any market can service them. This is genuinely one of the practical advantages of traditional panels that doesn't get enough attention."
   - q: "Is the resale value boost the same for both?"
     a: "Research on this is mixed and relatively thin for solar shingles specifically since they haven't been in the market long enough. For conventional solar panels, NREL and Zillow have both published data showing meaningful home value increases, roughly $4,000 to $6,000 per kilowatt of installed capacity in some markets. Solar shingles may add more value from an aesthetic standpoint in certain neighborhoods, but I'd be cautious about banking on a premium that hasn't been well-documented yet."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Most people assume solar shingles are the obvious upgrade over bulky rooftop panels. They're wrong, and the math is pretty unforgiving once you see it.

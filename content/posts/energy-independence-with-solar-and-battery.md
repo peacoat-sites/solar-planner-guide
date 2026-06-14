@@ -6,8 +6,6 @@ description: "Discover how solar panels and battery storage can help you achieve
 image: "https://images.pexels.com/photos/518530/pexels-photo-518530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy Efficiency & Solar"]
 tags: ["energy", "independence", "with", "solar", "battery"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "energy-independence-with-solar-and-battery"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most homeowners in high-rate states (California, Hawaii, New England, New York), the financial case is strong. For homeowners in low-rate states like Louisiana or Washington (where electricity is cheap), payback periods stretch longer and the math is thinner. Always run the numbers for your specific utility rate, solar resource, and available incentives before deciding."
   - q: "What's the difference between 'grid-tied,' 'off-grid,' and 'hybrid' solar?"
     a: "Grid-tied systems connect to the utility and typically don't provide outage protection without a battery. Off-grid systems are fully disconnected from the utility and require large battery banks and careful load management. Hybrid systems, the most common choice today, stay connected to the grid but include battery storage that provides backup power and allows for time-of-use optimization. For most homeowners, hybrid is the right answer."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Imagine your neighborhood goes dark at 2 a.m. during a winter storm. Your neighbors are scrambling for flashlights, the heat has cut out, and someone's insulin is sitting in a refrigerator that stopped running an hour ago. Your house, though? The lights are on. The fridge is humming. You slept through the whole thing. That's not a fantasy scenario. It's what a properly designed solar-plus-battery system actually delivers, and it's the version of "energy independence" that I think most people are really after when they start asking about solar.

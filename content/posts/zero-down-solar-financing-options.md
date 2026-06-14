@@ -6,8 +6,6 @@ description: "Discover zero down solar financing options that make going solar a
 image: "https://images.pexels.com/photos/9800094/pexels-photo-9800094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["zero", "down", "solar", "financing", "options"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "zero-down-solar-financing-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most solar-specific lenders want a FICO score of at least 650, with the best rates reserved for scores above 720 or 740. Some lenders will go down to 600 with higher rates or a co-signer. If your credit is below 650, PACE financing (where available) or a solar lease may be your practical options, though I'd strongly encourage working on your credit first if you can afford to wait 6 to 12 months."
   - q: "What happens at the end of a solar lease or PPA?"
     a: "This varies by contract, but most agreements offer three options at the 20 or 25-year mark: renew the contract for another term, have the company remove the equipment at no cost to you, or purchase the system at fair market value. Fair market value on a 20-year-old solar system is typically quite low, sometimes just a few thousand dollars. Get the end-of-term terms in writing before you sign, not during the closing conversation."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Most people assume solar is out of reach because they can't write a $20,000 check. What if I told you that assumption is costing them money every single month? I've seen homeowners delay going solar for years waiting to "save up enough," while paying $200, $300, even $400 a month to their utility company. The math doesn't work in their favor. The reality is that zero-down solar financing has become so accessible that the upfront cost barrier is essentially gone for most qualified homeowners. The real question isn't "can I afford to go solar?" anymore. It's "which financing option actually makes sense for my situation?"

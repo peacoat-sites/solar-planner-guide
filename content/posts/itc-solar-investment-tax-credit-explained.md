@@ -6,8 +6,6 @@ description: "Learn how the ITC solar investment tax credit works, who qualifies
 image: https://images.pexels.com/photos/5816298/pexels-photo-5816298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "investment", "credit", "explained"]
-author: "Amanda Park"
-author_bio: "Home energy analyst and solar consultant. Specializes in helping homeowners evaluate solar ROI."
 slug: "itc-solar-investment-tax-credit-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. New construction qualifies, and folding the cost into your mortgage doesn't disqualify it. The IRS cares about the fair market value of the solar system as a separate cost, so your builder should provide documentation showing what portion of the purchase price is attributable to the solar installation. Get that number in writing at closing."
   - q: "Can I claim the ITC on a vacation home or second home?"
     a: "Yes. The residential ITC applies to your primary residence and a second home that you use personally. It does not apply to residential rental property you own. If the second home is sometimes rented, you may only be able to claim a proportional credit based on personal-use days. Talk to a tax professional if your second home has mixed use."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 If you installed a solar system on your home last year and paid $20,000 for it, the federal government will hand you back $6,000 on your tax return. Not a deduction. Not a rebate check in the mail. A dollar-for-dollar reduction in what you owe the IRS. That's the solar Investment Tax Credit (ITC) in action, and it's one of the most valuable financial incentives available to American homeowners right now. Yet I've talked to dozens of people who either didn't claim it correctly, left money on the table, or passed on going solar because they didn't understand how it actually works. Let's fix that.

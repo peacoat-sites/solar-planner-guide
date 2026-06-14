@@ -6,8 +6,6 @@ description: "Federal solar tax credit expires soon. Learn about the 30% ITC dea
 image: "https://images.pexels.com/photos/356036/pexels-photo-356036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Tax Credits & Incentives"]
 tags: ["federal", "solar", "credit", "expiration"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "federal-solar-tax-credit-expiration"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes and no. The federal ITC is calculated on your gross system cost before most state incentives, but there's an exception: if you receive a state rebate that's excluded from your gross income, it doesn't reduce your ITC basis. Utility rebates, though, typically do reduce the cost basis you use to calculate the federal credit. The interaction can get complicated, so it's worth running the numbers for your specific state."
   - q: "What happens to my tax credit if I sell my house after going solar?"
     a: "You keep the credit as long as you've already claimed it on your return. The credit belongs to you, not the property. If you haven't yet claimed all of it (for example, you're in the middle of a carryforward period), the unclaimed portion doesn't transfer to the buyer. You can still use it on future tax returns as long as you have federal tax liability. The solar system itself does add to your home's resale value, which is a separate benefit from the tax credit."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Imagine you've been putting off your solar decision for two years, telling yourself you'll get to it "eventually." Then you check the news and see headlines about the federal solar tax credit disappearing. Your stomach drops. Is it too late? Did you miss a 30% discount worth thousands of dollars? The good news is that as of 2025, you haven't missed it yet. But the timeline is real, and understanding exactly how it works could be the difference between a system that pays for itself in 7 years versus one that takes 12.

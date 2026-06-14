@@ -5,6 +5,11 @@ description: "Wondering if home solar makes sense for you? Take our quick 7-ques
 slug: "is-solar-right-for-your-home"
 date: 2026-05-27T10:00:00+00:00
 tags: ["solar", "home solar", "solar fit quiz", "rooftop solar", "going solar"]
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Thinking about putting solar panels on your roof but not sure if it's actually a good match for your home? You're not alone. The right fit depends less on one magic number and more on how your roof, your routines, and your long-term plans line up.

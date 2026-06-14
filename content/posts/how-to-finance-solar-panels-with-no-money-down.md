@@ -6,8 +6,6 @@ description: "Finance solar panels with zero upfront costs through leases, PPAs,
 image: "https://images.pexels.com/photos/2800832/pexels-photo-2800832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Solar Financing"]
 tags: ["finance", "solar", "panels", "with", "money"]
-author: "Derek Walsh"
-author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "how-to-finance-solar-panels-with-no-money-down"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "With a personal solar loan, you can typically pay it off from your home sale proceeds, just like any other debt. Owned solar systems generally increase home resale value, so the sale price often covers the remaining balance. PACE loans, by contrast, may transfer to the buyer or require payoff at closing depending on your state."
   - q: "Is the 30% federal tax credit still available in 2026?"
     a: "As of 2026, the 30% Investment Tax Credit is still in effect. It was extended and expanded under the Inflation Reduction Act through 2032 before stepping down. That said, policy can change, and there are ongoing legislative discussions. The federal solar tax credit expiration page tracks the current status and timeline."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Imagine you're spending $180 a month on electricity, your utility just announced another rate hike, and your neighbor's solar panels are clearly cutting their bill to almost nothing. You want in. But when you get your first quote, the installer tells you a system will run $25,000 before incentives. You don't have $25,000 sitting in a savings account. Most people don't. Here's what the solar industry doesn't always lead with: you don't need a single dollar upfront to go solar. There are at least four legitimate financing paths that let you start saving on day one, and each one works very differently.

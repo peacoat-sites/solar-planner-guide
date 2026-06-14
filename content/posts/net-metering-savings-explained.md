@@ -6,8 +6,6 @@ description: "Learn how net metering works and how much money you can save on yo
 image: https://images.pexels.com/photos/5816299/pexels-photo-5816299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["metering", "savings", "explained"]
-author: "Derek Walsh"
-author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "net-metering-savings-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They're related but different. Under net metering, you're credited for the net difference between what you produce and consume, usually at retail rate. A feed-in tariff pays you a set rate for every kilowatt-hour you generate, regardless of how much you self-consume. Some countries, especially in Europe, have used feed-in tariffs extensively, but they're rare in the U.S."
   - q: "How do I know if my installer is sizing my system correctly for net metering?"
     a: "Ask to see the estimated monthly production figures versus your actual monthly consumption data. A system sized at 100% to 110% of your annual usage is generally optimal under full retail net metering. Bigger isn't always better: a system producing significantly more than you use may generate credits your utility won't pay out at full value, reducing your return on that extra investment."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Imagine your electric meter spinning backward on a sunny afternoon while you're at work, your solar panels quietly generating more electricity than your empty house can use. That surplus flows out to the grid, and your utility company credits your account for every kilowatt-hour. By the time your bill arrives, you owe almost nothing. That's net metering in action, and for millions of American homeowners, it's the single biggest reason their solar investment pencils out financially. But the way it works, what it actually pays, and whether you'll qualify varies enormously depending on where you live and which utility serves your home.

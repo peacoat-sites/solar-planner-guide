@@ -6,8 +6,6 @@ description: "Discover how the federal solar tax credit works in 2026, how much 
 image: https://images.pexels.com/photos/5583996/pexels-photo-5583996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Tax Credits & Incentives"]
 tags: ["federal", "solar", "credit", "2026"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "federal-solar-tax-credit-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally no. State rebates and incentives are separate from the federal credit. However, if your state rebate reduces your installation cost before the federal credit is calculated, you'd apply 30% to the lower number. For example, if your state gives you a $2,000 rebate upfront and your system costs $26,000, you'd calculate 30% of $24,000, not $26,000. State tax credits, as opposed to rebates, don't typically reduce your federal credit basis. Your tax professional can walk through the specifics for your state."
   - q: "Can I claim the credit for a solar system on a vacation home or second home?"
     a: "Yes. The Residential Clean Energy Credit applies to a primary residence and secondary residences, which includes vacation homes. The property just needs to be a dwelling unit you use personally. If you rent out the vacation home part of the year and use it personally for part of the year, you can claim a portion of the credit proportional to your personal use. Pure rental properties with no personal use don't qualify for the residential credit, though commercial solar installations have their own separate incentive pathway."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Imagine you install a $30,000 solar system in January 2026 and pocket a $8,100 federal tax credit when you file your return. Now imagine your neighbor waits until 2034 and gets almost nothing. That gap is real, it's written into current law, and most homeowners have no idea the clock is already ticking.

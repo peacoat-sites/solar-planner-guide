@@ -6,8 +6,6 @@ description: "Explore and compare the best home battery storage options availabl
 image: "https://images.pexels.com/photos/37177070/pexels-photo-37177070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Battery Storage"]
 tags: ["home", "battery", "storage", "options", "compared"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "home-battery-storage-options-compared"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most single-battery systems provide partial-home backup, meaning they power a specific set of circuits designated as critical loads, not every outlet and appliance in your house. Whole-home backup requires either a very large battery bank (often 3 or more units), a lower-consumption home, or both. Generac's PWRcell and the Powerwall 3 are both capable of whole-home backup when properly sized, but be cautious about installers who promise whole-home coverage without doing a thorough load analysis first."
   - q: "How long do home batteries actually last?"
     a: "Most manufacturers warrant their batteries for 10 years with at least 70% capacity remaining. Real-world longevity depends on usage patterns, temperature exposure, and chemistry. LFP batteries in moderate climates that are cycled daily typically retain 80-85% capacity at the 10-year mark in field studies. After warranty expiration, batteries don't die suddenly, they just hold less charge. Many installations are still functional at 12 to 15 years, just with reduced capacity. Avoid storing batteries in spaces that regularly exceed 90 degrees Fahrenheit, since heat is the single biggest acceleran"
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 You've probably already lost power at least once this year. Maybe it was a few hours, maybe it was three days after a storm, and you sat there watching your refrigerator full of food edge toward room temperature while your neighbor's house stayed lit up because they had a battery. That moment has a way of making home battery storage go from "something I'll look into someday" to "I need to figure this out now." If you're here, you're probably in that exact headspace. Good. Let's actually work through it together.

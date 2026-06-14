@@ -6,8 +6,6 @@ description: "Discover the latest solar incentives and rebates available in Texa
 image: "https://images.pexels.com/photos/27873610/pexels-photo-27873610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "Texas", "2026"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "solar-incentives-texas-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, for most homeowners. The combination of the 30% federal ITC, the property tax exemption, the sales tax exemption, Texas's high sun hours (most areas receive 5 to 5.5 peak sun hours daily), and a competitive installer market makes the economics work even without a utility rebate. The payback period is longer without a rebate, typically 9 to 11 years versus 7 to 8 years with one, but the long-term savings are still substantial."
   - q: "Does adding solar really increase my home's value in Texas?"
     a: "Research from NREL has found that solar homes sell for a premium of roughly $4 per watt of installed capacity, which on a 10 kW system equals about $40,000 in added home value on the high end. Texas-specific data tends to show premiums in the $15,000 to $25,000 range for typical residential systems, varying by market. Critically, that added value is completely exempt from Texas property taxes under state law."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 Texas gets more solar energy than almost any other state in the country, yet the average Texas homeowner leaves thousands of dollars in incentives unclaimed every year. In 2024, Texas crossed 40 gigawatts of installed solar capacity, ranking second nationally behind only California according to SEIA data. And yet, many installers will hand you a quote without explaining the full picture of what's available to reduce that number. Let's fix that.

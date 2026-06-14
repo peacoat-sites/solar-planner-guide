@@ -6,8 +6,6 @@ description: "Discover everything you need to know about installing solar panels
 image: "https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "York", "guide"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "solar-panels-in-new-york-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For a cash purchase, 6 to 9 years is a realistic range for most New York homeowners, with some Con Edison customers seeing 5 to 7 years due to high rates. After payback, the panels continue producing for another 20-plus years, which is where the real financial benefit accumulates."
   - q: "Can I add a battery to my solar system in New York?"
     a: "Yes, and New York has a specific incentive for it: the NYSERDA Battery Storage Incentive provides upfront rebates ranging from roughly $150 to $250 per kWh of storage capacity. A Tesla Powerwall 3 (13.5 kWh) could qualify for $2,000 to $3,375 in state incentives on top of the federal tax credit. Given how often the grid gets stressed during New York summer heat events, this is becoming a much more common add-on."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 Forty-three dollars. That's what one of my clients in Westchester was paying per day on electricity last August during the heat wave. Not per month. Per day. When she called me, she wasn't curious about solar in an abstract way. She was angry, and she wanted to know why nobody had told her sooner that there was a better option.

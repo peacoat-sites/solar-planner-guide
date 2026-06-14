@@ -6,8 +6,6 @@ description: "Discover how California's NEM 3.0 changes solar compensation rates
 image: "https://images.pexels.com/photos/9638474/pexels-photo-9638474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["California", "explained"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "california-nem-30-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "On average, the export compensation rate dropped roughly 75% compared to NEM 2.0. Daytime export rates are now typically $0.05 to $0.08/kWh under the Avoided Cost Calculator, compared to retail rates that can exceed $0.30/kWh under NEM 2.0. Evening peak hours do pay more, but you need a battery to capture those rates."
   - q: "Can I add more solar panels to my existing NEM 2.0 system without switching to NEM 3.0?"
     a: "This depends on your utility and the size of the addition. Minor additions are sometimes allowed under NEM 2.0 without triggering a tariff switch, but expanding your system meaningfully, generally more than 10 kW or a significant percentage of your existing capacity, will likely require moving to NEM 3.0. Get the utility's specific policy in writing before any expansion work begins."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 California killed the deal that made rooftop solar a no-brainer. That's not hyperbole. On April 15, 2023, NEM 3.0 went live, and the economics of going solar in California changed more dramatically than at any point in the past two decades.

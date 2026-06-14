@@ -6,8 +6,6 @@ description: "Yes, solar panels can power a whole house off grid with the right 
 image: "https://images.pexels.com/photos/13963757/pexels-photo-13963757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Off-Grid"]
 tags: ["solar", "panels", "power", "whole", "house"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "can-solar-panels-power-a-whole-house-off-grid"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually not without significant additional equipment. Grid-tied inverters are designed to shut off when grid power is absent, which is a safety feature. To go off-grid, you'd need to add a battery bank, an off-grid inverter or hybrid inverter-charger, and reconfigure the system. Depending on your existing equipment, starting fresh is sometimes cheaper than retrofitting."
   - q: "How long do off-grid solar batteries last?"
     a: "Quality LiFePO4 batteries (like those in a Tesla Powerwall or Victron system) are rated for 10 years or 3,000-4,000 charge cycles at 80% depth of discharge. Real-world lifespan depends on how hard you cycle them. Lead-acid alternatives last 5-7 years under good conditions, fewer if you regularly drain them below 50%."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 Yes, solar panels can power a whole house off grid. But the version of that answer most installers give you skips the part where it gets expensive, complicated, and occasionally humbling.

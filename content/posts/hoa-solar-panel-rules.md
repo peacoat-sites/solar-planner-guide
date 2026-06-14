@@ -6,8 +6,6 @@ description: "Learn how HOA solar panel rules work, what restrictions are allowe
 image: "https://images.pexels.com/photos/35105464/pexels-photo-35105464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["solar", "panel", "rules"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "hoa-solar-panel-rules"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Even small installations, like a 4-panel partial system, are typically considered exterior modifications requiring ARC approval under most HOA governing documents. The size of the system doesn't change your obligation to apply. The good news is that smaller systems are often less likely to draw objections."
   - q: "Can my HOA require me to use a specific solar installer they've approved?"
     a: "In most cases, no. HOA-mandated installer lists are generally considered unenforceable because they restrict your ability to competitively bid your project and may benefit specific contractors. That said, your HOA can require that any installer be licensed, insured, and able to provide proof of both. That's a reasonable requirement. An exclusive approved-installer list is a different thing, and worth pushing back on."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 You submitted your solar application to your HOA three weeks ago. You've done the research, gotten quotes, and you're excited. Then the letter comes back: *denied*. Or maybe you haven't applied yet, and you're wondering whether it's even worth the hassle. Either way, you're probably feeling somewhere between frustrated and confused, and you might be wondering whether your HOA actually has the legal authority to stop you. Here's the thing: in most of the country, they don't. But the details matter enormously, and getting this wrong can cost you time, money, and a genuinely bad neighbor relationship.

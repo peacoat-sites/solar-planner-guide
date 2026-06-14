@@ -6,10 +6,13 @@ description: "Protect your investment by spotting common solar installer red fla
 image: "https://images.pexels.com/photos/12243093/pexels-photo-12243093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["solar", "installer", "flags", "avoid"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "solar-installer-red-flags-to-avoid"
 affiliate_disclosure: true
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Forty-seven thousand dollars. That's how much one family in Phoenix paid for a solar system they could have gotten for $31,000 from a different installer. Same panel brand, nearly identical production estimates, both companies with decent online reviews. The difference was a salesperson who pushed hard, moved fast, and gave them almost no time to compare.

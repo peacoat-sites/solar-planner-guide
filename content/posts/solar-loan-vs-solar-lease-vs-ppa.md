@@ -6,8 +6,12 @@ description: "Compare solar loan, lease, and PPA options to find the best way to
 image: https://images.pexels.com/photos/5934192/pexels-photo-5934192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Financing"]
 tags: ["solar", "loan", "vs", "solar", "lease"]
-author: "Editorial Team"
 slug: "solar-loan-vs-solar-lease-vs-ppa"
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 # Solar Loan vs Solar Lease vs PPA: Which Financing Option Is Right for You?

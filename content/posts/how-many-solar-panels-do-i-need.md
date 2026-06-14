@@ -6,8 +6,6 @@ description: "Find out exactly how many solar panels your home needs. We break d
 image: https://images.pexels.com/photos/5715854/pexels-photo-5715854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["many", "solar", "panels", "need"]
-author: "Derek Walsh"
-author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "how-many-solar-panels-do-i-need"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not without battery storage. Solar panels produce electricity only when sunlight is hitting them. At night, a grid-tied system (the most common residential setup) automatically draws from the utility grid. A battery storage system like the Tesla Powerwall, Enphase IQ, or Franklin WH stores excess daytime solar energy for use at night or during outages. If energy independence or backup power is a priority, budget for storage alongside your panels."
   - q: "How accurate are online solar calculators?"
     a: "Moderately useful for ballpark estimates, not reliable for final decisions. Most calculators use regional averages for sun hours and don't account for your specific roof orientation, shading conditions, local utility rate structure, or upcoming changes in your energy use. They're a reasonable way to walk into a conversation with an installer, but treat any number they give you as a starting point, not a quote."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 The average American home uses about 10,500 kilowatt-hours of electricity per year, according to the U.S. Energy Information Administration. That sounds like a lot until you realize a typical solar installation of just 8 to 10 panels can cover a significant chunk of it. But here's what installers often gloss over during that first sales call: the "right" number of panels for your home has almost nothing to do with averages. It depends on your roof, your location, your habits, and honestly, how much of your bill you actually want to eliminate.

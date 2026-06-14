@@ -6,8 +6,6 @@ description: "Find out how long until your solar panels pay for themselves. Use 
 image: "https://images.pexels.com/photos/4320475/pexels-photo-4320475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Costs & ROI"]
 tags: ["solar", "panel", "payback", "period", "calculator"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "solar-panel-payback-period-calculator"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Calculate them separately. Your solar-only payback period is one number. Your solar-plus-battery payback period is a different (longer) number. This helps you evaluate whether the battery is worth the additional investment on its own merits, which for most people currently comes down to backup power value rather than pure financial return."
   - q: "How does panel degradation affect the payback calculation?"
     a: "Solar panels lose efficiency over time, typically about 0.5% per year for quality panels. Most installers use this figure in long-term savings projections, and it's baked into most online calculators. What this means practically: your year 1 production is your peak. By year 25, you're producing about 87-88% of what you started with. Good quality panels from established manufacturers (Panasonic, REC, SunPower) tend to degrade at the lower end of that range. Cheap panels can degrade faster."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 You got three quotes last week. One installer told you the system pays for itself in 6 years. Another said 9. The third handed you a glossy brochure with a "20-year savings" number that seemed to come from nowhere. You're sitting at your kitchen table wondering which one is lying, or if all of them are.

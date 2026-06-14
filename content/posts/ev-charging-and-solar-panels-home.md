@@ -6,8 +6,6 @@ description: "Discover how to combine EV charging with home solar panels to redu
 image: "https://images.pexels.com/photos/9800029/pexels-photo-9800029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy Efficiency & Solar"]
 tags: ["charging", "solar", "panels", "home"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "ev-charging-and-solar-panels-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Adding an EV changes your consumption patterns but doesn't affect your solar panel warranty or inverter warranty. Net metering agreements are typically tied to your system's production capacity, not your consumption, so they generally aren't impacted either. That said, if you're in a state where net metering credits are being restructured (California's NEM 3.0 is the most relevant example), timing your EV addition relative to your solar enrollment date can matter significantly. Check with your utility."
   - q: "How long does it take to pay off the added solar capacity needed for an EV?"
     a: "The research here is actually pretty encouraging. If you're adding 2 to 3 kW of panels specifically to cover EV charging, the incremental cost is roughly $4,000 to $6,000 before the federal 30% Investment Tax Credit, bringing it to about $2,800 to $4,200. If those panels offset EV charging that would otherwise cost $600 to $900 per year on grid electricity, payback runs 3 to 7 years. That's a solid return given that the panels carry a 25-year performance warranty."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Most people who install solar panels to charge their EV end up disappointed at first. Not because the technology doesn't work, but because nobody told them that a standard 6 kW rooftop system and a Level 2 charger don't automatically play nicely together without some deliberate planning. I've talked to dozens of homeowners who went solar, bought an EV, plugged in, and then got a utility bill that looked suspiciously similar to what they paid before the panels went up. The solar was producing. The car was charging. The math just wasn't adding up. What I found when I dug into this, across real installation data, utility rate structures, and conversations with energy engineers, is that EV-solar integration is genuinely one of the best financial decisions a homeowner can make. But it requires treating your home like a small energy system, not just bolting two green technologies onto the same house and hoping for the best.

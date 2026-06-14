@@ -6,8 +6,6 @@ description: "Discover everything you need to know about solar panels in Florida
 image: "https://images.pexels.com/photos/12224996/pexels-photo-12224996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "Florida", "guide"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "solar-panels-in-florida-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most Florida homes need between 8 kW and 14 kW due to high air conditioning loads. A more accurate way to size it: take your average monthly kWh usage from your electric bill, divide by roughly 130 (average monthly kWh production per installed kW in Florida), and that gives you the system size in kW. Don't let an installer upsell you past your actual consumption."
   - q: "Does Florida have a state solar tax credit?"
     a: "No. Florida has no state income tax, so there's no state tax credit. The available financial incentives are the federal 30% Investment Tax Credit, the state sales tax exemption on solar equipment, and the property tax exemption that prevents your home's assessed value from rising due to a solar installation."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Florida gets about 237 sunny days a year. You'd think that makes it the best place in the country to go solar. The truth is more complicated, and the thing that trips up most Florida homeowners has nothing to do with sunshine.

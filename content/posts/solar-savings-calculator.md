@@ -6,8 +6,6 @@ description: "Estimate your potential savings with solar energy using our free s
 image: https://images.pexels.com/photos/6306320/pexels-photo-6306320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "savings", "calculator"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "solar-savings-calculator"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Treat it as a starting point, not a final answer. Installer estimates range from carefully conservative to aggressively optimistic. The best installers will show you their production assumptions, system degradation rate, and what utility rate escalation they used. If an installer won't show you those inputs, or if their estimate is significantly higher than your PVWatts cross-check, push back. I've seen quotes where production estimates were 25% above what PVWatts would suggest for the same location. That's not a rounding error."
   - q: "How do I calculate solar savings if I have time-of-use rates?"
     a: "TOU savings calculations are more complex. You need to map your consumption by time of day against your production profile. A south-facing system produces mostly between 10am and 3pm. If your utility charges peak rates during those hours, that production is worth maximum value. If you're mostly consuming power in the evening (when panels produce nothing), the savings calculation shifts significantly unless you add battery storage. Some utilities offer online TOU analysis tools. You can also download your hourly usage data from your utility's website and compare it hour-by-hour against a PVWatt"
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Imagine getting a solar quote for $28,000, watching the installer pull up a shiny online calculator, and walking away convinced you'll save $1,400 a year. Then, three years into owning your system, you realize your actual savings are closer to $800 annually. That gap isn't a coincidence or bad luck. It's what happens when a calculator is designed to sell you something rather than tell you the truth. Solar savings calculators are genuinely useful tools, but only if you understand what they measure, what they ignore, and how to use more than one of them.

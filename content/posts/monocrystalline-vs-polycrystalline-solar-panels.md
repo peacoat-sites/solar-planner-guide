@@ -6,8 +6,6 @@ description: "Compare monocrystalline vs polycrystalline solar panels across eff
 image: "https://images.pexels.com/photos/29206495/pexels-photo-29206495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Panels & Equipment"]
 tags: ["monocrystalline", "polycrystalline", "solar", "panels"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "monocrystalline-vs-polycrystalline-solar-panels"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Technically you can, but you generally shouldn't. Mixing panel types with different voltage and current characteristics creates problems for inverter optimization and can drag down the performance of the better panels to match the weaker ones. If you're expanding an existing system or replacing failed panels, stick with the same type and ideally the same model. For a new installation, there's no good reason to mix."
   - q: "Do monocrystalline panels look better on a roof?"
     a: "This is subjective, but most homeowners and real estate professionals find monocrystalline's uniform dark appearance more aesthetically pleasing than polycrystalline's blue, shimmery look. If curb appeal matters to you, and for many homeowners it genuinely does, mono panels blend more naturally into a dark roof. All-black monocrystalline panels, where the backsheet and frame are also black, are the most visually seamless option available today."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 You're standing in your backyard, squinting up at your roof, and the solar installer just handed you a quote with two options. One says "monocrystalline" and costs about 20% more. The other says "polycrystalline" and looks like it might save you a decent chunk of money upfront. The installer gave you a quick explanation, but you walked away more confused than when you started. That's exactly where most people are when they come to me, and I want to give you the honest breakdown that the quote sheet doesn't.

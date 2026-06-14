@@ -6,8 +6,6 @@ description: "Discover the latest Tesla Powerwall costs in 2026, including insta
 image: "https://images.pexels.com/photos/37576187/pexels-photo-37576187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Battery Storage"]
 tags: ["Tesla", "Powerwall", "cost", "2026"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "tesla-powerwall-cost-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Tesla requires certified installer credentials for warranty validity, and most jurisdictions require a licensed electrician for the interconnection and permit work regardless. DIY battery installation is also a meaningful fire risk. This isn't a cost you can cut."
   - q: "How does Tesla's Virtual Power Plant (VPP) program work, and is it worth joining?"
     a: "In participating states (California, Texas, and a growing list), Tesla can dispatch a small portion of your Powerwall's stored energy to the grid during peak demand events. You're compensated, typically $0.60 to $2.00 per kWh exported. You set minimum backup reserves so your battery never drops below your comfort level. For most participants, it generates $100 to $400 per year. It won't transform your payback timeline, but it's passive income on hardware you already own."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Most people searching for Tesla Powerwall pricing find a number, feel good about it, and then discover at installation that the real cost was 40% higher. That gap between the sticker price and the check you actually write is where most solar coverage fails you. Let's close it.

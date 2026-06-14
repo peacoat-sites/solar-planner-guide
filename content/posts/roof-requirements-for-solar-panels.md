@@ -6,8 +6,6 @@ description: "Learn what roof requirements are needed for solar panels, includin
 image: "https://images.pexels.com/photos/17762230/pexels-photo-17762230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["roof", "requirements", "solar", "panels"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "roof-requirements-for-solar-panels"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can, depending on your roofing material and the installation method. Some shingle manufacturers void warranties if holes are drilled by non-certified contractors. Ask your solar installer specifically whether they use roofing-manufacturer-approved hardware and whether the installation method affects your existing warranty. If your roof is newer and still under warranty, this is a non-negotiable conversation to have before installation."
   - q: "How do I monitor whether my roof or panels have a problem after installation?"
     a: "Panel-level monitoring through your inverter's app (Enphase Enlighten, SolarEdge monitoring portal, etc.) will flag production drops that can indicate shading issues, equipment failures, or damage. For the roof itself, a home energy monitor like the Emporia Vue Energy Monitor (Amazon, affiliate link) can help you track consumption patterns that might indicate something's off with your system. You should also do a visual roof inspection once a year, ideally from the ground with binoculars, looking for lifted panels, damaged flashing, or debris accumulation under the array."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 You've gotten three solar quotes, you're excited, and then one installer mentions — almost as an aside — that your roof "might need some work before we can install." Suddenly you're wondering whether you're about to spend $4,000 fixing your roof before you can even start saving money on electricity. I've seen this scenario play out dozens of times, and the frustration is completely legitimate. The problem is that most installers won't hand you a clear checklist upfront. They want the sale. So let me give you what they often don't: a straight look at exactly what your roof needs to be solar-ready, what disqualifies a roof, and how to figure out where yours stands before you sign anything.

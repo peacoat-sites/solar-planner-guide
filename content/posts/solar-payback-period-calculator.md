@@ -6,8 +6,6 @@ description: "Calculate your solar panel payback period instantly with our free 
 image: https://images.pexels.com/photos/6285094/pexels-photo-6285094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "payback", "period", "calculator"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "solar-payback-period-calculator"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost always yes, and usually by extending it. Batteries add $8,000 to $15,000 to a typical residential installation. Unless your utility charges time-of-use rates with a large peak/off-peak spread, or you're in an area with frequent grid outages where backup power has real value to you, the battery payback period alone can be 15 to 20 years. Evaluate solar-only and solar-plus-battery as separate financial decisions."
   - q: "What happens to my payback calculation if electricity rates drop?"
     a: "It extends. If your utility cuts rates or if you move to a building with included electricity, your annual savings shrink and the break-even point moves further out. This is unlikely long-term given historical trends, but it's a real risk. Natural gas price swings, nuclear restarts, and aggressive renewable energy buildout in certain regions can slow electricity rate growth. A conservative payback model uses 0% rate escalation so you're not depending on price increases to validate your investment."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Imagine you just got a solar quote for $28,000. The salesperson tells you the system will "pay for itself in about seven years" and you nod along, not entirely sure what that means or whether to trust it. Here's the thing: payback period is one of the most cited numbers in solar sales, and one of the least explained. Get it wrong and you could spend the next decade wondering why your savings don't match the brochure. Get it right and you have a precise, honest benchmark for one of the biggest purchases you'll ever make for your home.

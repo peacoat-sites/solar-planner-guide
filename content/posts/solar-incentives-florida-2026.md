@@ -6,8 +6,6 @@ description: "Discover Florida's solar incentives for 2026, including tax credit
 image: "https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "Florida", "2026"]
-author: "Derek Walsh"
-author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "solar-incentives-florida-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Buying (either cash or a solar loan) makes more financial sense in most scenarios because you own the ITC and all future savings. Leases and PPAs transfer the tax credit to the installer. That said, leases can work for homeowners who can't use the ITC due to low tax liability, or who simply don't want any maintenance responsibility. The solar loan vs solar lease vs PPA comparison is worth reading before you decide."
   - q: "Do I need to worry about hurricane-proofing my solar installation in Florida?"
     a: "Yes, and it's not optional. Florida Building Code requires solar installations to meet specific wind load standards. Make sure your installer is pulling permits and that the racking system is rated for your local wind zone. Most quality residential installations in Florida are engineered to withstand 160+ mph winds. Ask for documentation of the wind rating before signing any contract."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 Florida gets more sun than almost any other state in the country, yet it ranks behind California and Texas in total solar installations. That gap is closing fast. In 2024, Florida added over 3.6 gigawatts of new solar capacity according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and homeowners are a big reason why. If you're sitting in Tampa, Orlando, or Jacksonville wondering whether 2026 is the right year to pull the trigger on solar, the honest answer is: the incentive stack is genuinely solid right now, but it won't stay this good forever. Let me walk you through exactly what's available, what the numbers look like, and where the catches are.

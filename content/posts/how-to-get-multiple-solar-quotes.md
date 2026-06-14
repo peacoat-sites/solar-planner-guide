@@ -6,8 +6,6 @@ description: "Compare multiple solar quotes to find the best price and system fo
 image: "https://images.pexels.com/photos/9875680/pexels-photo-9875680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["multiple", "solar", "quotes"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-get-multiple-solar-quotes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Late fall and winter, when installers are slower, can work in your favor for negotiating. Spring and early summer are peak season, and some companies are booked out 3-4 months. Getting quotes in October or November doesn't mean you'll wait long for installation, and you may get more attention from installers hungry to close out their year."
   - q: "Can I negotiate solar prices once I have multiple quotes?"
     a: "Yes, and you should. Showing an installer a competing quote is completely legitimate. Many installers have 5-10% of flexibility in their margins. Don't be aggressive or misleading about what competitors offered, but being transparent that you're comparing three proposals and theirs is the highest has closed hundreds of dollars of gap in deals I've seen."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Most homeowners get exactly one solar quote, fall in love with the shiny renderings the salesperson shows them, and sign a contract within a week. I've watched this happen more times than I can count. And I get it — the rep was friendly, the financing seemed easy, and honestly, who has time to shop around? But that one-quote mistake routinely costs people $5,000 to $15,000 over the life of a system. I've seen the invoices. The spread between what different installers charge for the exact same system — same panel brand, same inverter, same roof complexity — can be $8,000 or more on a typical 8 kW install.

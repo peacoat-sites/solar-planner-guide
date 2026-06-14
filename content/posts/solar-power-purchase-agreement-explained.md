@@ -6,8 +6,6 @@ description: "Solar power purchase agreements explained: Learn how PPAs work, ke
 image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Solar Financing"]
 tags: ["solar", "power", "purchase", "agreement", "explained"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "solar-power-purchase-agreement-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In most states, solar installations are exempt from added property tax assessments. But since you don't own the system under a PPA, you likely wouldn't have to worry about this anyway. The panels are technically personal property of the solar company, not a fixture of your home, though state tax laws vary and it's worth a quick check with your local assessor."
   - q: "How does net metering work with a PPA?"
     a: "This depends on your utility and your contract. Some PPA agreements pass net metering credits back to you at the same rate you're paying per kWh. Others keep the credits and simply reduce your monthly invoice. Know which arrangement you have, because the value of net metering can be significant. Policies also vary widely by state, and understanding the rules where you live matters before signing anything. Our guide to net metering savings lays this out in detail."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Imagine a solar installer knocks on your door and says: "We'll put solar panels on your roof for free." No upfront cost, no loan, no hassle. That pitch sounds almost too good to be true, and in some ways, it is. What they're actually offering is a Power Purchase Agreement, or PPA. Millions of American homeowners have signed one. Some are thrilled. Others feel stuck. Understanding exactly what you're agreeing to before you sign is the difference between a smart energy decision and a 20-year financial headache.

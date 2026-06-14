@@ -6,8 +6,6 @@ description: "Discover how long solar batteries last, what affects their lifespa
 image: "https://images.pexels.com/photos/9875685/pexels-photo-9875685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Batteries"]
 tags: ["long", "solar", "batteries", "last"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-long-do-solar-batteries-last"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Depends on how old your inverter and panels are. If your battery degrades significantly around year 10-12 and your inverter is approaching end-of-life anyway, a full system refresh often makes more financial sense than a battery-only swap. Battery prices will be lower by then, and you can right-size a new system based on how your energy needs have evolved."
   - q: "Do solar battery warranties cover full replacement?"
     a: "Most warranties cover the battery reaching below the specified capacity retention threshold (commonly 70%) within the warranty period. They typically cover repair or replacement of the unit, not the installation labor, which can run $500-1,500 depending on the system. Read the warranty document, not the sales brochure, before buying."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Most solar battery articles will tell you to expect "10 to 15 years" and leave it there. That number isn't wrong, but it's doing a lot of work to hide the fact that one battery might still deliver 80% of its original capacity at year twelve, while another is limping along at 60% by year eight. The lifespan gap between a well-maintained battery in a mild climate and a neglected one in Phoenix heat is enormous, and nobody talks about it.

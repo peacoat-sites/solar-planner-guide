@@ -6,8 +6,6 @@ description: "Learn what affects solar panel installation costs, including equip
 image: https://images.pexels.com/photos/6285066/pexels-photo-6285066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "panel", "installation", "cost", "breakdown"]
-author: "Derek Walsh"
-author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "solar-panel-installation-cost-breakdown"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally yes. A study by Lawrence Berkeley National Laboratory found that buyers consistently pay a premium for solar-owned homes, averaging about $4 per watt of installed capacity, which translates to roughly $15,000 to $20,000 in added value for a typical system. That said, this effect is most pronounced in states with high electricity rates and active solar markets. In some rural markets, appraisers still struggle to properly account for solar in home valuations."
   - q: "What maintenance costs should I budget for?"
     a: "Solar systems have very low maintenance requirements, which is part of their appeal. Plan for periodic cleaning ($150 to $350 per cleaning depending on your market, typically once every one to two years in dusty climates), and a potential inverter replacement at year 10 to 15 if you have a string inverter ($800 to $1,500). Microinverters typically carry 25-year warranties and are less likely to need replacement mid-system-life. I always recommend homeowners set up monitoring through their inverter's app from day one, so they catch production drops early. The moment solar stops feeling like a m"
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 The average American homeowner gets three solar quotes and picks the middle one. It feels safe. But here's the problem: most people have no idea what they're actually paying for, which means they can't tell if the middle quote is fair, inflated, or missing something critical. A $28,000 quote and a $19,000 quote for the "same" 8 kW system can both be legitimate, or one can be a rip-off. You can't know the difference until you understand what's inside the number.

@@ -6,8 +6,6 @@ description: "Stay powered during outages with a solar battery backup system. Le
 image: "https://images.pexels.com/photos/9800025/pexels-photo-9800025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Battery Storage"]
 tags: ["solar", "battery", "backup", "power", "outages"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "solar-battery-backup-for-power-outages"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually yes, but compatibility matters. If your current system uses a string inverter, you'll likely need to replace it with a hybrid inverter, which adds cost and complexity. Enphase microinverter systems can often add battery storage more cleanly because the IQ batteries work with the existing microinverter architecture. Get a site assessment from an installer experienced with retrofits, and ask specifically whether your existing equipment is compatible or needs replacement."
   - q: "What's the difference between a solar battery and a generator for backup power?"
     a: "Generators are cheaper upfront, run as long as you have fuel, and can power high-load appliances easily. They're also loud, require maintenance, need fuel storage, produce exhaust, and typically don't start automatically (unless you pay more for an auto-start model). Batteries are silent, maintenance-free, start in milliseconds, and can be recharged by your solar panels for potentially indefinite runtime. They're expensive upfront and have finite capacity without solar recharging. Many homeowners in areas with multi-day outage risk use both: a battery for seamless short-term backup and a gener"
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Your neighbor's lights are on. Yours aren't. You both have solar panels on the roof, but during yesterday's grid outage, his system kept running and yours went dark within seconds. The difference wasn't the panels. It was the battery.

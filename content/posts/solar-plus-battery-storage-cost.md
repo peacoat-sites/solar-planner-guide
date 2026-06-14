@@ -6,8 +6,6 @@ description: "Discover the true cost of solar plus battery storage systems in 20
 image: "https://images.pexels.com/photos/9799765/pexels-photo-9799765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Costs & ROI"]
 tags: ["solar", "plus", "battery", "storage", "cost"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-plus-battery-storage-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research here is genuinely mixed. A widely cited Lawrence Berkeley National Laboratory study found solar panels increase home value by roughly $15,000 on average. But batteries are newer and the data is thinner. Some appraisers treat battery storage similarly to solar panels; others don't account for it at all. In areas with frequent outages or high electricity rates (think California, Hawaii, the Northeast), anecdotal evidence from real estate agents suggests storage meaningfully improves buyer interest. In areas with reliable grids and low rates, it's less clear."
   - q: "Can I add solar plus battery storage to a house with an older electrical panel?"
     a: "You can, but you'll probably need to upgrade the panel first. Most homes built before the 1990s have 100-amp service panels, and a solar-plus-storage installation, especially with an EV charger, typically requires 200-amp service. Panel upgrades run $1,500 to $4,000 depending on your location and the complexity of the work. This cost is often the surprise item that wasn't mentioned in early quotes. Ask your installer explicitly whether your current panel is compatible before you get too far into the process."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 Most homeowners researching solar get a quote, see a big number, and assume adding a battery will roughly double the cost. I've seen this assumption kill more solar projects than almost anything else. The real picture is more complicated, sometimes more expensive than people expect in the short term, but also potentially far more valuable than a simple payback calculation suggests. Here's what I found when I actually dug into the numbers.

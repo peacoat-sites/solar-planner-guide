@@ -6,8 +6,6 @@ description: "Calculate your solar panel ROI with our step-by-step guide. Learn 
 image: https://images.pexels.com/photos/6285073/pexels-photo-6285073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "panel", "calculation"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "solar-panel-roi-calculation"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, more than many people realize. South-facing at 30-40 degrees is roughly 100% optimal. West-facing is typically 80-85% of that. East-facing is similar to west. North-facing can drop to 60-70% of optimal production. On a west-facing roof, you'd need a larger system to generate the same annual kWh, which affects cost and ROI directly. That said, EnergySage's market data shows west-facing systems can still make solid financial sense in high-rate markets because of time-of-use rate alignment."
   - q: "Should I wait for solar panel prices to drop further before buying?"
     a: "This is the question I get most often. The honest answer: panels are already cheap. Hardware is now roughly 30-40% of total installed cost; the rest is labor, permitting, and overhead. Waiting for another 20% price drop on hardware only saves you 6-8% on total system cost. Meanwhile, you're paying full utility rates every month you wait, and there's real policy risk around net metering rollbacks and ITC changes. If the numbers work today, waiting rarely makes financial sense."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 Imagine you're sitting across from a solar salesperson who just told you your system will "pay for itself in 6 years." Sounds great. But when you ask how they calculated that, you get a vague wave of the hand and something about "average savings." That number might be completely wrong for your home, your utility, and your roof. I've seen clients get quotes promising 8-year payback periods that, once we ran the real numbers, were closer to 14 years. The difference wasn't dishonesty, exactly. It was sloppy math and optimistic assumptions. This guide will show you how to do the calculation yourself, honestly, so you know what you're actually signing up for.

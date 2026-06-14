@@ -6,8 +6,6 @@ description: "Find out exactly how many solar panels your home needs. We break d
 image: "https://images.pexels.com/photos/34557230/pexels-photo-34557230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["System Sizing"]
 tags: ["many", "solar", "panels", "power", "house"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-many-solar-panels-to-power-a-house"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily. Without a battery, you'll produce excess power during the day and draw from the grid at night. If you have decent net metering, a battery doesn't dramatically improve your finances. But if you're in an area with frequent outages, have shifted to time-of-use rates where nighttime electricity is expensive, or live in a state like California with unfavorable export rates, a battery starts making a lot more sense."
   - q: "How long do solar panels actually last?"
     a: "Most modern panels are warrantied for 25 years and carry a production guarantee that they'll still produce at least 80% to 87% of their rated output at year 25. Real-world degradation data from NREL shows an average decline of about 0.5% per year, meaning a panel installed today should still be producing around 88% of its original output 25 years from now. The inverter is more likely to need replacement first, usually around the 10 to 15 year mark."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Most people ask the wrong question. They Google "how many solar panels do I need" expecting a clean answer, and they get some calculator that spits out a number without explaining any of the assumptions underneath it. I've watched homeowners get burned by this more times than I'd like to count, because they bought a system based on that number without understanding why it might be completely wrong for their house.

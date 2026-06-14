@@ -6,8 +6,6 @@ description: "Learn how the federal solar tax credit works in 2026, how much you
 image: "https://images.pexels.com/photos/9875421/pexels-photo-9875421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Incentives"]
 tags: ["federal", "solar", "credit", "2026", "explained"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "federal-solar-tax-credit-2026-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Technically, yes. The IRS requires you to reduce your home's cost basis by the amount of the federal tax credit you claimed. In practice, this matters mainly if you sell the home for a large enough gain to exceed the $250,000/$500,000 capital gains exclusion for primary residences, which most homeowners won't hit. Worth mentioning to your accountant if you're close."
   - q: "Can I claim the credit for solar installed on a vacation home or second property?"
     a: "Yes, provided you own the property and it's a qualifying residence (not a pure rental). The credit can be split between a primary and secondary home if you're allocating costs, but you need to make sure your total tax liability across both properties supports the claim. A tax professional is worth consulting if you're splitting across residences."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 The federal solar tax credit is worth $0 if you don't understand how it actually works. That's not a scare tactic — it's what happens when homeowners assume "tax credit" means a check in the mail, or that they'll automatically capture the full 30% in year one no matter what their tax bill looks like.

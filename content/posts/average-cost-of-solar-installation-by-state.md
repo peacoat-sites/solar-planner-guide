@@ -6,8 +6,6 @@ description: "Discover the average cost of solar installation by state. Compare 
 image: https://images.pexels.com/photos/5583982/pexels-photo-5583982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["average", "cost", "solar", "installation", "state"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "average-cost-of-solar-installation-by-state"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely get multiple quotes, and three is really the minimum. EnergySage data consistently shows that homeowners who get five or more quotes save an average of 10% compared to those who accept the first or second offer. Don't just compare the bottom-line price: compare the equipment being offered, warranty terms, estimated production, and the installer's track record. Cheap quotes with unfamiliar panel brands or short workmanship warranties are often not actually cheap in the long run."
   - q: "Is solar worth it in a low-sun state like Washington or Michigan?"
     a: "It can be, but the analysis has to be done carefully. Washington state has relatively low electricity rates due to hydropower, which makes it harder for solar to pencil out financially even though panels do generate in cloudy conditions. Michigan has higher rates and decent incentives, which helps. The real question is always: what are you paying per kWh now, how much does your system produce given local solar resources, and what incentives reduce your upfront cost? In my experience, low-sun states can work, but they require a longer payback period and a homeowner who plans to stay in the hous"
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 Imagine two neighbors, same size house, same energy bills, both going solar in the same month. One lives in Arizona. One lives in Massachusetts. The Arizona homeowner pays about $25,000 before incentives. The Massachusetts homeowner pays closer to $35,000. Same technology, same 10-kilowatt system, nearly $10,000 difference. That gap isn't random, and understanding what drives it could save you thousands.

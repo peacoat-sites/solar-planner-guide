@@ -6,8 +6,6 @@ description: "Discover California's top solar incentives and rebates available i
 image: "https://images.pexels.com/photos/9875438/pexels-photo-9875438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "California", "2026"]
-author: "Priya Mehta"
-author_bio: "Renewable energy researcher and homeowner solar advocate. Focuses on financing, incentives, and long-term savings."
 slug: "solar-incentives-california-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "When you add solar to your California home, the assessed value of your property increases because you've added a permanent improvement. Normally, that higher assessed value would mean a higher property tax bill. California's active solar energy system property tax exclusion prevents the state from reassessing that added value through at least the end of the current legislative authorization period. You get the home value benefit without the annual tax increase. This is handled automatically, but if you see your assessment change after installation, contact your county assessor's office."
   - q: "Should I wait for better incentives or buy now?"
     a: "In my experience, waiting for 'better' incentives in California is usually a losing strategy. The 30% federal ITC is stable through 2032, but NEM 3.0 is unlikely to get more generous, and electricity rates keep climbing. Every year you wait is another year of paying full retail rates. That said, if you're in financial circumstances where the timing of the tax credit matters, or if you're planning major home changes, coordinating those factors makes sense. For most California homeowners with a suitable roof and the ability to finance or purchase, 2026 is a reasonable time to move forward."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 California has some of the highest electricity rates in the country, averaging around 29 cents per kilowatt-hour as of early 2025, which is nearly double the national average. That single fact changes the solar math dramatically. A system that might take 10 years to pay off in Ohio could pay for itself in 6 or 7 years in Sacramento or San Diego. But here's the thing most installers won't tell you upfront: the incentive landscape in California shifted sharply in 2023 and those changes still define what homeowners are working with heading into 2026. If you're planning to go solar this year, you need to understand what's still on the table, what's gone, and where the real money is hiding.

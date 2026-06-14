@@ -6,8 +6,6 @@ description: "Explore top solar financing options including loans, leases, and P
 image: "https://images.pexels.com/photos/34641328/pexels-photo-34641328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["best", "solar", "financing", "options"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "best-solar-financing-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. The 30% federal tax credit is based on the total installed cost of the system, regardless of how you pay for it. If you take an unsecured solar loan, you still own the system and you still claim the credit. One important caveat: many solar loan products are structured expecting you to apply the tax credit as a lump-sum payment toward principal in year one. If you don't receive the credit (because your tax liability is too low), the loan terms may not work as planned."
   - q: "Are solar PPAs ever a good idea?"
     a: "There are situations where a PPA makes sense: if your credit is poor and you don't qualify for a loan, if you're in a state with strong net metering and rising utility rates, or if you have significant roof shading that makes ownership returns uncertain. But for most homeowners with decent credit who plan to stay in their home for 10-plus years, owning through a loan will almost always produce a better financial outcome."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Imagine you've gotten three solar quotes, the system looks great on paper, and then you see the price tag: $28,000. That's a real number. According to [EnergySage's market data](https://news.energysage.com/), the median solar installation in the U.S. costs around $30,000 before incentives, though after the 30% federal tax credit it drops closer to $21,000. Still, $21,000 is not a small check to write. How you pay for that system will determine whether solar is a genuinely smart investment or a financial trap. I've watched homeowners with identical solar systems end up in very different places financially, purely because of the financing choice they made on signing day.

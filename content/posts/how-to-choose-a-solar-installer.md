@@ -6,8 +6,6 @@ description: "Find the best solar installer for your home with our expert tips. 
 image: "https://images.pexels.com/photos/4254164/pexels-photo-4254164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["choose", "solar", "installer"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-choose-a-solar-installer"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not automatically. Lower overhead, better supplier relationships, or a hungrier business development team can legitimately produce lower prices. But a quote more than 15-20% below the median of your other quotes warrants specific questions. Ask what equipment is being used, whether the workmanship warranty length differs, and whether any line items are excluded. The answers will tell you whether the discount reflects efficiency or corners being cut."
   - q: "What does a workmanship warranty actually cover?"
     a: "A workmanship warranty covers defects and failures caused by the installation itself: roof penetrations, wiring, racking attachment, conduit work. It does not cover panel degradation (that's the manufacturer's performance warranty) or inverter failure (the inverter manufacturer's warranty). Standard is 10 years. Some installers offer 25 years, which is a genuine differentiator. Whatever the length, it needs to be in your contract, not a verbal commitment."
+author: "Derek Hansen"
+author_slug: "derek-hansen"
+author_title: "Installation Contractor"
+author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+
 ---
 
 Most homeowners spend more time choosing a Netflix show than vetting the company about to drill holes in their roof and wire a $20,000 system to their electrical panel. That's not a knock on homeowners. Installer selection is genuinely confusing, and the solar industry doesn't make it easier. Slick websites, aggressive door-to-door reps, and "limited-time" pricing pressure are features of this market, not bugs. Here's how to cut through it.

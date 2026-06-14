@@ -6,8 +6,6 @@ description: "Discover which states offer the best solar energy savings through 
 image: "https://images.pexels.com/photos/30440512/pexels-photo-30440512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["best", "states", "solar", "energy", "savings"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-states-for-solar-energy-savings"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "I usually tell homeowners that below 10 to 11 cents per kWh, the math gets very tight and payback periods can stretch past 15 years, making the investment hard to justify. Above 14 to 15 cents, solar almost always makes solid financial sense with good sun exposure and net metering."
   - q: "Do I need full sun exposure for solar to be worth it?"
     a: "Not perfect sun, no. A south-facing roof with no shading between 9 AM and 3 PM in a state with 4+ peak sun hours per day is enough to build a viable system. What kills ROI faster than clouds is shading from trees or nearby structures, or a poorly oriented roof (north-facing in the northern hemisphere generates almost nothing useful)."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 My favorite myth to bust: the sunniest state is automatically the best state for solar savings. I've seen homeowners in Phoenix actually get *worse* returns on their panels than homeowners in Massachusetts, and the reason comes down to something most installers gloss over during the sales pitch.

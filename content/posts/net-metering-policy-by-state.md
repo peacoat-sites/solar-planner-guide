@@ -6,8 +6,6 @@ description: "Net metering policies vary by state. Learn how solar and renewable
 image: "https://images.pexels.com/photos/34581637/pexels-photo-34581637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["metering", "policy", "state"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "net-metering-policy-by-state"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Under time-of-use net metering, the value of your exported electricity depends on when you export it. Peak hours (typically late afternoon and evening) carry higher rates, while midday exports may be credited at lower off-peak rates. This is increasingly common and one reason battery storage has become more valuable in states like California and Nevada."
   - q: "Will net metering policy changes affect my decision to go solar right now?"
     a: "It depends on your state. If you're in a state with strong retail-rate net metering, locking in now before any potential changes is a reasonable argument for moving forward. If your state already has degraded net metering, you need to run the numbers based on current, not historical, export rates. Either way, factoring in the 30% federal tax credit still makes the economics significantly more favorable than they were even five years ago. Net metering policy isn't the only factor in your solar decision, but ignoring it is one of the most common and costly mistakes I see homeowners make. The pan"
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 Imagine you install a 10-kilowatt solar system, generate more electricity than you use on a sunny July afternoon, and expect a healthy credit on your next bill. Then you open that bill and see almost nothing. Not because something went wrong with your panels, but because your state quietly changed its net metering rules six months before your installation. That scenario isn't hypothetical. It's exactly what thousands of California homeowners experienced after NEM 3.0 took effect in April 2023, slashing the value of exported solar energy by roughly 75% compared to the previous policy. Net metering policy is, without exaggeration, one of the most important financial variables in your solar decision, and most installers gloss right over it.

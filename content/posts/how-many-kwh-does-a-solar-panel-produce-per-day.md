@@ -6,8 +6,6 @@ description: "Discover how many kWh a solar panel produces per day, what factors
 image: "https://images.pexels.com/photos/11645008/pexels-photo-11645008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Performance"]
 tags: ["many", "does", "solar", "panel", "produce"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-many-kwh-does-a-solar-panel-produce-per-day"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Wattage and efficiency rating matter more than brand for most people, though build quality and warranty terms are real considerations. A 420W panel from a reputable tier-1 manufacturer like Qcells or REC will outperform a 370W panel from a lesser-known brand, all else equal. The efficiency rating tells you how much power a panel extracts per square foot, which matters if you have limited roof space."
   - q: "Can one solar panel power a house?"
     a: "Not even close to a whole house. One 400W panel might produce enough to run a refrigerator and a few lights. Whole-home solar systems in the US typically run between 6 kW and 12 kW, which means 15 to 30 panels depending on wattage. Single-panel setups are more appropriate for cabins, RVs, or specific appliance offsets."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Most homeowners I talk to guess somewhere between 1 and 100 kWh per day for a single solar panel. That range tells you everything about how poorly this topic gets explained.

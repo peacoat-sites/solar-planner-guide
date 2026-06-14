@@ -6,8 +6,6 @@ description: "Discover how solar panels can power your electric vehicle charging
 image: "https://images.pexels.com/photos/9799757/pexels-photo-9799757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy Efficiency & Solar"]
 tags: ["solar", "panels", "electric", "vehicle", "charging"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "solar-panels-and-electric-vehicle-charging"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your system automatically draws from the grid. This is normal and expected. Solar panels still produce 10 to 25 percent of their rated output on heavy overcast days, so you're not starting from zero, but you will pull grid power when sun is limited. This is why net metering or battery storage matters: both serve as your backup."
   - q: "Will adding an EV improve my solar payback period?"
     a: "Counterintuitively, yes. Solar panels pay back faster when you have more electricity load to offset. A larger system sized for both your home and your car generates more total savings, and since you're eliminating both your gasoline spend and your electricity bill, the combined savings can be substantial. I've seen payback periods drop from 8 years to under 6 years when EV charging was incorporated into a well-sized system from the start."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Picture this: you just pulled into your driveway after a long day, plugged in your new EV, and watched your electricity meter spin like a slot machine. Your neighbor mentioned solar panels might help, but you're not sure if it's real math or just good marketing. I've been in that driveway conversation more times than I can count, and I'm here to tell you the answer is genuinely yes, but only if you size the system right and understand what you're actually buying.

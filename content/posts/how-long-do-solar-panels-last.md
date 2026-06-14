@@ -6,8 +6,6 @@ description: "Discover how long solar panels last, what affects their lifespan, 
 image: "https://images.pexels.com/photos/6233727/pexels-photo-6233727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Panels & Equipment"]
 tags: ["long", "solar", "panels", "last"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-long-do-solar-panels-last"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can be, especially if your utility has changed its net metering rules or if you want backup power. Modern battery systems like the Tesla Powerwall or Enphase IQ Battery are compatible with many existing solar systems, though your installer will need to assess your inverter compatibility. If your inverter is already aging, adding a battery is often a good trigger to upgrade the whole system rather than patching around old equipment."
   - q: "How do I know if my solar panels are underperforming?"
     a: "The clearest sign is a production number that's noticeably lower than your installer's original estimate or your own records from prior years. Seasonal variation is normal, so compare July to July, not July to January. If you see a sudden drop rather than a gradual one, that usually points to a specific failure: a shading issue, a failed panel, or an inverter problem. A qualified solar technician with a clamp meter and thermal camera can pinpoint the source in a single visit."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Picture this: you're sitting across from a solar salesperson who's telling you these panels will basically pay for themselves over 25 years. You nod, you sign, and somewhere in the back of your mind you wonder, "But what actually happens at year 26?" It's a fair question, and I've found that most homeowners never get a straight answer before they commit to a $20,000+ purchase.

@@ -6,8 +6,6 @@ description: "Discover how net metering rules vary across the US, including rece
 image: "https://images.pexels.com/photos/20782341/pexels-photo-20782341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["metering", "changes", "state"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "net-metering-changes-by-state"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your state's public utilities commission website is the official source, though it can be hard to parse. DSIRE (dsireusa.org) maintains a state-by-state database that's more readable, and NREL also publishes regular policy tracking reports. Avoid relying on solar installer websites for this, since they don't always update when policies change."
   - q: "My neighbor went solar two years ago and has a much better deal than I would get today. Is that fair?"
     a: "Honestly, no, not if you think about equity across all utility customers. But grandfathering is how utilities and regulators typically manage the transition, so early adopters do genuinely have better economics in states that have moved away from retail net metering. It's one of the real arguments for not waiting if you're in a state with strong rates today."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Your utility company probably hasn't sent you a letter about this. They rarely do. But quietly, over the last three years, net metering rules have been rewritten in a dozen states, and a lot of homeowners who went solar expecting a certain payback period are now doing the math again.

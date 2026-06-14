@@ -6,8 +6,6 @@ description: "Discover the latest solar incentives and tax credits available in 
 image: "https://images.pexels.com/photos/8853502/pexels-photo-8853502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "York", "2026"]
-author: "Priya Mehta"
-author_bio: "Renewable energy researcher and homeowner solar advocate. Focuses on financing, incentives, and long-term savings."
 slug: "solar-incentives-new-york-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Under the Solar Energy System Equipment Tax Exemption, any increase in your assessed value due to a solar installation is exempt from property taxes for 15 years. You need to apply for this exemption with your local assessor after installation. It doesn't happen automatically, and some homeowners miss it entirely. The U.S. Department of Energy specifically highlights property tax exemptions as a key financial benefit homeowners should proactively claim."
   - q: "Is solar worth it in New York if I'm in a high-cost-of-living area with a smaller roof?"
     a: "It depends on your roof's solar potential and your electricity usage. New York City and downstate areas have some of the highest electricity rates in the continental U.S., often 25 to 30 cents per kilowatt-hour, which actually improves solar economics even on smaller systems. A smaller system produces less energy but saves more per kilowatt-hour. Use NREL's PVWatts calculator to estimate production for your specific address, and check our guide on how many solar panels you need to size a system that fits your actual usage and roof space."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 If you're a New York homeowner sitting on an electricity bill that's climbed past $200 a month, you're probably already doing the math on solar. Here's the number that should grab your attention: the average New York residential solar installation runs about $28,000 to $35,000 before incentives, but after stacking the state and federal programs available in 2026, many homeowners bring that net cost down to $16,000 or less. That's not a marketing promise. That's what happens when you combine a 30% federal tax credit with New York's own 25% state credit, a property tax exemption, and a sales tax exemption. The incentive stack in New York is genuinely one of the best in the country, and understanding exactly how it works can be the difference between a system that pays for itself in 8 years versus 13.

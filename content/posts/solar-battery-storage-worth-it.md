@@ -6,8 +6,6 @@ description: "Find out if solar battery storage is worth the investment. We comp
 image: "https://images.pexels.com/photos/35520664/pexels-photo-35520664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Battery Storage"]
 tags: ["solar", "battery", "storage", "worth"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-battery-storage-worth-it"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Rarely, at full normal usage. A single 13.5 kWh battery might cover your essential loads (refrigerator, lights, phone charging, internet) for 18 to 24 hours if you're careful. Running central air conditioning, electric water heaters, or an electric range dramatically cuts that window. Most battery owners designate a 'backup circuits' panel that prioritizes critical loads rather than trying to run everything."
   - q: "What's the research say about the best battery brands right now?"
     a: "The research here is genuinely mixed, partly because this market is moving fast. Tesla Powerwall has the largest installed base and most third-party performance data. Enphase IQ is modular and works especially well with Enphase microinverter systems. Franklin Electric's WH10 has been gaining installer confidence. SunPower's SunVault is well-regarded but SunPower's 2024 bankruptcy created uncertainty about long-term support. I'd weight installer track record with a specific battery heavily, since local service quality matters as much as product specs."
+author: "Patricia Moore"
+author_slug: "patricia-moore"
+author_title: "Policy Writer"
+author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+
 ---
 
 Most homeowners I talk to assume solar batteries are basically just backup power for blackouts. That's the pitch you'll hear from installers, and it's not wrong, but it's about a third of the actual story. I've seen people drop $12,000 to $15,000 on a battery system expecting to cut their electric bill in half, only to find their monthly savings barely budged. I've also seen homeowners in time-of-use utility markets turn their battery into a genuine money machine. The difference almost always comes down to one thing: whether they understood their specific situation before signing the contract.

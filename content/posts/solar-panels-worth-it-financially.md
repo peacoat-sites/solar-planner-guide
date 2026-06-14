@@ -6,8 +6,6 @@ description: "Find out if solar panels are worth the investment. We break down c
 image: https://images.pexels.com/photos/6285079/pexels-photo-6285079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "panels", "worth", "financially"]
-author: "Derek Walsh"
-author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "solar-panels-worth-it-financially"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Cash purchases almost always yield the highest total return because you avoid interest costs entirely. If financing is your only option, look for a secured solar loan through a credit union or the federal Green Energy loan programs rather than a dealer-arranged loan, which often carries a 'dealer fee' buried in the system price that can inflate your true cost by 15 to 30%. Always compare the all-in cost of a cash purchase versus a financed one before deciding."
   - q: "Can I go solar if I have an HOA?"
     a: "Probably yes. Most states have 'solar access laws' that prevent HOAs from prohibiting solar installations, though they may regulate placement or aesthetics. Check your state's specific law before assuming your HOA can block you. California, Florida, Texas, and most other high-solar states have strong protections for homeowners."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 The average American homeowner installing solar in 2024 pays around $30,000 before incentives, or roughly $18,000 after the 30% federal tax credit. That's a serious chunk of money. And yet installers will hand you a glossy brochure showing you "saving $50,000 over 25 years" without telling you that the math behind that number is built on assumptions that may not apply to your house, your utility, or your financial situation. I've seen clients sign contracts based on projections that fell apart within two years. I've also seen clients who absolutely knocked it out of the park. The difference wasn't luck. It was knowing which questions to ask upfront.

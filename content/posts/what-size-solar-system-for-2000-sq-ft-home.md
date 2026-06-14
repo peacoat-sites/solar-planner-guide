@@ -6,8 +6,6 @@ description: "Find out exactly what size solar system you need for a 2000 sq ft 
 image: "https://images.pexels.com/photos/8457868/pexels-photo-8457868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["System Sizing"]
 tags: ["what", "size", "solar", "system", "2000"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "what-size-solar-system-for-2000-sq-ft-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, more than most people expect. A true south-facing roof at a 30-35 degree pitch in the continental U.S. captures roughly 20-30% more energy than an east- or west-facing roof. If your best roof exposure is east or west, your installer should account for this in their production model, which may mean adding 2-4 more panels to hit the same annual output."
   - q: "Should I buy or lease a solar system for my home?"
     a: "Buy if you can. Purchasing outright (or with a solar loan) gives you the 30% federal tax credit and all the long-term savings. Leases and PPAs transfer those benefits to the third-party owner, and they can complicate home sales. The monthly payment structure feels comfortable, but the 25-year math almost always favors ownership."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 Square footage is almost irrelevant when sizing a solar system. I know that's not what you were hoping to hear, but it's true, and most of the "solar calculator" tools online are doing you a disservice by pretending otherwise.

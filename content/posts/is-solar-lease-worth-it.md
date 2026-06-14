@@ -6,8 +6,6 @@ description: "Wondering if a solar lease is worth it? Discover the pros, cons, a
 image: "https://images.pexels.com/photos/30440447/pexels-photo-30440447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["solar", "lease", "worth"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "is-solar-lease-worth-it"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most homeowners, a PPA is marginally preferable to a lease because you pay for actual production rather than a flat fee regardless of output. If the system underperforms, your cost drops automatically rather than requiring you to chase a guarantee credit. That said, both PPAs and leases leave ownership with the third party, and both have escalators. The structural advantages of owning still apply."
   - q: "Are solar leases worth it for seniors or retirees on fixed income?"
     a: "Sometimes, yes. If a retiree can't use the 30% tax credit (because they have limited tax liability), the ITC advantage of ownership shrinks. A lease eliminates equipment risk, monthly payment risk is capped, and many seniors aren't planning a home sale. The calculus is different here than for a 40-year-old with 25 years of equity building ahead. That said, I'd still recommend exploring a cash purchase if the funds are available, because the 25-year savings gap remains substantial."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 Your neighbor just got solar panels installed for $0 down, and suddenly your electricity bill looks even more offensive than usual. The installer made it sound simple: sign a lease, get panels, save money. What's not to love? Quite a bit, actually. Solar leases have helped millions of Americans get panels on their roofs without writing a five-figure check, but they've also trapped homeowners in contracts they didn't fully understand, complicated home sales, and delivered savings that looked better in the pitch deck than on the bank statement. Let's go through what a solar lease actually is, when it makes sense, and when you should walk away.

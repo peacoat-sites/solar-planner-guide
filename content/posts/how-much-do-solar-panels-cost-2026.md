@@ -6,8 +6,6 @@ description: "Find out how much solar panels cost in 2026, including average pri
 image: https://images.pexels.com/photos/5816283/pexels-photo-5816283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["much", "solar", "panels", "cost", "2026"]
-author: "Derek Walsh"
-author_bio: "Solar installation project manager with 10+ years in residential solar across 6 states."
 slug: "how-much-do-solar-panels-cost-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A standard quote covers the panels themselves, the inverter or microinverters, racking and mounting hardware, electrical wiring and disconnect switches, the monitoring system, permitting and inspection fees, and labor. Some quotes also include a production guarantee and critter guard mesh to keep birds and squirrels from nesting under the panels. Always ask for a line-item breakdown."
   - q: "How long do solar panels actually last?"
     a: "Quality panels from reputable manufacturers are rated for 25-30 years and typically carry a performance warranty guaranteeing at least 80-87% of rated output at 25 years. In practice, panels often last longer than their warranty. The inverter is typically the first component to need replacement, usually around year 10-15, at a cost of $1,000-$2,500 depending on inverter type."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 The average American household spends about $1,500 a year on electricity. Over 25 years, that's $37,500 flowing straight to your utility company, and that's before you factor in the rate increases that have averaged around 2-3% annually for the past decade. So when a solar installer knocks on your door and quotes you $25,000 for a rooftop system, the sticker shock is real. But that number tells about a third of the actual story. Here's what solar panels really cost in 2026, and more importantly, what they'll cost *you* after everything shakes out.

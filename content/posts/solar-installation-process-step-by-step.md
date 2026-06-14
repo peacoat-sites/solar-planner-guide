@@ -6,8 +6,6 @@ description: "Learn how solar panels are installed with our step-by-step guide. 
 image: "https://images.pexels.com/photos/8853500/pexels-photo-8853500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["solar", "installation", "process", "step", "step"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "solar-installation-process-step-by-step"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily, but if your roof is more than 10 to 15 years old and due for replacement in the next 5 years, do it before you install solar. Removing and reinstalling a solar system for a roof replacement typically costs $1,500 to $6,000 depending on system size, and that cost is not covered by solar warranties. Many installers will tell you the roof looks fine because they want to close the deal. Get an independent roofer's opinion if you're unsure."
   - q: "What happens if my system underperforms after installation?"
     a: "Check your monitoring data against the production estimates in your original contract. If there's a sustained gap, contact your installer first. Most reputable installers offer production guarantees. If your inverter is the issue, it's typically covered under a 10 to 12 year warranty. Panels usually carry 25-year performance warranties guaranteeing they'll produce at least 80 to 85 percent of their rated output. Document everything in writing when you raise a concern."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Most homeowners I talk to think the hardest part of going solar is deciding to do it. Then they sign the contract and realize: there's a whole other journey ahead of them. A journey that typically takes 2 to 4 months before a single panel produces a single kilowatt-hour. I've seen clients get genuinely blindsided by this timeline, and I've watched others stress out unnecessarily because no one walked them through what was actually happening behind the scenes. So I went deep on this. Here's the real, unfiltered breakdown of what the solar installation process looks like from contract to first power bill.

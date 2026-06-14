@@ -6,8 +6,6 @@ description: "Discover everything you need to know about installing solar panels
 image: "https://images.pexels.com/photos/12923395/pexels-photo-12923395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "Arizona", "guide"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "solar-panels-in-arizona-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Quality panels are rated to handle temperatures well above what Arizona sees, and most carry hail and wind certifications. Heat does reduce real-time output slightly, but it doesn't damage the panels. Monsoon wind and debris is a bigger consideration, and proper mounting by a licensed contractor matters more than brand in that respect."
   - q: "How do I find a reputable solar installer in Arizona?"
     a: "Start with the EnergySage marketplace to get multiple quotes from pre-vetted installers. Look for NABCEP-certified installers specifically, that's the gold standard for installer training. Check that any company you talk to has an active Arizona ROC (Registrar of Contractors) license, which you can verify online in about two minutes."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 Arizona gets more sunshine than almost anywhere in the country. About 300 days of it per year in Phoenix alone. So you'd think going solar here would be a slam dunk, and honestly, for most homeowners it is. But I've sat across from enough people in Scottsdale, Tucson, and Mesa to know that "Arizona is great for solar" is where the conversation needs to *start*, not where it ends.

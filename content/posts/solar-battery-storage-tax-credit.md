@@ -6,8 +6,6 @@ description: "Discover how to claim the solar battery storage tax credit and red
 image: "https://images.pexels.com/photos/37578596/pexels-photo-37578596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "battery", "storage", "credit"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "solar-battery-storage-tax-credit"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. The 30% credit applies to the full installed cost of the system, including equipment, labor, wiring, and permits. If your battery unit costs $10,000 and installation runs $2,000, you calculate 30% of $12,000, not just the hardware."
   - q: "Can I add a battery to an existing solar system and still claim the credit?"
     a: "Yes. You can add battery storage to a solar system you installed years ago and claim the 30% credit on the new battery installation. The battery doesn't need to be installed at the same time as the solar panels. Just make sure the installation is completed in the tax year you plan to claim."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 Imagine you install a $15,000 home battery system this year and the federal government hands you back $3,750 at tax time. That's not a hypothetical. It's exactly what the Residential Clean Energy Credit makes possible right now, and yet I talk to homeowners every week who have no idea the credit even applies to batteries. Some of them already bought a battery and missed out entirely because they didn't plan ahead. Don't be one of those people.

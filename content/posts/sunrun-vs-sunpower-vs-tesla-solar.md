@@ -6,8 +6,6 @@ description: "Compare SunRun, SunPower, and Tesla Solar on cost, efficiency, war
 image: "https://images.pexels.com/photos/7211069/pexels-photo-7211069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["SunRun", "Sunpower", "Tesla", "Solar"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "sunrun-vs-sunpower-vs-tesla-solar"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most homeowners, no. The Solar Roof (glass tile product) costs roughly $5.00-$7.00+ per watt installed, roughly double or more versus conventional panels. It makes visual and financial sense in a narrow scenario: you need a full roof replacement anyway, you're building new construction, and you have strong aesthetic preferences. Otherwise, standard panels on a good roof are dramatically better value."
   - q: "Can I get multiple quotes from these companies and compare them directly?"
     a: "Yes, and you should. For Tesla, pricing is fixed and posted online, so that one's easy. For SunPower, contact two or three local dealers (they operate independently, so pricing varies). For Sunrun, be specific that you want a cash purchase quote alongside any lease or PPA option, so you're comparing apples to apples. Using a platform like EnergySage to get competing bids alongside these three is the best way to know whether you're getting fair pricing in your market."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 Three companies dominate the residential solar conversation in America, and the coverage of them is almost universally useless. Most comparisons just list specs and call it a day. What actually matters: who's going to be around in ten years, whose contracts won't trap you, and whether the panels on your roof are worth what you're paying.

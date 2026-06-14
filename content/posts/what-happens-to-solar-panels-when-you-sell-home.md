@@ -6,8 +6,6 @@ description: "Wondering what happens to your solar panels when you sell your hom
 image: "https://images.pexels.com/photos/4320449/pexels-photo-4320449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["what", "happens", "solar", "panels", "when"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "what-happens-to-solar-panels-when-you-sell-home"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. The 30% federal Investment Tax Credit (ITC) is claimed by whoever purchased and installed the system. If you took it when you installed the panels, the buyer gets no credit for it. However, the ITC doesn't reduce what buyers are willing to pay for your home, it just means they can't claim it themselves."
   - q: "What happens to my net metering agreement when I sell?"
     a: "This varies by utility and state. Some utilities transfer the existing agreement to the new owner automatically. Others require a new application, which matters in states like California where older NEM agreements carry better rates than new ones. Check with your utility before listing and include the details in your disclosure documents."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Most solar sellers leave money on the table. Not because they priced the system wrong, but because they didn't understand what they were actually selling.

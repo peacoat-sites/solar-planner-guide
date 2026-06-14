@@ -6,8 +6,6 @@ description: "Save money by going solar. Compare upfront solar installation cost
 image: https://images.pexels.com/photos/5833878/pexels-photo-5833878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "cost", "electricity", "bill", "savings"]
-author: "Chris Navarro"
-author_bio: "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."
 slug: "solar-cost-vs-electricity-bill-savings"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Buying outright maximizes your lifetime savings. If you have the capital and the system makes financial sense, cash is the best option. That said, a well-structured solar loan at a low interest rate can still deliver positive returns, especially if the alternative is keeping that money in a low-yield savings account. Leases and PPAs lower upfront cost but also transfer most of the financial benefits to the installer. They made more sense a decade ago when systems cost twice as much."
   - q: "How do I know if my installer's savings estimate is realistic?"
     a: "Ask them to provide an hour-by-hour simulation using software like PVWatts, System Advisor Model (SAM), or Aurora Solar. A reputable installer will show you annual production estimates by month, not just a single annual number. Cross-check their production estimate against NREL's free PVWatts tool using your address. If their numbers are more than 10 to 15% higher than PVWatts, ask them to justify the difference."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 Imagine you're staring at a $220 electricity bill in July, your third triple-digit bill in a row, and your neighbor casually mentions his solar panels have cut his bill to $14 a month. You start doing the math on your phone right there in the kitchen. Is it actually worth it? That's the question I get asked more than any other, and the honest answer is: it depends on numbers most solar salespeople won't walk you through carefully. So let's do it right.

@@ -6,8 +6,6 @@ description: "Discover the key solar PPA pros and cons, including zero upfront c
 image: "https://images.pexels.com/photos/29499312/pexels-photo-29499312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["solar", "pros", "cons"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "solar-ppa-pros-and-cons"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Typically you'll have a few options: renew the agreement for another term, purchase the system at fair market value, or have the company remove the equipment. The removal option sounds clean, but the company isn't always incentivized to move quickly, and you're left with patch work on your roof. Get the end-of-term provisions spelled out clearly before signing."
   - q: "Is the electricity from a PPA actually greener?"
     a: "The panels produce the same clean energy regardless of who owns them. Where it gets nuanced is with renewable energy certificates, or RECs. In some contracts, the PPA company retains the RECs associated with your system's production, which means technically they can claim the environmental attributes, not you. If the 'green' aspect matters to you, ask specifically whether the RECs are assigned to you or retained by the company."
+author: "Craig Stevens"
+author_slug: "craig-stevens"
+author_title: "Financial Advisor"
+author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+
 ---
 
 You got a knock on the door, or maybe an email, from a solar company offering to put panels on your roof for free. No upfront cost, no equipment to buy, just sign here and start saving. It sounds almost too good to be true, which is exactly why you're here researching it before you commit. Good instinct. A solar Power Purchase Agreement, or PPA, is one of the most misunderstood financial products in residential energy, and the people selling them aren't always going to walk you through the parts that could complicate your life five years from now.

@@ -6,8 +6,6 @@ description: "Discover our in-depth Enphase IQ battery review covering performan
 image: "https://images.pexels.com/photos/698485/pexels-photo-698485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Battery Storage"]
 tags: ["Enphase", "battery", "review"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "enphase-iq-battery-review"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The Enlighten app is genuinely one of the better monitoring platforms in residential solar. You get real-time production and consumption data, battery state of charge, historical graphs, and individual microinverter status. The app has been criticized for being slow to load on older phones and occasionally losing sync with the gateway during Wi-Fi interruptions, but these are minor annoyances rather than serious problems. For deeper home energy monitoring by circuit, some homeowners supplement it with a device like the Emporia Vue."
   - q: "What happens to my Enphase system if Enphase goes out of business?"
     a: "This comes up more than you'd think. The hardware itself will continue to work without Enphase's servers because the physical components are installed on your home. You'd lose app monitoring and remote diagnostics, and firmware updates would stop, but the panels would still generate and the batteries would still store. Enphase is publicly traded (ENPH) and, as of this writing, one of the largest residential solar technology companies in the U.S. That's not a guarantee of permanence, but it's not a startup risk either."
+author: "Alex Rivera"
+author_slug: "alex-rivera"
+author_title: "Solar Engineer"
+author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+
 ---
 
 You've just gotten three solar-plus-storage quotes, and every single installer is pushing the Enphase IQ Battery. One says it's "the most reliable system on the market." Another calls it "the best fit for microinverter setups." The third hands you a glossy brochure and circles the 10-year warranty. What none of them mention is how the system actually performs when the grid goes down at 2 a.m., whether the usable capacity matches the spec sheet, or why some homeowners end up underwhelmed despite spending $10,000 or more on storage. That's what we're going to get into here.

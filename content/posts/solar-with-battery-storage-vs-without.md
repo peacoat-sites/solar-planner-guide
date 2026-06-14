@@ -6,8 +6,6 @@ description: "Discover the key differences between solar with battery storage an
 image: "https://images.pexels.com/photos/36085816/pexels-photo-36085816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Battery Storage"]
 tags: ["solar", "with", "battery", "storage", "without"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "solar-with-battery-storage-vs-without"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, as of 2023, standalone battery storage systems qualify for the 30% federal Investment Tax Credit even if they're not paired with solar, thanks to the Inflation Reduction Act. The battery must have a capacity of at least 3 kWh. This credit is nonrefundable, meaning it reduces your tax liability dollar-for-dollar but won't generate a refund if you don't owe that much. Talk to a tax advisor if your tax situation is complicated."
   - q: "What size battery do I actually need to get through the night?"
     a: "The average U.S. home uses about 30 kWh per day, but evening and nighttime consumption from about 5pm to 7am is typically 10 to 15 kWh. A single Powerwall 3 (13.5 kWh) covers most homes through a normal night at moderate consumption. If you have electric heating, a hot tub, or an EV you charge overnight, you'll want to model your actual evening load more carefully before sizing. An installer can pull this data from your utility account."
+author: "Nadia Patel"
+author_slug: "nadia-patel"
+author_title: "Sustainability Writer"
+author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+
 ---
 
 You finally get your first electric bill after going solar. You were expecting something close to zero. Instead, it's $94. You call your installer confused, and they explain that yes, your panels are producing power, but you're still drawing from the grid every evening when the sun goes down. You didn't add a battery. And now, six months in, you're wondering if you made the right call.
