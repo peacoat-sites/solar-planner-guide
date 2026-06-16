@@ -23,6 +23,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  youtube_channel = "UCVEzRfjjefdi3iejwvU-_qw"
   page_bg = "#f0faff"
   nav_style = "light"
   description = "Plan your home solar installation with confidence - costs, tax credits, financing, and savings calculators explained clearly."
