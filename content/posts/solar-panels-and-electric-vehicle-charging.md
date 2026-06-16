@@ -3,7 +3,7 @@ title: "Solar Panels And Electric Vehicle Charging"
 date: 2026-05-30T10:55:31.108655+00:00
 draft: false
 description: "Discover how solar panels can power your electric vehicle charging at home, reduce energy costs, and help you drive on clean, renewable energy every day."
-image: "https://images.pexels.com/photos/9799757/pexels-photo-9799757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/27275225/pexels-photo-27275225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy Efficiency & Solar"]
 tags: ["solar", "panels", "electric", "vehicle", "charging"]
 slug: "solar-panels-and-electric-vehicle-charging"

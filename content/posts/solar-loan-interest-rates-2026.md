@@ -3,7 +3,7 @@ title: "Solar Loan Interest Rates 2026"
 date: 2026-05-23T08:04:23.990364+00:00
 draft: false
 description: "Compare solar loan interest rates in 2026. Discover current APRs, top lenders, loan terms, and tips to secure the best financing for your solar panel installati"
-image: "https://images.pexels.com/photos/8293743/pexels-photo-8293743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8292889/pexels-photo-8292889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["solar", "loan", "interest", "rates", "2026"]
 slug: "solar-loan-interest-rates-2026"
@@ -115,7 +115,7 @@ The solar industry is genuinely good at making complex financing look simple. It
 - **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
 
 
-*Photo: [MARIANNE RIXHON](https://www.pexels.com/@marianne-rixhon-10955129) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

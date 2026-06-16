@@ -3,7 +3,7 @@ title: "What Happens To Solar Panels When You Sell Home"
 date: 2026-06-03T14:09:39.104511+00:00
 draft: false
 description: "Wondering what happens to your solar panels when you sell your home? Learn how solar ownership, leases, and loans affect the sale process and home value."
-image: "https://images.pexels.com/photos/4320449/pexels-photo-4320449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9875673/pexels-photo-9875673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["what", "happens", "solar", "panels", "when"]
 slug: "what-happens-to-solar-panels-when-you-sell-home"
@@ -108,7 +108,7 @@ The single most useful thing you can do right now, whether you're selling in six
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 
 
-*Photo: [MARIANNE RIXHON](https://www.pexels.com/@marianne-rixhon-10955129) via Pexels*
+*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
 

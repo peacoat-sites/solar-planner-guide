@@ -133,7 +133,7 @@ The 30% credit is one of the most straightforward federal incentives available t
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

@@ -145,7 +145,7 @@ The honest answer to "how many panels do I need" is that it takes about 20 minut
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
+*Photo: [Nova lv](https://www.pexels.com/@nova-lv-155338973) via Pexels*
 
 ---
 

@@ -151,7 +151,7 @@ The bottom line is that solar can be an excellent investment, a mediocre one, or
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
 
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
+*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
 
 ---
 

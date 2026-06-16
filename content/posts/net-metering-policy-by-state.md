@@ -3,7 +3,7 @@ title: "Net Metering Policy By State"
 date: 2026-05-18T17:49:18.061379+00:00
 draft: false
 description: "Net metering policies vary by state. Learn how solar and renewable energy credits work, state-by-state comparisons, and how net metering affects your utility bi"
-image: "https://images.pexels.com/photos/34581637/pexels-photo-34581637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12891800/pexels-photo-12891800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["metering", "policy", "state"]
 slug: "net-metering-policy-by-state"
@@ -112,7 +112,7 @@ This is where I want to be direct with you, because I've seen homeowners make ex
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
 
-*Photo: [John Robertson](https://www.pexels.com/@john-robertson-1100376905) via Pexels*
+*Photo: [Brett Sayles](https://www.pexels.com/@brett-sayles) via Pexels*
 
 ---
 

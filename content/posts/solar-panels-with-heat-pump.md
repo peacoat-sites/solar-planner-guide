@@ -3,7 +3,7 @@ title: "Solar Panels With Heat Pump"
 date: 2026-06-15T13:29:22.716756+00:00
 draft: false
 description: "Discover how combining solar panels with a heat pump can slash energy bills, boost efficiency, and create a fully sustainable home heating and cooling system."
-image: "https://images.pexels.com/photos/29206501/pexels-photo-29206501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/25751713/pexels-photo-25751713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy Efficiency & Solar"]
 tags: ["solar", "panels", "with", "heat", "pump"]
 author: "Patricia Moore"
@@ -83,7 +83,7 @@ And if your utility has extremely low net metering rates or has moved to full re
 - **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
 
 
-*Photo: [Stefan de Vries](https://www.pexels.com/@sdvmovies) via Pexels*
+*Photo: [Dhruvan Patel](https://www.pexels.com/@dhruvan-patel-1353558181) via Pexels*
 
 ---
 

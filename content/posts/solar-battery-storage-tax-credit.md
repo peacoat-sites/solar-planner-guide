@@ -3,7 +3,7 @@ title: "Solar Battery Storage Tax Credit"
 date: 2026-05-22T08:54:28.876255+00:00
 draft: false
 description: "Discover how to claim the solar battery storage tax credit and reduce your energy costs. Learn eligibility requirements, savings, and application steps today."
-image: "https://images.pexels.com/photos/37578596/pexels-photo-37578596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6040783/pexels-photo-6040783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "battery", "storage", "credit"]
 slug: "solar-battery-storage-tax-credit"
@@ -128,7 +128,7 @@ The 30% Residential Clean Energy Credit for battery storage is one of the most v
 - **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [William Mead](https://www.pexels.com/@william-mead-106275) via Pexels*
 
 ---
 

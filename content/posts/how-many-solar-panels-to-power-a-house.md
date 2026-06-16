@@ -3,7 +3,7 @@ title: "How Many Solar Panels To Power A House"
 date: 2026-06-14T10:34:29.396251+00:00
 draft: false
 description: "Find out exactly how many solar panels your home needs. We break down average usage, panel wattage, and key factors to help you plan your solar installation."
-image: "https://images.pexels.com/photos/34557230/pexels-photo-34557230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/31980770/pexels-photo-31980770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["System Sizing"]
 tags: ["many", "solar", "panels", "power", "house"]
 slug: "how-many-solar-panels-to-power-a-house"

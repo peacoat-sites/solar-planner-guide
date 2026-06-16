@@ -3,7 +3,7 @@ title: "Solar Installer Red Flags To Avoid"
 date: 2026-06-09T10:42:16.217431+00:00
 draft: false
 description: "Protect your investment by spotting common solar installer red flags before signing. Learn which warning signs to avoid for a safe, successful solar panel insta"
-image: "https://images.pexels.com/photos/12243093/pexels-photo-12243093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8853522/pexels-photo-8853522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["solar", "installer", "flags", "avoid"]
 slug: "solar-installer-red-flags-to-avoid"
@@ -116,7 +116,7 @@ You can find a good installer. They exist in every market. But they share the ma
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
 
-*Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
+*Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Federal Solar Tax Credit Expiration"
 date: 2026-05-25T11:11:36.193394+00:00
 draft: false
 description: "Federal solar tax credit expires soon. Learn about the 30% ITC deadline, what it means for homeowners, and how to claim before the incentive phases out."
-image: "https://images.pexels.com/photos/356036/pexels-photo-356036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/35454189/pexels-photo-35454189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["federal", "solar", "credit", "expiration"]
 slug: "federal-solar-tax-credit-expiration"

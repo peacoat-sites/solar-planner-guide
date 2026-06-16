@@ -3,7 +3,7 @@ title: "Solar Panel Shading Impact On Output"
 date: 2026-06-16T12:21:32.799644+00:00
 draft: false
 description: "Learn how shading affects solar panel output, why even partial shadows cause major power loss, and how to optimize your system for maximum energy production."
-image: "https://images.pexels.com/photos/8783541/pexels-photo-8783541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33537433/pexels-photo-33537433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Performance"]
 tags: ["solar", "panel", "shading", "impact", "output"]
 author: "Derek Hansen"
@@ -91,7 +91,7 @@ Without panel-level monitoring, you're flying blind. The Emporia Vue ([around $7
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [El Jundi](https://www.pexels.com/@talal) via Pexels*
 
 ---
 

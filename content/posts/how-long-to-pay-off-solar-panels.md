@@ -123,7 +123,7 @@ Solar is one of the best long-term investments a homeowner can make, but only if
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 
 
-*Photo: [Stefan de Vries](https://www.pexels.com/@sdvmovies) via Pexels*
+*Photo: [ArtHouse Studio](https://www.pexels.com/@arthousestudio) via Pexels*
 
 ---
 

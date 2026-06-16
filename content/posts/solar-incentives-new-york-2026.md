@@ -3,7 +3,7 @@ title: "Solar Incentives New York 2026"
 date: 2026-05-22T12:58:58.496513+00:00
 draft: false
 description: "Discover the latest solar incentives and tax credits available in New York for 2026. Learn how to maximize savings on your solar panel installation today."
-image: "https://images.pexels.com/photos/8853502/pexels-photo-8853502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11145690/pexels-photo-11145690.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "York", "2026"]
 slug: "solar-incentives-new-york-2026"
@@ -112,7 +112,7 @@ New York's incentive stack rewards homeowners who do their homework. The dollars
 - **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
 
 
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
+*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*
 
 ---
 

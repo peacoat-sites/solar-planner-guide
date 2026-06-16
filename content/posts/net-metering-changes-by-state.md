@@ -3,7 +3,7 @@ title: "Net Metering Changes By State"
 date: 2026-06-10T11:03:13.431142+00:00
 draft: false
 description: "Discover how net metering rules vary across the US, including recent state-by-state policy changes affecting solar credits, rates, and savings for homeowners."
-image: "https://images.pexels.com/photos/20782341/pexels-photo-20782341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28368375/pexels-photo-28368375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["metering", "changes", "state"]
 slug: "net-metering-changes-by-state"
@@ -110,7 +110,7 @@ Net metering policy is, at its core, a negotiation between what solar homeowners
 - **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
 
 
-*Photo: [Ana Morales](https://www.pexels.com/@ana-morales-1110685853) via Pexels*
+*Photo: [Theodore Nguyen](https://www.pexels.com/@thejourneyofframes) via Pexels*
 
 ---
 

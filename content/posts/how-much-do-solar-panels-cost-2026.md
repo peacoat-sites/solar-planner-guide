@@ -133,7 +133,7 @@ The bottom line is this: solar in 2026 is a mature, well-understood investment w
 - **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
 
 
-*Photo: [Stefan de Vries](https://www.pexels.com/@sdvmovies) via Pexels*
+*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
 
 ---
 

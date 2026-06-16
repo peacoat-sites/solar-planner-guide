@@ -3,7 +3,7 @@ title: "Zero Down Solar Financing Options"
 date: 2026-05-24T14:47:46.169640+00:00
 draft: false
 description: "Discover zero down solar financing options that make going solar affordable with no upfront costs. Compare loans, leases, and PPAs to find your best fit today."
-image: "https://images.pexels.com/photos/9800094/pexels-photo-9800094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6961091/pexels-photo-6961091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["zero", "down", "solar", "financing", "options"]
 slug: "zero-down-solar-financing-options"
@@ -145,7 +145,7 @@ The zero-down solar market is legitimately good news for homeowners who couldn't
 - **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
 
 
-*Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
+*Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
 
 ---
 

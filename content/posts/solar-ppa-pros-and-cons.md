@@ -3,7 +3,7 @@ title: "Solar Ppa Pros And Cons"
 date: 2026-05-29T13:24:48.451121+00:00
 draft: false
 description: "Discover the key solar PPA pros and cons, including zero upfront costs and long-term savings, plus potential drawbacks to help you decide if it is right for you"
-image: "https://images.pexels.com/photos/29499312/pexels-photo-29499312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19895914/pexels-photo-19895914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["solar", "pros", "cons"]
 slug: "solar-ppa-pros-and-cons"
@@ -131,7 +131,7 @@ A solar PPA can be a genuinely good deal for the right homeowner, or a 25-year f
 - **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
 
 
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
+*Photo: [ThisIsEngineering](https://www.pexels.com/@thisisengineering) via Pexels*
 
 ---
 

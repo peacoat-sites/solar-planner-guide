@@ -3,7 +3,7 @@ title: "Solar Panels In New York Guide"
 date: 2026-06-13T10:11:04.092277+00:00
 draft: false
 description: "Discover everything you need to know about installing solar panels in New York, including costs, incentives, top providers, and how to maximize your savings tod"
-image: "https://images.pexels.com/photos/9875415/pexels-photo-9875415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6961215/pexels-photo-6961215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "York", "guide"]
 slug: "solar-panels-in-new-york-guide"
@@ -102,7 +102,7 @@ Solar in New York isn't a perfect fit for everyone, but for a homeowner with a r
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
 
 ---
 

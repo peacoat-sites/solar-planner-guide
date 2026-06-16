@@ -3,7 +3,7 @@ title: "Solar Plus Battery Storage Cost"
 date: 2026-06-02T12:56:15.921790+00:00
 draft: false
 description: "Discover the true cost of solar plus battery storage systems in 2024. Compare prices, explore savings, and find out if this investment is right for your home."
-image: "https://images.pexels.com/photos/9799765/pexels-photo-9799765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/38040016/pexels-photo-38040016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Costs & ROI"]
 tags: ["solar", "plus", "battery", "storage", "cost"]
 slug: "solar-plus-battery-storage-cost"
@@ -105,7 +105,7 @@ Getting solar plus battery storage right is genuinely more complex than either c
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
 
-*Photo: [MARIANNE RIXHON](https://www.pexels.com/@marianne-rixhon-10955129) via Pexels*
+*Photo: [Ramesh Kambattan](https://www.pexels.com/@rameshkambattan) via Pexels*
 
 ---
 

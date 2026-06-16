@@ -3,7 +3,7 @@ title: "Solar Incentives Texas 2026"
 date: 2026-05-25T19:11:58.886637+00:00
 draft: false
 description: "Discover the latest solar incentives and rebates available in Texas for 2026. Learn about federal tax credits, state programs, and how to maximize your savings."
-image: "https://images.pexels.com/photos/27873610/pexels-photo-27873610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15751131/pexels-photo-15751131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "Texas", "2026"]
 slug: "solar-incentives-texas-2026"
@@ -130,7 +130,7 @@ Texas isn't the easiest state to navigate for solar incentives. The fragmented u
 - **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*
 
 ---
 

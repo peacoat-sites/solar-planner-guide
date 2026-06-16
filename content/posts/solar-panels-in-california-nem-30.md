@@ -3,7 +3,7 @@ title: "Solar Panels In California Nem 3.0"
 date: 2026-06-08T12:10:10.246728+00:00
 draft: false
 description: "Discover how California's NEM 3.0 affects solar panel owners. Learn about new net metering rates, battery storage benefits, and whether solar still makes financ"
-image: "https://images.pexels.com/photos/37083400/pexels-photo-37083400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33385147/pexels-photo-33385147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "California"]
 slug: "solar-panels-in-california-nem-30"
@@ -102,7 +102,7 @@ What the NEM 3.0 transition really is, stripped of all the policy language, is a
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 
-*Photo: [Iqbal farooz](https://www.pexels.com/@wanderinglenses) via Pexels*
+*Photo: [Keysi Estrada](https://www.pexels.com/@keysi-estrada-2151553493) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Is Solar Lease Worth It"
 date: 2026-05-28T16:07:41.311078+00:00
 draft: false
 description: "Wondering if a solar lease is worth it? Discover the pros, cons, and costs to help you decide if leasing solar panels is the right choice for your home."
-image: "https://images.pexels.com/photos/30440447/pexels-photo-30440447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7054502/pexels-photo-7054502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["solar", "lease", "worth"]
 slug: "is-solar-lease-worth-it"
@@ -129,7 +129,7 @@ Solar leases solved a real problem when they emerged: they made solar accessible
 - **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
 
 
-*Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
+*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
 

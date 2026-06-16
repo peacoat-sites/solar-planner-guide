@@ -135,7 +135,7 @@ Solar is a strong financial investment for a lot of homeowners, but not for all 
 - **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
 
 
-*Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
+*Photo: [Calvin Seng](https://www.pexels.com/@calvinseng) via Pexels*
 
 ---
 

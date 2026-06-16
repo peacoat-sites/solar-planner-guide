@@ -3,7 +3,7 @@ title: "Transferring Solar Lease When Selling Home"
 date: 2026-05-23T14:41:34.999309+00:00
 draft: false
 description: "Learn how to transfer a solar lease when selling your home. Understand your options, buyer requirements, and steps to ensure a smooth, successful property sale."
-image: "https://images.pexels.com/photos/8292794/pexels-photo-8292794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32324897/pexels-photo-32324897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["transferring", "solar", "lease", "when", "selling"]
 slug: "transferring-solar-lease-when-selling-home"
@@ -130,7 +130,7 @@ The good news is that thousands of solar-leased homes sell every year without ma
 - **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
 
 
-*Photo: [MARIANNE RIXHON](https://www.pexels.com/@marianne-rixhon-10955129) via Pexels*
+*Photo: [Roman Biernacki](https://www.pexels.com/@szafran) via Pexels*
 
 ---
 

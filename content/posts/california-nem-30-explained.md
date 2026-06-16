@@ -3,7 +3,7 @@ title: "California Nem 3.0 Explained"
 date: 2026-06-12T11:11:09.946172+00:00
 draft: false
 description: "Discover how California's NEM 3.0 changes solar compensation rates, impacts payback periods, and what homeowners need to know before going solar under the new p"
-image: "https://images.pexels.com/photos/9638474/pexels-photo-9638474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8783543/pexels-photo-8783543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["California", "explained"]
 slug: "california-nem-30-explained"
@@ -106,7 +106,7 @@ The bottom line on NEM 3.0 is that it rewards a different kind of solar customer
 - **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
 
 
-*Photo: [Riccardo Zerbinati](https://www.pexels.com/@riccardo-zerbinati-3666278) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "How Long Do Solar Batteries Last"
 date: 2026-06-05T12:21:33.106347+00:00
 draft: false
 description: "Discover how long solar batteries last, what affects their lifespan, and tips to maximize performance so you get the most value from your solar energy system."
-image: "https://images.pexels.com/photos/9875685/pexels-photo-9875685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36594160/pexels-photo-36594160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Batteries"]
 tags: ["long", "solar", "batteries", "last"]
 slug: "how-long-do-solar-batteries-last"
@@ -98,7 +98,7 @@ It also means being talked into a premium product today partly on longevity grou
 - **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
 
 
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
+*Photo: [Heru Dharma](https://www.pexels.com/@heru-dharma-2148751843) via Pexels*
 
 ---
 

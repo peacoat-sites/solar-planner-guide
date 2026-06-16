@@ -3,7 +3,7 @@ title: "Solar Panels In Arizona Guide"
 date: 2026-06-11T11:49:23.455313+00:00
 draft: false
 description: "Discover everything you need to know about installing solar panels in Arizona, including costs, incentives, top providers, and how to maximize savings in the su"
-image: "https://images.pexels.com/photos/12923395/pexels-photo-12923395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9229395/pexels-photo-9229395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "Arizona", "guide"]
 slug: "solar-panels-in-arizona-guide"
@@ -110,7 +110,7 @@ The decision to go solar in Arizona is, for most homeowners, a genuinely good on
 - **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
 
 
-*Photo: [contact me +923323219715](https://www.pexels.com/@contact-me-923323219715-262056873) via Pexels*
+*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
 
 ---
 

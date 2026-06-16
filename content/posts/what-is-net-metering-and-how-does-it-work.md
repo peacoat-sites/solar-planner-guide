@@ -3,7 +3,7 @@ title: "What Is Net Metering And How Does It Work"
 date: 2026-06-06T09:33:11.057517+00:00
 draft: false
 description: "Learn how net metering works, how it credits solar energy users for excess power sent to the grid, and how it can lower your monthly electricity bills."
-image: "https://images.pexels.com/photos/9875684/pexels-photo-9875684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9799767/pexels-photo-9799767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Incentives"]
 tags: ["what", "metering", "does", "work"]
 slug: "what-is-net-metering-and-how-does-it-work"
