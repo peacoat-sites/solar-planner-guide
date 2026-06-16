@@ -1,0 +1,35 @@
+{{/* Solar savings calculator. Usage: {{< solar-calculator >}} */}}
+<div style="margin:28px 0;border:1px solid var(--border,#e7e5e4);border-radius:14px;overflow:hidden">
+  <div style="padding:16px 20px;background:var(--surface2,#f5f2ec);font-weight:700;font-size:1.05rem">Solar Savings Calculator</div>
+  <div style="padding:20px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Avg monthly electric bill ($)<input id="s-bill" type="number" value="160" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">% of bill solar offsets<input id="s-off" type="number" value="90" min="0" max="100" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Utility rate increase (%/yr)<input id="s-infl" type="number" value="3" step="0.5" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+    </div>
+    <div style="margin-top:20px;background:var(--surface2,#f5f2ec);border-radius:12px;padding:18px 20px;text-align:center">
+      <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b7280)">Estimated 25-year savings</div>
+      <div id="s-25" style="font-size:2.3rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.1;margin:4px 0 12px">$0</div>
+      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
+        <div style="flex:1;min-width:120px;background:#fff;border-radius:10px;padding:10px"><div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase">Monthly savings</div><div id="s-mo" style="font-size:1.3rem;font-weight:700">$0</div></div>
+        <div style="flex:1;min-width:120px;background:#fff;border-radius:10px;padding:10px"><div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase">Year-1 savings</div><div id="s-y1" style="font-size:1.3rem;font-weight:700">$0</div></div>
+      </div>
+    </div>
+    <p style="font-size:12px;color:var(--muted,#6b7280);margin:12px 0 0">Estimate only. Actual savings depend on your system size, local rates, sun exposure, and incentives. Get quotes from multiple installers.</p>
+  </div>
+</div>
+<script>(function(){
+  var ids=['s-bill','s-off','s-infl'];
+  function num(id){var e=document.getElementById(id);return e?(parseFloat(e.value)||0):0;}
+  function fmt(n){return '$'+Math.round(n).toLocaleString();}
+  function calc(){
+    var bill=num('s-bill'),off=num('s-off')/100,infl=num('s-infl')/100;
+    var y1=bill*12*off, mo=bill*off, total=0, s=y1;
+    for(var i=0;i<25;i++){total+=s;s*=(1+infl);}
+    var a=document.getElementById('s-25');if(a)a.textContent=fmt(total);
+    var b=document.getElementById('s-mo');if(b)b.textContent=fmt(mo);
+    var c=document.getElementById('s-y1');if(c)c.textContent=fmt(y1);
+  }
+  ids.forEach(function(id){var e=document.getElementById(id);if(e){e.addEventListener('input',calc);}});
+  calc();
+})();</script>
