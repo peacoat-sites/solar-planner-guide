@@ -104,27 +104,6 @@ Local building departments set their own requirements for roof penetrations, fir
 
 ---
 
-## Frequently Asked Questions
-
-### Does my roof need to be new to get solar panels installed?
-
-No. Plenty of people successfully install solar on roofs that are 10 or even 15 years old. The key question isn't age alone, it's remaining lifespan. If your roof has at least 10 to 12 years of serviceable life left, it's generally a reasonable candidate. Have an independent roofer assess it before you commit.
-
-### Can solar panels be installed on a flat roof?
-
-Yes, though it requires a different approach than pitched roofs. Flat-roof installations use either ballasted racking systems (which use weight to hold the array in place without roof penetrations) or penetrating mounts. Ballasted systems add significant weight, so a structural assessment is especially important. The array is typically tilted at 10 to 15 degrees to allow water runoff and optimize sun exposure.
-
-### What if my roof has multiple planes facing different directions?
-
-This is actually very common and usually manageable. Installers can split the array across multiple roof sections, though it may affect inverter choice (microinverters or power optimizers tend to handle multi-orientation systems better than string inverters). You might see slightly lower overall production versus a single south-facing plane, but the difference varies by layout and location.
-
-### Will installing solar void my roof warranty?
-
-It can, depending on your roofing material and the installation method. Some shingle manufacturers void warranties if holes are drilled by non-certified contractors. Ask your solar installer specifically whether they use roofing-manufacturer-approved hardware and whether the installation method affects your existing warranty. If your roof is newer and still under warranty, this is a non-negotiable conversation to have before installation.
-
-### How do I monitor whether my roof or panels have a problem after installation?
-
-Panel-level monitoring through your inverter's app (Enphase Enlighten, SolarEdge monitoring portal, etc.) will flag production drops that can indicate shading issues, equipment failures, or damage. For the roof itself, a home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=yourtag-20) *(Amazon, affiliate link)* can help you track consumption patterns that might indicate something's off with your system. You should also do a visual roof inspection once a year, ideally from the ground with binoculars, looking for lifted panels, damaged flashing, or debris accumulation under the array.
 
 ---
 

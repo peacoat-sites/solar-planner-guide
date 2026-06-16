@@ -114,27 +114,6 @@ I've helped hundreds of homeowners work through this exact decision. Here's how 
 
 For homeowners who want to track their system's actual production against these projections, a home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor) (Amazon, affiliate link) can show you real-time and historical production data so you know whether your panels are performing as promised.
 
-## Frequently Asked Questions
-
-### Are polycrystalline panels becoming obsolete?
-
-Essentially, yes, for the residential market. The Solar Energy Industries Association (SEIA) has reported a dramatic shift in U.S. installations toward monocrystalline panels over the past several years, and polycrystalline now represents a small and shrinking share of new residential installs. The manufacturing cost difference that once justified poly has narrowed so much that the performance disadvantage is hard to justify. You'll still see polycrystalline offered, sometimes as a budget option or through installers moving older inventory, but for a new installation in 2024, I'd push back hard before accepting poly panels.
-
-### Does panel type affect how long my system will last?
-
-The panels themselves from both technologies can physically last 30 or more years. The relevant question is how much output you'll have in year 20 or year 25. Because monocrystalline panels typically degrade more slowly, they retain more of their original production capacity late in the system's life. That said, inverters, racking, and wiring are often what require attention before the panels themselves fail, regardless of panel type.
-
-### Will polycrystalline panels affect my home's resale value?
-
-Potentially. Research consistently shows that solar installations increase home resale values, with a commonly cited figure from Lawrence Berkeley National Laboratory of about $4 per watt of installed capacity. However, savvy buyers and their home inspectors increasingly look at panel brand and type. A system with high-efficiency monocrystalline panels from a bankable manufacturer will likely be seen as more valuable than an older polycrystalline system with lower output ratings. This is speculative territory, but it's worth keeping in mind.
-
-### Can I mix monocrystalline and polycrystalline panels on the same system?
-
-Technically you can, but you generally shouldn't. Mixing panel types with different voltage and current characteristics creates problems for inverter optimization and can drag down the performance of the better panels to match the weaker ones. If you're expanding an existing system or replacing failed panels, stick with the same type and ideally the same model. For a new installation, there's no good reason to mix.
-
-### Do monocrystalline panels look better on a roof?
-
-This is subjective, but most homeowners and real estate professionals find monocrystalline's uniform dark appearance more aesthetically pleasing than polycrystalline's blue, shimmery look. If curb appeal matters to you, and for many homeowners it genuinely does, mono panels blend more naturally into a dark roof. All-black monocrystalline panels, where the backsheet and frame are also black, are the most visually seamless option available today.
 
 ---
 

@@ -104,27 +104,6 @@ If you want to go deeper, a [solar production monitoring device](https://www.ama
 
 ---
 
-## Frequently Asked Questions
-
-### How accurate are online solar savings calculators?
-
-Accuracy varies widely. Tools like PVWatts are highly accurate for production estimates because they use decades of weather data and let you input detailed system parameters. Consumer-facing calculators with minimal inputs (just zip code and bill amount) can be off by 20-40% in either direction, especially if they don't account for shading, roof pitch, or local net metering policy. Always cross-check with at least two tools.
-
-### What's the most important variable in a solar savings calculation?
-
-Your utility rate and how it changes over time. A homeowner paying $0.28/kWh saves almost twice as much per kWh generated compared to one paying $0.15/kWh, even with identical systems. Utility rate escalation assumptions compound dramatically over 25 years. A calculator assuming 3% annual rate increases will project 20-30% higher lifetime savings than one assuming 1.5%. Ask any installer what rate escalation assumption they're using.
-
-### Do solar savings calculators account for battery storage?
-
-Most basic calculators don't include battery storage in their savings analysis. Adding a battery like a Tesla Powerwall changes the math: it lets you use stored solar energy during peak-rate hours instead of exporting cheap and buying expensive. If you're in a state with reduced net metering export rates, battery storage often makes financial sense now in a way it didn't two years ago. For battery-inclusive calculations, look for tools specifically designed for solar-plus-storage analysis or work with an installer who can model both scenarios.
-
-### Should I trust the savings estimate my solar installer gives me?
-
-Treat it as a starting point, not a final answer. Installer estimates range from carefully conservative to aggressively optimistic. The best installers will show you their production assumptions, system degradation rate, and what utility rate escalation they used. If an installer won't show you those inputs, or if their estimate is significantly higher than your PVWatts cross-check, push back. I've seen quotes where production estimates were 25% above what PVWatts would suggest for the same location. That's not a rounding error.
-
-### How do I calculate solar savings if I have time-of-use rates?
-
-TOU savings calculations are more complex. You need to map your consumption by time of day against your production profile. A south-facing system produces mostly between 10am and 3pm. If your utility charges peak rates during those hours, that production is worth maximum value. If you're mostly consuming power in the evening (when panels produce nothing), the savings calculation shifts significantly unless you add battery storage. Some utilities offer online TOU analysis tools. You can also download your hourly usage data from your utility's website and compare it hour-by-hour against a PVWatts hourly production estimate.
 
 ---
 

@@ -123,27 +123,6 @@ What you almost certainly won't face: a sudden, total system shutdown that leave
 
 ---
 
-## Frequently Asked Questions
-
-### Do solar panels need to be replaced after 25 years?
-
-Not automatically. The 25-year mark is when most performance warranties expire, but panels that have degraded at the typical rate of 0.5% per year are still producing about 85 to 88% of their original output. Many homeowners choose to keep running their systems well past warranty expiration. The decision to replace usually comes down to whether roof work is needed (a good time to upgrade panels), whether electricity rates have changed dramatically, or whether new panel technology offers a compelling efficiency jump.
-
-### What kills solar panels early?
-
-The biggest culprits are physical damage (hail, debris), poor installation (which accelerates PID and allows moisture intrusion), and inverter failures that go undetected. I've also seen panels fail prematurely when installed on roofs with poor ventilation, since trapped heat speeds up cell degradation. Choosing a reputable installer with a strong workmanship warranty is more important than most buyers realize.
-
-### Can I sell a home with aging solar panels?
-
-Yes, and solar generally adds value, but the age and condition of the system matters to buyers. A 20-year-old system with documented monitoring records and recent inverter replacement is a much easier sell than an old system with no maintenance history. If you're planning to sell within 10 years of installing panels, document everything: production logs, any repairs, warranty documents.
-
-### Is it worth adding battery storage to an older system?
-
-It can be, especially if your utility has changed its net metering rules or if you want backup power. Modern battery systems like the Tesla Powerwall or Enphase IQ Battery are compatible with many existing solar systems, though your installer will need to assess your inverter compatibility. If your inverter is already aging, adding a battery is often a good trigger to upgrade the whole system rather than patching around old equipment.
-
-### How do I know if my solar panels are underperforming?
-
-The clearest sign is a production number that's noticeably lower than your installer's original estimate or your own records from prior years. Seasonal variation is normal, so compare July to July, not July to January. If you see a sudden drop rather than a gradual one, that usually points to a specific failure: a shading issue, a failed panel, or an inverter problem. A qualified solar technician with a clamp meter and thermal camera can pinpoint the source in a single visit.
 
 ---
 

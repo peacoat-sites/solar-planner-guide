@@ -98,27 +98,6 @@ For this household, assuming a $180/month electricity bill and good south-facing
 
 ---
 
-## Frequently Asked Questions
-
-### Can I claim both the federal ITC and the New York state tax credit on the same system?
-
-Yes. These are separate credits from separate governments and they don't interfere with each other. You claim the 30% federal credit on your IRS return and the 25% New York credit (up to $5,000) on your state return. Most New York homeowners claim both, and that's what makes the combined incentive package so strong.
-
-### Does the New York state solar tax credit expire?
-
-The NY state credit has been in place for years and there's no current sunset date for 2026. That said, the $5,000 cap hasn't been adjusted for inflation in a long time, so its real value has declined. There's no indication it's going away, but as with any tax policy, it's subject to legislative changes.
-
-### What if I don't owe enough state or federal taxes to use the credits?
-
-Both credits can be carried forward. The federal ITC carries forward indefinitely until used. The New York state credit carries forward for up to five years. If you're retired with low taxable income, run the numbers carefully before assuming you'll capture the full value. It may still make sense, but the timeline shifts.
-
-### Does going solar affect my property taxes in New York?
-
-Under the Solar Energy System Equipment Tax Exemption, any increase in your assessed value due to a solar installation is exempt from property taxes for 15 years. You need to apply for this exemption with your local assessor after installation. It doesn't happen automatically, and some homeowners miss it entirely. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) specifically highlights property tax exemptions as a key financial benefit homeowners should proactively claim.
-
-### Is solar worth it in New York if I'm in a high-cost-of-living area with a smaller roof?
-
-It depends on your roof's solar potential and your electricity usage. New York City and downstate areas have some of the highest electricity rates in the continental U.S., often 25 to 30 cents per kilowatt-hour, which actually improves solar economics even on smaller systems. A smaller system produces less energy but saves more per kilowatt-hour. Use NREL's PVWatts calculator to estimate production for your specific address, and check our guide on [how many solar panels you need](/how-many-solar-panels-do-i-need/) to size a system that fits your actual usage and roof space.
 
 ---
 

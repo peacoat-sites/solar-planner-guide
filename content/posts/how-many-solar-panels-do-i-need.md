@@ -131,27 +131,6 @@ Battery storage is a whole separate conversation, but the short version is: if y
 
 ---
 
-## Frequently Asked Questions
-
-### How many solar panels does it take to power a house completely?
-
-It depends entirely on your usage and location, but for the average U.S. home consuming 10,500 kWh per year, you're typically looking at 15 to 25 panels rated at 400 watts each. Homes in sun-rich regions like Arizona might need only 16 to 18 panels. A home in the Pacific Northwest might need 22 to 26 for the same result. "Completely powering" a house also assumes favorable net metering policies, which vary significantly by state and utility.
-
-### What happens if I install too many solar panels?
-
-You'll generate more electricity than you consume. Whether that's a problem depends on your net metering policy. Under full retail net metering, surplus energy credits can roll over and offset future bills, which is genuinely useful. Under the newer California NEM 3.0 framework or other export-credit systems, surplus generation earns you much less per kWh than you pay, making oversizing financially inefficient. Adding battery storage is a better solution than overbuildling panels in those situations.
-
-### Does adding an EV change how many solar panels I need?
-
-Yes, significantly. The average EV driver adds roughly 3,000 to 4,500 kWh of annual electricity consumption depending on their driving habits. That could add 4 to 8 panels to your required system size. If an EV is anywhere in your plans, tell your installer upfront and size for it now. Adding panels to an existing system later almost always costs more per watt than including them in the original install.
-
-### Can I run on solar at night?
-
-Not without battery storage. Solar panels produce electricity only when sunlight is hitting them. At night, a grid-tied system (the most common residential setup) automatically draws from the utility grid. A battery storage system like the Tesla Powerwall, Enphase IQ, or Franklin WH stores excess daytime solar energy for use at night or during outages. If energy independence or backup power is a priority, budget for storage alongside your panels.
-
-### How accurate are online solar calculators?
-
-Moderately useful for ballpark estimates, not reliable for final decisions. Most calculators use regional averages for sun hours and don't account for your specific roof orientation, shading conditions, local utility rate structure, or upcoming changes in your energy use. They're a reasonable way to walk into a conversation with an installer, but treat any number they give you as a starting point, not a quote.
 
 ---
 

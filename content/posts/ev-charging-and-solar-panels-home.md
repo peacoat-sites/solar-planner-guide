@@ -119,27 +119,6 @@ Real results take a full billing cycle or three to show up. Track your net meter
 
 ---
 
-## FAQ
-
-### Can my existing solar system charge an EV without adding more panels?
-
-Possibly, yes. It depends on your current system's output and how much electricity your home already uses. If your system consistently exports power to the grid (visible in your inverter app as net positive), that surplus could cover EV charging needs. If you're already near break-even most months, adding an EV will likely push you into net grid consumption and increase your bill.
-
-### What's the cheapest way to start charging an EV with solar?
-
-Start with a smart outlet timer or your EV's built-in charge scheduling app. Set it to charge during your solar production window, roughly 10 AM to 3 PM. You don't need a new charger or a battery to start capturing solar energy for your car. Level 1 charging during peak sun hours works surprisingly well for moderate daily mileage.
-
-### Does charging an EV at home really save money compared to public charging?
-
-In most cases, significantly yes. The average public Level 2 charger costs $0.20 to $0.35 per kWh. DC fast chargers can run $0.40 to $0.60 per kWh. Home off-peak electricity rates in many states are $0.09 to $0.15 per kWh. For a driver covering 12,000 miles per year in an average EV, the difference between public DC fast charging and home solar charging can exceed $700 annually.
-
-### Will adding an EV affect my solar panel warranty or net metering agreement?
-
-Adding an EV changes your consumption patterns but doesn't affect your solar panel warranty or inverter warranty. Net metering agreements are typically tied to your system's production capacity, not your consumption, so they generally aren't impacted either. That said, if you're in a state where net metering credits are being restructured (California's NEM 3.0 is the most relevant example), timing your EV addition relative to your solar enrollment date can matter significantly. Check with your utility.
-
-### How long does it take to pay off the added solar capacity needed for an EV?
-
-The research here is actually pretty encouraging. If you're adding 2 to 3 kW of panels specifically to cover EV charging, the incremental cost is roughly $4,000 to $6,000 before the federal 30% Investment Tax Credit, bringing it to about $2,800 to $4,200. If those panels offset EV charging that would otherwise cost $600 to $900 per year on grid electricity, payback runs 3 to 7 years. That's a solid return given that the panels carry a 25-year performance warranty.
 
 ---
 

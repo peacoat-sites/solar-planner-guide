@@ -73,27 +73,6 @@ And if your utility has extremely low net metering rates or has moved to full re
 
 ---
 
-## FAQ
-
-### Can my existing solar panels power a new heat pump?
-
-Yes, with caveats. If your current system is producing surplus electricity (visible in your monitoring data as consistent net metering credits), you may have enough headroom. But if you're already consuming most of what you produce, you'll likely need to add panels. Have your installer pull your production data and run a new load calculation before assuming your existing array is sufficient.
-
-### What size solar system do I need for a heat pump?
-
-It depends heavily on your climate and home size, but a rough starting point is adding 2 to 4 kW of solar capacity per ton of heat pump capacity in moderate climates, and up to 5 kW per ton in colder regions. A proper Manual J calculation and your local solar production ratio will get you to a real number faster than any rule of thumb.
-
-### Is it better to install solar and a heat pump at the same time?
-
-Generally yes, for a few practical reasons: you can size the solar system accurately from the start, you may qualify for combined financing, and you only go through one round of permitting disruption. That said, if your roof needs work in the next few years, it might make sense to do the heat pump first and solar later, since reroofing with panels installed is expensive.
-
-### Do heat pumps work well in cold climates?
-
-Modern cold-climate heat pumps like the Mitsubishi Hyper-Heat MXZ or the Daikin Quaternity work down to -13°F and maintain reasonable efficiency at 5°F. The research here is mixed on how well older or cheaper heat pump models perform below 20°F, so brand and model selection matters a lot in places like Minnesota or Maine. Don't let anyone sell you a standard heat pump and promise cold-climate performance.
-
-### Does the 30% federal tax credit apply to both solar and a heat pump?
-
-Solar panels fall under the Residential Clean Energy Credit (30% through 2032, no income limit, no cap). Heat pumps qualify under the Energy Efficient Home Improvement Credit, which is capped at $2,000 per year. These are two separate credits, but you can claim both in the same tax year. Talk to a tax professional about your specific situation, since the heat pump credit is nonrefundable and has rules around timing.
 
 ## Helpful Resources
 

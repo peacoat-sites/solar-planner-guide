@@ -96,27 +96,6 @@ Whether this is a good thing or a bad thing for homeowners depends entirely on y
 
 ---
 
-## FAQ
-
-### Is net metering going away completely?
-
-Unlikely in most states, but the version of net metering that pays full retail rates for exports is clearly on a downward trend. More states are moving toward "value of solar" or avoided-cost models that pay something, just not the retail rate. If you're in a state that still has full retail net metering, that's worth factoring into your timing decision.
-
-### Can I be grandfathered into my state's old net metering rules?
-
-Yes, in most cases. California NEM 2.0 customers are grandfathered for 20 years from their interconnection date. Nevada and Florida also have grandfathering provisions. The specific protection varies by state and utility, so confirm with your utility before signing anything, because grandfathering rules are in the documents, not the sales pitch.
-
-### Does net metering policy affect whether I should get a battery?
-
-Significantly, yes. In states with full retail net metering, batteries primarily add value through backup power and avoiding demand charges (if your utility has them). In states with low export rates like California or Hawaii, batteries can meaningfully improve your financial return because you're using stored power at retail rates instead of exporting at below-retail rates.
-
-### How do I find my current state's net metering policy?
-
-Your state's public utilities commission website is the official source, though it can be hard to parse. DSIRE (dsireusa.org) maintains a state-by-state database that's more readable, and NREL also publishes regular policy tracking reports. Avoid relying on solar installer websites for this, since they don't always update when policies change.
-
-### My neighbor went solar two years ago and has a much better deal than I would get today. Is that fair?
-
-Honestly, no, not if you think about equity across all utility customers. But grandfathering is how utilities and regulators typically manage the transition, so early adopters do genuinely have better economics in states that have moved away from retail net metering. It's one of the real arguments for not waiting if you're in a state with strong rates today.
 
 ---
 

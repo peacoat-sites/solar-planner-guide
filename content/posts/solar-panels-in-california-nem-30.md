@@ -88,27 +88,6 @@ The credit is currently set to stay at 30% through 2032, then step down. There's
 
 ---
 
-## FAQ
-
-### Is solar still worth it in California under NEM 3.0?
-
-For many homeowners, yes, but the math is tighter than it was. Systems paired with battery storage and optimized for self-consumption can still achieve 8 to 12 year paybacks, and given California's rising utility rates and the 30% federal tax credit, the 25-year ROI remains positive for most installations. If you have high daytime electricity use or an EV, the case is stronger. If you have a small bill and no storage, I'd run the numbers carefully before committing.
-
-### Can I still get grandfathered into NEM 2.0?
-
-No, not for new applications. Any system that didn't have a completed interconnection application before April 14, 2023 falls under NEM 3.0. Customers already on NEM 2.0 remain grandfathered for 20 years from their approval date, so if you're on NEM 2.0, don't change your system in ways that might trigger re-enrollment.
-
-### How much does battery storage actually help under NEM 3.0?
-
-It depends on your rate schedule and usage patterns, but CPUC modeling suggested that solar plus storage systems could reduce the payback period gap by 2 to 4 years compared to solar-only systems under NEM 3.0. On a time-of-use rate like PG&E's E-TOUD, a single Powerwall storing midday solar and discharging during the 4 to 9 PM peak can save $800 to $1,400 per year depending on system size and usage.
-
-### What export rates can I actually expect under NEM 3.0?
-
-They vary by hour and season, but as a rough planning figure: midday summer exports (10 AM to 3 PM) typically earn $0.04 to $0.08 per kWh, while late afternoon and evening exports (4 to 8 PM) can earn $0.18 to $0.30 per kWh. These rates are determined by the Avoided Cost Calculator, which updates annually, so they'll shift over time.
-
-### Does NEM 3.0 affect solar leases and PPAs differently?
-
-Mostly no. If you're leasing panels or buying power through a PPA, the export credit structure still applies in the same way, but the financial arrangement you have with the leasing company may or may not pass those credits through to you. Read your contract carefully. Some lease agreements lock in rates that assumed NEM 2.0 export values, which can make the deal worse than expected. Ownership, especially with the federal tax credit, tends to look better under NEM 3.0 than third-party financing.
 
 ---
 

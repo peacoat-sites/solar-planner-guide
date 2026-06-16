@@ -104,27 +104,6 @@ If you want to monitor consumption once your system is running, the [Victron Cer
 
 ---
 
-## FAQ
-
-### How many solar panels does it take to power a house off grid?
-
-For the average U.S. home using around 30 kWh per day, you'd typically need a 10kW-15kW system, which works out to roughly 25-40 panels depending on wattage. The exact count depends heavily on your location's peak sun hours and how efficiently your home uses power.
-
-### What happens on cloudy days or at night with an off-grid solar system?
-
-Your battery bank covers nights and short cloudy periods. Properly sized storage (2-4 days of autonomy is the common design target) handles most real-world scenarios. Extended low-sun periods, especially in northern climates during winter, typically require a backup generator to prevent deep battery discharge.
-
-### Is it legal to live completely off grid on solar?
-
-In most U.S. states, yes. Some local jurisdictions require permits and inspections even for off-grid systems, and a handful of municipalities have ordinances around minimum connections to utilities. Always check your county's building codes before designing a system.
-
-### Can I convert my existing grid-tied solar system to off grid?
-
-Usually not without significant additional equipment. Grid-tied inverters are designed to shut off when grid power is absent, which is a safety feature. To go off-grid, you'd need to add a battery bank, an off-grid inverter or hybrid inverter-charger, and reconfigure the system. Depending on your existing equipment, starting fresh is sometimes cheaper than retrofitting.
-
-### How long do off-grid solar batteries last?
-
-Quality LiFePO4 batteries (like those in a Tesla Powerwall or Victron system) are rated for 10 years or 3,000-4,000 charge cycles at 80% depth of discharge. Real-world lifespan depends on how hard you cycle them. Lead-acid alternatives last 5-7 years under good conditions, fewer if you regularly drain them below 50%.
 
 ---
 

@@ -102,27 +102,6 @@ One thing worth tracking after installation: a home energy monitor like the Empo
 
 ---
 
-## Frequently Asked Questions
-
-### Can solar panels fully power a house?
-
-Yes, a properly sized solar system can cover 100% of a home's annual electricity usage, though you'll still draw from the grid at night or on cloudy days (unless you have battery storage). "Fully powered by solar" on an annual net basis is realistic for most homes in most U.S. climates.
-
-### How many solar panels does it take to power a 2,000 square foot house?
-
-Square footage alone doesn't determine this, but a 2,000 square foot home with average energy use (around 10,000 to 11,000 kWh per year) typically needs 18 to 25 panels depending on the panel wattage, local sun hours, and roof orientation. Don't let any installer quote you a system based only on square footage.
-
-### Is 10 solar panels enough to power a house?
-
-For most American homes, no. Ten 400-watt panels produce roughly 5,200 to 6,000 kWh annually in average sun conditions, which covers maybe half of typical household consumption. Ten panels might be enough for a very efficient small home or a household that's already aggressively reduced its electricity use.
-
-### Do I need a battery with solar panels?
-
-Not necessarily. Without a battery, you'll produce excess power during the day and draw from the grid at night. If you have decent net metering, a battery doesn't dramatically improve your finances. But if you're in an area with frequent outages, have shifted to time-of-use rates where nighttime electricity is expensive, or live in a state like California with unfavorable export rates, a battery starts making a lot more sense.
-
-### How long do solar panels actually last?
-
-Most modern panels are warrantied for 25 years and carry a production guarantee that they'll still produce at least 80% to 87% of their rated output at year 25. Real-world degradation data from NREL shows an average decline of about 0.5% per year, meaning a panel installed today should still be producing around 88% of its original output 25 years from now. The inverter is more likely to need replacement first, usually around the 10 to 15 year mark.
 
 ---
 

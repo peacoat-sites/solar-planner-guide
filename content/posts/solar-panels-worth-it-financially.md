@@ -121,27 +121,6 @@ The [Emporia Vue 2 Smart Home Energy Monitor](https://www.amazon.com/s?k=emporia
 
 ---
 
-## Frequently Asked Questions
-
-### How long do solar panels actually last?
-
-Most solar panels come with a 25-year performance warranty guaranteeing at least 80% of their rated output. In practice, many systems keep producing well into their 30s. NREL research on panel degradation shows an average annual output decline of about 0.5% per year, meaning a panel that produces 400 watts today will produce roughly 380 watts in 10 years. That's slow enough that it rarely meaningfully impacts financial projections.
-
-### Does solar increase my home's value?
-
-Generally, yes. Studies suggest owned solar adds roughly $4 to $5 per watt of installed capacity to a home's market value. A 6 kW system could add $24,000 to $30,000 in home value, though this varies by market. The effect is strongest in high-electricity-cost states where buyers immediately see the utility bill benefit. Leased systems don't add the same value and can actually complicate a sale if a buyer doesn't want to assume the lease.
-
-### What happens to my solar savings if my electricity rate drops?
-
-It's unlikely over the long run but possible. If a major utility rate decrease happened, your savings would shrink proportionally. This is a real risk in deregulated energy markets or regions where cheap natural gas dominates. Most financial models assume relatively flat or modestly rising rates. If your utility is historically volatile, that's a variable worth discussing with your installer.
-
-### Is it better to buy solar with cash or a loan?
-
-Cash purchases almost always yield the highest total return because you avoid interest costs entirely. If financing is your only option, look for a secured solar loan through a credit union or the federal Green Energy loan programs rather than a dealer-arranged loan, which often carries a "dealer fee" buried in the system price that can inflate your true cost by 15 to 30%. Always compare the all-in cost of a cash purchase versus a financed one before deciding.
-
-### Can I go solar if I have an HOA?
-
-Probably yes. Most states have "solar access laws" that prevent HOAs from prohibiting solar installations, though they may regulate placement or aesthetics. Check your state's specific law before assuming your HOA can block you. California, Florida, Texas, and most other high-solar states have strong protections for homeowners.
 
 ---
 

@@ -115,27 +115,6 @@ I tell people this all the time: the battery brand matters less than the install
 
 ---
 
-## Frequently Asked Questions
-
-### How long will a home battery power my house during an outage?
-
-It depends on your battery's capacity and your home's consumption. A 13.5 kWh battery in a home that uses 30 kWh per day will last about 10-11 hours running your full load. But most people in an outage run a reduced load, which can stretch that to 24-36 hours. If you add solar charging during the day, you can potentially run indefinitely through a sustained outage as long as the sun comes up.
-
-### Does a home battery increase my home's resale value?
-
-The research on this is still developing, but early data suggests yes. Lawrence Berkeley National Laboratory found that solar homes sell for a premium, and batteries are increasingly seen as part of that package in markets like California and Hawaii. The clearest value boost comes in areas with high outage rates or restrictive utility policies.
-
-### Can I add a battery to an existing solar system?
-
-Usually yes, but it depends on your inverter. Some older string inverters aren't compatible with AC-coupled batteries without additional equipment. AC-coupled batteries like the Enphase IQ or the Tesla Powerwall can typically be added to most existing systems. DC-coupled batteries require integration with a compatible inverter. Get this confirmed by an installer before you assume anything.
-
-### What maintenance does a home battery require?
-
-Very little, which is one of the genuine appeals. Most modern lithium home batteries are essentially maintenance-free. The main thing is keeping the area around the unit ventilated and within its operating temperature range. Firmware updates happen automatically on most platforms. You'll want an annual check-in with your installer to review performance data, but there's nothing like an oil change involved.
-
-### Is the 30% federal tax credit still available in 2026?
-
-As of the writing of this article, the 30% Residential Clean Energy Credit under the Inflation Reduction Act is scheduled to remain at 30% through 2032. However, tax law can change, and I always tell people not to make purchasing decisions assuming a tax credit will definitely be there. Check IRS.gov or consult a tax professional for current guidance, especially given the legislative environment around clean energy incentives.
 
 ---
 

@@ -86,27 +86,6 @@ The comparison I hear most: SunPower vs. Tesla. My take: if your system is under
 
 ---
 
-## FAQ
-
-### Does SunPower actually perform better than other panels long-term?
-
-Yes, with some nuance. Independent data consistently shows Maxeon cells degrade more slowly (under 0.25%/year vs. 0.5-0.7% for conventional silicon). Over a 25-year system life, that's meaningful. But the performance advantage only translates into better economics if you're space-constrained or staying in the home long enough for the savings gap to close over the higher upfront cost.
-
-### Is Tesla Solar still a good option in 2024?
-
-For the right home, yes. Tesla's panel quality is solid (Hanwha Q Cells is a tier-1 manufacturer), pricing is competitive, and the Powerwall integration is best-in-class. The caveats are real though: no shading optimization by default, a fully digital sales process with no customization, and a customer service track record that's inconsistent. Go in knowing those limits.
-
-### What happens to my Sunrun lease if I sell my house?
-
-The lease transfers to the new buyer, which Sunrun presents as a feature. It can be, if the buyer values the system. It can also complicate a sale if the buyer's lender balks at a lien on the property or if the new buyer doesn't want to assume a 15-year PPA. This is one of the most common complaints I hear from people who leased a decade ago and are now trying to sell.
-
-### Is the Tesla Solar Roof worth it?
-
-For most homeowners, no. The Solar Roof (glass tile product) costs roughly $5.00-$7.00+ per watt installed, roughly double or more versus conventional panels. It makes visual and financial sense in a narrow scenario: you need a full roof replacement anyway, you're building new construction, and you have strong aesthetic preferences. Otherwise, standard panels on a good roof are dramatically better value.
-
-### Can I get multiple quotes from these companies and compare them directly?
-
-Yes, and you should. For Tesla, pricing is fixed and posted online, so that one's easy. For SunPower, contact two or three local dealers (they operate independently, so pricing varies). For Sunrun, be specific that you want a cash purchase quote alongside any lease or PPA option, so you're comparing apples to apples. Using a platform like EnergySage to get competing bids alongside these three is the best way to know whether you're getting fair pricing in your market.
 
 ---
 

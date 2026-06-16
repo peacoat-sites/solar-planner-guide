@@ -101,27 +101,6 @@ Leases and PPAs have also gotten more competitive. If you're in a state with hig
 
 ---
 
-## FAQ
-
-### What is a good interest rate for a solar loan in 2026?
-
-For a borrower with a credit score of 720 or higher, a genuinely good rate in 2026 falls in the 5.5% to 7% range for an unsecured solar-specific loan. If you're using home equity, you might find 5% to 6.5%. Anything advertised below 4% almost certainly involves a dealer fee that inflates your system price, so calculate the effective rate including that markup before celebrating the low headline number.
-
-### How does the 30% solar tax credit affect my loan?
-
-The federal Investment Tax Credit gives you 30% of the total installed system cost as a credit against your federal taxes, not a refund. If your system costs $28,000, that's a $8,400 credit. Most financial advisors recommend applying this credit directly to your loan principal the year it's received, which can cut years off your loan term and save significantly on interest. Some solar loan products are specifically structured with a balloon payment at 18 months to capture this credit, so read your loan terms carefully.
-
-### Is a HELOC or home equity loan better for solar financing?
-
-It depends on your risk tolerance. A home equity loan gives you a fixed rate and fixed payment, which makes it easier to model your break-even. A HELOC is variable and could rise if rates climb, but it gives you flexibility to draw only what you need. In a stable or declining rate environment, a HELOC can work well. In an uncertain rate environment like 2026, many homeowners prefer the predictability of a fixed home equity loan.
-
-### Can I refinance a solar loan if rates drop?
-
-Yes, though it's not always simple. Unsecured solar loans from dedicated solar lenders often allow early payoff without penalty, which means you could refinance by taking a new personal loan or home equity product at a lower rate and paying off the old balance. Always check for prepayment penalties before assuming this is an option. PACE loans, because they're tied to your property tax bill, are harder to refinance in the traditional sense.
-
-### Does solar financing affect my ability to get a mortgage or refinance?
-
-It can. Unsecured solar loans appear on your credit report like any other installment debt, which affects your debt-to-income ratio. PACE financing can complicate a refinance because most conventional mortgage lenders require the PACE lien to be paid off at closing, since it takes super-priority over the mortgage. If you're planning to refinance your home within the next few years, this is a critical conversation to have with both your mortgage lender and your solar installer before you sign anything.
 
 ---
 

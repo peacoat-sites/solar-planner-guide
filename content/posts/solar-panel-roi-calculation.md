@@ -137,27 +137,6 @@ I'd be doing you a disservice if I only talked about the upside. Solar is a genu
 
 ---
 
-## Frequently Asked Questions
-
-### How accurate are the payback estimates installers give me?
-
-They vary widely. Some installers use conservative, realistic assumptions. Others use best-case production figures, assume full retail net metering will last forever, and ignore rate escalation uncertainty. I always recommend running your own calculation using PVWatts for production data and your actual utility rate. Compare that to the installer's estimate and ask them to explain any differences.
-
-### Does solar ROI improve if I add a battery?
-
-Usually not on a pure financial basis, at least not yet. A home battery like the Tesla Powerwall adds $10,000-15,000 to your system cost. Unless you're in a state with time-of-use rates where you can sell power back at peak pricing, or you have frequent outages, batteries typically extend your payback period by 3-6 years. The value proposition is more about resilience and independence than financial return.
-
-### What's a realistic lifetime savings number for a well-sited system?
-
-A 7-10 kW system in a high-rate market like California, Massachusetts, or New York with full retail net metering can generate $50,000-80,000 in lifetime savings over 25 years. In lower-rate markets with weaker net metering, that might be $20,000-35,000. Location and electricity rates are the dominant variables.
-
-### Does my roof orientation really matter that much?
-
-Yes, more than many people realize. South-facing at 30-40 degrees is roughly 100% optimal. West-facing is typically 80-85% of that. East-facing is similar to west. North-facing can drop to 60-70% of optimal production. On a west-facing roof, you'd need a larger system to generate the same annual kWh, which affects cost and ROI directly. That said, [EnergySage's market data](https://news.energysage.com/) shows west-facing systems can still make solid financial sense in high-rate markets because of time-of-use rate alignment.
-
-### Should I wait for solar panel prices to drop further before buying?
-
-This is the question I get most often. The honest answer: panels are already cheap. Hardware is now roughly 30-40% of total installed cost; the rest is labor, permitting, and overhead. Waiting for another 20% price drop on hardware only saves you 6-8% on total system cost. Meanwhile, you're paying full utility rates every month you wait, and there's real policy risk around net metering rollbacks and ITC changes. If the numbers work today, waiting rarely makes financial sense.
 
 ---
 

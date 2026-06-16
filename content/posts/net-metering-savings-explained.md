@@ -114,27 +114,6 @@ A few policy details that don't get enough attention:
 
 ---
 
-## Frequently Asked Questions
-
-### Does net metering work the same way in every state?
-
-No, and the differences are significant. Some states offer full retail credit for every kilowatt-hour you export. Others have moved to avoided-cost or wholesale rates that pay a fraction of retail. A handful of states have no statewide net metering mandate, leaving the policy up to individual utilities. Always check the current policy in your state on DSIRE before modeling your savings.
-
-### What happens to my net metering credits if I sell my house?
-
-Credits typically don't transfer to the new owner in a lump sum. Depending on your utility, any accumulated balance may be paid out to you at the end of the current billing period, forfeited, or transferred to the new owner as part of the account transition. Get clarity from your utility before closing on a sale.
-
-### Can I lose my net metering status if the policy changes?
-
-Most states that revise their net metering programs include a grandfathering provision for existing solar customers, typically lasting 10 to 20 years from the date of interconnection. This is one reason solar installers often urge people to act before a state's policy review concludes.
-
-### Is net metering the same as a feed-in tariff?
-
-They're related but different. Under net metering, you're credited for the net difference between what you produce and consume, usually at retail rate. A feed-in tariff pays you a set rate for every kilowatt-hour you generate, regardless of how much you self-consume. Some countries, especially in Europe, have used feed-in tariffs extensively, but they're rare in the U.S.
-
-### How do I know if my installer is sizing my system correctly for net metering?
-
-Ask to see the estimated monthly production figures versus your actual monthly consumption data. A system sized at 100% to 110% of your annual usage is generally optimal under full retail net metering. Bigger isn't always better: a system producing significantly more than you use may generate credits your utility won't pay out at full value, reducing your return on that extra investment.
 
 ---
 

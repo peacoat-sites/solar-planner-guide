@@ -113,29 +113,6 @@ Here's a practical process I recommend to every client before they get their fir
 
 **Step 6: Run your own payback calculation.** Use the total net system cost after all incentives, your utility rate, and your annual production estimate to calculate payback. Our [solar payback period calculator](/solar-payback-period-calculator/) makes this straightforward.
 
-## Frequently Asked Questions
-
-### Do state tax credits reduce the amount I can claim for the federal ITC?
-
-Generally no, but there's an important nuance. If a state offers a direct rebate (cash from the government to the installer), that can reduce your system's tax basis and therefore your federal credit. State income tax credits applied on your personal return typically don't reduce your ITC basis. Ask your tax professional to confirm the treatment for any specific rebate you're receiving.
-
-### Can I claim both a state tax credit and the federal credit on the same system?
-
-Yes. Most state credits are designed to stack with the federal ITC. In New York, for example, you can claim both the 25% state credit and the 30% federal credit, which is one reason New York has some of the best payback numbers in the country. Just confirm you have sufficient tax liability to absorb both credits, or understand the carry-forward rules if you don't.
-
-### How do I know if my installer is telling me about all available incentives?
-
-The honest answer is you often don't, until you do your own homework first. Run through DSIRE before your first quote call. That way, if an installer misses a significant utility rebate or SREC program in your area, you'll catch it. In my experience, most installers are thorough on the big items but sometimes miss smaller utility rebates that still add up to real money.
-
-### Are SREC markets available in my state?
-
-Active SREC markets as of 2025 exist primarily in New Jersey, Maryland, Pennsylvania, Massachusetts (which uses a similar structure via SMART), Ohio, and Washington D.C. Illinois has the Adjustable Block Program (also called Illinois Shines) which functions similarly. If you're in one of these markets, factoring SREC income into your [solar panel ROI calculation](/solar-panel-roi-calculation/) can meaningfully improve your projected returns.
-
-### Do incentive programs run out of money?
-
-They do. This is one of the most important things I tell clients who are still in the "thinking about it" phase. NY-Sun has closed specific tranches when funding caps were hit. California's SGIP battery rebate regularly runs waitlists. The Massachusetts SMART program sets incentive rates by capacity block, and rates drop as blocks fill. Waiting six months to get a better quote could mean missing a current incentive block entirely. The federal 30% credit is currently scheduled to step down after 2032, but state programs can change with much less notice.
-
-The gap between the best and worst states for solar incentives is enormous, and it directly determines whether your system pays itself off in 6 years or 14. Before you spend a dollar, spend an hour researching what your state, utility, and local government actually offer. Pair that with a solid understanding of [how solar costs compare to your electricity bill savings](/solar-cost-vs-electricity-bill-savings/) and you'll be in a much stronger position to evaluate any quote that comes across your desk. The incentives are there. Most homeowners just don't know to ask for them.
 
 ## Helpful Resources
 

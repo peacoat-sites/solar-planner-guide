@@ -98,27 +98,6 @@ The U.S. Department of Energy's homeowner solar guide shows 25-year lifetime sav
 
 ---
 
-## FAQ
-
-### Does Texas have net metering?
-
-Not in the traditional sense. Texas utilities aren't required by law to offer dollar-for-dollar net metering. Most solar owners receive a lower "avoided cost" buyback rate (often $0.03 to $0.08 per kWh) for power they export to the grid. Shopping for a solar-friendly retail electricity plan on PowerToChoose.org can meaningfully improve your export compensation.
-
-### Will solar panels work during a Texas power outage?
-
-Only if you have battery storage or specific microinverters with a "Sunlight Backup" feature (like the Enphase IQ8 series). Standard grid-tied systems shut down automatically during outages as a safety measure, even when the sun is shining.
-
-### What's the best roof type for solar in Texas?
-
-South-facing roofs with a pitch between 15 and 40 degrees work best in Texas. West-facing roofs actually perform well for Texas homeowners on time-of-use rates, since they capture afternoon sun when grid electricity is most expensive. Flat commercial-style roofs can use racking to optimize angle. Shake and wood roofs require special handling and can increase installation costs.
-
-### Is a solar lease or PPA a good idea in Texas?
-
-Generally, I'd lean toward cash purchase or a solar loan if you can qualify for financing. Leases and PPAs eliminate your upfront cost but also eliminate your access to the 30% federal tax credit, which goes to the leasing company instead. They can also complicate home sales. They make more sense for homeowners with very low tax liability who genuinely can't use the credit.
-
-### How much does solar add to a Texas home's value?
-
-NREL research suggests solar adds roughly $15,000 to $20,000 in resale value for a typical residential system, and Texas exempts that added value from property taxes entirely. That exemption alone can save you several thousand dollars over the system's life, and it's one of the better state-level solar incentives Texas actually offers.
 
 ## Helpful Resources
 

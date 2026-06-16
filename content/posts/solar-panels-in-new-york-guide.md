@@ -88,27 +88,6 @@ Leases and PPAs: I'll say it plainly. Unless you truly cannot qualify for the ta
 
 ---
 
-## FAQ
-
-### How long does solar installation take in New York?
-
-The physical installation is typically one to two days. What takes time is permitting and utility interconnection approval, which in New York can run 4 to 12 weeks depending on your utility and municipality. Con Edison tends to move slower than some rural utilities. Build that into your timeline.
-
-### Do solar panels work in winter in New York?
-
-Yes, and sometimes better than you'd expect. Solar panels actually perform more efficiently in cold temperatures. You'll produce less in December and January simply because days are shorter, but a properly sized system accounts for this through annual production averaging and net metering credits built up in summer.
-
-### Is my roof suitable for solar panels?
-
-A south-facing roof with minimal shading and at least 15 to 20 years of remaining life is ideal, but plenty of New York homes get good results from east-west split arrays or even north-facing panels at steeper pitches. The [NREL's PVWatts calculator](https://pvwatts.nrel.gov/) lets you input your address and roof orientation to estimate actual production before you ever talk to an installer.
-
-### What's the payback period for solar in New York?
-
-For a cash purchase, 6 to 9 years is a realistic range for most New York homeowners, with some Con Edison customers seeing 5 to 7 years due to high rates. After payback, the panels continue producing for another 20-plus years, which is where the real financial benefit accumulates.
-
-### Can I add a battery to my solar system in New York?
-
-Yes, and New York has a specific incentive for it: the NYSERDA Battery Storage Incentive provides upfront rebates ranging from roughly $150 to $250 per kWh of storage capacity. A Tesla Powerwall 3 (13.5 kWh) could qualify for $2,000 to $3,375 in state incentives on top of the federal tax credit. Given how often the grid gets stressed during New York summer heat events, this is becoming a much more common add-on.
 
 ---
 

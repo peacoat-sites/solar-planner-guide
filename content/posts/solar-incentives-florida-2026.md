@@ -136,27 +136,6 @@ Getting incentives isn't automatic across the board. Here's the process most Flo
 
 ---
 
-## Frequently Asked Questions
-
-### Does Florida have a state solar tax credit in 2026?
-
-No. Florida has no state income tax, so there's no state-level solar tax credit. What Florida does offer are a sales tax exemption on solar equipment and a property tax exemption on the value solar adds to your home. Combined with the 30% federal ITC, these create a meaningful incentive package even without a direct state tax credit.
-
-### Is net metering still worth it for Florida homeowners?
-
-Yes, but the calculation has changed. Florida has moved away from full retail-rate net metering credit for exported excess power, so oversizing your system to maximize exports is less effective than it was before 2023. The smartest approach in 2026 is sizing your system to match your consumption and pairing it with battery storage to use more of what you generate on-site.
-
-### How long does it take to pay back a solar system in Florida?
-
-For most Florida homeowners, the payback period runs 7 to 11 years after applying the federal ITC and accounting for electricity savings. Homes with higher electricity usage, south-facing roofs, and high local utility rates tend to hit the shorter end of that range. [How long to pay off solar panels](/how-long-to-pay-off-solar-panels/) walks through the variables in detail.
-
-### Should I buy my system or lease it in 2026?
-
-Buying (either cash or a solar loan) makes more financial sense in most scenarios because you own the ITC and all future savings. Leases and PPAs transfer the tax credit to the installer. That said, leases can work for homeowners who can't use the ITC due to low tax liability, or who simply don't want any maintenance responsibility. The [solar loan vs solar lease vs PPA](/solar-loan-vs-solar-lease-vs-ppa/) comparison is worth reading before you decide.
-
-### Do I need to worry about hurricane-proofing my solar installation in Florida?
-
-Yes, and it's not optional. Florida Building Code requires solar installations to meet specific wind load standards. Make sure your installer is pulling permits and that the racking system is rated for your local wind zone. Most quality residential installations in Florida are engineered to withstand 160+ mph winds. Ask for documentation of the wind rating before signing any contract.
 
 ---
 

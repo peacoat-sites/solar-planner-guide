@@ -112,27 +112,6 @@ Also: apply for your federal tax credit. The Residential Clean Energy Credit (fo
 
 ---
 
-## Frequently Asked Questions
-
-### How long does the solar installation process take from start to finish?
-
-The honest answer is 2 to 4 months for most homeowners, though I've seen it stretch to 6 months in jurisdictions with slow permit offices or backed-up utilities. The physical installation itself is 1 to 3 days. Almost all the time is consumed by permits, utility interconnection approval, and equipment lead times.
-
-### Can I be home during the installation?
-
-You don't have to be, but I'd recommend being available at minimum during the morning start and the end of day wrap-up. The crew will likely need access to your electrical panel, and you'll want to walk through the installation with the site supervisor before they leave. Make sure you understand where all equipment is mounted and how to access your monitoring system.
-
-### What can go wrong during installation?
-
-The most common issues I see are roof penetration flashing done poorly (which causes leaks), older electrical panels that need upgrading before the system can be connected, and shading that wasn't fully accounted for in the original design. A structural issue with your roof is rarer but not unheard of. This is why the site assessment matters so much. Don't skip it or let an installer skip it.
-
-### Does my roof need to be new before I go solar?
-
-Not necessarily, but if your roof is more than 10 to 15 years old and due for replacement in the next 5 years, do it before you install solar. Removing and reinstalling a solar system for a roof replacement typically costs $1,500 to $6,000 depending on system size, and that cost is not covered by solar warranties. Many installers will tell you the roof looks fine because they want to close the deal. Get an independent roofer's opinion if you're unsure.
-
-### What happens if my system underperforms after installation?
-
-Check your monitoring data against the production estimates in your original contract. If there's a sustained gap, contact your installer first. Most reputable installers offer production guarantees. If your inverter is the issue, it's typically covered under a 10 to 12 year warranty. Panels usually carry 25-year performance warranties guaranteeing they'll produce at least 80 to 85 percent of their rated output. Document everything in writing when you raise a concern.
 
 ---
 

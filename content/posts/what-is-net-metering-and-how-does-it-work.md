@@ -96,27 +96,6 @@ If you're in a time-of-use rate structure, which many utilities now default sola
 
 ---
 
-## Frequently Asked Questions
-
-### Does net metering mean my electric bill will be zero?
-
-Possibly, but not guaranteed. If your system is sized correctly and your utility has full retail-rate net metering, many homeowners do reach near-zero bills. But most utilities still charge a monthly minimum or a fixed grid-access fee, typically $10 to $30, even for customers with a net surplus.
-
-### What happens to my net metering credits if I move?
-
-This depends on your state and utility, but in most cases, net metering credits are attached to the account and meter address, not to you personally. Some utilities allow you to transfer credits to the new owner as part of a home sale, but many just zero the balance out at the end of the annual true-up period. If you're moving within a year of installation, this is worth asking your utility about directly.
-
-### Can I get net metering with a battery storage system?
-
-Yes, and in NEM 3.0 states like California, you pretty much need to pair storage with solar to make the economics work. The battery lets you store excess daytime production and use it at night rather than exporting it at the low avoided-cost rate and buying it back later at the higher retail rate. In strong retail net metering states, the financial case for adding a battery is weaker since the grid already acts as your free virtual battery.
-
-### Is net metering the same everywhere in the U.S.?
-
-No, and this is where a lot of homeowners get tripped up by national averages. Net metering rules are set at the state level and sometimes at the individual utility level. Two neighbors in different utility service territories can have dramatically different credit rates, carryover rules, and program caps, even within the same state.
-
-### What's the difference between net metering and a feed-in tariff?
-
-A feed-in tariff (FIT) pays you a fixed rate for every kilowatt-hour you generate and export, separate from what you pay for electricity you consume. Net metering offsets your consumption bill with credits for exports. Feed-in tariffs were more common in Europe and in early U.S. programs; most current U.S. residential solar incentives run through net metering rather than FITs, though the lines blur a bit in avoided-cost compensation models.
 
 ---
 

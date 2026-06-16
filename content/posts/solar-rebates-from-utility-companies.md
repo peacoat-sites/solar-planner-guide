@@ -110,27 +110,6 @@ The practical implication: if a rebate program exists in your area today, waitin
 
 To get a full picture of what solar costs and saves in your specific state before incentives, the [average cost of solar installation by state](/average-cost-of-solar-installation-by-state/) is a useful starting point. And if you're still figuring out the payback timeline on a system you're considering, running the numbers through a [solar payback period calculator](/solar-payback-period-calculator/) with and without utility rebates will show you exactly how much that rebate actually accelerates your break-even point.
 
-## FAQ
-
-### Are utility solar rebates taxable income?
-
-Generally, yes, rebates from utilities are considered taxable income by the IRS and should be reported on your federal return. However, the rules can vary based on how the rebate is structured. Some rebates reduce the cost basis of the system rather than functioning as income. Talk to a tax professional who understands residential energy credits before assuming either way.
-
-### Can I get a utility rebate if I lease my solar panels?
-
-Usually not. Most utility rebate programs require that the homeowner own the solar system outright or through a loan. If you're leasing, the third-party system owner typically claims the rebate and may pass some of the savings to you through lower lease rates, but you won't see the rebate directly. This is one of several financial reasons to consider buying versus leasing. The [solar lease vs. buy cost comparison](/solar-lease-vs-buy-cost-comparison/) breaks down the full trade-off.
-
-### Do utility rebates affect my federal solar tax credit?
-
-They can, depending on the program. Some utility rebates reduce the cost basis you use to calculate the 30% federal ITC. Others don't. You need to read the specific program documentation or ask your installer and a tax advisor. The [federal solar tax credit for 2026](/federal-solar-tax-credit-2026/) covers the ITC rules in detail if you want to understand the full picture before doing the math.
-
-### How do I know if my utility offers a solar rebate?
-
-Start with your utility's official website and look for sections labeled "solar," "renewable energy," or "energy efficiency programs." Also check dsireusa.org, which is the most comprehensive national database of utility and state incentives. EnergySage's marketplace also shows available incentives when you enter your address. If you can't find clear information online, call your utility directly and ask about solar interconnection incentives and any current rebate programs.
-
-### What happens if the rebate program runs out of funding before my installation is complete?
-
-This is a real risk. Many programs operate on a first-come, first-served basis with an annual funding cap. If you've submitted a pre-approval application and received a reservation, you're usually protected even if the program runs out of funding after your submission. If you haven't applied yet and the cap is reached, you may be waitlisted for the next funding cycle. This is another reason to apply early and before installation begins, not after.
 
 ---
 

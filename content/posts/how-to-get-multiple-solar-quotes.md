@@ -82,27 +82,6 @@ And battery storage — if you're interested in a backup battery, definitely get
 
 ---
 
-## Frequently Asked Questions
-
-### How many solar quotes should I get?
-
-Most experts, including the data from EnergySage, suggest a minimum of three quotes and ideally five. Three gives you a decent comparison range; five gives you statistical confidence that you're not just getting lucky or unlucky with your sample.
-
-### Will getting multiple quotes result in a lot of spam calls?
-
-It can, honestly. Using a marketplace like EnergySage lets you communicate through their portal first, which filters some of it. If you contact installers directly, give yourself a dedicated email for the process. Expect calls regardless — solar sales is a high-touch industry.
-
-### Do quotes from big national companies tend to be higher or lower than local installers?
-
-Higher, on average. National companies like Sunrun, Sunnova, and Tesla Solar carry more marketing overhead and have investor return targets that local installers don't. That said, some local companies charge premium prices too, so it's not a hard rule. Compare on the numbers, not company size.
-
-### Is there a right time of year to get solar quotes?
-
-Late fall and winter, when installers are slower, can work in your favor for negotiating. Spring and early summer are peak season, and some companies are booked out 3-4 months. Getting quotes in October or November doesn't mean you'll wait long for installation, and you may get more attention from installers hungry to close out their year.
-
-### Can I negotiate solar prices once I have multiple quotes?
-
-Yes, and you should. Showing an installer a competing quote is completely legitimate. Many installers have 5-10% of flexibility in their margins. Don't be aggressive or misleading about what competitors offered, but being transparent that you're comparing three proposals and theirs is the highest has closed hundreds of dollars of gap in deals I've seen.
 
 ---
 

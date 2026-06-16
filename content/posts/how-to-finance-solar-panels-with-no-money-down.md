@@ -108,27 +108,6 @@ The savings ranges above are illustrative based on EnergySage's market data and 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I finance solar panels with bad credit?
-
-Yes, though your options narrow. PACE financing uses home equity rather than credit score. Some solar companies offer leases with minimal credit requirements. A co-signer can help you qualify for a solar loan. If your credit is below 650, you'll likely pay a higher interest rate or need to lean toward lease/PPA options.
-
-### Will a solar loan affect my debt-to-income ratio?
-
-An unsecured solar loan will show up on your credit report as installment debt, which can affect your DTI. If you're planning to apply for a mortgage or refinance in the next 6 to 12 months, think carefully about timing. Some homeowners choose to close their mortgage first, then finance solar.
-
-### How do I know how many panels I actually need before financing?
-
-You need to size the system correctly before you can accurately evaluate any financing offer. A system that's too small won't offset your bill; one that's too large wastes money. This guide on [how many solar panels do I need](/how-many-solar-panels-do-i-need/) walks through the calculation based on your energy usage.
-
-### What happens to my loan if I sell my house?
-
-With a personal solar loan, you can typically pay it off from your home sale proceeds, just like any other debt. Owned solar systems generally increase home resale value, so the sale price often covers the remaining balance. PACE loans, by contrast, may transfer to the buyer or require payoff at closing depending on your state.
-
-### Is the 30% federal tax credit still available in 2026?
-
-As of 2026, the 30% Investment Tax Credit is still in effect. It was extended and expanded under the Inflation Reduction Act through 2032 before stepping down. That said, policy can change, and there are ongoing legislative discussions. The [federal solar tax credit expiration](/federal-solar-tax-credit-expiration/) page tracks the current status and timeline.
 
 ---
 

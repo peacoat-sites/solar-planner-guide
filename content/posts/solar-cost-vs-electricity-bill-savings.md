@@ -118,27 +118,6 @@ And if your utility has already moved to a "net billing" model that pays you who
 
 ---
 
-## Frequently Asked Questions
-
-### How much does the average homeowner actually save with solar over 25 years?
-
-EnergySage estimates the average homeowner saves between $25,000 and $75,000 over a 25-year system lifespan, with the wide range reflecting differences in local electricity rates, system size, and financing method. Cash buyers in high-rate states see the highest lifetime savings. Financed buyers see lower net savings after interest costs but still typically come out ahead of paying the utility the entire time.
-
-### Does solar increase my home's value?
-
-Generally yes. NREL research has found that homes with owned solar systems sell for a premium of roughly $4 per watt, meaning a 6 kW system adds about $24,000 to appraised value on average. Leased systems are more complicated and don't always add value. The premium varies by market, so this shouldn't be your primary reason to go solar, but it's a real benefit for most homeowners.
-
-### What happens to my bill if I go solar but stay connected to the grid?
-
-You'll still have a grid connection fee, typically $10 to $20 per month depending on your utility, regardless of how much solar you produce. On top of that, you'll pay for any electricity you consume beyond what your system generates. Many solar homeowners see bills in the $10 to $30 range during peak production months and higher bills in winter when production drops.
-
-### Is it better to buy solar outright or finance it?
-
-Buying outright maximizes your lifetime savings. If you have the capital and the system makes financial sense, cash is the best option. That said, a well-structured solar loan at a low interest rate can still deliver positive returns, especially if the alternative is keeping that money in a low-yield savings account. Leases and PPAs lower upfront cost but also transfer most of the financial benefits to the installer. They made more sense a decade ago when systems cost twice as much.
-
-### How do I know if my installer's savings estimate is realistic?
-
-Ask them to provide an hour-by-hour simulation using software like PVWatts, System Advisor Model (SAM), or Aurora Solar. A reputable installer will show you annual production estimates by month, not just a single annual number. Cross-check their production estimate against NREL's free PVWatts tool using your address. If their numbers are more than 10 to 15% higher than PVWatts, ask them to justify the difference.
 
 ---
 

@@ -96,27 +96,6 @@ If you're going to finance, compare a solar-specific loan product against a home
 
 ---
 
-## FAQ
-
-### How many solar panels does a typical Arizona home need?
-
-Most single-family homes in Arizona with average electric usage (around 1,100 to 1,300 kWh per month) will need somewhere between 16 and 24 panels depending on panel wattage. A 400-watt panel is common now, so a 20-panel system gives you 8 kW, which is on the larger side but appropriate for homes running central air conditioning heavily through summer.
-
-### Is a battery worth it for Arizona solar?
-
-For APS customers who are home during the day, probably not essential. For SRP customers or anyone who wants backup power during grid outages, yes, the math is much more favorable in Arizona than in most states, given the rate structure and the high value of self-consuming your own solar production.
-
-### Does Arizona still have a solar tax credit in 2024?
-
-Yes. Arizona's state income tax credit is 25% of the system cost up to $1,000, and it stacks with the 30% federal ITC. You also get exemption from state sales tax on the purchase and a full property tax exemption on the added home value.
-
-### Will solar panels survive Arizona heat and monsoon storms?
-
-Quality panels are rated to handle temperatures well above what Arizona sees, and most carry hail and wind certifications. Heat does reduce real-time output slightly, but it doesn't damage the panels. Monsoon wind and debris is a bigger consideration, and proper mounting by a licensed contractor matters more than brand in that respect.
-
-### How do I find a reputable solar installer in Arizona?
-
-Start with the EnergySage marketplace to get multiple quotes from pre-vetted installers. Look for NABCEP-certified installers specifically, that's the gold standard for installer training. Check that any company you talk to has an active Arizona ROC (Registrar of Contractors) license, which you can verify online in about two minutes.
 
 ---
 

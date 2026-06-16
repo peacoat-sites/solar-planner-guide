@@ -130,27 +130,6 @@ The 30 percent federal Investment Tax Credit (currently in place through 2032 un
 
 ---
 
-## FAQ
-
-### How many solar panels does the average home need?
-
-For a home using around 10,500 kWh per year (the U.S. average), you're typically looking at 20 to 30 panels depending on your location, roof orientation, and panel wattage. A home in sunny Arizona needs fewer panels than the same-sized home in cloudy Seattle because of the difference in peak sun hours.
-
-### Can I just use an online solar calculator?
-
-You can get a rough estimate, but most online calculators skip the system efficiency derate factor and don't account for your specific roof shading or orientation. Treat any online result as a starting point, not a final number. NREL's PVWatts tool is the most accurate free option available.
-
-### Should I size my system to cover 100% of my electricity use?
-
-Not always. If your utility has weak or no net metering (some utilities have significantly cut back on net metering credits in recent years, including states like California with NEM 3.0), oversizing your system means excess energy you won't get paid fairly for. Size to your actual consumption patterns and your utility's compensation structure.
-
-### What happens if my roof can't fit enough panels?
-
-You have a few options: use higher-wattage panels to maximize production from limited space, add battery storage to maximize the value of what you do produce, or accept partial offset and plan to supplement with grid power. In some cases, ground-mounted systems are worth exploring if you have land.
-
-### Does my panel wattage matter more than panel count?
-
-Not really, what matters is total system output in kW. A 20-panel system with 450W panels produces 9 kW, same as a 25-panel system with 360W panels. Higher-wattage panels are useful when roof space is limited. Otherwise, the wattage per panel is less important than the total system size and the quality of the installation.
 
 ---
 

@@ -102,29 +102,6 @@ This is where I want to be direct with you, because I've seen homeowners make ex
 
 **Step 6: Consider battery storage if your state has weak net metering.** In California, Nevada, and other markets where exports are poorly compensated, pairing panels with a home battery like a Tesla Powerwall or Franklin WH can significantly improve your economics by letting you consume more of your own generation. A basic [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor) (affiliate link) can help you understand your usage patterns before you size a battery system.
 
-## FAQ
-
-### Does every state have net metering?
-
-No. As of 2025, most states have some form of net metering or similar policy, but roughly a dozen states either have no statewide mandate or leave it entirely to individual utilities. If you're in a state without a mandate, your compensation depends entirely on your specific utility.
-
-### Can utilities take away net metering after I've already gone solar?
-
-In most cases, grandfathering provisions protect existing customers for a set number of years. However, this varies by state and utility. California protected NEM 2.0 customers for 20 years. Some states offer no explicit grandfathering protection. Always confirm this with your installer and verify it in the utility's actual tariff document, not just marketing materials.
-
-### Is net metering the same as selling electricity back to the grid?
-
-Not technically. Net metering is a billing arrangement where you offset what you owe, not a direct sale. You're credited for what you export, and that credit reduces your bill. Actual cash payments are uncommon in residential net metering programs, though some utilities do issue checks for excess annual credits at a reduced rate.
-
-### How does time-of-use pricing interact with net metering?
-
-Under time-of-use net metering, the value of your exported electricity depends on when you export it. Peak hours (typically late afternoon and evening) carry higher rates, while midday exports may be credited at lower off-peak rates. This is increasingly common and one reason battery storage has become more valuable in states like California and Nevada.
-
-### Will net metering policy changes affect my decision to go solar right now?
-
-It depends on your state. If you're in a state with strong retail-rate net metering, locking in now before any potential changes is a reasonable argument for moving forward. If your state already has degraded net metering, you need to run the numbers based on current, not historical, export rates. Either way, factoring in the [30% federal tax credit](/federal-solar-tax-credit-2026/) still makes the economics significantly more favorable than they were even five years ago.
-
-Net metering policy isn't the only factor in your solar decision, but ignoring it is one of the most common and costly mistakes I see homeowners make. The panels on your roof are just hardware. The financial return depends almost entirely on the policy environment they operate in. Get the policy details right before you sign anything, and your system will perform the way the brochure promised.
 
 ## Helpful Resources
 

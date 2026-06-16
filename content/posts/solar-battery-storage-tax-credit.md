@@ -114,27 +114,6 @@ For monitoring your battery performance once it's installed, a home energy monit
 
 ---
 
-## Frequently Asked Questions
-
-### Does the battery have to be connected to solar panels to qualify?
-
-No. Since January 1, 2023, standalone battery systems qualify for the 30% Residential Clean Energy Credit as long as they have a capacity of at least 3 kilowatt-hours. You don't need solar panels. That said, pairing battery storage with solar generally improves the financial case for both.
-
-### Can I claim the credit if I lease my solar system?
-
-No. If you lease your solar panels or battery through a third-party provider, the leasing company owns the equipment and they claim the credit, not you. To claim the credit yourself, you need to own the system outright or finance it with a loan. This is one of the strongest financial arguments for buying over leasing. The [Solar Lease vs. Buy Cost Comparison](/solar-lease-vs-buy-cost-comparison/) article covers this trade-off in detail.
-
-### What if my tax liability is zero? Do I lose the credit?
-
-You don't lose it. If your federal tax liability is zero in the year you install the battery, the unused credit carries forward to the next tax year. It can carry forward indefinitely until 2034. If you're retired and live on Social Security income, or your effective tax rate is very low, it's worth mapping out your expected tax liability over the next few years before assuming the credit is worthless to you.
-
-### Does the credit apply to the battery's labor cost?
-
-Yes. The 30% credit applies to the full installed cost of the system, including equipment, labor, wiring, and permits. If your battery unit costs $10,000 and installation runs $2,000, you calculate 30% of $12,000, not just the hardware.
-
-### Can I add a battery to an existing solar system and still claim the credit?
-
-Yes. You can add battery storage to a solar system you installed years ago and claim the 30% credit on the new battery installation. The battery doesn't need to be installed at the same time as the solar panels. Just make sure the installation is completed in the tax year you plan to claim.
 
 ---
 

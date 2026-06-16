@@ -116,27 +116,6 @@ Payback periods in Texas commonly run 7 to 11 years depending on your electricit
 
 ---
 
-## Frequently Asked Questions
-
-### Does Texas have a state solar tax credit?
-
-No. Texas does not have a state income tax, so there's no state solar tax credit. What Texas does offer is a property tax exemption on the added home value from solar and a sales tax exemption on solar equipment. Both are valuable, just different in form from a tax credit.
-
-### Can I get a solar rebate in Texas?
-
-It depends entirely on your utility. CPS Energy in San Antonio and Pedernales Electric Cooperative have offered rebates in recent years. Austin Energy operates a Value of Solar tariff. Most other utilities in Texas offer nothing beyond standard interconnection. Always call your utility directly to ask what's currently active.
-
-### How much can I save with solar in Texas?
-
-The average Texas homeowner using 1,200 kWh per month and paying around 13 cents per kWh spends roughly $1,850 a year on electricity. A correctly sized solar system can eliminate 80% to 100% of that bill. Over 25 years, that's $30,000 to $40,000 in energy cost savings before factoring in rate inflation, which has historically run 2% to 4% annually in Texas. For a personalized look at this, the [solar panel ROI calculator guide](/solar-panel-roi-calculation/) can help you build a realistic projection.
-
-### Is solar worth it in Texas if I don't have a good utility rebate?
-
-Yes, for most homeowners. The combination of the 30% federal ITC, the property tax exemption, the sales tax exemption, Texas's high sun hours (most areas receive 5 to 5.5 peak sun hours daily), and a competitive installer market makes the economics work even without a utility rebate. The payback period is longer without a rebate, typically 9 to 11 years versus 7 to 8 years with one, but the long-term savings are still substantial.
-
-### Does adding solar really increase my home's value in Texas?
-
-Research from [NREL](https://www.nrel.gov/) has found that solar homes sell for a premium of roughly $4 per watt of installed capacity, which on a 10 kW system equals about $40,000 in added home value on the high end. Texas-specific data tends to show premiums in the $15,000 to $25,000 range for typical residential systems, varying by market. Critically, that added value is completely exempt from Texas property taxes under state law.
 
 ---
 

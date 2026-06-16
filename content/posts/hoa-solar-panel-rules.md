@@ -117,27 +117,6 @@ To track this accurately after installation, a solar monitoring system paired wi
 
 ---
 
-## Frequently Asked Questions
-
-### Can my HOA legally ban solar panels entirely?
-
-In most states, no. Over 30 states have solar access or solar rights laws that prevent HOAs from prohibiting solar installations outright. If you're in one of those states and your HOA denies your application with no specific, lawful reason, the denial is likely unenforceable. The SEIA maintains a regularly updated list of state-by-state solar access protections worth checking before you proceed.
-
-### What happens if I install solar panels without HOA approval?
-
-This is a serious risk. Even in states with strong solar protections, the law typically still allows HOAs to enforce a *process*, meaning you need to go through the approval workflow. Installing without approval can expose you to fines, forced removal orders, and legal fees, even if your panels would ultimately have been approved. Always submit the application first.
-
-### My HOA approved my neighbor's panels but denied mine. Is that fair?
-
-Probably not, and this is called selective enforcement. If you can document that another homeowner in the same community received approval for a comparable installation, you have a strong argument that your denial was arbitrary. Document your neighbor's system, submit that documentation in your appeal, and consult an attorney if the board doesn't reverse course.
-
-### Do I need to tell my HOA if I'm only adding a small number of panels?
-
-Yes. Even small installations, like a 4-panel partial system, are typically considered exterior modifications requiring ARC approval under most HOA governing documents. The size of the system doesn't change your obligation to apply. The good news is that smaller systems are often less likely to draw objections.
-
-### Can my HOA require me to use a specific solar installer they've approved?
-
-In most cases, no. HOA-mandated installer lists are generally considered unenforceable because they restrict your ability to competitively bid your project and may benefit specific contractors. That said, your HOA can require that any installer be licensed, insured, and able to provide proof of both. That's a reasonable requirement. An exclusive approved-installer list is a different thing, and worth pushing back on.
 
 ---
 

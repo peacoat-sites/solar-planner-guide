@@ -121,29 +121,6 @@ Cash is always the cheapest option in total dollars paid. But most homeowners do
 
 The Solar Energy Industries Association (SEIA) publishes regular market data on financing trends, and their research consistently shows that homeowners who purchase their systems outright or with low-interest loans see significantly better long-term returns than those who lease.
 
-## FAQ
-
-### How long does it take to pay back a solar investment?
-
-The average payback period in the U.S. is 6 to 10 years, with the national average hovering around 7 to 8 years according to EnergySage market data. States with high electricity rates and good solar resources, like California, Massachusetts, and New York, tend to see paybacks in the 5 to 7 year range. States with low electricity rates and less sun, like Louisiana or Washington state, can push payback to 10 to 12 years. After payback, you're generating essentially free electricity for the remaining 15 to 20 years of the system's warranted life.
-
-### Does roof type or pitch affect installation cost?
-
-Yes, significantly. Composition shingle roofs are the cheapest to work with. Tile roofs, particularly Spanish clay tile, require special mounting hardware and slower labor, adding $1,000 to $3,000 to a typical job. Metal standing seam roofs can actually reduce labor costs because clamps attach without penetrations. Steep pitches (above 5/12 pitch) require safety equipment and more time, typically adding $500 to $1,500 to the job.
-
-### Is a cheaper quote always worse?
-
-Not automatically. A lower quote might reflect a regional installer with lower overhead, not inferior equipment. It might also reflect a smaller, less efficient system. This is why you compare specs first, then price. I've seen budget quotes that were genuinely better value than premium quotes, and I've seen low quotes that cut corners on panel quality, racking integrity, or warranty coverage. The spec sheet tells you more than the total dollar amount does.
-
-### Will solar increase my home's value?
-
-Generally yes. A study by Lawrence Berkeley National Laboratory found that buyers consistently pay a premium for solar-owned homes, averaging about $4 per watt of installed capacity, which translates to roughly $15,000 to $20,000 in added value for a typical system. That said, this effect is most pronounced in states with high electricity rates and active solar markets. In some rural markets, appraisers still struggle to properly account for solar in home valuations.
-
-### What maintenance costs should I budget for?
-
-Solar systems have very low maintenance requirements, which is part of their appeal. Plan for periodic cleaning ($150 to $350 per cleaning depending on your market, typically once every one to two years in dusty climates), and a potential inverter replacement at year 10 to 15 if you have a string inverter ($800 to $1,500). Microinverters typically carry 25-year warranties and are less likely to need replacement mid-system-life. I always recommend homeowners set up monitoring through their inverter's app from day one, so they catch production drops early.
-
-The moment solar stops feeling like a mystery is the moment you can actually make a good decision about it. Get at least three quotes, build the comparison table yourself using the steps above, and don't let anyone rush you. A reputable installer will give you the time and information you need. The ones who won't? That's your answer.
 
 ## Helpful Resources
 

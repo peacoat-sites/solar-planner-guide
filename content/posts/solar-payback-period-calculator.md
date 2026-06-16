@@ -137,27 +137,6 @@ The U.S. Department of Energy's homeowner solar guide also recommends tracking y
 
 ---
 
-## Frequently Asked Questions
-
-### What is a good solar payback period?
-
-Most solar industry professionals consider 6 to 12 years a reasonable range for a residential system. Below 8 years is generally considered excellent. Above 12 to 14 years should prompt scrutiny of the quote, your net metering terms, or whether the system is oversized for your actual usage. Given that panels are warrantied for 25 years, even a 12-year payback leaves 13 years of net savings ahead of you.
-
-### Does the federal tax credit really shorten my payback period that much?
-
-Yes, it's the single biggest lever in the calculation. A 30% tax credit on a $26,000 system saves you $7,800, which shaves two to four years off a typical payback period compared to paying full price. Just confirm with your tax advisor that you have enough federal tax liability to claim it. If you're retired and live primarily on Social Security, you may owe little to no federal income tax, which changes the math significantly.
-
-### How accurate are online solar payback calculators?
-
-They vary a lot. The best ones, like those built into the EnergySage marketplace, pull local rate and solar resource data automatically. The worst ones use national averages that bear no resemblance to your actual situation. Any calculator that doesn't ask for your current electricity rate, your roof orientation, and your utility's net metering policy is giving you a rough guess at best. Run your own numbers alongside any tool's output.
-
-### Does adding battery storage change my payback period?
-
-Almost always yes, and usually by extending it. Batteries add $8,000 to $15,000 to a typical residential installation. Unless your utility charges time-of-use rates with a large peak/off-peak spread, or you're in an area with frequent grid outages where backup power has real value to you, the battery payback period alone can be 15 to 20 years. Evaluate solar-only and solar-plus-battery as separate financial decisions.
-
-### What happens to my payback calculation if electricity rates drop?
-
-It extends. If your utility cuts rates or if you move to a building with included electricity, your annual savings shrink and the break-even point moves further out. This is unlikely long-term given historical trends, but it's a real risk. Natural gas price swings, nuclear restarts, and aggressive renewable energy buildout in certain regions can slow electricity rate growth. A conservative payback model uses 0% rate escalation so you're not depending on price increases to validate your investment.
 
 ---
 

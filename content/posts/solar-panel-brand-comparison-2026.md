@@ -111,27 +111,6 @@ And installers who can't or won't tell you exactly which panel model you're gett
 
 ---
 
-## Frequently Asked Questions
-
-### Are expensive solar panels worth the premium?
-
-It depends on how long you plan to stay in the home and how much you value long-term reliability over upfront savings. A Maxeon or REC panel might cost $500 to $1,500 more on a typical residential system than a budget alternative. Over 25 years, the lower degradation rate and stronger warranty can make up that difference and then some, but only if the system runs without major issues. If you're planning to sell the house in five years, the premium math gets harder to justify.
-
-### Which solar panel brand has the best warranty in 2026?
-
-Maxeon is in a class of its own with a 40-year product warranty. For 25-year warranties, REC and Panasonic stand out because they combine strong product warranties with low degradation guarantees (0.25 to 0.26% per year). Always read the fine print and check what the guaranteed output percentage is at year 25.
-
-### Does brand matter if my installer has their own labor warranty?
-
-It still matters, but for different reasons. An installer's labor warranty (usually 5 to 10 years) covers the cost of swapping a defective panel. The manufacturer warranty covers the panel itself. If the manufacturer goes out of business, you lose the panel replacement. If your installer closes, you pay labor costs out of pocket. Ideally, you want both parties to be stable.
-
-### What solar panel brands are made in the USA?
-
-Q CELLS manufactures in Dalton, Georgia. First Solar produces in Ohio and Texas. Mission Solar is based in San Antonio. Silfab Solar has a facility in Washington state. This matters if you're trying to qualify for the domestic content tax credit adder under the Inflation Reduction Act.
-
-### How do I know if my panels are underperforming?
-
-The most practical approach is pairing your system with a monitoring solution. Most modern inverters (especially Enphase and SolarEdge) include app-based monitoring. But a dedicated [home energy monitor](https://www.amazon.com/s?k=whole+home+energy+monitor+solar) (affiliate link, we may earn a commission) can give you more granular consumption and production data. If your production is consistently 10% or more below your installer's original estimate under similar weather conditions, that's worth investigating.
 
 ---
 

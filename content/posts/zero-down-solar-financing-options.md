@@ -131,27 +131,6 @@ When a quote lands in your inbox, most homeowners have no idea what to actually 
 
 ---
 
-## Frequently Asked Questions
-
-### Does zero-down solar financing actually save money, or does it just shift the cost?
-
-It depends entirely on the terms. A well-structured solar loan with a competitive interest rate will typically produce positive cash flow from day one or within a few months, meaning your loan payment is less than your old electricity bill. I've seen clients save $50 to $150 per month net from the start. But a high-interest loan or a lease with an aggressive escalator clause can eat into savings significantly. The structure matters as much as the panels.
-
-### Will zero-down solar affect my credit score?
-
-Taking out a solar loan will show up as an installment loan on your credit report, which can temporarily lower your score by a small amount due to the hard inquiry and new account. PACE financing doesn't involve a traditional credit check and generally doesn't appear on your credit report the same way. Solar leases and PPAs don't typically affect credit directly, though some companies do a soft pull during qualification.
-
-### Can I still get the 30% federal tax credit with zero-down financing?
-
-Yes, if you own the system through a loan or PACE. No, if you lease or sign a PPA. The tax credit goes to whoever owns the panels. With a loan, that's you. With a lease or PPA, the solar company owns the panels and claims the credit themselves. This is one of the most misunderstood points in residential solar, and some less-than-honest sales reps have implied that lease customers receive the credit indirectly. They don't, at least not in a way that flows real dollars back to you.
-
-### What credit score do I need for a solar loan?
-
-Most solar-specific lenders want a FICO score of at least 650, with the best rates reserved for scores above 720 or 740. Some lenders will go down to 600 with higher rates or a co-signer. If your credit is below 650, PACE financing (where available) or a solar lease may be your practical options, though I'd strongly encourage working on your credit first if you can afford to wait 6 to 12 months.
-
-### What happens at the end of a solar lease or PPA?
-
-This varies by contract, but most agreements offer three options at the 20 or 25-year mark: renew the contract for another term, have the company remove the equipment at no cost to you, or purchase the system at fair market value. Fair market value on a 20-year-old solar system is typically quite low, sometimes just a few thousand dollars. Get the end-of-term terms in writing before you sign, not during the closing conversation.
 
 ---
 

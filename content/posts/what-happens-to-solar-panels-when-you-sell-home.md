@@ -94,27 +94,6 @@ The deal gets harder when you add a lease with 15 years left, a solar loan the b
 
 ---
 
-## Frequently Asked Questions
-
-### Do solar panels automatically transfer to the new owner when a house is sold?
-
-Owned panels transfer with the house like any other fixture, with warranties usually transferring as well. Leased panels and PPA systems do not automatically transfer. The buyer must qualify for and agree to assume the lease, or the seller must buy it out or have it removed before closing.
-
-### Can solar panels hurt a home sale?
-
-They can, specifically if the system is leased and the buyer either doesn't qualify for the lease transfer or doesn't want the obligation. Older systems with expiring warranties or undisclosed permit issues can also complicate appraisals and inspections. Owned systems in markets with strong solar adoption are rarely a liability.
-
-### Who is responsible for solar panel maintenance during the sale process?
-
-The seller is responsible until the keys change hands. If the system is underperforming or has a known defect, you're better off disclosing it and pricing accordingly than letting a buyer's inspector find it. Surprises at inspection cost more than the problem itself.
-
-### Does the federal solar tax credit transfer to the buyer?
-
-No. The 30% federal Investment Tax Credit (ITC) is claimed by whoever purchased and installed the system. If you took it when you installed the panels, the buyer gets no credit for it. However, the ITC doesn't reduce what buyers are willing to pay for your home, it just means they can't claim it themselves.
-
-### What happens to my net metering agreement when I sell?
-
-This varies by utility and state. Some utilities transfer the existing agreement to the new owner automatically. Others require a new application, which matters in states like California where older NEM agreements carry better rates than new ones. Check with your utility before listing and include the details in your disclosure documents.
 
 ---
 

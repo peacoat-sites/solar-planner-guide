@@ -92,27 +92,6 @@ The direction of travel is toward virtual power plants, programs where your batt
 
 ---
 
-## FAQ
-
-### Is NEM 3.0 retroactive to existing solar customers?
-
-No. Homeowners who received their utility interconnection approval (Permission to Operate) before April 15, 2023 remain on NEM 2.0 for 20 years from that date. NEM 3.0 only applies to new solar applications submitted after that cutoff.
-
-### Do I have to get a battery to go solar in California now?
-
-You're not required to, but the financial case for solar-only systems has weakened significantly under NEM 3.0. Without a battery to shift your solar energy into high-value evening hours, you'll earn very little for power you export to the grid. Most installers now recommend at least one battery for NEM 3.0 customers.
-
-### Which utilities does NEM 3.0 apply to?
-
-NEM 3.0 applies to the three investor-owned utilities regulated by the CPUC: Pacific Gas & Electric (PG&E), Southern California Edison (SCE), and San Diego Gas & Electric (SDG&E). Customers of municipal utilities like LADWP or SMUD are on different, often more favorable, rate structures.
-
-### How much did export rates actually drop under NEM 3.0?
-
-On average, the export compensation rate dropped roughly 75% compared to NEM 2.0. Daytime export rates are now typically $0.05 to $0.08/kWh under the Avoided Cost Calculator, compared to retail rates that can exceed $0.30/kWh under NEM 2.0. Evening peak hours do pay more, but you need a battery to capture those rates.
-
-### Can I add more solar panels to my existing NEM 2.0 system without switching to NEM 3.0?
-
-This depends on your utility and the size of the addition. Minor additions are sometimes allowed under NEM 2.0 without triggering a tariff switch, but expanding your system meaningfully, generally more than 10 kW or a significant percentage of your existing capacity, will likely require moving to NEM 3.0. Get the utility's specific policy in writing before any expansion work begins.
 
 ---
 

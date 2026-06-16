@@ -93,27 +93,6 @@ The most compelling selling point isn't "we have panels on the roof." It's "our 
 
 This means that how you document and present your system's production history matters more than most sellers realize. Keep your utility bills. Export your monitoring data. Have your annual production reports ready. If your system has been producing, prove it. That documentation is worth real money.
 
-## FAQ
-
-### Does solar increase property taxes on my home?
-
-In most states, no. More than 35 states have property tax exemptions specifically for solar installations, meaning the added value from solar won't increase your annual property tax bill. California, Texas, and Florida all have these exemptions. Always verify with your specific county assessor's office, because exemptions can vary at the local level.
-
-### How much value does solar add per watt?
-
-The most widely cited figure, from Lawrence Berkeley National Laboratory's long-running "Tracking the Sun" research, is approximately $4 per watt of installed capacity. That means a 6kW system could add around $24,000 in resale value, though the actual premium varies significantly by state, electricity rates, and local market conditions.
-
-### Do solar panels hurt home sales or make homes harder to sell?
-
-Owned solar systems generally don't hurt sales and often help. Leased systems are a more complicated story and have been known to slow or complicate transactions, because the buyer needs to assume the lease or the seller must buy it out. In markets with strong solar familiarity, owned systems typically sell faster, not slower.
-
-### Will an appraiser give full value to my solar panels?
-
-Not always. Appraiser familiarity with solar valuation varies widely, and in markets without many recent solar comp sales, appraisers sometimes assign little or no value to a system. Working with an agent experienced in solar home sales and requesting a PV-knowledgeable appraiser can help close that gap.
-
-### Does a solar system need to be paid off to add resale value?
-
-If you took out a solar loan and it's still outstanding, the lien on the system can complicate the title transfer at sale. It doesn't eliminate the value, but you'll generally need to pay off the loan at closing, similar to any other secured debt. Factor this into your equity calculations before listing.
 
 ---
 

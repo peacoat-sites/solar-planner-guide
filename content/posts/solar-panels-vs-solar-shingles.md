@@ -78,27 +78,6 @@ With conventional panels, if your monitoring setup breaks or your inverter manuf
 
 ---
 
-## FAQ
-
-### Are solar shingles as durable as regular roofing materials?
-
-Tesla's Solar Roof tiles are tempered glass and have performed well in hail and wind testing, earning a Class 3 impact rating and Class F wind rating in independent tests. GAF's Timberline Solar shingles integrate with a standard asphalt roof and carry Class A fire ratings. That said, long-term field durability data is still limited compared to 40 years of conventional roofing data, so "as durable" is a claim the industry hasn't fully proven yet.
-
-### Can I add a battery to either system?
-
-Yes to both. Tesla Solar Roof is designed to pair with the Powerwall 3, and that integration is genuinely seamless from a software standpoint. Conventional panel systems can pair with a wide range of batteries: Tesla Powerwall, Enphase IQ Battery, Franklin WH, or SolarEdge. The conventional panel route gives you more battery options and more competitive pricing through that competition.
-
-### Do solar shingles qualify for the federal tax credit?
-
-Yes. Both Tesla Solar Roof and GAF Timberline Solar qualify for the 30% federal Investment Tax Credit under current law. The credit applies to the solar-generating portions of the roof. Non-solar structural components (the "dummy tiles") have had some ambiguity in past IRS guidance, so consult a tax professional about exactly what percentage of your total project cost is creditable.
-
-### What happens if one shingle gets damaged?
-
-With Tesla Solar Roof, Tesla replaces individual tiles rather than the entire roof, but sourcing replacements and scheduling a repair can be slow depending on your region and service backlog. With conventional panels, a single damaged panel is straightforward to swap out since they're modular and multiple installers in any market can service them. This is genuinely one of the practical advantages of traditional panels that doesn't get enough attention.
-
-### Is the resale value boost the same for both?
-
-Research on this is mixed and relatively thin for solar shingles specifically since they haven't been in the market long enough. For conventional solar panels, NREL and Zillow have both published data showing meaningful home value increases, roughly $4,000 to $6,000 per kilowatt of installed capacity in some markets. Solar shingles may add more value from an aesthetic standpoint in certain neighborhoods, but I'd be cautious about banking on a premium that hasn't been well-documented yet.
 
 ---
 

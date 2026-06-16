@@ -96,27 +96,6 @@ Get at least three quotes. EnergySage's marketplace is genuinely useful for this
 
 ---
 
-## Frequently Asked Questions
-
-### Is Florida a good state for solar panels?
-
-Yes, with caveats. Florida has exceptional solar irradiance and meaningful state-level incentives (sales tax exemption, property tax exemption), but its net metering policy is less favorable than in many other states. Homeowners who size their system correctly and maximize self-consumption can still achieve strong returns.
-
-### How long does solar payback take in Florida?
-
-Most Florida homeowners see payback in 8 to 12 years, depending on utility rates, system size, roof orientation, and how much of the solar production is consumed on-site versus exported to the grid. Battery storage can shorten this by reducing grid imports during expensive peak hours.
-
-### Do solar panels work during a Florida hurricane?
-
-The panels themselves are typically rated for high wind speeds (most modern panels carry a 2,400 Pa wind load rating, equivalent to roughly 140 mph winds), so physical damage in a typical storm is less common than people expect. The real issue is grid outages: without a battery backup, a grid-tied solar system shuts off automatically when the grid goes down.
-
-### What size solar system does a Florida home need?
-
-Most Florida homes need between 8 kW and 14 kW due to high air conditioning loads. A more accurate way to size it: take your average monthly kWh usage from your electric bill, divide by roughly 130 (average monthly kWh production per installed kW in Florida), and that gives you the system size in kW. Don't let an installer upsell you past your actual consumption.
-
-### Does Florida have a state solar tax credit?
-
-No. Florida has no state income tax, so there's no state tax credit. The available financial incentives are the federal 30% Investment Tax Credit, the state sales tax exemption on solar equipment, and the property tax exemption that prevents your home's assessed value from rising due to a solar installation.
 
 ---
 

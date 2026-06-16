@@ -109,27 +109,6 @@ Net metering is under pressure. California's NEM 3.0 policy, which went into eff
 
 Finally, solar doesn't protect you from your utility's fixed charges. Many utilities are increasing fixed monthly fees as solar adoption grows, meaning your bill can only go so low regardless of how much you generate.
 
-## FAQ
-
-### Does solar with a battery actually work during a power outage?
-
-Yes, with an important caveat. The system has to be specifically configured for backup power, with what's called a "critical loads panel" or a whole-home backup setup. Not every solar installer defaults to this, so you need to ask explicitly. During an outage, the system disconnects from the grid and runs your home from battery storage, recharging the battery from your panels during daylight hours.
-
-### How long will a solar battery last during an outage?
-
-It depends on how much you're running. A single 13.5 kWh battery powering critical loads (fridge, lights, router, phone charging) will typically last 24-48 hours. With solar recharging it during the day, a well-sized system can extend that indefinitely through most multi-day outages, assuming you get some sunlight each day.
-
-### Can I add a battery to my existing solar system?
-
-Usually yes, though it depends on your current inverter type. If you have a string inverter, adding a battery often requires replacing the inverter or adding an AC-coupled battery (like the Enphase AC Battery), which is slightly less efficient. If you have Enphase microinverters, adding an Enphase battery is straightforward. Get a quote from at least two installers and ask specifically about compatibility with your existing equipment.
-
-### Is energy independence with solar worth it financially?
-
-For most homeowners in high-rate states (California, Hawaii, New England, New York), the financial case is strong. For homeowners in low-rate states like Louisiana or Washington (where electricity is cheap), payback periods stretch longer and the math is thinner. Always run the numbers for your specific utility rate, solar resource, and available incentives before deciding.
-
-### What's the difference between "grid-tied," "off-grid," and "hybrid" solar?
-
-Grid-tied systems connect to the utility and typically don't provide outage protection without a battery. Off-grid systems are fully disconnected from the utility and require large battery banks and careful load management. Hybrid systems, the most common choice today, stay connected to the grid but include battery storage that provides backup power and allows for time-of-use optimization. For most homeowners, hybrid is the right answer.
 
 ---
 

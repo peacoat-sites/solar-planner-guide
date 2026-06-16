@@ -115,27 +115,6 @@ Before you sign anything, work through this process.
 
 ---
 
-## Frequently Asked Questions
-
-### Does a solar lease affect my home's resale value?
-
-Yes, and usually not positively. A purchased solar system typically adds measurable value to a home. A leased system is a liability that requires buyers to either qualify for the lease transfer or force you to buy it out. Some buyers specifically exclude lease-encumbered homes from consideration. It's not a dealbreaker for everyone, but it's a complication you're creating for future-you.
-
-### Can I buy out a solar lease early?
-
-Most leases allow early buyout, but the pricing formula is often based on remaining payments at net present value, which means you'll pay something close to the remaining contract value rather than getting a discount for early settlement. Some companies offer a predetermined buyout schedule. Ask for it before you sign, not after you want out.
-
-### What happens if the leasing company goes out of business?
-
-This is a legitimate risk. Your lease contract is typically assigned to a successor company or financed through a third-party bank, so your panels don't just go dark. But customer service quality can drop sharply. Look for companies that have been operating at least 8-10 years and check their Better Business Bureau rating. Sunrun and SunPower (now restructured) are among the largest; scale doesn't guarantee quality, but it does suggest staying power.
-
-### Is a solar PPA better than a lease?
-
-For most homeowners, a PPA is marginally preferable to a lease because you pay for actual production rather than a flat fee regardless of output. If the system underperforms, your cost drops automatically rather than requiring you to chase a guarantee credit. That said, both PPAs and leases leave ownership with the third party, and both have escalators. The structural advantages of owning still apply.
-
-### Are solar leases worth it for seniors or retirees on fixed income?
-
-Sometimes, yes. If a retiree can't use the 30% tax credit (because they have limited tax liability), the ITC advantage of ownership shrinks. A lease eliminates equipment risk, monthly payment risk is capped, and many seniors aren't planning a home sale. The calculus is different here than for a 40-year-old with 25 years of equity building ahead. That said, I'd still recommend exploring a cash purchase if the funds are available, because the 25-year savings gap remains substantial.
 
 ---
 

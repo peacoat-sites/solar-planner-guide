@@ -109,27 +109,6 @@ And if a salesperson is pressuring you to sign the same day, that's a red flag. 
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it take for solar panels to pay for themselves on average?
-
-The national average is 8 to 9 years, but real payback periods range from under 5 years in Hawaii to 15 years or more in low-rate states like Louisiana. Your specific number depends on your system cost, local utility rate, net metering policy, and available incentives.
-
-### Does the federal tax credit affect my payback period?
-
-Yes, significantly. The 30% federal Investment Tax Credit reduces your net system cost by about $9,000 on a typical $30,000 installation. If you can claim the full credit, that alone can shorten your payback period by 2 to 3 years. The catch: you need sufficient federal tax liability to use it.
-
-### Does financing with a solar loan extend my payback period?
-
-It does if you account for interest. A $21,000 loan at 7% over 10 years costs about $29,000 total. Your payback period based on total dollars paid will be longer than for a cash purchase, even if your monthly loan payment is lower than your old electric bill.
-
-### Will my solar payback period change if electricity rates go up?
-
-Yes, and this is one of the most underappreciated factors. Rising utility rates increase the value of every kilowatt-hour your panels produce, which accelerates your payback. With U.S. electricity rates having risen roughly 15% in just two years, this tailwind is real.
-
-### Does adding a battery storage system change the payback period?
-
-Adding a battery typically adds $10,000 to $15,000 to your system cost, which extends the payback period if you're evaluating it in isolation. However, in states with weak net metering like California post-NEM 3.0, a battery can dramatically improve the economics by letting you use your own solar power instead of selling it back for low export credits. Whether it pencils out depends heavily on your state's policies and your usage patterns.
 
 ---
 

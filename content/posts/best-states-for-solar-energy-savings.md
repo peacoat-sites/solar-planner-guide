@@ -97,27 +97,6 @@ Here's the sequence I walk homeowners through:
 
 ---
 
-## FAQ
-
-### Which state has the best solar incentives overall?
-
-Massachusetts consistently ranks at the top when you combine the SMART incentive program, full retail net metering, state tax exemptions, and high electricity rates. New Jersey is a close second thanks to its SREC-II market and aggressive net metering protections.
-
-### Is it still worth going solar in California after NEM 3.0?
-
-It depends heavily on your usage and whether you add battery storage. The export rate cut makes panels-only systems much weaker for new installations. If you pair a system with a Powerwall or similar storage to self-consume more of your generation, California still works financially, just with a longer payback period, often 10 to 14 years now versus 7 to 9 before 2023.
-
-### Does solar add value to a home in any state?
-
-Generally yes, and a 2019 Zillow study found that solar homes sold for about 4.1% more on average. But that premium varies by state, local buyer awareness, and whether you own the system outright. Leased systems can complicate a home sale considerably.
-
-### What's the minimum electricity rate where solar makes sense?
-
-I usually tell homeowners that below 10 to 11 cents per kWh, the math gets very tight and payback periods can stretch past 15 years, making the investment hard to justify. Above 14 to 15 cents, solar almost always makes solid financial sense with good sun exposure and net metering.
-
-### Do I need full sun exposure for solar to be worth it?
-
-Not perfect sun, no. A south-facing roof with no shading between 9 AM and 3 PM in a state with 4+ peak sun hours per day is enough to build a viable system. What kills ROI faster than clouds is shading from trees or nearby structures, or a poorly oriented roof (north-facing in the northern hemisphere generates almost nothing useful).
 
 ---
 

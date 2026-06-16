@@ -165,25 +165,6 @@ Free tools like the NREL PVWatts Calculator or the EnergySage Solar Calculator l
 
 ---
 
-## FAQ: Solar Lease vs. Buy
-
-**Q1: Is it always better to buy solar panels than to lease them?**
-
-For most homeowners who pay federal income taxes and plan to stay in their home for 10+ years, buying,  whether with cash or a loan,  delivers significantly better financial returns. The 30% federal tax credit alone is a massive advantage that leasing forfeits entirely. That said, leasing can be the right choice for homeowners with limited credit access, short ownership timelines, or minimal tax liability.
-
-**Q2: Does leasing solar panels affect your home's resale value?**
-
-Leased systems generally don't add value to your home the way owned systems do. In fact, they can complicate the sale process because the buyer must either assume the lease or you must buy out the contract. Owned solar systems, by contrast, have been shown to increase home values by $15,000–$25,000 on average, according to research from Lawrence Berkeley National Laboratory.
-
-**Q3: What happens at the end of a solar lease term?**
-
-At the end of a typical 20–25 year solar lease, you usually have a few options: renew the lease, have the company remove the panels (at no cost to you), or purchase the system at fair market value. The purchase option at lease-end can be a good deal, as the panels have depreciated,  but fair market value can still be several thousand dollars.
-
-**Q4: Can you get the federal solar tax credit with a solar lease?**
-
-No. When you lease solar panels, the leasing company owns the equipment and therefore claims the federal Investment Tax Credit
-
-*Photo by [Kindel Media](https://www.pexels.com/@kindelmedia) on Pexels*
 
 ---
 

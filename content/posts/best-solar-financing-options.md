@@ -110,27 +110,6 @@ You can also cross-reference [what solar costs in your state](/average-cost-of-s
 
 ---
 
-## Frequently Asked Questions
-
-### What credit score do I need to qualify for a solar loan?
-
-Most unsecured solar loan products require a minimum score of 620 to 650, though the best rates typically go to borrowers with scores of 700 or above. HELOC products from banks often require 680 or higher. PACE financing has no credit score requirement, though it comes with the lien risks described above.
-
-### Should I wait to go solar until I can pay cash?
-
-Not necessarily. If your electricity bill is high and rates are rising, every month you wait is money you're paying to the utility. A well-structured solar loan with a monthly payment below your current electricity bill means you're saving from day one. The goal isn't to pay cash -- it's to make the math work in your favor.
-
-### Can I use a home equity line of credit for solar?
-
-Yes, and it's often one of the better options available. HELOCs typically carry lower rates than unsecured solar loans, and the interest may be tax-deductible depending on how you use the funds. The variable rate is the main risk in a rising rate environment, so a fixed home equity loan is worth comparing if your lender offers it.
-
-### Does the federal tax credit work if I'm financing?
-
-Yes. The 30% federal tax credit is based on the total installed cost of the system, regardless of how you pay for it. If you take an unsecured solar loan, you still own the system and you still claim the credit. One important caveat: many solar loan products are structured expecting you to apply the tax credit as a lump-sum payment toward principal in year one. If you don't receive the credit (because your tax liability is too low), the loan terms may not work as planned.
-
-### Are solar PPAs ever a good idea?
-
-There are situations where a PPA makes sense: if your credit is poor and you don't qualify for a loan, if you're in a state with strong net metering and rising utility rates, or if you have significant roof shading that makes ownership returns uncertain. But for most homeowners with decent credit who plan to stay in their home for 10-plus years, owning through a loan will almost always produce a better financial outcome.
 
 ---
 

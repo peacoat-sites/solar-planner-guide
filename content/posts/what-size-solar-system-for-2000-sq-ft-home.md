@@ -102,27 +102,6 @@ Also ask: what happens if the system underproduces? A good installer will explai
 
 ---
 
-## Frequently Asked Questions
-
-### Is a 6 kW solar system enough for a 2,000 sq ft home?
-
-It can be, but only if your annual electricity usage is on the lower end, typically under 9,000-10,000 kWh per year. If you run central AC in a hot climate, charge an EV, or have electric heat, a 6 kW system will likely cover only 50-70% of your bill. Pull your actual usage data first.
-
-### How many solar panels do I need for a 2,000 square foot house?
-
-Anywhere from 15 to 30 panels depending on your energy usage, your location's sun hours, and the wattage of the panels you choose. A 400W panel is a reasonable planning assumption today. If an installer is quoting you 250W panels, ask why.
-
-### Will solar fully eliminate my electric bill?
-
-Rarely, fully. Most grid-tied systems are designed to offset 80-100% of your usage, but you'll typically still pay a small monthly utility fee (often $10-$20) just for staying connected to the grid. Net metering policies, which vary by state and utility, also affect whether you're fully compensated for the excess power you send back.
-
-### Does roof direction matter a lot for solar sizing?
-
-Yes, more than most people expect. A true south-facing roof at a 30-35 degree pitch in the continental U.S. captures roughly 20-30% more energy than an east- or west-facing roof. If your best roof exposure is east or west, your installer should account for this in their production model, which may mean adding 2-4 more panels to hit the same annual output.
-
-### Should I buy or lease a solar system for my home?
-
-Buy if you can. Purchasing outright (or with a solar loan) gives you the 30% federal tax credit and all the long-term savings. Leases and PPAs transfer those benefits to the third-party owner, and they can complicate home sales. The monthly payment structure feels comfortable, but the 25-year math almost always favors ownership.
 
 ## Helpful Resources
 

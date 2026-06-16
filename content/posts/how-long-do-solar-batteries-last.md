@@ -88,27 +88,6 @@ It also means being talked into a premium product today partly on longevity grou
 
 ---
 
-## FAQ
-
-### How many years does a solar battery actually last?
-
-Most modern lithium iron phosphate batteries last 10-15 years before reaching their warranted capacity floor (usually 70-80% of original capacity). Some well-maintained LFP systems in moderate climates are running past 15 years with meaningful usable capacity. The range is wide because heat, cycling depth, and chemistry all play large roles.
-
-### Do solar batteries degrade faster in hot climates?
-
-Yes, significantly. Lithium battery chemistry degrades faster above 77°F (25°C), and the effect compounds over years. Batteries installed in Phoenix or Houston face meaningfully shorter useful lives than identical units in Seattle or Denver. If you're in a hot climate, prioritize a shaded or climate-controlled installation location and strongly favor LFP chemistry over NMC.
-
-### What happens when a solar battery reaches the end of its life?
-
-It doesn't stop working abruptly. Capacity degrades gradually, meaning it stores less energy than it once did. A 10 kWh battery at end-of-warranty might hold 7-8 kWh. At that point, you can keep using it for reduced storage, replace it, or add a second battery to compensate. Most manufacturers also offer battery module replacement rather than full-system swap, which can cut replacement costs.
-
-### Is it worth replacing a degraded battery or buying a new system?
-
-Depends on how old your inverter and panels are. If your battery degrades significantly around year 10-12 and your inverter is approaching end-of-life anyway, a full system refresh often makes more financial sense than a battery-only swap. Battery prices will be lower by then, and you can right-size a new system based on how your energy needs have evolved.
-
-### Do solar battery warranties cover full replacement?
-
-Most warranties cover the battery reaching below the specified capacity retention threshold (commonly 70%) within the warranty period. They typically cover repair or replacement of the unit, not the installation labor, which can run $500-1,500 depending on the system. Read the warranty document, not the sales brochure, before buying.
 
 ## Helpful Resources
 

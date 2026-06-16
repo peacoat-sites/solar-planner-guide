@@ -91,27 +91,6 @@ One more thing: the inverter decision matters more with battery storage than wit
 
 ---
 
-## Frequently Asked Questions
-
-### Is it worth adding a battery to an existing solar system?
-
-It can be, but the economics are different than installing everything together. You'll likely pay a separate installation fee, you may need an inverter upgrade, and the battery may not qualify for the full 30% federal tax credit unless it's charged exclusively from solar. Get a specific retrofit quote and run the numbers against your current utility rate structure. If you're on TOU rates with high peak pricing, a retrofit often pencils out. On flat-rate billing with strong net metering, the payback math is harder.
-
-### How long do residential solar batteries actually last?
-
-Most lithium iron phosphate (LFP) batteries like the Tesla Powerwall 3 and Franklin WH 13.6 are warrantied to retain at least 70% of original capacity after 10 years or a specified number of cycles (often 3,000 to 4,000 cycles). Real-world degradation data suggests this is roughly accurate. At 10 years, you'll likely need to decide whether to replace the battery or continue with reduced capacity. Budget roughly $8,000 to $12,000 for replacement hardware at that point, though battery costs have historically dropped over time.
-
-### What's the difference between partial and whole-home backup?
-
-Partial backup protects only specific "critical load" circuits, your refrigerator, a few lights, medical equipment, internet. A licensed electrician installs a critical load panel, and only those circuits draw from the battery during an outage. Whole-home backup protects every circuit, which requires either significantly more battery capacity or a load management system that automatically sheds non-essential loads. Whole-home backup is technically more complex and meaningfully more expensive. Most residential installs in the $30,000 to $45,000 range provide partial backup only.
-
-### Do solar batteries increase home value?
-
-The research here is genuinely mixed. A widely cited Lawrence Berkeley National Laboratory study found solar panels increase home value by roughly $15,000 on average. But batteries are newer and the data is thinner. Some appraisers treat battery storage similarly to solar panels; others don't account for it at all. In areas with frequent outages or high electricity rates (think California, Hawaii, the Northeast), anecdotal evidence from real estate agents suggests storage meaningfully improves buyer interest. In areas with reliable grids and low rates, it's less clear.
-
-### Can I add solar plus battery storage to a house with an older electrical panel?
-
-You can, but you'll probably need to upgrade the panel first. Most homes built before the 1990s have 100-amp service panels, and a solar-plus-storage installation, especially with an EV charger, typically requires 200-amp service. Panel upgrades run $1,500 to $4,000 depending on your location and the complexity of the work. This cost is often the surprise item that wasn't mentioned in early quotes. Ask your installer explicitly whether your current panel is compatible before you get too far into the process.
 
 ---
 

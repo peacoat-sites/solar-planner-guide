@@ -82,27 +82,6 @@ For monitoring your system's performance during and after an outage, a whole-hom
 
 ---
 
-## FAQ
-
-### Will my solar panels work during a power outage without a battery?
-
-No. Without battery storage, your solar panels automatically shut off when the grid goes down. This is a mandatory safety feature called anti-islanding, required by utilities to protect line workers. The only exception is Enphase IQ8 microinverters in "sunlight backup" mode, which allows limited daytime-only power without a battery, but that's a specific equipment configuration, not a general solar feature.
-
-### How long will a single Tesla Powerwall last during an outage?
-
-It depends heavily on what you're running. With conservative usage (refrigerator, lights, router, phone charging) and no solar recharging, a single Powerwall 3's 13.5 kWh typically lasts 24-36 hours. If you're also recharging from solar panels during daylight, an outage of several days is manageable as long as you avoid high-draw appliances like AC, electric dryers, or EV chargers.
-
-### Does a solar battery qualify for the federal tax credit?
-
-Yes, if it's charged primarily by solar. The federal Investment Tax Credit covers 30% of installed battery costs when the system is connected to solar panels. Standalone batteries (not connected to solar) also now qualify under the Inflation Reduction Act, as long as they're charged at least 70% from solar energy. The credit applies to your federal income tax liability, so you need to owe taxes to fully benefit.
-
-### Is a whole-home battery backup worth it compared to a generator?
-
-Honestly, it depends on your outage history and how much you value a seamless, fuel-free experience. A propane or natural gas standby generator from Generac or Kohler can power your whole home for days at a fraction of the cost, typically $5,000-$12,000 installed. Batteries win on silence, zero maintenance, no fuel storage, and the ability to charge from solar. If you live somewhere with frequent multi-day outages, a hybrid setup (battery for essentials, generator for backup) often makes the most practical sense.
-
-### Can I add a battery to my existing solar system?
-
-Sometimes yes, sometimes it's complicated. If you have an Enphase microinverter system, adding an IQ Battery is relatively straightforward. If you have an older string inverter, you may need a hybrid inverter retrofit, which can add $2,000-$5,000 to the project. Get quotes from at least two installers and ask specifically whether your existing inverter is compatible, not just whether a battery can be "added."
 
 ---
 
