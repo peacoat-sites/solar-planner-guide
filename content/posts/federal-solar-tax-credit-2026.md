@@ -28,6 +28,16 @@ author_bio: "Nadia Patel approaches solar from an environmental and lifecycle pe
 
 Imagine you install a $30,000 solar system in January 2026 and pocket a $8,100 federal tax credit when you file your return. Now imagine your neighbor waits until 2034 and gets almost nothing. That gap is real, it's written into current law, and most homeowners have no idea the clock is already ticking.
 
+
+<div class="value-module">
+  <div class="vm-head">Solar Tax Credit Phase-Down Schedule</div>
+  <div class="vm-body">
+    <p class="vm-intro">The federal solar tax credit steps down on a fixed legislative timeline—here's exactly what percentage you can claim based on when your system is placed in service.</p>
+    <table><caption>Federal Residential Solar Tax Credit by Installation Year</caption><thead><tr><th>Installation Year</th><th>Credit Percentage</th><th>Credit on $30,000 System</th><th>Key Deadline Notes</th></tr></thead><tbody><tr><td>2022–2032</td><td>30%</td><td>$9,000</td><td>Inflation Reduction Act rate; stable through end of 2032</td></tr><tr><td>2033</td><td>26%</td><td>$7,800</td><td>First step-down year</td></tr><tr><td>2034</td><td>22%</td><td>$6,600</td><td>Final year with any residential credit under current law</td></tr><tr><td>2035 and beyond</td><td>0%</td><td>$0</td><td>Residential credit expires; commercial ITC continues at lower rates</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the Federal Solar Tax Credit Actually Is (and How It Works)
 
 The federal solar tax credit goes by a few names: the Investment Tax Credit (ITC), the Residential Clean Energy Credit, or just "the 30% credit." They all refer to the same thing. Under current law, homeowners who install a qualifying solar system can claim 30% of the total installed cost as a direct reduction in their federal income tax bill.

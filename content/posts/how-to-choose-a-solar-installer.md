@@ -28,6 +28,16 @@ author_bio: "Derek Hansen has pulled permits and installed solar systems in thre
 
 Most homeowners spend more time choosing a Netflix show than vetting the company about to drill holes in their roof and wire a $20,000 system to their electrical panel. That's not a knock on homeowners. Installer selection is genuinely confusing, and the solar industry doesn't make it easier. Slick websites, aggressive door-to-door reps, and "limited-time" pricing pressure are features of this market, not bugs. Here's how to cut through it.
 
+
+<div class="value-module">
+  <div class="vm-head">Solar Installer Vetting Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist with specific thresholds to screen installers before requesting quotes.</p>
+    <table><thead><tr><th>Verification Item</th><th>Minimum Threshold</th><th>Red Flag</th></tr></thead><tbody><tr><td>State electrical contractor license</td><td>Active status, electrical or solar-specific classification (not just general contractor)</td><td>License expired, suspended, or wrong classification</td></tr><tr><td>NABCEP certification</td><td>At least one NABCEP-certified installer on staff who will work on your project</td><td>Claims certification but can't provide installer's name/credential number</td></tr><tr><td>Years in business under current name</td><td>5+ years (allows warranty track record verification)</td><td>Rebranded within past 3 years or can't verify history</td></tr><tr><td>Installations completed annually</td><td>50+ residential systems per year in your region</td><td>Fewer than 20/year or primarily works outside your area</td></tr><tr><td>Workmanship warranty</td><td>10+ years, backed by third-party insurance or bond</td><td>Warranty only valid if company remains in business</td></tr><tr><td>Complaint history (BBB, state contractor board)</td><td>Fewer than 3 unresolved complaints in past 24 months</td><td>Pattern of permit, performance, or communication complaints</td></tr><tr><td>Subcontracting policy</td><td>In-house crews for roof penetrations and electrical work</td><td>Subcontracts all installation labor</td></tr><tr><td>Post-install monitoring</td><td>Provides system monitoring with alerts for underperformance</td><td>No monitoring offered or extra-cost add-on only</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Your Choice of Installer Matters More Than Your Choice of Panels
 
 The panels get all the attention. Monocrystalline vs. polycrystalline, efficiency ratings, degradation curves. Meanwhile, the installer is the variable that actually determines whether your system performs, gets permitted correctly, passes inspection, and comes with warranty support that exists five years from now.

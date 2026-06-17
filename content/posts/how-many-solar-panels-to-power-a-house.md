@@ -32,6 +32,16 @@ The honest answer is: it depends on four things, and two of them most installers
 
 But let's actually work through this, because the math here isn't complicated. It just requires some real information about your home.
 
+
+<div class="value-module">
+  <div class="vm-head">Solar Panel Sizing Worked Example</div>
+  <div class="vm-body">
+    <p class="vm-intro">This numeric walkthrough shows exactly how annual usage, panel wattage, sun hours, and system losses combine to determine panel count for three different household scenarios.</p>
+    <table><caption>Panel Count Calculation for Three Household Scenarios</caption><thead><tr><th>Variable</th><th>Low-Use Home (Mild Climate)</th><th>Average U.S. Home</th><th>High-Use Home (Hot Climate)</th></tr></thead><tbody><tr><td>Annual kWh consumption</td><td>6,000 kWh</td><td>10,500 kWh</td><td>18,000 kWh</td></tr><tr><td>Peak sun hours/day (local average)</td><td>4.5 hrs (Pacific Northwest)</td><td>5.0 hrs (Midwest)</td><td>6.5 hrs (Arizona)</td></tr><tr><td>Panel wattage</td><td>400W</td><td>400W</td><td>400W</td></tr><tr><td>System efficiency factor</td><td>0.80 (accounts for inverter, wiring, soiling losses)</td><td>0.80</td><td>0.80</td></tr><tr><td><strong>Step 1:</strong> Daily kWh needed</td><td>6,000 ÷ 365 = 16.4 kWh</td><td>10,500 ÷ 365 = 28.8 kWh</td><td>18,000 ÷ 365 = 49.3 kWh</td></tr><tr><td><strong>Step 2:</strong> kWh per panel per day</td><td>0.400 × 4.5 × 0.80 = 1.44 kWh</td><td>0.400 × 5.0 × 0.80 = 1.60 kWh</td><td>0.400 × 6.5 × 0.80 = 2.08 kWh</td></tr><tr><td><strong>Step 3:</strong> Panels needed (raw)</td><td>16.4 ÷ 1.44 = 11.4</td><td>28.8 ÷ 1.60 = 18.0</td><td>49.3 ÷ 2.08 = 23.7</td></tr><tr><td><strong>Final panel count (rounded up)</strong></td><td><strong>12 panels</strong></td><td><strong>18 panels</strong></td><td><strong>24 panels</strong></td></tr><tr><td>System size (kW DC)</td><td>4.8 kW</td><td>7.2 kW</td><td>9.6 kW</td></tr><tr><td>Approximate roof space needed</td><td>215 sq ft</td><td>320 sq ft</td><td>430 sq ft</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Start With Your Electricity Use, Not Your Roof
 
 Here's the number that actually drives everything: your annual kilowatt-hour (kWh) consumption. Not your roof size, not your square footage. Your kWh.

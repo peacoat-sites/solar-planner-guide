@@ -30,6 +30,16 @@ My favorite myth to bust: the sunniest state is automatically the best state for
 
 Sunlight matters. But utility rates, net metering policies, state rebates, and your roof's situation matter just as much, if not more. Let me walk you through which states are genuinely worth it right now, and why a few obvious candidates might disappoint you.
 
+
+<div class="value-module">
+  <div class="vm-head">Solar Savings Comparison: 6 States Analyzed</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table compares key savings factors across states with different sun, rate, and policy profiles to illustrate why the math often surprises people.</p>
+    <table><thead><tr><th>State</th><th>Avg. Peak Sun Hours/Day</th><th>Avg. Residential Rate (¢/kWh)</th><th>Net Metering Status</th><th>Notable State Incentives</th><th>Relative Savings Potential</th></tr></thead><tbody><tr><td>Massachusetts</td><td>4.0–4.5</td><td>25–29</td><td>Full retail credit (investor-owned utilities)</td><td>SMART program production incentives, state tax credit</td><td>High (rates offset moderate sun)</td></tr><tr><td>New Jersey</td><td>4.2–4.7</td><td>17–21</td><td>Full retail credit</td><td>SuSI program successor credits (SRECs transitioned)</td><td>High</td></tr><tr><td>Arizona</td><td>6.0–6.5</td><td>12–15</td><td>Varies by utility; APS uses export rates below retail</td><td>Limited; federal credit only for most</td><td>Moderate (great sun, lower rates/weaker policy)</td></tr><tr><td>California</td><td>5.5–6.0</td><td>25–35 (tiered)</td><td>NEM 3.0: export credits ~75% lower than retail</td><td>Self-Generation Incentive Program (batteries)</td><td>Moderate without battery; higher with storage</td></tr><tr><td>Texas</td><td>5.0–5.5</td><td>12–14</td><td>No statewide mandate; varies by provider</td><td>Limited state incentives; some utility rebates</td><td>Moderate (low rates, inconsistent export value)</td></tr><tr><td>New York</td><td>3.8–4.3</td><td>20–24</td><td>Value of Distributed Energy Resources (VDER) credits</td><td>NY-Sun rebates, state tax credit (up to $5,000)</td><td>High (strong incentives offset lower sun)</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why "Most Sunshine" Is the Wrong Metric
 
 Here's the thing about solar economics: you're not selling sunshine, you're offsetting a bill. And if that bill is tiny to begin with, all the sunshine in the world doesn't add up to much.

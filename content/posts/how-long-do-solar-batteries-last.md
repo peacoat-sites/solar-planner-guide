@@ -30,6 +30,16 @@ Most solar battery articles will tell you to expect "10 to 15 years" and leave i
 
 So let's get into what the lifespan numbers actually mean, what kills batteries early, and which batteries are genuinely worth the money.
 
+
+<div class="value-module">
+  <div class="vm-head">Battery Degradation Factors: Impact Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table quantifies how major degradation factors affect lithium battery lifespan, helping you identify which issues deserve priority attention in your specific situation.</p>
+    <table><thead><tr><th>Degradation Factor</th><th>Typical Lifespan Impact</th><th>Warning Signs</th><th>Mitigation Cost</th></tr></thead><tbody><tr><td><strong>High ambient temperature</strong> (sustained >86°F/30°C)</td><td>20–40% faster capacity loss</td><td>Thermal throttling alerts; reduced charging during summer peaks</td><td>$500–2,000 (climate-controlled enclosure or relocation)</td></tr><tr><td><strong>Deep discharge cycling</strong> (regularly to <10% state of charge)</td><td>30–50% fewer total cycles</td><td>Rapid capacity drop in first 2 years; system shutdowns</td><td>$0 (software settings adjustment)</td></tr><tr><td><strong>High charge rates</strong> (frequent fast-charging from solar peaks)</td><td>10–20% accelerated degradation</td><td>Battery feels warm to touch; fan running constantly</td><td>$0–200 (inverter charge rate limiting)</td></tr><tr><td><strong>Prolonged high state of charge</strong> (held at 100% for days)</td><td>15–25% faster calendar aging</td><td>None visible until annual capacity check</td><td>$0 (set max charge to 80–90%)</td></tr><tr><td><strong>Infrequent cycling</strong> (backup-only use, few cycles/month)</td><td>Calendar aging dominates; may lose 5–10% capacity before cycling warranty kicks in</td><td>Lower-than-expected capacity on first extended outage</td><td>$0 (schedule monthly conditioning cycle)</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "Lifespan" Actually Means for a Solar Battery
 
 Battery manufacturers don't promise you a number of years. They promise you a number of cycles, or a throughput figure in kilowatt-hours, combined with a capacity retention guarantee. Tesla's Powerwall 3, for example, is warranted for 10 years with a guarantee that it'll retain at least 70% of its original capacity. LG's RESU Prime series uses a similar structure.

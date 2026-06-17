@@ -32,6 +32,16 @@ I've spent a lot of time with these numbers since then, talking to homeowners wh
 
 Here's what the utilities and, frankly, many installers aren't leading with.
 
+
+<div class="value-module">
+  <div class="vm-head">NEM 2.0 vs NEM 3.0 Economics Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table shows how the same solar system performs under each program, illustrating why system design strategy must change.</p>
+    <table><thead><tr><th>Factor</th><th>NEM 2.0</th><th>NEM 3.0</th><th>Impact</th></tr></thead><tbody><tr><td>Export credit rate (avg)</td><td>$0.28–$0.34/kWh</td><td>$0.05–$0.08/kWh</td><td>75% reduction in export value</td></tr><tr><td>Annual export value (5,000 kWh exported)</td><td>~$1,500</td><td>~$300</td><td>$1,200/year lost income</td></tr><tr><td>Payback period (solar only, 8kW system)</td><td>5–7 years</td><td>9–12 years</td><td>Nearly doubles without battery</td></tr><tr><td>Payback period (solar + battery)</td><td>7–9 years</td><td>6–8 years</td><td>Battery now shortens payback</td></tr><tr><td>Optimal system design</td><td>Maximize production, export freely</td><td>Match consumption, minimize exports</td><td>Smaller systems often better ROI</td></tr><tr><td>Battery necessity</td><td>Optional (backup convenience)</td><td>Financially essential</td><td>Add $8K–$15K to project cost</td></tr><tr><td>Best value hours for self-consumption</td><td>Any hour (credits equal)</td><td>4–9 PM (TOU peak rates $0.45+/kWh)</td><td>Shift usage or store for evening</td></tr><tr><td>Break-even self-consumption ratio</td><td>~30–40%</td><td>~70–80%</td><td>Must use most of what you generate</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What NEM 3.0 Actually Changed (And Why It Hurts)
 
 Net Energy Metering, in its original form, was elegantly simple. You generate more solar than you use during the day, you export that surplus to the grid, and your utility credits you at close to the retail rate for every kilowatt-hour. Under NEM 1.0 and NEM 2.0, that retail-rate credit made the math work beautifully. A kilowatt-hour exported at noon was worth roughly the same as one you'd buy from the grid at 7 p.m.

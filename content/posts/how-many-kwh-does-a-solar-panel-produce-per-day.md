@@ -30,6 +30,16 @@ Most homeowners I talk to guess somewhere between 1 and 100 kWh per day for a si
 
 Here's the honest answer: a standard residential solar panel today will produce somewhere between **1.5 and 2.5 kWh per day**, on average, over a full year. But that number is doing a lot of work, and understanding what pulls it up or down is what will actually help you size a system for your home. So let's slow down and look at how that number gets built.
 
+
+<div class="value-module">
+  <div class="vm-head">Daily Output by City and Panel Size</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table shows realistic daily kWh production for common panel wattages across U.S. cities, using NREL peak sun hour data and assuming standard south-facing installation with minimal shading.</p>
+    <table><thead><tr><th>City</th><th>Peak Sun Hours (avg)</th><th>370W Panel</th><th>400W Panel</th><th>440W Panel</th></tr></thead><tbody><tr><td>Phoenix, AZ</td><td>6.0</td><td>1.9 kWh</td><td>2.1 kWh</td><td>2.3 kWh</td></tr><tr><td>Miami, FL</td><td>5.6</td><td>1.8 kWh</td><td>1.9 kWh</td><td>2.1 kWh</td></tr><tr><td>Denver, CO</td><td>5.0</td><td>1.6 kWh</td><td>1.7 kWh</td><td>1.9 kWh</td></tr><tr><td>Chicago, IL</td><td>4.4</td><td>1.4 kWh</td><td>1.5 kWh</td><td>1.7 kWh</td></tr><tr><td>Boston, MA</td><td>4.2</td><td>1.3 kWh</td><td>1.4 kWh</td><td>1.6 kWh</td></tr><tr><td>Portland, OR</td><td>3.8</td><td>1.2 kWh</td><td>1.3 kWh</td><td>1.4 kWh</td></tr><tr><td>Seattle, WA</td><td>3.5</td><td>1.1 kWh</td><td>1.2 kWh</td><td>1.3 kWh</td></tr></tbody><tfoot><tr><td colspan="5">Values assume ~85% system efficiency (accounting for inverter losses, wiring, temperature). Actual output varies by roof angle, shading, and seasonal conditions.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Actually Determines a Panel's Daily Output
 
 Every solar panel has a wattage rating, called its STC rating (Standard Test Conditions). Most panels sold for residential use right now fall between 370W and 440W. A decade ago, 250W was the standard. That shift matters.

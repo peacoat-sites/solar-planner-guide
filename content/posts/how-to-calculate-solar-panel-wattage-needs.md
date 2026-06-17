@@ -34,6 +34,16 @@ So let's do this right.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Solar Sizing Worked Example</div>
+  <div class="vm-body">
+    <p class="vm-intro">This step-by-step numeric example shows how daily energy use, sun hours, and system losses translate into the panel wattage you actually need.</p>
+    <table><thead><tr><th>Step</th><th>What You're Calculating</th><th>Example Numbers</th><th>Result</th></tr></thead><tbody><tr><td>1</td><td>Annual kWh from utility bills</td><td>10,500 kWh ÷ 365 days</td><td>28.8 kWh/day</td></tr><tr><td>2</td><td>Peak sun hours for your location</td><td>Denver, CO average</td><td>5.5 hours/day</td></tr><tr><td>3</td><td>Raw system size needed</td><td>28.8 kWh ÷ 5.5 hours</td><td>5.24 kW</td></tr><tr><td>4</td><td>Adjust for system losses (inverter, wiring, soiling, temperature)</td><td>5.24 kW ÷ 0.80 efficiency factor</td><td>6.55 kW</td></tr><tr><td>5</td><td>Number of 400W panels</td><td>6,550 W ÷ 400 W</td><td>17 panels</td></tr><tr><td>6</td><td>Roof area estimate (21 sq ft per panel)</td><td>17 × 21 sq ft</td><td>357 sq ft</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Start With Your Actual Energy Use, Not a Guess
 
 Your electric bill is the only honest starting point. Not your neighbor's bill, not a national average, not what some calculator assumed. Yours.

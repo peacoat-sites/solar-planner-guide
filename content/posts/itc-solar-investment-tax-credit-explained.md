@@ -28,6 +28,16 @@ author_bio: "Derek Hansen has pulled permits and installed solar systems in thre
 
 If you installed a solar system on your home last year and paid $20,000 for it, the federal government will hand you back $6,000 on your tax return. Not a deduction. Not a rebate check in the mail. A dollar-for-dollar reduction in what you owe the IRS. That's the solar Investment Tax Credit (ITC) in action, and it's one of the most valuable financial incentives available to American homeowners right now. Yet I've talked to dozens of people who either didn't claim it correctly, left money on the table, or passed on going solar because they didn't understand how it actually works. Let's fix that.
 
+
+<div class="value-module">
+  <div class="vm-head">ITC Savings by System Cost</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table shows illustrative federal tax credit amounts at the current 30% rate for common residential solar system price points.</p>
+    <table><thead><tr><th>Total System Cost</th><th>ITC Credit (30%)</th><th>Net Cost After Credit</th><th>Typical System Size</th></tr></thead><tbody><tr><td>$12,000</td><td>$3,600</td><td>$8,400</td><td>4–5 kW</td></tr><tr><td>$18,000</td><td>$5,400</td><td>$12,600</td><td>6–7 kW</td></tr><tr><td>$24,000</td><td>$7,200</td><td>$16,800</td><td>8–9 kW</td></tr><tr><td>$30,000</td><td>$9,000</td><td>$21,000</td><td>10–11 kW</td></tr><tr><td>$40,000</td><td>$12,000</td><td>$28,000</td><td>12–15 kW (with battery)</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the ITC Actually Is (and What It Isn't)
 
 The solar Investment Tax Credit, now technically called the Residential Clean Energy Credit after the Inflation Reduction Act of 2022, lets you deduct 30% of the total cost of a qualifying solar installation from your federal income taxes. It has been around in various forms since 2006, but the IRA locked in that 30% rate through 2032, which is a big deal. Before the IRA passed, the credit was scheduled to drop to 22% in 2023 and eventually disappear for homeowners entirely.

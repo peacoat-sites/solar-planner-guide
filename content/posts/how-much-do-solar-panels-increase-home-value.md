@@ -30,6 +30,16 @@ The average American home gains about $15,000 in resale value after a solar inst
 
 I've spent a lot of time with homeowners trying to figure out whether solar is a smart financial move, and the resale value question is one of the trickiest because the answer genuinely varies by so much depending on where you live, how you bought the system, and what the local real estate market is doing. Let me walk you through what the data actually says.
 
+
+<div class="value-module">
+  <div class="vm-head">Owned vs. Leased Solar: Resale Impact</div>
+  <div class="vm-body">
+    <p class="vm-intro">The ownership structure of your solar system dramatically affects how buyers and lenders perceive your home's value.</p>
+    <table><caption>How Solar Ownership Type Affects Home Resale</caption><thead><tr><th>Factor</th><th>Owned System</th><th>Leased / PPA</th></tr></thead><tbody><tr><td>Appraised value increase</td><td>$3–$4 per watt typical (e.g., $18K–$24K for 6kW)</td><td>Often $0 — system is not homeowner's asset</td></tr><tr><td>Buyer perception</td><td>Viewed as home upgrade (like a new roof)</td><td>Viewed as transferred debt obligation</td></tr><tr><td>Sale complexity</td><td>Transfers with property at closing</td><td>Requires lease transfer approval; some buyers walk</td></tr><tr><td>Lender treatment</td><td>Included in collateral value</td><td>Monthly payment may count against buyer's DTI ratio</td></tr><tr><td>Negotiation leverage</td><td>Seller can highlight lifetime savings</td><td>Seller may need to buy out lease ($5K–$20K typical) to close deal</td></tr><tr><td>Best-case scenario</td><td>Full premium in high-rate state with solar-savvy appraiser</td><td>Buyer is comfortable assuming lease; no discount demanded</td></tr><tr><td>Worst-case scenario</td><td>Appraiser finds no comps; premium undervalued</td><td>Deal falls through or seller pays buyout plus price reduction</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Core Number, and Why It's Slippery
 
 The most-cited research on solar home value comes from a Lawrence Berkeley National Laboratory study (updated several times, most recently drawing on sales data through 2020) that found buyers paid a premium of roughly $4 per watt of installed solar capacity. On a typical 6-kilowatt system, that's about $24,000. Zillow's separate analysis found solar homes sold for 4.1% more on average. On a $400,000 home, that's $16,400.
