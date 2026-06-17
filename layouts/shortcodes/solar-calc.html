@@ -1,0 +1,138 @@
+{{/* Solar savings calculator with state peak-sun hours, ITC, payback, CO2. Usage: {{< solar-calc >}} */}}
+<style>
+.sc{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.sc-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.sc-body{padding:20px}
+.sc .ig{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.sc label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.sc input,.sc select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.sc input:focus,.sc select:focus{outline:none;border-color:var(--accent,#0891b2);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#0891b2) 20%,transparent)}
+.sc .rg{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.sc .rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.sc .rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.sc .rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#0891b2);line-height:1.15;margin:2px 0}
+.sc .rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.sc .callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#0891b2) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#0891b2) 35%,transparent);font-size:.95rem;line-height:1.5}
+.sc .callout b{color:var(--accent,#0891b2)}
+.sc .note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+.sc .chk{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:600;color:var(--text,#1a1a18);cursor:pointer;margin-bottom:8px}
+.sc .chk input[type=checkbox]{width:18px;height:18px;cursor:pointer}
+@media(max-width:560px){.sc .rv{font-size:1.4rem}}
+</style>
+<div class="sc">
+  <div class="sc-head">☀️ Solar Savings &amp; Payback Calculator</div>
+  <div class="sc-body">
+    <div class="ig">
+      <label>State
+        <select id="sc-state">
+          <option value="4.5">Select your state…</option>
+          <option value="5.7">Arizona</option>
+          <option value="5.5">California</option>
+          <option value="5.2">Colorado</option>
+          <option value="4.0">Connecticut</option>
+          <option value="5.3">Florida</option>
+          <option value="4.7">Georgia</option>
+          <option value="5.0">Hawaii</option>
+          <option value="4.2">Illinois</option>
+          <option value="4.3">Indiana</option>
+          <option value="4.4">Iowa</option>
+          <option value="4.8">Kansas</option>
+          <option value="4.1">Kentucky</option>
+          <option value="4.9">Louisiana</option>
+          <option value="3.8">Maine</option>
+          <option value="4.2">Maryland</option>
+          <option value="3.9">Massachusetts</option>
+          <option value="3.8">Michigan</option>
+          <option value="4.3">Minnesota</option>
+          <option value="4.9">Mississippi</option>
+          <option value="4.6">Missouri</option>
+          <option value="4.5">Montana</option>
+          <option value="4.7">Nebraska</option>
+          <option value="5.4">Nevada</option>
+          <option value="3.9">New Hampshire</option>
+          <option value="4.2">New Jersey</option>
+          <option value="5.8">New Mexico</option>
+          <option value="4.0">New York</option>
+          <option value="4.6">North Carolina</option>
+          <option value="4.4">Ohio</option>
+          <option value="4.9">Oklahoma</option>
+          <option value="3.7">Oregon</option>
+          <option value="4.1">Pennsylvania</option>
+          <option value="4.0">Rhode Island</option>
+          <option value="4.8">South Carolina</option>
+          <option value="4.6">South Dakota</option>
+          <option value="4.7">Tennessee</option>
+          <option value="5.3">Texas</option>
+          <option value="5.2">Utah</option>
+          <option value="3.8">Vermont</option>
+          <option value="4.5">Virginia</option>
+          <option value="3.7">Washington</option>
+          <option value="4.3">West Virginia</option>
+          <option value="4.0">Wisconsin</option>
+          <option value="5.1">Wyoming</option>
+        </select>
+      </label>
+      <label>Monthly electric bill ($)
+        <input type="number" id="sc-bill" value="160" min="0" step="10">
+      </label>
+      <label>System size (kW)
+        <input type="number" id="sc-kw" value="8" min="1" max="50" step="0.5">
+      </label>
+      <label>System cost before incentives ($)
+        <input type="number" id="sc-cost" value="25000" min="0" step="500">
+      </label>
+      <label>Electricity rate (¢/kWh)
+        <input type="number" id="sc-rate" value="14" min="1" max="50" step="0.5">
+      </label>
+      <label>Annual rate increase (%)
+        <input type="number" id="sc-infl" value="3" min="0" max="10" step="0.5">
+      </label>
+    </div>
+    <label class="chk"><input type="checkbox" id="sc-itc" checked> Apply 30% Federal Investment Tax Credit (ITC)</label>
+    <div class="rg">
+      <div class="rc"><span class="rl">Net system cost</span><span class="rv" id="sc-netcost">—</span><span class="rs">after ITC</span></div>
+      <div class="rc"><span class="rl">Annual production</span><span class="rv" id="sc-kwh">—</span><span class="rs">kWh/year</span></div>
+      <div class="rc"><span class="rl">Annual savings</span><span class="rv" id="sc-yr1">—</span><span class="rs">year 1</span></div>
+      <div class="rc"><span class="rl">Simple payback</span><span class="rv" id="sc-pay">—</span><span class="rs">years</span></div>
+      <div class="rc"><span class="rl">25-year savings</span><span class="rv" id="sc-25">—</span><span class="rs">total</span></div>
+      <div class="rc"><span class="rl">CO₂ avoided</span><span class="rv" id="sc-co2">—</span><span class="rs">tons over 25 yrs</span></div>
+    </div>
+    <div class="callout" id="sc-callout">Enter your details above to see your personalized solar estimate.</div>
+    <p class="note">Estimates use 0.80 performance ratio and the US EPA average grid emission factor (0.386 kg CO₂/kWh). Actual results depend on roof orientation, shading, installer pricing, local net-metering policies, and state incentives. Always get multiple quotes from licensed installers.</p>
+  </div>
+</div>
+<script>(function(){
+  function g(id){return document.getElementById(id);}
+  function n(id){var e=g(id);return e?parseFloat(e.value)||0:0;}
+  function fmt(v){return '$'+Math.round(v).toLocaleString();}
+  function calc(){
+    var psh=n('sc-state'), bill=n('sc-bill'), kw=n('sc-kw');
+    var cost=n('sc-cost'), rate=n('sc-rate')/100, infl=n('sc-infl')/100;
+    var itc=g('sc-itc')&&g('sc-itc').checked?0.30:0;
+    var net=cost*(1-itc);
+    var kwh=kw*psh*365*0.80;
+    var yr1=kwh*rate;
+    var payback=yr1>0?net/yr1:0;
+    var total=0, s=yr1;
+    for(var i=0;i<25;i++){total+=s;s*=(1+infl);}
+    var co2=kwh*25*0.386/1000;
+    if(g('sc-netcost'))g('sc-netcost').textContent=fmt(net);
+    if(g('sc-kwh'))g('sc-kwh').textContent=Math.round(kwh).toLocaleString();
+    if(g('sc-yr1'))g('sc-yr1').textContent=fmt(yr1);
+    if(g('sc-pay'))g('sc-pay').textContent=payback>0?payback.toFixed(1)+'yrs':'—';
+    if(g('sc-25'))g('sc-25').textContent=fmt(total);
+    if(g('sc-co2'))g('sc-co2').textContent=Math.round(co2).toLocaleString();
+    var c=g('sc-callout');
+    if(c&&psh>0&&bill>0&&kw>0){
+      var roi=net>0?((total-net)/net*100):0;
+      c.innerHTML='A <b>'+kw+' kW</b> system in your state could produce roughly <b>'+Math.round(kwh).toLocaleString()+' kWh/year</b>, '
+        +'saving you approximately <b>'+fmt(yr1)+'</b> in year one. After the ITC your net cost is <b>'+fmt(net)+'</b>, '
+        +'with a payback of about <b>'+payback.toFixed(1)+' years</b> and a <b>'+Math.round(roi)+'% ROI</b> over 25 years.';
+    }
+  }
+  ['sc-state','sc-bill','sc-kw','sc-cost','sc-rate','sc-infl'].forEach(function(id){
+    var e=g(id);if(e)e.addEventListener('input',calc);
+  });
+  var cb=g('sc-itc');if(cb)cb.addEventListener('change',calc);
+  calc();
+})();</script>

@@ -1,0 +1,155 @@
+{{/* Solar ROI & Financing Comparison Calculator. Usage: {{< solar-roi-calc >}} */}}
+<style>
+.srf{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.srf-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.srf-body{padding:20px}
+.srf .ig{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.srf label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.srf input,.srf select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.srf input:focus,.srf select:focus{outline:none;border-color:var(--accent,#0891b2);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#0891b2) 20%,transparent)}
+.srf .chk{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:600;color:var(--text,#1a1a18);cursor:pointer;margin-bottom:16px}
+.srf .chk input[type=checkbox]{width:18px;height:18px;cursor:pointer}
+.srf .extra{display:none;margin-bottom:16px}
+.srf .rg{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.srf .rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.srf .rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.srf .rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#0891b2);line-height:1.15;margin:2px 0}
+.srf .rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.srf .callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#0891b2) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#0891b2) 35%,transparent);font-size:.95rem;line-height:1.5}
+.srf .callout b{color:var(--accent,#0891b2)}
+.srf .note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+.srf .sec-lbl{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860);margin:18px 0 10px;padding-bottom:6px;border-bottom:1px solid var(--border,rgba(0,0,0,.1))}
+@media(max-width:560px){.srf .rv{font-size:1.4rem}}
+</style>
+<div class="srf">
+  <div class="srf-head">📊 Solar ROI &amp; Financing Comparison</div>
+  <div class="srf-body">
+    <div class="sec-lbl">System Details</div>
+    <div class="ig">
+      <label>System size (kW)
+        <input type="number" id="rf-kw" value="8" min="1" max="50" step="0.5">
+      </label>
+      <label>System cost before incentives ($)
+        <input type="number" id="rf-cost" value="25000" min="0" step="500">
+      </label>
+      <label>Monthly electric bill ($)
+        <input type="number" id="rf-bill" value="160" min="0" step="5">
+      </label>
+    </div>
+    <label class="chk"><input type="checkbox" id="rf-itc" checked> Apply 30% Federal ITC (reduces upfront cost)</label>
+
+    <div class="sec-lbl">Financing Option</div>
+    <div style="margin-bottom:14px">
+      <label>How are you financing?
+        <select id="rf-type">
+          <option value="cash">Cash Purchase</option>
+          <option value="loan">Solar Loan</option>
+          <option value="lease">Lease / PPA</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="ig extra" id="rf-loan-fields">
+      <label>Loan interest rate (%)
+        <input type="number" id="rf-apr" value="5.9" min="0" max="25" step="0.1">
+      </label>
+      <label>Loan term (years)
+        <input type="number" id="rf-term" value="12" min="1" max="25" step="1">
+      </label>
+    </div>
+    <div class="extra" id="rf-lease-fields" style="margin-bottom:14px">
+      <label>Monthly lease / PPA payment ($)
+        <input type="number" id="rf-lease-pmt" value="85" min="0" step="5">
+      </label>
+    </div>
+
+    <div id="rf-results">
+      <div class="rg" id="rf-cards"></div>
+      <div class="callout" id="rf-callout">Select your financing option and fill in the details to compare your solar ROI.</div>
+    </div>
+    <p class="note">Solar production assumed at 1,100 kWh/kW/year (US average). ITC applies to cash and loan purchases (you must have sufficient federal tax liability). Lease/PPA payments are typically fixed or escalate 1–3%/year — read your contract. This calculator uses simple 25-year projections; actual results vary. Not financial advice.</p>
+  </div>
+</div>
+<script>(function(){
+  function g(id){return document.getElementById(id);}
+  function n(id){var e=g(id);return e?parseFloat(e.value)||0:0;}
+  function fmt(v,sign){var s=(sign&&v>0)?'+':'';return s+'$'+Math.abs(Math.round(v)).toLocaleString()+(v<0?' credit':'');}
+  function fmtSgn(v){return (v>=0?'$':'−$')+Math.abs(Math.round(v)).toLocaleString();}
+
+  function showHide(){
+    var t=g('rf-type').value;
+    var lf=g('rf-loan-fields'), sf=g('rf-lease-fields');
+    if(lf)lf.style.display=(t==='loan')?'grid':'none';
+    if(sf)sf.style.display=(t==='lease')?'block':'none';
+  }
+
+  function card(label,val,sub){
+    return '<div class="rc"><span class="rl">'+label+'</span><span class="rv">'+val+'</span><span class="rs">'+sub+'</span></div>';
+  }
+
+  function calc(){
+    showHide();
+    var kw=n('rf-kw'), cost=n('rf-cost'), bill=n('rf-bill');
+    var itc=g('rf-itc')&&g('rf-itc').checked?0.30:0;
+    var type=g('rf-type').value;
+    var net=cost*(1-itc);
+    // Annual solar savings (assumes solar covers ~80% of bill as typical offset)
+    var annualSavings=bill*12*0.85;
+    var cards='', callout='';
+
+    if(type==='cash'){
+      var payback=annualSavings>0?net/annualSavings:0;
+      var total25=annualSavings*25;
+      var roi25=net>0?((total25-net)/net*100):0;
+      cards=card('Net cost (after ITC)','$'+Math.round(net).toLocaleString(),'upfront investment')
+           +card('Year-1 savings','$'+Math.round(annualSavings).toLocaleString(),'vs current bill')
+           +card('Simple payback',payback>0?payback.toFixed(1)+' yrs':'—','break-even')
+           +card('25-yr total savings','$'+Math.round(total25).toLocaleString(),'gross')
+           +card('25-yr ROI',Math.round(roi25)+'%','return on investment');
+      callout='<b>Cash purchase</b>: You invest <b>$'+Math.round(net).toLocaleString()+'</b> net (after ITC) and break even in about <b>'+payback.toFixed(1)+' years</b>. '
+        +'Over 25 years you save roughly <b>$'+Math.round(total25).toLocaleString()+'</b> — a <b>'+Math.round(roi25)+'% ROI</b>. Cash is the highest-return option when you have the capital.';
+    } else if(type==='loan'){
+      var apr=n('rf-apr')/100/12;
+      var termMo=n('rf-term')*12;
+      var pmt=apr>0?(net*apr/(1-Math.pow(1+apr,-termMo))):net/termMo;
+      var moSave=bill*0.85;
+      var netMo=moSave-pmt;
+      var totalPaid=pmt*termMo;
+      // Payback = when cumulative savings exceed total loan paid
+      var payback=0, cum=0;
+      for(var i=1;i<=300;i++){cum+=moSave; if(cum>=totalPaid){payback=i/12;break;}}
+      var net25=(annualSavings*25)-totalPaid;
+      cards=card('Monthly loan payment','$'+Math.round(pmt).toLocaleString(),n('rf-term')+'-yr term')
+           +card('Monthly solar savings','$'+Math.round(moSave).toLocaleString(),'vs current bill')
+           +card('Net monthly cash flow',fmtSgn(netMo),netMo>=0?'positive from day 1':'negative until paid off')
+           +card('Loan payback',payback>0?payback.toFixed(1)+' yrs':'25+ yrs','when savings > total paid')
+           +card('25-yr net savings','$'+Math.round(net25).toLocaleString(),'savings minus loan total');
+      callout='<b>Solar loan</b>: Your monthly payment is <b>$'+Math.round(pmt).toLocaleString()+'</b> vs. a <b>$'+Math.round(moSave).toLocaleString()+'</b> savings — '
+        +(netMo>=0?'a <b>positive $'+Math.round(netMo).toLocaleString()+'/mo cash flow from day one</b>.':'a net cost of <b>$'+Math.round(-netMo).toLocaleString()+'/mo</b> until paid off.')
+        +' Over 25 years you keep <b>$'+Math.round(net25).toLocaleString()+'</b> after repaying the loan.';
+    } else {
+      var leasePmt=n('rf-lease-pmt');
+      var moSaveLease=bill-leasePmt;
+      var save25=(bill*12-leasePmt*12)*25;
+      cards=card('Monthly lease payment','$'+Math.round(leasePmt).toLocaleString(),'fixed PPA/lease')
+           +card('Monthly savings vs bill',fmtSgn(moSaveLease),'old bill minus lease')
+           +card('Estimated 25-yr savings','$'+Math.round(save25).toLocaleString(),'if bill stays flat')
+           +card('Upfront cost','$0','no capital required');
+      callout='<b>Lease / PPA</b>: You pay <b>$'+Math.round(leasePmt).toLocaleString()+'/mo</b> instead of your <b>$'+Math.round(bill).toLocaleString()+'/mo</b> electric bill — '
+        +'saving <b>$'+Math.round(moSaveLease).toLocaleString()+'/mo</b> with no upfront cost. '
+        +'Note: you do <b>not</b> receive the ITC (the lessor does), and you won\'t build equity in the system. Good for those who prefer no capital outlay.';
+    }
+
+    var cardsEl=g('rf-cards');
+    if(cardsEl)cardsEl.innerHTML=cards;
+    var calloutEl=g('rf-callout');
+    if(calloutEl)calloutEl.innerHTML=callout;
+  }
+
+  ['rf-kw','rf-cost','rf-bill','rf-apr','rf-term','rf-lease-pmt'].forEach(function(id){
+    var e=g(id);if(e)e.addEventListener('input',calc);
+  });
+  var sel=g('rf-type');if(sel)sel.addEventListener('change',calc);
+  var cb=g('rf-itc');if(cb)cb.addEventListener('change',calc);
+  calc();
+})();</script>
