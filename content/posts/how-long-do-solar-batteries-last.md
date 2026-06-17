@@ -80,7 +80,7 @@ SEIA's residential storage data suggests median system lifespans clustering arou
 
 A 10 kWh battery degraded to 80% capacity is a 8 kWh battery. That might still cover your overnight loads. It might not, depending on how your usage has grown. This is the conversation worth having with your installer upfront: what capacity do you need at year ten, not just at installation?
 
-If you want to watch your battery's real-time state of health rather than waiting for a performance surprise, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=yourtag-20) can track battery input/output and help you spot degradation trends early. (The site may earn a commission on purchases.)
+If you want to watch your battery's real-time state of health rather than waiting for a performance surprise, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) can track battery input/output and help you spot degradation trends early. (The site may earn a commission on purchases.)
 
 ## Does Maintenance Actually Matter?
 

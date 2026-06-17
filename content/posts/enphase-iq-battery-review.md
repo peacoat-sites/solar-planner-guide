@@ -58,11 +58,11 @@ This is where Enphase either wins you over completely or becomes a sticking poin
 
 If you already have Enphase microinverters on your roof (IQ7, IQ8, or newer), adding IQ Batteries is seamless in a way that genuinely impressed me the first time I watched an installation. The Enphase Enlighten platform ties everything together: solar production, battery state of charge, home consumption, and grid usage all visible in one clean app. The IQ8 microinverters in particular have a feature called Sunlight Backup, where the solar panels can power your home during a grid outage even without a battery, as long as the sun is shining. Stack that with IQ Batteries for nighttime and cloudy-day coverage, and you have a genuinely resilient system.
 
-The Enphase system also works with the [IQ System Controller 3](https://www.amazon.com/s?k=Enphase+IQ+System+Controller&tag=solarsite-20) (the brains that manages grid transition and load protection), which is required for whole-home backup. *(Note: affiliate link, site may earn a commission.)*
+The Enphase system also works with the [IQ System Controller 3](https://www.amazon.com/s?k=Enphase+IQ+System+Controller&tag=contentportfo-20) (the brains that manages grid transition and load protection), which is required for whole-home backup. *(Note: affiliate link, site may earn a commission.)*
 
 But here's the lock-in issue. If your home already has a string inverter from SolarEdge, SMA, or another manufacturer, adding Enphase batteries is more complicated and usually less efficient because you're AC-coupling across different systems. It's possible, but you'll pay more for the integration and potentially lose some efficiency. If you're starting fresh, Enphase panels-plus-storage makes obvious sense. If you're retrofitting onto an existing non-Enphase system, get a second opinion before committing.
 
-The monitoring hardware is also worth mentioning. The [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor&tag=solarsite-20) is a popular third-party tool that some homeowners add to get even more granular circuit-level data than Enlighten provides on its own. *(Affiliate link, site may earn a commission.)*
+The monitoring hardware is also worth mentioning. The [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor&tag=contentportfo-20) is a popular third-party tool that some homeowners add to get even more granular circuit-level data than Enlighten provides on its own. *(Affiliate link, site may earn a commission.)*
 
 ## Cost, Incentives, and the Math You Need to Do
 

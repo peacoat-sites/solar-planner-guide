@@ -63,7 +63,7 @@ Off-grid sizing is a different beast. You're designing to your worst-case scenar
 
 I've seen off-grid systems spec'd too small because someone used their summer power bills to estimate usage and then discovered that electric heating in December ate through their battery bank by 9pm. I've also seen systems sized so conservatively that the customer spent $30,000 more than they needed to. The honest middle requires a detailed load analysis, hour by hour if possible, including loads people forget: well pumps, EV chargers, chest freezers, that weird plug-in wine cooler in the garage.
 
-If you're seriously considering off-grid, a home energy monitor like the [Emporia Vue 2](https://www.amazon.com/Emporia-Monitor-Circuit-Electricity-Metering/dp/B08CJGPHL9?tag=your-tag-20) (around $70-$80 on Amazon, and yes, this site may earn a commission on purchases) is worth installing a year before you design the system. Real consumption data broken down by circuit is infinitely better than estimates when you're spending $50,000+ on a system.
+If you're seriously considering off-grid, a home energy monitor like the [Emporia Vue 2](https://www.amazon.com/Emporia-Monitor-Circuit-Electricity-Metering/dp/B08CJGPHL9?tag=contentportfo-20) (around $70-$80 on Amazon, and yes, this site may earn a commission on purchases) is worth installing a year before you design the system. Real consumption data broken down by circuit is infinitely better than estimates when you're spending $50,000+ on a system.
 
 ## The Reliability Question Nobody Asks Right
 

@@ -61,7 +61,7 @@ Eligible costs include:
 
 What often gets missed are the monitoring components. If your installer includes a solar monitoring gateway or consumption meter in the contract, that cost is part of the eligible basis. I've seen clients miss $400 to $800 worth of eligible equipment simply because they didn't review their itemized invoice carefully.
 
-Speaking of monitoring: if you want to track your system's production after installation, devices like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=your-tag) can help you verify your system is actually performing as promised (the site may earn a commission on purchases). Real performance data matters because it affects how quickly you recoup that credit's value.
+Speaking of monitoring: if you want to track your system's production after installation, devices like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) can help you verify your system is actually performing as promised (the site may earn a commission on purchases). Real performance data matters because it affects how quickly you recoup that credit's value.
 
 Your total eligible cost is typically your full contract price minus any state rebates that were applied before you paid. If your state offered a $2,000 rebate and your installer subtracted that from your invoice, your federal credit basis is the after-rebate number. But if you received a state rebate check after you already paid the full amount, the calculation is more nuanced and you should talk to a tax professional.
 

@@ -61,7 +61,7 @@ Most installers use software like Aurora Solar or PVWatts during the site assess
 
 The problem is winter sun angles. A tree that clears your panels fine in July might cast a long shadow across three rows from November through February, precisely when your production is already lowest. I've seen shading analyses done during a summer site visit that completely missed a 40-foot pine that was a serious issue for six months of the year.
 
-If you want to check this yourself before any installer shows up, the [Sunpath app](https://www.solardesigntool.com) and the Solar Pathfinder tool are both respected options. The Solar Pathfinder (around $250 on Amazon, [check current price here](https://www.amazon.com/s?k=solar+pathfinder&tag=your-tag)) is the old-school physical instrument that lets you photograph the full sky obstruction at each panel location. It's what serious installers use on complex sites. Renting one from a local solar training program is an option if you don't want to buy.
+If you want to check this yourself before any installer shows up, the [Sunpath app](https://www.solardesigntool.com) and the Solar Pathfinder tool are both respected options. The Solar Pathfinder (around $250 on Amazon, [check current price here](https://www.amazon.com/s?k=solar+pathfinder&tag=contentportfo-20)) is the old-school physical instrument that lets you photograph the full sky obstruction at each panel location. It's what serious installers use on complex sites. Renting one from a local solar training program is an option if you don't want to buy.
 
 Ask your installer to show you the shading analysis output from their software. Not just the final production estimate. The actual month-by-month shading loss breakdown. If they can't produce that, find someone else.
 
@@ -77,7 +77,7 @@ One approach that actually works for partial shade situations: a smaller, better
 
 If you do install on a partially shaded roof, per-panel monitoring is non-negotiable. With a microinverter or optimizer system, you can log into your monitoring app (Enphase Enlighten, SolarEdge monitoring portal) and see each panel's production individually. A panel that's suddenly underperforming relative to its neighbors tells you something: new shading from a branch that grew in, a soiling issue, or equipment degradation.
 
-Without panel-level monitoring, you're flying blind. The Emporia Vue ([around $70 on Amazon](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=your-tag)) won't give you panel-level data, but it's a solid whole-home energy monitor that at least helps you track whether your total solar production is drifting over time. Catch a 15% production drop early and you might find a trimming job is all that's needed.
+Without panel-level monitoring, you're flying blind. The Emporia Vue ([around $70 on Amazon](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)) won't give you panel-level data, but it's a solid whole-home energy monitor that at least helps you track whether your total solar production is drifting over time. Catch a 15% production drop early and you might find a trimming job is all that's needed.
 
 ---
 

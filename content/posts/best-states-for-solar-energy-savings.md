@@ -91,7 +91,7 @@ Louisiana, Mississippi, and most of the Gulf Coast: low electricity rates from c
 
 Hawaii is technically incredible for solar, with rates exceeding 40 cents per kWh in some cases, but their grid saturation has led to export restrictions that require battery storage to make a system truly valuable. If you're willing to add an LG RESU or a Tesla Powerwall to the equation, Hawaii makes sense. Without storage, it's messier.
 
-If you're thinking about monitoring your system's output yourself, a home energy monitor like the [Emporia Vue](https://www.amazon.com/dp/B084CZWGCZ?tag=solarenergy-20) (around $70 on Amazon) can give you real-time circuit-level data and help you verify that your system is performing as promised. It's one of the cheaper ways to stay on top of production without relying entirely on your installer's app. *(Disclosure: this site may earn a commission on purchases.)*
+If you're thinking about monitoring your system's output yourself, a home energy monitor like the [Emporia Vue](https://www.amazon.com/dp/B084CZWGCZ?tag=contentportfo-20) (around $70 on Amazon) can give you real-time circuit-level data and help you verify that your system is performing as promised. It's one of the cheaper ways to stay on top of production without relying entirely on your installer's app. *(Disclosure: this site may earn a commission on purchases.)*
 
 ## How to Evaluate Your Own State
 

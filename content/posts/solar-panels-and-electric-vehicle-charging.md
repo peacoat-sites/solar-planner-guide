@@ -40,7 +40,7 @@ Adding an EV can increase your home electricity consumption by 30 to 50 percent.
 
 Here's what most people don't realize: the type of charger you use matters enormously. A Level 1 charger plugged into a standard 120V outlet delivers about 1.4 kW, which adds maybe 4 to 5 miles of range per hour. Slow, but it works for low-mileage drivers. A Level 2 home charger running on 240V delivers 7 to 11 kW. It can fully charge most EVs overnight and is what solar integration really needs to work efficiently. If you don't have a Level 2 charger installed yet, that's your first practical step before anything else.
 
-A highly rated option on Amazon is the [ChargePoint Home Flex Level 2 EV Charger](https://www.amazon.com/s?k=Level+2+EV+charger+home+240V&tag=yourtag-20), which allows you to set charging schedules and pairs well with solar monitoring systems. *(This site may earn a commission on purchases.)*
+A highly rated option on Amazon is the [ChargePoint Home Flex Level 2 EV Charger](https://www.amazon.com/s?k=Level+2+EV+charger+home+240V&tag=contentportfo-20), which allows you to set charging schedules and pairs well with solar monitoring systems. *(This site may earn a commission on purchases.)*
 
 ## Sizing Your Solar System for Both the House and the Car
 
@@ -75,7 +75,7 @@ The smart play is a combination of on-peak solar production plus off-peak schedu
 
 During the day, your solar panels generate power. If you're home, that power charges your car directly, essentially for free. If you're not home, that excess solar energy either gets exported to the grid as a net metering credit or stored in a battery for later use. Then at night, you use your low-rate grid electricity or your stored battery energy to top off the charge.
 
-Some EV chargers and vehicles allow you to set charging windows directly from a smartphone app. Others integrate with platforms like Tesla's Energy app or Ford's FordPass. If your charger doesn't have scheduling built in, a smart home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=yourtag-20) can give you real-time visibility into how much power your charger is drawing versus how much solar your panels are producing. *(This site may earn a commission on purchases.)*
+Some EV chargers and vehicles allow you to set charging windows directly from a smartphone app. Others integrate with platforms like Tesla's Energy app or Ford's FordPass. If your charger doesn't have scheduling built in, a smart home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20) can give you real-time visibility into how much power your charger is drawing versus how much solar your panels are producing. *(This site may earn a commission on purchases.)*
 
 ## Should You Add a Battery? The Honest Answer
 

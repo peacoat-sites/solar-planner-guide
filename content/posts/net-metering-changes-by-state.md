@@ -92,7 +92,7 @@ Start with your current monthly electricity bill and find your average consumpti
 
 Now multiply those estimated exported kWh by your state's current export rate, not the retail rate, and see what that comes to annually. Compare that to what you'd have saved if you'd consumed all that power on-site at retail rates. That difference is the real cost of your state's net metering policy, and it's often $150 to $500 per year depending on system size and how your usage lines up with production.
 
-A home energy monitor like the Emporia Vue (around $50-70 on [Amazon](https://www.amazon.com/s?k=home+energy+monitor&tag=your-affiliate-tag)) is genuinely useful here because it shows you how much power you're pulling from vs. sending to the grid in real time, which helps you understand whether your consumption patterns are a good or bad match for solar in your state.
+A home energy monitor like the Emporia Vue (around $50-70 on [Amazon](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)) is genuinely useful here because it shows you how much power you're pulling from vs. sending to the grid in real time, which helps you understand whether your consumption patterns are a good or bad match for solar in your state.
 
 If you're in a state with time-of-use export rates (like California's NEM 3.0), the analysis gets more involved because the value of your exports depends on *when* you export, not just how much. That's where a solar monitoring system with time-stamped production data becomes important for understanding what you're actually getting.
 

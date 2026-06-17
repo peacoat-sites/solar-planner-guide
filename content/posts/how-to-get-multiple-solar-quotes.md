@@ -68,7 +68,7 @@ But a few other things deserve real scrutiny:
 
 **Who actually does the installation.** Large national companies like Sunrun and SunPower sometimes subcontract the physical installation work. That's not automatically a problem, but you should know who's going on your roof, whether they're employees or subs, and what the company's process is if something goes wrong.
 
-After installation, monitoring your system's output is how you verify it's performing as promised. Most inverters come with their own apps (Enphase's Enlighten app is quite good), but a standalone home energy monitor like the [Emporia Vue 3](https://www.amazon.com/dp/B0C8X1D64M?tag=your-tag-here) gives you a broader picture of your whole home's consumption and production in one place. (The site may earn a commission if you purchase through that link.)
+After installation, monitoring your system's output is how you verify it's performing as promised. Most inverters come with their own apps (Enphase's Enlighten app is quite good), but a standalone home energy monitor like the [Emporia Vue 3](https://www.amazon.com/dp/B0C8X1D64M?tag=contentportfo-20) gives you a broader picture of your whole home's consumption and production in one place. (The site may earn a commission if you purchase through that link.)
 
 ## The Red Flags You'll Only Catch By Comparing
 

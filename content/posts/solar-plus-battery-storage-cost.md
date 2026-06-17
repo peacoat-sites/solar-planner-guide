@@ -76,7 +76,7 @@ A practical step-by-step approach to right-sizing:
 
 1. Pull 12 months of utility bills and calculate your average daily kWh usage.
 2. Identify your critical loads, the appliances you can't live without for 24 to 48 hours.
-3. Use a home energy monitor (the [Emporia Vue 2](https://www.amazon.com/dp/B08CJGPHL9?tag=yourtag-20) is a solid, affordable option that gives real-time circuit-level data) to verify actual consumption before sizing.
+3. Use a home energy monitor (the [Emporia Vue 2](https://www.amazon.com/dp/B08CJGPHL9?tag=contentportfo-20) is a solid, affordable option that gives real-time circuit-level data) to verify actual consumption before sizing.
 4. Calculate the battery capacity needed: critical load daily kWh + 20% buffer = minimum useful capacity.
 5. Size your solar array to fully recharge that battery on an average winter day, not just peak summer production.
 6. Get at least three quotes that spec out both components explicitly, not a bundled "solar + storage package" that obscures individual costs.
@@ -85,7 +85,7 @@ A practical step-by-step approach to right-sizing:
 
 The lack of standardization in how installers quote solar-plus-storage projects is genuinely maddening. I've seen quotes where the battery installation labor is buried in a line item called "balance of system," and others where the inverter upgrade required to support storage is left out entirely until you're signing a contract.
 
-Ask every installer to provide a quote that breaks out: panel hardware, battery hardware, inverter or hybrid inverter, installation labor (separated for solar and battery if possible), electrical panel upgrades if needed, permitting fees, and monitoring system. An [Enphase IQ system monitor](https://www.amazon.com/dp/B09Y5P3GVT?tag=yourtag-20) or similar device included with your install is worth asking about specifically, because visibility into your system's performance is how you verify you're getting what you paid for.
+Ask every installer to provide a quote that breaks out: panel hardware, battery hardware, inverter or hybrid inverter, installation labor (separated for solar and battery if possible), electrical panel upgrades if needed, permitting fees, and monitoring system. An [Enphase IQ system monitor](https://www.amazon.com/dp/B09Y5P3GVT?tag=contentportfo-20) or similar device included with your install is worth asking about specifically, because visibility into your system's performance is how you verify you're getting what you paid for.
 
 One more thing: the inverter decision matters more with battery storage than without. A string inverter system added to solar-only can work fine for years. The moment you add storage, most installers will either add a separate battery inverter or recommend replacing your existing inverter with a hybrid unit. Hybrid inverters like the SolarEdge Energy Hub or the Enphase IQ8 microinverters are designed for storage integration, but they add $2,000 to $5,000 to the project. Get clarity on this before you commit.
 

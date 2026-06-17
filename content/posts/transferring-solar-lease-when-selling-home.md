@@ -100,7 +100,7 @@ A leased system with low monthly payments, a short remaining term, and no escala
 
 The Solar Energy Industries Association (SEIA) has tracked the explosive growth of residential solar, noting that leases and power purchase agreements (PPAs) drove early adoption, but today most new installations are purchased outright or financed through a solar loan. That shift in the market means your buyers are more likely to be unfamiliar with lease terms and possibly more resistant to taking one on.
 
-To give buyers confidence in the system they're inheriting, consider investing in a home energy monitor like the [Sense Home Energy Monitor](https://www.amazon.com/dp/B08HFM4F7C?tag=yoursite-20) (the site may earn a commission on purchases like this). It lets the buyer see exactly how much energy the panels are generating in real time, which turns an abstract lease into a concrete monthly savings number. That kind of transparency tends to move hesitant buyers forward.
+To give buyers confidence in the system they're inheriting, consider investing in a home energy monitor like the [Sense Home Energy Monitor](https://www.amazon.com/dp/B08HFM4F7C?tag=contentportfo-20) (the site may earn a commission on purchases like this). It lets the buyer see exactly how much energy the panels are generating in real time, which turns an abstract lease into a concrete monthly savings number. That kind of transparency tends to move hesitant buyers forward.
 
 ---
 

@@ -93,7 +93,7 @@ Yes, a lot. A brand-new 8kW system with 25 years of warranty coverage left is wo
 
 Solar panels lose roughly 0.5% of output per year, per standard industry estimates. A 10-year-old system is producing about 95% of what it did when new, which isn't catastrophic. But an older system also means older inverters (string inverters typically last 10-15 years, so you may be looking at a $1,000 to $2,000 replacement cost soon), and older monitoring equipment.
 
-If you're buying a home with existing solar, ask for the monitoring data. Most modern systems come with monitoring apps that show historical production. If the seller can't produce that data, that's a yellow flag. A good home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=yourtag-20) *(note: this site may earn a commission on purchases)* can help you understand what an existing system is actually producing before you commit.
+If you're buying a home with existing solar, ask for the monitoring data. Most modern systems come with monitoring apps that show historical production. If the seller can't produce that data, that's a yellow flag. A good home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20) *(note: this site may earn a commission on purchases)* can help you understand what an existing system is actually producing before you commit.
 
 ## What Buyers Actually Pay For
 

@@ -40,7 +40,7 @@ Before any company names, you need a framework. Otherwise you're just comparing 
 
 **Workmanship warranty** is where companies really separate. The industry standard is 10 years. The best companies offer 25 years. That gap matters enormously if your roof develops a leak at year 12 and the installer is arguing about whose fault it is.
 
-**Monitoring** is underrated. A properly installed system paired with a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=solarreview-20) *(note: this site may earn a commission on purchases)* lets you catch underperforming panels before they cost you hundreds in lost generation. Some installers bundle monitoring; others charge extra or offer nothing.
+**Monitoring** is underrated. A properly installed system paired with a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20) *(note: this site may earn a commission on purchases)* lets you catch underperforming panels before they cost you hundreds in lost generation. Some installers bundle monitoring; others charge extra or offer nothing.
 
 **Financing terms** deserve a magnifying glass. A $0-down loan sounds great until you see a 25-year loan at 7.99% APR that adds $12,000 to the total cost of your system. Always calculate the total repayment amount, not the monthly payment.
 

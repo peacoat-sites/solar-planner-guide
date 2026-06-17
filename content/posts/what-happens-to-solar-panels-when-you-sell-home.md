@@ -56,7 +56,7 @@ The inverter is the piece most sellers forget to mention. String inverters from 
 
 Net metering agreements are a different matter. These are contracts with your utility, and they don't always transfer cleanly. Some utilities will roll the new owner into the same arrangement. Others treat it as a new application, which in states that have grandfathered older, more favorable net metering rates (looking at you, California NEM 2.0 versus NEM 3.0), could mean the buyer gets materially worse economics than you had. Disclose this. Buyers' agents are starting to ask about it specifically, and if you don't bring it up and it comes out later, it looks like you were hiding something.
 
-Home energy monitors are worth mentioning to buyers who want visibility into what the system is producing. Devices like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor&tag=yourtag-20) (about $70 on Amazon) clip onto your breaker panel and give real-time production and consumption data. Leaving one installed, or including it in the sale, is a small gesture that signals you've maintained the system. *(Note: This site may earn a commission on purchases.)*
+Home energy monitors are worth mentioning to buyers who want visibility into what the system is producing. Devices like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor&tag=contentportfo-20) (about $70 on Amazon) clip onto your breaker panel and give real-time production and consumption data. Leaving one installed, or including it in the sale, is a small gesture that signals you've maintained the system. *(Note: This site may earn a commission on purchases.)*
 
 ## How Much Do Solar Panels Actually Add to Your Sale Price?
 

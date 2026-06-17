@@ -90,7 +90,7 @@ Those are averages. I've seen quotes come in $4,000 under or over those figures 
 
 One thing installers sometimes skip past: the payback period in high-sunshine, high-rate states like California, Massachusetts, and New York is typically 6-9 years. In lower-rate states with moderate sun, it can stretch to 11-13 years. Both can still be good investments over a 25-year panel lifespan, but you should know which situation you're in.
 
-If you want to monitor your system's production and your home's overall energy use more closely, a home energy monitor like the [Emporia Vue Gen 3](https://www.amazon.com/s?k=Emporia+Vue+home+energy+monitor&tag=solarguide-20) (around $80) can be installed on your electrical panel and gives you circuit-level data. It won't change your system size, but it'll show you where your power is actually going, which is genuinely useful before you commit to a major install. *(Our site may earn a commission on purchases.)*
+If you want to monitor your system's production and your home's overall energy use more closely, a home energy monitor like the [Emporia Vue Gen 3](https://www.amazon.com/s?k=Emporia+Vue+home+energy+monitor&tag=contentportfo-20) (around $80) can be installed on your electrical panel and gives you circuit-level data. It won't change your system size, but it'll show you where your power is actually going, which is genuinely useful before you commit to a major install. *(Our site may earn a commission on purchases.)*
 
 ---
 

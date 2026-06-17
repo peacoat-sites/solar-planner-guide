@@ -68,7 +68,7 @@ One thing Florida-specific to keep in mind: the battery incentive situation is i
 
 The NREL has published research showing that solar-plus-storage systems in high-irradiance climates like Florida can achieve better financial returns than solar-only when you account for time-of-use rates and avoided demand charges, which some Florida utilities are moving toward for residential customers. The resilience value during hurricane season is harder to put a dollar figure on, but it's real.
 
-For homeowners who want to track production and consumption without a full battery system yet, a home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=solar0f0-20) is a practical starting point. It runs about $80 on Amazon and gives you real-time data that makes it much easier to optimize your self-consumption. (The site may earn a commission on purchases.)
+For homeowners who want to track production and consumption without a full battery system yet, a home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=contentportfo-20) is a practical starting point. It runs about $80 on Amazon and gives you real-time data that makes it much easier to optimize your self-consumption. (The site may earn a commission on purchases.)
 
 ## Roof Conditions, HOAs, and the Bureaucratic Reality
 

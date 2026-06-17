@@ -111,7 +111,7 @@ Before you sign anything, work through this process.
 
 **Step 6: Read the home sale transfer clause.** Specifically: what qualifies a buyer to assume the lease, and who covers transfer fees?
 
-**Step 7: Monitor what you're getting.** If you do sign a lease, a home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=solarconsult-20) (Amazon, commissions may apply) lets you independently verify your system's production against the lease guarantee, so you're not just trusting the installer's app. *(Disclosure: this site may earn a commission on qualifying purchases.)*
+**Step 7: Monitor what you're getting.** If you do sign a lease, a home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) (Amazon, commissions may apply) lets you independently verify your system's production against the lease guarantee, so you're not just trusting the installer's app. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
 ---
 

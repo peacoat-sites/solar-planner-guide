@@ -77,7 +77,7 @@ If an installer pushes back on putting exact equipment in the contract, ask why.
 
 One more equipment note: be wary of anyone still pushing string inverters without optimizers on complex roofs. If your roof has multiple orientations, partial shading from a chimney or trees, or any kind of irregular layout, microinverters or optimized string inverters will meaningfully outperform a basic string setup. A good installer will explain this and show you the production comparison. A bad one will just sell you the cheaper system without mentioning the tradeoff.
 
-If you want to monitor your system's performance yourself regardless of which installer you choose, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=yourtag-20) (around $70, affiliate link) can give you real-time data to catch underperformance early. Worth having no matter who installs your system.
+If you want to monitor your system's performance yourself regardless of which installer you choose, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) (around $70, affiliate link) can give you real-time data to catch underperformance early. Worth having no matter who installs your system.
 
 ---
 

@@ -52,7 +52,7 @@ Those two homes require completely different systems. Sizing for the Tucson hous
 
 Before you price a system, get your daily average consumption (annual kWh divided by 365). Then figure out your peak load, meaning the maximum wattage you'd ever draw simultaneously. Running an air conditioner (3,000-5,000W), a well pump (750-1,500W), and a clothes dryer (5,000W) at the same time demands an inverter that can handle the surge. Miss this number and you get nuisance tripping, or you fry equipment.
 
-A [home energy monitor like the Emporia Vue](https://www.amazon.com/dp/B084DQKJ6S?tag=solarpanels0e-20) (around $70 on Amazon, and yes, this site may earn a commission on that) will give you circuit-level data within a week that's worth more than any estimate. Install it before you talk to a single installer.
+A [home energy monitor like the Emporia Vue](https://www.amazon.com/dp/B084DQKJ6S?tag=contentportfo-20) (around $70 on Amazon, and yes, this site may earn a commission on that) will give you circuit-level data within a week that's worth more than any estimate. Install it before you talk to a single installer.
 
 ## The Four Components That Actually Run an Off-Grid Home
 
@@ -110,7 +110,7 @@ Replacing a standard electric water heater with a heat pump water heater (Rheem 
 
 Every kilowatt-hour you eliminate from your load is a kilowatt-hour you don't need to generate or store. At battery costs of $800-1,000 per usable kWh, reducing daily consumption by 5 kWh can save $4,000-$5,000 in battery costs alone. That's not a marginal optimization. It changes the size and cost of every component in the system.
 
-If you want to monitor consumption once your system is running, the [Victron Cerbo GX](https://www.amazon.com/dp/B08XWDCZ3N?tag=solarpanels0e-20) (around $200, commission may apply) pairs with most serious off-grid setups and gives you real-time data on production, storage, and consumption. Worth every dollar for catching the phantom loads you forgot about.
+If you want to monitor consumption once your system is running, the [Victron Cerbo GX](https://www.amazon.com/dp/B08XWDCZ3N?tag=contentportfo-20) (around $200, commission may apply) pairs with most serious off-grid setups and gives you real-time data on production, storage, and consumption. Worth every dollar for catching the phantom loads you forgot about.
 
 ---
 

@@ -52,7 +52,7 @@ Pull up the last 12 months of bills and find your kilowatt-hour (kWh) consumptio
 
 Here's a real example to anchor this. The average U.S. household uses about 10,500 kWh per year, according to the U.S. Energy Information Administration. That's roughly 875 kWh per month, or about 29 kWh per day. But I've worked with a family in Phoenix running two AC units and a pool pump who was burning through 2,400 kWh a month. And a retired couple in coastal Oregon who never runs AC and uses maybe 450 kWh a month. Same generic "average" would have served neither of them.
 
-If you want a more granular view of what's eating your electricity, a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=solarsite-20) (around $80 on Amazon, and yes this site may earn a commission) will break down usage by circuit in real time. Worth it before you size a system, especially if you're planning to add an EV charger or go full electric with appliances.
+If you want a more granular view of what's eating your electricity, a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) (around $80 on Amazon, and yes this site may earn a commission) will break down usage by circuit in real time. Worth it before you size a system, especially if you're planning to add an EV charger or go full electric with appliances.
 
 One thing people always forget: are you about to change your consumption? Installing a heat pump? Buying an EV? Do the math on what that adds *before* you size your solar system, not after.
 
@@ -124,7 +124,7 @@ Shading is probably the most underestimated variable in this whole process. A si
 
 [EnergySage's marketplace data](https://news.energysage.com/) consistently shows that homes with shading issues get dramatically different quotes depending on which inverter technology installers recommend. If your roof has any shading at all, that choice matters.
 
-If you want to understand your shading situation before inviting installers over, a [solar pathfinder tool](https://www.amazon.com/s?k=solar+pathfinder+tool&tag=solarsite-20) (roughly $200-$300) can give you accurate sun exposure data at different points on your roof. Overkill for most people, but genuinely useful if your situation is complicated.
+If you want to understand your shading situation before inviting installers over, a [solar pathfinder tool](https://www.amazon.com/s?k=solar+pathfinder+tool&tag=contentportfo-20) (roughly $200-$300) can give you accurate sun exposure data at different points on your roof. Overkill for most people, but genuinely useful if your situation is complicated.
 
 ---
 

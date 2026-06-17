@@ -112,7 +112,7 @@ Payback periods in Texas commonly run 7 to 11 years depending on your electricit
 
 6. **Choose your Retail Electric Provider strategically.** In ERCOT deregulated territory, you can switch REPs. Some solar-specific plans offer better buyback rates. Compare plans on Power to Choose (Texas's official REP comparison site) and ask specifically about solar buyback rates.
 
-7. **Consider a home energy monitor** to track your production and consumption in real time. Devices like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=solarreviews-20) (affiliate link) can pay for themselves by helping you shift usage to peak production hours, maximizing self-consumption and avoiding high-rate grid power. *(This site may earn a commission on qualifying purchases.)*
+7. **Consider a home energy monitor** to track your production and consumption in real time. Devices like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20) (affiliate link) can pay for themselves by helping you shift usage to peak production hours, maximizing self-consumption and avoiding high-rate grid power. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 
