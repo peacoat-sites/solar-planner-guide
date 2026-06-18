@@ -12,7 +12,7 @@ faqs:
   - q: "How many solar quotes should I get?"
     a: "Most experts, including the data from EnergySage, suggest a minimum of three quotes and ideally five. Three gives you a decent comparison range; five gives you statistical confidence that you're not just getting lucky or unlucky with your sample."
   - q: "Will getting multiple quotes result in a lot of spam calls?"
-    a: "It can, honestly. Using a marketplace like EnergySage lets you communicate through their portal first, which filters some of it. If you contact installers directly, give yourself a dedicated email for the process. Expect calls regardless — solar sales is a high-touch industry."
+    a: "It can, honestly. Using a marketplace like EnergySage lets you communicate through their portal first, which filters some of it. If you contact installers directly, give yourself a dedicated email for the process. Expect calls regardless, solar sales is a high-touch industry."
   - q: "Do quotes from big national companies tend to be higher or lower than local installers?"
     a: "Higher, on average. National companies like Sunrun, Sunnova, and Tesla Solar carry more marketing overhead and have investor return targets that local installers don't. That said, some local companies charge premium prices too, so it's not a hard rule. Compare on the numbers, not company size."
   - q: "Is there a right time of year to get solar quotes?"
@@ -26,7 +26,7 @@ author_bio: "Craig Stevens is a financial advisor who has helped dozens of clien
 
 ---
 
-Most homeowners get exactly one solar quote, fall in love with the shiny renderings the salesperson shows them, and sign a contract within a week. I've watched this happen more times than I can count. And I get it — the rep was friendly, the financing seemed easy, and honestly, who has time to shop around? But that one-quote mistake routinely costs people $5,000 to $15,000 over the life of a system. I've seen the invoices. The spread between what different installers charge for the exact same system — same panel brand, same inverter, same roof complexity — can be $8,000 or more on a typical 8 kW install.
+Most homeowners get exactly one solar quote, fall in love with the shiny renderings the salesperson shows them, and sign a contract within a week. I've watched this happen more times than I can count. And I get it, the rep was friendly, the financing seemed easy, and honestly, who has time to shop around? But that one-quote mistake routinely costs people $5,000 to $15,000 over the life of a system. I've seen the invoices. The spread between what different installers charge for the exact same system, same panel brand, same inverter, same roof complexity, can be $8,000 or more on a typical 8 kW install.
 
 Getting multiple quotes isn't just about finding the cheapest price. It's about understanding what you're actually buying.
 
@@ -62,9 +62,9 @@ Price per watt is the single most useful number for comparison. Divide the total
 
 But a few other things deserve real scrutiny:
 
-**Production estimate vs. your actual usage.** Some installers inflate their estimated production numbers to make the payback period look better. Ask each installer what software they used to calculate production (PVWatts, Aurora, Helioscope are common), and whether that estimate accounts for your specific shading, your roof pitch, and your local weather data. Then cross-check their number using [the Department of Energy's PVWatts calculator](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) — it's free and takes about five minutes.
+**Production estimate vs. your actual usage.** Some installers inflate their estimated production numbers to make the payback period look better. Ask each installer what software they used to calculate production (PVWatts, Aurora, Helioscope are common), and whether that estimate accounts for your specific shading, your roof pitch, and your local weather data. Then cross-check their number using [the Department of Energy's PVWatts calculator](https://www.energy.gov/eere/solar/homeowners-guide-going-solar), it's free and takes about five minutes.
 
-**Warranty structure.** You want at least 25 years on panel output (most Tier 1 panels from brands like Qcells, REC, Panasonic, and LONGi now offer this), 10-25 years on inverters depending on the brand, and a workmanship warranty from the installer. Shorter installer workmanship warranties — some companies only offer 1-2 years — are a red flag.
+**Warranty structure.** You want at least 25 years on panel output (most Tier 1 panels from brands like Qcells, REC, Panasonic, and LONGi now offer this), 10-25 years on inverters depending on the brand, and a workmanship warranty from the installer. Shorter installer workmanship warranties, some companies only offer 1-2 years, are a red flag.
 
 **Who actually does the installation.** Large national companies like Sunrun and SunPower sometimes subcontract the physical installation work. That's not automatically a problem, but you should know who's going on your roof, whether they're employees or subs, and what the company's process is if something goes wrong.
 
@@ -74,11 +74,11 @@ After installation, monitoring your system's output is how you verify it's perfo
 
 Getting multiple quotes doesn't just save money. It exposes things you'd never see if you only talked to one company.
 
-I had a reader email me last year who got quotes from four installers. Three of them spec'd south- and west-facing panels, which made sense for her roof. The fourth installer — the cheapest by a lot — was planning to put half the panels on a north-facing section of her roof. His production estimate was still optimistic, which meant the savings projections were simply wrong. She only caught this because the other proposals made it obvious something was off.
+I had a reader email me last year who got quotes from four installers. Three of them spec'd south- and west-facing panels, which made sense for her roof. The fourth installer, the cheapest by a lot, was planning to put half the panels on a north-facing section of her roof. His production estimate was still optimistic, which meant the savings projections were simply wrong. She only caught this because the other proposals made it obvious something was off.
 
 Roof condition is another one. A reputable installer will flag if your roof is aging and recommend you reroof before going solar, because pulling panels off a 5-year-old system to replace deteriorated shingles underneath costs $2,000 to $5,000 in extra labor. Some installers don't mention it because bringing up additional costs can lose the sale. If two out of four installers mention your roof, take that seriously.
 
-And battery storage — if you're interested in a backup battery, definitely get multiple quotes, because the markup variability on systems like the Tesla Powerwall 3 or Enphase IQ Battery 5P is enormous. I've seen Powerwall 3 quotes ranging from $12,000 to $18,000 installed for the same hardware.
+And battery storage, if you're interested in a backup battery, definitely get multiple quotes, because the markup variability on systems like the Tesla Powerwall 3 or Enphase IQ Battery 5P is enormous. I've seen Powerwall 3 quotes ranging from $12,000 to $18,000 installed for the same hardware.
 
 ---
 
@@ -104,7 +104,7 @@ One more thing worth saying: the goal isn't the lowest price. It's the best valu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 

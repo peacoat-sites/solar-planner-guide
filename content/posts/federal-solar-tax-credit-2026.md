@@ -32,9 +32,9 @@ Imagine you install a $30,000 solar system in January 2026 and pocket a $8,100 f
 <div class="value-module">
   <div class="vm-head">Solar Tax Credit Phase-Down Schedule</div>
   <div class="vm-body">
-    <p class="vm-intro">The federal solar tax credit steps down on a fixed legislative timeline—here's exactly what percentage you can claim based on when your system is placed in service.</p>
+    <p class="vm-intro">The federal solar tax credit steps down on a fixed legislative timeline-here's exactly what percentage you can claim based on when your system is placed in service.</p>
     <table><caption>Federal Residential Solar Tax Credit by Installation Year</caption><thead><tr><th>Installation Year</th><th>Credit Percentage</th><th>Credit on $30,000 System</th><th>Key Deadline Notes</th></tr></thead><tbody><tr><td>2022–2032</td><td>30%</td><td>$9,000</td><td>Inflation Reduction Act rate; stable through end of 2032</td></tr><tr><td>2033</td><td>26%</td><td>$7,800</td><td>First step-down year</td></tr><tr><td>2034</td><td>22%</td><td>$6,600</td><td>Final year with any residential credit under current law</td></tr><tr><td>2035 and beyond</td><td>0%</td><td>$0</td><td>Residential credit expires; commercial ITC continues at lower rates</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -140,8 +140,8 @@ The federal solar tax credit in 2026 is one of the most straightforward wealth-b
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

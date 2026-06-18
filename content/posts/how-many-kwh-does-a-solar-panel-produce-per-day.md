@@ -36,7 +36,7 @@ Here's the honest answer: a standard residential solar panel today will produce 
   <div class="vm-body">
     <p class="vm-intro">This table shows realistic daily kWh production for common panel wattages across U.S. cities, using NREL peak sun hour data and assuming standard south-facing installation with minimal shading.</p>
     <table><thead><tr><th>City</th><th>Peak Sun Hours (avg)</th><th>370W Panel</th><th>400W Panel</th><th>440W Panel</th></tr></thead><tbody><tr><td>Phoenix, AZ</td><td>6.0</td><td>1.9 kWh</td><td>2.1 kWh</td><td>2.3 kWh</td></tr><tr><td>Miami, FL</td><td>5.6</td><td>1.8 kWh</td><td>1.9 kWh</td><td>2.1 kWh</td></tr><tr><td>Denver, CO</td><td>5.0</td><td>1.6 kWh</td><td>1.7 kWh</td><td>1.9 kWh</td></tr><tr><td>Chicago, IL</td><td>4.4</td><td>1.4 kWh</td><td>1.5 kWh</td><td>1.7 kWh</td></tr><tr><td>Boston, MA</td><td>4.2</td><td>1.3 kWh</td><td>1.4 kWh</td><td>1.6 kWh</td></tr><tr><td>Portland, OR</td><td>3.8</td><td>1.2 kWh</td><td>1.3 kWh</td><td>1.4 kWh</td></tr><tr><td>Seattle, WA</td><td>3.5</td><td>1.1 kWh</td><td>1.2 kWh</td><td>1.3 kWh</td></tr></tbody><tfoot><tr><td colspan="5">Values assume ~85% system efficiency (accounting for inverter losses, wiring, temperature). Actual output varies by roof angle, shading, and seasonal conditions.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -145,6 +145,6 @@ If you're in the early research phase, the per-panel output question is a good o
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

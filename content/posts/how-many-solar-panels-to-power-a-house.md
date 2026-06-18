@@ -38,7 +38,7 @@ But let's actually work through this, because the math here isn't complicated. I
   <div class="vm-body">
     <p class="vm-intro">This numeric walkthrough shows exactly how annual usage, panel wattage, sun hours, and system losses combine to determine panel count for three different household scenarios.</p>
     <table><caption>Panel Count Calculation for Three Household Scenarios</caption><thead><tr><th>Variable</th><th>Low-Use Home (Mild Climate)</th><th>Average U.S. Home</th><th>High-Use Home (Hot Climate)</th></tr></thead><tbody><tr><td>Annual kWh consumption</td><td>6,000 kWh</td><td>10,500 kWh</td><td>18,000 kWh</td></tr><tr><td>Peak sun hours/day (local average)</td><td>4.5 hrs (Pacific Northwest)</td><td>5.0 hrs (Midwest)</td><td>6.5 hrs (Arizona)</td></tr><tr><td>Panel wattage</td><td>400W</td><td>400W</td><td>400W</td></tr><tr><td>System efficiency factor</td><td>0.80 (accounts for inverter, wiring, soiling losses)</td><td>0.80</td><td>0.80</td></tr><tr><td><strong>Step 1:</strong> Daily kWh needed</td><td>6,000 ÷ 365 = 16.4 kWh</td><td>10,500 ÷ 365 = 28.8 kWh</td><td>18,000 ÷ 365 = 49.3 kWh</td></tr><tr><td><strong>Step 2:</strong> kWh per panel per day</td><td>0.400 × 4.5 × 0.80 = 1.44 kWh</td><td>0.400 × 5.0 × 0.80 = 1.60 kWh</td><td>0.400 × 6.5 × 0.80 = 2.08 kWh</td></tr><tr><td><strong>Step 3:</strong> Panels needed (raw)</td><td>16.4 ÷ 1.44 = 11.4</td><td>28.8 ÷ 1.60 = 18.0</td><td>49.3 ÷ 2.08 = 23.7</td></tr><tr><td><strong>Final panel count (rounded up)</strong></td><td><strong>12 panels</strong></td><td><strong>18 panels</strong></td><td><strong>24 panels</strong></td></tr><tr><td>System size (kW DC)</td><td>4.8 kW</td><td>7.2 kW</td><td>9.6 kW</td></tr><tr><td>Approximate roof space needed</td><td>215 sq ft</td><td>320 sq ft</td><td>430 sq ft</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -134,7 +134,7 @@ The right number of panels for your house comes down to your specific consumptio
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

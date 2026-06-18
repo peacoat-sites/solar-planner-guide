@@ -34,7 +34,7 @@ Most homeowners spend more time choosing a Netflix show than vetting the company
   <div class="vm-body">
     <p class="vm-intro">Use this checklist with specific thresholds to screen installers before requesting quotes.</p>
     <table><thead><tr><th>Verification Item</th><th>Minimum Threshold</th><th>Red Flag</th></tr></thead><tbody><tr><td>State electrical contractor license</td><td>Active status, electrical or solar-specific classification (not just general contractor)</td><td>License expired, suspended, or wrong classification</td></tr><tr><td>NABCEP certification</td><td>At least one NABCEP-certified installer on staff who will work on your project</td><td>Claims certification but can't provide installer's name/credential number</td></tr><tr><td>Years in business under current name</td><td>5+ years (allows warranty track record verification)</td><td>Rebranded within past 3 years or can't verify history</td></tr><tr><td>Installations completed annually</td><td>50+ residential systems per year in your region</td><td>Fewer than 20/year or primarily works outside your area</td></tr><tr><td>Workmanship warranty</td><td>10+ years, backed by third-party insurance or bond</td><td>Warranty only valid if company remains in business</td></tr><tr><td>Complaint history (BBB, state contractor board)</td><td>Fewer than 3 unresolved complaints in past 24 months</td><td>Pattern of permit, performance, or communication complaints</td></tr><tr><td>Subcontracting policy</td><td>In-house crews for roof penetrations and electrical work</td><td>Subcontracts all installation labor</td></tr><tr><td>Post-install monitoring</td><td>Provides system monitoring with alerts for underperformance</td><td>No monitoring offered or extra-cost add-on only</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -146,6 +146,6 @@ The 30% federal tax credit makes solar financially compelling for a lot of homeo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

@@ -22,9 +22,9 @@ Here's the honest situation: a lot of the solar advice floating around online wa
 <div class="value-module">
   <div class="vm-head">Post-Credit Solar: Size vs. Payback Tradeoffs</div>
   <div class="vm-body">
-    <p class="vm-intro">Without the 30% federal credit, system sizing decisions shift toward faster payback rather than maximum production—here's how the math changes at different scales.</p>
-    <table><caption>Illustrative Payback Comparison: 6kW vs 10kW System (No Federal Credit)</caption><thead><tr><th>Factor</th><th>6kW System</th><th>10kW System</th></tr></thead><tbody><tr><td>Typical installed cost</td><td>$15,000–$18,000</td><td>$25,000–$30,000</td></tr><tr><td>Annual production estimate</td><td>7,200–9,000 kWh</td><td>12,000–15,000 kWh</td></tr><tr><td>Annual savings (at $0.15/kWh avg)</td><td>$1,080–$1,350</td><td>$1,800–$2,250</td></tr><tr><td>Simple payback period</td><td>11–17 years</td><td>11–17 years</td></tr><tr><td>Excess production risk</td><td>Low—sized to baseline usage</td><td>Higher—may export at unfavorable net metering rates</td></tr><tr><td>Best fit scenario</td><td>Households using 600–800 kWh/month seeking lowest capital outlay</td><td>High-usage homes (1,000+ kWh/month) or planned EV/heat pump additions</td></tr><tr><td>Key sizing rule post-credit</td><td colspan="2">Size to 80–90% of current consumption; avoid oversizing unless utility offers 1:1 net metering</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-intro">Without the 30% federal credit, system sizing decisions shift toward faster payback rather than maximum production-here's how the math changes at different scales.</p>
+    <table><caption>Illustrative Payback Comparison: 6kW vs 10kW System (No Federal Credit)</caption><thead><tr><th>Factor</th><th>6kW System</th><th>10kW System</th></tr></thead><tbody><tr><td>Typical installed cost</td><td>$15,000–$18,000</td><td>$25,000–$30,000</td></tr><tr><td>Annual production estimate</td><td>7,200–9,000 kWh</td><td>12,000–15,000 kWh</td></tr><tr><td>Annual savings (at $0.15/kWh avg)</td><td>$1,080–$1,350</td><td>$1,800–$2,250</td></tr><tr><td>Simple payback period</td><td>11–17 years</td><td>11–17 years</td></tr><tr><td>Excess production risk</td><td>Low-sized to baseline usage</td><td>Higher-may export at unfavorable net metering rates</td></tr><tr><td>Best fit scenario</td><td>Households using 600–800 kWh/month seeking lowest capital outlay</td><td>High-usage homes (1,000+ kWh/month) or planned EV/heat pump additions</td></tr><tr><td>Key sizing rule post-credit</td><td colspan="2">Size to 80–90% of current consumption; avoid oversizing unless utility offers 1:1 net metering</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -98,8 +98,8 @@ The honest summary is this: solar still makes financial sense for a lot of homeo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

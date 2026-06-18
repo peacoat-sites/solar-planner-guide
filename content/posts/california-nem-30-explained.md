@@ -38,7 +38,7 @@ Here's what the utilities and, frankly, many installers aren't leading with.
   <div class="vm-body">
     <p class="vm-intro">This table shows how the same solar system performs under each program, illustrating why system design strategy must change.</p>
     <table><thead><tr><th>Factor</th><th>NEM 2.0</th><th>NEM 3.0</th><th>Impact</th></tr></thead><tbody><tr><td>Export credit rate (avg)</td><td>$0.28–$0.34/kWh</td><td>$0.05–$0.08/kWh</td><td>75% reduction in export value</td></tr><tr><td>Annual export value (5,000 kWh exported)</td><td>~$1,500</td><td>~$300</td><td>$1,200/year lost income</td></tr><tr><td>Payback period (solar only, 8kW system)</td><td>5–7 years</td><td>9–12 years</td><td>Nearly doubles without battery</td></tr><tr><td>Payback period (solar + battery)</td><td>7–9 years</td><td>6–8 years</td><td>Battery now shortens payback</td></tr><tr><td>Optimal system design</td><td>Maximize production, export freely</td><td>Match consumption, minimize exports</td><td>Smaller systems often better ROI</td></tr><tr><td>Battery necessity</td><td>Optional (backup convenience)</td><td>Financially essential</td><td>Add $8K–$15K to project cost</td></tr><tr><td>Best value hours for self-consumption</td><td>Any hour (credits equal)</td><td>4–9 PM (TOU peak rates $0.45+/kWh)</td><td>Shift usage or store for evening</td></tr><tr><td>Break-even self-consumption ratio</td><td>~30–40%</td><td>~70–80%</td><td>Must use most of what you generate</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -124,6 +124,6 @@ The bottom line on NEM 3.0 is that it rewards a different kind of solar customer
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

@@ -36,7 +36,7 @@ Sunlight matters. But utility rates, net metering policies, state rebates, and y
   <div class="vm-body">
     <p class="vm-intro">This table compares key savings factors across states with different sun, rate, and policy profiles to illustrate why the math often surprises people.</p>
     <table><thead><tr><th>State</th><th>Avg. Peak Sun Hours/Day</th><th>Avg. Residential Rate (¢/kWh)</th><th>Net Metering Status</th><th>Notable State Incentives</th><th>Relative Savings Potential</th></tr></thead><tbody><tr><td>Massachusetts</td><td>4.0–4.5</td><td>25–29</td><td>Full retail credit (investor-owned utilities)</td><td>SMART program production incentives, state tax credit</td><td>High (rates offset moderate sun)</td></tr><tr><td>New Jersey</td><td>4.2–4.7</td><td>17–21</td><td>Full retail credit</td><td>SuSI program successor credits (SRECs transitioned)</td><td>High</td></tr><tr><td>Arizona</td><td>6.0–6.5</td><td>12–15</td><td>Varies by utility; APS uses export rates below retail</td><td>Limited; federal credit only for most</td><td>Moderate (great sun, lower rates/weaker policy)</td></tr><tr><td>California</td><td>5.5–6.0</td><td>25–35 (tiered)</td><td>NEM 3.0: export credits ~75% lower than retail</td><td>Self-Generation Incentive Program (batteries)</td><td>Moderate without battery; higher with storage</td></tr><tr><td>Texas</td><td>5.0–5.5</td><td>12–14</td><td>No statewide mandate; varies by provider</td><td>Limited state incentives; some utility rebates</td><td>Moderate (low rates, inconsistent export value)</td></tr><tr><td>New York</td><td>3.8–4.3</td><td>20–24</td><td>Value of Distributed Energy Resources (VDER) credits</td><td>NY-Sun rebates, state tax credit (up to $5,000)</td><td>High (strong incentives offset lower sun)</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -129,7 +129,7 @@ The best state for solar savings is ultimately the state where your bill is high
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

@@ -40,7 +40,7 @@ So let's do this right.
   <div class="vm-body">
     <p class="vm-intro">This step-by-step numeric example shows how daily energy use, sun hours, and system losses translate into the panel wattage you actually need.</p>
     <table><thead><tr><th>Step</th><th>What You're Calculating</th><th>Example Numbers</th><th>Result</th></tr></thead><tbody><tr><td>1</td><td>Annual kWh from utility bills</td><td>10,500 kWh ÷ 365 days</td><td>28.8 kWh/day</td></tr><tr><td>2</td><td>Peak sun hours for your location</td><td>Denver, CO average</td><td>5.5 hours/day</td></tr><tr><td>3</td><td>Raw system size needed</td><td>28.8 kWh ÷ 5.5 hours</td><td>5.24 kW</td></tr><tr><td>4</td><td>Adjust for system losses (inverter, wiring, soiling, temperature)</td><td>5.24 kW ÷ 0.80 efficiency factor</td><td>6.55 kW</td></tr><tr><td>5</td><td>Number of 400W panels</td><td>6,550 W ÷ 400 W</td><td>17 panels</td></tr><tr><td>6</td><td>Roof area estimate (21 sq ft per panel)</td><td>17 × 21 sq ft</td><td>357 sq ft</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -164,6 +164,6 @@ The math here isn't complicated, but it needs to be done with your numbers, your
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 
