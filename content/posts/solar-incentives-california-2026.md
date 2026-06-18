@@ -1,12 +1,12 @@
 ---
-title: "Solar Incentives California 2026"
+title: "Solar Incentives California"
 date: 2026-05-19T06:52:56.564818+00:00
 draft: false
 description: "Discover California's top solar incentives and rebates available in 2026. Learn about tax credits, financing options, and programs to reduce your installation c"
 image: "https://images.pexels.com/photos/9229396/pexels-photo-9229396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "California", "2026"]
-slug: "solar-incentives-california-2026"
+slug: "solar-incentives-california"
 affiliate_disclosure: true
 faqs:
   - q: "Is California's solar incentive program still worth it in 2026 after NEM 3.0?"

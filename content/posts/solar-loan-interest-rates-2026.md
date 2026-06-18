@@ -1,12 +1,12 @@
 ---
-title: "Solar Loan Interest Rates 2026"
+title: "Solar Loan Interest Rates"
 date: 2026-05-23T08:04:23.990364+00:00
 draft: false
 description: "Compare solar loan interest rates in 2026. Discover current APRs, top lenders, loan terms, and tips to secure the best financing for your solar panel installati"
 image: "https://images.pexels.com/photos/8292889/pexels-photo-8292889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Financing"]
 tags: ["solar", "loan", "interest", "rates", "2026"]
-slug: "solar-loan-interest-rates-2026"
+slug: "solar-loan-interest-rates"
 affiliate_disclosure: true
 faqs:
   - q: "What is a good interest rate for a solar loan in 2026?"

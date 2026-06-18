@@ -1,12 +1,12 @@
 ---
-title: "Solar Incentives New York 2026"
+title: "Solar Incentives New York"
 date: 2026-05-22T12:58:58.496513+00:00
 draft: false
 description: "Discover the latest solar incentives and tax credits available in New York for 2026. Learn how to maximize savings on your solar panel installation today."
 image: "https://images.pexels.com/photos/11145690/pexels-photo-11145690.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "York", "2026"]
-slug: "solar-incentives-new-york-2026"
+slug: "solar-incentives-new-york"
 affiliate_disclosure: true
 faqs:
   - q: "Can I claim both the federal ITC and the New York state tax credit on the same system?"

@@ -1,12 +1,12 @@
 ---
-title: "Best Home Battery 2026"
+title: "Best Home Battery"
 date: 2026-05-21T05:40:01.516728+00:00
 draft: false
 description: "Discover the best home batteries of 2026 for reliable backup power and energy savings. Compare top-rated systems by capacity, cost, and performance to find your"
 image: "https://images.pexels.com/photos/30444797/pexels-photo-30444797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Home Battery Storage"]
 tags: ["best", "home", "battery", "2026"]
-slug: "best-home-battery-2026"
+slug: "best-home-battery"
 affiliate_disclosure: true
 faqs:
   - q: "How long will a home battery power my house during an outage?"

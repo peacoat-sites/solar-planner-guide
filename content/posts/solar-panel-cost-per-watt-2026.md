@@ -1,12 +1,12 @@
 ---
-title: "Solar Panel Cost Per Watt 2026"
+title: "Solar Panel Cost Per Watt"
 date: 2026-05-24T07:19:21.336784+00:00
 draft: false
 description: "Discover the latest solar panel cost per watt in 2026. Compare prices, explore savings, and find out if solar is worth the investment for your home today."
 image: https://images.pexels.com/photos/6057702/pexels-photo-6057702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "panel", "cost", "watt", "2026"]
-slug: "solar-panel-cost-per-watt-2026"
+slug: "solar-panel-cost-per-watt"
 affiliate_disclosure: true
 faqs:
   - q: "What is a fair cost per watt for solar in 2026?"

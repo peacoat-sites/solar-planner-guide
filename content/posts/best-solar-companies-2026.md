@@ -1,12 +1,12 @@
 ---
-title: "Best Solar Companies 2026"
+title: "Best Solar Companies"
 date: 2026-06-01T15:37:42.695254+00:00
 draft: false
 description: "Discover the best solar companies of 2026. Compare top-rated installers by cost, efficiency, warranties, and customer reviews to find your perfect solar match."
 image: "https://images.pexels.com/photos/13199323/pexels-photo-13199323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Solar Installation"]
 tags: ["best", "solar", "companies", "2026"]
-slug: "best-solar-companies-2026"
+slug: "best-solar-companies"
 affiliate_disclosure: true
 faqs:
   - q: "How much does a solar installation cost in 2026?"

@@ -1,12 +1,12 @@
 ---
-title: "Federal Solar Tax Credit 2026"
+title: "Federal Solar Tax Credit"
 date: 2026-05-29T11:08:44.735448+00:00
 draft: false
 description: "Discover how the federal solar tax credit works in 2026, how much you can save, eligibility requirements, and steps to claim your credit before rates change."
 image: https://images.pexels.com/photos/5583996/pexels-photo-5583996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Tax Credits & Incentives"]
 tags: ["federal", "solar", "credit", "2026"]
-slug: "federal-solar-tax-credit-2026"
+slug: "federal-solar-tax-credit"
 affiliate_disclosure: true
 faqs:
   - q: "Can I claim the 30% credit if I finance my solar system with a loan?"
