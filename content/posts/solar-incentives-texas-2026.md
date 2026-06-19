@@ -25,7 +25,6 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 
 ---
-
 Texas gets more solar energy than almost any other state in the country, yet the average Texas homeowner leaves thousands of dollars in incentives unclaimed every year. In 2024, Texas crossed 40 gigawatts of installed solar capacity, ranking second nationally behind only California according to SEIA data. And yet, many installers will hand you a quote without explaining the full picture of what's available to reduce that number. Let's fix that.
 
 ## The Federal Tax Credit: Still the Biggest Lever You Can Pull
@@ -34,15 +33,11 @@ Before we even get to Texas-specific programs, the federal Investment Tax Credit
 
 Through 2032, the ITC lets you claim 30% of your total system cost as a direct credit against your federal income tax bill. Not a deduction. A credit. That means if your system costs $28,000, you're looking at an $8,400 reduction in what you owe the IRS. The credit applies to panels, inverters, labor, permitting fees, and even battery storage as long as the battery is charged by solar.
 
-The catch: you need enough federal tax liability to absorb it. If you only owe $3,000 in federal taxes in year one, you don't lose the remaining $5,400. You carry it forward to the next tax year. But if you're retired on Social Security with minimal taxable income, the credit may not help you much. I've seen clients in that situation get burned by installers who never brought this up.
+Here's the catch: you need enough federal tax liability to absorb it. If you only owe $3,000 in federal taxes in year one, you don't lose the remaining $5,400. You carry it forward to the next tax year. But if you're retired on Social Security with minimal taxable income, the credit may not help you much. I've seen clients in that situation get burned by installers who never brought this up.
 
 For a full breakdown of how this works, including how to claim it correctly, check out [this detailed guide to the federal solar tax credit for 2026](/federal-solar-tax-credit-2026/).
 
 ## Texas State-Level Incentives: What Actually Exists
-
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the honest truth most solar blogs won't tell you: Texas has no statewide solar rebate program. The state legislature has generally left it to utilities and local governments to create incentives, which means your zip code matters enormously.
 
@@ -60,7 +55,7 @@ Because Texas has deregulated its electricity market through ERCOT, incentive pr
 
 **CPS Energy (San Antonio).** CPS has historically offered rebates through its WE CARE program, sometimes paying $2,500 or more for qualifying systems. Check their current rate in 2026 directly with CPS since these programs fill up and restart on an annual basis.
 
-**Austin Energy.** Austin Energy offers a Value of Solar tariff rather than a traditional net metering credit. Instead of retail-rate credits, you receive a set per-kWh rate for exported power. In recent years that rate has hovered around 9-10 cents per kWh. It's lower than retail, which is why system sizing matters so much for Austin homeowners. You want to size your system to cover your own usage rather than export heavily.
+**Austin Energy.** Austin Energy offers a Value of Solar tariff rather than traditional net metering. Instead of retail-rate credits, you receive a set per-kWh rate for exported power. In recent years that rate has hovered around 9 to 10 cents per kWh. It's lower than retail, which is why system sizing matters so much for Austin homeowners. You want to size your system to cover your own usage rather than export heavily.
 
 **Oncor territories.** Oncor delivers power across a large swath of Texas including Dallas-Fort Worth. Oncor itself doesn't offer residential solar rebates directly, but several Retail Electric Providers (REPs) serving Oncor territory offer their own solar buyback plans. Green Mountain Energy's Renewable Rewards buyback plan and Rhythm Energy's solar plans are two worth evaluating. The credits vary, so run the math carefully before signing up with any provider.
 
@@ -76,7 +71,7 @@ Texas doesn't have a statewide net metering mandate. That's a critical distincti
 
 In practice, most Texas utilities compensate exported solar at the wholesale rate rather than the retail rate. The wholesale rate is often 3 to 6 cents per kWh, while you buy power back at 12 to 16 cents. That gap changes the economics of going solar significantly.
 
-The practical takeaway: don't design a Texas solar system to be a power plant for the grid. Design it to offset your own consumption. A correctly sized system that covers 90% to 100% of your own usage will outperform an oversized system that exports heavily at wholesale rates. To understand how this affects your monthly savings, [net metering savings explained](/net-metering-savings-explained/) walks through the math in plain language. You can also review [net metering policy by state](/net-metering-policy-by-state/) to see how Texas compares to more favorable states.
+Here's the practical takeaway: don't design a Texas solar system to be a power plant for the grid. Design it to offset your own consumption. A correctly sized system that covers 90% to 100% of your own usage will outperform an oversized system that exports heavily at wholesale rates. To understand how this affects your monthly savings, [net metering savings explained](/net-metering-savings-explained/) walks through the math in plain language. You can also review [net metering policy by state](/net-metering-policy-by-state/) to see how Texas compares to more favorable states.
 
 This is also why battery storage is gaining traction in Texas faster than almost anywhere else. After Winter Storm Uri in 2021, Texans have a visceral understanding of grid vulnerability. Pairing solar with a home battery like the Tesla Powerwall or Enphase IQ Battery lets you store daytime production and use it at night, sidestepping the low export rate problem entirely while adding resilience.
 
@@ -112,14 +107,11 @@ Payback periods in Texas commonly run 7 to 11 years depending on your electricit
 
 6. **Choose your Retail Electric Provider strategically.** In ERCOT deregulated territory, you can switch REPs. Some solar-specific plans offer better buyback rates. Compare plans on Power to Choose (Texas's official REP comparison site) and ask specifically about solar buyback rates.
 
-7. **Consider a home energy monitor** to track your production and consumption in real time. Devices like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20) (affiliate link) can pay for themselves by helping you shift usage to peak production hours, maximizing self-consumption and avoiding high-rate grid power. *(This site may earn a commission on qualifying purchases.)*
+7. **Consider a home energy monitor** to track your production and consumption in real time. Devices like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20) can pay for themselves by helping you shift usage to peak production hours, maximizing self-consumption and avoiding high-rate grid power.
 
 ---
 
-
----
-
-Texas isn't the easiest state to navigate for solar incentives. The fragmented utility landscape means you genuinely have to do some homework. But for homeowners who take the time to understand the federal ITC, claim the automatic state tax exemptions, and choose their REP strategically, the financial case for solar in Texas in 2026 is strong. The sun in Texas doesn't care about grid politics. It shows up reliably, and with the right system design, so do the savings.
+Texas isn't the easiest state to navigate for solar incentives. The fragmented utility landscape means you genuinely have to do some homework. But for homeowners willing to take the time to understand the federal ITC, claim the automatic state tax exemptions, and choose their REP strategically, the financial case for solar in Texas in 2026 is strong. The sun in Texas doesn't care about grid politics. It shows up reliably, and with the right system design, so do the savings.
 
 ## Helpful Resources
 
@@ -129,10 +121,7 @@ Texas isn't the easiest state to navigate for solar incentives. The fragmented u
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 - **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
 
-
 *Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*
-
----
 
 ---
 
@@ -142,4 +131,3 @@ Texas isn't the easiest state to navigate for solar incentives. The fragmented u
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

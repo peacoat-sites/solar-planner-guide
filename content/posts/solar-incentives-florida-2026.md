@@ -25,28 +25,23 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 
 ---
-
-Florida gets more sun than almost any other state in the country, yet it ranks behind California and Texas in total solar installations. That gap is closing fast. In 2024, Florida added over 3.6 gigawatts of new solar capacity according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and homeowners are a big reason why. If you're sitting in Tampa, Orlando, or Jacksonville wondering whether 2026 is the right year to pull the trigger on solar, the honest answer is: the incentive stack is genuinely solid right now, but it won't stay this good forever. Let me walk you through exactly what's available, what the numbers look like, and where the catches are.
+Florida gets more sun than almost any other state in the country, yet it ranks behind California and Texas in total solar installations. That gap is closing fast. In 2024, Florida added over 3.6 gigawatts of new solar capacity according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and homeowners are a big reason why. If you're sitting in Tampa, Orlando, or Jacksonville wondering whether 2026 is the right year to go solar, the honest answer is: the incentive stack is genuinely solid right now, but it won't stay this good forever. Let me walk you through exactly what's available, what the numbers look like, and where the catches are.
 
 ---
 
 ## The Federal Tax Credit: Still the Biggest Lever You Can Pull
 
-The 30% federal Investment Tax Credit (ITC) is the foundation of every Florida solar deal right now. If your system costs $28,000 before incentives, you're looking at a $8,400 credit directly against your federal tax liability. Not a deduction. A credit. That's real money off your tax bill.
+The 30% federal Investment Tax Credit (ITC) is the foundation of every Florida solar deal right now. If your system costs $28,000 before incentives, you're looking at an $8,400 credit directly against your federal tax liability. Not a deduction. A credit. That's real money off your tax bill.
 
 The credit applies to panels, inverters, batteries (if charged by solar), labor, and even sales tax on equipment. Most homeowners I've worked with are surprised by how broad the eligible costs are.
 
-There's one thing installers sometimes gloss over: you have to have sufficient federal tax liability to use the full credit in a single year. If you owe $5,000 in federal taxes annually, you can carry the remaining credit forward into future years, but that does affect your effective payback timeline. Retirees living on Social Security income should run this scenario carefully with a tax professional before signing any contract.
+Here's the catch that installers sometimes gloss over: you have to have sufficient federal tax liability to use the full credit in a single year. If you owe $5,000 in federal taxes annually, you can carry the remaining credit forward into future years, but that does affect your effective payback timeline. Retirees living on Social Security income should run this scenario carefully with a tax professional before signing any contract.
 
 The 30% rate runs through 2032, then steps down to 26% in 2033 and 22% in 2034. So while there's no panic-now urgency, waiting until 2034 means leaving thousands of dollars on the table. For a deeper look at how the credit works mechanically, the [ITC solar investment tax credit explained](/itc-solar-investment-tax-credit-explained/) guide on this site is worth reading before you meet with any installer.
 
 ---
 
 ## Florida's State-Level Incentives: Two Big Ones That Actually Matter
-
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Florida doesn't have a state income tax, so there's no state solar tax credit to speak of. Some homeowners hear that and get discouraged. Don't. The state makes up for it with two financial protections that are genuinely valuable.
 
@@ -64,13 +59,13 @@ Florida law says that added value is 100% exempt from property tax assessment. Y
 
 ## Net Metering in Florida: What the Rules Actually Say in 2026
 
-Net metering is where Florida's solar story gets complicated, and any installer who doesn't explain this carefully isn't doing their job.
+This is where Florida's solar story gets complicated. Any installer who doesn't explain this carefully isn't doing their job.
 
 Florida operates under a net metering framework administered by the Public Service Commission. Investor-owned utilities like Florida Power & Light (FPL), Duke Energy Florida, and Tampa Electric (TECO) are required to offer net metering to residential customers. When your panels produce more electricity than your home uses, the excess flows to the grid and you receive bill credits.
 
-Here's the critical detail for 2026: Florida passed legislation in 2022 that began the process of reducing net metering compensation. The old regime credited excess power at the full retail rate. The transition has been phased, with utilities moving toward compensating excess generation closer to the avoided cost rate, which is significantly lower than retail.
+Here's the critical detail for 2026: Florida passed legislation in 2022 that began reducing net metering compensation. The old system credited excess power at the full retail rate. Now utilities are moving toward compensating excess generation closer to the avoided cost rate, which is significantly lower than retail.
 
-What this means practically is that oversizing your system to export lots of power to the grid is a losing strategy under the current rules. Designing a system that covers your consumption without generating massive surpluses is now smarter economics. You want to size for self-consumption first.
+What this means practically is that oversizing your system to export lots of power to the grid is a losing strategy under current rules. Designing a system that covers your consumption without generating massive surpluses is now smarter economics. You want to size for self-consumption first.
 
 For a state-by-state breakdown of how net metering policies compare, the [net metering policy by state](/net-metering-policy-by-state/) guide puts Florida's situation in context. And if you want to understand exactly how bill credits translate to dollar savings, [net metering savings explained](/net-metering-savings-explained/) covers the math.
 
@@ -98,7 +93,7 @@ Florida has an active PACE financing market through providers like Ygrene and Re
 
 ## What a Real Florida Solar Deal Looks Like in 2026
 
-Let's put concrete numbers on a typical scenario. A homeowner in Orlando with a 1,800 square foot home averaging $180/month in electricity bills (roughly 1,500 kWh/month at FPL's blended rate).
+Let's put concrete numbers on a typical scenario. An Orlando homeowner with a 1,800 square foot home averaging $180 per month in electricity bills (roughly 1,500 kWh per month at FPL's blended rate).
 
 | Line Item | Amount |
 |---|---|
@@ -108,7 +103,7 @@ Let's put concrete numbers on a typical scenario. A homeowner in Orlando with a 
 | Federal ITC (30%) | $8,400 credit |
 | Net out-of-pocket after ITC | $19,600 |
 | Annual electricity savings (est.) | $1,800 to $2,100 |
-| Property tax savings/year | $400 to $500 |
+| Property tax savings per year | $400 to $500 |
 | Estimated payback period | 8 to 10 years |
 | System lifespan | 25 to 30 years |
 
@@ -120,7 +115,7 @@ For context on how system costs break down line by line, [solar panel installati
 
 ## How to Actually Claim Florida Solar Incentives: Step by Step
 
-Getting incentives isn't automatic across the board. Here's the process most Florida homeowners follow.
+Getting incentives isn't automatic. Here's the process most Florida homeowners follow.
 
 **Step 1: Get multiple quotes.** EnergySage data shows that homeowners who get at least three quotes save an average of 10% on system costs. Don't sign with the first installer who knocks on your door.
 
@@ -136,10 +131,7 @@ Getting incentives isn't automatic across the board. Here's the process most Flo
 
 ---
 
-
----
-
-Florida homeowners who act in 2026 are working with one of the better incentive windows the state has seen: a 30% federal credit, no sales tax on equipment, permanent property tax protection, and utility rates that keep climbing. The incentive math is honest and the savings are real. Just go in with accurate expectations about net metering, get multiple quotes, and nail down your tax situation first. Do that, and solar in Florida makes a lot of sense.
+Florida homeowners who act in 2026 are working with one of the better incentive windows the state has seen: a 30% federal credit, no sales tax on equipment, permanent property tax protection, and utility rates that keep climbing. The incentive math is honest and the savings are real. Just go in with accurate expectations about net metering, get multiple quotes, and nail down your tax situation first. Do that, and solar in Florida makes sense.
 
 ## Helpful Resources
 
@@ -151,12 +143,9 @@ Florida homeowners who act in 2026 are working with one of the better incentive 
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

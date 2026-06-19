@@ -13,10 +13,9 @@ author_bio: "Nadia Patel approaches solar from an environmental and lifecycle pe
 slug: "how-to-size-a-solar-system-when-the-tax-credit-is-gone"
 affiliate_disclosure: true
 ---
+If you're staring at a solar quote right now, the math probably feels off. The 30% federal residential tax credit expired December 31, 2025, when the One Big Beautiful Bill took effect July 4, 2025. That changes almost everything about system size, payback, and whether buying solar makes sense at all.
 
-If you're sitting on a quote from a solar installer right now, you're probably doing math that doesn't quite work the way you expected. The 30% federal residential tax credit is gone. It expired December 31, 2025, under the One Big Beautiful Bill signed July 4, 2025, and that changes almost everything about how you should think about system size, payback period, and whether to buy at all.
-
-Here's the honest situation: a lot of the solar advice floating around online was written when you could count on roughly $7,500 back from the federal government on a typical system. That number is off the table for homeowners who purchase. The math has to start fresh.
+Here's the blunt reality: most solar advice you'll find online was written when a typical homeowner could pocket roughly $7,500 back from the federal government. That's gone for people who buy systems. The entire calculation needs to restart.
 
 
 <div class="value-module">
@@ -30,47 +29,45 @@ Here's the honest situation: a lot of the solar advice floating around online wa
 
 ## The Market Is Telling You Something
 
-The numbers are stark. BloombergNEF projects only 4.1 gigawatts of U.S. residential solar will be installed in 2026, down 15% from 2025 and the lowest level in five years, according to a [report published June 15, 2026](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/). That's not a blip. That's a market absorbing the shock of losing a credit that had been in place, in various forms, for nearly two decades.
+BloombergNEF is projecting just 4.1 gigawatts of residential solar installed in the U.S. in 2026. That's a 15% drop from 2025 and the lowest five-year total, according to [reporting from June 15, 2026](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/). This isn't noise. It's a market absorbing the shock of losing a credit that's been around in some form for nearly two decades.
 
-You might be wondering whether a slower market means cheaper prices. Possibly, yes. Installers who were booked six months out in 2024 are more available now. Some are sharpening their pencils on margin. But a price drop of 5-10% doesn't come close to replacing a $7,500 tax credit on an installed system that typically runs $25,000 to $35,000. The math still has a hole in it. The question is how you fill it.
+You might think a slower market means cheaper panels. Maybe a little. Installers who had six-month wait lists in 2024 have more availability now, and some are willing to negotiate margins. But a 5-10% price drop won't come close to replacing the $7,500 tax credit you'd get on a $25,000 to $35,000 system. The shortfall is real. The only question is how you work around it.
 
 ## Buy, Lease, or Wait: This Decision Has a Deadline Attached
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+Here's what I tell anyone weighing a full purchase against a lease or power purchase agreement: one of these options is about to close.
 
+The Section 48E commercial tax credit for solar leases and PPAs stays at 30% through the end of 2027. But there's a buried detail that matters. Projects must start construction by July 4, 2026 to get that credit. We're talking weeks. If you want a PPA or lease with full tax benefits, you need installers' contracts signed and site work booked now, not next month.
 
-Here's what I tell people who are trying to decide between purchasing a system outright and going the lease or PPA route: the window on one of those options is almost closed.
-
-The Section 48E commercial tax credit, which covers solar leases and power purchase agreements, remains at 30% through end of 2027. But there's a critical catch buried in the legislation. Projects must begin construction by July 4, 2026 to qualify. That deadline is weeks away. If you want the lease or PPA route to carry the full financial benefit, you need to be signing contracts and scheduling site work right now, not in August.
-
-Leases and PPAs have their own tradeoffs. You don't own the system, which complicates home sales and limits your ability to capture state incentives. But for a homeowner who doesn't have the tax liability to fully monetize credits anyway, or who doesn't want to carry a solar loan, a PPA locked in before July 4 might be the most financially rational path available in 2026. Talk to at least two installers about both options before that date passes.
+Leases and PPAs come with tradeoffs. You don't own the equipment, which gets messy during home sales and keeps you from some state incentives. But if you don't have enough tax liability to use credits anyway, or you hate the idea of a solar loan, locking in a PPA before July 4 might be your best financial move in 2026. Talk to two installers about both options before that deadline passes.
 
 ## Right-Sizing Has Changed Because the ROI Levers Have Changed
 
-Before the credit expired, the conventional wisdom was to size up: a bigger system meant a bigger credit, and you'd grow into the production capacity as your electricity needs changed. That logic is weaker now.
+The old playbook was to size bigger: bigger system meant a bigger credit, and you'd eventually grow into that extra capacity. That logic doesn't hold anymore.
 
-The new primary ROI lever is battery pairing, and it changes how you think about system size. As of Q1 2026, 40% of new residential solar installations include a battery, up from 35% in 2025. That shift is not accidental. Without the federal credit, oversizing a system to dump excess power onto the grid at mediocre net metering rates is a poor use of dollars. A more precisely sized system paired with storage, designed to maximize self-consumption, often beats a larger system without storage on a post-credit payback calculation.
+The new math centers on battery pairing. As of Q1 2026, 40% of new residential solar installations include storage, up from 35% in 2025. That's not random. Without a federal credit, oversizing your system just to dump excess power onto the grid at terrible net metering rates is a waste of money. A system sized precisely to your needs, paired with a battery and designed for self-consumption, usually wins against a larger system without storage when you run the payback numbers.
 
-The general approach I'd suggest now: size your system to cover 80-90% of your load, prioritizing your highest-cost usage hours, then pair it with storage if your utility has time-of-use rates or if your net metering policy is under pressure. Which brings up something you really need to check before signing anything.
+Here's how I'd approach it now: size to handle 80-90% of your usage, targeting your peak-cost hours, then add battery storage if your utility charges time-of-use rates or if their net metering policy is tightening. Before you sign anything, though, you've got to understand your state's net metering rules.
 
 ## Your State's Net Metering Policy May Be About to Change
 
-Net metering rules are shifting fast, and [tracking which states have changed in 2026](https://www.ohmsnap.com/net-metering-tracker) is genuinely useful homework before you finalize a system size. The credit you get for excess generation varies enormously by state and is getting worse in several places.
+Net metering rules are shifting hard and fast. [Tracking which states changed the rules in 2026](https://www.ohmsnap.com/net-metering-tracker) is homework worth doing before you lock in a system size. What your utility pays for excess power varies wildly and is getting worse in several states.
 
-Pennsylvania is a live example of what to watch for. PPL Electric Utilities is proposing a shift to hourly wholesale market credits, also called locational marginal pricing, that could cut the value of net metering credits by 60-80% compared to current retail rate compensation. If that proposal takes effect around July 2026 as targeted, a Pennsylvania homeowner who sized a system expecting retail-rate credits will see their payback period stretch significantly.
+Pennsylvania's a cautionary tale. PPL Electric Utilities wants to switch to hourly wholesale market rates (called locational marginal pricing) that could slash your credit value by 60-80% compared to today's retail rates. If that happens around July 2026 as planned, a Pennsylvania homeowner expecting retail-rate compensation will see their payback period balloon.
 
-On the other side, [New Jersey's net metering credit runs around $0.26 per kilowatt-hour](https://nuwattenergy.com/en/net-metering-changes-2026), which means a typical 8 kW system generates roughly $2,500 per year in bill credits. That's a genuinely strong return in the absence of the federal credit, and it makes New Jersey one of the better markets for a purchased system right now.
+But then there's New Jersey, where the [net metering credit sits around $0.26 per kWh](https://nuwattenergy.com/en/net-metering-changes-2026). A typical 8 kW system generates roughly $2,500 annually in credits there. That's solid money without a federal credit, making New Jersey one of the better states for buying solar right now.
 
-The lesson isn't that solar is good or bad by state. It's that system size should be calibrated to what your utility will actually pay you for exports, not what a national calculator assumes.
+The point isn't that solar's good or bad nationwide. It's that you size based on what your specific utility will pay you for exports, not what some national calculator spits out.
 
 ## Entry Points Matter More Than They Used to
 
-For homeowners who are cost-sensitive and watching the purchase numbers not quite pencil out, Colorado just made something easier. A [law signed June 10, 2026](https://www.cbsnews.com/colorado/news/colorado-law-plug-in-solar-panels-access/) expanded access to plug-in solar units, sometimes called balcony solar or outlet-connected panels, as a lower-barrier entry point. These systems are small, typically 400 to 800 watts, but they require no installation permit in many cases and let you start offsetting consumption without committing to a full rooftop system.
+Colorado just made something easier for cost-conscious homeowners watching the numbers not quite add up. A [law signed June 10, 2026](https://www.cbsnews.com/colorado/news/colorado-law-plug-in-solar-panels-access/) cleared the way for plug-in solar units, also called balcony solar or outlet panels. These typically run 400 to 800 watts and don't need permits in most cases. You can start cutting your bills without dropping $30,000 on a full rooftop system.
 
-This isn't a replacement for a whole-home solar strategy. But in a year when the big federal incentive is gone and full system economics are tighter, starting smaller to test your consumption patterns and local installer relationships before making a $30,000 decision is worth considering in states that allow it.
+It's not a replacement for whole-home solar. But in 2026, without the big federal credit and with tighter system economics, testing smaller first to understand your actual consumption and vet local installers before committing to a major expense makes real sense. At least in states that allow it.
 
-The honest summary is this: solar still makes financial sense for a lot of homeowners in 2026, but only if you size based on today's actual incentive stack, not last year's. Know your state's net metering rate, check your utility for pending policy changes, ask hard questions about the July 4 lease deadline, and resist the instinct to just copy the system size your neighbor installed in 2023. The context has changed too much for that to be reliable guidance.
+The honest answer is this: solar still pencils out for plenty of homeowners in 2026. But only if you size based on today's incentives, not last year's. Know your state's net metering rate. Check your utility for policy shifts. Ask about that July 4 lease deadline. And don't just copy whatever system your neighbor installed in 2023. The whole situation has changed too much for that to work.
 
 ## Sources
 
@@ -102,4 +99,3 @@ The honest summary is this: solar still makes financial sense for a lot of homeo
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

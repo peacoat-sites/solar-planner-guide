@@ -25,26 +25,21 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 
 ---
-
 Forty-three dollars. That's what one of my clients in Westchester was paying per day on electricity last August during the heat wave. Not per month. Per day. When she called me, she wasn't curious about solar in an abstract way. She was angry, and she wanted to know why nobody had told her sooner that there was a better option.
 
-If you're a New York homeowner reading this, you might be wondering whether solar actually makes sense for you, or whether it's one of those things that sounds great until you look at the details. Here's what I tell people in that exact position: New York is genuinely one of the best states in the country for residential solar, but not for the reasons most installers lead with. It's not the sunshine (you'll get to that). It's the combination of high utility rates, strong state incentives, and a net metering policy that still, for now, works heavily in your favor.
+If you're a New York homeowner, you might be wondering whether solar actually makes sense for you or whether it's one of those things that sounds great until you look at the details. Here's what I tell people in that position: New York is genuinely one of the best states in the country for residential solar, but not for the reasons most installers lead with. It's not the sunshine (you'll get to that). It's the combination of high utility rates, strong state incentives, and a net metering policy that still works heavily in your favor.
 
 Let me walk you through the real picture.
 
 ## Why New York's Electric Rates Change Everything
 
-The average retail electricity price in New York sits around 21 to 23 cents per kilowatt-hour, depending on your utility. Con Edison customers in New York City and Westchester routinely see 24 to 28 cents per kWh when you factor in delivery charges. For context, the national average is about 16 cents. That gap matters enormously when you're running a solar savings calculation, because solar doesn't save you solar money. It saves you utility money. The more expensive your utility, the faster your system pays back.
+The average retail electricity price in New York sits around 21 to 23 cents per kilowatt-hour, depending on your utility. Con Edison customers in New York City and Westchester routinely see 24 to 28 cents per kWh when you factor in delivery charges. The national average is about 16 cents. That gap matters enormously when you're running a solar savings calculation, because solar doesn't save you solar money. It saves you utility money. The more expensive your utility, the faster your system pays back.
 
 A typical 8 kW system in New York generates roughly 8,500 to 9,500 kWh per year, according to NREL's PVWatts calculator, which accounts for actual New York irradiance data. At 24 cents per kWh, that's over $2,000 in annual savings. At 16 cents, it's about $1,400. Same panels, same sun. The difference is your utility rate.
 
-I'd also push back on the assumption that New York is cloudy and therefore bad for solar. Buffalo gets 156 sunny days a year, which yes, is lower than Phoenix. But Germany, the country that built the most solar per capita for a decade straight, gets less sun than Buffalo. Solar panels work on diffuse light too. Overcast days still generate power, just at a reduced rate. New York City gets about 4.1 peak sun hours per day on average. That's more than enough.
+I'd push back on the assumption that New York is cloudy and therefore bad for solar. Buffalo gets 156 sunny days a year, which yes, is lower than Phoenix. But Germany, the country that built the most solar per capita for a decade straight, gets less sun than Buffalo. Solar panels work on diffuse light too. Overcast days still generate power, just at a reduced rate. New York City gets about 4.1 peak sun hours per day on average. That's plenty.
 
 ## The Incentives Are Genuinely Stacked Here
-
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 New York's incentive stack is one of the most generous in the country, and it's layered in a way that meaningfully reduces your out-of-pocket cost.
 
@@ -68,11 +63,13 @@ The thing to watch: VDER (sometimes called "net billing") has been expanding, an
 
 EnergySage's 2024 solar market data puts the average New York installation cost at about $3.15 to $3.50 per watt before incentives. A 7 kW system lands at roughly $22,000 to $24,500. An 8 kW system runs closer to $25,000 to $28,000. After federal and state tax credits, you're often in the $13,000 to $18,000 range, depending on your specific credits and whether you're cash-purchasing or financing.
 
-If you're comparing quotes, watch the cost-per-watt number, not just the total. Installers in New York that I've reviewed quotes for are often charging in the $3.00 to $4.00 range, with premium brands (SunPower, Maxeon, REC Alpha) at the higher end and mainstream options (Qcells, Canadian Solar, Jinko) at the lower end. Honestly, for most homeowners, a Qcells or REC Alpha panel at $3.20 per watt will outperform a premium brand at $4.20 per watt on a payback basis. The efficiency difference rarely justifies the price gap in residential applications.
+If you're comparing quotes, watch the cost-per-watt number, not just the total. Installers in New York that I've reviewed quotes for are often charging in the $3.00 to $4.00 range, with premium brands (SunPower, Maxeon, REC Alpha) at the higher end and mainstream options (Qcells, Canadian Solar, Jinko) at the lower end. Honestly, for most homeowners, a Qcells or REC Alpha panel at $3.20 per watt will outperform a premium brand at $4.20 per watt on a payback basis. The efficiency difference rarely justifies the price gap.
 
-One thing I always recommend: get a home energy monitor installed before or alongside your solar panels. Something like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor) (available on Amazon, and yes this site earns a commission on purchases) gives you real-time circuit-level data, which helps you understand whether your solar system is actually performing as promised and where else you might cut consumption. A lot of installers will tell you what your system should produce. Very few will help you verify it.
+One thing I always recommend: get a home energy monitor installed before or alongside your solar panels. Something like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor) gives you real-time circuit-level data, which helps you understand whether your solar system is actually performing as promised and where else you might cut consumption. A lot of installers will tell you what your system should produce. Very few will help you verify it.
 
 For monitoring the solar system itself, most modern inverters (Enphase, SolarEdge) come with their own apps, but standalone monitoring devices like the [Emporia Solar Monitor](https://www.amazon.com/s?k=solar+energy+monitor) can give you a cross-check that doesn't depend on your installer's platform.
+
+*As an Amazon Associate this site earns from qualifying purchases.*
 
 ## The Cases Where I'd Actually Tell You to Wait
 
@@ -84,12 +81,7 @@ If you're in a co-op or condo in New York City, your path to rooftop solar is al
 
 And if you're planning to sell your home within 3 to 4 years, the math gets more complicated. Solar does increase home value, but whether you'll recoup the full remaining cost in sale price depends heavily on your market and how solar-savvy buyers in your area are. The [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a clear breakdown of the ownership vs. lease considerations that's worth reading before you commit.
 
-Leases and PPAs: I'll say it plainly. Unless you truly cannot qualify for the tax credits or afford even a financed purchase, I'd avoid solar leases in New York. You give up the tax credits, which go to the financier. You complicate your home sale. You give up control. A solar loan through a credit union or through the NY Green Bank (which offers competitive rates specifically for energy projects) will almost always serve you better over 10 to 20 years.
-
----
-
-
----
+Leases and PPAs: I'll say it plainly. Unless you truly can't qualify for the tax credits or afford even a financed purchase, I'd avoid solar leases in New York. You give up the tax credits, which go to the financier. You complicate your home sale. You lose control. A solar loan through a credit union or through the NY Green Bank (which offers competitive rates specifically for energy projects) will almost always serve you better over 10 to 20 years.
 
 Solar in New York isn't a perfect fit for everyone, but for a homeowner with a reasonably young south-facing roof, a meaningful utility bill, and the tax liability to use the credits, few home investments have a comparable combination of financial return and practical benefit. Get multiple quotes, ask about net metering specifics, and don't let anyone rush you into signing before you understand what you're buying.
 
@@ -101,16 +93,12 @@ Solar in New York isn't a perfect fit for everyone, but for a homeowner with a r
 - **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
 - **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
 
-
-*Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
-
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169): Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599): 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99): Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
+*Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*

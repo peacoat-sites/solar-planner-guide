@@ -25,7 +25,6 @@ author_title: "Policy Writer"
 author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
 
 ---
-
 Florida gets about 237 sunny days a year. You'd think that makes it the best place in the country to go solar. The truth is more complicated, and the thing that trips up most Florida homeowners has nothing to do with sunshine.
 
 It's the utility companies.
@@ -34,17 +33,13 @@ It's the utility companies.
 
 Florida ranks 3rd in the country for installed solar capacity, according to SEIA data, with over 12 gigawatts of residential and commercial solar installed as of 2024. The sun is real. The savings potential is real. But Florida's net metering policy is, politely speaking, a work in progress, and a lot of homeowners find that out after they've already signed a contract.
 
-Here's the short version: Florida eliminated its original 1:1 net metering policy in 2022. The new framework, called "net metering 2.0," means that when your panels produce more electricity than you use and that excess goes back to the grid, you get credited at a lower rate than what you pay for electricity. FPL (Florida Power & Light), which serves about 5.8 million customers, pays avoided-cost rates for surplus power that are substantially below retail. Duke Energy Florida is similar.
+Here's the short version: Florida eliminated its original 1:1 net metering policy in 2022. The new framework, called "net metering 2.0," means that when your panels produce more electricity than you use and that excess goes back to the grid, you get credited at a lower rate than what you pay for electricity. FPL (Florida Power & Light), which serves about 5.8 million customers, pays avoided-cost rates for surplus power that are substantially below retail. Duke Energy Florida works the same way.
 
 In practical terms, this changes your payback math. A system that might pay itself off in 7 years under full retail net metering could take 9 to 11 years under avoided-cost crediting, depending on how much of your solar production you actually use in real time. The fix, increasingly, is a battery. Self-consumption beats grid export when the export credit is weak.
 
 None of this makes Florida a bad solar state. It makes it a state where system design and usage patterns matter more than they do in, say, New Jersey, which still has much stronger net metering protections. Size your system to your actual consumption, not bigger. Add storage if you can afford it, especially in hurricane country.
 
 ## The Real Numbers: What Solar Costs and Saves in Florida
-
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The average Florida home uses around 1,200 kWh per month, which is higher than the national average of roughly 900 kWh. Air conditioning is doing a lot of work here. That higher usage actually works in your favor because it means more solar production can be consumed directly rather than exported at the lower avoided-cost rate.
 
@@ -67,8 +62,6 @@ A battery changes that equation significantly. The Tesla Powerwall 3, currently 
 One thing Florida-specific to keep in mind: the battery incentive situation is improving. If your battery is charged exclusively by solar (not from the grid), it qualifies for the federal 30% ITC alongside your panels. That helps offset the sting of the upfront cost.
 
 The NREL has published research showing that solar-plus-storage systems in high-irradiance climates like Florida can achieve better financial returns than solar-only when you account for time-of-use rates and avoided demand charges, which some Florida utilities are moving toward for residential customers. The resilience value during hurricane season is harder to put a dollar figure on, but it's real.
-
-For homeowners who want to track production and consumption without a full battery system yet, a home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor&tag=contentportfo-20) is a practical starting point. It runs about $80 on Amazon and gives you real-time data that makes it much easier to optimize your self-consumption. (The site may earn a commission on purchases.)
 
 ## Roof Conditions, HOAs, and the Bureaucratic Reality
 
@@ -96,23 +89,7 @@ Get at least three quotes. EnergySage's marketplace is genuinely useful for this
 
 ---
 
-
----
-
 The sun in Florida is genuinely exceptional. Nearly 5.5 peak sun hours per day in most of the state, year-round. What separates a good solar investment from a mediocre one here is mostly execution: getting the system sized right, choosing equipment that performs on a real Florida roof with real shading conditions, understanding the net metering rules before you sign anything, and, increasingly, pairing panels with storage so you're actually insulated from grid dependence when the next storm rolls through. The solar math works. You just have to run it correctly.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-
-*Photo: [Florida Solar Fix](https://www.pexels.com/@florida-solar-fix-2154752009) via Pexels*
-
----
 
 ## Recommended Resources
 
@@ -122,3 +99,4 @@ The sun in Florida is genuinely exceptional. Nearly 5.5 peak sun hours per day i
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
+*Photo: [Florida Solar Fix](https://www.pexels.com/@florida-solar-fix-2154752009) via Pexels*

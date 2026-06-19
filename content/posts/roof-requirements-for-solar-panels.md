@@ -25,7 +25,6 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 
 ---
-
 You've gotten three solar quotes, you're excited, and then one installer mentions, almost as an aside, that your roof "might need some work before we can install." Suddenly you're wondering whether you're about to spend $4,000 fixing your roof before you can even start saving money on electricity. I've seen this scenario play out dozens of times, and the frustration is completely legitimate. The problem is that most installers won't hand you a clear checklist upfront. They want the sale. So let me give you what they often don't: a straight look at exactly what your roof needs to be solar-ready, what disqualifies a roof, and how to figure out where yours stands before you sign anything.
 
 ## Why Your Roof Matters More Than Your Solar Panels
@@ -34,17 +33,13 @@ Here's what most people don't realize: the panels themselves will last 25 to 30 
 
 Solar panels don't damage a structurally sound roof. In fact, they can actually extend the life of the shingles underneath by protecting them from UV exposure and hail. But if your roof has existing problems, those problems get harder and more expensive to fix once there's a rack system and 20-plus panels sitting on top.
 
-The good news: most residential roofs are fine. The bad news: "most" isn't all of them, and the specifics matter enormously.
+Most residential roofs are fine. But "most" isn't all of them, and the specifics matter enormously.
 
 ## Age and Remaining Lifespan: The First Thing to Check
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+If your asphalt shingle roof is more than 15 years old, you need an honest conversation with a roofing contractor before you commit to solar. Standard 3-tab asphalt shingles last roughly 20 to 25 years. Architectural shingles push that to 25 to 30 years. If your roof has 8 years left on it, you do not want to install solar and then pull everything off in year 6 for a reroof.
 
-
-
-If your asphalt shingle roof is more than 15 years old, you need an honest conversation with a roofing contractor before you commit to solar. Standard 3-tab asphalt shingles have a lifespan of roughly 20 to 25 years. Architectural shingles push that to 25 to 30 years. If your roof has 8 years left on it, you do not want to install solar and then pull everything off in year 6 for a reroof.
-
-The math here is simple but often ignored. A full solar reroof removal and reinstallation on a 7-kilowatt system can cost $3,500 or more. If you need a new roof anyway, it's almost always smarter to do both projects together. Many roofing companies now offer solar-ready reroofs, and you can sometimes negotiate a combined discount.
+A full solar reroof removal and reinstallation on a 7-kilowatt system can cost $3,500 or more. If you need a new roof anyway, it's almost always smarter to do both projects together. Many roofing companies now offer solar-ready reroofs, and you can sometimes negotiate a combined discount.
 
 I've seen clients get burned both ways: people who installed solar on a 22-year-old roof and paid for reroof removal two years later, and people who panicked unnecessarily and spent money on a roof that had plenty of life left. Get a qualified roofer, not your solar installer, to give you an independent assessment of remaining life. Those are two different businesses with two different incentives.
 
@@ -56,7 +51,7 @@ Your roof's angle, the direction it faces, and what's casting shadows on it will
 
 **Orientation:** South-facing roof planes are the gold standard in the Northern Hemisphere. A due-south exposure with good pitch can hit 100% of theoretical solar production potential. East and west-facing roofs typically produce 15 to 20% less than south-facing equivalents, which translates to a proportionally longer payback period. North-facing planes are generally not viable for solar in most U.S. latitudes. That said, the National Renewable Energy Laboratory (NREL) has extensive modeling showing that even east-west roof configurations can deliver strong economic returns when electricity rates are high enough.
 
-**Shading:** This one is brutal and underappreciated. A single tree branch shading even one panel for part of the day can drag down production significantly, especially with traditional string inverter systems. Microinverters and DC power optimizers (like those made by Enphase and SolarEdge) partially solve this by isolating each panel's output, but they don't eliminate the loss. Before you get quotes, walk your roof at solar noon on a clear day and look at what's casting shadows. Big trees on the south side of your house are a real problem.
+**Shading:** This one's brutal and underappreciated. A single tree branch shading even one panel for part of the day can drag down production significantly, especially with traditional string inverter systems. Microinverters and DC power optimizers (like those made by Enphase and SolarEdge) partially solve this by isolating each panel's output, but they don't eliminate the loss. Before you get quotes, walk your roof at solar noon on a clear day and look at what's casting shadows. Big trees on the south side of your house are a real problem.
 
 ## Roof Material: What Works, What's Tricky, and What's a Problem
 
@@ -80,7 +75,7 @@ Clay and slate tiles deserve special mention. They're not impossible, but they s
 
 A standard residential solar panel weighs about 40 to 50 pounds. A 7-kilowatt system might involve 18 to 22 panels. Add racking hardware and you're looking at roughly 1,000 to 1,500 pounds distributed across your roof surface. That sounds like a lot, but spread across a normal roof area, it usually works out to 2 to 4 pounds per square foot, which most residential roof structures handle comfortably.
 
-The structural concerns aren't usually about total weight. They're about localized stress at mounting points, and about whether your rafters and decking are in good enough shape to accept hardware without splitting or pulling out.
+The structural concerns aren't usually about total weight. They're about localized stress at mounting points, and whether your rafters and decking are in good enough shape to accept hardware without splitting or pulling out.
 
 Here's a practical checklist to work through before your installer even gets on the roof:
 
@@ -102,30 +97,12 @@ If you're in a historic district, you may need approval from a local historic pr
 
 Local building departments set their own requirements for roof penetrations, fire setbacks (the clear space required around roof edges and ridgelines), and electrical interconnection. California, for instance, requires a 36-inch setback from roof ridges and edges for fire department access. This can meaningfully reduce your usable roof area.
 
----
-
-
----
-
-The honest truth is that roof requirements for solar aren't as complicated as some installers make them sound, and they're not as simple as others pretend. A roof that's structurally solid, reasonably oriented, mostly unshaded, and has a decade or more of life ahead of it is a great solar candidate. If yours doesn't check every box, that's useful information, not a dead end. Knowing what you're working with before you sign a contract is exactly how you make a decision you won't regret five years from now.
+A roof that's structurally solid, reasonably oriented, mostly unshaded, and has a decade or more of life ahead of it is a great solar candidate. If yours doesn't check every box, that's useful information, not a dead end. Knowing what you're working with before you sign a contract is exactly how you make a decision you won't regret five years from now.
 
 ## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
----
-
----
-
-## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

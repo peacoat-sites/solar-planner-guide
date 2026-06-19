@@ -25,7 +25,6 @@ author_title: "Sustainability Writer"
 author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
 
 ---
-
 Most homeowners I talk to think the hardest part of going solar is deciding to do it. Then they sign the contract and realize: there's a whole other journey ahead of them. A journey that typically takes 2 to 4 months before a single panel produces a single kilowatt-hour. I've seen clients get genuinely blindsided by this timeline, and I've watched others stress out unnecessarily because no one walked them through what was actually happening behind the scenes. So I went deep on this. Here's the real, unfiltered breakdown of what the solar installation process looks like from contract to first power bill.
 
 ---
@@ -45,10 +44,6 @@ After the physical assessment, engineers will design your system. This includes 
 ---
 
 ## Permits, Utility Interconnection, and the Waiting Game
-
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I'll be honest: this is the part that kills the timeline, and it's almost entirely out of your hands.
 
@@ -78,7 +73,7 @@ Here's roughly how that day breaks down:
 
 4. **Inverter and electrical panel work.** The inverter (string inverter, microinverters, or power optimizers) is mounted, usually on an exterior wall near your main electrical panel. A new dedicated breaker is added to your panel. If your panel is undersized or outdated, this is where upgrade costs can appear that weren't in the original quote. I've seen this happen on homes with older 100-amp panels.
 
-5. **System monitoring setup.** Most modern systems include a monitoring gateway that connects to your home WiFi and lets you track real-time production. If your installer doesn't set this up before they leave, make sure you ask. You can also add a dedicated [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor) (Amazon link, site may earn a commission) to track your whole-home consumption alongside solar production.
+5. **System monitoring setup.** Most modern systems include a monitoring gateway that connects to your home WiFi and lets you track real-time production. If your installer doesn't set this up before they leave, make sure you ask. You can also add a dedicated [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=home+energy+monitor) to track your whole-home consumption alongside solar production.
 
 6. **Final inspection prep.** The crew will typically take photos and fill out documentation needed for the final inspection.
 
@@ -106,12 +101,9 @@ Check your monitoring app daily for the first two weeks. You're looking for cons
 
 The [U.S. Department of Energy's Homeowner's Guide to Going Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) recommends comparing your actual monthly production against the estimated production your installer provided. Most systems are designed to hit their annual target, so some months will be over and some under, but if you're consistently 20 percent or more below projections over a full season, that's a real conversation to have.
 
-A [clamp-on solar monitoring device](https://www.amazon.com/s?k=solar+monitoring+device) (Amazon link, site may earn a commission) can help you verify what your system is actually producing at the panel level versus what your inverter is reporting. It's a useful cross-check, especially in the first year.
+A [clamp-on solar monitoring device](https://www.amazon.com/s?k=solar+monitoring+device) can help you verify what your system is actually producing at the panel level versus what your inverter is reporting. It's a useful cross-check, especially in the first year.
 
 Also: apply for your federal tax credit. The Residential Clean Energy Credit (formerly the Investment Tax Credit, or ITC) currently covers 30 percent of your total system cost. You claim it on your federal taxes for the year the system was installed. Talk to a tax professional, not just your installer, about how to apply it correctly.
-
----
-
 
 ---
 
@@ -127,12 +119,9 @@ Going solar is one of the more complex home improvement projects most people wil
 
 ---
 
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

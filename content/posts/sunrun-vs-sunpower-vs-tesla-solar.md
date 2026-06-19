@@ -25,7 +25,6 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 
 ---
-
 Three companies dominate the residential solar conversation in America, and the coverage of them is almost universally useless. Most comparisons just list specs and call it a day. What actually matters: who's going to be around in ten years, whose contracts won't trap you, and whether the panels on your roof are worth what you're paying.
 
 Let's get specific.
@@ -42,10 +41,6 @@ Tesla Solar is the one everyone has an opinion about before they actually resear
 
 ## The Price Reality
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's the number that should anchor your thinking: the average residential solar installation in the U.S. cost about $3.00 per watt before incentives in 2023, per EnergySage market data. For a 8 kW system (typical for a 2,000 sq ft home), that's $24,000 before the 30% federal tax credit brings it to roughly $16,800.
 
 Tesla consistently undercuts that. Their pricing is often in the $2.65-$2.85/watt range before incentives. The catch is that pricing is non-negotiable (it's fixed online), you can't mix and match equipment, and the monitoring app is the only visibility you get. No sales rep, no customization consultation. For a lot of people, that's fine. For people who want to optimize around a complicated roof, a home battery, or a time-of-use utility rate, it's limiting.
@@ -60,13 +55,11 @@ SunPower's Maxeon cells use a back-contact design that puts metal contacts on th
 
 That matters on a small roof. If you're space-constrained and need to maximize watts per square foot, the efficiency premium is real. If you have a large south-facing roof with plenty of space, standard panels from Q Cells, REC, or Panasonic will serve you just as well for considerably less money.
 
-Tesla's panels are fine. That's not a slight. Hanwha Q Cells makes solid, warranted, bankable panels that will generate power for decades. The efficiency is around 19.8-20.6% depending on the model, which is respectable. The inverter Tesla uses is a string inverter with a power optimizer option, not microinverters. For complex roofs with shading, that matters. A reader emailed me last month asking why his Tesla system was underperforming: he had a tree shading one corner of his array, and with a string inverter setup, the underperforming panels dragged down the whole string. A microinverter system (like Enphase) handles that situation much better.
+Tesla's panels are fine. That's not a slight. Hanwha Q Cells makes solid, warranted, bankable panels that'll generate power for decades. The efficiency is around 19.8-20.6% depending on the model, which is respectable. The inverter Tesla uses is a string inverter with a power optimizer option, not microinverters. For complex roofs with shading, that matters. A reader emailed me last month asking why his Tesla system was underperforming: he had a tree shading one corner of his array, and with a string inverter setup, the underperforming panels dragged down the whole string. A microinverter system (like Enphase) handles that situation much better.
 
 Sunrun doesn't manufacture panels. They install whatever tier-1 equipment they're sourcing at the time, often SunPower Maxeon panels on higher-tier packages, or more mainstream panels like LG (before LG exited the market) or Canadian Solar on standard packages. The lack of a fixed hardware story is both honest and frustrating. Make sure you get the actual equipment specs in writing before you sign anything.
 
 ## The Warranty and Longevity Problem
-
-This is where honest solar advice diverges from the brochure.
 
 A warranty is only as good as the company standing behind it. SunPower has been around since 1985 and has manufacturing operations invested in long-term stability. That said, they went through significant financial restructuring and a split (SunPower separated its dealer business from its manufacturing unit, which became Maxeon Solar Technologies, a publicly traded company headquartered in Singapore). The integrated warranty story is now more complicated. Worth asking your SunPower dealer specifically who is backing the warranty and how claims work.
 
@@ -84,11 +77,6 @@ Sunrun: Best for people who don't want to own the system, don't qualify for the 
 
 The comparison I hear most: SunPower vs. Tesla. My take: if your system is under 7 kW and you have shade issues, SunPower or Enphase-equipped alternatives are worth the premium. If you've got a clean southern exposure and 8+ kW of potential, Tesla's lower cost per watt beats the marginal efficiency gain.
 
----
-
-
----
-
 If you want to monitor any system's actual performance yourself (rather than relying on a company's app), a home energy monitor like the [Emporia Vue](https://www.amazon.com/dp/B08CJGPHL9?tag=contentportfo-20) gives you independent real-time visibility into what your panels are producing versus what your house is consuming. Worth having regardless of who installed your system. *(Note: this site may earn a commission on purchases made through this link.)*
 
 ## Helpful Resources
@@ -99,10 +87,7 @@ If you want to monitor any system's actual performance yourself (rather than rel
 - **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
 - **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
----
 
 ## Recommended Resources
 
@@ -110,4 +95,3 @@ If you want to monitor any system's actual performance yourself (rather than rel
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-
