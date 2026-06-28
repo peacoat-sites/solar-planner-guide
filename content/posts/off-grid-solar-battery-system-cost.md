@@ -101,6 +101,15 @@ No, not if the system is completely disconnected from the grid. The 30% federal 
 
 ## Recommended Resources
 
+## Sources
+
+- [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
+- [EnergySage's market data](https://news.energysage.com/)
+- [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=solarforum07-20)
+- [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+home+energy+monitor&tag=solarforum07-20)
+- [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.

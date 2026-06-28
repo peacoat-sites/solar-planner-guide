@@ -117,6 +117,15 @@ The home battery market in 2026 is strong: better hardware, more competitive pri
 
 ## Recommended Resources
 
+## Sources
+
+- [EnergySage's market data](https://news.energysage.com/)
+- [the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
+- [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
+- [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
+- [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

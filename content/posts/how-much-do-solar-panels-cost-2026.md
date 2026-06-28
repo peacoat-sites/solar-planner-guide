@@ -126,6 +126,15 @@ Solar in 2026 is a mature, well-understood investment with real financial upside
 
 ## Recommended Resources
 
+## Sources
+
+- [EnergySage](https://www.energysage.com)
+- [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
+- [U.S. Department of Energy's homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+- [NREL's PVWatts calculator](https://www.nrel.gov/)
+- [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

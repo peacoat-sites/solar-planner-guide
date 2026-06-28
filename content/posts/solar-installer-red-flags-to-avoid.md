@@ -108,6 +108,15 @@ You can find a good installer. They exist in every market. But they share the ma
 
 ## Recommended Resources
 
+## Sources
+
+- [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
+- [PVWatts](https://pvwatts.nrel.gov/)
+- [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+- [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
+- [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
+
+
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

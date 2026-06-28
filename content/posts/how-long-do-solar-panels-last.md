@@ -114,6 +114,15 @@ Thirty years ago, people asked whether solar panels would even work. Today the q
 
 ## Recommended Resources
 
+## Sources
+
+- [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
+- [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
+- [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+- [Kindel Media](https://www.pexels.com/@kindelmedia)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**, Real-time power monitoring for individual devices, helps you track when your system's grid export changes.

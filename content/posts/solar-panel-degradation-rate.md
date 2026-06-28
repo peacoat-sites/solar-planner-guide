@@ -80,6 +80,15 @@ The 0.5% figure gets tossed around in sales pitches so casually it feels like ba
 
 ## Recommended Resources
 
+## Sources
+
+- [solar monitoring system](https://www.amazon.com/s?k=solar+monitoring+system&tag=contentportfo-20)
+- [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
+- [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
+- [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
+- [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

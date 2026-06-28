@@ -78,6 +78,15 @@ Massachusetts rewards homeowners who do their homework. The incentive stack is r
 
 ## Recommended Resources
 
+## Sources
+
+- [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor&tag=contentportfo-20)
+- [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
+- [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
+- [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
+- [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

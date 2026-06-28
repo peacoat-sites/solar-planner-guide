@@ -130,6 +130,15 @@ The federal solar tax credit in 2026 might be the most straightforward wealth-bu
 
 ## Recommended Resources
 
+## Sources
+
+- [EnergySage's market data](https://news.energysage.com/)
+- [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
+- [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
+- [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
+- [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

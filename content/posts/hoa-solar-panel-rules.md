@@ -124,6 +124,15 @@ The process of getting HOA approval for solar panels can feel like an obstacle c
 
 ## Recommended Resources
 
+## Sources
+
+- [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
+- [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
+- [U.S. Department of Energy's homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+- [whole-home energy monitor](https://www.amazon.com/s?k=whole+home+energy+monitor+solar)
+- [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

@@ -130,6 +130,15 @@ Solar is a strong financial investment for a lot of homeowners, but not for all 
 
 ## Recommended Resources
 
+## Sources
+
+- [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
+- [NREL's PVWatts tool](https://www.nrel.gov/)
+- [Emporia Vue 2 Smart Home Energy Monitor](https://www.amazon.com/s?k=emporia+vue+2+energy+monitor&tag=contentportfo-20)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+- [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.

@@ -124,6 +124,15 @@ The battery question doesn't have a universal answer, but it has a right answer 
 
 ## Recommended Resources
 
+## Sources
+
+- [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
+- [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
+- [home energy monitor like the Emporia Vue 2](https://www.amazon.com/s?k=emporia+vue+2+energy+monitor)
+- [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
+- [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
