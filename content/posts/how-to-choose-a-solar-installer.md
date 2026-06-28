@@ -39,6 +39,9 @@ Most homeowners spend more time choosing a Netflix show than vetting the company
 
 ## Why Your Choice of Installer Matters More Than Your Choice of Panels
 
+**"Solar only works in sunny climates"**: Most people think solar panels are worthless north of the Sun Belt. But Germany—ranked 4th globally in solar capacity despite averaging just 3.5 peak sun hours daily (vs. 5+ in Arizona)—generates 8% of its electricity from solar. The National Renewable Energy Laboratory found that even cloudy states like Washington and Massachusetts see 70-80% the efficiency of sunny California. Modern panels convert diffuse light effectively, meaning you don't need blue skies to generate power. Location matters less than roof orientation, shading, and incentives. If Germany can make solar work, your climate probably can too.
+
+
 The panels get all the attention. Monocrystalline vs. polycrystalline, efficiency ratings, degradation curves. Meanwhile, the installer is the variable that actually determines whether your system performs, gets permitted correctly, passes inspection, and comes with warranty support that exists five years from now.
 
 A Tier 1 panel installed badly will underperform a mid-grade panel installed well. Poor wiring connections, incorrect azimuth angles, inadequate conduit sealing. I've seen brand-new systems underperform by 15-20% because of sloppy installation that took years to diagnose.
