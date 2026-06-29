@@ -6,6 +6,7 @@ slug: "solar-financing-calculator"
 author: "Derek Sato"
 categories: ["Solar Calculators"]
 layout: "page"
+image: "https://images.pexels.com/photos/5942528/pexels-photo-5942528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 How you finance your solar system matters almost as much as the system itself. A homeowner who buys with cash and one who signs a lease for the same system will have very different financial outcomes over 25 years — even if both see lower electric bills from day one. This calculator lets you model all three major financing paths so you can see exactly what each one means for your budget and long-term return.

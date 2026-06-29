@@ -6,6 +6,7 @@ slug: "solar-savings-calculator"
 author: "Derek Sato"
 categories: ["Solar Calculators"]
 layout: "page"
+image: "https://images.pexels.com/photos/6963925/pexels-photo-6963925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Understanding how much money solar panels can save you is the essential first step before you talk to any installer. Too many homeowners walk into a quote conversation without a baseline, which makes it difficult to evaluate whether a proposal is fair. This calculator gives you that baseline — a credible, state-specific estimate you can use as a reference point.
