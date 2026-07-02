@@ -3,7 +3,7 @@ title: "Midwest Solar Energy Guide"
 date: 2026-07-02T10:18:27.548154+00:00
 draft: false
 description: "Discover the best solar energy options for Midwest homeowners. Learn about costs, incentives, top panels, and how to maximize sunlight in your region."
-image: ""
+image: "https://images.pexels.com/photos/35425754/pexels-photo-35425754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Solar Guides"]
 tags: ["midwest", "solar", "energy", "guide"]
 author: "Alex Rivera"

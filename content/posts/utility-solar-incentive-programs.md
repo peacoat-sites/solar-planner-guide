@@ -3,7 +3,7 @@ title: "Utility Solar Incentive Programs"
 date: 2026-07-02T10:15:40.486550+00:00
 draft: false
 description: "Explore utility solar incentive programs that help homeowners and businesses save money on solar installations through rebates, tax credits, and more."
-image: ""
+image: "https://images.pexels.com/photos/19205947/pexels-photo-19205947.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Tax Credits & Incentives"]
 tags: ["utility", "solar", "incentive", "programs"]
 author: "Craig Stevens"
