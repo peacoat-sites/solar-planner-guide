@@ -13,16 +13,16 @@ author_bio: "Craig Stevens is a financial advisor who has helped dozens of clien
 slug: "solar-panel-degradation-rate"
 affiliate_disclosure: true
 faqs:
-  - q: "What is the average solar panel degradation rate?"
-    a: "Most modern monocrystalline panels degrade at roughly 0.5% per year, based on NREL field research. Premium manufacturers like Panasonic and REC Group advertise rates as low as 0.25% annually, while older or lower-quality panels can exceed 1% per year."
-  - q: "How much output will I lose over 25 years?"
-    a: "At a 0.5% annual rate, you'll lose approximately 11-12% of your original output by year 25. At 0.8% (a common warranty ceiling), that loss climbs to around 18%. Neither number is catastrophic, but the difference between a 0.25% and a 1% panel compounds into thousands of kilowatt-hours over a system's lifetime."
-  - q: "Does hot weather make solar panels degrade faster?"
-    a: "Yes. High ambient temperatures and extreme thermal cycling accelerate degradation, particularly in climates like Arizona or Texas. NREL's field studies show measurably higher degradation rates in hot-desert climates compared to cooler or temperate regions."
-  - q: "What's the difference between a linear and a stepped performance warranty?"
-    a: "A linear warranty guarantees a consistent annual minimum output floor throughout the warranty period. A stepped warranty only guarantees output at two or three checkpoints (e.g., year 10 and year 25), leaving gaps where the manufacturer isn't accountable for faster degradation in between. Linear is better."
-  - q: "Can degradation be reversed or slowed down?"
-    a: "No, degradation can't be reversed. You can slow it slightly by keeping panels clean (dirt and grime add thermal stress) and ensuring your system is properly grounded to prevent potential-induced degradation, but the underlying cell chemistry aging is irreversible. A well-installed, high-quality panel from a reputable manufacturer is your best defense before the system ever goes on the roof."
+ - q: "What is the average solar panel degradation rate?"
+ a: "Most modern monocrystalline panels degrade at roughly 0.5% per year, based on NREL field research. Premium manufacturers like Panasonic and REC Group advertise rates as low as 0.25% annually, while older or lower-quality panels can exceed 1% per year."
+ - q: "How much output will I lose over 25 years?"
+ a: "At a 0.5% annual rate, you'll lose approximately 11-12% of your original output by year 25. At 0.8% (a common warranty ceiling), that loss climbs to around 18%. Neither number is catastrophic, but the difference between a 0.25% and a 1% panel compounds into thousands of kilowatt-hours over a system's lifetime."
+ - q: "Does hot weather make solar panels degrade faster?"
+ a: "Yes. High ambient temperatures and extreme thermal cycling accelerate degradation, particularly in climates like Arizona or Texas. NREL's field studies show measurably higher degradation rates in hot-desert climates compared to cooler or temperate regions."
+ - q: "What's the difference between a linear and a stepped performance warranty?"
+ a: "A linear warranty guarantees a consistent annual minimum output floor throughout the warranty period. A stepped warranty only guarantees output at two or three checkpoints (e.g., year 10 and year 25), leaving gaps where the manufacturer isn't accountable for faster degradation in between. Linear is better."
+ - q: "Can degradation be reversed or slowed down?"
+ a: "No, degradation can't be reversed. You can slow it slightly by keeping panels clean (dirt and grime add thermal stress) and ensuring your system is properly grounded to prevent potential-induced degradation, but the underlying cell chemistry aging is irreversible. A well-installed, high-quality panel from a reputable manufacturer is your best defense before the system ever goes on the roof."
 ---
 Every solar panel on your roof is slowly dying. That's not a scare tactic, it's physics. The real question isn't whether degradation happens, it will, but how fast it happens, and whether the number your installer quoted is actually believable.
 

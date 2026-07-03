@@ -11,10 +11,7 @@ author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "solar-roi-without-the-30-tax-credit-how-to-recalculate-now"
-affiliate_disclosure: true
----
-
-Most solar coverage this summer is treating the death of the 30% federal tax credit like a weather event, something unfortunate that happened and now we move on. That framing misses the real problem. The credit wasn't a nice bonus. For most homeowners, it was the entire financial justification for buying a system outright. Without it, the ROI math doesn't just get worse. It breaks in some cases, and requires a full rebuild in others.
+affiliate_disclosure: true, Most solar coverage this summer is treating the death of the 30% federal tax credit like a weather event, something unfortunate that happened and now we move on. That framing misses the real problem. The credit wasn't a nice bonus. For most homeowners, it was the entire financial justification for buying a system outright. Without it, the ROI math doesn't just get worse. It breaks in some cases, and requires a full rebuild in others.
 
 Here's where things stand: BloombergNEF confirmed on June 15, 2026 that U.S. residential solar installations are tracking toward just 4.1 GW this year, down 15% from 2025 and the lowest level since 2021. The One Big Beautiful Bill Act, signed July 4, 2025, ended Section 25D permanently as of December 31, 2025. If you didn't close on your system before New Year's, that credit is gone. No phase-out, no grandfathering for contracts in progress. Gone.
 

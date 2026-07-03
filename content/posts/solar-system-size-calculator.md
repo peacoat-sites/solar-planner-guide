@@ -13,16 +13,16 @@ author_bio: "Derek Hansen has pulled permits and installed solar systems in thre
 slug: "solar-system-size-calculator"
 affiliate_disclosure: true
 faqs:
-  - q: "How accurate is the kWh-based sizing formula?"
-    a: "It gets you within 10-15% of what a full professional design will show, which is accurate enough to evaluate quotes. The main thing it doesn't capture is detailed shading analysis, which requires site-specific modeling software to do properly."
-  - q: "Should I size my solar system to cover 100% of my electricity use?"
-    a: "Usually yes, but not always. If your utility has strong net metering with near-retail export credits, 100% offset makes sense. If export rates are poor (California NEM 3.0, parts of Florida, some rural co-ops), sizing to 80-90% and pairing with a battery for self-consumption often produces better economics."
-  - q: "Does adding a battery storage system change how I size the solar array?"
-    a: "Yes, slightly. With a battery like a Tesla Powerwall 3 or Enphase IQ Battery 5P, you're capturing more of your own production rather than exporting it, which can justify a marginally larger array. The more meaningful design change is time-of-use rate optimization, where you size the system around morning and evening peaks rather than just annual kWh totals."
-  - q: "What if my roof can't fit the system size I calculated?"
-    a: "Then you have four options: accept partial offset, use higher-wattage panels to maximize limited space, consider a ground mount if you have yard space, or reduce your electricity consumption first (LED lighting, efficient appliances, better insulation) to shrink the required system size. Demand reduction often has better ROI than the incremental solar capacity anyway."
-  - q: "How many solar panels do I need for a 2,000-square-foot house?"
-    a: "There's no reliable answer to this question because square footage doesn't determine electricity use. A 2,000-square-foot house in Minnesota with gas heat and no pool might use 8,000 kWh per year. The same-sized house in Texas with electric everything might use 18,000. Get your actual annual kWh from your utility bill. That number tells you everything; the square footage tells you almost nothing."
+ - q: "How accurate is the kWh-based sizing formula?"
+ a: "It gets you within 10-15% of what a full professional design will show, which is accurate enough to evaluate quotes. The main thing it doesn't capture is detailed shading analysis, which requires site-specific modeling software to do properly."
+ - q: "Should I size my solar system to cover 100% of my electricity use?"
+ a: "Usually yes, but not always. If your utility has strong net metering with near-retail export credits, 100% offset makes sense. If export rates are poor (California NEM 3.0, parts of Florida, some rural co-ops), sizing to 80-90% and pairing with a battery for self-consumption often produces better economics."
+ - q: "Does adding a battery storage system change how I size the solar array?"
+ a: "Yes, slightly. With a battery like a Tesla Powerwall 3 or Enphase IQ Battery 5P, you're capturing more of your own production rather than exporting it, which can justify a marginally larger array. The more meaningful design change is time-of-use rate optimization, where you size the system around morning and evening peaks rather than just annual kWh totals."
+ - q: "What if my roof can't fit the system size I calculated?"
+ a: "Then you have four options: accept partial offset, use higher-wattage panels to maximize limited space, consider a ground mount if you have yard space, or reduce your electricity consumption first (LED lighting, efficient appliances, better insulation) to shrink the required system size. Demand reduction often has better ROI than the incremental solar capacity anyway."
+ - q: "How many solar panels do I need for a 2,000-square-foot house?"
+ a: "There's no reliable answer to this question because square footage doesn't determine electricity use. A 2,000-square-foot house in Minnesota with gas heat and no pool might use 8,000 kWh per year. The same-sized house in Texas with electric everything might use 18,000. Get your actual annual kWh from your utility bill. That number tells you everything; the square footage tells you almost nothing."
 ---
 
 Most solar calculators are built by installers who want to sell you a system. That's not a conspiracy theory, it's just business. When the default output of a "free calculator" is always "yes, solar makes sense for you," you should wonder what variable they're rounding in your favor.

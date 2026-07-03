@@ -8,10 +8,10 @@ categories: ["Solar Costs & Savings"]
 tags: ["solar", "lease", "vs", "buy", "cost"]
 slug: "solar-lease-vs-buy-cost-comparison"
 faqs:
-  - q: "What Is a Solar Lease?"
-    a: "A solar lease is essentially a rental agreement. A solar company installs panels on your roof, owns those panels, and charges you a monthly fee to use the electricity they generate. Some leases charge a flat monthly rate, while others use a 'power purchase agreement' (PPA) structure where you pay per kilowatt-hour (kWh) of electricity produced, often at a rate lower than your utility company charges. Lease terms typically run 20–25 years. Many include a small annual rate escalator (usually 1–3%) built into the contract, meaning your monthly payment increases slightly each year."
-  - q: "What Does Buying Solar Mean?"
-    a: "Buying solar means you own the system outright. You can pay cash, or more commonly, finance the purchase through a solar loan. When you own the system, every kilowatt-hour it produces is yours, reducing your electricity bill dollar for dollar. You also receive all applicable incentives, including the federal solar Investment Tax Credit (ITC), which currently stands at 30% of the total system cost. [RELATED: how to choose the best solar loan for your home]"
+ - q: "What Is a Solar Lease?"
+ a: "A solar lease is essentially a rental agreement. A solar company installs panels on your roof, owns those panels, and charges you a monthly fee to use the electricity they generate. Some leases charge a flat monthly rate, while others use a 'power purchase agreement' (PPA) structure where you pay per kilowatt-hour (kWh) of electricity produced, often at a rate lower than your utility company charges. Lease terms typically run 20–25 years. Many include a small annual rate escalator (usually 1–3%) built into the contract, meaning your monthly payment increases slightly each year."
+ - q: "What Does Buying Solar Mean?"
+ a: "Buying solar means you own the system outright. You can pay cash, or more commonly, finance the purchase through a solar loan. When you own the system, every kilowatt-hour it produces is yours, reducing your electricity bill dollar for dollar. You also receive all applicable incentives, including the federal solar Investment Tax Credit (ITC), which currently stands at 30% of the total system cost. [RELATED: how to choose the best solar loan for your home]"
 author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"

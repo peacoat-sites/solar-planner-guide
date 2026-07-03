@@ -11,10 +11,7 @@ author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
 author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
 slug: "solar-prepaid-leases-the-last-federal-credit-window-closes-now"
-affiliate_disclosure: true
----
-
-The deadline everyone in residential solar has been dreading just arrived. July 4, 2026 was the hard cutoff for third-party solar providers to safe-harbor their projects under Section 48E, the commercial investment tax credit that became the last remaining federal incentive for residential solar after Congress eliminated the consumer-facing 30% credit at the end of 2025. If you've been sitting on the fence about going solar, or if an installer has been pressuring you to sign quickly, here's what's actually happening and why the prepaid lease structure is suddenly the most hotly debated financing option in the industry.
+affiliate_disclosure: true, The deadline everyone in residential solar has been dreading just arrived. July 4, 2026 was the hard cutoff for third-party solar providers to safe-harbor their projects under Section 48E, the commercial investment tax credit that became the last remaining federal incentive for residential solar after Congress eliminated the consumer-facing 30% credit at the end of 2025. If you've been sitting on the fence about going solar, or if an installer has been pressuring you to sign quickly, here's what's actually happening and why the prepaid lease structure is suddenly the most hotly debated financing option in the industry.
 
 ## What Just Changed and Why It Matters
 
@@ -60,12 +57,12 @@ The people who are going to get burned in this market aren't the ones who went s
 
 ## Sources
 
-- [Solar Market Insight Report Q2 2026 – SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (June 2026)
-- [Solar Tax Credit Deadline July 4, 2026 – Axis Intelligence](https://axis-intelligence.com/solar-tax-credit-deadline-july-2026/) (June 2026)
-- [Prepaid Leases Provide Pathway to Home-Owned Solar Projects – Solar Power World](https://www.solarpowerworldonline.com/2026/04/prepaid-leases-provide-pathway-to-home-owned-solar-projects/) (April 16, 2026)
-- [Prepaid Solar Leases & PPAs: A New Path for Going Solar in 2026 – Solar.com](https://www.solar.com/learn/prepaid-solar-leases-ppas/) (June 2026)
-- [Solar Incentives & Tax Credits in 2026: The Complete Guide – IntegrateSun](https://www.integratesun.com/solar-incentives-guide) (2026)
-- [US Residential Solar Market Trends 2026 – SurgePV](https://www.surgepv.com/blog/us-residential-solar-market-trends-2026) (May 25, 2026)
+- [Solar Market Insight Report Q2 2026, SEIA](https://seia.org/research-resources/solar-market-insight-report-q2-2026/) (June 2026)
+- [Solar Tax Credit Deadline July 4, 2026, Axis Intelligence](https://axis-intelligence.com/solar-tax-credit-deadline-july-2026/) (June 2026)
+- [Prepaid Leases Provide Pathway to Home-Owned Solar Projects, Solar Power World](https://www.solarpowerworldonline.com/2026/04/prepaid-leases-provide-pathway-to-home-owned-solar-projects/) (April 16, 2026)
+- [Prepaid Solar Leases & PPAs: A New Path for Going Solar in 2026, Solar.com](https://www.solar.com/learn/prepaid-solar-leases-ppas/) (June 2026)
+- [Solar Incentives & Tax Credits in 2026: The Complete Guide, IntegrateSun](https://www.integratesun.com/solar-incentives-guide) (2026)
+- [US Residential Solar Market Trends 2026, SurgePV](https://www.surgepv.com/blog/us-residential-solar-market-trends-2026) (May 25, 2026)
 
 ## Helpful Resources
 

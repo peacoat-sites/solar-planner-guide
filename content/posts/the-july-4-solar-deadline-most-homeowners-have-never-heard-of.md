@@ -11,10 +11,7 @@ author_slug: "patricia-moore"
 author_title: "Policy Writer"
 author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
 slug: "the-july-4-solar-deadline-most-homeowners-have-never-heard-of"
-affiliate_disclosure: true
----
-
-Most homeowners shopping for solar right now are focused on the wrong deadline. They've heard the 30% federal tax credit is gone, they've maybe looked at lease options as a workaround, and they're vaguely planning to "get quotes this summer." What almost none of them know is that July 4, 2026 is a hard cutoff that could make their lease or PPA meaningfully more expensive, and it's days away.
+affiliate_disclosure: true, Most homeowners shopping for solar right now are focused on the wrong deadline. They've heard the 30% federal tax credit is gone, they've maybe looked at lease options as a workaround, and they're vaguely planning to "get quotes this summer." What almost none of them know is that July 4, 2026 is a hard cutoff that could make their lease or PPA meaningfully more expensive, and it's days away.
 
 I'll be honest: when I first dug into this, I expected the usual fuzzy policy language with lots of wiggle room. What I found instead was a specific, binding construction-start requirement with real dollar consequences for anyone who misses it.
 
@@ -85,6 +82,6 @@ The harder truth is that the policy environment has gotten genuinely more compli
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

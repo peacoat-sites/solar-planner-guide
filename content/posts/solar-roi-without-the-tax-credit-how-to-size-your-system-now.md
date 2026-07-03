@@ -11,10 +11,7 @@ author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 slug: "solar-roi-without-the-tax-credit-how-to-size-your-system-now"
-affiliate_disclosure: true
----
-
-A homeowner in Orlando told me last month she was about to sign a contract for a 10-kilowatt system, then her installer mentioned, almost as an aside, that the federal tax credit was gone. She had no idea. She'd been budgeting around a $9,000 credit that no longer exists, and her payback calculation was completely wrong. That scenario is playing out across the country right now, and it's why the ROI framework most people are using is already obsolete.
+affiliate_disclosure: true, A homeowner in Orlando told me last month she was about to sign a contract for a 10-kilowatt system, then her installer mentioned, almost as an aside, that the federal tax credit was gone. She had no idea. She'd been budgeting around a $9,000 credit that no longer exists, and her payback calculation was completely wrong. That scenario is playing out across the country right now, and it's why the ROI framework most people are using is already obsolete.
 
 Here's the state of play: BloombergNEF's June 2026 report projects U.S. residential solar additions will hit just 4.1 GW this year, down 15% from 2025 and the lowest level in five years. More sobering, BloombergNEF says the market "is not expected to recover to the record levels of 2023 anytime in the next decade." This isn't a blip. The expiration of the Section 25D residential tax credit has fundamentally reset the economics, and the homeowners who understand that earliest will make the best decisions.
 
@@ -79,8 +76,8 @@ The national slowdown is real. BloombergNEF isn't wrong, and Canary Media's rece
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

@@ -11,10 +11,7 @@ author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
 slug: "the-prepaid-solar-lease-explained-how-the-6-year-flip-works"
-affiliate_disclosure: true
----
-
-A homeowner I spoke with last month had already gotten three quotes for a rooftop system, was ready to sign, and then found out the 30% federal tax credit she'd been counting on had quietly disappeared. She hadn't heard about the One Big Beautiful Bill Act. A lot of people haven't. Under that legislation, the Section 25D residential solar tax credit expired on December 31, 2025, and anyone buying panels outright in 2026 gets exactly zero federal incentive. That's a significant shift, and it's reshaping the market faster than most homeowners realize. If you're evaluating solar right now, there's a structure called the prepaid lease with a six-year ownership transfer that has essentially become the workaround, and there's a hard deadline bearing down on it.
+affiliate_disclosure: true, A homeowner I spoke with last month had already gotten three quotes for a rooftop system, was ready to sign, and then found out the 30% federal tax credit she'd been counting on had quietly disappeared. She hadn't heard about the One Big Beautiful Bill Act. A lot of people haven't. Under that legislation, the Section 25D residential solar tax credit expired on December 31, 2025, and anyone buying panels outright in 2026 gets exactly zero federal incentive. That's a significant shift, and it's reshaping the market faster than most homeowners realize. If you're evaluating solar right now, there's a structure called the prepaid lease with a six-year ownership transfer that has essentially become the workaround, and there's a hard deadline bearing down on it.
 
 ## Why the Tax Credit Disappearing Actually Matters More Than You Think
 
@@ -90,6 +87,6 @@ The prepaid lease isn't perfect, and it's not for everyone. But in a year when t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

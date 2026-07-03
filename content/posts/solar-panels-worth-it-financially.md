@@ -9,16 +9,16 @@ tags: ["solar", "panels", "worth", "financially"]
 slug: "solar-panels-worth-it-financially"
 affiliate_disclosure: true
 faqs:
-  - q: "How long do solar panels actually last?"
-    a: "Most solar panels come with a 25-year performance warranty guaranteeing at least 80% of their rated output. In practice, many systems keep producing well into their 30s. NREL research on panel degradation shows an average annual output decline of about 0.5% per year, meaning a panel that produces 400 watts today will produce roughly 380 watts in 10 years. That's slow enough that it rarely meaningfully impacts financial projections."
-  - q: "Does solar increase my home's value?"
-    a: "Generally, yes. Studies suggest owned solar adds roughly $4 to $5 per watt of installed capacity to a home's market value. A 6 kW system could add $24,000 to $30,000 in home value, though this varies by market. The effect is strongest in high-electricity-cost states where buyers immediately see the utility bill benefit. Leased systems don't add the same value and can actually complicate a sale if a buyer doesn't want to assume the lease."
-  - q: "What happens to my solar savings if my electricity rate drops?"
-    a: "It's unlikely over the long run but possible. If a major utility rate decrease happened, your savings would shrink proportionally. This is a real risk in deregulated energy markets or regions where cheap natural gas dominates. Most financial models assume relatively flat or modestly rising rates. If your utility is historically volatile, that's a variable worth discussing with your installer."
-  - q: "Is it better to buy solar with cash or a loan?"
-    a: "Cash purchases almost always yield the highest total return because you avoid interest costs entirely. If financing is your only option, look for a secured solar loan through a credit union or the federal Green Energy loan programs rather than a dealer-arranged loan, which often carries a 'dealer fee' buried in the system price that can inflate your true cost by 15 to 30%. Always compare the all-in cost of a cash purchase versus a financed one before deciding."
-  - q: "Can I go solar if I have an HOA?"
-    a: "Probably yes. Most states have 'solar access laws' that prevent HOAs from prohibiting solar installations, though they may regulate placement or aesthetics. Check your state's specific law before assuming your HOA can block you. California, Florida, Texas, and most other high-solar states have strong protections for homeowners."
+ - q: "How long do solar panels actually last?"
+ a: "Most solar panels come with a 25-year performance warranty guaranteeing at least 80% of their rated output. In practice, many systems keep producing well into their 30s. NREL research on panel degradation shows an average annual output decline of about 0.5% per year, meaning a panel that produces 400 watts today will produce roughly 380 watts in 10 years. That's slow enough that it rarely meaningfully impacts financial projections."
+ - q: "Does solar increase my home's value?"
+ a: "Generally, yes. Studies suggest owned solar adds roughly $4 to $5 per watt of installed capacity to a home's market value. A 6 kW system could add $24,000 to $30,000 in home value, though this varies by market. The effect is strongest in high-electricity-cost states where buyers immediately see the utility bill benefit. Leased systems don't add the same value and can actually complicate a sale if a buyer doesn't want to assume the lease."
+ - q: "What happens to my solar savings if my electricity rate drops?"
+ a: "It's unlikely over the long run but possible. If a major utility rate decrease happened, your savings would shrink proportionally. This is a real risk in deregulated energy markets or regions where cheap natural gas dominates. Most financial models assume relatively flat or modestly rising rates. If your utility is historically volatile, that's a variable worth discussing with your installer."
+ - q: "Is it better to buy solar with cash or a loan?"
+ a: "Cash purchases almost always yield the highest total return because you avoid interest costs entirely. If financing is your only option, look for a secured solar loan through a credit union or the federal Green Energy loan programs rather than a dealer-arranged loan, which often carries a 'dealer fee' buried in the system price that can inflate your true cost by 15 to 30%. Always compare the all-in cost of a cash purchase versus a financed one before deciding."
+ - q: "Can I go solar if I have an HOA?"
+ a: "Probably yes. Most states have 'solar access laws' that prevent HOAs from prohibiting solar installations, though they may regulate placement or aesthetics. Check your state's specific law before assuming your HOA can block you. California, Florida, Texas, and most other high-solar states have strong protections for homeowners."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
@@ -141,7 +141,7 @@ Solar is a strong financial investment for a lot of homeowners, but not for all 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

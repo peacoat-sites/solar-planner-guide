@@ -11,10 +11,7 @@ author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
 author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
 slug: "the-prepaid-solar-lease-is-now-the-smartest-way-to-go-solar"
-affiliate_disclosure: true
----
-
-Most solar coverage right now is either doom-and-gloom about the tax credit dying or cheerful nonsense about how "solar is still worth it!" Neither is useful. Here's what's actually happening: a financing structure that's been around for years just became, arguably, the best way to go solar in America. And it has a hard expiration date of July 4, 2026.
+affiliate_disclosure: true, Most solar coverage right now is either doom-and-gloom about the tax credit dying or cheerful nonsense about how "solar is still worth it!" Neither is useful. Here's what's actually happening: a financing structure that's been around for years just became, arguably, the best way to go solar in America. And it has a hard expiration date of July 4, 2026.
 
 The One Big Beautiful Bill Act killed the Section 25D residential solar tax credit for any system installed after December 31, 2025. Gone. On a typical $30,000 installation, that's roughly $9,000 in federal money that homeowners who own their systems outright simply no longer receive. Ohm Analytics initially modeled a 50% drop in customer-owned solar this year as a result, and BloombergNEF's June 15 report projects residential solar falling to 4.1 GW in 2026, down 15% from 2025 and the lowest in five years. The hangover from the ITC expiration is real.
 
@@ -90,6 +87,6 @@ The prepaid TPO model didn't appear in June 2026. It's been used in commercial s
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

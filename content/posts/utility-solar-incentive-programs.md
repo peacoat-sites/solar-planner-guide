@@ -13,16 +13,16 @@ author_bio: "Craig Stevens is a financial advisor who has helped dozens of clien
 slug: "utility-solar-incentive-programs"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the difference between a state solar incentive and a utility solar incentive?"
-    a: "State incentives come from your state government, like a state tax credit or a rebate funded by the state energy office. Utility incentives come directly from your electric utility company, funded through ratepayer charges or state mandates. You can often stack both, along with the federal tax credit."
-  - q: "Do utility rebates affect my federal tax credit?"
-    a: "Yes, they can. Utility rebates that come as up-front payments at the time of installation generally reduce your system's cost basis for calculating the 30% federal Investment Tax Credit. A $2,000 rebate on a $20,000 system means your tax credit is calculated on $18,000, not $20,000. SREC income and bill credits work differently and don't reduce the tax credit. Confirm with a tax professional."
-  - q: "How do I know if net metering is available in my area?"
-    a: "Check DSIRE first, then call your utility's interconnection department and ask directly. Your installer should also be able to tell you, but verify it independently because installers have an obvious interest in minimizing bad news. The export rate matters as much as whether net metering exists at all."
-  - q: "Can I participate in utility battery programs if I already have solar without storage?"
-    a: "In most cases, yes. Programs like Xcel's BYOD or Green Mountain Power's Powerwall lease don't require you to have solar. A battery alone qualifies in many states. Adding storage to an existing solar system is typically straightforward from an interconnection standpoint, though you may need a utility inspection."
-  - q: "Are utility incentive programs available in states without a renewable portfolio standard?"
-    a: "Some are, though fewer. States without an RPS have less regulatory pressure on utilities to fund solar programs. That said, some rural electric co-ops and municipal utilities in RPS-free states run their own programs independently. It's worth checking even if your state doesn't have a strong renewable policy. Texas is a good example: the state has almost no solar mandates, yet some Texas co-ops run decent net metering programs because their members asked for them."
+ - q: "What's the difference between a state solar incentive and a utility solar incentive?"
+ a: "State incentives come from your state government, like a state tax credit or a rebate funded by the state energy office. Utility incentives come directly from your electric utility company, funded through ratepayer charges or state mandates. You can often stack both, along with the federal tax credit."
+ - q: "Do utility rebates affect my federal tax credit?"
+ a: "Yes, they can. Utility rebates that come as up-front payments at the time of installation generally reduce your system's cost basis for calculating the 30% federal Investment Tax Credit. A $2,000 rebate on a $20,000 system means your tax credit is calculated on $18,000, not $20,000. SREC income and bill credits work differently and don't reduce the tax credit. Confirm with a tax professional."
+ - q: "How do I know if net metering is available in my area?"
+ a: "Check DSIRE first, then call your utility's interconnection department and ask directly. Your installer should also be able to tell you, but verify it independently because installers have an obvious interest in minimizing bad news. The export rate matters as much as whether net metering exists at all."
+ - q: "Can I participate in utility battery programs if I already have solar without storage?"
+ a: "In most cases, yes. Programs like Xcel's BYOD or Green Mountain Power's Powerwall lease don't require you to have solar. A battery alone qualifies in many states. Adding storage to an existing solar system is typically straightforward from an interconnection standpoint, though you may need a utility inspection."
+ - q: "Are utility incentive programs available in states without a renewable portfolio standard?"
+ a: "Some are, though fewer. States without an RPS have less regulatory pressure on utilities to fund solar programs. That said, some rural electric co-ops and municipal utilities in RPS-free states run their own programs independently. It's worth checking even if your state doesn't have a strong renewable policy. Texas is a good example: the state has almost no solar mandates, yet some Texas co-ops run decent net metering programs because their members asked for them."
 ---
 
 Most homeowners who go solar focus entirely on the federal tax credit and stop there. That's understandable. The 30% Investment Tax Credit is real money and easy to understand. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.
@@ -141,6 +141,6 @@ The one I'd approach skeptically: "green tariff" programs where you pay a premiu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

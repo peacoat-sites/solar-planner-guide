@@ -13,16 +13,16 @@ author_bio: "Nadia Patel approaches solar from an environmental and lifecycle pe
 slug: "solar-panel-cleaning-and-maintenance-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "How often should I clean my solar panels?"
-    a: "Once a year (early spring) is fine for most homeowners in rainy climates. In dry, dusty, or arid regions, 3 to 4 times annually makes financial sense if you're doing it yourself. Spot-clean bird droppings immediately whenever you notice them rather than waiting for a scheduled session."
-  - q: "Can I use a pressure washer to clean solar panels?"
-    a: "No. Pressure washers can compromise the sealant around panel frames and void manufacturer warranties on some brands. A low-pressure garden hose and a soft-bristle brush do the job without the risk."
-  - q: "Will cleaning my panels actually increase my electricity production?"
-    a: "Yes, but how much depends on your climate. In arid regions, cleaning can recover 5 to 25% of lost output depending on how long panels have gone without cleaning. In wetter climates, gains are modest, usually 1 to 3%. Run your monitoring data before and after to see your specific result."
-  - q: "Do solar panels need professional maintenance, or can I do it myself?"
-    a: "DIY cleaning is totally reasonable if your panels are accessible without roof climbing. Professional inspections every 3 to 5 years make sense for checking mounts, wiring, and inverter health. Don't pay for professional cleaning four times a year if the DIY math doesn't pencil out."
-  - q: "Does rain clean solar panels well enough?"
-    a: "In wetter climates, often yes. Rain removes light dust accumulation reasonably well. But it does nothing for bird droppings, pollen that's baked on in summer heat, or the mineral deposits left behind when hard water evaporates. If you live somewhere with distinct dry seasons or hard tap water, don't count on rain alone."
+ - q: "How often should I clean my solar panels?"
+ a: "Once a year (early spring) is fine for most homeowners in rainy climates. In dry, dusty, or arid regions, 3 to 4 times annually makes financial sense if you're doing it yourself. Spot-clean bird droppings immediately whenever you notice them rather than waiting for a scheduled session."
+ - q: "Can I use a pressure washer to clean solar panels?"
+ a: "No. Pressure washers can compromise the sealant around panel frames and void manufacturer warranties on some brands. A low-pressure garden hose and a soft-bristle brush do the job without the risk."
+ - q: "Will cleaning my panels actually increase my electricity production?"
+ a: "Yes, but how much depends on your climate. In arid regions, cleaning can recover 5 to 25% of lost output depending on how long panels have gone without cleaning. In wetter climates, gains are modest, usually 1 to 3%. Run your monitoring data before and after to see your specific result."
+ - q: "Do solar panels need professional maintenance, or can I do it myself?"
+ a: "DIY cleaning is totally reasonable if your panels are accessible without roof climbing. Professional inspections every 3 to 5 years make sense for checking mounts, wiring, and inverter health. Don't pay for professional cleaning four times a year if the DIY math doesn't pencil out."
+ - q: "Does rain clean solar panels well enough?"
+ a: "In wetter climates, often yes. Rain removes light dust accumulation reasonably well. But it does nothing for bird droppings, pollen that's baked on in summer heat, or the mineral deposits left behind when hard water evaporates. If you live somewhere with distinct dry seasons or hard tap water, don't count on rain alone."
 ---
 
 My first year consulting, I watched a homeowner in Phoenix lose almost 30% of his monthly output and spend four months blaming his inverter before we figured out the real problem: a thick crust of dust and bird droppings had essentially turned his south-facing panels into shade structures. A $40 cleaning fixed what he was convinced would be a $1,200 inverter replacement.
@@ -129,6 +129,6 @@ Per the [U.S. Department of Energy's homeowner solar guide](https://www.energy.g
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

@@ -13,16 +13,16 @@ author_bio: "Patricia Moore tracks solar legislation, utility policy, and state 
 slug: "solar-panel-installation-timeline-what-to-expect"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does solar installation take from start to finish?"
-    a: "The national median is roughly two to three months, but regional variation is significant. Simple systems in fast-permitting states can wrap in five to seven weeks; complex projects in slow utility territories can take four to six months. Ask your installer for their average timeline specifically within your utility's service area."
-  - q: "Why is my solar system installed but not turned on yet?"
-    a: "You're waiting for permission-to-operate (PTO) from your utility, which can only be granted after a utility inspection and meter upgrade. This is normal and has nothing to do with your installer's performance. Depending on your utility, this wait can run one to eight weeks."
-  - q: "Can I speed up the solar permitting process?"
-    a: "Not much, directly. Some installers use expedited permit services or have established relationships with local building departments that reduce back-and-forth. Choosing an installer who has done many projects in your specific town or county is the single most effective way to keep permitting fast."
-  - q: "Does adding battery storage make installation take longer?"
-    a: "Yes, usually by one to four weeks. Battery systems require additional electrical work, a separate permit in many jurisdictions, and sometimes a dedicated utility review. The Enphase IQ Battery and Tesla Powerwall are both common additions that reliably add time and cost to the project."
-  - q: "What happens if I turn on my solar panels before getting utility approval?"
-    a: "Don't. Energizing a grid-tied system before PTO is granted violates your interconnection agreement and can result in the utility disconnecting your system or requiring a new inspection. It can also void your warranty with some inverter manufacturers."
+ - q: "How long does solar installation take from start to finish?"
+ a: "The national median is roughly two to three months, but regional variation is significant. Simple systems in fast-permitting states can wrap in five to seven weeks; complex projects in slow utility territories can take four to six months. Ask your installer for their average timeline specifically within your utility's service area."
+ - q: "Why is my solar system installed but not turned on yet?"
+ a: "You're waiting for permission-to-operate (PTO) from your utility, which can only be granted after a utility inspection and meter upgrade. This is normal and has nothing to do with your installer's performance. Depending on your utility, this wait can run one to eight weeks."
+ - q: "Can I speed up the solar permitting process?"
+ a: "Not much, directly. Some installers use expedited permit services or have established relationships with local building departments that reduce back-and-forth. Choosing an installer who has done many projects in your specific town or county is the single most effective way to keep permitting fast."
+ - q: "Does adding battery storage make installation take longer?"
+ a: "Yes, usually by one to four weeks. Battery systems require additional electrical work, a separate permit in many jurisdictions, and sometimes a dedicated utility review. The Enphase IQ Battery and Tesla Powerwall are both common additions that reliably add time and cost to the project."
+ - q: "What happens if I turn on my solar panels before getting utility approval?"
+ a: "Don't. Energizing a grid-tied system before PTO is granted violates your interconnection agreement and can result in the utility disconnecting your system or requiring a new inspection. It can also void your warranty with some inverter manufacturers."
 ---
 
 Most guides on this topic open with "the process is simpler than you think!" That's not always true, and it sets up homeowners for frustration when their installation drags into month three.
@@ -135,6 +135,6 @@ The honest summary of all this: solar installation isn't complicated, but the ca
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 
