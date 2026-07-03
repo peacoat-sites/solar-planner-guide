@@ -11,7 +11,9 @@ author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
 author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
 slug: "how-long-does-a-powerwall-last"
-affiliate_disclosure: true, Most people asking "how long does a Powerwall last?" are really asking two different questions without realizing it. The first is about battery lifespan: how many years before this thing degrades to the point of being useless? The second is about daily runtime: if the grid goes down tonight, how many hours will my house actually stay powered? Both matter enormously, and the answers are more complicated than Tesla's marketing page lets on.
+affiliate_disclosure: true
+---
+Most people asking "how long does a Powerwall last?" are really asking two different questions without realizing it. The first is about battery lifespan: how many years before this thing degrades to the point of being useless? The second is about daily runtime: if the grid goes down tonight, how many hours will my house actually stay powered? Both matter enormously, and the answers are more complicated than Tesla's marketing page lets on.
 
 I'll be honest, when I started digging into this, I expected to find a straightforward warranty number and call it a day. What I found instead was a more nuanced story about chemistry, usage patterns, climate conditions, and the gap between what Tesla promises and what real homeowners are experiencing after five or six years of daily cycling.
 

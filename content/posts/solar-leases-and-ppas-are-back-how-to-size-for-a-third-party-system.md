@@ -11,7 +11,9 @@ author_slug: "patricia-moore"
 author_title: "Policy Writer"
 author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
 slug: "solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system"
-affiliate_disclosure: true, The 30% federal tax credit that defined residential solar for thirty years is gone. The One Big Beautiful Bill Act, signed July 4, 2025, killed the Section 25D homeowner credit for systems installed after December 31, 2025. Most coverage since then has focused on the loss. What it's missed is the opening: leases and PPAs are now the only residential financing path that still touches federal solar incentives, and they're structured completely differently from the buy-and-own model most homeowners have been taught to evaluate.
+affiliate_disclosure: true
+---
+The 30% federal tax credit that defined residential solar for thirty years is gone. The One Big Beautiful Bill Act, signed July 4, 2025, killed the Section 25D homeowner credit for systems installed after December 31, 2025. Most coverage since then has focused on the loss. What it's missed is the opening: leases and PPAs are now the only residential financing path that still touches federal solar incentives, and they're structured completely differently from the buy-and-own model most homeowners have been taught to evaluate.
 
 If you're shopping solar in 2026, you need a different framework.
 

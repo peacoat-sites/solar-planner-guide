@@ -11,7 +11,9 @@ author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 slug: "how-your-solar-battery-can-now-earn-money-through-vpps"
-affiliate_disclosure: true, Something big shifted in how home solar makes financial sense, and it happened in the last two weeks of June 2026. On June 24th, Sunrun, Tesla, and Renew Home announced a deal to build a 16 gigawatt virtual power plant, the largest in US history, by aggregating home batteries and smart thermostats to power data centers. Three hundred megawatts are ready to deploy right now in Virginia alone. If you've been sitting on the fence about adding a battery to your solar system, or wondering how solar even pencils out anymore without the federal tax credit, this is the news that changes the math.
+affiliate_disclosure: true
+---
+Something big shifted in how home solar makes financial sense, and it happened in the last two weeks of June 2026. On June 24th, Sunrun, Tesla, and Renew Home announced a deal to build a 16 gigawatt virtual power plant, the largest in US history, by aggregating home batteries and smart thermostats to power data centers. Three hundred megawatts are ready to deploy right now in Virginia alone. If you've been sitting on the fence about adding a battery to your solar system, or wondering how solar even pencils out anymore without the federal tax credit, this is the news that changes the math.
 
 ## What a Virtual Power Plant Actually Is (and Why Your Battery Qualifies)
 

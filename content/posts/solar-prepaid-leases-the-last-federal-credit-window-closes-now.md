@@ -11,7 +11,9 @@ author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
 author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
 slug: "solar-prepaid-leases-the-last-federal-credit-window-closes-now"
-affiliate_disclosure: true, The deadline everyone in residential solar has been dreading just arrived. July 4, 2026 was the hard cutoff for third-party solar providers to safe-harbor their projects under Section 48E, the commercial investment tax credit that became the last remaining federal incentive for residential solar after Congress eliminated the consumer-facing 30% credit at the end of 2025. If you've been sitting on the fence about going solar, or if an installer has been pressuring you to sign quickly, here's what's actually happening and why the prepaid lease structure is suddenly the most hotly debated financing option in the industry.
+affiliate_disclosure: true
+---
+The deadline everyone in residential solar has been dreading just arrived. July 4, 2026 was the hard cutoff for third-party solar providers to safe-harbor their projects under Section 48E, the commercial investment tax credit that became the last remaining federal incentive for residential solar after Congress eliminated the consumer-facing 30% credit at the end of 2025. If you've been sitting on the fence about going solar, or if an installer has been pressuring you to sign quickly, here's what's actually happening and why the prepaid lease structure is suddenly the most hotly debated financing option in the industry.
 
 ## What Just Changed and Why It Matters
 

@@ -11,7 +11,9 @@ author_slug: "patricia-moore"
 author_title: "Policy Writer"
 author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
 slug: "the-july-4-solar-deadline-most-homeowners-have-never-heard-of"
-affiliate_disclosure: true, Most homeowners shopping for solar right now are focused on the wrong deadline. They've heard the 30% federal tax credit is gone, they've maybe looked at lease options as a workaround, and they're vaguely planning to "get quotes this summer." What almost none of them know is that July 4, 2026 is a hard cutoff that could make their lease or PPA meaningfully more expensive, and it's days away.
+affiliate_disclosure: true
+---
+Most homeowners shopping for solar right now are focused on the wrong deadline. They've heard the 30% federal tax credit is gone, they've maybe looked at lease options as a workaround, and they're vaguely planning to "get quotes this summer." What almost none of them know is that July 4, 2026 is a hard cutoff that could make their lease or PPA meaningfully more expensive, and it's days away.
 
 I'll be honest: when I first dug into this, I expected the usual fuzzy policy language with lots of wiggle room. What I found instead was a specific, binding construction-start requirement with real dollar consequences for anyone who misses it.
 

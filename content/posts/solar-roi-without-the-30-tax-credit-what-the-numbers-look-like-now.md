@@ -11,7 +11,9 @@ author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
 slug: "solar-roi-without-the-30-tax-credit-what-the-numbers-look-like-now"
-affiliate_disclosure: true, Most of the solar ROI calculators online will show you a payback period of 6 to 9 years. What they won't tell you is that those numbers are built on a tax credit that no longer exists.
+affiliate_disclosure: true
+---
+Most of the solar ROI calculators online will show you a payback period of 6 to 9 years. What they won't tell you is that those numbers are built on a tax credit that no longer exists.
 
 The One Big Beautiful Bill, signed on July 4, 2025, killed the 30% federal residential solar tax credit ahead of schedule. The IRA had originally extended it through 2034. Congress yanked it effective December 31, 2025, and the market is already reacting hard. A BloombergNEF report released June 15, 2026 projects U.S. residential solar additions will fall to just 4.1 GW this year, down 15% from 2025 and the lowest level in five years. More sobering: BloombergNEF doesn't expect a recovery to 2023 record levels within the next decade.
 

@@ -11,7 +11,9 @@ author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
 author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
 slug: "how-to-size-a-solar-system-when-the-tax-credit-is-gone"
-affiliate_disclosure: true, If you're staring at a solar quote right now, the math probably feels off. The 30% federal residential tax credit expired December 31, 2025, when the One Big Beautiful Bill took effect July 4, 2025. That changes almost everything about system size, payback, and whether buying solar makes sense at all.
+affiliate_disclosure: true
+---
+If you're staring at a solar quote right now, the math probably feels off. The 30% federal residential tax credit expired December 31, 2025, when the One Big Beautiful Bill took effect July 4, 2025. That changes almost everything about system size, payback, and whether buying solar makes sense at all.
 
 Here's the blunt reality: most solar advice you'll find online was written when a typical homeowner could pocket roughly $7,500 back from the federal government. That's gone for people who buy systems. The entire calculation needs to restart.
 
