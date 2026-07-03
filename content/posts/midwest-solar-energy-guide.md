@@ -14,15 +14,15 @@ slug: "midwest-solar-energy-guide"
 affiliate_disclosure: true
 faqs:
  - q: "Is the Midwest a good region for solar?"
- a: "Yes, genuinely, though not as strong as the Sunbelt. Most Midwest cities average 4.0 to 4.6 peak sun hours per day, which supports financially viable solar installations. The bigger variable is your state's net metering policy, not the sun itself."
+   a: "Yes, genuinely, though not as strong as the Sunbelt. Most Midwest cities average 4.0 to 4.6 peak sun hours per day, which supports financially viable solar installations. The bigger variable is your state's net metering policy, not the sun itself."
  - q: "Which Midwest states have the best solar incentives?"
- a: "Illinois leads the Midwest thanks to its Shines program and strong net metering, followed by Minnesota. Ohio, Indiana, and Missouri are workable but offer fewer state-level incentives, so your returns depend more heavily on the federal ITC and your utility's specific tariff."
+   a: "Illinois leads the Midwest thanks to its Shines program and strong net metering, followed by Minnesota. Ohio, Indiana, and Missouri are workable but offer fewer state-level incentives, so your returns depend more heavily on the federal ITC and your utility's specific tariff."
  - q: "How does winter affect solar production in the Midwest?"
- a: "Significantly in December and January, less than most people fear over a full year. Snow on panels temporarily reduces output but typically slides off on its own. Cold temperatures actually improve panel efficiency slightly. Expect 20-40% of peak production in midwinter months, with summer making up much of the difference."
+   a: "Significantly in December and January, less than most people fear over a full year. Snow on panels temporarily reduces output but typically slides off on its own. Cold temperatures actually improve panel efficiency slightly. Expect 20-40% of peak production in midwinter months, with summer making up much of the difference."
  - q: "What's the realistic payback period for Midwest solar?"
- a: "Budget for 9 to 13 years depending on your state, utility, and system design. Illinois homeowners with favorable net metering can see paybacks closer to 8-9 years. Missouri or Ohio homeowners with less supportive utility policies should realistically plan for 11-13 years."
+   a: "Budget for 9 to 13 years depending on your state, utility, and system design. Illinois homeowners with favorable net metering can see paybacks closer to 8-9 years. Missouri or Ohio homeowners with less supportive utility policies should realistically plan for 11-13 years."
  - q: "Should I wait for better technology or do solar now?"
- a: "Honestly, this question has come up for 15 years and the answer has consistently been: the savings you delay capturing are real money. Panel efficiency improvements are now incremental, not revolutionary. If your financial situation and roof condition work today, waiting for the 'next generation' usually costs more than it saves."
+   a: "Honestly, this question has come up for 15 years and the answer has consistently been: the savings you delay capturing are real money. Panel efficiency improvements are now incremental, not revolutionary. If your financial situation and roof condition work today, waiting for the 'next generation' usually costs more than it saves."
 ---
 
 Chicago gets about 4.2 peak sun hours per day on average. I know that number surprises people, because the first time I looked it up myself, I assumed the Midwest was basically a solar dead zone. It's not. But it's complicated enough that you deserve a straight answer instead of a sales pitch.

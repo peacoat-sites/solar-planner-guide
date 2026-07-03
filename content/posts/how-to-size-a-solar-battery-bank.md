@@ -14,15 +14,15 @@ slug: "how-to-size-a-solar-battery-bank"
 affiliate_disclosure: true
 faqs:
  - q: "How do I know if I need a battery at all?"
- a: "If you have good solar generation and low night usage, you might not need one, you'll export power to the grid during the day and draw at night, which works fine unless outages are common in your area. If you want backup power, live in an area with frequent outages, or have high time-of-use rates in the evening, a battery makes financial sense."
+   a: "If you have good solar generation and low night usage, you might not need one, you'll export power to the grid during the day and draw at night, which works fine unless outages are common in your area. If you want backup power, live in an area with frequent outages, or have high time-of-use rates in the evening, a battery makes financial sense."
  - q: "Does it matter what time of year I measure my usage?"
- a: "Yes. Use your worst month (usually winter if you heat, summer if you cool heavily). If you measure only summer and install a battery sized for that, you'll be undersized when your winter loads spike. Get a full year of data if you can, then size for the worst month."
+   a: "Yes. Use your worst month (usually winter if you heat, summer if you cool heavily). If you measure only summer and install a battery sized for that, you'll be undersized when your winter loads spike. Get a full year of data if you can, then size for the worst month."
  - q: "Can I add a second battery later if I undersized?"
- a: "Yes, most modern systems (Powerwall, Enphase, LG) are stackable. But installation costs money each time, and you pay more per kWh for the second battery than the first. It's usually cheaper to size right the first time."
+   a: "Yes, most modern systems (Powerwall, Enphase, LG) are stackable. But installation costs money each time, and you pay more per kWh for the second battery than the first. It's usually cheaper to size right the first time."
  - q: "What's the difference between on-grid and off-grid battery sizing?"
- a: "Off-grid is much more complicated because you have no grid backup. You're sizing for multi-day outages and seasonal variation. You typically need 3-5 days of autonomy, which means a much larger battery. Don't attempt off-grid sizing without a professional, the math is totally different."
+   a: "Off-grid is much more complicated because you have no grid backup. You're sizing for multi-day outages and seasonal variation. You typically need 3-5 days of autonomy, which means a much larger battery. Don't attempt off-grid sizing without a professional, the math is totally different."
  - q: "Do I need to account for battery efficiency losses?"
- a: "Yes. Batteries are about 85-95% efficient round-trip (charge and discharge). That 1.25 multiplier I mentioned earlier covers that. If you're doing manual math, assume 10% loss, so a 10 kWh need requires about 11.1 kWh of battery storage to account for losses."
+   a: "Yes. Batteries are about 85-95% efficient round-trip (charge and discharge). That 1.25 multiplier I mentioned earlier covers that. If you're doing manual math, assume 10% loss, so a 10 kWh need requires about 11.1 kWh of battery storage to account for losses."
 ---
 
 The first time I sat down to size a battery bank for my own home, I stared at my utility bill for about twenty minutes waiting for it to tell me the answer. It didn't. Nobody tells you that the math here is backwards from what you'd think.

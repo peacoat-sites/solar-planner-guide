@@ -14,15 +14,15 @@ slug: "solar-panels-in-ohio-guide"
 affiliate_disclosure: true
 faqs:
  - q: "How much do solar panels save in Ohio per month?"
- a: "A typical 8 kW system in Ohio offsets 900 to 1,100 kWh per month, which at current rates saves roughly $130 to $165 monthly. Actual savings depend on your utility, rate plan, and how much of your generation you consume directly versus export."
+   a: "A typical 8 kW system in Ohio offsets 900 to 1,100 kWh per month, which at current rates saves roughly $130 to $165 monthly. Actual savings depend on your utility, rate plan, and how much of your generation you consume directly versus export."
  - q: "Does Ohio get enough sun for solar panels to be worth it?"
- a: "Yes. Ohio averages 4.0 to 4.5 peak sun hours per day depending on location, with the southern part of the state (Cincinnati area) slightly outperforming Cleveland. That's enough to make solar financially viable, particularly given the long warranty periods on modern panels."
+   a: "Yes. Ohio averages 4.0 to 4.5 peak sun hours per day depending on location, with the southern part of the state (Cincinnati area) slightly outperforming Cleveland. That's enough to make solar financially viable, particularly given the long warranty periods on modern panels."
  - q: "Is there an Ohio state solar tax credit?"
- a: "No. Ohio does not currently offer a state income tax credit for residential solar. The 30% federal Investment Tax Credit is the main incentive available to Ohio homeowners, along with a property tax exemption that prevents your home's assessed value from rising due to the solar installation."
+   a: "No. Ohio does not currently offer a state income tax credit for residential solar. The 30% federal Investment Tax Credit is the main incentive available to Ohio homeowners, along with a property tax exemption that prevents your home's assessed value from rising due to the solar installation."
  - q: "What happens to net metering in Ohio if the rules change?"
- a: "Customers who install systems before any rule change are typically grandfathered under the existing terms for a set period, often 25 years. Getting installed while retail-rate net metering is still in place is a real reason not to delay if you're already leaning toward solar."
+   a: "Customers who install systems before any rule change are typically grandfathered under the existing terms for a set period, often 25 years. Getting installed while retail-rate net metering is still in place is a real reason not to delay if you're already leaning toward solar."
  - q: "How do I know if my roof is ready for solar in Ohio?"
- a: "A south-facing roof with minimal shading and at least 10 to 15 years of remaining life is ideal. If your roof is within five years of needing replacement, replace it first or negotiate to have it done as part of the solar project. Installing panels on a roof that needs work two years later means paying labor to remove and reinstall them."
+   a: "A south-facing roof with minimal shading and at least 10 to 15 years of remaining life is ideal. If your roof is within five years of needing replacement, replace it first or negotiate to have it done as part of the solar project. Installing panels on a roof that needs work two years later means paying labor to remove and reinstall them."
 ---
 
 Ohio gets about 178 sunny days per year. That sounds discouraging until you realize Germany, the country that essentially invented the modern solar incentive system, averages fewer. Ohio solar works. What doesn't work is going in blind, because this state has some genuinely unusual dynamics that most "best solar states" listicles never touch.

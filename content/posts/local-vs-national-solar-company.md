@@ -14,15 +14,15 @@ slug: "local-vs-national-solar-company"
 affiliate_disclosure: true
 faqs:
  - q: "Is a national solar company more reliable than a local one?"
- a: "Not necessarily. National companies have more brand recognition but aren't immune to financial trouble, as demonstrated by recent restructuring events in the industry. What matters more is the company's local license status, years in business, and the strength of the equipment manufacturer warranties backing your system."
+   a: "Not necessarily. National companies have more brand recognition but aren't immune to financial trouble, as demonstrated by recent restructuring events in the industry. What matters more is the company's local license status, years in business, and the strength of the equipment manufacturer warranties backing your system."
  - q: "Do local solar installers charge less than national companies?"
- a: "Generally yes. EnergySage marketplace data consistently shows national installers quoting higher prices per watt than local and regional competitors, often by $0.20 to $0.50/watt. On an average-sized system, that gap can exceed $3,000 before incentives."
+   a: "Generally yes. EnergySage marketplace data consistently shows national installers quoting higher prices per watt than local and regional competitors, often by $0.20 to $0.50/watt. On an average-sized system, that gap can exceed $3,000 before incentives."
  - q: "What happens to my warranty if my solar installer goes out of business?"
- a: "Your panel and inverter manufacturer warranties survive independently of your installer. For workmanship issues, your state contractor licensing board may offer recourse. This is true whether you used a local or national installer, which is why manufacturer warranty terms matter more than company-level warranties."
+   a: "Your panel and inverter manufacturer warranties survive independently of your installer. For workmanship issues, your state contractor licensing board may offer recourse. This is true whether you used a local or national installer, which is why manufacturer warranty terms matter more than company-level warranties."
  - q: "Should I use a solar comparison marketplace or contact installers directly?"
- a: "Using a marketplace like EnergySage first is useful for getting a price benchmark and seeing multiple quotes in one place. But also contact one or two local installers directly who may not participate in those platforms. Some of the best smaller companies don't pay marketplace listing fees."
+   a: "Using a marketplace like EnergySage first is useful for getting a price benchmark and seeing multiple quotes in one place. But also contact one or two local installers directly who may not participate in those platforms. Some of the best smaller companies don't pay marketplace listing fees."
  - q: "How do I verify a solar installer is legitimate?"
- a: "Check their contractor license on your state's licensing board website, confirm they carry liability insurance and workers' comp, look at their BBB profile and Google reviews (focus on responses to negative reviews), and ask how many systems they've installed in your specific utility territory. If they can't answer that last question, that tells you something."
+   a: "Check their contractor license on your state's licensing board website, confirm they carry liability insurance and workers' comp, look at their BBB profile and Google reviews (focus on responses to negative reviews), and ask how many systems they've installed in your specific utility territory. If they can't answer that last question, that tells you something."
 ---
 
 Most people treat this decision like it's a minor logistical detail. Pick a company, sign the paperwork, get some panels on the roof. What I've found, after helping homeowners sort through hundreds of these quotes, is that who installs your system matters almost as much as the system itself.

@@ -14,15 +14,15 @@ slug: "solar-installation-timeline-how-long"
 affiliate_disclosure: true
 faqs:
  - q: "How long does solar installation take from start to finish?"
- a: "Realistically, 3 to 5 months from contract signing to Permission to Operate. The physical installation takes one to three days, but permitting and utility interconnection account for most of the timeline. Your location is the biggest variable."
+   a: "Realistically, 3 to 5 months from contract signing to Permission to Operate. The physical installation takes one to three days, but permitting and utility interconnection account for most of the timeline. Your location is the biggest variable."
  - q: "Why do I have to wait so long after installation to turn my solar on?"
- a: "After the panels are installed, a local inspector has to approve the work, and then your utility has to issue a Permission to Operate (PTO). Until both of those happen, it's illegal to connect the system to the grid. Utility PTO timelines range from one week to three months depending on your provider and local grid conditions."
+   a: "After the panels are installed, a local inspector has to approve the work, and then your utility has to issue a Permission to Operate (PTO). Until both of those happen, it's illegal to connect the system to the grid. Utility PTO timelines range from one week to three months depending on your provider and local grid conditions."
  - q: "Can I speed up the solar permitting process?"
- a: "Somewhat. Choosing an experienced local installer who knows your jurisdiction helps. Some states have streamlined solar permit processes (California's AB 2188 is the most notable example). Keeping your system design simple, no battery, standard roof type, also reduces back-and-forth with the permit office."
+   a: "Somewhat. Choosing an experienced local installer who knows your jurisdiction helps. Some states have streamlined solar permit processes (California's AB 2188 is the most notable example). Keeping your system design simple, no battery, standard roof type, also reduces back-and-forth with the permit office."
  - q: "Does adding a battery backup make the process longer?"
- a: "Yes, typically by a few weeks. Batteries like the Tesla Powerwall or Enphase IQ Battery add complexity to the permit application and inspection, and some utilities require separate review for battery storage systems. Budget an extra two to four weeks if you're including storage."
+   a: "Yes, typically by a few weeks. Batteries like the Tesla Powerwall or Enphase IQ Battery add complexity to the permit application and inspection, and some utilities require separate review for battery storage systems. Budget an extra two to four weeks if you're including storage."
  - q: "What time of year is fastest for solar installation?"
- a: "Late fall and winter tend to have shorter installer backlogs, so you might actually get scheduled faster even if the weather seems counterintuitive. Spring and early summer are peak season for installations, which means longer waits for both scheduling and inspections. If you start the process in October, you may be operational by January rather than waiting until summer like everyone else who called in March."
+   a: "Late fall and winter tend to have shorter installer backlogs, so you might actually get scheduled faster even if the weather seems counterintuitive. Spring and early summer are peak season for installations, which means longer waits for both scheduling and inspections. If you start the process in October, you may be operational by January rather than waiting until summer like everyone else who called in March."
 ---
 Most people assume the whole thing takes a few weeks. I assumed that too, before I started tracking real installation timelines across hundreds of projects. The honest number? From the day you sign a contract to the day your panels are actually generating power, you're typically looking at **3 to 5 months**. Not days. Months.
 

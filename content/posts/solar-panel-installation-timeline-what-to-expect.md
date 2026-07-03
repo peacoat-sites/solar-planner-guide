@@ -14,15 +14,15 @@ slug: "solar-panel-installation-timeline-what-to-expect"
 affiliate_disclosure: true
 faqs:
  - q: "How long does solar installation take from start to finish?"
- a: "The national median is roughly two to three months, but regional variation is significant. Simple systems in fast-permitting states can wrap in five to seven weeks; complex projects in slow utility territories can take four to six months. Ask your installer for their average timeline specifically within your utility's service area."
+   a: "The national median is roughly two to three months, but regional variation is significant. Simple systems in fast-permitting states can wrap in five to seven weeks; complex projects in slow utility territories can take four to six months. Ask your installer for their average timeline specifically within your utility's service area."
  - q: "Why is my solar system installed but not turned on yet?"
- a: "You're waiting for permission-to-operate (PTO) from your utility, which can only be granted after a utility inspection and meter upgrade. This is normal and has nothing to do with your installer's performance. Depending on your utility, this wait can run one to eight weeks."
+   a: "You're waiting for permission-to-operate (PTO) from your utility, which can only be granted after a utility inspection and meter upgrade. This is normal and has nothing to do with your installer's performance. Depending on your utility, this wait can run one to eight weeks."
  - q: "Can I speed up the solar permitting process?"
- a: "Not much, directly. Some installers use expedited permit services or have established relationships with local building departments that reduce back-and-forth. Choosing an installer who has done many projects in your specific town or county is the single most effective way to keep permitting fast."
+   a: "Not much, directly. Some installers use expedited permit services or have established relationships with local building departments that reduce back-and-forth. Choosing an installer who has done many projects in your specific town or county is the single most effective way to keep permitting fast."
  - q: "Does adding battery storage make installation take longer?"
- a: "Yes, usually by one to four weeks. Battery systems require additional electrical work, a separate permit in many jurisdictions, and sometimes a dedicated utility review. The Enphase IQ Battery and Tesla Powerwall are both common additions that reliably add time and cost to the project."
+   a: "Yes, usually by one to four weeks. Battery systems require additional electrical work, a separate permit in many jurisdictions, and sometimes a dedicated utility review. The Enphase IQ Battery and Tesla Powerwall are both common additions that reliably add time and cost to the project."
  - q: "What happens if I turn on my solar panels before getting utility approval?"
- a: "Don't. Energizing a grid-tied system before PTO is granted violates your interconnection agreement and can result in the utility disconnecting your system or requiring a new inspection. It can also void your warranty with some inverter manufacturers."
+   a: "Don't. Energizing a grid-tied system before PTO is granted violates your interconnection agreement and can result in the utility disconnecting your system or requiring a new inspection. It can also void your warranty with some inverter manufacturers."
 ---
 
 Most guides on this topic open with "the process is simpler than you think!" That's not always true, and it sets up homeowners for frustration when their installation drags into month three.

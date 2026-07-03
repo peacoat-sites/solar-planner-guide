@@ -14,15 +14,15 @@ slug: "best-direction-to-face-solar-panels"
 affiliate_disclosure: true
 faqs:
  - q: "Does east or west facing matter if I can't do south?"
- a: "West is generally the better compromise for most U.S. homeowners. You'll capture afternoon sun when household demand is typically higher, and if you're on a TOU rate, that production may be worth more financially even though total kWh will be lower than south-facing."
+   a: "West is generally the better compromise for most U.S. homeowners. You'll capture afternoon sun when household demand is typically higher, and if you're on a TOU rate, that production may be worth more financially even though total kWh will be lower than south-facing."
  - q: "How much production do I lose with a north-facing roof?"
- a: "A lot. True north-facing panels in the northern hemisphere can underperform a south-facing system by 25-30% annually. In most cases, if your only usable roof space faces north, solar probably doesn't pencil out well. Ground-mount or a different section of roof are worth exploring first."
+   a: "A lot. True north-facing panels in the northern hemisphere can underperform a south-facing system by 25-30% annually. In most cases, if your only usable roof space faces north, solar probably doesn't pencil out well. Ground-mount or a different section of roof are worth exploring first."
  - q: "What if my south-facing roof is shaded but my east-facing roof is clear?"
- a: "Go east. Shading beats orientation every time as the dominant variable. A clear east-facing roof will outperform a shaded south-facing roof by a wide margin, and microinverters will help you capture every usable hour."
+   a: "Go east. Shading beats orientation every time as the dominant variable. A clear east-facing roof will outperform a shaded south-facing roof by a wide margin, and microinverters will help you capture every usable hour."
  - q: "Can I check my roof's direction myself before calling installers?"
- a: "Yes, and you should. Open Google Maps, search your address, switch to satellite view, and use the compass overlay. You can also stand in your backyard at solar noon (roughly 12:30-1 p.m. local time) and watch where shadows fall. A proper compass app on your phone will give you your roof's azimuth in seconds."
+   a: "Yes, and you should. Open Google Maps, search your address, switch to satellite view, and use the compass overlay. You can also stand in your backyard at solar noon (roughly 12:30-1 p.m. local time) and watch where shadows fall. A proper compass app on your phone will give you your roof's azimuth in seconds."
  - q: "Does panel direction affect how fast they pay for themselves?"
- a: "Directly, yes. A well-oriented south-facing system in a sunny state like Arizona typically pays back in 6-8 years on a 25-year panel lifespan. A poorly oriented or partially shaded system might be 11-13 years, which changes the math significantly on whether solar makes sense without battery storage or strong incentives."
+   a: "Directly, yes. A well-oriented south-facing system in a sunny state like Arizona typically pays back in 6-8 years on a 25-year panel lifespan. A poorly oriented or partially shaded system might be 11-13 years, which changes the math significantly on whether solar makes sense without battery storage or strong incentives."
 ---
 
 My neighbor across the street got a quote last spring, signed off on a west-facing roof installation without asking a single question about orientation, and is now generating about 15% less power than she would have with a south-facing array. Her installer never brought it up. That's the situation I want to save you from.
