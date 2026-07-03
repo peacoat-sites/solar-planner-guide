@@ -13,16 +13,16 @@ author_bio: "Patricia Moore tracks solar legislation, utility policy, and state 
 slug: "how-to-read-a-solar-electricity-bill"
 affiliate_disclosure: true
 faqs:
-  - q: "Why is my solar bill showing a credit but I still owe money?"
-    a: "Net metering credits reduce your energy charges, but they don't eliminate fixed customer fees, distribution charges, or taxes. Even a large credit balance won't bring your bill below whatever your utility's baseline fixed charges are, typically $10-$30 per month."
-  - q: "What does 'net metering' mean on my bill?"
-    a: "Net metering is the policy that lets you offset the electricity you draw from the grid with the electricity your panels export to it. Your bill shows the difference between those two amounts, and you're charged (or credited) based on that net figure rather than your gross consumption."
-  - q: "Why do my credits seem lower than I expected?"
-    a: "Check the rate your utility applies to exported electricity. Many states have moved away from retail-rate net metering toward lower 'avoided cost' or 'wholesale' rates, which can be 3 to 5 cents per kWh compared to the 12-16 cents you pay to buy electricity. Your installer should have disclosed which rate applies to your system, but it's worth confirming directly with your utility."
-  - q: "What's a true-up date and why does it matter?"
-    a: "A true-up is the annual settlement date when your utility adds up all your credits and charges for the year and either bills you the difference or pays out a surplus. Missing your true-up details can mean unused credits simply expire, so knowing your date and planning your consumption and production around it is worth the effort."
-  - q: "My bill looks completely different from my neighbor's even though we have the same system size. Why?"
-    a: "System size is only one variable. Your household consumption patterns, the direction and tilt of your roof, shading, how many months you've been accumulating credits, and whether you have a time-of-use rate plan versus a flat rate plan all affect what the bill looks like. Two identical 8 kW systems on two different homes can produce very different bills."
+ - q: "Why is my solar bill showing a credit but I still owe money?"
+ a: "Net metering credits reduce your energy charges, but they don't eliminate fixed customer fees, distribution charges, or taxes. Even a large credit balance won't bring your bill below whatever your utility's baseline fixed charges are, typically $10-$30 per month."
+ - q: "What does 'net metering' mean on my bill?"
+ a: "Net metering is the policy that lets you offset the electricity you draw from the grid with the electricity your panels export to it. Your bill shows the difference between those two amounts, and you're charged (or credited) based on that net figure rather than your gross consumption."
+ - q: "Why do my credits seem lower than I expected?"
+ a: "Check the rate your utility applies to exported electricity. Many states have moved away from retail-rate net metering toward lower 'avoided cost' or 'wholesale' rates, which can be 3 to 5 cents per kWh compared to the 12-16 cents you pay to buy electricity. Your installer should have disclosed which rate applies to your system, but it's worth confirming directly with your utility."
+ - q: "What's a true-up date and why does it matter?"
+ a: "A true-up is the annual settlement date when your utility adds up all your credits and charges for the year and either bills you the difference or pays out a surplus. Missing your true-up details can mean unused credits simply expire, so knowing your date and planning your consumption and production around it is worth the effort."
+ - q: "My bill looks completely different from my neighbor's even though we have the same system size. Why?"
+ a: "System size is only one variable. Your household consumption patterns, the direction and tilt of your roof, shading, how many months you've been accumulating credits, and whether you have a time-of-use rate plan versus a flat rate plan all affect what the bill looks like. Two identical 8 kW systems on two different homes can produce very different bills."
 ---
 
 Your first solar bill arrives and you feel like someone handed you a tax form written in a foreign language. Rows of numbers, unfamiliar terms, a balance that might be a credit or a charge, you're honestly not sure. I've watched this exact moment of confusion play out hundreds of times across kitchen tables, and I want to tell you: this is not you being bad at paperwork. Solar bills are genuinely weird, at least until someone explains what's actually going on.
@@ -113,6 +113,6 @@ The smarter target, in my opinion, is minimizing your annual net cost after all 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

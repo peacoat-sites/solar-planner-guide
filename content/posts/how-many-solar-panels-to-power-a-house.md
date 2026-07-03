@@ -9,16 +9,16 @@ tags: ["many", "solar", "panels", "power", "house"]
 slug: "how-many-solar-panels-to-power-a-house"
 affiliate_disclosure: true
 faqs:
-  - q: "Can solar panels fully power a house?"
-    a: "Yes, a properly sized solar system can cover 100% of a home's annual electricity usage, though you'll still draw from the grid at night or on cloudy days (unless you have battery storage). 'Fully powered by solar' on an annual net basis is realistic for most homes in most U.S. climates."
-  - q: "How many solar panels does it take to power a 2,000 square foot house?"
-    a: "Square footage alone doesn't determine this, but a 2,000 square foot home with average energy use (around 10,000 to 11,000 kWh per year) typically needs 18 to 25 panels depending on the panel wattage, local sun hours, and roof orientation. Don't let any installer quote you a system based only on square footage."
-  - q: "Is 10 solar panels enough to power a house?"
-    a: "For most American homes, no. Ten 400-watt panels produce roughly 5,200 to 6,000 kWh annually in average sun conditions, which covers maybe half of typical household consumption. Ten panels might be enough for a very efficient small home or a household that's already aggressively reduced its electricity use."
-  - q: "Do I need a battery with solar panels?"
-    a: "Not necessarily. Without a battery, you'll produce excess power during the day and draw from the grid at night. If you have decent net metering, a battery doesn't dramatically improve your finances. But if you're in an area with frequent outages, have shifted to time-of-use rates where nighttime electricity is expensive, or live in a state like California with unfavorable export rates, a battery starts making a lot more sense."
-  - q: "How long do solar panels actually last?"
-    a: "Most modern panels are warrantied for 25 years and carry a production guarantee that they'll still produce at least 80% to 87% of their rated output at year 25. Real-world degradation data from NREL shows an average decline of about 0.5% per year, meaning a panel installed today should still be producing around 88% of its original output 25 years from now. The inverter is more likely to need replacement first, usually around the 10 to 15 year mark."
+ - q: "Can solar panels fully power a house?"
+ a: "Yes, a properly sized solar system can cover 100% of a home's annual electricity usage, though you'll still draw from the grid at night or on cloudy days (unless you have battery storage). 'Fully powered by solar' on an annual net basis is realistic for most homes in most U.S. climates."
+ - q: "How many solar panels does it take to power a 2,000 square foot house?"
+ a: "Square footage alone doesn't determine this, but a 2,000 square foot home with average energy use (around 10,000 to 11,000 kWh per year) typically needs 18 to 25 panels depending on the panel wattage, local sun hours, and roof orientation. Don't let any installer quote you a system based only on square footage."
+ - q: "Is 10 solar panels enough to power a house?"
+ a: "For most American homes, no. Ten 400-watt panels produce roughly 5,200 to 6,000 kWh annually in average sun conditions, which covers maybe half of typical household consumption. Ten panels might be enough for a very efficient small home or a household that's already aggressively reduced its electricity use."
+ - q: "Do I need a battery with solar panels?"
+ a: "Not necessarily. Without a battery, you'll produce excess power during the day and draw from the grid at night. If you have decent net metering, a battery doesn't dramatically improve your finances. But if you're in an area with frequent outages, have shifted to time-of-use rates where nighttime electricity is expensive, or live in a state like California with unfavorable export rates, a battery starts making a lot more sense."
+ - q: "How long do solar panels actually last?"
+ a: "Most modern panels are warrantied for 25 years and carry a production guarantee that they'll still produce at least 80% to 87% of their rated output at year 25. Real-world degradation data from NREL shows an average decline of about 0.5% per year, meaning a panel installed today should still be producing around 88% of its original output 25 years from now. The inverter is more likely to need replacement first, usually around the 10 to 15 year mark."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
@@ -33,12 +33,12 @@ But let's actually work through this, because the math here isn't complicated. I
 
 
 <div class="value-module">
-  <div class="vm-head">Solar Panel Sizing Worked Example</div>
-  <div class="vm-body">
-    <p class="vm-intro">This numeric walkthrough shows exactly how annual usage, panel wattage, sun hours, and system losses combine to determine panel count for three different household scenarios.</p>
-    <table><caption>Panel Count Calculation for Three Household Scenarios</caption><thead><tr><th>Variable</th><th>Low-Use Home (Mild Climate)</th><th>Average U.S. Home</th><th>High-Use Home (Hot Climate)</th></tr></thead><tbody><tr><td>Annual kWh consumption</td><td>6,000 kWh</td><td>10,500 kWh</td><td>18,000 kWh</td></tr><tr><td>Peak sun hours/day (local average)</td><td>4.5 hrs (Pacific Northwest)</td><td>5.0 hrs (Midwest)</td><td>6.5 hrs (Arizona)</td></tr><tr><td>Panel wattage</td><td>400W</td><td>400W</td><td>400W</td></tr><tr><td>System efficiency factor</td><td>0.80 (accounts for inverter, wiring, soiling losses)</td><td>0.80</td><td>0.80</td></tr><tr><td><strong>Step 1:</strong> Daily kWh needed</td><td>6,000 ÷ 365 = 16.4 kWh</td><td>10,500 ÷ 365 = 28.8 kWh</td><td>18,000 ÷ 365 = 49.3 kWh</td></tr><tr><td><strong>Step 2:</strong> kWh per panel per day</td><td>0.400 × 4.5 × 0.80 = 1.44 kWh</td><td>0.400 × 5.0 × 0.80 = 1.60 kWh</td><td>0.400 × 6.5 × 0.80 = 2.08 kWh</td></tr><tr><td><strong>Step 3:</strong> Panels needed (raw)</td><td>16.4 ÷ 1.44 = 11.4</td><td>28.8 ÷ 1.60 = 18.0</td><td>49.3 ÷ 2.08 = 23.7</td></tr><tr><td><strong>Final panel count (rounded up)</strong></td><td><strong>12 panels</strong></td><td><strong>18 panels</strong></td><td><strong>24 panels</strong></td></tr><tr><td>System size (kW DC)</td><td>4.8 kW</td><td>7.2 kW</td><td>9.6 kW</td></tr><tr><td>Approximate roof space needed</td><td>215 sq ft</td><td>320 sq ft</td><td>430 sq ft</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Solar Panel Sizing Worked Example</div>
+ <div class="vm-body">
+ <p class="vm-intro">This numeric walkthrough shows exactly how annual usage, panel wattage, sun hours, and system losses combine to determine panel count for three different household scenarios.</p>
+ <table><caption>Panel Count Calculation for Three Household Scenarios</caption><thead><tr><th>Variable</th><th>Low-Use Home (Mild Climate)</th><th>Average U.S. Home</th><th>High-Use Home (Hot Climate)</th></tr></thead><tbody><tr><td>Annual kWh consumption</td><td>6,000 kWh</td><td>10,500 kWh</td><td>18,000 kWh</td></tr><tr><td>Peak sun hours/day (local average)</td><td>4.5 hrs (Pacific Northwest)</td><td>5.0 hrs (Midwest)</td><td>6.5 hrs (Arizona)</td></tr><tr><td>Panel wattage</td><td>400W</td><td>400W</td><td>400W</td></tr><tr><td>System efficiency factor</td><td>0.80 (accounts for inverter, wiring, soiling losses)</td><td>0.80</td><td>0.80</td></tr><tr><td><strong>Step 1:</strong> Daily kWh needed</td><td>6,000 ÷ 365 = 16.4 kWh</td><td>10,500 ÷ 365 = 28.8 kWh</td><td>18,000 ÷ 365 = 49.3 kWh</td></tr><tr><td><strong>Step 2:</strong> kWh per panel per day</td><td>0.400 × 4.5 × 0.80 = 1.44 kWh</td><td>0.400 × 5.0 × 0.80 = 1.60 kWh</td><td>0.400 × 6.5 × 0.80 = 2.08 kWh</td></tr><tr><td><strong>Step 3:</strong> Panels needed (raw)</td><td>16.4 ÷ 1.44 = 11.4</td><td>28.8 ÷ 1.60 = 18.0</td><td>49.3 ÷ 2.08 = 23.7</td></tr><tr><td><strong>Final panel count (rounded up)</strong></td><td><strong>12 panels</strong></td><td><strong>18 panels</strong></td><td><strong>24 panels</strong></td></tr><tr><td>System size (kW DC)</td><td>4.8 kW</td><td>7.2 kW</td><td>9.6 kW</td></tr><tr><td>Approximate roof space needed</td><td>215 sq ft</td><td>320 sq ft</td><td>430 sq ft</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Start With Your Electricity Use, Not Your Roof

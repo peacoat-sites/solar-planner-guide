@@ -9,16 +9,16 @@ tags: ["long", "solar", "batteries", "last"]
 slug: "how-long-do-solar-batteries-last"
 affiliate_disclosure: true
 faqs:
-  - q: "How many years does a solar battery actually last?"
-    a: "Most modern lithium iron phosphate batteries last 10-15 years before reaching their warranted capacity floor (usually 70-80% of original capacity). Some well-maintained LFP systems in moderate climates are running past 15 years with meaningful usable capacity. The range is wide because heat, cycling depth, and chemistry all play large roles."
-  - q: "Do solar batteries degrade faster in hot climates?"
-    a: "Yes, significantly. Lithium battery chemistry degrades faster above 77°F (25°C), and the effect compounds over years. Batteries installed in Phoenix or Houston face meaningfully shorter useful lives than identical units in Seattle or Denver. If you're in a hot climate, prioritize a shaded or climate-controlled installation location and strongly favor LFP chemistry over NMC."
-  - q: "What happens when a solar battery reaches the end of its life?"
-    a: "It doesn't stop working abruptly. Capacity degrades gradually, meaning it stores less energy than it once did. A 10 kWh battery at end-of-warranty might hold 7-8 kWh. At that point, you can keep using it for reduced storage, replace it, or add a second battery to compensate. Most manufacturers also offer battery module replacement rather than full-system swap, which can cut replacement costs."
-  - q: "Is it worth replacing a degraded battery or buying a new system?"
-    a: "Depends on how old your inverter and panels are. If your battery degrades significantly around year 10-12 and your inverter is approaching end-of-life anyway, a full system refresh often makes more financial sense than a battery-only swap. Battery prices will be lower by then, and you can right-size a new system based on how your energy needs have evolved."
-  - q: "Do solar battery warranties cover full replacement?"
-    a: "Most warranties cover the battery reaching below the specified capacity retention threshold (commonly 70%) within the warranty period. They typically cover repair or replacement of the unit, not the installation labor, which can run $500-1,500 depending on the system. Read the warranty document, not the sales brochure, before buying."
+ - q: "How many years does a solar battery actually last?"
+ a: "Most modern lithium iron phosphate batteries last 10-15 years before reaching their warranted capacity floor (usually 70-80% of original capacity). Some well-maintained LFP systems in moderate climates are running past 15 years with meaningful usable capacity. The range is wide because heat, cycling depth, and chemistry all play large roles."
+ - q: "Do solar batteries degrade faster in hot climates?"
+ a: "Yes, significantly. Lithium battery chemistry degrades faster above 77°F (25°C), and the effect compounds over years. Batteries installed in Phoenix or Houston face meaningfully shorter useful lives than identical units in Seattle or Denver. If you're in a hot climate, prioritize a shaded or climate-controlled installation location and strongly favor LFP chemistry over NMC."
+ - q: "What happens when a solar battery reaches the end of its life?"
+ a: "It doesn't stop working abruptly. Capacity degrades gradually, meaning it stores less energy than it once did. A 10 kWh battery at end-of-warranty might hold 7-8 kWh. At that point, you can keep using it for reduced storage, replace it, or add a second battery to compensate. Most manufacturers also offer battery module replacement rather than full-system swap, which can cut replacement costs."
+ - q: "Is it worth replacing a degraded battery or buying a new system?"
+ a: "Depends on how old your inverter and panels are. If your battery degrades significantly around year 10-12 and your inverter is approaching end-of-life anyway, a full system refresh often makes more financial sense than a battery-only swap. Battery prices will be lower by then, and you can right-size a new system based on how your energy needs have evolved."
+ - q: "Do solar battery warranties cover full replacement?"
+ a: "Most warranties cover the battery reaching below the specified capacity retention threshold (commonly 70%) within the warranty period. They typically cover repair or replacement of the unit, not the installation labor, which can run $500-1,500 depending on the system. Read the warranty document, not the sales brochure, before buying."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
@@ -31,12 +31,12 @@ So here's what those lifespan numbers actually mean, what kills batteries early,
 
 
 <div class="value-module">
-  <div class="vm-head">Battery Degradation Factors: Impact Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table quantifies how major degradation factors affect lithium battery lifespan, helping you identify which issues deserve priority attention in your specific situation.</p>
-    <table><thead><tr><th>Degradation Factor</th><th>Typical Lifespan Impact</th><th>Warning Signs</th><th>Mitigation Cost</th></tr></thead><tbody><tr><td><strong>High ambient temperature</strong> (sustained >86°F/30°C)</td><td>20–40% faster capacity loss</td><td>Thermal throttling alerts; reduced charging during summer peaks</td><td>$500–2,000 (climate-controlled enclosure or relocation)</td></tr><tr><td><strong>Deep discharge cycling</strong> (regularly to <10% state of charge)</td><td>30–50% fewer total cycles</td><td>Rapid capacity drop in first 2 years; system shutdowns</td><td>$0 (software settings adjustment)</td></tr><tr><td><strong>High charge rates</strong> (frequent fast-charging from solar peaks)</td><td>10–20% accelerated degradation</td><td>Battery feels warm to touch; fan running constantly</td><td>$0–200 (inverter charge rate limiting)</td></tr><tr><td><strong>Prolonged high state of charge</strong> (held at 100% for days)</td><td>15–25% faster calendar aging</td><td>None visible until annual capacity check</td><td>$0 (set max charge to 80–90%)</td></tr><tr><td><strong>Infrequent cycling</strong> (backup-only use, few cycles/month)</td><td>Calendar aging dominates; may lose 5–10% capacity before cycling warranty kicks in</td><td>Lower-than-expected capacity on first extended outage</td><td>$0 (schedule monthly conditioning cycle)</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Battery Degradation Factors: Impact Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table quantifies how major degradation factors affect lithium battery lifespan, helping you identify which issues deserve priority attention in your specific situation.</p>
+ <table><thead><tr><th>Degradation Factor</th><th>Typical Lifespan Impact</th><th>Warning Signs</th><th>Mitigation Cost</th></tr></thead><tbody><tr><td><strong>High ambient temperature</strong> (sustained >86°F/30°C)</td><td>20–40% faster capacity loss</td><td>Thermal throttling alerts; reduced charging during summer peaks</td><td>$500–2,000 (climate-controlled enclosure or relocation)</td></tr><tr><td><strong>Deep discharge cycling</strong> (regularly to <10% state of charge)</td><td>30–50% fewer total cycles</td><td>Rapid capacity drop in first 2 years; system shutdowns</td><td>$0 (software settings adjustment)</td></tr><tr><td><strong>High charge rates</strong> (frequent fast-charging from solar peaks)</td><td>10–20% accelerated degradation</td><td>Battery feels warm to touch; fan running constantly</td><td>$0–200 (inverter charge rate limiting)</td></tr><tr><td><strong>Prolonged high state of charge</strong> (held at 100% for days)</td><td>15–25% faster calendar aging</td><td>None visible until annual capacity check</td><td>$0 (set max charge to 80–90%)</td></tr><tr><td><strong>Infrequent cycling</strong> (backup-only use, few cycles/month)</td><td>Calendar aging dominates; may lose 5–10% capacity before cycling warranty kicks in</td><td>Lower-than-expected capacity on first extended outage</td><td>$0 (schedule monthly conditioning cycle)</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What "Lifespan" Actually Means for a Solar Battery

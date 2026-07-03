@@ -11,10 +11,7 @@ author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
 author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
 slug: "how-long-does-a-powerwall-last"
-affiliate_disclosure: true
----
-
-Most people asking "how long does a Powerwall last?" are really asking two different questions without realizing it. The first is about battery lifespan: how many years before this thing degrades to the point of being useless? The second is about daily runtime: if the grid goes down tonight, how many hours will my house actually stay powered? Both matter enormously, and the answers are more complicated than Tesla's marketing page lets on.
+affiliate_disclosure: true, Most people asking "how long does a Powerwall last?" are really asking two different questions without realizing it. The first is about battery lifespan: how many years before this thing degrades to the point of being useless? The second is about daily runtime: if the grid goes down tonight, how many hours will my house actually stay powered? Both matter enormously, and the answers are more complicated than Tesla's marketing page lets on.
 
 I'll be honest, when I started digging into this, I expected to find a straightforward warranty number and call it a day. What I found instead was a more nuanced story about chemistry, usage patterns, climate conditions, and the gap between what Tesla promises and what real homeowners are experiencing after five or six years of daily cycling.
 
@@ -110,6 +107,6 @@ Not if you can avoid it. Daily cycling through your solar system in self-consump
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

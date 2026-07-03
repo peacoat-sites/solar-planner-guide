@@ -13,16 +13,16 @@ author_bio: "Craig Stevens is a financial advisor who has helped dozens of clien
 slug: "microinverters-vs-string-inverter"
 affiliate_disclosure: true
 faqs:
-  - q: "Do microinverters really last 25 years?"
-    a: "Enphase's IQ series carries a 25-year warranty, and their failure rates in the field are low. The honest caveat: no microinverter has actually been deployed for 25 years, so we're partly trusting the warranty. That said, 25-year product warranties from a financially stable company are meaningful."
-  - q: "Can I add battery storage with either inverter type?"
-    a: "Yes, but the integration varies. SolarEdge and Enphase both have tightly integrated battery solutions (StorEdge and Enphase IQ Battery). Third-party batteries like the Franklin WH can pair with string inverters too, though compatibility specs matter. Ask your installer specifically before assuming."
-  - q: "Is panel-level monitoring worth paying extra for?"
-    a: "If you're the type who won't check an app regularly, probably not. If you want to catch performance issues early and optimize production, yes. The Enphase Enlighten app gives you more actionable data than any string inverter dashboard. (Note: the site may earn a commission on purchases.)"
-  - q: "What happens when one microinverter fails?"
-    a: "That panel stops producing. The rest of your system keeps running normally. You'll see the gap in your monitoring app and schedule a replacement. One failed microinverter on a 20-panel system costs you about 5% of your production while you wait for the repair. Not catastrophic."
-  - q: "Does a string inverter failure take down my whole system?"
-    a: "Yes. One box fails, all production stops. It's the main reliability argument against string inverters and the reason I lean toward SolarEdge's architecture (optimizer plus string inverter) for systems over 8kW. At least then you retain panel-level monitoring that tells you the inverter is the problem, not something else."
+ - q: "Do microinverters really last 25 years?"
+ a: "Enphase's IQ series carries a 25-year warranty, and their failure rates in the field are low. The honest caveat: no microinverter has actually been deployed for 25 years, so we're partly trusting the warranty. That said, 25-year product warranties from a financially stable company are meaningful."
+ - q: "Can I add battery storage with either inverter type?"
+ a: "Yes, but the integration varies. SolarEdge and Enphase both have tightly integrated battery solutions (StorEdge and Enphase IQ Battery). Third-party batteries like the Franklin WH can pair with string inverters too, though compatibility specs matter. Ask your installer specifically before assuming."
+ - q: "Is panel-level monitoring worth paying extra for?"
+ a: "If you're the type who won't check an app regularly, probably not. If you want to catch performance issues early and optimize production, yes. The Enphase Enlighten app gives you more actionable data than any string inverter dashboard. (Note: the site may earn a commission on purchases.)"
+ - q: "What happens when one microinverter fails?"
+ a: "That panel stops producing. The rest of your system keeps running normally. You'll see the gap in your monitoring app and schedule a replacement. One failed microinverter on a 20-panel system costs you about 5% of your production while you wait for the repair. Not catastrophic."
+ - q: "Does a string inverter failure take down my whole system?"
+ a: "Yes. One box fails, all production stops. It's the main reliability argument against string inverters and the reason I lean toward SolarEdge's architecture (optimizer plus string inverter) for systems over 8kW. At least then you retain panel-level monitoring that tells you the inverter is the problem, not something else."
 ---
 
 Most solar articles treat the inverter choice as a footnote. Buy panels, pick a size, oh and also there's this inverter thing. That framing is backwards. The inverter is where your DC electricity becomes usable AC power, and the architecture you choose shapes your system's performance, monitoring granularity, maintenance costs, and warranty exposure for the next 25 years. Getting it wrong is expensive to fix.
@@ -108,6 +108,6 @@ The [Solar Energy Industries Association](https://www.seia.org/) reports that mi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

@@ -13,16 +13,16 @@ author_bio: "Derek Hansen has pulled permits and installed solar systems in thre
 slug: "home-equity-loan-for-solar-panels"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use a home equity loan for solar panels if I just bought my house?"
-    a: "Probably not right away. Most lenders want you to have at least 15-20% equity and a demonstrated repayment history on the primary mortgage, which typically means you've owned the home for at least 1-2 years. If you're newer to the home, a solar-specific loan or a personal loan might be your better near-term option."
-  - q: "Does using a home equity loan affect my ability to sell the house later?"
-    a: "It creates a lien on the property, which means it has to be paid off at closing when you sell. The loan doesn't prevent a sale, but you need to account for the payoff balance in your sale proceeds math. If solar has added value to the home (which it often does), that can partially or fully offset the remaining balance."
-  - q: "Is the interest on a home equity loan for solar tax-deductible?"
-    a: "Under current IRS rules, interest on a home equity loan is deductible if the funds are used to 'buy, build, or substantially improve' the home. Solar panels generally qualify. But you have to itemize deductions, and with the standard deduction where it is today, many homeowners won't benefit. Talk to a CPA before you count on this."
-  - q: "How does a home equity loan compare to a HELOC for solar financing?"
-    a: "A home equity loan gives you a lump sum at a fixed rate, which works well for a defined solar project cost. A HELOC is a revolving line of credit at a variable rate, which introduces rate risk over time. For a one-time solar installation where you know the cost upfront, I'd lean toward the fixed-rate home equity loan. Predictable payments matter when you're already managing a new utility-savings budget."
-  - q: "What credit score do I need to qualify for a home equity loan for solar?"
-    a: "Most lenders want a minimum score around 620-640, but to get rates in that 7-9% range, you'll generally need a 720 or above. If your score is in the 660-700 range, you'll still likely qualify, but the rate will be higher, and the advantage over a solar-specific loan narrows. Check your score before you apply and dispute any errors first."
+ - q: "Can I use a home equity loan for solar panels if I just bought my house?"
+ a: "Probably not right away. Most lenders want you to have at least 15-20% equity and a demonstrated repayment history on the primary mortgage, which typically means you've owned the home for at least 1-2 years. If you're newer to the home, a solar-specific loan or a personal loan might be your better near-term option."
+ - q: "Does using a home equity loan affect my ability to sell the house later?"
+ a: "It creates a lien on the property, which means it has to be paid off at closing when you sell. The loan doesn't prevent a sale, but you need to account for the payoff balance in your sale proceeds math. If solar has added value to the home (which it often does), that can partially or fully offset the remaining balance."
+ - q: "Is the interest on a home equity loan for solar tax-deductible?"
+ a: "Under current IRS rules, interest on a home equity loan is deductible if the funds are used to 'buy, build, or substantially improve' the home. Solar panels generally qualify. But you have to itemize deductions, and with the standard deduction where it is today, many homeowners won't benefit. Talk to a CPA before you count on this."
+ - q: "How does a home equity loan compare to a HELOC for solar financing?"
+ a: "A home equity loan gives you a lump sum at a fixed rate, which works well for a defined solar project cost. A HELOC is a revolving line of credit at a variable rate, which introduces rate risk over time. For a one-time solar installation where you know the cost upfront, I'd lean toward the fixed-rate home equity loan. Predictable payments matter when you're already managing a new utility-savings budget."
+ - q: "What credit score do I need to qualify for a home equity loan for solar?"
+ a: "Most lenders want a minimum score around 620-640, but to get rates in that 7-9% range, you'll generally need a 720 or above. If your score is in the 660-700 range, you'll still likely qualify, but the rate will be higher, and the advantage over a solar-specific loan narrows. Check your score before you apply and dispute any errors first."
 ---
 
 A $40,000 solar install and a home equity loan that saved one homeowner nearly $11,000 over a solar-specific financing product. That's not unusual. I've seen it happen repeatedly, and it's one of the best-kept non-secrets in residential solar.
@@ -123,8 +123,8 @@ The typical timeline from application to funding is 3-6 weeks. Make sure your in
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 

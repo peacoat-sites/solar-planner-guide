@@ -9,16 +9,16 @@ tags: ["best", "states", "solar", "energy", "savings"]
 slug: "best-states-for-solar-energy-savings"
 affiliate_disclosure: true
 faqs:
-  - q: "Which state has the best solar incentives overall?"
-    a: "Massachusetts consistently ranks at the top when you combine the SMART incentive program, full retail net metering, state tax exemptions, and high electricity rates. New Jersey is a close second thanks to its SREC-II market and aggressive net metering protections."
-  - q: "Is it still worth going solar in California after NEM 3.0?"
-    a: "It depends heavily on your usage and whether you add battery storage. The export rate cut makes panels-only systems much weaker for new installations. If you pair a system with a Powerwall or similar storage to self-consume more of your generation, California still works financially, just with a longer payback period, often 10 to 14 years now versus 7 to 9 before 2023."
-  - q: "Does solar add value to a home in any state?"
-    a: "Generally yes, and a 2019 Zillow study found that solar homes sold for about 4.1% more on average. But that premium varies by state, local buyer awareness, and whether you own the system outright. Leased systems can complicate a home sale considerably."
-  - q: "What's the minimum electricity rate where solar makes sense?"
-    a: "I usually tell homeowners that below 10 to 11 cents per kWh, the math gets very tight and payback periods can stretch past 15 years, making the investment hard to justify. Above 14 to 15 cents, solar almost always makes solid financial sense with good sun exposure and net metering."
-  - q: "Do I need full sun exposure for solar to be worth it?"
-    a: "Not perfect sun, no. A south-facing roof with no shading between 9 AM and 3 PM in a state with 4+ peak sun hours per day is enough to build a viable system. What kills ROI faster than clouds is shading from trees or nearby structures, or a poorly oriented roof (north-facing in the northern hemisphere generates almost nothing useful)."
+ - q: "Which state has the best solar incentives overall?"
+ a: "Massachusetts consistently ranks at the top when you combine the SMART incentive program, full retail net metering, state tax exemptions, and high electricity rates. New Jersey is a close second thanks to its SREC-II market and aggressive net metering protections."
+ - q: "Is it still worth going solar in California after NEM 3.0?"
+ a: "It depends heavily on your usage and whether you add battery storage. The export rate cut makes panels-only systems much weaker for new installations. If you pair a system with a Powerwall or similar storage to self-consume more of your generation, California still works financially, just with a longer payback period, often 10 to 14 years now versus 7 to 9 before 2023."
+ - q: "Does solar add value to a home in any state?"
+ a: "Generally yes, and a 2019 Zillow study found that solar homes sold for about 4.1% more on average. But that premium varies by state, local buyer awareness, and whether you own the system outright. Leased systems can complicate a home sale considerably."
+ - q: "What's the minimum electricity rate where solar makes sense?"
+ a: "I usually tell homeowners that below 10 to 11 cents per kWh, the math gets very tight and payback periods can stretch past 15 years, making the investment hard to justify. Above 14 to 15 cents, solar almost always makes solid financial sense with good sun exposure and net metering."
+ - q: "Do I need full sun exposure for solar to be worth it?"
+ a: "Not perfect sun, no. A south-facing roof with no shading between 9 AM and 3 PM in a state with 4+ peak sun hours per day is enough to build a viable system. What kills ROI faster than clouds is shading from trees or nearby structures, or a poorly oriented roof (north-facing in the northern hemisphere generates almost nothing useful)."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
@@ -31,12 +31,12 @@ Sunlight matters. But utility rates, net metering policies, state rebates, and y
 
 
 <div class="value-module">
-  <div class="vm-head">Solar Savings Comparison: 6 States Analyzed</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table compares key savings factors across states with different sun, rate, and policy profiles to illustrate why the math often surprises people.</p>
-    <table><thead><tr><th>State</th><th>Avg. Peak Sun Hours/Day</th><th>Avg. Residential Rate (¢/kWh)</th><th>Net Metering Status</th><th>Notable State Incentives</th><th>Relative Savings Potential</th></tr></thead><tbody><tr><td>Massachusetts</td><td>4.0–4.5</td><td>25–29</td><td>Full retail credit (investor-owned utilities)</td><td>SMART program production incentives, state tax credit</td><td>High (rates offset moderate sun)</td></tr><tr><td>New Jersey</td><td>4.2–4.7</td><td>17–21</td><td>Full retail credit</td><td>SuSI program successor credits (SRECs transitioned)</td><td>High</td></tr><tr><td>Arizona</td><td>6.0–6.5</td><td>12–15</td><td>Varies by utility; APS uses export rates below retail</td><td>Limited; federal credit only for most</td><td>Moderate (great sun, lower rates/weaker policy)</td></tr><tr><td>California</td><td>5.5–6.0</td><td>25–35 (tiered)</td><td>NEM 3.0: export credits ~75% lower than retail</td><td>Self-Generation Incentive Program (batteries)</td><td>Moderate without battery; higher with storage</td></tr><tr><td>Texas</td><td>5.0–5.5</td><td>12–14</td><td>No statewide mandate; varies by provider</td><td>Limited state incentives; some utility rebates</td><td>Moderate (low rates, inconsistent export value)</td></tr><tr><td>New York</td><td>3.8–4.3</td><td>20–24</td><td>Value of Distributed Energy Resources (VDER) credits</td><td>NY-Sun rebates, state tax credit (up to $5,000)</td><td>High (strong incentives offset lower sun)</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Solar Savings Comparison: 6 States Analyzed</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table compares key savings factors across states with different sun, rate, and policy profiles to illustrate why the math often surprises people.</p>
+ <table><thead><tr><th>State</th><th>Avg. Peak Sun Hours/Day</th><th>Avg. Residential Rate (¢/kWh)</th><th>Net Metering Status</th><th>Notable State Incentives</th><th>Relative Savings Potential</th></tr></thead><tbody><tr><td>Massachusetts</td><td>4.0–4.5</td><td>25–29</td><td>Full retail credit (investor-owned utilities)</td><td>SMART program production incentives, state tax credit</td><td>High (rates offset moderate sun)</td></tr><tr><td>New Jersey</td><td>4.2–4.7</td><td>17–21</td><td>Full retail credit</td><td>SuSI program successor credits (SRECs transitioned)</td><td>High</td></tr><tr><td>Arizona</td><td>6.0–6.5</td><td>12–15</td><td>Varies by utility; APS uses export rates below retail</td><td>Limited; federal credit only for most</td><td>Moderate (great sun, lower rates/weaker policy)</td></tr><tr><td>California</td><td>5.5–6.0</td><td>25–35 (tiered)</td><td>NEM 3.0: export credits ~75% lower than retail</td><td>Self-Generation Incentive Program (batteries)</td><td>Moderate without battery; higher with storage</td></tr><tr><td>Texas</td><td>5.0–5.5</td><td>12–14</td><td>No statewide mandate; varies by provider</td><td>Limited state incentives; some utility rebates</td><td>Moderate (low rates, inconsistent export value)</td></tr><tr><td>New York</td><td>3.8–4.3</td><td>20–24</td><td>Value of Distributed Energy Resources (VDER) credits</td><td>NY-Sun rebates, state tax credit (up to $5,000)</td><td>High (strong incentives offset lower sun)</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why "Most Sunshine" Is the Wrong Metric

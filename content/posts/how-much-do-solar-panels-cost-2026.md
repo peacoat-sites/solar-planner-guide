@@ -9,16 +9,16 @@ tags: ["much", "solar", "panels", "cost", "2026"]
 slug: "how-much-do-solar-panels-cost"
 affiliate_disclosure: true
 faqs:
-  - q: "How much do solar panels cost per month if I finance?"
-    a: "On a $20,000 net system cost (after the federal tax credit) financed over 12 years at 6.5% interest, you're looking at roughly $220-$240 per month. For most homeowners with electric bills above $150, that payment is close to or less than their current utility cost, which is why loans make solar feel accessible. The key difference: your loan payment ends after 12 years. Your utility bill doesn't."
-  - q: "Do solar panel prices vary significantly by state?"
-    a: "Yes, by more than you'd expect. California, New York, and Massachusetts tend to have higher installation costs due to labor rates and permitting complexity, but they also have some of the highest electricity prices, making the economics work well. States like Florida and Texas have seen prices drop thanks to high installer competition. Arizona and New Mexico are among the best markets for solar production per dollar spent."
-  - q: "Is 2026 a good time to buy solar, or should I wait for prices to drop further?"
-    a: "Waiting for a better deal is a reasonable instinct, but the math doesn't usually support it. Solar prices have largely plateaued. The 30% federal tax credit is available today and steps down starting in 2033. Every year you wait is a year you're still paying full retail electricity rates. For most homeowners with a solid tax liability and electricity bills above $150/month, the financially optimal move is to act now, not wait."
-  - q: "What's included in the cost of a solar installation?"
-    a: "A standard quote covers the panels themselves, the inverter or microinverters, racking and mounting hardware, electrical wiring and disconnect switches, the monitoring system, permitting and inspection fees, and labor. Some quotes also include a production guarantee and critter guard mesh to keep birds and squirrels from nesting under the panels. Always ask for a line-item breakdown."
-  - q: "How long do solar panels actually last?"
-    a: "Quality panels from reputable manufacturers are rated for 25-30 years and typically carry a performance warranty guaranteeing at least 80-87% of rated output at 25 years. In practice, panels often last longer than their warranty. The inverter is typically the first component to need replacement, usually around year 10-15, at a cost of $1,000-$2,500 depending on inverter type."
+ - q: "How much do solar panels cost per month if I finance?"
+ a: "On a $20,000 net system cost (after the federal tax credit) financed over 12 years at 6.5% interest, you're looking at roughly $220-$240 per month. For most homeowners with electric bills above $150, that payment is close to or less than their current utility cost, which is why loans make solar feel accessible. The key difference: your loan payment ends after 12 years. Your utility bill doesn't."
+ - q: "Do solar panel prices vary significantly by state?"
+ a: "Yes, by more than you'd expect. California, New York, and Massachusetts tend to have higher installation costs due to labor rates and permitting complexity, but they also have some of the highest electricity prices, making the economics work well. States like Florida and Texas have seen prices drop thanks to high installer competition. Arizona and New Mexico are among the best markets for solar production per dollar spent."
+ - q: "Is 2026 a good time to buy solar, or should I wait for prices to drop further?"
+ a: "Waiting for a better deal is a reasonable instinct, but the math doesn't usually support it. Solar prices have largely plateaued. The 30% federal tax credit is available today and steps down starting in 2033. Every year you wait is a year you're still paying full retail electricity rates. For most homeowners with a solid tax liability and electricity bills above $150/month, the financially optimal move is to act now, not wait."
+ - q: "What's included in the cost of a solar installation?"
+ a: "A standard quote covers the panels themselves, the inverter or microinverters, racking and mounting hardware, electrical wiring and disconnect switches, the monitoring system, permitting and inspection fees, and labor. Some quotes also include a production guarantee and critter guard mesh to keep birds and squirrels from nesting under the panels. Always ask for a line-item breakdown."
+ - q: "How long do solar panels actually last?"
+ a: "Quality panels from reputable manufacturers are rated for 25-30 years and typically carry a performance warranty guaranteeing at least 80-87% of rated output at 25 years. In practice, panels often last longer than their warranty. The inverter is typically the first component to need replacement, usually around year 10-15, at a cost of $1,000-$2,500 depending on inverter type."
 author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
@@ -35,10 +35,10 @@ Here's a quick breakdown by system size:
 
 | System Size | Avg. Gross Cost | After 30% Federal Tax Credit |
 |-------------|-----------------|-------------------------------|
-| 5 kW | $15,000 – $17,500 | $10,500 – $12,250 |
-| 8 kW | $22,400 – $28,000 | $15,680 – $19,600 |
-| 10 kW | $28,000 – $35,000 | $19,600 – $24,500 |
-| 12 kW | $33,600 – $42,000 | $23,520 – $29,400 |
+| 5 kW | $15,000, $17,500 | $10,500, $12,250 |
+| 8 kW | $22,400, $28,000 | $15,680, $19,600 |
+| 10 kW | $28,000, $35,000 | $19,600, $24,500 |
+| 12 kW | $33,600, $42,000 | $23,520, $29,400 |
 
 The right system size depends on your annual electricity consumption. A home using 10,000 kWh per year typically needs a 7-9 kW system, depending on how much sun your roof gets and the panel efficiency you choose.
 

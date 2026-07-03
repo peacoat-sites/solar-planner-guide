@@ -11,20 +11,18 @@ author_slug: "nadia-patel"
 author_title: "Sustainability Writer"
 author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
 slug: "how-to-size-a-solar-system-when-the-tax-credit-is-gone"
-affiliate_disclosure: true
----
-If you're staring at a solar quote right now, the math probably feels off. The 30% federal residential tax credit expired December 31, 2025, when the One Big Beautiful Bill took effect July 4, 2025. That changes almost everything about system size, payback, and whether buying solar makes sense at all.
+affiliate_disclosure: true, If you're staring at a solar quote right now, the math probably feels off. The 30% federal residential tax credit expired December 31, 2025, when the One Big Beautiful Bill took effect July 4, 2025. That changes almost everything about system size, payback, and whether buying solar makes sense at all.
 
 Here's the blunt reality: most solar advice you'll find online was written when a typical homeowner could pocket roughly $7,500 back from the federal government. That's gone for people who buy systems. The entire calculation needs to restart.
 
 
 <div class="value-module">
-  <div class="vm-head">Post-Credit Solar: Size vs. Payback Tradeoffs</div>
-  <div class="vm-body">
-    <p class="vm-intro">Without the 30% federal credit, system sizing decisions shift toward faster payback rather than maximum production-here's how the math changes at different scales.</p>
-    <table><caption>Illustrative Payback Comparison: 6kW vs 10kW System (No Federal Credit)</caption><thead><tr><th>Factor</th><th>6kW System</th><th>10kW System</th></tr></thead><tbody><tr><td>Typical installed cost</td><td>$15,000–$18,000</td><td>$25,000–$30,000</td></tr><tr><td>Annual production estimate</td><td>7,200–9,000 kWh</td><td>12,000–15,000 kWh</td></tr><tr><td>Annual savings (at $0.15/kWh avg)</td><td>$1,080–$1,350</td><td>$1,800–$2,250</td></tr><tr><td>Simple payback period</td><td>11–17 years</td><td>11–17 years</td></tr><tr><td>Excess production risk</td><td>Low-sized to baseline usage</td><td>Higher-may export at unfavorable net metering rates</td></tr><tr><td>Best fit scenario</td><td>Households using 600–800 kWh/month seeking lowest capital outlay</td><td>High-usage homes (1,000+ kWh/month) or planned EV/heat pump additions</td></tr><tr><td>Key sizing rule post-credit</td><td colspan="2">Size to 80–90% of current consumption; avoid oversizing unless utility offers 1:1 net metering</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Post-Credit Solar: Size vs. Payback Tradeoffs</div>
+ <div class="vm-body">
+ <p class="vm-intro">Without the 30% federal credit, system sizing decisions shift toward faster payback rather than maximum production-here's how the math changes at different scales.</p>
+ <table><caption>Illustrative Payback Comparison: 6kW vs 10kW System (No Federal Credit)</caption><thead><tr><th>Factor</th><th>6kW System</th><th>10kW System</th></tr></thead><tbody><tr><td>Typical installed cost</td><td>$15,000–$18,000</td><td>$25,000–$30,000</td></tr><tr><td>Annual production estimate</td><td>7,200–9,000 kWh</td><td>12,000–15,000 kWh</td></tr><tr><td>Annual savings (at $0.15/kWh avg)</td><td>$1,080–$1,350</td><td>$1,800–$2,250</td></tr><tr><td>Simple payback period</td><td>11–17 years</td><td>11–17 years</td></tr><tr><td>Excess production risk</td><td>Low-sized to baseline usage</td><td>Higher-may export at unfavorable net metering rates</td></tr><tr><td>Best fit scenario</td><td>Households using 600–800 kWh/month seeking lowest capital outlay</td><td>High-usage homes (1,000+ kWh/month) or planned EV/heat pump additions</td></tr><tr><td>Key sizing rule post-credit</td><td colspan="2">Size to 80–90% of current consumption; avoid oversizing unless utility offers 1:1 net metering</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Market Is Telling You Something
@@ -71,12 +69,12 @@ The honest answer is this: solar still pencils out for plenty of homeowners in 2
 
 ## Sources
 
-- [U.S. Residential Solar Installations Set to Stall for Years ,  Spokesman-Review / BloombergNEF](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
-- [Net Metering in 2026: State-by-State Guide to What's Changed ,  NuWatt Energy](https://nuwattenergy.com/en/net-metering-changes-2026) (April 7, 2026)
-- [Is Solar Worth It in 2026? The Honest Answer After the Tax Credit Ended ,  IntegrateSun](https://www.integratesun.com/post/is-solar-worth-it-in-2026-the-honest-answer-after-the-tax-credit-ended) (June 12, 2026)
-- [The Federal Solar Tax Credit: What's New in 2026 ,  SolarReviews](https://www.solarreviews.com/blog/federal-solar-tax-credit) (2026)
-- [New Colorado Law Expands Access to Plug-In Solar Panels ,  CBS Colorado](https://www.cbsnews.com/colorado/news/colorado-law-plug-in-solar-panels-access/) (June 10, 2026)
-- [Net Metering Tracker: Which States Are Changing the Rules in 2026? ,  OhmSnap](https://www.ohmsnap.com/net-metering-tracker) (April 2026)
+- [U.S. Residential Solar Installations Set to Stall for Years , Spokesman-Review / BloombergNEF](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
+- [Net Metering in 2026: State-by-State Guide to What's Changed , NuWatt Energy](https://nuwattenergy.com/en/net-metering-changes-2026) (April 7, 2026)
+- [Is Solar Worth It in 2026? The Honest Answer After the Tax Credit Ended , IntegrateSun](https://www.integratesun.com/post/is-solar-worth-it-in-2026-the-honest-answer-after-the-tax-credit-ended) (June 12, 2026)
+- [The Federal Solar Tax Credit: What's New in 2026 , SolarReviews](https://www.solarreviews.com/blog/federal-solar-tax-credit) (2026)
+- [New Colorado Law Expands Access to Plug-In Solar Panels , CBS Colorado](https://www.cbsnews.com/colorado/news/colorado-law-plug-in-solar-panels-access/) (June 10, 2026)
+- [Net Metering Tracker: Which States Are Changing the Rules in 2026? , OhmSnap](https://www.ohmsnap.com/net-metering-tracker) (April 2026)
 
 ## Helpful Resources
 

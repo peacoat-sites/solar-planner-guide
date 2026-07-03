@@ -9,16 +9,16 @@ tags: ["many", "does", "solar", "panel", "produce"]
 slug: "how-many-kwh-does-a-solar-panel-produce-per-day"
 affiliate_disclosure: true
 faqs:
-  - q: "How many kWh does a 400-watt solar panel produce per day?"
-    a: "A 400W panel will typically produce between 1.2 and 2.2 kWh per day depending on your location's peak sun hours and real-world losses from heat, shading, and inverter efficiency. In a good solar location like Dallas or Denver, expect around 1.6 to 1.8 kWh daily averaged over a full year."
-  - q: "How many solar panels does it take to produce 30 kWh a day?"
-    a: "If each panel averages 1.5 kWh per day (a reasonable estimate for much of the US), you'd need about 20 panels. In sunnier areas where panels hit 2.0 kWh/day, you might get there with 15. System size, panel wattage, and your location all affect this."
-  - q: "Do solar panels produce more in summer than winter?"
-    a: "Yes, significantly. A panel that averages 1.8 kWh/day annually might produce 2.4 kWh/day in June and only 1.0 kWh/day in December, especially at northern latitudes. This seasonal swing is one reason battery storage or a well-structured net metering agreement matters."
-  - q: "Does panel wattage matter more than brand?"
-    a: "Wattage and efficiency rating matter more than brand for most people, though build quality and warranty terms are real considerations. A 420W panel from a reputable tier-1 manufacturer like Qcells or REC will outperform a 370W panel from a lesser-known brand, all else equal. The efficiency rating tells you how much power a panel extracts per square foot, which matters if you have limited roof space."
-  - q: "Can one solar panel power a house?"
-    a: "Not even close to a whole house. One 400W panel might produce enough to run a refrigerator and a few lights. Whole-home solar systems in the US typically run between 6 kW and 12 kW, which means 15 to 30 panels depending on wattage. Single-panel setups are more appropriate for cabins, RVs, or specific appliance offsets."
+ - q: "How many kWh does a 400-watt solar panel produce per day?"
+ a: "A 400W panel will typically produce between 1.2 and 2.2 kWh per day depending on your location's peak sun hours and real-world losses from heat, shading, and inverter efficiency. In a good solar location like Dallas or Denver, expect around 1.6 to 1.8 kWh daily averaged over a full year."
+ - q: "How many solar panels does it take to produce 30 kWh a day?"
+ a: "If each panel averages 1.5 kWh per day (a reasonable estimate for much of the US), you'd need about 20 panels. In sunnier areas where panels hit 2.0 kWh/day, you might get there with 15. System size, panel wattage, and your location all affect this."
+ - q: "Do solar panels produce more in summer than winter?"
+ a: "Yes, significantly. A panel that averages 1.8 kWh/day annually might produce 2.4 kWh/day in June and only 1.0 kWh/day in December, especially at northern latitudes. This seasonal swing is one reason battery storage or a well-structured net metering agreement matters."
+ - q: "Does panel wattage matter more than brand?"
+ a: "Wattage and efficiency rating matter more than brand for most people, though build quality and warranty terms are real considerations. A 420W panel from a reputable tier-1 manufacturer like Qcells or REC will outperform a 370W panel from a lesser-known brand, all else equal. The efficiency rating tells you how much power a panel extracts per square foot, which matters if you have limited roof space."
+ - q: "Can one solar panel power a house?"
+ a: "Not even close to a whole house. One 400W panel might produce enough to run a refrigerator and a few lights. Whole-home solar systems in the US typically run between 6 kW and 12 kW, which means 15 to 30 panels depending on wattage. Single-panel setups are more appropriate for cabins, RVs, or specific appliance offsets."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Policy Writer"
@@ -31,12 +31,12 @@ Here's the honest answer: a standard residential solar panel today will produce 
 
 
 <div class="value-module">
-  <div class="vm-head">Daily Output by City and Panel Size</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table shows realistic daily kWh production for common panel wattages across U.S. cities, using NREL peak sun hour data and assuming standard south-facing installation with minimal shading.</p>
-    <table><thead><tr><th>City</th><th>Peak Sun Hours (avg)</th><th>370W Panel</th><th>400W Panel</th><th>440W Panel</th></tr></thead><tbody><tr><td>Phoenix, AZ</td><td>6.0</td><td>1.9 kWh</td><td>2.1 kWh</td><td>2.3 kWh</td></tr><tr><td>Miami, FL</td><td>5.6</td><td>1.8 kWh</td><td>1.9 kWh</td><td>2.1 kWh</td></tr><tr><td>Denver, CO</td><td>5.0</td><td>1.6 kWh</td><td>1.7 kWh</td><td>1.9 kWh</td></tr><tr><td>Chicago, IL</td><td>4.4</td><td>1.4 kWh</td><td>1.5 kWh</td><td>1.7 kWh</td></tr><tr><td>Boston, MA</td><td>4.2</td><td>1.3 kWh</td><td>1.4 kWh</td><td>1.6 kWh</td></tr><tr><td>Portland, OR</td><td>3.8</td><td>1.2 kWh</td><td>1.3 kWh</td><td>1.4 kWh</td></tr><tr><td>Seattle, WA</td><td>3.5</td><td>1.1 kWh</td><td>1.2 kWh</td><td>1.3 kWh</td></tr></tbody><tfoot><tr><td colspan="5">Values assume ~85% system efficiency (accounting for inverter losses, wiring, temperature). Actual output varies by roof angle, shading, and seasonal conditions.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Daily Output by City and Panel Size</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table shows realistic daily kWh production for common panel wattages across U.S. cities, using NREL peak sun hour data and assuming standard south-facing installation with minimal shading.</p>
+ <table><thead><tr><th>City</th><th>Peak Sun Hours (avg)</th><th>370W Panel</th><th>400W Panel</th><th>440W Panel</th></tr></thead><tbody><tr><td>Phoenix, AZ</td><td>6.0</td><td>1.9 kWh</td><td>2.1 kWh</td><td>2.3 kWh</td></tr><tr><td>Miami, FL</td><td>5.6</td><td>1.8 kWh</td><td>1.9 kWh</td><td>2.1 kWh</td></tr><tr><td>Denver, CO</td><td>5.0</td><td>1.6 kWh</td><td>1.7 kWh</td><td>1.9 kWh</td></tr><tr><td>Chicago, IL</td><td>4.4</td><td>1.4 kWh</td><td>1.5 kWh</td><td>1.7 kWh</td></tr><tr><td>Boston, MA</td><td>4.2</td><td>1.3 kWh</td><td>1.4 kWh</td><td>1.6 kWh</td></tr><tr><td>Portland, OR</td><td>3.8</td><td>1.2 kWh</td><td>1.3 kWh</td><td>1.4 kWh</td></tr><tr><td>Seattle, WA</td><td>3.5</td><td>1.1 kWh</td><td>1.2 kWh</td><td>1.3 kWh</td></tr></tbody><tfoot><tr><td colspan="5">Values assume ~85% system efficiency (accounting for inverter losses, wiring, temperature). Actual output varies by roof angle, shading, and seasonal conditions.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Actually Determines a Panel's Daily Output

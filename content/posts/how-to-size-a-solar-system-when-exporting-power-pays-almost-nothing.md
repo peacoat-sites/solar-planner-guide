@@ -11,10 +11,7 @@ author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "how-to-size-a-solar-system-when-exporting-power-pays-almost-nothing"
-affiliate_disclosure: true
----
-
-If you've been getting quotes for solar lately, you might be wondering why the numbers don't seem to add up the way they did a few years ago. Your neighbor installed panels in 2021 and talks about nearly zeroing out his electric bill. Your quote for a similar system today doesn't come close to that. You're not imagining it. The economics of residential solar have shifted in a meaningful way, and the sizing formula that worked brilliantly for years is now actively working against a lot of homeowners.
+affiliate_disclosure: true, If you've been getting quotes for solar lately, you might be wondering why the numbers don't seem to add up the way they did a few years ago. Your neighbor installed panels in 2021 and talks about nearly zeroing out his electric bill. Your quote for a similar system today doesn't come close to that. You're not imagining it. The economics of residential solar have shifted in a meaningful way, and the sizing formula that worked brilliantly for years is now actively working against a lot of homeowners.
 
 A BloombergNEF report released June 15, 2026 puts a number on the slowdown: the U.S. is projected to add just 4.1 GW of residential solar this year, down 15% from 2025 and the lowest five-year total we've seen. Part of that is the sunsetting of the 30% federal tax credit under the One Big Beautiful Bill Act. But a bigger part is something more structural. The classic sizing strategy, oversize your array and let the grid act as your free battery, is collapsing under the weight of net metering changes spreading state by state.
 
@@ -70,12 +67,12 @@ The installers who tell you to oversize aren't necessarily being dishonest. Many
 
 ## Sources
 
-- [U.S. Residential Solar Installations Set to Stall for Years ,  Bloomberg / Spokesman-Review](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
-- [Net Metering Tracker: Which States Are Changing the Rules in 2026? ,  OhmSnap](https://www.ohmsnap.com/net-metering-tracker) (April 2026)
-- [Net Metering Rules by State: 2026 Policy Comparison ,  Green Energy Calculators](https://greenenergycalc.com/guides/net-metering-rules-by-state-2026/) (April 7, 2026)
-- [PA Net Metering 2026: PPL Tariff Changes July 2026 ,  NuWatt Energy](https://nuwattenergy.com/en/pennsylvania/net-metering-guide-2026) (April 2026)
-- [How Much Solar Do You Really Need? Sizing Your System Under NEM 3.0 ,  Pacific Solar Company](https://pacificsolarcompany.com/how-much-solar-do-you-really-need-sizing-your-system-the-smart-way/) (January 2026)
-- [PG&E Solar in 2026: NEM 3.0 Strategy, TOU Rates, and Battery Sizing Guide ,  OhmSnap](https://www.ohmsnap.com/blog/pge-solar-savings-nem3-2026) (March 2026)
+- [U.S. Residential Solar Installations Set to Stall for Years , Bloomberg / Spokesman-Review](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
+- [Net Metering Tracker: Which States Are Changing the Rules in 2026? , OhmSnap](https://www.ohmsnap.com/net-metering-tracker) (April 2026)
+- [Net Metering Rules by State: 2026 Policy Comparison , Green Energy Calculators](https://greenenergycalc.com/guides/net-metering-rules-by-state-2026/) (April 7, 2026)
+- [PA Net Metering 2026: PPL Tariff Changes July 2026 , NuWatt Energy](https://nuwattenergy.com/en/pennsylvania/net-metering-guide-2026) (April 2026)
+- [How Much Solar Do You Really Need? Sizing Your System Under NEM 3.0 , Pacific Solar Company](https://pacificsolarcompany.com/how-much-solar-do-you-really-need-sizing-your-system-the-smart-way/) (January 2026)
+- [PG&E Solar in 2026: NEM 3.0 Strategy, TOU Rates, and Battery Sizing Guide , OhmSnap](https://www.ohmsnap.com/blog/pge-solar-savings-nem3-2026) (March 2026)
 
 ## Helpful Resources
 

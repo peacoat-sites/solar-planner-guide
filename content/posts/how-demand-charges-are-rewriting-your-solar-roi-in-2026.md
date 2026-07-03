@@ -11,10 +11,7 @@ author_slug: "patricia-moore"
 author_title: "Policy Writer"
 author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
 slug: "how-demand-charges-are-rewriting-your-solar-roi-in-2026"
-affiliate_disclosure: true
----
-
-You got the quote from your solar installer: "With net metering, you'll pay off this system in nine years." You nodded, did the math in your head, and started filling out the paperwork. Then last week, you saw an email from your utility. Effective July 2026, there's a new charge on your bill. It's not based on how much electricity you use anymore. It's based on your peak demand during a 15-minute window.
+affiliate_disclosure: true, You got the quote from your solar installer: "With net metering, you'll pay off this system in nine years." You nodded, did the math in your head, and started filling out the paperwork. Then last week, you saw an email from your utility. Effective July 2026, there's a new charge on your bill. It's not based on how much electricity you use anymore. It's based on your peak demand during a 15-minute window.
 
 That nine-year payoff? It just got longer.
 
@@ -90,6 +87,6 @@ The solar industry built its growth on predictable net-metering math. That era i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

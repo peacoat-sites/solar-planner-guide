@@ -13,21 +13,21 @@ author_bio: "Derek Hansen has pulled permits and installed solar systems in thre
 slug: "how-to-size-a-solar-battery-bank"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I know if I need a battery at all?"
-    a: "If you have good solar generation and low night usage, you might not need one—you'll export power to the grid during the day and draw at night, which works fine unless outages are common in your area. If you want backup power, live in an area with frequent outages, or have high time-of-use rates in the evening, a battery makes financial sense."
-  - q: "Does it matter what time of year I measure my usage?"
-    a: "Yes. Use your worst month (usually winter if you heat, summer if you cool heavily). If you measure only summer and install a battery sized for that, you'll be undersized when your winter loads spike. Get a full year of data if you can, then size for the worst month."
-  - q: "Can I add a second battery later if I undersized?"
-    a: "Yes, most modern systems (Powerwall, Enphase, LG) are stackable. But installation costs money each time, and you pay more per kWh for the second battery than the first. It's usually cheaper to size right the first time."
-  - q: "What's the difference between on-grid and off-grid battery sizing?"
-    a: "Off-grid is much more complicated because you have no grid backup. You're sizing for multi-day outages and seasonal variation. You typically need 3-5 days of autonomy, which means a much larger battery. Don't attempt off-grid sizing without a professional—the math is totally different."
-  - q: "Do I need to account for battery efficiency losses?"
-    a: "Yes. Batteries are about 85-95% efficient round-trip (charge and discharge). That 1.25 multiplier I mentioned earlier covers that. If you're doing manual math, assume 10% loss, so a 10 kWh need requires about 11.1 kWh of battery storage to account for losses."
+ - q: "How do I know if I need a battery at all?"
+ a: "If you have good solar generation and low night usage, you might not need one, you'll export power to the grid during the day and draw at night, which works fine unless outages are common in your area. If you want backup power, live in an area with frequent outages, or have high time-of-use rates in the evening, a battery makes financial sense."
+ - q: "Does it matter what time of year I measure my usage?"
+ a: "Yes. Use your worst month (usually winter if you heat, summer if you cool heavily). If you measure only summer and install a battery sized for that, you'll be undersized when your winter loads spike. Get a full year of data if you can, then size for the worst month."
+ - q: "Can I add a second battery later if I undersized?"
+ a: "Yes, most modern systems (Powerwall, Enphase, LG) are stackable. But installation costs money each time, and you pay more per kWh for the second battery than the first. It's usually cheaper to size right the first time."
+ - q: "What's the difference between on-grid and off-grid battery sizing?"
+ a: "Off-grid is much more complicated because you have no grid backup. You're sizing for multi-day outages and seasonal variation. You typically need 3-5 days of autonomy, which means a much larger battery. Don't attempt off-grid sizing without a professional, the math is totally different."
+ - q: "Do I need to account for battery efficiency losses?"
+ a: "Yes. Batteries are about 85-95% efficient round-trip (charge and discharge). That 1.25 multiplier I mentioned earlier covers that. If you're doing manual math, assume 10% loss, so a 10 kWh need requires about 11.1 kWh of battery storage to account for losses."
 ---
 
 The first time I sat down to size a battery bank for my own home, I stared at my utility bill for about twenty minutes waiting for it to tell me the answer. It didn't. Nobody tells you that the math here is backwards from what you'd think.
 
-Most people assume you size a battery based on how much power you use. That's wrong. You size it based on what you want the battery to do for you during the hours when your panels aren't producing. And those two things—total consumption and useful battery capacity—are wildly different numbers. I'll be honest: this is where a lot of homeowners get blindsided.
+Most people assume you size a battery based on how much power you use. That's wrong. You size it based on what you want the battery to do for you during the hours when your panels aren't producing. And those two things, total consumption and useful battery capacity, are wildly different numbers. I'll be honest: this is where a lot of homeowners get blindsided.
 
 ## What Your Battery Actually Needs to Cover
 
@@ -145,7 +145,7 @@ Split the difference: size for your actual current needs plus 20% buffer. Don't 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999) — 2048Wh LFP battery with 2400W output — ideal for whole-home solar backup or pairing with rooftop solar panels.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
 

@@ -9,16 +9,16 @@ tags: ["roof", "requirements", "solar", "panels"]
 slug: "roof-requirements-for-solar-panels"
 affiliate_disclosure: true
 faqs:
-  - q: "Does my roof need to be new to get solar panels installed?"
-    a: "No. Plenty of people successfully install solar on roofs that are 10 or even 15 years old. The key question isn't age alone, it's remaining lifespan. If your roof has at least 10 to 12 years of serviceable life left, it's generally a reasonable candidate. Have an independent roofer assess it before you commit."
-  - q: "Can solar panels be installed on a flat roof?"
-    a: "Yes, though it requires a different approach than pitched roofs. Flat-roof installations use either ballasted racking systems (which use weight to hold the array in place without roof penetrations) or penetrating mounts. Ballasted systems add significant weight, so a structural assessment is especially important. The array is typically tilted at 10 to 15 degrees to allow water runoff and optimize sun exposure."
-  - q: "What if my roof has multiple planes facing different directions?"
-    a: "This is actually very common and usually manageable. Installers can split the array across multiple roof sections, though it may affect inverter choice (microinverters or power optimizers tend to handle multi-orientation systems better than string inverters). You might see slightly lower overall production versus a single south-facing plane, but the difference varies by layout and location."
-  - q: "Will installing solar void my roof warranty?"
-    a: "It can, depending on your roofing material and the installation method. Some shingle manufacturers void warranties if holes are drilled by non-certified contractors. Ask your solar installer specifically whether they use roofing-manufacturer-approved hardware and whether the installation method affects your existing warranty. If your roof is newer and still under warranty, this is a non-negotiable conversation to have before installation."
-  - q: "How do I monitor whether my roof or panels have a problem after installation?"
-    a: "Panel-level monitoring through your inverter's app (Enphase Enlighten, SolarEdge monitoring portal, etc.) will flag production drops that can indicate shading issues, equipment failures, or damage. For the roof itself, a home energy monitor like the Emporia Vue Energy Monitor (Amazon, affiliate link) can help you track consumption patterns that might indicate something's off with your system. You should also do a visual roof inspection once a year, ideally from the ground with binoculars, looking for lifted panels, damaged flashing, or debris accumulation under the array."
+ - q: "Does my roof need to be new to get solar panels installed?"
+ a: "No. Plenty of people successfully install solar on roofs that are 10 or even 15 years old. The key question isn't age alone, it's remaining lifespan. If your roof has at least 10 to 12 years of serviceable life left, it's generally a reasonable candidate. Have an independent roofer assess it before you commit."
+ - q: "Can solar panels be installed on a flat roof?"
+ a: "Yes, though it requires a different approach than pitched roofs. Flat-roof installations use either ballasted racking systems (which use weight to hold the array in place without roof penetrations) or penetrating mounts. Ballasted systems add significant weight, so a structural assessment is especially important. The array is typically tilted at 10 to 15 degrees to allow water runoff and optimize sun exposure."
+ - q: "What if my roof has multiple planes facing different directions?"
+ a: "This is actually very common and usually manageable. Installers can split the array across multiple roof sections, though it may affect inverter choice (microinverters or power optimizers tend to handle multi-orientation systems better than string inverters). You might see slightly lower overall production versus a single south-facing plane, but the difference varies by layout and location."
+ - q: "Will installing solar void my roof warranty?"
+ a: "It can, depending on your roofing material and the installation method. Some shingle manufacturers void warranties if holes are drilled by non-certified contractors. Ask your solar installer specifically whether they use roofing-manufacturer-approved hardware and whether the installation method affects your existing warranty. If your roof is newer and still under warranty, this is a non-negotiable conversation to have before installation."
+ - q: "How do I monitor whether my roof or panels have a problem after installation?"
+ a: "Panel-level monitoring through your inverter's app (Enphase Enlighten, SolarEdge monitoring portal, etc.) will flag production drops that can indicate shading issues, equipment failures, or damage. For the roof itself, a home energy monitor like the Emporia Vue Energy Monitor (Amazon, affiliate link) can help you track consumption patterns that might indicate something's off with your system. You should also do a visual roof inspection once a year, ideally from the ground with binoculars, looking for lifted panels, damaged flashing, or debris accumulation under the array."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
@@ -121,7 +121,7 @@ A roof that's structurally solid, reasonably oriented, mostly unshaded, and has 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

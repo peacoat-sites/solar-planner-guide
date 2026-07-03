@@ -9,16 +9,16 @@ tags: ["metering", "changes", "state"]
 slug: "net-metering-changes-by-state"
 affiliate_disclosure: true
 faqs:
-  - q: "Is net metering going away completely?"
-    a: "Unlikely in most states, but the version of net metering that pays full retail rates for exports is clearly on a downward trend. More states are moving toward 'value of solar' or avoided-cost models that pay something, just not the retail rate. If you're in a state that still has full retail net metering, that's worth factoring into your timing decision."
-  - q: "Can I be grandfathered into my state's old net metering rules?"
-    a: "Yes, in most cases. California NEM 2.0 customers are grandfathered for 20 years from their interconnection date. Nevada and Florida also have grandfathering provisions. The specific protection varies by state and utility, so confirm with your utility before signing anything, because grandfathering rules are in the documents, not the sales pitch."
-  - q: "Does net metering policy affect whether I should get a battery?"
-    a: "Significantly, yes. In states with full retail net metering, batteries primarily add value through backup power and avoiding demand charges (if your utility has them). In states with low export rates like California or Hawaii, batteries can meaningfully improve your financial return because you're using stored power at retail rates instead of exporting at below-retail rates."
-  - q: "How do I find my current state's net metering policy?"
-    a: "Your state's public utilities commission website is the official source, though it can be hard to parse. DSIRE (dsireusa.org) maintains a state-by-state database that's more readable, and NREL also publishes regular policy tracking reports. Avoid relying on solar installer websites for this, since they don't always update when policies change."
-  - q: "My neighbor went solar two years ago and has a much better deal than I would get today. Is that fair?"
-    a: "Honestly, no, not if you think about equity across all utility customers. But grandfathering is how utilities and regulators typically manage the transition, so early adopters do genuinely have better economics in states that have moved away from retail net metering. It's one of the real arguments for not waiting if you're in a state with strong rates today."
+ - q: "Is net metering going away completely?"
+ a: "Unlikely in most states, but the version of net metering that pays full retail rates for exports is clearly on a downward trend. More states are moving toward 'value of solar' or avoided-cost models that pay something, just not the retail rate. If you're in a state that still has full retail net metering, that's worth factoring into your timing decision."
+ - q: "Can I be grandfathered into my state's old net metering rules?"
+ a: "Yes, in most cases. California NEM 2.0 customers are grandfathered for 20 years from their interconnection date. Nevada and Florida also have grandfathering provisions. The specific protection varies by state and utility, so confirm with your utility before signing anything, because grandfathering rules are in the documents, not the sales pitch."
+ - q: "Does net metering policy affect whether I should get a battery?"
+ a: "Significantly, yes. In states with full retail net metering, batteries primarily add value through backup power and avoiding demand charges (if your utility has them). In states with low export rates like California or Hawaii, batteries can meaningfully improve your financial return because you're using stored power at retail rates instead of exporting at below-retail rates."
+ - q: "How do I find my current state's net metering policy?"
+ a: "Your state's public utilities commission website is the official source, though it can be hard to parse. DSIRE (dsireusa.org) maintains a state-by-state database that's more readable, and NREL also publishes regular policy tracking reports. Avoid relying on solar installer websites for this, since they don't always update when policies change."
+ - q: "My neighbor went solar two years ago and has a much better deal than I would get today. Is that fair?"
+ a: "Honestly, no, not if you think about equity across all utility customers. But grandfathering is how utilities and regulators typically manage the transition, so early adopters do genuinely have better economics in states that have moved away from retail net metering. It's one of the real arguments for not waiting if you're in a state with strong rates today."
 author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
@@ -33,12 +33,12 @@ If you're researching solar right now, or you installed recently and want to und
 
 
 <div class="value-module">
-  <div class="vm-head">State Solar Export Compensation Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Current export compensation structures vary dramatically by state, affecting solar payback calculations by 3–8 years depending on where you live.</p>
-    <table><caption>Solar Export Compensation by State (2024 Policy Status)</caption><thead><tr><th>State</th><th>Program Type</th><th>Typical Export Rate</th><th>Rate Structure</th><th>Grandfathering Period</th></tr></thead><tbody><tr><td>California</td><td>NEM 3.0 (Net Billing)</td><td>$0.05–$0.08/kWh</td><td>Time-of-use, hourly varying</td><td>NEM 2.0 locked 20 years from install</td></tr><tr><td>Arizona</td><td>Export Rate Rider</td><td>$0.06–$0.09/kWh</td><td>Fixed avoided cost</td><td>10 years from interconnection</td></tr><tr><td>Nevada</td><td>Net Billing</td><td>~75% retail ($0.08–$0.11/kWh)</td><td>Declining annually</td><td>20 years at install-date rate</td></tr><tr><td>Hawaii</td><td>Customer Grid Supply</td><td>$0.10–$0.15/kWh</td><td>Fixed by island grid</td><td>Legacy NEM closed 2015</td></tr><tr><td>Florida</td><td>Traditional Net Metering</td><td>Full retail (~$0.12–$0.14/kWh)</td><td>1:1 kWh credit</td><td>Under active legislative threat</td></tr><tr><td>Texas (non-ERCOT)</td><td>Varies by utility</td><td>$0.04–$0.10/kWh</td><td>Utility-specific buyback</td><td>No statewide standard</td></tr><tr><td>New York</td><td>Value of DER (VDER)</td><td>$0.08–$0.18/kWh</td><td>Location + time variable</td><td>25-year value stack lock-in</td></tr><tr><td>Massachusetts</td><td>SMART Program</td><td>$0.12–$0.20/kWh</td><td>Declining block incentive</td><td>10-year compensation term</td></tr><tr><td>New Jersey</td><td>Net Metering + SRECs</td><td>Full retail + ~$0.04/kWh SREC</td><td>1:1 credit + tradeable RECs</td><td>15-year SREC eligibility</td></tr><tr><td>Colorado</td><td>Traditional Net Metering</td><td>Full retail (~$0.11–$0.14/kWh)</td><td>1:1 kWh credit</td><td>Utility proposals pending</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">State Solar Export Compensation Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Current export compensation structures vary dramatically by state, affecting solar payback calculations by 3–8 years depending on where you live.</p>
+ <table><caption>Solar Export Compensation by State (2024 Policy Status)</caption><thead><tr><th>State</th><th>Program Type</th><th>Typical Export Rate</th><th>Rate Structure</th><th>Grandfathering Period</th></tr></thead><tbody><tr><td>California</td><td>NEM 3.0 (Net Billing)</td><td>$0.05–$0.08/kWh</td><td>Time-of-use, hourly varying</td><td>NEM 2.0 locked 20 years from install</td></tr><tr><td>Arizona</td><td>Export Rate Rider</td><td>$0.06–$0.09/kWh</td><td>Fixed avoided cost</td><td>10 years from interconnection</td></tr><tr><td>Nevada</td><td>Net Billing</td><td>~75% retail ($0.08–$0.11/kWh)</td><td>Declining annually</td><td>20 years at install-date rate</td></tr><tr><td>Hawaii</td><td>Customer Grid Supply</td><td>$0.10–$0.15/kWh</td><td>Fixed by island grid</td><td>Legacy NEM closed 2015</td></tr><tr><td>Florida</td><td>Traditional Net Metering</td><td>Full retail (~$0.12–$0.14/kWh)</td><td>1:1 kWh credit</td><td>Under active legislative threat</td></tr><tr><td>Texas (non-ERCOT)</td><td>Varies by utility</td><td>$0.04–$0.10/kWh</td><td>Utility-specific buyback</td><td>No statewide standard</td></tr><tr><td>New York</td><td>Value of DER (VDER)</td><td>$0.08–$0.18/kWh</td><td>Location + time variable</td><td>25-year value stack lock-in</td></tr><tr><td>Massachusetts</td><td>SMART Program</td><td>$0.12–$0.20/kWh</td><td>Declining block incentive</td><td>10-year compensation term</td></tr><tr><td>New Jersey</td><td>Net Metering + SRECs</td><td>Full retail + ~$0.04/kWh SREC</td><td>1:1 credit + tradeable RECs</td><td>15-year SREC eligibility</td></tr><tr><td>Colorado</td><td>Traditional Net Metering</td><td>Full retail (~$0.11–$0.14/kWh)</td><td>1:1 kWh credit</td><td>Utility proposals pending</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Net Metering Actually Is (and Why the Definition Is Getting Blurry)

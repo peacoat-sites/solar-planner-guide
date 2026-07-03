@@ -9,16 +9,16 @@ tags: ["much", "solar", "panels", "increase", "home"]
 slug: "how-much-do-solar-panels-increase-home-value"
 affiliate_disclosure: true
 faqs:
-  - q: "Does solar increase property taxes on my home?"
-    a: "In most states, no. More than 35 states have property tax exemptions specifically for solar installations, meaning the added value from solar won't increase your annual property tax bill. California, Texas, and Florida all have these exemptions. Always verify with your specific county assessor's office, because exemptions can vary at the local level."
-  - q: "How much value does solar add per watt?"
-    a: "The most widely cited figure, from Lawrence Berkeley National Laboratory's long-running 'Tracking the Sun' research, is approximately $4 per watt of installed capacity. That means a 6kW system could add around $24,000 in resale value, though the actual premium varies significantly by state, electricity rates, and local market conditions."
-  - q: "Do solar panels hurt home sales or make homes harder to sell?"
-    a: "Owned solar systems generally don't hurt sales and often help. Leased systems are a more complicated story and have been known to slow or complicate transactions, because the buyer needs to assume the lease or the seller must buy it out. In markets with strong solar familiarity, owned systems typically sell faster, not slower."
-  - q: "Will an appraiser give full value to my solar panels?"
-    a: "Not always. Appraiser familiarity with solar valuation varies widely, and in markets without many recent solar comp sales, appraisers sometimes assign little or no value to a system. Working with an agent experienced in solar home sales and requesting a PV-knowledgeable appraiser can help close that gap."
-  - q: "Does a solar system need to be paid off to add resale value?"
-    a: "If you took out a solar loan and it's still outstanding, the lien on the system can complicate the title transfer at sale. It doesn't eliminate the value, but you'll generally need to pay off the loan at closing, similar to any other secured debt. Factor this into your equity calculations before listing."
+ - q: "Does solar increase property taxes on my home?"
+ a: "In most states, no. More than 35 states have property tax exemptions specifically for solar installations, meaning the added value from solar won't increase your annual property tax bill. California, Texas, and Florida all have these exemptions. Always verify with your specific county assessor's office, because exemptions can vary at the local level."
+ - q: "How much value does solar add per watt?"
+ a: "The most widely cited figure, from Lawrence Berkeley National Laboratory's long-running 'Tracking the Sun' research, is approximately $4 per watt of installed capacity. That means a 6kW system could add around $24,000 in resale value, though the actual premium varies significantly by state, electricity rates, and local market conditions."
+ - q: "Do solar panels hurt home sales or make homes harder to sell?"
+ a: "Owned solar systems generally don't hurt sales and often help. Leased systems are a more complicated story and have been known to slow or complicate transactions, because the buyer needs to assume the lease or the seller must buy it out. In markets with strong solar familiarity, owned systems typically sell faster, not slower."
+ - q: "Will an appraiser give full value to my solar panels?"
+ a: "Not always. Appraiser familiarity with solar valuation varies widely, and in markets without many recent solar comp sales, appraisers sometimes assign little or no value to a system. Working with an agent experienced in solar home sales and requesting a PV-knowledgeable appraiser can help close that gap."
+ - q: "Does a solar system need to be paid off to add resale value?"
+ a: "If you took out a solar loan and it's still outstanding, the lien on the system can complicate the title transfer at sale. It doesn't eliminate the value, but you'll generally need to pay off the loan at closing, similar to any other secured debt. Factor this into your equity calculations before listing."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
@@ -31,12 +31,12 @@ I've spent a lot of time with homeowners trying to figure out whether solar is a
 
 
 <div class="value-module">
-  <div class="vm-head">Owned vs. Leased Solar: Resale Impact</div>
-  <div class="vm-body">
-    <p class="vm-intro">The ownership structure of your solar system dramatically affects how buyers and lenders perceive your home's value.</p>
-    <table><caption>How Solar Ownership Type Affects Home Resale</caption><thead><tr><th>Factor</th><th>Owned System</th><th>Leased / PPA</th></tr></thead><tbody><tr><td>Appraised value increase</td><td>$3–$4 per watt typical (e.g., $18K–$24K for 6kW)</td><td>Often $0, system is not homeowner's asset</td></tr><tr><td>Buyer perception</td><td>Viewed as home upgrade (like a new roof)</td><td>Viewed as transferred debt obligation</td></tr><tr><td>Sale complexity</td><td>Transfers with property at closing</td><td>Requires lease transfer approval; some buyers walk</td></tr><tr><td>Lender treatment</td><td>Included in collateral value</td><td>Monthly payment may count against buyer's DTI ratio</td></tr><tr><td>Negotiation leverage</td><td>Seller can highlight lifetime savings</td><td>Seller may need to buy out lease ($5K–$20K typical) to close deal</td></tr><tr><td>Best-case scenario</td><td>Full premium in high-rate state with solar-savvy appraiser</td><td>Buyer is comfortable assuming lease; no discount demanded</td></tr><tr><td>Worst-case scenario</td><td>Appraiser finds no comps; premium undervalued</td><td>Deal falls through or seller pays buyout plus price reduction</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Owned vs. Leased Solar: Resale Impact</div>
+ <div class="vm-body">
+ <p class="vm-intro">The ownership structure of your solar system dramatically affects how buyers and lenders perceive your home's value.</p>
+ <table><caption>How Solar Ownership Type Affects Home Resale</caption><thead><tr><th>Factor</th><th>Owned System</th><th>Leased / PPA</th></tr></thead><tbody><tr><td>Appraised value increase</td><td>$3–$4 per watt typical (e.g., $18K–$24K for 6kW)</td><td>Often $0, system is not homeowner's asset</td></tr><tr><td>Buyer perception</td><td>Viewed as home upgrade (like a new roof)</td><td>Viewed as transferred debt obligation</td></tr><tr><td>Sale complexity</td><td>Transfers with property at closing</td><td>Requires lease transfer approval; some buyers walk</td></tr><tr><td>Lender treatment</td><td>Included in collateral value</td><td>Monthly payment may count against buyer's DTI ratio</td></tr><tr><td>Negotiation leverage</td><td>Seller can highlight lifetime savings</td><td>Seller may need to buy out lease ($5K–$20K typical) to close deal</td></tr><tr><td>Best-case scenario</td><td>Full premium in high-rate state with solar-savvy appraiser</td><td>Buyer is comfortable assuming lease; no discount demanded</td></tr><tr><td>Worst-case scenario</td><td>Appraiser finds no comps; premium undervalued</td><td>Deal falls through or seller pays buyout plus price reduction</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Core Number, and Why It's Slippery

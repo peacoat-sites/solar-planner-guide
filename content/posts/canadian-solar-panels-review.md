@@ -13,16 +13,16 @@ author_bio: "Craig Stevens is a financial advisor who has helped dozens of clien
 slug: "canadian-solar-panels-review"
 affiliate_disclosure: true
 faqs:
-  - q: "Are Canadian Solar panels made in Canada?"
-    a: "No. Canadian Solar was founded in Canada in 2001, but manufacturing is based primarily in Vietnam and Thailand. The Canadian name reflects the company's origin, not where the panels are built today."
-  - q: "How do Canadian Solar panels compare to Qcells?"
-    a: "They're closely matched in price and performance at the residential level. Qcells has slightly stronger brand recognition in the U.S. and better all-black aesthetics on some product lines. For standard installs, the real-world performance difference is small enough that price and installer relationship usually matter more."
-  - q: "What warranty does Canadian Solar offer?"
-    a: "Most Canadian Solar residential panels carry a 12-year product warranty and a 25-year performance warranty. The performance warranty guarantees no more than 0.55% annual degradation after year one, which is competitive with industry standards."
-  - q: "Is Canadian Solar a tier one manufacturer?"
-    a: "Yes. Canadian Solar appears on Bloomberg NEF's tier one list, which is the most commonly cited industry benchmark. Tier one status reflects bankability and manufacturing scale, not necessarily panel quality per se. It's a floor, not a ceiling."
-  - q: "How long does a Canadian Solar warranty claim actually take?"
-    a: "Based on real cases I've tracked, expect six to twelve weeks from claim submission to replacement panel delivery in the U.S. market. It's not fast. Document everything from day one, including photos and installer assessments, and contact both the installer and Canadian Solar directly."
+ - q: "Are Canadian Solar panels made in Canada?"
+ a: "No. Canadian Solar was founded in Canada in 2001, but manufacturing is based primarily in Vietnam and Thailand. The Canadian name reflects the company's origin, not where the panels are built today."
+ - q: "How do Canadian Solar panels compare to Qcells?"
+ a: "They're closely matched in price and performance at the residential level. Qcells has slightly stronger brand recognition in the U.S. and better all-black aesthetics on some product lines. For standard installs, the real-world performance difference is small enough that price and installer relationship usually matter more."
+ - q: "What warranty does Canadian Solar offer?"
+ a: "Most Canadian Solar residential panels carry a 12-year product warranty and a 25-year performance warranty. The performance warranty guarantees no more than 0.55% annual degradation after year one, which is competitive with industry standards."
+ - q: "Is Canadian Solar a tier one manufacturer?"
+ a: "Yes. Canadian Solar appears on Bloomberg NEF's tier one list, which is the most commonly cited industry benchmark. Tier one status reflects bankability and manufacturing scale, not necessarily panel quality per se. It's a floor, not a ceiling."
+ - q: "How long does a Canadian Solar warranty claim actually take?"
+ a: "Based on real cases I've tracked, expect six to twelve weeks from claim submission to replacement panel delivery in the U.S. market. It's not fast. Document everything from day one, including photos and installer assessments, and contact both the installer and Canadian Solar directly."
 ---
 
 I'll be honest: when I first started recommending Canadian Solar panels to clients, I did it mostly on price. They were cheaper than SunPower, competitive with Qcells, and the warranty looked reasonable on paper. That was good enough for me. Then I started actually tracking how those installs performed over two and three years, and what I found pushed me to go a lot deeper on this brand than I ever expected to.
