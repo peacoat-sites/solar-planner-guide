@@ -97,3 +97,9 @@
 }
 </script>
 {{- end }}
+
+{{/* title-font */}}
+{{- if eq .Section "posts" }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&display=swap">
+<style>.post-title{font-family:'Space Grotesk', system-ui, sans-serif;letter-spacing:-.02em}</style>
+{{- end }}
