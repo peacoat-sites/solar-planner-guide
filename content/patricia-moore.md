@@ -2,6 +2,7 @@
 title: "Patricia Moore"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Policy Writer"
