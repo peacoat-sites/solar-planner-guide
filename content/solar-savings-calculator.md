@@ -1,5 +1,6 @@
 ---
 title: "Solar Savings Calculator: Estimate Your System Cost, Tax Credit & 25-Year Savings"
+hide_title: true
 description: "Use our free solar savings calculator to estimate your net system cost after the federal ITC, annual production, payback period, and 25-year savings — customized by state."
 date: 2026-06-10
 slug: "solar-savings-calculator"
