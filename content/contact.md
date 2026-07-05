@@ -19,4 +19,4 @@ Have a question, spotted an error, or want to suggest a topic? We read every mes
 
 We're a content publication, not a professional service. We can't provide personalized solar installation or financing advice specific to your situation. For that, please consult a qualified professional.
 
-*[Jordan Ellis](/{editor_slug}/) personally reviews all messages sent through this form.*
+*[Jordan Ellis](/jordan-ellis/) personally reviews all messages sent through this form.*
