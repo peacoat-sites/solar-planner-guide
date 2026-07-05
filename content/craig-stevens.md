@@ -2,6 +2,7 @@
 title: "Craig Stevens"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
