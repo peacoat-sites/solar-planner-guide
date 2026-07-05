@@ -1,5 +1,6 @@
 ---
 title: "About Solar Planner Guide"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Solar Planner Guide,  meet Derek Sato and learn how we help homeowners evaluate solar energy."
