@@ -1,5 +1,6 @@
 ---
 title: "Solar Financing Calculator: Compare Cash, Loan & Lease Options"
+hide_title: true
 description: "Compare solar financing options side by side — cash purchase, solar loan, or lease/PPA. See your monthly payment, payback period, and 25-year ROI for each option."
 date: 2026-06-10
 slug: "solar-financing-calculator"
