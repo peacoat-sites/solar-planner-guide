@@ -2,6 +2,7 @@
 title: "Alex Rivera"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
