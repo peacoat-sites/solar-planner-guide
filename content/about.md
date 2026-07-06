@@ -4,7 +4,9 @@ hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Solar Planner Guide,  meet Derek Sato and learn how we help homeowners evaluate solar energy."
----
+layout: "about-page"
+author_slug: "solar-planner-guide"
+author_name: "Solar Planner Guide"---
 
 ## About Solar Planner Guide
 
