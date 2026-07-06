@@ -7,6 +7,7 @@ description: "About Solar Planner Guide,  meet Derek Sato and learn how we help 
 layout: "about-page"
 author_slug: "alex-rivera"
 author_name: "Solar Planner Guide"
+person_name: "Derek Sato"
 ---
 
 ## About Solar Planner Guide
