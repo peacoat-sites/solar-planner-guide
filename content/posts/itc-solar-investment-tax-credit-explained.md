@@ -1,5 +1,5 @@
 ---
-title: "Itc Solar Investment Tax Credit Explained"
+title: "ITC Solar Investment Tax Credit Explained"
 date: 2026-05-27T20:31:45.882838+00:00
 draft: false
 description: "Learn how the ITC solar investment tax credit works, who qualifies, how much you can save, and how to claim it to reduce your federal tax bill."
