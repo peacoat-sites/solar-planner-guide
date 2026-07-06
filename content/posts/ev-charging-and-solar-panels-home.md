@@ -1,5 +1,5 @@
 ---
-title: "Ev Charging And Solar Panels Home"
+title: "EV Charging And Solar Panels Home"
 date: 2026-05-30T10:57:51.866120+00:00
 draft: false
 description: "Discover how to combine EV charging with home solar panels to reduce energy costs, boost sustainability, and power your electric vehicle with clean, renewable e"
