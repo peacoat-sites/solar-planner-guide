@@ -10,6 +10,9 @@ layout: "page"
 image: "https://images.pexels.com/photos/6963925/pexels-photo-6963925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
+{{< solar-calc >}}
+
+
 Understanding how much money solar panels can save you is the essential first step before you talk to any installer. Too many homeowners walk into a quote conversation without a baseline, which makes it difficult to evaluate whether a proposal is fair. This calculator gives you that baseline — a credible, state-specific estimate you can use as a reference point.
 
 ## What This Calculator Estimates
@@ -30,7 +33,6 @@ The **net system cost** and **payback period** are your two most important numbe
 
 The **25-year savings** figure is a long-term wealth estimate, not a guarantee. Panels typically carry 25-year production warranties from reputable manufacturers, so the 25-year frame is realistic — most panels produce well past their warranty period.
 
-{{< solar-calc >}}
 
 ## Next Steps After Calculating
 
