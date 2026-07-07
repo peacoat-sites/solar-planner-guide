@@ -25,8 +25,6 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 
 ---
-# Solar Panel ROI Calculation
-
 A solar salesperson tells you the system will pay for itself in 6 years. Sounds great. Then you ask how they got that number and get something about "average savings" with zero real backing. I've watched clients get quotes promising 8-year paybacks that, once we ran actual numbers, landed closer to 14 years. The gap wasn't dishonesty so much as sloppy math and wishful thinking. This guide shows you how to do it yourself, honestly, so you know what you're actually signing up for.
 
 ## What Solar ROI Actually Means (And What It Doesn't)

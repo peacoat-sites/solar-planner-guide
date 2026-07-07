@@ -25,8 +25,6 @@ author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
 
 ---
-# Solar Panel Cost Per Watt in 2026
-
 Three quotes just landed on your kitchen table. One says $2.40 per watt. Another says $3.80. Same roof. Same neighborhood. Same equipment, supposedly. This isn't a sales gimmick or a mistake. It's just how solar pricing works in 2026, and if you don't get it, you'll either overpay or make a decision you regret later.
 
 ## What Solar Panels Actually Cost Per Watt in 2026
