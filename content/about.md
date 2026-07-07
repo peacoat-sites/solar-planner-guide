@@ -3,11 +3,11 @@ title: "About Solar Planner Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Solar Planner Guide,  meet Derek Sato and learn how we help homeowners evaluate solar energy."
+description: "About Solar Planner Guide,  meet Alex Rivera and learn how we help homeowners evaluate solar energy."
 layout: "about-page"
 author_slug: "alex-rivera"
 author_name: "Solar Planner Guide"
-person_name: "Derek Sato"
+person_name: "Alex Rivera"
 ---
 
 ## About Solar Planner Guide
@@ -16,11 +16,9 @@ Solar Planner Guide is an independent resource that helps homeowners evaluate so
 
 ## Meet the Editor
 
-**Derek Sato** is the editor behind Solar Planner Guide.
+**Alex Rivera** is the editor behind Solar Planner Guide.
 
-Derek is a renewable energy researcher who tracks solar technology, installation market pricing, utility net metering policies, and federal and state incentive programs. He started Solar Planner Guide after noticing how much misinformation circulated around solar,  inflated savings claims, misleading payback estimates, and contracts with terms homeowners didn’t understand until after signing.
-
-His goal is to give homeowners an accurate, complete picture so they can evaluate installer proposals with confidence.
+Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output.
 
 ## What We Cover
 
@@ -34,7 +32,7 @@ All cost data and incentive information is sourced from NREL, SEIA, DSIRE, and p
 
 ## Disclaimer
 
-Solar Planner Guide provides general informational content. Derek Sato is a researcher,  not a licensed electrical contractor or solar installer. System costs, savings, and incentive eligibility vary significantly by location and home. Always obtain multiple quotes from licensed installers and verify incentive programs with your utility before making a purchase decision.
+Solar Planner Guide provides general informational content. Alex Rivera is a researcher,  not a licensed electrical contractor or solar installer. System costs, savings, and incentive eligibility vary significantly by location and home. Always obtain multiple quotes from licensed installers and verify incentive programs with your utility before making a purchase decision.
 
 ## Affiliate Disclosure
 
