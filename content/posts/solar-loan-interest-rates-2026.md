@@ -21,8 +21,8 @@ faqs:
    a: "It can. Unsecured solar loans appear on your credit report like any other installment debt, which affects your debt-to-income ratio. PACE financing can complicate a refinance because most conventional mortgage lenders require the PACE lien to be paid off at closing, since it takes super-priority over the mortgage. If you're planning to refinance your home within the next few years, this is a critical conversation to have with both your mortgage lender and your solar installer before you sign anything."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Policy Writer"
-author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+author_title: "Solar Policy Analyst"
+author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 
 ---
 You're sitting across from a solar salesperson. They slide a financing sheet your way and say, "It's just 2.99%." Sounds great. I've watched this happen dozens of times, and almost every homeowner signs without asking the one question that matters: compared to what? That 2.99% might be a dealer-fee-inflated loan that actually costs you closer to 6 or 7% once you understand how the numbers work. Solar loan interest rates in 2026 aren't what they look like on the surface, and the gap between what's advertised and what you actually pay could cost or save you thousands over a 20-year term.

@@ -21,8 +21,8 @@ faqs:
    a: "Actually, no. Installation timelines can be shorter in winter because demand for installers is lower. Pricing may be more negotiable. And your system will be operational and earning credits by the time peak summer production season arrives. Cold weather doesn't affect the installation process itself. I've seen homeowners get better deals by signing in December or January than they would have in May."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Sustainability Writer"
-author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+author_title: "Clean Energy Specialist"
+author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 
 ---
 Picture this: it's January, there's six inches of snow on your roof, the sun sets at 4:30 PM, and your solar installer is telling you your panels are still generating power. You probably think they're just trying to keep you happy. I thought the same thing. But after spending time digging into actual production data and talking to homeowners from Minnesota to Maine, I'll be honest: winter solar performance surprised me more than almost any other topic I've researched in this industry.

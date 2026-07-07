@@ -21,8 +21,8 @@ faqs:
    a: "Counterintuitively, yes. Solar panels pay back faster when you have more electricity load to offset. A larger system sized for both your home and your car generates more total savings, and since you're eliminating both your gasoline spend and your electricity bill, the combined savings can be substantial. I've seen payback periods drop from 8 years to under 6 years when EV charging was incorporated into a well-sized system from the start."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Sustainability Writer"
-author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+author_title: "Clean Energy Specialist"
+author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 
 ---
 Picture this: you just pulled into your driveway after a long day, plugged in your new EV, and watched your electricity meter spin like a slot machine. Your neighbor mentioned solar panels might help, but you're not sure if it's real math or just good marketing. I've been in that driveway conversation more times than I can count, and I'm here to tell you the answer is genuinely yes, but only if you size the system right and understand what you're actually buying.

@@ -21,8 +21,8 @@ faqs:
    a: "No. Florida has no state income tax, so there's no state tax credit. The available financial incentives are the federal 30% Investment Tax Credit, the state sales tax exemption on solar equipment, and the property tax exemption that prevents your home's assessed value from rising due to a solar installation."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Policy Writer"
-author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+author_title: "Solar Policy Analyst"
+author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 
 ---
 Florida gets about 237 sunny days a year. You'd think that makes it the best place in the country to go solar. The truth is more complicated, and the thing that trips up most Florida homeowners has nothing to do with sunshine.

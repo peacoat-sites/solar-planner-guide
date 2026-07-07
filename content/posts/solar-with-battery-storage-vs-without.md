@@ -21,8 +21,8 @@ faqs:
    a: "The average U.S. home uses about 30 kWh per day, but evening and nighttime consumption from about 5pm to 7am is typically 10 to 15 kWh. A single Powerwall 3 (13.5 kWh) covers most homes through a normal night at moderate consumption. If you have electric heating, a hot tub, or an EV you charge overnight, you'll want to model your actual evening load more carefully before sizing. An installer can pull this data from your utility account."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Sustainability Writer"
-author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+author_title: "Clean Energy Specialist"
+author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 
 ---
 You finally get your first electric bill after going solar. You were expecting something close to zero. Instead, it's $94. You call your installer confused, and they explain that yes, your panels are producing power, but you're still drawing from the grid every evening when the sun goes down. You didn't add a battery. And now, six months in, you're wondering if you made the right call.

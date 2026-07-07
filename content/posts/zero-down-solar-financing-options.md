@@ -21,8 +21,8 @@ faqs:
    a: "This varies by contract, but most agreements offer three options at the 20 or 25-year mark: renew the contract for another term, have the company remove the equipment at no cost to you, or purchase the system at fair market value. Fair market value on a 20-year-old solar system is typically quite low, sometimes just a few thousand dollars. Get the end-of-term terms in writing before you sign, not during the closing conversation."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Policy Writer"
-author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+author_title: "Solar Policy Analyst"
+author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 
 ---
 Most people assume solar is out of reach because they can't write a $20,000 check. What if that assumption is costing them $200, $300, even $400 a month? I've watched homeowners delay solar for years waiting to "save up," while their utility bills kept climbing. The math never works in their favor.

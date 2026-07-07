@@ -21,8 +21,8 @@ faqs:
    a: "TOU savings calculations are more complex. You need to map your consumption by time of day against your production profile. A south-facing system produces mostly between 10am and 3pm. If your utility charges peak rates during those hours, that production is worth maximum value. If you're mostly consuming power in the evening (when panels produce nothing), the savings calculation shifts significantly unless you add battery storage. Some utilities offer online TOU analysis tools. You can also download your hourly usage data from your utility's website and compare it hour-by-hour against a PVWatt"
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Policy Writer"
-author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+author_title: "Solar Policy Analyst"
+author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 
 ---
 $28,000 for a solar system. The installer pulls up a calculator. It promises $1,400 in annual savings. Three years later, you're actually saving $800 a year. That gap wasn't bad luck. It's what happens when a calculator's job is to sell you something, not tell you the truth.

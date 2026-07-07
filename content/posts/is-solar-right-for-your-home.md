@@ -7,8 +7,8 @@ date: 2026-05-27T10:00:00+00:00
 tags: ["solar", "home solar", "solar fit quiz", "rooftop solar", "going solar"]
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Policy Writer"
-author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+author_title: "Solar Policy Analyst"
+author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 
 ---
 Thinking about putting solar panels on your roof but not sure if it's actually a good match for your home? You're not alone. The real question isn't whether solar works in theory. It's whether it works for *your* specific roof, your electricity habits, and what you're trying to accomplish over the next decade.

@@ -21,8 +21,8 @@ faqs:
    a: "This depends on your utility and your contract. Some PPA agreements pass net metering credits back to you at the same rate you're paying per kWh. Others keep the credits and simply reduce your monthly invoice. Know which arrangement you have, because the value of net metering can be significant. Policies also vary widely by state, and understanding the rules where you live matters before signing anything. Our guide to net metering savings lays this out in detail."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Sustainability Writer"
-author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+author_title: "Clean Energy Specialist"
+author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 
 ---
 A solar installer shows up at your door with a pitch: "Free solar panels. No upfront cost, no loan, no headache." It's tempting. Millions of American homeowners have bitten. Some got a great deal. Others feel trapped in a 20-year contract they wish they'd read more carefully. The difference is understanding what you're actually signing.

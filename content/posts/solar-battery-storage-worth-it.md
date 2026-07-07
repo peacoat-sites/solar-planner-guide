@@ -21,8 +21,8 @@ faqs:
    a: "The research here is genuinely mixed, partly because this market is moving fast. Tesla Powerwall has the largest installed base and most third-party performance data. Enphase IQ is modular and works especially well with Enphase microinverter systems. Franklin Electric's WH10 has been gaining installer confidence. SunPower's SunVault is well-regarded but SunPower's 2024 bankruptcy created uncertainty about long-term support. I'd weight installer track record with a specific battery heavily, since local service quality matters as much as product specs."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Policy Writer"
-author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+author_title: "Solar Policy Analyst"
+author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 
 ---
 Most homeowners I talk to assume solar batteries are basically just backup power for blackouts. That's the pitch you'll hear from installers, and it's not wrong, but it's about a third of the actual story. I've seen people drop $12,000 to $15,000 on a battery system expecting to cut their electric bill in half, only to find their monthly savings barely budged. I've also seen homeowners in time-of-use utility markets turn their battery into a genuine money machine. The difference almost always comes down to one thing: whether they understood their specific situation before signing the contract.

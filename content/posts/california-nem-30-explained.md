@@ -21,8 +21,8 @@ faqs:
     a: "This depends on your utility and the size of the addition. Minor additions are sometimes allowed under NEM 2.0 without triggering a tariff switch, but expanding your system meaningfully, generally more than 10 kW or a significant percentage of your existing capacity, will likely require moving to NEM 3.0. Get the utility's specific policy in writing before any expansion work begins."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Policy Writer"
-author_bio: "Patricia Moore tracks solar legislation, utility policy, and state incentive programs as they evolve. She spent years working in energy policy before moving to consumer advocacy, and understands how regulatory decisions ripple down to homeowners. At Solar Planner Guide, she covers net metering rules, state rebates, federal tax credits, and how policy changes affect the solar calculation."
+author_title: "Solar Policy Analyst"
+author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 
 ---
 California killed the deal that made rooftop solar a no-brainer. On April 15, 2023, NEM 3.0 went live, and the economics shifted more dramatically than at any point in the past two decades. I've spent months with these numbers since then, talking to homeowners who installed systems just in time and others now wondering if solar still makes sense. The honest answer: it's complicated, and the gap between a smart solar decision and a wasteful one just got much wider.

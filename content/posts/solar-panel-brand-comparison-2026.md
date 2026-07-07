@@ -21,8 +21,8 @@ faqs:
    a: "The most practical approach is pairing your system with a monitoring solution. Most modern inverters (especially Enphase and SolarEdge) include app-based monitoring. But a dedicated home energy monitor (affiliate link, we may earn a commission) can give you more granular consumption and production data. If your production is consistently 10% or more below your installer's original estimate under similar weather conditions, that's worth investigating."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Sustainability Writer"
-author_bio: "Nadia Patel approaches solar from an environmental and lifecycle perspective, examining not just the financial ROI but the actual carbon math behind going solar. She has a background in environmental science and writes about clean energy with both enthusiasm and rigor. At Solar Planner Guide, she covers environmental benefits, carbon offset calculations, and the broader clean energy transition."
+author_title: "Clean Energy Specialist"
+author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 
 ---
 Most homeowners spend more time picking a refrigerator than picking their solar panels. That's a real problem. The panels you choose will be bolted to your roof for 25 to 30 years, and the gap between a mediocre brand and a great one can cost you thousands in lost production, a warranty claim that evaporates into nothing, or a company that simply doesn't exist when something breaks in year 12. I've watched all three happen.
