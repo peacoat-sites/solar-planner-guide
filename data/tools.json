@@ -2,11 +2,17 @@
   {
     "label": "Financing Calc",
     "url": "/solar-financing-calculator/",
-    "icon": "\u2600\ufe0f"
+    "icon": "\u2600\ufe0f",
+    "match": [
+      "financing"
+    ]
   },
   {
     "label": "Savings Calc",
     "url": "/solar-savings-calculator/",
-    "icon": "\u2600\ufe0f"
+    "icon": "\u2600\ufe0f",
+    "match": [
+      "savings"
+    ]
   }
 ]
