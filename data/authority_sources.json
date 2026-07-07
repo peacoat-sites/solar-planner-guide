@@ -1,0 +1,22 @@
+[
+ {
+  "name": "U.S. Dept. of Energy — Solar",
+  "url": "https://www.energy.gov/eere/solar/homeowners-guide-going-solar",
+  "note": "Homeowner solar guidance"
+ },
+ {
+  "name": "National Renewable Energy Laboratory (NREL)",
+  "url": "https://www.nrel.gov/",
+  "note": "Solar research and data"
+ },
+ {
+  "name": "DSIRE — Incentives Database",
+  "url": "https://www.dsireusa.org/",
+  "note": "State solar incentives"
+ },
+ {
+  "name": "EPA — Green Power",
+  "url": "https://www.epa.gov/greenpower",
+  "note": "Clean-energy information"
+ }
+]
