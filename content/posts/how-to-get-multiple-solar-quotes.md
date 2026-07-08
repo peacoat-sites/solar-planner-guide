@@ -1,5 +1,5 @@
 ---
-title: "How To Get Multiple Solar Quotes"
+title: "Compare Solar Companies: Get Multiple Quotes Fast"
 date: 2026-06-14T10:32:06.926833+00:00
 draft: false
 description: "Compare multiple solar quotes to find the best price and system for your home. Learn how to request, evaluate and choose the right solar installer with confiden"
@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners get exactly one solar quote, fall in love with the shiny renderings the salesperson shows them, and sign a contract within a week. I've watched this happen more times than I can count. And I get it, the rep was friendly, the financing seemed easy, and honestly, who has time to shop around? But that one-quote mistake routinely costs people $5,000 to $15,000 over the life of a system. I've seen the invoices. The spread between what different installers charge for the exact same system, same panel brand, same inverter, same roof complexity, can be $8,000 or more on a typical 8 kW install.
 

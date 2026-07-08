@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Installation Timeline What To Expect"
+title: "How Long Solar Panel Installation Really Takes"
 date: 2026-06-28T10:08:24.419998+00:00
 draft: false
 description: "Learn the full solar panel installation timeline from initial consultation to final inspection so you know exactly what to expect at every step."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, usually by one to four weeks. Battery systems require additional electrical work, a separate permit in many jurisdictions, and sometimes a dedicated utility review. The Enphase IQ Battery and Tesla Powerwall are both common additions that reliably add time and cost to the project."
  - q: "What happens if I turn on my solar panels before getting utility approval?"
    a: "Don't. Energizing a grid-tied system before PTO is granted violates your interconnection agreement and can result in the utility disconnecting your system or requiring a new inspection. It can also void your warranty with some inverter manufacturers."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most guides on this topic open with "the process is simpler than you think!" That's not always true, and it sets up homeowners for frustration when their installation drags into month three.

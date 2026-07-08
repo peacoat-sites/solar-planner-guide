@@ -1,5 +1,5 @@
 ---
-title: "How To Calculate Solar Panel Wattage Needs"
+title: "Calculate Your Exact Solar Panel Wattage Needs"
 date: 2026-06-03T14:11:48.525193+00:00
 draft: false
 description: "Find out how to calculate your solar panel wattage needs by assessing your energy usage, appliances, and location to build the right solar system for your home."
@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people get this wrong before they even talk to an installer.
 

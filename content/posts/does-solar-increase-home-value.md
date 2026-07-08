@@ -1,5 +1,5 @@
 ---
-title: "Does Solar Increase Home Value"
+title: "How Solar Panels Boost Your Home's Resale Value"
 date: 2026-06-25T10:20:46.044660+00:00
 draft: false
 description: "Find out how solar panels affect home value, what buyers pay more for, and whether installation boosts your resale price before you sell."
@@ -12,7 +12,7 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "does-solar-increase-home-value"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My neighbor sold her house last spring and got $31,000 more than comparable homes on her street. The only meaningful difference? A paid-off 9.2 kW solar system she'd installed four years earlier. I've seen this play out dozens of times, and I've also seen the opposite: sellers who couldn't recoup a dime of what they paid because the system was leased, or because they were in a market where buyers just didn't care. So before anyone tells you "solar definitely adds value," let me give you the actual picture.
 

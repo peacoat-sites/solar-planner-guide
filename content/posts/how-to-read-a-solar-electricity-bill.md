@@ -1,5 +1,5 @@
 ---
-title: "How To Read A Solar Electricity Bill"
+title: "Decoding Your Solar Bill: Line-by-Line Breakdown"
 date: 2026-06-20T10:15:10.482178+00:00
 draft: false
 description: "Learn how to read a solar electricity bill, understand net metering credits, kilowatt-hour usage, and charges to maximize your solar savings."
@@ -23,7 +23,7 @@ faqs:
    a: "A true-up is the annual settlement date when your utility adds up all your credits and charges for the year and either bills you the difference or pays out a surplus. Missing your true-up details can mean unused credits simply expire, so knowing your date and planning your consumption and production around it is worth the effort."
  - q: "My bill looks completely different from my neighbor's even though we have the same system size. Why?"
    a: "System size is only one variable. Your household consumption patterns, the direction and tilt of your roof, shading, how many months you've been accumulating credits, and whether you have a time-of-use rate plan versus a flat rate plan all affect what the bill looks like. Two identical 8 kW systems on two different homes can produce very different bills."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your first solar bill arrives and you feel like someone handed you a tax form written in a foreign language. Rows of numbers, unfamiliar terms, a balance that might be a credit or a charge, you're honestly not sure. I've watched this exact moment of confusion play out hundreds of times across kitchen tables, and I want to tell you: this is not you being bad at paperwork. Solar bills are genuinely weird, at least until someone explains what's actually going on.

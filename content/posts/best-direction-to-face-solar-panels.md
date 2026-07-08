@@ -1,5 +1,5 @@
 ---
-title: "Best Direction To Face Solar Panels"
+title: "Which Way Should Your Solar Panels Actually Face?"
 date: 2026-06-23T10:42:33.155326+00:00
 draft: false
 description: "Discover the best direction to face solar panels for maximum energy output. Learn how orientation, tilt, and location affect your solar system efficiency."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, and you should. Open Google Maps, search your address, switch to satellite view, and use the compass overlay. You can also stand in your backyard at solar noon (roughly 12:30-1 p.m. local time) and watch where shadows fall. A proper compass app on your phone will give you your roof's azimuth in seconds."
  - q: "Does panel direction affect how fast they pay for themselves?"
    a: "Directly, yes. A well-oriented south-facing system in a sunny state like Arizona typically pays back in 6-8 years on a 25-year panel lifespan. A poorly oriented or partially shaded system might be 11-13 years, which changes the math significantly on whether solar makes sense without battery storage or strong incentives."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 My neighbor across the street got a quote last spring, signed off on a west-facing roof installation without asking a single question about orientation, and is now generating about 15% less power than she would have with a south-facing array. Her installer never brought it up. That's the situation I want to save you from.

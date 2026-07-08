@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Installation Cost Breakdown"
+title: "How Much Does Solar Installation Really Cost?"
 date: 2026-05-28T14:17:27.764246+00:00
 draft: false
 description: "Learn what affects solar panel installation costs, including equipment, labor, permits, and incentives. Get a full breakdown to budget your home solar project t"
@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The average American homeowner gets three solar quotes and picks the middle one. It feels safe. But here's the real problem: most people have no idea what they're actually paying for, which means they can't tell if the middle quote is fair, inflated, or missing something critical. A $28,000 quote and a $19,000 quote for the "same" 8 kW system can both be legitimate, or one can be a complete rip-off. You won't know until you understand what's bundled into that number.
 

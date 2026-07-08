@@ -1,5 +1,5 @@
 ---
-title: "What Happens To Solar Panels When You Sell Home"
+title: "Selling Your Home? Here's What Happens To Solar Panels"
 date: 2026-06-03T14:09:39.104511+00:00
 draft: false
 description: "Wondering what happens to your solar panels when you sell your home? Learn how solar ownership, leases, and loans affect the sale process and home value."
@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most solar sellers leave money on the table. Not because they priced the system wrong, but because they didn't understand what they were actually selling.
 

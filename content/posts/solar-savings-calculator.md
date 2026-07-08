@@ -1,5 +1,5 @@
 ---
-title: "Solar Savings Calculator"
+title: "Calculate Your Actual Solar Savings Today"
 date: 2026-05-26T17:10:06.057649+00:00
 draft: false
 description: "Estimate your potential savings with solar energy using our free solar savings calculator. See how much you could save on electricity bills and reduce your carb"
@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 $28,000 for a solar system. The installer pulls up a calculator. It promises $1,400 in annual savings. Three years later, you're actually saving $800 a year. That gap wasn't bad luck. It's what happens when a calculator's job is to sell you something, not tell you the truth.
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar Ground Mount Vs Roof Mount"
+title: "Ground vs Roof Solar: Which Setup Wins"
 date: 2026-07-06T11:46:41.938261+00:00
 draft: false
 description: "Compare solar ground mount vs roof mount systems to find the best fit for your home. Learn about cost, efficiency, installation, and space requirements."

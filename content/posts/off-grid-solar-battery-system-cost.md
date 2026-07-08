@@ -1,5 +1,5 @@
 ---
-title: "Off Grid Solar Battery System Cost"
+title: "How Much Off-Grid Solar Battery Systems Really Cost"
 date: 2026-06-23T10:44:22.128059+00:00
 draft: false
 description: "Discover what an off grid solar battery system costs, from panels and batteries to inverters and installation, plus tips to reduce your total investment."
@@ -12,7 +12,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 slug: "off-grid-solar-battery-system-cost"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who ask me about off-grid solar expect a simple answer. They're usually shocked when I tell them that the battery system alone, before you count a single solar panel, can easily run $15,000 to $50,000 for a full-size home. That number isn't a scare tactic. It's just math, and I think more homeowners deserve to hear it up front.
 

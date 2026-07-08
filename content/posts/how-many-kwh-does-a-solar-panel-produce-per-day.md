@@ -1,5 +1,5 @@
 ---
-title: "How Many kWh Does A Solar Panel Produce Per Day"
+title: "Daily Solar Panel Output: What To Expect"
 date: 2026-06-07T10:13:15.064851+00:00
 draft: false
 description: "Discover how many kWh a solar panel produces per day, what factors affect output, and how to calculate your system's energy generation for maximum savings."
@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-08
 ---
 Most homeowners I talk to guess somewhere between 1 and 100 kWh per day for a single solar panel. That range tells you everything about how poorly this topic gets explained.
 

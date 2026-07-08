@@ -1,5 +1,5 @@
 ---
-title: "How Many Solar Panels To Power A House"
+title: "How Many Solar Panels Does Your Home Actually Need?"
 date: 2026-06-14T10:34:29.396251+00:00
 draft: false
 description: "Find out exactly how many solar panels your home needs. We break down average usage, panel wattage, and key factors to help you plan your solar installation."
@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people ask the wrong question. They Google "how many solar panels do I need" expecting a clean answer, and they get some calculator that spits out a number without explaining any of the assumptions underneath it. I've watched homeowners get burned by this more times than I'd like to count, because they bought a system based on that number without understanding why it might be completely wrong for their house.
 

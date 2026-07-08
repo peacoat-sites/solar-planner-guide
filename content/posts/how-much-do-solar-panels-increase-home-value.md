@@ -1,5 +1,5 @@
 ---
-title: "How Much Do Solar Panels Increase Home Value"
+title: "Do Solar Panels Really Boost Your Home's Resale Value?"
 date: 2026-06-04T12:24:42.633391+00:00
 draft: false
 description: "Discover how much solar panels can increase your home value, with research showing homes sell for up to 4% more, and what factors affect your property's solar p"

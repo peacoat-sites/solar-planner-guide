@@ -1,5 +1,5 @@
 ---
-title: "Net Metering Changes By State"
+title: "How State Net Metering Rules Affect Your Solar Returns"
 date: 2026-06-10T11:03:13.431142+00:00
 draft: false
 description: "Discover how net metering rules vary across the US, including recent state-by-state policy changes affecting solar credits, rates, and savings for homeowners."

@@ -1,5 +1,5 @@
 ---
-title: "Microinverters Vs String Inverter"
+title: "Which Solar Inverter Type Boosts Your System Performance"
 date: 2026-06-22T13:04:53.536070+00:00
 draft: false
 description: "Compare microinverters vs string inverters for your solar system. Learn key differences in cost, efficiency, shading performance, and which suits your home best"
@@ -23,7 +23,7 @@ faqs:
    a: "That panel stops producing. The rest of your system keeps running normally. You'll see the gap in your monitoring app and schedule a replacement. One failed microinverter on a 20-panel system costs you about 5% of your production while you wait for the repair. Not catastrophic."
  - q: "Does a string inverter failure take down my whole system?"
    a: "Yes. One box fails, all production stops. It's the main reliability argument against string inverters and the reason I lean toward SolarEdge's architecture (optimizer plus string inverter) for systems over 8kW. At least then you retain panel-level monitoring that tells you the inverter is the problem, not something else."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most solar articles treat the inverter choice as a footnote. Buy panels, pick a size, oh and also there's this inverter thing. That framing is backwards. The inverter is where your DC electricity becomes usable AC power, and the architecture you choose shapes your system's performance, monitoring granularity, maintenance costs, and warranty exposure for the next 25 years. Getting it wrong is expensive to fix.

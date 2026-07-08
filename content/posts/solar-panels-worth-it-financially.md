@@ -1,5 +1,5 @@
 ---
-title: "Solar Panels Worth It Financially"
+title: "Does Solar Pay for Itself? The Real Financial Case"
 date: 2026-05-22T11:02:19.854489+00:00
 draft: false
 description: "Find out if solar panels are worth the investment. We break down costs, savings, payback periods, and long-term financial benefits to help you decide."
@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The average American homeowner installing solar in 2024 pays around $30,000 before incentives, or roughly $18,000 after the 30% federal tax credit. That's a serious chunk of money. Yet installers will hand you a glossy brochure showing you "saving $50,000 over 25 years" without mentioning that the math is built on assumptions that may not apply to your house, your utility, or your financial situation. I've seen clients sign contracts based on projections that fell apart within two years. I've also seen clients who absolutely knocked it out of the park. The difference wasn't luck. It was knowing which questions to ask upfront.
 

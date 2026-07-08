@@ -1,5 +1,5 @@
 ---
-title: "Home Equity Loan For Solar Panels"
+title: "Fund Your Solar System With A Home Equity Loan"
 date: 2026-07-01T10:49:10.409745+00:00
 draft: false
 description: "Learn how a home equity loan can fund your solar panel installation with fixed rates, tax benefits, and long-term savings on your energy bills."
@@ -23,7 +23,7 @@ faqs:
    a: "A home equity loan gives you a lump sum at a fixed rate, which works well for a defined solar project cost. A HELOC is a revolving line of credit at a variable rate, which introduces rate risk over time. For a one-time solar installation where you know the cost upfront, I'd lean toward the fixed-rate home equity loan. Predictable payments matter when you're already managing a new utility-savings budget."
  - q: "What credit score do I need to qualify for a home equity loan for solar?"
    a: "Most lenders want a minimum score around 620-640, but to get rates in that 7-9% range, you'll generally need a 720 or above. If your score is in the 660-700 range, you'll still likely qualify, but the rate will be higher, and the advantage over a solar-specific loan narrows. Check your score before you apply and dispute any errors first."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A $40,000 solar install and a home equity loan that saved one homeowner nearly $11,000 over a [solar-specific financing product](/best-solar-financing-options/). That's not unusual. I've seen it happen repeatedly, and it's one of the best-kept non-secrets in residential solar.

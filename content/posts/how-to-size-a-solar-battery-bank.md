@@ -1,5 +1,5 @@
 ---
-title: "How To Size A Solar Battery Bank"
+title: "Size Your Solar Battery Bank The Right Way"
 date: 2026-07-03T10:12:44.680315+00:00
 draft: false
 description: "Learn how to properly size a solar battery bank for your needs. Calculate capacity, daily usage, and autonomy days to choose the right system."
@@ -23,7 +23,7 @@ faqs:
    a: "Off-grid is much more complicated because you have no grid backup. You're sizing for multi-day outages and seasonal variation. You typically need 3-5 days of autonomy, which means a much larger battery. Don't attempt off-grid sizing without a professional, the math is totally different."
  - q: "Do I need to account for battery efficiency losses?"
    a: "Yes. Batteries are about 85-95% efficient round-trip (charge and discharge). That 1.25 multiplier I mentioned earlier covers that. If you're doing manual math, assume 10% loss, so a 10 kWh need requires about 11.1 kWh of battery storage to account for losses."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The first time I sat down to size a battery bank for my own home, I stared at my utility bill for about twenty minutes waiting for it to tell me the answer. It didn't. Nobody tells you that the math here is backwards from what you'd think.

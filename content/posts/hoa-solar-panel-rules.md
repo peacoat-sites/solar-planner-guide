@@ -1,5 +1,5 @@
 ---
-title: "HOA Solar Panel Rules"
+title: "Can Your HOA Block Your Solar Panels?"
 date: 2026-05-26T18:41:51.063679+00:00
 draft: false
 description: "Learn how HOA solar panel rules work, what restrictions are allowed, and how to get approval for your installation while protecting your property rights."
@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You submitted your solar application to your HOA three weeks ago. You've done the research, gotten quotes, and you're excited. Then the letter comes back: *denied*. Or maybe you haven't applied yet, and you're wondering whether it's even worth the hassle. Either way, you're probably feeling somewhere between frustrated and confused, and you might be wondering whether your HOA actually has the legal authority to stop you.
 

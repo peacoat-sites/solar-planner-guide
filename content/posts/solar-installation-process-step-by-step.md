@@ -1,5 +1,5 @@
 ---
-title: "Solar Installation Process Step By Step"
+title: "Your Solar System Setup: A Step-by-Step Guide"
 date: 2026-05-22T12:37:34.017564+00:00
 draft: false
 description: "Learn how solar panels are installed with our step-by-step guide. From site assessment to final inspection, discover what to expect during your solar installati"
@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners I talk to think the hardest part of going solar is deciding to do it. Then they sign the contract and realize: there's a whole other journey ahead of them. A journey that typically takes 2 to 4 months before a single panel produces a single kilowatt-hour. I've seen clients get genuinely blindsided by this timeline, and I've watched others stress out unnecessarily because no one walked them through what was actually happening behind the scenes. So I went deep on this. Here's the real, unfiltered breakdown of what the solar installation process looks like from contract to first power bill.
 

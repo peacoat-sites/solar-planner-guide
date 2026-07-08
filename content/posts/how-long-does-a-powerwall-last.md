@@ -1,5 +1,5 @@
 ---
-title: "How Long Does A Powerwall Last"
+title: "Powerwall Battery Lifespan: What Solar Owners Need to Know"
 date: 2026-06-21T10:45:45.934454+00:00
 draft: false
 description: "Discover how long a Tesla Powerwall lasts on a single charge and over its lifetime, plus tips to maximize battery performance and lifespan."
@@ -12,7 +12,7 @@ author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 slug: "how-long-does-a-powerwall-last"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people asking "how long does a Powerwall last?" are really asking two different questions without realizing it. The first is about battery lifespan: how many years before this thing degrades to the point of being useless? The second is about daily runtime: if the grid goes down tonight, how many hours will my house actually stay powered? Both matter enormously, and the answers are more complicated than Tesla's marketing page lets on.
 

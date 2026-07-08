@@ -1,5 +1,5 @@
 ---
-title: "Solar Plus Battery Storage Cost"
+title: "How Much Should You Budget For Solar Battery Storage"
 date: 2026-06-02T12:56:15.921790+00:00
 draft: false
 description: "Discover the true cost of solar plus battery storage systems. Compare prices, explore savings, and find out if this investment is right for your home."
@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners get a solar quote, see the price tag, and think adding a battery will roughly double it. I've watched this assumption kill more solar projects than anything else. The truth is messier. Sometimes you'll spend more upfront than expected, but the real value might be far higher than simple math suggests. Let me show you what the numbers actually say.
 

@@ -1,5 +1,5 @@
 ---
-title: "Whole Home Solar Energy System"
+title: "Complete Home Solar Setup: What You Need To Know"
 date: 2026-06-19T11:41:59.451948+00:00
 draft: false
 description: "Discover how a whole home solar energy system works, cuts electricity bills, and powers every appliance with clean renewable energy year-round."
@@ -23,7 +23,7 @@ faqs:
    a: "The physical installation usually takes one to three days. Permitting, utility interconnection approval, and inspection scheduling can stretch the total timeline to six to twelve weeks from signed contract to system activation. That's the part that's genuinely frustrating, and it varies a lot by municipality."
  - q: "What happens to my solar system if I sell my house?"
    a: "Generally, a fully paid-off solar system adds to your home's value. A 2023 Zillow analysis found solar homes sold for roughly 4% more than comparable non-solar homes. If you have a solar loan, it either transfers with the house or gets paid off at closing. Leased systems are more complicated and can sometimes complicate a sale, which is one more reason I'd steer most people toward ownership."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A homeowner I spoke with last year had a $340 electric bill in August. Not because she was wasteful. Just a 2,400-square-foot house in Phoenix, two teenagers, and a central AC unit running almost continuously. She'd been "looking into solar" for three years. The thing that finally got her to act wasn't the savings pitch. It was realizing she'd spent roughly $12,000 on electricity in those three years while she waited.

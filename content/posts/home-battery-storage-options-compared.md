@@ -1,5 +1,5 @@
 ---
-title: "Home Battery Storage Options Compared"
+title: "Home Battery Systems: Which One Fits Your Solar Setup"
 date: 2026-05-24T20:48:55.022910+00:00
 draft: false
 description: "Explore and compare the best home battery storage options available today. Find the right system for your energy needs and start saving on electricity bills."
@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've probably already lost power at least once this year. Maybe it was a few hours, maybe it was three days after a storm, and you sat there watching your refrigerator full of food edge toward room temperature while your neighbor's house stayed lit up because they had a battery. That moment has a way of making home battery storage go from "something I'll look into someday" to "I need to figure this out now." If you're here, you're probably in that exact headspace. Good. Let's actually work through it together.
 

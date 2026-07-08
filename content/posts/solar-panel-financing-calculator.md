@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Financing Calculator"
+title: "Calculate Your True Solar Installation Cost"
 date: 2026-07-07T10:31:39.134992+00:00
 draft: false
 description: "Calculate your solar panel financing costs instantly. Compare loan options, monthly payments, and savings to find the best solar financing plan for your home."

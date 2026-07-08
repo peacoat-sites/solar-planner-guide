@@ -1,5 +1,5 @@
 ---
-title: "Midwest Solar Energy Guide"
+title: "How Midwest Homeowners Can Go Solar Today"
 date: 2026-07-02T10:18:27.548154+00:00
 draft: false
 description: "Discover the best solar energy options for Midwest homeowners. Learn about costs, incentives, top panels, and how to maximize sunlight in your region."
@@ -23,7 +23,7 @@ faqs:
    a: "Budget for 9 to 13 years depending on your state, utility, and system design. Illinois homeowners with favorable net metering can see paybacks closer to 8-9 years. Missouri or Ohio homeowners with less supportive utility policies should realistically plan for 11-13 years."
  - q: "Should I wait for better technology or do solar now?"
    a: "Honestly, this question has come up for 15 years and the answer has consistently been: the savings you delay capturing are real money. Panel efficiency improvements are now incremental, not revolutionary. If your financial situation and roof condition work today, waiting for the 'next generation' usually costs more than it saves."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Chicago gets about 4.2 peak sun hours per day on average. I know that number surprises people, because the first time I looked it up myself, I assumed the Midwest was basically a solar dead zone. It's not. But it's complicated enough that you deserve a straight answer instead of a sales pitch.

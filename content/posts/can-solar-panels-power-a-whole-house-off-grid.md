@@ -1,5 +1,5 @@
 ---
-title: "Can Solar Panels Power A Whole House Off Grid"
+title: "Go Off-Grid With Solar: What You Need to Know"
 date: 2026-06-07T10:10:45.336752+00:00
 draft: false
 description: "Yes, solar panels can power a whole house off grid with the right system size, battery storage, and energy management. Learn what you need to make it work."

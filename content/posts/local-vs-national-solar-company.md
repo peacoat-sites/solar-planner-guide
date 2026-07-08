@@ -1,5 +1,5 @@
 ---
-title: "Local Vs National Solar Company"
+title: "Local vs National Solar: Which Saves You More"
 date: 2026-06-27T09:37:01.518183+00:00
 draft: false
 description: "Compare local vs national solar companies to find the best fit for your home. Discover key differences in pricing, service, and installation quality."
@@ -23,7 +23,7 @@ faqs:
    a: "Using a marketplace like EnergySage first is useful for getting a price benchmark and seeing multiple quotes in one place. But also contact one or two local installers directly who may not participate in those platforms. Some of the best smaller companies don't pay marketplace listing fees."
  - q: "How do I verify a solar installer is legitimate?"
    a: "Check their contractor license on your state's licensing board website, confirm they carry liability insurance and workers' comp, look at their BBB profile and Google reviews (focus on responses to negative reviews), and ask how many systems they've installed in your specific utility territory. If they can't answer that last question, that tells you something."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people treat this decision like it's a minor logistical detail. Pick a company, sign the paperwork, get some panels on the roof. What I've found, after helping homeowners sort through hundreds of these quotes, is that who installs your system matters almost as much as the system itself.

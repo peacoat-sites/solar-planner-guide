@@ -1,5 +1,5 @@
 ---
-title: "Best Solar Financing Options"
+title: "How To Finance Solar Without Breaking The Bank"
 date: 2026-05-27T02:47:19.134118+00:00
 draft: false
 description: "Explore top solar financing options including loans, leases, and PPAs. Compare costs, savings, and tax credits to find the best solar payment plan for your home"
@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just got three solar quotes, the system looks solid on paper, and then you see the price: $28,000. That's what the average American pays. According to [EnergySage's market data](https://news.energysage.com/), the median solar installation in the U.S. costs around $30,000 before incentives. After the 30% federal tax credit, you're closer to $21,000. Still not pocket change.
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar Battery Backup For Power Outages"
+title: "Keep Your Home Powered When the Grid Goes Down"
 date: 2026-05-23T04:19:21.111184+00:00
 draft: false
 description: "Stay powered during outages with a solar battery backup system. Learn how these systems work, top options available, and how to choose the right one for your ho"
@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your neighbor's lights are on. Yours aren't. You both have solar panels on the roof, but during yesterday's grid outage, his system kept running and yours went dark within seconds. The difference wasn't the panels. It was the battery.
 

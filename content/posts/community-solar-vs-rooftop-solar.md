@@ -1,5 +1,5 @@
 ---
-title: "Community Solar Vs Rooftop Solar"
+title: "Which Solar Option Fits Your Home Best"
 date: 2026-07-04T09:30:08.800529+00:00
 draft: false
 description: "Compare community solar vs rooftop solar to find the best option for your home. Learn about costs, savings, installation, and which fits your situation."

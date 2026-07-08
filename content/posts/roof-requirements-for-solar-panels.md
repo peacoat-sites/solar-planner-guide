@@ -1,5 +1,5 @@
 ---
-title: "Roof Requirements For Solar Panels"
+title: "Does Your Roof Meet Solar Panel Requirements?"
 date: 2026-05-31T11:11:59.066648+00:00
 draft: false
 description: "Learn what roof requirements are needed for solar panels, including material, age, pitch, and condition, to ensure a safe and efficient solar installation."
@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've gotten [three solar quotes](/how-to-get-multiple-solar-quotes/), you're excited, and then one installer mentions, almost as an aside, that your roof "might need some work before we can install." Suddenly you're wondering whether you're about to spend $4,000 fixing your roof before you can even start saving money on electricity. I've seen this scenario play out dozens of times, and the frustration is completely legitimate. The problem is that most installers won't hand you a clear checklist upfront. They want the sale. So let me give you what they often don't: a straight look at exactly what your roof needs to be solar-ready, what disqualifies a roof, and how to figure out where yours stands before you sign anything.
 

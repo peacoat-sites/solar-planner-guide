@@ -1,5 +1,5 @@
 ---
-title: "Average Cost Of Solar Installation By State"
+title: "Solar Installation Costs: What You'll Pay By State"
 date: 2026-05-26T05:30:20.993879+00:00
 draft: false
 description: "Discover the average cost of solar installation by state. Compare prices, incentives, and savings to find out what you'll pay for solar panels in your area."
@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Two neighbors, same house size, same energy bills, both went solar in the same month. One in Arizona paid about $25,000 before incentives. The other in Massachusetts paid closer to $35,000. Same technology, same 10-kilowatt system, nearly $10,000 difference. That gap isn't random, and understanding what drives it could save you thousands.
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar Rebates From Utility Companies"
+title: "Utility Company Solar Rebates: How To Claim Yours"
 date: 2026-05-20T16:51:44.897554+00:00
 draft: false
 description: "Discover available solar rebates from utility companies and learn how to maximize your savings on residential solar panel installations today."
@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your neighbor mentions she got an extra $1,500 back from the electric company. You didn't know that existed. Your solar quote was $28,000, the federal tax credit gets you $8,400, but apparently there's more money sitting on the table that nobody told you about. That kind of oversight happens constantly. Utility solar rebates are one of the least-advertised ways to cut your upfront costs, and they can legitimately change whether a system makes sense for your wallet.
 

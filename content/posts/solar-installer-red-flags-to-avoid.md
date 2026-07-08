@@ -1,5 +1,5 @@
 ---
-title: "Solar Installer Red Flags To Avoid"
+title: "Avoid These 5 Solar Installer Red Flags"
 date: 2026-06-09T10:42:16.217431+00:00
 draft: false
 description: "Protect your investment by spotting common solar installer red flags before signing. Learn which warning signs to avoid for a safe, successful solar panel insta"
@@ -12,7 +12,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Forty-seven thousand dollars. That's what one Phoenix family paid for a solar system they could've gotten for $31,000 from a different installer. Same panels. Nearly identical production estimates. Both companies had decent online reviews. The difference was a salesperson who pushed hard, moved fast, and gave them almost no time to compare.
 

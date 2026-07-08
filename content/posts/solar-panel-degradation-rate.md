@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Degradation Rate"
+title: "How Fast Do Solar Panels Really Lose Efficiency?"
 date: 2026-06-17T11:57:31.288304+00:00
 draft: false
 description: "Learn how fast solar panels lose efficiency over time, what causes degradation, and how to maximize your systems lifespan and energy output."
@@ -23,7 +23,7 @@ faqs:
    a: "A linear warranty guarantees a consistent annual minimum output floor throughout the warranty period. A stepped warranty only guarantees output at two or three checkpoints (e.g., year 10 and year 25), leaving gaps where the manufacturer isn't accountable for faster degradation in between. Linear is better."
  - q: "Can degradation be reversed or slowed down?"
    a: "No, degradation can't be reversed. You can slow it slightly by keeping panels clean (dirt and grime add thermal stress) and ensuring your system is properly grounded to prevent potential-induced degradation, but the underlying cell chemistry aging is irreversible. A well-installed, high-quality panel from a reputable manufacturer is your best defense before the system ever goes on the roof."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every solar panel on your roof is slowly dying. That's not a scare tactic, it's physics. The real question isn't whether degradation happens, it will, but how fast it happens, and whether the number your installer quoted is actually believable.
 

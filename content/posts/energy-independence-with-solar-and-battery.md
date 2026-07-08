@@ -1,5 +1,5 @@
 ---
-title: "Energy Independence With Solar And Battery"
+title: "Break Free From The Grid With Solar And Batteries"
 date: 2026-05-31T11:09:41.901068+00:00
 draft: false
 description: "Discover how solar panels and battery storage can help you achieve true energy independence, reduce utility bills, and protect your home from grid outages."
@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 It's 2 a.m. during a winter storm and your neighborhood goes dark. Your neighbors are scrambling for flashlights, the heat's cut out, and someone's insulin is sitting in a refrigerator that stopped running an hour ago. Your house, though? Lights on. Fridge humming. You slept through the whole thing.
 

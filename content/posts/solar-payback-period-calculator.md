@@ -1,5 +1,5 @@
 ---
-title: "Solar Payback Period Calculator"
+title: "When Will Your Solar Investment Pay For Itself"
 date: 2026-05-25T20:17:52.589121+00:00
 draft: false
 description: "Calculate your solar panel payback period instantly with our free tool. Enter your costs and savings to find out how soon your solar investment pays for itself."
@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just got a solar quote for $28,000. The salesperson mentions "about seven years" to pay it back, and you nod, unsure if that's actually true or what it even means. Here's the reality: payback period gets thrown around constantly in solar sales, and almost nobody explains it properly. Mess up the calculation and you'll spend the next decade watching your savings fall short of the brochure. Get it right, and you've got a solid, honest benchmark for one of the biggest home investments you'll make.
 

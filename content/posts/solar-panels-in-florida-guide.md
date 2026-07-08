@@ -1,5 +1,5 @@
 ---
-title: "Solar Panels In Florida Guide"
+title: "Florida Solar Panel Installation: What You Need to Know"
 date: 2026-06-11T11:47:14.482901+00:00
 draft: false
 description: "Discover everything you need to know about solar panels in Florida, including costs, incentives, top installers, and how much you can save on energy bills."
@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Florida gets about 237 sunny days a year. You'd think that makes it the best place in the country to go solar. The truth is more complicated, and the thing that trips up most Florida homeowners has nothing to do with sunshine.
 

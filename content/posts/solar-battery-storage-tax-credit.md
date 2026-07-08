@@ -1,5 +1,5 @@
 ---
-title: "Solar Battery Storage Tax Credit"
+title: "Maximize Your Solar Investment With Battery Storage Tax Credits"
 date: 2026-05-22T08:54:28.876255+00:00
 draft: false
 description: "Discover how to claim the solar battery storage tax credit and reduce your energy costs. Learn eligibility requirements, savings, and application steps today."
@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Install a $15,000 home battery system this year and the federal government gives you $3,750 back at tax time. That's not theoretical. It's what the Residential Clean Energy Credit does right now, and I talk to homeowners every week who've never heard of it. Some already bought a battery and missed the credit entirely because they didn't plan ahead. Don't be that person.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Choose A Solar Installer"
+title: "Finding Your Ideal Solar Installer: Key Questions To Ask"
 date: 2026-05-19T07:28:43.575504+00:00
 draft: false
 description: "Find the best solar installer for your home with our expert tips. Learn what to look for, questions to ask, and how to compare quotes with confidence."
@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-08
 ---
 Most homeowners spend more time choosing a Netflix show than vetting the company about to drill holes in their roof and wire a $20,000 system to their electrical panel. That's not a knock on homeowners. Installer selection is genuinely confusing, and the solar industry doesn't make it easier. Slick websites, aggressive door-to-door reps, and "limited-time" pricing pressure are features of this market, not bugs. Here's how to cut through it.
 

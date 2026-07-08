@@ -1,5 +1,5 @@
 ---
-title: "What Is Net Metering And How Does It Work"
+title: "How Net Metering Lets Solar Owners Bank Extra Power"
 date: 2026-06-06T09:33:11.057517+00:00
 draft: false
 description: "Learn how net metering works, how it credits solar energy users for excess power sent to the grid, and how it can lower your monthly electricity bills."
@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most solar shoppers spend weeks obsessing over panel brands and installation quotes, then barely glance at the three words that'll actually determine whether their system pays off: net metering policy.
 

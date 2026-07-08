@@ -1,5 +1,5 @@
 ---
-title: "Federal Solar Tax Credit Expiration"
+title: "Federal Solar Tax Credit Deadline: What Homeowners Need To Know"
 date: 2026-05-25T11:11:36.193394+00:00
 draft: false
 description: "Federal solar tax credit expires soon. Learn about the 30% ITC deadline, what it means for homeowners, and how to claim before the incentive phases out."
@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've been telling yourself you'll go solar "eventually" for two years now. Then you see a headline about the federal tax credit expiring, and your stomach drops. Did you just miss out on a 30% discount worth thousands of dollars?
 

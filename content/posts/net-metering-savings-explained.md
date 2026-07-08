@@ -1,5 +1,5 @@
 ---
-title: "Net Metering Savings Explained"
+title: "How Net Metering Cuts Your Solar Energy Bills"
 date: 2026-05-29T13:23:41.628159+00:00
 draft: false
 description: "Learn how net metering works and how much money you can save on your electricity bill by sending unused solar energy back to the grid for credits."
@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your electric meter spinning backward on a sunny afternoon while you're at work, your solar panels quietly generating more electricity than your empty house can use. That surplus flows to the grid, and your utility company credits your account for every kilowatt-hour. By the time your bill arrives, you owe almost nothing. That's net metering.
 

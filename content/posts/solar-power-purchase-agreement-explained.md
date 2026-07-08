@@ -1,5 +1,5 @@
 ---
-title: "Solar Power Purchase Agreement Explained"
+title: "Your Solar Power Purchase Agreement Decoded"
 date: 2026-05-22T21:51:22.997125+00:00
 draft: false
 description: "Solar power purchase agreements explained: Learn how PPAs work, key terms, benefits, and what to consider before signing. Complete guide for homeowners."
@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A solar installer shows up at your door with a pitch: "Free solar panels. No upfront cost, no loan, no headache." It's tempting. Millions of American homeowners have bitten. Some got a great deal. Others feel trapped in a 20-year contract they wish they'd read more carefully. The difference is understanding what you're actually signing.
 

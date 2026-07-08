@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel ROI Calculation"
+title: "Calculate Your Solar Panel Payback Timeline"
 date: 2026-05-22T13:50:55.238040+00:00
 draft: false
 description: "Calculate your solar panel ROI with our step-by-step guide. Learn payback periods, savings estimates, and key factors that affect your long-term investment retu"

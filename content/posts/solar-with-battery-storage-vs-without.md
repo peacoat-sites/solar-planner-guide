@@ -1,5 +1,5 @@
 ---
-title: "Solar With Battery Storage Vs Without"
+title: "Battery Backup Worth It? Solar Storage Pros and Cons"
 date: 2026-05-24T08:01:34.447972+00:00
 draft: false
 description: "Discover the key differences between solar with battery storage and without. Compare costs, energy independence, and savings to find the best solar setup for yo"
@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You finally get your first electric bill after going solar. You were expecting something close to zero. Instead, it's $94. You call your installer confused, and they explain that yes, your panels are producing power, but you're still drawing from the grid every evening when the sun goes down. You didn't add a battery. And now, six months in, you're wondering if you made the right call.
 

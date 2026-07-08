@@ -1,5 +1,5 @@
 ---
-title: "Solar Battery Backup During Power Outage"
+title: "Keep Your Home Running When the Grid Goes Down"
 date: 2026-06-06T09:31:08.697397+00:00
 draft: false
 description: "Stay powered during outages with solar battery backup systems. Learn how they work, key benefits, top options, and how to choose the right setup for your home."
@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My neighbor called me at 11 PM during a nor'easter two winters ago. Her house had solar panels, she'd been telling everyone about them for months, and now the grid was down and she was sitting in the dark. "I thought solar meant I'd have power," she said. I didn't have the heart to explain it right then, so I just brought over some candles.
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar Panels In New York Guide"
+title: "New York Solar Panels: Installation Guide and Incentives"
 date: 2026-06-13T10:11:04.092277+00:00
 draft: false
 description: "Discover everything you need to know about installing solar panels in New York, including costs, incentives, top providers, and how to maximize your savings tod"
@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Forty-three dollars. That's what one of my clients in Westchester was paying per day on electricity last August during the heat wave. Not per month. Per day. When she called me, she wasn't curious about solar in an abstract way. She was angry, and she wanted to know why nobody had told her sooner that there was a better option.
 

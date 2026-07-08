@@ -1,5 +1,5 @@
 ---
-title: "How Long Do Solar Batteries Last"
+title: "Solar Battery Lifespan: What To Expect"
 date: 2026-06-05T12:21:33.106347+00:00
 draft: false
 description: "Discover how long solar batteries last, what affects their lifespan, and tips to maximize performance so you get the most value from your solar energy system."

@@ -1,5 +1,5 @@
 ---
-title: "Solar System Size Calculator"
+title: "Calculate Your Solar System Size Perfectly"
 date: 2026-06-26T10:28:27.162130+00:00
 draft: false
 description: "Calculate the true scale of our solar system with our interactive size calculator. Compare planet diameters, distances, and orbits in miles and kilometers."
@@ -23,7 +23,7 @@ faqs:
    a: "Then you have four options: accept partial offset, use higher-wattage panels to maximize limited space, consider a ground mount if you have yard space, or reduce your electricity consumption first (LED lighting, efficient appliances, better insulation) to shrink the required system size. Demand reduction often has better ROI than the incremental solar capacity anyway."
  - q: "How many solar panels do I need for a 2,000-square-foot house?"
    a: "There's no reliable answer to this question because square footage doesn't determine electricity use. A 2,000-square-foot house in Minnesota with gas heat and no pool might use 8,000 kWh per year. The same-sized house in Texas with electric everything might use 18,000. Get your actual annual kWh from your utility bill. That number tells you everything; the square footage tells you almost nothing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most solar calculators are built by installers who want to sell you a system. That's not a conspiracy theory, it's just business. When the default output of a "free calculator" is always "yes, solar makes sense for you," you should wonder what variable they're rounding in your favor.

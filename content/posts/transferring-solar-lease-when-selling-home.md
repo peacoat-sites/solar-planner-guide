@@ -1,5 +1,5 @@
 ---
-title: "Transferring Solar Lease When Selling Home"
+title: "Selling Your Home? Here's How Solar Leases Transfer"
 date: 2026-05-23T14:41:34.999309+00:00
 draft: false
 description: "Learn how to transfer a solar lease when selling your home. Understand your options, buyer requirements, and steps to ensure a smooth, successful property sale."
@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three weeks from closing on your house sale, the buyers are excited, and then your real estate agent drops a bomb: the solar panels on your roof aren't yours. You've been paying a monthly lease to a solar company for the past six years, and now that lease has to go somewhere. The buyers didn't budget for it, they don't fully understand it, and your closing date is suddenly in jeopardy. I've seen this exact situation derail more home sales than most people expect, and it's almost always preventable if you know what's coming.
 
