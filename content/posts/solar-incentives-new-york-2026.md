@@ -1,5 +1,5 @@
 ---
-title: "Solar Incentives New York"
+title: "New York Solar Incentives: Save on Installation Costs"
 date: 2026-05-22T12:58:58.496513+00:00
 draft: false
 description: "Discover the latest solar incentives and tax credits available in New York for 2026. Learn how to maximize savings on your solar panel installation today."
@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you're a New York homeowner and your electricity bill has hit $200 a month, you're probably already doing the math on solar. Here's the number that should grab you: the average New York residential installation runs $28,000 to $35,000 before incentives, but after stacking the state and federal programs available in 2026, many homeowners bring that down to $16,000 or less. That's not marketing spin. That's what happens when you combine a 30% federal tax credit with New York's own 25% state credit, a property tax exemption, and a sales tax exemption. The incentive stack in New York is genuinely one of the best in the country. Knowing exactly how it works can mean the difference between a system that pays for itself in 8 years versus 13.
 

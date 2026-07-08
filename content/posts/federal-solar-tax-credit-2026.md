@@ -1,5 +1,5 @@
 ---
-title: "Federal Solar Tax Credit"
+title: "Save Up to 30% on Solar With Federal Tax Credits"
 date: 2026-05-29T11:08:44.735448+00:00
 draft: false
 description: "Discover how the federal solar tax credit works in 2026, how much you can save, eligibility requirements, and steps to claim your credit before rates change."

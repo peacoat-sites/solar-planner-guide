@@ -1,5 +1,5 @@
 ---
-title: "Solar Incentives Texas"
+title: "Texas Solar Incentives: How To Maximize Your Savings"
 date: 2026-05-25T19:11:58.886637+00:00
 draft: false
 description: "Discover the latest solar incentives and rebates available in Texas for 2026. Learn about federal tax credits, state programs, and how to maximize your savings."
@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Texas gets more solar energy than almost any other state in the country, yet the average Texas homeowner leaves thousands of dollars in incentives unclaimed every year. In 2024, Texas crossed 40 gigawatts of installed solar capacity, ranking second nationally behind only California according to SEIA data. And yet, many installers will hand you a quote without explaining the full picture of what's available to reduce that number. Let's fix that.
 

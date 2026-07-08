@@ -1,5 +1,5 @@
 ---
-title: "Solar Incentives California"
+title: "How to Claim California's Best Solar Tax Credits"
 date: 2026-05-19T06:52:56.564818+00:00
 draft: false
 description: "Discover California's top solar incentives and rebates available in 2026. Learn about tax credits, financing options, and programs to reduce your installation c"
@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 California's electricity costs around 29 cents per kilowatt-hour as of early 2025. That's nearly double what most Americans pay. A solar system that takes 10 years to pay off in Ohio could be cash-positive in 6 or 7 years here in Sacramento or San Diego.
 
