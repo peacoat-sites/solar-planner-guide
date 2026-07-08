@@ -3,7 +3,7 @@ title: "Whole Home Solar Energy System"
 date: 2026-06-19T11:41:59.451948+00:00
 draft: false
 description: "Discover how a whole home solar energy system works, cuts electricity bills, and powers every appliance with clean renewable energy year-round."
-image: "https://images.pexels.com/photos/16427010/pexels-photo-16427010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16427010.jpg"
 categories: ["Energy Efficiency & Solar"]
 tags: ["whole", "home", "solar", "energy", "system"]
 author: "Nadia Patel"

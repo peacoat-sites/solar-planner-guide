@@ -3,7 +3,7 @@ title: "Solar ROI Without the Tax Credit: How to Size Your System Now"
 date: 2026-06-21T10:43:22.561689+00:00
 draft: false
 description: "Discover how to calculate solar ROI without relying on tax credits. Learn smart system sizing strategies to maximize savings and payback periods for your home."
-image: "https://images.pexels.com/photos/9875682/pexels-photo-9875682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875682.jpg"
 categories: ["trending"]
 tags: ["solar", "without", "credit:", "size", "your"]
 author: "Derek Hansen"

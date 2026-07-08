@@ -3,7 +3,7 @@ title: "Solar Battery Storage Tax Credit"
 date: 2026-05-22T08:54:28.876255+00:00
 draft: false
 description: "Discover how to claim the solar battery storage tax credit and reduce your energy costs. Learn eligibility requirements, savings, and application steps today."
-image: "https://images.pexels.com/photos/6040783/pexels-photo-6040783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6040783.jpg"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "battery", "storage", "credit"]
 slug: "solar-battery-storage-tax-credit"

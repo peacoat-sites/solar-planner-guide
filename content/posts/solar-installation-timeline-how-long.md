@@ -3,7 +3,7 @@ title: "Solar Installation Timeline How Long"
 date: 2026-06-17T11:59:12.790982+00:00
 draft: false
 description: "Learn how long a solar installation takes from quote to flip the switch. Discover each step, typical timelines, and what can speed up or delay your project."
-image: "https://images.pexels.com/photos/9875416/pexels-photo-9875416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875416.jpg"
 categories: ["Solar Installation"]
 tags: ["solar", "installation", "timeline", "long"]
 author: "Alex Rivera"

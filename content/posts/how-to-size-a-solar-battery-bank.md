@@ -3,7 +3,7 @@ title: "How To Size A Solar Battery Bank"
 date: 2026-07-03T10:12:44.680315+00:00
 draft: false
 description: "Learn how to properly size a solar battery bank for your needs. Calculate capacity, daily usage, and autonomy days to choose the right system."
-image: "https://images.pexels.com/photos/159243/solar-solar-cells-photovoltaic-environmentally-friendly-159243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/159243.jpg"
 categories: ["System Sizing"]
 tags: ["size", "solar", "battery", "bank"]
 author: "Derek Hansen"

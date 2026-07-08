@@ -3,7 +3,7 @@ title: "Solar Panels Cost For 2000 Sq Ft Home"
 date: 2026-06-30T10:38:51.418073+00:00
 draft: false
 description: "Discover the average solar panel cost for a 2000 sq ft home, key pricing factors, and ways to save with tax credits and incentives in 2024."
-image: "https://images.pexels.com/photos/15922991/pexels-photo-15922991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15922991.jpg"
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "panels", "cost", "2000", "home"]
 author: "Patricia Moore"

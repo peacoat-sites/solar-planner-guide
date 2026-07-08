@@ -3,7 +3,7 @@ title: "Energy Independence With Solar And Battery"
 date: 2026-05-31T11:09:41.901068+00:00
 draft: false
 description: "Discover how solar panels and battery storage can help you achieve true energy independence, reduce utility bills, and protect your home from grid outages."
-image: "https://images.pexels.com/photos/9799763/pexels-photo-9799763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9799763.jpg"
 categories: ["Energy Efficiency & Solar"]
 tags: ["energy", "independence", "with", "solar", "battery"]
 slug: "energy-independence-with-solar-and-battery"

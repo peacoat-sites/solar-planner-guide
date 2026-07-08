@@ -3,7 +3,7 @@ title: "Solar Ground Mount Vs Roof Mount"
 date: 2026-07-06T11:46:41.938261+00:00
 draft: false
 description: "Compare solar ground mount vs roof mount systems to find the best fit for your home. Learn about cost, efficiency, installation, and space requirements."
-image: "https://images.pexels.com/photos/4254163/pexels-photo-4254163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4254163.jpg"
 categories: ["Solar Installation"]
 tags: ["solar", "ground", "mount", "roof", "mount"]
 author: "Nadia Patel"

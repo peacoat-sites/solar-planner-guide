@@ -3,7 +3,7 @@ title: "Solar Panel Cleaning And Maintenance Guide"
 date: 2026-06-29T12:08:24.143565+00:00
 draft: false
 description: "Keep your solar panels working at peak efficiency with our complete cleaning and maintenance guide covering tools, schedules, and safety tips."
-image: "https://images.pexels.com/photos/8853509/pexels-photo-8853509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8853509.jpg"
 categories: ["Maintenance"]
 tags: ["solar", "panel", "cleaning", "maintenance", "guide"]
 author: "Nadia Patel"

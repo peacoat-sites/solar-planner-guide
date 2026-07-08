@@ -3,7 +3,7 @@ title: "Solar Ppa Pros And Cons"
 date: 2026-05-29T13:24:48.451121+00:00
 draft: false
 description: "Discover the key solar PPA pros and cons, including zero upfront costs and long-term savings, plus potential drawbacks to help you decide if it is right for you"
-image: "https://images.pexels.com/photos/19895914/pexels-photo-19895914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19895914.jpg"
 categories: ["Solar Financing"]
 tags: ["solar", "pros", "cons"]
 slug: "solar-ppa-pros-and-cons"

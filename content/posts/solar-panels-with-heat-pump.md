@@ -3,7 +3,7 @@ title: "Solar Panels With Heat Pump"
 date: 2026-06-15T13:29:22.716756+00:00
 draft: false
 description: "Discover how combining solar panels with a heat pump can slash energy bills, boost efficiency, and create a fully sustainable home heating and cooling system."
-image: "https://images.pexels.com/photos/25751713/pexels-photo-25751713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/25751713.jpg"
 categories: ["Energy Efficiency & Solar"]
 tags: ["solar", "panels", "with", "heat", "pump"]
 author: "Patricia Moore"

@@ -3,7 +3,7 @@ title: "Best Solar Panels For Home"
 date: 2026-05-28T08:27:50.919809+00:00
 draft: false
 description: "Discover the best solar panels for home in 2026. Compare top-rated brands, efficiency ratings, costs, and warranties to find the perfect fit for your energy nee"
-image: "https://images.pexels.com/photos/9875411/pexels-photo-9875411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875411.jpg"
 categories: ["Solar Panels & Equipment"]
 tags: ["best", "solar", "panels", "home", "2026"]
 slug: "best-solar-panels-for-home"

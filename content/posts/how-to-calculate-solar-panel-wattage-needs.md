@@ -3,7 +3,7 @@ title: "How To Calculate Solar Panel Wattage Needs"
 date: 2026-06-03T14:11:48.525193+00:00
 draft: false
 description: "Find out how to calculate your solar panel wattage needs by assessing your energy usage, appliances, and location to build the right solar system for your home."
-image: "https://images.pexels.com/photos/9799702/pexels-photo-9799702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9799702.jpg"
 categories: ["System Sizing"]
 tags: ["calculate", "solar", "panel", "wattage", "needs"]
 slug: "how-to-calculate-solar-panel-wattage-needs"

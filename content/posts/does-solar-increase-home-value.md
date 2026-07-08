@@ -3,7 +3,7 @@ title: "Does Solar Increase Home Value"
 date: 2026-06-25T10:20:46.044660+00:00
 draft: false
 description: "Find out how solar panels affect home value, what buyers pay more for, and whether installation boosts your resale price before you sell."
-image: "https://images.pexels.com/photos/4751008/pexels-photo-4751008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4751008.jpg"
 categories: ["Solar Costs & Savings"]
 tags: ["does", "solar", "increase", "home", "value"]
 author: "Alex Rivera"

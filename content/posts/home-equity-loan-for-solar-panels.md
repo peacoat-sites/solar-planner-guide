@@ -3,7 +3,7 @@ title: "Home Equity Loan For Solar Panels"
 date: 2026-07-01T10:49:10.409745+00:00
 draft: false
 description: "Learn how a home equity loan can fund your solar panel installation with fixed rates, tax benefits, and long-term savings on your energy bills."
-image: "https://images.pexels.com/photos/12530460/pexels-photo-12530460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12530460.jpg"
 categories: ["Solar Financing"]
 tags: ["home", "equity", "loan", "solar", "panels"]
 author: "Derek Hansen"

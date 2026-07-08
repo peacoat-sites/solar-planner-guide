@@ -3,7 +3,7 @@ title: "Plug-In Balcony Solar Is Now Legal in Your State. Now What?"
 date: 2026-06-15T13:26:57.216221+00:00
 draft: false
 description: "Discover how plug-in balcony solar panels work, what equipment you need, safety tips, and how to start generating your own clean energy at home today."
-image: "https://images.pexels.com/photos/37405547/pexels-photo-37405547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37405547.jpg"
 categories: ["trending"]
 tags: ["plug-in", "balcony", "solar", "legal", "your"]
 author: "Alex Rivera"

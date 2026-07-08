@@ -3,7 +3,7 @@ title: "Net Metering Changes By State"
 date: 2026-06-10T11:03:13.431142+00:00
 draft: false
 description: "Discover how net metering rules vary across the US, including recent state-by-state policy changes affecting solar credits, rates, and savings for homeowners."
-image: "https://images.pexels.com/photos/28368375/pexels-photo-28368375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28368375.jpg"
 categories: ["State Solar Guides"]
 tags: ["metering", "changes", "state"]
 slug: "net-metering-changes-by-state"

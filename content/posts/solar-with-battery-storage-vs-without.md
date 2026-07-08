@@ -3,7 +3,7 @@ title: "Solar With Battery Storage Vs Without"
 date: 2026-05-24T08:01:34.447972+00:00
 draft: false
 description: "Discover the key differences between solar with battery storage and without. Compare costs, energy independence, and savings to find the best solar setup for yo"
-image: "https://images.pexels.com/photos/9799706/pexels-photo-9799706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9799706.jpg"
 categories: ["Home Battery Storage"]
 tags: ["solar", "with", "battery", "storage", "without"]
 slug: "solar-with-battery-storage-vs-without"

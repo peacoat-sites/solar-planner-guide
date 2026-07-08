@@ -3,7 +3,7 @@ title: "Tesla Powerwall Cost"
 date: 2026-05-24T05:54:28.932592+00:00
 draft: false
 description: "Discover the latest Tesla Powerwall costs in 2026, including installation fees, incentives, and whether this home battery storage system is worth the investment"
-image: "https://images.pexels.com/photos/11099564/pexels-photo-11099564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11099564.jpg"
 categories: ["Home Battery Storage"]
 tags: ["Tesla", "Powerwall", "cost", "2026"]
 slug: "tesla-powerwall-cost"

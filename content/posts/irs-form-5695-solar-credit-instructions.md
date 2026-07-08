@@ -3,7 +3,7 @@ title: "IRS Form 5695 Solar Credit Instructions"
 date: 2026-07-05T09:47:00.288954+00:00
 draft: false
 description: "Learn how to complete IRS Form 5695 to claim your residential solar energy tax credit and reduce your federal tax bill with step-by-step instructions."
-image: "https://images.pexels.com/photos/12243093/pexels-photo-12243093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12243093.jpg"
 categories: ["Tax Credits & Incentives"]
 tags: ["form", "5695", "solar", "credit", "instructions"]
 author: "Alex Rivera"

@@ -3,7 +3,7 @@ title: "Solar Panels In Massachusetts Guide"
 date: 2026-06-18T11:19:58.215651+00:00
 draft: false
 description: "Discover how Massachusetts homeowners can save with solar panels. Learn about costs, incentives, installers, and net metering in the Bay State."
-image: "https://images.pexels.com/photos/30440447/pexels-photo-30440447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30440447.jpg"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "massachusetts", "guide"]
 author: "Derek Hansen"

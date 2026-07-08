@@ -3,7 +3,7 @@ title: "Solar Panel ROI Calculation"
 date: 2026-05-22T13:50:55.238040+00:00
 draft: false
 description: "Calculate your solar panel ROI with our step-by-step guide. Learn payback periods, savings estimates, and key factors that affect your long-term investment retu"
-image: https://images.pexels.com/photos/6285073/pexels-photo-6285073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/6285073.jpg"
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "panel", "calculation"]
 slug: "solar-panel-roi-calculation"

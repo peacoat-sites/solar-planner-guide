@@ -3,7 +3,7 @@ title: "Monocrystalline Vs Polycrystalline Solar Panels"
 date: 2026-05-19T12:42:18.640916+00:00
 draft: false
 description: "Compare monocrystalline vs polycrystalline solar panels across efficiency, cost, lifespan, and appearance to find the best option for your home or business."
-image: "https://images.pexels.com/photos/15751141/pexels-photo-15751141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15751141.jpg"
 categories: ["Solar Panels & Equipment"]
 tags: ["monocrystalline", "polycrystalline", "solar", "panels"]
 slug: "monocrystalline-vs-polycrystalline-solar-panels"

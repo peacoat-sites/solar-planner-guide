@@ -3,7 +3,7 @@ title: "Solar Savings Calculator"
 date: 2026-05-26T17:10:06.057649+00:00
 draft: false
 description: "Estimate your potential savings with solar energy using our free solar savings calculator. See how much you could save on electricity bills and reduce your carb"
-image: https://images.pexels.com/photos/6306320/pexels-photo-6306320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/6306320.jpg"
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "savings", "calculator"]
 slug: "solar-savings-calculator"

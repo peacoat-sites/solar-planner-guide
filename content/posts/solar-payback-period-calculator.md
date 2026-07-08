@@ -3,7 +3,7 @@ title: "Solar Payback Period Calculator"
 date: 2026-05-25T20:17:52.589121+00:00
 draft: false
 description: "Calculate your solar panel payback period instantly with our free tool. Enter your costs and savings to find out how soon your solar investment pays for itself."
-image: https://images.pexels.com/photos/6285094/pexels-photo-6285094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/6285094.jpg"
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "payback", "period", "calculator"]
 slug: "solar-payback-period-calculator"

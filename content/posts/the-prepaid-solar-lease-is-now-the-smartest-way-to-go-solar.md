@@ -3,7 +3,7 @@ title: "The Prepaid Solar Lease Is Now the Smartest Way to Go Solar"
 date: 2026-06-24T10:28:38.639386+00:00
 draft: false
 description: "Discover why the prepaid solar lease is now the smartest way to go solar, offering low upfront costs, guaranteed savings, and hassle-free clean energy for your "
-image: "https://images.pexels.com/photos/33438126/pexels-photo-33438126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33438126.jpg"
 categories: ["trending"]
 tags: ["prepaid", "solar", "lease", "smartest", "solar"]
 author: "Nadia Patel"

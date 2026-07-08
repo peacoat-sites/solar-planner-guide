@@ -3,7 +3,7 @@ title: "Solar Panels In Arizona Guide"
 date: 2026-06-11T11:49:23.455313+00:00
 draft: false
 description: "Discover everything you need to know about installing solar panels in Arizona, including costs, incentives, top providers, and how to maximize savings in the su"
-image: "https://images.pexels.com/photos/9229395/pexels-photo-9229395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9229395.jpg"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "Arizona", "guide"]
 slug: "solar-panels-in-arizona-guide"

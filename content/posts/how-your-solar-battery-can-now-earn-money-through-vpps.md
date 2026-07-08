@@ -3,7 +3,7 @@ title: "How Your Solar Battery Can Now Earn Money Through VPPs"
 date: 2026-06-28T10:10:57.989116+00:00
 draft: false
 description: "Discover how virtual power plants let your home solar battery earn money by selling stored energy back to the grid while supporting a cleaner, more reliable ene"
-image: "https://images.pexels.com/photos/3639037/pexels-photo-3639037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3639037.jpg"
 categories: ["trending"]
 tags: ["your", "solar", "battery", "earn", "money"]
 author: "Derek Hansen"

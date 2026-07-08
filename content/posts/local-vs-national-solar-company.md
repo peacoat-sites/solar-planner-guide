@@ -3,7 +3,7 @@ title: "Local Vs National Solar Company"
 date: 2026-06-27T09:37:01.518183+00:00
 draft: false
 description: "Compare local vs national solar companies to find the best fit for your home. Discover key differences in pricing, service, and installation quality."
-image: "https://images.pexels.com/photos/14384697/pexels-photo-14384697.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14384697.jpg"
 categories: ["Solar Installation"]
 tags: ["local", "national", "solar", "company"]
 author: "Alex Rivera"

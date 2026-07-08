@@ -3,7 +3,7 @@ title: "How to Size a Solar System When Exporting Power Pays Almost Nothing"
 date: 2026-06-22T13:07:35.246652+00:00
 draft: false
 description: "Learn how to properly size a solar system when feed-in tariffs are low, maximizing self-consumption to cut energy bills and avoid oversizing your installation."
-image: "https://images.pexels.com/photos/518530/pexels-photo-518530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/518530.jpg"
 categories: ["trending"]
 tags: ["size", "solar", "system", "when", "exporting"]
 author: "Alex Rivera"

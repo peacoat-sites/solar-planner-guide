@@ -3,7 +3,7 @@ title: "The Prepaid Solar Lease Explained: How the 6-Year Flip Works"
 date: 2026-06-27T09:35:19.968592+00:00
 draft: false
 description: "Discover how the prepaid solar lease 6-year flip strategy works, its benefits, risks, and whether locking in low energy costs upfront makes financial sense for "
-image: "https://images.pexels.com/photos/9875674/pexels-photo-9875674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875674.jpg"
 categories: ["trending"]
 tags: ["prepaid", "solar", "lease", "explained:", "6-year"]
 author: "Craig Stevens"

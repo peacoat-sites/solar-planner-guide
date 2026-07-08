@@ -3,7 +3,7 @@ title: "Solar Leases and PPAs Are Back: How to Size for a Third-Party System"
 date: 2026-06-18T11:17:30.593597+00:00
 draft: false
 description: "Discover how solar leases and PPAs are making a comeback and learn the key steps to properly size a third-party solar system for maximum savings and efficiency."
-image: "https://images.pexels.com/photos/11645008/pexels-photo-11645008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11645008.jpg"
 categories: ["trending"]
 tags: ["solar", "leases", "ppas", "back:", "size"]
 author: "Patricia Moore"

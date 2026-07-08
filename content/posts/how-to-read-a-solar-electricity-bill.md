@@ -3,7 +3,7 @@ title: "How To Read A Solar Electricity Bill"
 date: 2026-06-20T10:15:10.482178+00:00
 draft: false
 description: "Learn how to read a solar electricity bill, understand net metering credits, kilowatt-hour usage, and charges to maximize your solar savings."
-image: "https://images.pexels.com/photos/13963757/pexels-photo-13963757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13963757.jpg"
 categories: ["Basics"]
 tags: ["read", "solar", "electricity", "bill"]
 author: "Patricia Moore"

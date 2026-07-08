@@ -3,7 +3,7 @@ title: "Solar Battery Backup During Power Outage"
 date: 2026-06-06T09:31:08.697397+00:00
 draft: false
 description: "Stay powered during outages with solar battery backup systems. Learn how they work, key benefits, top options, and how to choose the right setup for your home."
-image: "https://images.pexels.com/photos/31512224/pexels-photo-31512224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31512224.jpg"
 categories: ["Batteries"]
 tags: ["solar", "battery", "backup", "during", "power"]
 slug: "solar-battery-backup-during-power-outage"

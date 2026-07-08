@@ -3,7 +3,7 @@ title: "Off Grid Solar Battery System Cost"
 date: 2026-06-23T10:44:22.128059+00:00
 draft: false
 description: "Discover what an off grid solar battery system costs, from panels and batteries to inverters and installation, plus tips to reduce your total investment."
-image: "https://images.pexels.com/photos/8783541/pexels-photo-8783541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8783541.jpg"
 categories: ["Home Battery Storage"]
 tags: ["grid", "solar", "battery", "system", "cost"]
 author: "Derek Hansen"

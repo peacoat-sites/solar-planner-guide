@@ -3,7 +3,7 @@ title: "Zero Down Solar Financing Options"
 date: 2026-05-24T14:47:46.169640+00:00
 draft: false
 description: "Discover zero down solar financing options that make going solar affordable with no upfront costs. Compare loans, leases, and PPAs to find your best fit today."
-image: "https://images.pexels.com/photos/6961091/pexels-photo-6961091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6961091.jpg"
 categories: ["Solar Financing"]
 tags: ["zero", "down", "solar", "financing", "options"]
 slug: "zero-down-solar-financing-options"

@@ -3,7 +3,7 @@ title: "Canadian Solar Panels Review"
 date: 2026-06-29T12:10:40.586082+00:00
 draft: false
 description: "Discover Canadian Solar panels: performance, efficiency, warranties, and value. Read our expert review to decide if they're right for your home."
-image: "https://images.pexels.com/photos/30440512/pexels-photo-30440512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30440512.jpg"
 categories: ["Solar Panels & Equipment"]
 tags: ["canadian", "solar", "panels", "review"]
 author: "Craig Stevens"

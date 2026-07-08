@@ -3,7 +3,7 @@ title: "Solar Panel Shading Impact On Output"
 date: 2026-06-16T12:21:32.799644+00:00
 draft: false
 description: "Learn how shading affects solar panel output, why even partial shadows cause major power loss, and how to optimize your system for maximum energy production."
-image: "https://images.pexels.com/photos/33537433/pexels-photo-33537433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33537433.jpg"
 categories: ["Performance"]
 tags: ["solar", "panel", "shading", "impact", "output"]
 author: "Derek Hansen"

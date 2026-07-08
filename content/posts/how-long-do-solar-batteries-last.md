@@ -3,7 +3,7 @@ title: "How Long Do Solar Batteries Last"
 date: 2026-06-05T12:21:33.106347+00:00
 draft: false
 description: "Discover how long solar batteries last, what affects their lifespan, and tips to maximize performance so you get the most value from your solar energy system."
-image: "https://images.pexels.com/photos/36594160/pexels-photo-36594160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36594160.jpg"
 categories: ["Batteries"]
 tags: ["long", "solar", "batteries", "last"]
 slug: "how-long-do-solar-batteries-last"

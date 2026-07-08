@@ -3,7 +3,7 @@ title: "The July 4 Solar Deadline Most Homeowners Have Never Heard Of"
 date: 2026-06-25T10:23:01.549908+00:00
 draft: false
 description: "Beat the July 4 solar deadline before it expires. Learn how this little-known cutoff could save homeowners thousands on solar installation costs and federal tax"
-image: "https://images.pexels.com/photos/8292855/pexels-photo-8292855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292855.jpg"
 categories: ["trending"]
 tags: ["july", "solar", "deadline", "most", "homeowners"]
 author: "Patricia Moore"

@@ -3,7 +3,7 @@ title: "Solar Panel Installation Cost Breakdown"
 date: 2026-05-28T14:17:27.764246+00:00
 draft: false
 description: "Learn what affects solar panel installation costs, including equipment, labor, permits, and incentives. Get a full breakdown to budget your home solar project t"
-image: https://images.pexels.com/photos/6285066/pexels-photo-6285066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/6285066.jpg"
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "panel", "installation", "cost", "breakdown"]
 slug: "solar-panel-installation-cost-breakdown"

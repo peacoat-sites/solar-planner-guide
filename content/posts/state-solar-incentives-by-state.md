@@ -3,7 +3,7 @@ title: "State Solar Incentives By State"
 date: 2026-05-29T04:30:44.531882+00:00
 draft: false
 description: "Discover the best solar incentives and rebates available in your state. Compare tax credits, grants, and programs to make going solar more affordable today."
-image: https://images.pexels.com/photos/6592700/pexels-photo-6592700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/6592700.jpg"
 categories: ["Tax Credits & Incentives"]
 tags: ["state", "solar", "incentives", "state"]
 slug: "state-solar-incentives-by-state"

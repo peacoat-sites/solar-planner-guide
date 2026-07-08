@@ -3,7 +3,7 @@ title: "How To Get Multiple Solar Quotes"
 date: 2026-06-14T10:32:06.926833+00:00
 draft: false
 description: "Compare multiple solar quotes to find the best price and system for your home. Learn how to request, evaluate and choose the right solar installer with confiden"
-image: "https://images.pexels.com/photos/4254166/pexels-photo-4254166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4254166.jpg"
 categories: ["Solar Installation"]
 tags: ["multiple", "solar", "quotes"]
 slug: "how-to-get-multiple-solar-quotes"

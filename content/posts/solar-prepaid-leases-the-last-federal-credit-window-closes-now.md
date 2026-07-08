@@ -3,7 +3,7 @@ title: "Solar Prepaid Leases: The Last Federal Credit Window Closes Now"
 date: 2026-07-01T10:51:13.957570+00:00
 draft: false
 description: "Discover why solar prepaid leases are surging as the final federal tax credit window closes. Act now to maximize savings before this opportunity disappears fore"
-image: "https://images.pexels.com/photos/8730998/pexels-photo-8730998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8730998.jpg"
 categories: ["trending"]
 tags: ["solar", "prepaid", "leases:", "last", "federal"]
 author: "Nadia Patel"

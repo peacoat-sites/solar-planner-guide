@@ -3,7 +3,7 @@ title: "How to Size a Solar System When the Tax Credit Is Gone"
 date: 2026-06-16T12:24:20.393521+00:00
 draft: false
 description: "Learn how to properly size a solar system without relying on tax credits, ensuring maximum energy savings and a smart long-term investment for your home or busi"
-image: "https://images.pexels.com/photos/7605834/pexels-photo-7605834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7605834.jpg"
 categories: ["trending"]
 tags: ["size", "solar", "system", "when", "credit"]
 author: "Nadia Patel"

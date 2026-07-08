@@ -3,7 +3,7 @@ title: "Solar System Size Calculator"
 date: 2026-06-26T10:28:27.162130+00:00
 draft: false
 description: "Calculate the true scale of our solar system with our interactive size calculator. Compare planet diameters, distances, and orbits in miles and kilometers."
-image: "https://images.pexels.com/photos/20376409/pexels-photo-20376409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/20376409.jpg"
 categories: ["Solar Costs & Savings"]
 tags: ["solar", "system", "size", "calculator"]
 author: "Derek Hansen"

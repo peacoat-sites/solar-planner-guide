@@ -3,7 +3,7 @@ title: "Solar ROI Without the 30% Tax Credit: What the Numbers Look Like Now"
 date: 2026-06-19T11:44:17.732616+00:00
 draft: false
 description: "Wondering if solar still makes financial sense without the 30% tax credit? Discover updated payback periods, savings projections, and whether it pencils out for"
-image: "https://images.pexels.com/photos/7339349/pexels-photo-7339349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7339349.jpg"
 categories: ["trending"]
 tags: ["solar", "without", "credit:", "what", "numbers"]
 author: "Craig Stevens"

@@ -3,7 +3,7 @@ title: "Refinancing To Pay For Solar Panels"
 date: 2026-06-26T10:30:17.125624+00:00
 draft: false
 description: "Learn how refinancing your home can fund solar panel installation, lower your energy bills, and potentially increase your property value."
-image: "https://images.pexels.com/photos/9875685/pexels-photo-9875685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875685.jpg"
 categories: ["Solar Financing"]
 tags: ["refinancing", "solar", "panels"]
 author: "Nadia Patel"

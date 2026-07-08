@@ -3,7 +3,7 @@ title: "California Nem 3.0 Explained"
 date: 2026-06-12T11:11:09.946172+00:00
 draft: false
 description: "Discover how California's NEM 3.0 changes solar compensation rates, impacts payback periods, and what homeowners need to know before going solar under the new p"
-image: "https://images.pexels.com/photos/8783543/pexels-photo-8783543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8783543.jpg"
 categories: ["State Solar Guides"]
 tags: ["California", "explained"]
 slug: "california-nem-30-explained"

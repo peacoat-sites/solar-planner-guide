@@ -3,7 +3,7 @@ title: "How Long Do Solar Panels Last"
 date: 2026-05-18T20:33:14.964066+00:00
 draft: false
 description: "Discover how long solar panels last, what affects their lifespan, and tips to maximise performance. Most panels last 25–30 years with proper care."
-image: "https://images.pexels.com/photos/9875445/pexels-photo-9875445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875445.jpg"
 categories: ["Solar Panels & Equipment"]
 tags: ["long", "solar", "panels", "last"]
 slug: "how-long-do-solar-panels-last"

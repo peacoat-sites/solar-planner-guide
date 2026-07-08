@@ -3,7 +3,7 @@ title: "PPL Electric Goes Live July 1: What PA Solar Shoppers Must Do Now"
 date: 2026-07-07T10:33:52.501672+00:00
 draft: false
 description: "Act fast before July 1: PPL Electric's new solar rules in Pennsylvania are changing net metering payouts. Learn what steps solar shoppers must take now to prote"
-image: "https://images.pexels.com/photos/137602/pexels-photo-137602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/137602.jpg"
 categories: ["trending"]
 tags: ["electric", "goes", "live", "july", "what"]
 author: "Alex Rivera"

@@ -3,7 +3,7 @@ title: "Solar Panel Installation Timeline What To Expect"
 date: 2026-06-28T10:08:24.419998+00:00
 draft: false
 description: "Learn the full solar panel installation timeline from initial consultation to final inspection so you know exactly what to expect at every step."
-image: "https://images.pexels.com/photos/8457866/pexels-photo-8457866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8457866.jpg"
 categories: ["Installation"]
 tags: ["solar", "panel", "installation", "timeline", "what"]
 author: "Patricia Moore"

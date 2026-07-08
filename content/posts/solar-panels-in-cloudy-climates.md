@@ -3,7 +3,7 @@ title: "Solar Panels In Cloudy Climates"
 date: 2026-06-24T10:30:47.011619+00:00
 draft: false
 description: "Discover how solar panels perform in cloudy climates, what efficiency to expect, and why overcast regions can still benefit greatly from solar energy."
-image: "https://images.pexels.com/photos/356036/pexels-photo-356036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/356036.jpg"
 categories: ["Solar Panels & Equipment"]
 tags: ["solar", "panels", "cloudy", "climates"]
 author: "Craig Stevens"

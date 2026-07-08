@@ -3,7 +3,7 @@ title: "Home Battery Storage Options Compared"
 date: 2026-05-24T20:48:55.022910+00:00
 draft: false
 description: "Explore and compare the best home battery storage options available today. Find the right system for your energy needs and start saving on electricity bills."
-image: "https://images.pexels.com/photos/4498873/pexels-photo-4498873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4498873.jpg"
 categories: ["Home Battery Storage"]
 tags: ["home", "battery", "storage", "options", "compared"]
 slug: "home-battery-storage-options-compared"

@@ -3,7 +3,7 @@ title: "Sunrun Vs Sunpower Vs Tesla Solar"
 date: 2026-06-13T10:08:40.028136+00:00
 draft: false
 description: "Compare SunRun, SunPower, and Tesla Solar on cost, efficiency, warranties, and installation to find the best solar company for your home and energy needs."
-image: "https://images.pexels.com/photos/9875678/pexels-photo-9875678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875678.jpg"
 categories: ["Solar Installation"]
 tags: ["SunRun", "Sunpower", "Tesla", "Solar"]
 slug: "sunrun-vs-sunpower-vs-tesla-solar"

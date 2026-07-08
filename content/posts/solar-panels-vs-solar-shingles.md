@@ -3,7 +3,7 @@ title: "Solar Panels Vs Solar Shingles"
 date: 2026-06-10T11:05:03.911576+00:00
 draft: false
 description: "Comparing solar panels vs solar shingles? Discover key differences in cost, efficiency, aesthetics, and installation to help you choose the best solar option fo"
-image: "https://images.pexels.com/photos/33404248/pexels-photo-33404248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33404248.jpg"
 categories: ["Equipment"]
 tags: ["solar", "panels", "solar", "shingles"]
 slug: "solar-panels-vs-solar-shingles"

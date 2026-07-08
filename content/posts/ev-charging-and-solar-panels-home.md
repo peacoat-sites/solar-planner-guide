@@ -3,7 +3,7 @@ title: "EV Charging And Solar Panels Home"
 date: 2026-05-30T10:57:51.866120+00:00
 draft: false
 description: "Discover how to combine EV charging with home solar panels to reduce energy costs, boost sustainability, and power your electric vehicle with clean, renewable e"
-image: "https://images.pexels.com/photos/4678065/pexels-photo-4678065.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4678065.jpg"
 categories: ["Energy Efficiency & Solar"]
 tags: ["charging", "solar", "panels", "home"]
 slug: "ev-charging-and-solar-panels-home"

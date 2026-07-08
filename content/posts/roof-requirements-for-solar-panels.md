@@ -3,7 +3,7 @@ title: "Roof Requirements For Solar Panels"
 date: 2026-05-31T11:11:59.066648+00:00
 draft: false
 description: "Learn what roof requirements are needed for solar panels, including material, age, pitch, and condition, to ensure a safe and efficient solar installation."
-image: "https://images.pexels.com/photos/6961112/pexels-photo-6961112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6961112.jpg"
 categories: ["Solar Installation"]
 tags: ["roof", "requirements", "solar", "panels"]
 slug: "roof-requirements-for-solar-panels"

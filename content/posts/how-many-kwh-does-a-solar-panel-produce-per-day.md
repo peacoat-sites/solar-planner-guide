@@ -3,7 +3,7 @@ title: "How Many kWh Does A Solar Panel Produce Per Day"
 date: 2026-06-07T10:13:15.064851+00:00
 draft: false
 description: "Discover how many kWh a solar panel produces per day, what factors affect output, and how to calculate your system's energy generation for maximum savings."
-image: "https://images.pexels.com/photos/6876534/pexels-photo-6876534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6876534.jpg"
 categories: ["Performance"]
 tags: ["many", "does", "solar", "panel", "produce"]
 slug: "how-many-kwh-does-a-solar-panel-produce-per-day"

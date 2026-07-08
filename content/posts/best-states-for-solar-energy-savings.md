@@ -3,7 +3,7 @@ title: "Best States For Solar Energy Savings"
 date: 2026-06-08T12:08:07.023502+00:00
 draft: false
 description: "Discover which states offer the best solar energy savings through top incentives, tax credits, net metering policies, and abundant sunshine to maximize your inv"
-image: "https://images.pexels.com/photos/15751120/pexels-photo-15751120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15751120.jpg"
 categories: ["State Solar Guides"]
 tags: ["best", "states", "solar", "energy", "savings"]
 slug: "best-states-for-solar-energy-savings"

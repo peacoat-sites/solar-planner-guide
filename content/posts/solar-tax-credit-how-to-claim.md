@@ -3,7 +3,7 @@ title: "Solar Tax Credit How To Claim"
 date: 2026-05-19T21:37:42.216289+00:00
 draft: false
 description: "Learn how to claim the federal solar tax credit and save up to 30% on installation costs. Step-by-step guide covering eligibility, IRS Form 5695, and filing tip"
-image: https://images.pexels.com/photos/6326394/pexels-photo-6326394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/6326394.jpg"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "credit", "claim"]
 slug: "solar-tax-credit-how-to-claim"

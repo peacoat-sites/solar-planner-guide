@@ -3,7 +3,7 @@ title: "Solar Panels In Ohio Guide"
 date: 2026-06-20T10:13:18.559372+00:00
 draft: false
 description: "Discover how solar panels work in Ohio, average costs, best installers, and available incentives to help homeowners save on energy bills."
-image: "https://images.pexels.com/photos/17762230/pexels-photo-17762230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17762230.jpg"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "ohio", "guide"]
 author: "Alex Rivera"

@@ -3,7 +3,7 @@ title: "Solar Panels In California Nem 3.0"
 date: 2026-06-08T12:10:10.246728+00:00
 draft: false
 description: "Discover how California's NEM 3.0 affects solar panel owners. Learn about new net metering rates, battery storage benefits, and whether solar still makes financ"
-image: "https://images.pexels.com/photos/33385147/pexels-photo-33385147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33385147.jpg"
 categories: ["State Solar Guides"]
 tags: ["solar", "panels", "California"]
 slug: "solar-panels-in-california-nem-30"

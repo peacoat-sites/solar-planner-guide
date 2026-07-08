@@ -3,7 +3,7 @@ title: "Solar Installer Red Flags To Avoid"
 date: 2026-06-09T10:42:16.217431+00:00
 draft: false
 description: "Protect your investment by spotting common solar installer red flags before signing. Learn which warning signs to avoid for a safe, successful solar panel insta"
-image: "https://images.pexels.com/photos/8853522/pexels-photo-8853522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8853522.jpg"
 categories: ["Solar Installation"]
 tags: ["solar", "installer", "flags", "avoid"]
 slug: "solar-installer-red-flags-to-avoid"

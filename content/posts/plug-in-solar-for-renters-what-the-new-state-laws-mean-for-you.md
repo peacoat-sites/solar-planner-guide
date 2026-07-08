@@ -3,7 +3,7 @@ title: "Plug-In Solar for Renters: What the New State Laws Mean for You"
 date: 2026-07-04T09:32:16.873434+00:00
 draft: false
 description: "Discover how new state laws are making plug-in solar systems easier for renters to use. Learn your rights, what landlords must allow, and how to save on energy "
-image: "https://images.pexels.com/photos/32652321/pexels-photo-32652321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32652321.jpg"
 categories: ["trending"]
 tags: ["plug-in", "solar", "renters:", "what", "state"]
 author: "Craig Stevens"

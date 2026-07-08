@@ -3,7 +3,7 @@ title: "Solar Battery Storage Worth It"
 date: 2026-05-24T14:50:59.471087+00:00
 draft: false
 description: "Find out if solar battery storage is worth the investment. We compare costs, savings, and benefits to help you decide if it's the right choice for your home."
-image: "https://images.pexels.com/photos/9800028/pexels-photo-9800028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9800028.jpg"
 categories: ["Home Battery Storage"]
 tags: ["solar", "battery", "storage", "worth"]
 slug: "solar-battery-storage-worth-it"

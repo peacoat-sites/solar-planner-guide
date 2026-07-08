@@ -3,7 +3,7 @@ title: "Solar Panel Financing Calculator"
 date: 2026-07-07T10:31:39.134992+00:00
 draft: false
 description: "Calculate your solar panel financing costs instantly. Compare loan options, monthly payments, and savings to find the best solar financing plan for your home."
-image: "https://images.pexels.com/photos/9875438/pexels-photo-9875438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875438.jpg"
 categories: ["Solar Financing"]
 tags: ["solar", "panel", "financing", "calculator"]
 author: "Craig Stevens"

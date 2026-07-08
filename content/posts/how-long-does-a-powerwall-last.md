@@ -3,7 +3,7 @@ title: "How Long Does A Powerwall Last"
 date: 2026-06-21T10:45:45.934454+00:00
 draft: false
 description: "Discover how long a Tesla Powerwall lasts on a single charge and over its lifetime, plus tips to maximize battery performance and lifespan."
-image: "https://images.pexels.com/photos/9875439/pexels-photo-9875439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875439.jpg"
 categories: ["Home Battery Storage"]
 tags: ["long", "does", "powerwall", "last"]
 author: "Nadia Patel"

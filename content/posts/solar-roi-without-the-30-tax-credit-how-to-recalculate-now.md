@@ -3,7 +3,7 @@ title: "Solar ROI Without the 30% Tax Credit: How to Recalculate Now"
 date: 2026-06-30T10:36:16.763804+00:00
 draft: false
 description: "Find out how to accurately recalculate your solar ROI if the 30% tax credit disappears. Learn which factors still make solar a smart financial investment."
-image: "https://images.pexels.com/photos/9875414/pexels-photo-9875414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875414.jpg"
 categories: ["trending"]
 tags: ["solar", "without", "credit:", "recalculate"]
 author: "Alex Rivera"

@@ -3,7 +3,7 @@ title: "Solar Panel Degradation Rate"
 date: 2026-06-17T11:57:31.288304+00:00
 draft: false
 description: "Learn how fast solar panels lose efficiency over time, what causes degradation, and how to maximize your systems lifespan and energy output."
-image: "https://images.pexels.com/photos/9875418/pexels-photo-9875418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9875418.jpg"
 categories: ["Solar Panels & Equipment"]
 tags: ["solar", "panel", "degradation", "rate"]
 author: "Craig Stevens"

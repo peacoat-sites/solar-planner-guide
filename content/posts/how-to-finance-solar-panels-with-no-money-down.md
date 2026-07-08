@@ -3,7 +3,7 @@ title: "How To Finance Solar Panels With No Money Down"
 date: 2026-05-24T18:50:17.444691+00:00
 draft: false
 description: "Finance solar panels with zero upfront costs through leases, PPAs, loans, and rebates. Explore affordable options to go solar today without breaking the bank."
-image: "https://images.pexels.com/photos/6961122/pexels-photo-6961122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6961122.jpg"
 categories: ["Solar Financing"]
 tags: ["finance", "solar", "panels", "with", "money"]
 slug: "how-to-finance-solar-panels-with-no-money-down"

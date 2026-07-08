@@ -3,7 +3,7 @@ title: "Plug-In Balcony Solar Is Now Legal in 10 States: What It Means for Rente
 date: 2026-07-06T11:44:09.018631+00:00
 draft: false
 description: "Plug-in balcony solar systems are now legal in 10 states, giving renters a simple way to cut electricity bills and embrace clean energy without landlord approva"
-image: "https://images.pexels.com/photos/6493442/pexels-photo-6493442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6493442.jpg"
 categories: ["trending"]
 tags: ["plug-in", "balcony", "solar", "legal", "states:"]
 author: "Derek Hansen"

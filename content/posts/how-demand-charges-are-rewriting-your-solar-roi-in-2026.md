@@ -3,7 +3,7 @@ title: "How Demand Charges Are Rewriting Your Solar ROI in 2026"
 date: 2026-07-03T10:10:44.665217+00:00
 draft: false
 description: "Discover how demand charges are impacting solar return on investment in 2026. Learn strategies to maximize savings and navigate evolving electricity pricing str"
-image: "https://images.pexels.com/photos/18475528/pexels-photo-18475528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18475528.jpg"
 categories: ["trending"]
 tags: ["demand", "charges", "rewriting", "your", "solar"]
 author: "Patricia Moore"
