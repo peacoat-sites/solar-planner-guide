@@ -23,7 +23,7 @@ faqs:
     a: "This is the question people forget to ask before signing. Some subscriptions are transferable to a new address within the same utility territory. Others can be assigned to the next tenant or homeowner. Some require you to buy out the contract. Read the exit terms carefully before signing anything longer than a one-year term."
   - q: "Can I have both rooftop solar and a community solar subscription?"
     a: "Technically sometimes, but most utilities and community solar programs restrict this or limit how much net metering credit you can stack. In practice, if you have a well-sized rooftop system, a community solar subscription adds little value. They're generally alternatives, not complements."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles on this topic spend three paragraphs explaining what solar panels are before getting to anything useful. Let's skip that.
@@ -125,6 +125,6 @@ If you're curious about monitoring your home energy use before deciding anything
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

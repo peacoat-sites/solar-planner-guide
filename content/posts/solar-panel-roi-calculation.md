@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A solar salesperson tells you the system will pay for itself in 6 years. Sounds great. Then you ask how they got that number and get something about "average savings" with zero real backing. I've watched clients get quotes promising 8-year paybacks that, once we ran actual numbers, landed closer to 14 years. The gap wasn't dishonesty so much as sloppy math and wishful thinking. This guide shows you how to do it yourself, honestly, so you know what you're actually signing up for.
 
@@ -56,19 +56,19 @@ The federal Investment Tax Credit (ITC) is currently 30% of total installed cost
 
 **2. Annual electricity production (kWh/year)**
 
-Multiply your system size in kilowatts by what NREL calls "peak sun hours" for your location, adjusting for losses. NREL's PVWatts calculator is the standard here. A 7 kW system in Albuquerque (5.8 peak sun hours daily) produces roughly 10,000–10,500 kWh yearly. Same system in Portland, Oregon (3.9 peak sun hours daily)? Closer to 7,200–7,500 kWh yearly.
+Multiply your system size in kilowatts by what NREL calls "peak sun hours" for your location, adjusting for losses. NREL's PVWatts calculator is the standard here. A 7 kW system in Albuquerque (5.8 peak sun hours daily) produces roughly 10,000-10,500 kWh yearly. Same system in Portland, Oregon (3.9 peak sun hours daily)? Closer to 7,200-7,500 kWh yearly.
 
 **3. Your current electricity rate ($/kWh)**
 
-Look at your last 12 months of bills, not just the most recent one. Divide total dollars paid by total kWh consumed. Include all delivery and distribution charges, not just the energy supply line. Most homeowners who actually do this discover their real all-in rate runs 15–30% higher than the advertised rate. The national average hit around 16 cents/kWh in 2023, but ranged from 10 cents in parts of the South to 30+ cents in Hawaii and coastal New England.
+Look at your last 12 months of bills, not just the most recent one. Divide total dollars paid by total kWh consumed. Include all delivery and distribution charges, not just the energy supply line. Most homeowners who actually do this discover their real all-in rate runs 15-30% higher than the advertised rate. The national average hit around 16 cents/kWh in 2023, but ranged from 10 cents in parts of the South to 30+ cents in Hawaii and coastal New England.
 
 **4. [Annual electricity rate escalation](/solar-cost-vs-electricity-bill-savings/)**
 
-Utilities never keep rates flat. U.S. residential electricity prices have climbed roughly 2–3% yearly over the past two decades. Your solar system locks in a fixed "fuel cost" of zero, so every rate hike your utility announces means bigger savings for you. Over a 25-year system life, this compounds hard.
+Utilities never keep rates flat. U.S. residential electricity prices have climbed roughly 2-3% yearly over the past two decades. Your solar system locks in a fixed "fuel cost" of zero, so every rate hike your utility announces means bigger savings for you. Over a 25-year system life, this compounds hard.
 
 **5. Net metering policy for your utility**
 
-This one catches everyone. Net metering dictates how much credit you get for excess solar power sent back to the grid. Full retail net metering (1:1 credit) is the gold standard. Some utilities switched to avoided cost metering, crediting you at 4–6 cents/kWh while charging 18 cents for power you draw at night. That gap alone can add two or three years to your payback.
+This one catches everyone. Net metering dictates how much credit you get for excess solar power sent back to the grid. Full retail net metering (1:1 credit) is the gold standard. Some utilities switched to avoided cost metering, crediting you at 4-6 cents/kWh while charging 18 cents for power you draw at night. That gap alone can add two or three years to your payback.
 
 ## Step-by-Step: Calculating Your Payback Period
 
@@ -101,21 +101,21 @@ Add cumulative savings year by year until you hit $19,600.
 | 11 | $1,805 | $17,723 |
 | 13 | $1,897 | $21,657 |
 
-Your payback lands around **year 12–13**. Not the "6-year payback" some salespeople promise. That longer timeline is still often solid given the 25-year system life, but you deserve the real number upfront.
+Your payback lands around **year 12-13**. Not the "6-year payback" some salespeople promise. That longer timeline is still often solid given the 25-year system life, but you deserve the real number upfront.
 
 Once installed, track actual production with something like the [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor) *(affiliate link, site may earn a commission)* to validate real-world performance against promises.
 
 ## The Variables That Can Make or Break Your ROI
 
-The calculation above is your starting point. These factors can swing your actual return by 30–40%.
+The calculation above is your starting point. These factors can swing your actual return by 30-40%.
 
-**Shading.** Even partial shade, like a neighbor's tree hitting one roof corner for three hours daily, cuts production 15–20% with traditional string inverters. Microinverters or DC optimizers help but cost more. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has shown shading losses are consistently underestimated in residential solar.
+**Shading.** Even partial shade, like a neighbor's tree hitting one roof corner for three hours daily, cuts production 15-20% with traditional string inverters. Microinverters or DC optimizers help but cost more. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has shown shading losses are consistently underestimated in residential solar.
 
-**Roof direction and pitch.** South-facing roofs at 30 degrees hit the sweet spot in the continental U.S. East or west-facing roofs produce 15–20% less. Flat roofs with proper racking can match south-facing, but that's added cost.
+**Roof direction and pitch.** South-facing roofs at 30 degrees hit the sweet spot in the continental U.S. East or west-facing roofs produce 15-20% less. Flat roofs with proper racking can match south-facing, but that's added cost.
 
 **System degradation.** Solar panels lose roughly 0.5% annually. A system producing 10,000 kWh in Year 1 generates about 8,800 kWh by Year 25. Account for this in your ROI.
 
-**Electricity consumption changes.** Buy an EV, electric water heater, or heat pump in years 3–5? Your offset ratio improves, boosting ROI. Kids move out and consumption drops? You're now producing excess power that may not monetize fully.
+**Electricity consumption changes.** Buy an EV, electric water heater, or heat pump in years 3-5? Your offset ratio improves, boosting ROI. Kids move out and consumption drops? You're now producing excess power that may not monetize fully.
 
 **Home sale timing.** Sell in year 6 before payback? Ideally you recoup remaining value through a higher sale price. Lawrence Berkeley National Laboratory research shows solar adds roughly $4/W to home value in strong solar markets. That's not guaranteed everywhere though, and a leased system can actually complicate selling.
 
@@ -123,19 +123,19 @@ The calculation above is your starting point. These factors can swing your actua
 
 Cash payments give the cleanest ROI. The full 30% ITC goes straight to you. All savings are pure return.
 
-A solar loan muddies things. A $19,600 net-cost system financed at 6.99% over 20 years costs roughly $152 monthly. Year 1 electric savings might be $117/month. That's negative monthly cash flow early on, though it typically flips positive within a few years as rates climb. Total interest over 20 years adds $16,000–18,000, pushing true payback past the loan term for many homeowners.
+A solar loan muddies things. A $19,600 net-cost system financed at 6.99% over 20 years costs roughly $152 monthly. Year 1 electric savings might be $117/month. That's negative monthly cash flow early on, though it typically flips positive within a few years as rates climb. Total interest over 20 years adds $16,000-18,000, pushing true payback past the loan term for many homeowners.
 
-Leases and power purchase agreements (PPAs) are where the ROI talk gets uncomfortable. You don't own the system. You don't get the ITC. You pay the solar company a fixed or slightly escalating rate per kWh for 20–25 years. Savings exist but stay modest, typically 10–20% off your current utility rate. The company captures most financial returns. Leases made sense when the ITC was smaller and costs were high. In 2024, with 30% federal credit and systems averaging around $3/W, cash or loan purchases almost always beat leases on total return.
+Leases and power purchase agreements (PPAs) are where the ROI talk gets uncomfortable. You don't own the system. You don't get the ITC. You pay the solar company a fixed or slightly escalating rate per kWh for 20-25 years. Savings exist but stay modest, typically 10-20% off your current utility rate. The company captures most financial returns. Leases made sense when the ITC was smaller and costs were high. In 2024, with 30% federal credit and systems averaging around $3/W, cash or loan purchases almost always beat leases on total return.
 
 ## Honest Situations Where Solar ROI Is Weak
 
 I'd be doing you wrong if I only highlighted the upside. Solar is sometimes a genuinely poor financial move.
 
-**Very low electricity rates.** If you're paying 9–10 cents/kWh (common in parts of the Pacific Northwest or Southeast), annual savings stay thin and payback stretches to 15+ years. You might break even over 25 years, but the IRR becomes unfavorable compared to other investments.
+**Very low electricity rates.** If you're paying 9-10 cents/kWh (common in parts of the Pacific Northwest or Southeast), annual savings stay thin and payback stretches to 15+ years. You might break even over 25 years, but the IRR becomes unfavorable compared to other investments.
 
 **Shaded or north-facing roofs** where production takes a real hit. If a site assessment shows your roof captures only 65% of optimal sunlight, run the numbers carefully. Sometimes the honest answer is "wait until that tree's gone" or "skip solar on this home."
 
-**Short time horizons.** Planning to sell in 3–5 years? The math weakens unless your market heavily rewards solar homes. In some rural areas, appraisers don't know how to value solar, and you may not recoup the cost.
+**Short time horizons.** Planning to sell in 3-5 years? The math weakens unless your market heavily rewards solar homes. In some rural areas, appraisers don't know how to value solar, and you may not recoup the cost.
 
 **Aging electrical panels or roofs.** A $3,500 panel upgrade and $12,000 roof replacement before going solar change the equation. Those costs usually don't make it into installer quotes.
 

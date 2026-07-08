@@ -12,7 +12,7 @@ author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 slug: "how-to-size-a-solar-system-when-the-tax-credit-is-gone"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you're staring at a solar quote right now, the math probably feels off. The 30% federal residential tax credit expired December 31, 2025, when the One Big Beautiful Bill took effect July 4, 2025. That changes almost everything about system size, payback, and whether buying solar makes sense at all.
 
@@ -23,7 +23,7 @@ Here's the blunt reality: most solar advice you'll find online was written when 
  <div class="vm-head">Post-Credit Solar: Size vs. Payback Tradeoffs</div>
  <div class="vm-body">
  <p class="vm-intro">Without the 30% federal credit, system sizing decisions shift toward faster payback rather than maximum production-here's how the math changes at different scales.</p>
- <table><caption>Illustrative Payback Comparison: 6kW vs 10kW System (No Federal Credit)</caption><thead><tr><th>Factor</th><th>6kW System</th><th>10kW System</th></tr></thead><tbody><tr><td>Typical installed cost</td><td>$15,000–$18,000</td><td>$25,000–$30,000</td></tr><tr><td>Annual production estimate</td><td>7,200–9,000 kWh</td><td>12,000–15,000 kWh</td></tr><tr><td>Annual savings (at $0.15/kWh avg)</td><td>$1,080–$1,350</td><td>$1,800–$2,250</td></tr><tr><td>Simple payback period</td><td>11–17 years</td><td>11–17 years</td></tr><tr><td>Excess production risk</td><td>Low-sized to baseline usage</td><td>Higher-may export at unfavorable net metering rates</td></tr><tr><td>Best fit scenario</td><td>Households using 600–800 kWh/month seeking lowest capital outlay</td><td>High-usage homes (1,000+ kWh/month) or planned EV/heat pump additions</td></tr><tr><td>Key sizing rule post-credit</td><td colspan="2">Size to 80–90% of current consumption; avoid oversizing unless utility offers 1:1 net metering</td></tr></tbody></table>
+ <table><caption>Illustrative Payback Comparison: 6kW vs 10kW System (No Federal Credit)</caption><thead><tr><th>Factor</th><th>6kW System</th><th>10kW System</th></tr></thead><tbody><tr><td>Typical installed cost</td><td>$15,000-$18,000</td><td>$25,000-$30,000</td></tr><tr><td>Annual production estimate</td><td>7,200-9,000 kWh</td><td>12,000-15,000 kWh</td></tr><tr><td>Annual savings (at $0.15/kWh avg)</td><td>$1,080-$1,350</td><td>$1,800-$2,250</td></tr><tr><td>Simple payback period</td><td>11-17 years</td><td>11-17 years</td></tr><tr><td>Excess production risk</td><td>Low-sized to baseline usage</td><td>Higher-may export at unfavorable net metering rates</td></tr><tr><td>Best fit scenario</td><td>Households using 600-800 kWh/month seeking lowest capital outlay</td><td>High-usage homes (1,000+ kWh/month) or planned EV/heat pump additions</td></tr><tr><td>Key sizing rule post-credit</td><td colspan="2">Size to 80-90% of current consumption; avoid oversizing unless utility offers 1:1 net metering</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>

@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-08
 ---
 Most solar battery articles will tell you to expect "10 to 15 years" and stop there. That number isn't wrong, but it's hiding something important: one battery might still deliver 80% of its original capacity at year twelve, while another is limping along at 60% by year eight. The gap between a well-maintained battery in a mild climate and a neglected one in Phoenix heat is enormous, and almost nobody talks about it.
 
@@ -34,7 +34,7 @@ So here's what those lifespan numbers actually mean, what kills batteries early,
  <div class="vm-head">Battery Degradation Factors: Impact Comparison</div>
  <div class="vm-body">
  <p class="vm-intro">This table quantifies how major degradation factors affect lithium battery lifespan, helping you identify which issues deserve priority attention in your specific situation.</p>
- <table><thead><tr><th>Degradation Factor</th><th>Typical Lifespan Impact</th><th>Warning Signs</th><th>Mitigation Cost</th></tr></thead><tbody><tr><td><strong>High ambient temperature</strong> (sustained >86°F/30°C)</td><td>20–40% faster capacity loss</td><td>Thermal throttling alerts; reduced charging during summer peaks</td><td>$500–2,000 (climate-controlled enclosure or relocation)</td></tr><tr><td><strong>Deep discharge cycling</strong> (regularly to <10% state of charge)</td><td>30–50% fewer total cycles</td><td>Rapid capacity drop in first 2 years; system shutdowns</td><td>$0 (software settings adjustment)</td></tr><tr><td><strong>High charge rates</strong> (frequent fast-charging from solar peaks)</td><td>10–20% accelerated degradation</td><td>Battery feels warm to touch; fan running constantly</td><td>$0–200 (inverter charge rate limiting)</td></tr><tr><td><strong>Prolonged high state of charge</strong> (held at 100% for days)</td><td>15–25% faster calendar aging</td><td>None visible until annual capacity check</td><td>$0 (set max charge to 80–90%)</td></tr><tr><td><strong>Infrequent cycling</strong> (backup-only use, few cycles/month)</td><td>Calendar aging dominates; may lose 5–10% capacity before cycling warranty kicks in</td><td>Lower-than-expected capacity on first extended outage</td><td>$0 (schedule monthly conditioning cycle)</td></tr></tbody></table>
+ <table><thead><tr><th>Degradation Factor</th><th>Typical Lifespan Impact</th><th>Warning Signs</th><th>Mitigation Cost</th></tr></thead><tbody><tr><td><strong>High ambient temperature</strong> (sustained >86°F/30°C)</td><td>20-40% faster capacity loss</td><td>Thermal throttling alerts; reduced charging during summer peaks</td><td>$500-2,000 (climate-controlled enclosure or relocation)</td></tr><tr><td><strong>Deep discharge cycling</strong> (regularly to <10% state of charge)</td><td>30-50% fewer total cycles</td><td>Rapid capacity drop in first 2 years; system shutdowns</td><td>$0 (software settings adjustment)</td></tr><tr><td><strong>High charge rates</strong> (frequent fast-charging from solar peaks)</td><td>10-20% accelerated degradation</td><td>Battery feels warm to touch; fan running constantly</td><td>$0-200 (inverter charge rate limiting)</td></tr><tr><td><strong>Prolonged high state of charge</strong> (held at 100% for days)</td><td>15-25% faster calendar aging</td><td>None visible until annual capacity check</td><td>$0 (set max charge to 80-90%)</td></tr><tr><td><strong>Infrequent cycling</strong> (backup-only use, few cycles/month)</td><td>Calendar aging dominates; may lose 5-10% capacity before cycling warranty kicks in</td><td>Lower-than-expected capacity on first extended outage</td><td>$0 (schedule monthly conditioning cycle)</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -69,9 +69,9 @@ One honest caveat: LFP batteries have lower energy density, which matters if you
 
 ## What a Realistic Degradation Curve Looks Like
 
-Year one, your battery operates at or near 100% capacity. Years two through five, you'll typically see 1–3% annual degradation depending on cycling frequency, climate, and chemistry. By year ten, most LFP batteries in moderate climates land somewhere between 75–85% of original capacity, which is better than most manufacturers warrant.
+Year one, your battery operates at or near 100% capacity. Years two through five, you'll typically see 1-3% annual degradation depending on cycling frequency, climate, and chemistry. By year ten, most LFP batteries in moderate climates land somewhere between 75-85% of original capacity, which is better than most manufacturers warrant.
 
-SEIA's residential storage data suggests median system lifespans clustering around 10–12 years before homeowners replace or significantly upgrade their batteries. That reflects adoption curves (a lot of those systems were installed with older NMC chemistry) more than an inherent ceiling on LFP performance.
+SEIA's residential storage data suggests median system lifespans clustering around 10-12 years before homeowners replace or significantly upgrade their batteries. That reflects adoption curves (a lot of those systems were installed with older NMC chemistry) more than an inherent ceiling on LFP performance.
 
 A 10 kWh battery degraded to 80% capacity is an 8 kWh battery. That might still cover your overnight loads. It might not, depending on how your usage has grown. This is the conversation worth having with your installer upfront: what capacity do you need at year ten, not just at installation?
 

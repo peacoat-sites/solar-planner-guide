@@ -11,7 +11,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've finally decided to go solar. The utility bills are too high, the environmental benefits are compelling, and your neighbor just installed panels and won't stop talking about how great they are. But then you sit down with a solar installer and suddenly you're staring at a menu of financing options that sounds more like a financial exam than a home improvement project. Solar loan? Solar lease? Power Purchase Agreement? What does any of this actually mean for your wallet, your home, and your long-term energy future?
 
@@ -29,13 +29,13 @@ Loan terms typically range from 5 to 25 years, with interest rates generally fal
 
 ### Solar Leases
 
-A solar lease is exactly what it sounds like. You lease the solar panel system from a solar company rather than owning it. The solar company installs panels on your roof, owns the equipment, maintains it, and you pay a fixed monthly lease payment in return for the electricity it produces. Lease terms are typically 20 to 25 years, and most leases include an annual payment escalator, meaning your monthly payment increases by a set percentage each year (often 1–3%).
+A solar lease is exactly what it sounds like. You lease the solar panel system from a solar company rather than owning it. The solar company installs panels on your roof, owns the equipment, maintains it, and you pay a fixed monthly lease payment in return for the electricity it produces. Lease terms are typically 20 to 25 years, and most leases include an annual payment escalator, meaning your monthly payment increases by a set percentage each year (often 1-3%).
 
 At the end of the lease, you typically have options: purchase the system at fair market value, renew the lease, or have the system removed.
 
 ### Power Purchase Agreements (PPAs)
 
-A PPA is similar to a lease in that you don't own the system. But instead of paying a flat monthly lease payment, you pay for the actual electricity the system produces, measured in kilowatt-hours (kWh). The per-kWh rate you pay is usually lower than your utility's retail rate, which is where the savings come from. Like leases, PPAs are typically 20–25 years and may include an annual escalator clause.
+A PPA is similar to a lease in that you don't own the system. But instead of paying a flat monthly lease payment, you pay for the actual electricity the system produces, measured in kilowatt-hours (kWh). The per-kWh rate you pay is usually lower than your utility's retail rate, which is where the savings come from. Like leases, PPAs are typically 20-25 years and may include an annual escalator clause.
 
 PPAs are essentially agreements to purchase solar-generated power rather than the equipment itself.
 
@@ -74,14 +74,14 @@ Leases and PPAs deliver more modest but often immediate savings with little to n
 
 | Feature | Solar Loan | Solar Lease | PPA |
 |---|---|---|---|
-| Upfront Cost | $0–$2,000 typical | $0 | $0 |
+| Upfront Cost | $0-$2,000 typical | $0 | $0 |
 | Ownership | Homeowner | Solar Company | Solar Company |
 | Federal Tax Credit | Yes (30%) | No | No |
 | Monthly Payment | Fixed loan payment | Fixed payment (may escalate) | Per-kWh rate (may escalate) |
 | Maintenance Responsibility | Homeowner | Solar Company | Solar Company |
 | Home Sale Impact | Adds home value | [Lease transfer required](/transferring-solar-lease-when-selling-home/) | PPA transfer required |
 | Long-Term Savings | Highest | Moderate | Moderate |
-| Break-Even Timeline | 6–10 years | May never fully break even | May never fully break even |
+| Break-Even Timeline | 6-10 years | May never fully break even | May never fully break even |
 | Risk | Moderate | Low | Low |
 | Best For | Homeowners maximizing ROI | Low-risk entry into solar | Low-risk entry into solar |
 
@@ -117,9 +117,9 @@ With a lease or PPA, the solar company handles monitoring, maintenance, repairs,
 
 To stay on top of your system's performance regardless of ownership type, consider adding a home energy monitor. The **[Emporia Vue Energy Monitor](https://www.amazon.com)** (available on Amazon, and this site may earn a commission) lets you track real-time energy production and consumption, helping you verify you're getting the output your agreement promises.
 
-### You're Planning to Move in 5–7 Years
+### You're Planning to Move in 5-7 Years
 
-If you're not planning to stay in your home long-term, taking on a 15–20 year solar loan that you'll need to pay off at sale might not make financial sense. A lease or PPA with clear transfer provisions might actually simplify things, provided the market in your area is familiar with solar home sales.
+If you're not planning to stay in your home long-term, taking on a 15-20 year solar loan that you'll need to pay off at sale might not make financial sense. A lease or PPA with clear transfer provisions might actually simplify things, provided the market in your area is familiar with solar home sales.
 
 ### Your Credit Score Doesn't Qualify for Good Loan Terms
 
@@ -133,7 +133,7 @@ Use this process to work through the decision systematically rather than getting
 
 **Step 1: Check Your Federal Tax Liability**
 
-Pull out last year's tax return and look at your total federal tax owed (before withholding). If it's above $7,500–$10,000, you have enough liability to benefit significantly from the 30% ITC. This strongly favors a loan or cash purchase.
+Pull out last year's tax return and look at your total federal tax owed (before withholding). If it's above $7,500-$10,000, you have enough liability to benefit significantly from the 30% ITC. This strongly favors a loan or cash purchase.
 
 **Step 2: Assess Your Credit Score**
 
@@ -149,7 +149,7 @@ Never let a solar company only present you with one financing option. Ask explic
 
 **Step 5: Calculate Your True Break-Even Point**
 
-Take the net system cost (after tax credits), subtract annual electricity savings, and divide to find your break-even timeline. A well-sized system with good sun exposure in an average electricity-rate market typically breaks even in 6–10 years under a loan scenario.
+Take the net system cost (after tax credits), subtract annual electricity savings, and divide to find your break-even timeline. A well-sized system with good sun exposure in an average electricity-rate market typically breaks even in 6-10 years under a loan scenario.
 
 **Step 6: Read the Fine Print**
 

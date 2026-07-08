@@ -23,7 +23,7 @@ faqs:
     a: "A solar lease doesn't typically affect refinancing the way a PACE lien does, but it does complicate home sales. The buyer has to either assume the lease or you pay it off at closing. Lenders reviewing your refinance may count the lease payment as a liability. It's not disqualifying, but it adds paperwork and occasionally headaches."
   - q: "Is PACE financing actually worth it for bad credit borrowers?"
     a: "The research here is genuinely mixed. PACE makes solar accessible to people who have no other path, which is real value. But the interest rates are higher than conventional solar loans, the lien structure carries risks if you sell or refinance, and some states have passed consumer protection restrictions on PACE after complaints about aggressive sales practices. Go in knowing what you're agreeing to, especially the lien terms, before signing anything."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Here's something most solar installers won't say out loud: a bad credit score doesn't automatically disqualify you from going solar. It makes things harder, yes. It costs you more, absolutely. But the path exists, and I've watched homeowners with scores in the low 600s get panels on their roofs for less than they were paying in utility bills.
@@ -132,6 +132,6 @@ The other thing worth saying plainly: solar isn't right for everyone, even if yo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

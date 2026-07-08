@@ -12,7 +12,7 @@ author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 slug: "how-demand-charges-are-rewriting-your-solar-roi-in-2026"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You got the quote from your solar installer: "With net metering, you'll pay off this system in nine years." You nodded, did the math in your head, and started filling out the paperwork. Then last week, you saw an email from your utility. Effective July 2026, there's a new charge on your bill. It's not based on how much electricity you use anymore. It's based on your peak demand during a 15-minute window.
 
@@ -35,7 +35,7 @@ In March 2026, NV Energy filed a demand charge proposal that would fundamentally
 
 This matters because solar doesn't produce power at night or during peak evening hours when you're cooking dinner and running AC. If you use 5 kW of electricity for even 15 minutes in July, you're potentially locked into paying demand charges based on that spike, whether your panels were generating or not. El Paso Electric already implemented this in May 2026, replacing fixed minimum bills with demand charges averaging $28.50 to $47.50 per month for distributed generation customers.
 
-That might not sound catastrophic until you do the math. A homeowner saving $1,200 annually from solar production suddenly loses $340–$570 per year to demand charges. The payback period shifts from nine years to twelve or thirteen years. The internal rate of return drops from a respectable 8–10% to barely above 5%.
+That might not sound catastrophic until you do the math. A homeowner saving $1,200 annually from solar production suddenly loses $340-$570 per year to demand charges. The payback period shifts from nine years to twelve or thirteen years. The internal rate of return drops from a respectable 8-10% to barely above 5%.
 
 I've seen installations in Nevada and Texas that penciled out at 8.5% IRR in early 2026 that wouldn't crack 6% under the new rate structures. Most installers still use old net-metering assumptions when they run your quote, because the software hasn't caught up to the regulatory reality.
 
@@ -69,7 +69,7 @@ Second, get a quote that models your specific usage pattern. Peak demand charges
 
 Third, if you're in a state like Nevada where demand charges are proposed but not yet final, understand that your payback calculation could shift by years depending on when the utility implements the change. That's uncomfortable, but it's the current reality. Some people are choosing to wait for regulatory clarity. Others are locking in net-metering prices while they still exist.
 
-Finally, be skeptical of your installer's ROI estimate if it assumes 8–10% annual returns. In 2026, that number is increasingly fiction in states with demand charges or other rate reforms. Solar still makes sense for many homeowners, but the financial case is weaker than it was two years ago, and honesty about that matters more than ever.
+Finally, be skeptical of your installer's ROI estimate if it assumes 8-10% annual returns. In 2026, that number is increasingly fiction in states with demand charges or other rate reforms. Solar still makes sense for many homeowners, but the financial case is weaker than it was two years ago, and honesty about that matters more than ever.
 
 The solar industry built its growth on predictable net-metering math. That era is ending. Your job as a homeowner is to see the reality before you sign the contract, not after.
 

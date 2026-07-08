@@ -23,6 +23,7 @@ faqs:
     a: "Run your address through NREL's free PVWatts calculator yourself before accepting any installer's estimate. If their projected production is more than 10-15% higher than what PVWatts shows, ask them to explain the discrepancy. Aggressive modeling is one of the most common ways homeowners get oversold in low-irradiance markets."
   - q: "Does shade matter more in cloudy states?"
     a: "Yes. In sunny climates, shading on one part of the day still leaves many high-production hours. In cloudy climates, your production window is already compressed. Shading during those limited good hours costs you proportionally more. If your roof has significant shading, get a professional shade analysis done before signing anything."
+lastmod: 2026-07-08
 ---
 
 Most solar advice is written for Phoenix. Clear skies, 300 sun-days a year, and payback periods that practically sell themselves. If you live in Seattle, Cleveland, or Portland, that advice doesn't just fail you -- it can cost you tens of thousands of dollars in a bad decision.
@@ -135,7 +136,7 @@ Worst case I've seen recently: homeowner in Olympia, Washington, west-facing roo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

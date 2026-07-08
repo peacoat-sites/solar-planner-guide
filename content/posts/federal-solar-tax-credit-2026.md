@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You install a $30,000 solar system in January 2026 and claim an $8,100 federal tax credit when you file. Your neighbor waits until 2034 and gets almost nothing. That gap is real, it's baked into law, and most homeowners don't realize the clock's already running.
 
@@ -32,7 +32,7 @@ You install a $30,000 solar system in January 2026 and claim an $8,100 federal t
  <div class="vm-head">Solar Tax Credit Phase-Down Schedule</div>
  <div class="vm-body">
  <p class="vm-intro">The federal solar tax credit steps down on a fixed timeline. Here's exactly what percentage you can claim based on when your system is placed in service.</p>
- <table><caption>Federal Residential Solar Tax Credit by Installation Year</caption><thead><tr><th>Installation Year</th><th>Credit Percentage</th><th>Credit on $30,000 System</th><th>Key Deadline Notes</th></tr></thead><tbody><tr><td>2022–2032</td><td>30%</td><td>$9,000</td><td>Inflation Reduction Act rate; stable through end of 2032</td></tr><tr><td>2033</td><td>26%</td><td>$7,800</td><td>First step-down year</td></tr><tr><td>2034</td><td>22%</td><td>$6,600</td><td>Final year with any residential credit under current law</td></tr><tr><td>2035 and beyond</td><td>0%</td><td>$0</td><td>Residential credit expires; commercial ITC continues at lower rates</td></tr></tbody></table>
+ <table><caption>Federal Residential Solar Tax Credit by Installation Year</caption><thead><tr><th>Installation Year</th><th>Credit Percentage</th><th>Credit on $30,000 System</th><th>Key Deadline Notes</th></tr></thead><tbody><tr><td>2022-2032</td><td>30%</td><td>$9,000</td><td>Inflation Reduction Act rate; stable through end of 2032</td></tr><tr><td>2033</td><td>26%</td><td>$7,800</td><td>First step-down year</td></tr><tr><td>2034</td><td>22%</td><td>$6,600</td><td>Final year with any residential credit under current law</td></tr><tr><td>2035 and beyond</td><td>0%</td><td>$0</td><td>Residential credit expires; commercial ITC continues at lower rates</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>

@@ -23,6 +23,7 @@ faqs:
     a: "As of July 2026, yes. A battery system installed alongside a new solar array qualifies for the 30% federal Investment Tax Credit. Standalone battery additions to existing solar systems also qualify, as long as the battery is charged primarily from solar (not the grid). Consult a tax professional for your specific situation."
   - q: "Which is better for frequent short outages vs. rare long ones?"
     a: "Short, frequent outages: solar plus battery wins easily. Silent, automatic, no fuel needed, and it reduces your bill the rest of the year. Rare but long outages (multi-day): a whole-home standby generator on natural gas or propane is hard to beat, because it has unlimited runtime. Many homeowners in high-risk weather areas choose to have both for complete coverage."
+lastmod: 2026-07-08
 ---
 
 Most people come to this question after a storm. The power's been out for two days, the fridge is starting to smell, and someone in the house is saying "we need a generator." That's usually when I get the calls. And honestly? It's not a bad time to think about it, because nothing clarifies your priorities faster than sitting in the dark.
@@ -116,8 +117,8 @@ If you want to track your energy use and figure out exactly what loads matter mo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599) — 1002Wh portable power station with three 1000W AC outlets — one of the best-reviewed solar generators on Amazon.
-- **[Jackery Explorer 1000 v2 (1070Wh, 1-Hr Charge)](https://www.amazon.com/dp/B0D7PPG25F/?tag=contentportfo-20)** (~$799) — Updated Jackery Explorer 1000 with LFP battery and ultra-fast 1-hour recharge.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599), 1002Wh portable power station with three 1000W AC outlets, one of the best-reviewed solar generators on Amazon.
+- **[Jackery Explorer 1000 v2 (1070Wh, 1-Hr Charge)](https://www.amazon.com/dp/B0D7PPG25F/?tag=contentportfo-20)** (~$799), Updated Jackery Explorer 1000 with LFP battery and ultra-fast 1-hour recharge.
 

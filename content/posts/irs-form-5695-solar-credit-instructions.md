@@ -23,7 +23,7 @@ faqs:
     a: "Yes, as long as you own the home and it's a residence in the United States. Rental properties where you don't personally live don't qualify for the residential credit (there are separate commercial credits for those)."
   - q: "What if I forgot to claim the credit in the year I installed my panels?"
     a: "You can file an amended return (Form 1040-X) with Form 5695 attached. The IRS generally allows amendments up to three years after the original due date, so a 2023 installation is still fixable in 2026."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The first time I sat down with a client to walk through Form 5695, we spent forty minutes on it together and still almost missed a line that would have cost her $1,800. That's not a knock on the IRS, exactly. The form itself is only two pages. But the instructions? They assume you already know things you probably don't.
@@ -154,6 +154,6 @@ If you want to monitor your system's output while you're at it (useful for docum
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

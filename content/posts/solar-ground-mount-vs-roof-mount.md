@@ -23,7 +23,7 @@ faqs:
     a: "Yes, in virtually every jurisdiction. Ground mounts typically require both an electrical permit and a building permit for the foundation work, and some municipalities add specific zoning or setback requirements. Your installer should pull these, but it's worth asking explicitly and confirming they've checked local codes before you sign a contract."
   - q: "Can I add panels to a ground mount later if I want more capacity?"
     a: "Often yes, but it depends on whether your inverter has headroom and whether the original racking was sized for expansion. If you think you might want to grow your system (say, after adding an EV), tell your installer at the start. Designing for future expansion upfront is much cheaper than retrofitting later."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume this is a simple question. It's not.
@@ -111,6 +111,6 @@ Scenario: Homeowner installed 9.6 kW ground mount, no whole-home monitoring → 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 

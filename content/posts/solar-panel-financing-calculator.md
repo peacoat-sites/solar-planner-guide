@@ -23,7 +23,7 @@ faqs:
     a: "In most states, no. The majority of states have solar property tax exemptions that prevent your solar installation from increasing your assessed property value for tax purposes, even though it typically does increase market value. Check your specific state's exemption status before assuming this applies to you."
   - q: "What's a realistic payback period for a solar installation today?"
     a: "Somewhere between 7 and 12 years for most U.S. homeowners using a loan, with cash purchases often hitting 6 to 9 years. High-sun states like Arizona, Texas, and California with strong utility rates tend toward the lower end. The national average, according to EnergySage data, has hovered around 8 to 9 years in recent years. After payback, you're generating essentially free electricity for the remaining life of the system."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You're about to spend $25,000 to $40,000 on something you don't fully understand yet. That's not a criticism. That's just the reality of most solar decisions, and I say it because the financing piece is where I've watched smart, careful people make mistakes that cost them thousands over the life of a loan.
@@ -139,6 +139,6 @@ I thought for years that the payback period was the key number. I was wrong. Tot
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599) — 1024Wh LFP battery with 1800W output — top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 
