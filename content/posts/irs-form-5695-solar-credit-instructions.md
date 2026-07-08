@@ -23,6 +23,7 @@ faqs:
     a: "Yes, as long as you own the home and it's a residence in the United States. Rental properties where you don't personally live don't qualify for the residential credit (there are separate commercial credits for those)."
   - q: "What if I forgot to claim the credit in the year I installed my panels?"
     a: "You can file an amended return (Form 1040-X) with Form 5695 attached. The IRS generally allows amendments up to three years after the original due date, so a 2023 installation is still fixable in 2026."
+lastmod: 2026-07-07
 ---
 
 The first time I sat down with a client to walk through Form 5695, we spent forty minutes on it together and still almost missed a line that would have cost her $1,800. That's not a knock on the IRS, exactly. The form itself is only two pages. But the instructions? They assume you already know things you probably don't.
@@ -84,6 +85,11 @@ Quick note on dealer incentives: if your installer gave you a cash discount at t
 ---
 
 ## Three Worked Examples
+
+| Scenario | System Cost | Utility Rebate | Qualified Cost | Credit (30%) | Tax Liability | Used This Year | Carryforward |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Phoenix homeowner (9 kW) | $27,000 | $500 | $26,500 | $7,950 | $5,200 | $5,200 | $2,750 |
+| Tucson couple (10 kWh battery) | $9,800 | $0 | $9,800 | $2,940 | $1,100 | $1,100 | $1,840 |
 
 **Scenario 1:** Homeowner in Phoenix installs a 9 kW system in October 2025 for $27,000 after a $500 utility rebate, bringing the qualified cost to $26,500.
 → Line 6b calculation: $26,500 × 30% = $7,950 credit.

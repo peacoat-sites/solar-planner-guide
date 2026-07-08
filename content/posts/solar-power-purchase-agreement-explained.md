@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 A solar installer shows up at your door with a pitch: "Free solar panels. No upfront cost, no loan, no headache." It's tempting. Millions of American homeowners have bitten. Some got a great deal. Others feel trapped in a 20-year contract they wish they'd read more carefully. The difference is understanding what you're actually signing.
 
@@ -76,6 +76,18 @@ When you sell, you either transfer the contract to the buyer (they have to quali
 Real estate agents increasingly flag PPAs as transaction friction. If there's any realistic chance you'll move within 10 years, this deserves serious weight before you sign. A solar loan sits with you personally and doesn't encumber the property. Our [solar lease vs. buy cost comparison](/solar-lease-vs-buy-cost-comparison/) walks through those tradeoffs in detail.
 
 ## PPA vs. Loan vs. Lease: A Side-by-Side Look
+
+| Feature | PPA | Solar Loan | Solar Lease |
+|---|---|---|---|
+| Upfront cost | $0 | $0 to down payment | $0 |
+| Who owns the panels | Solar company | You | Solar company |
+| Eligible for 30% tax credit | No | Yes | No |
+| Monthly payment | Per kWh used | Fixed loan payment | Fixed monthly fee |
+| Maintenance responsibility | Solar company | You (or warranty) | Solar company |
+| What you pay for | Electricity produced | Equipment | Equipment use |
+| Home sale complication | Moderate to high | Low | Moderate |
+| Long-term savings potential | Lower | Highest | Low to moderate |
+| Best for | Low/no tax liability, risk-averse | Tax liability, long-term owners | Similar to PPA |
 
 | Feature | PPA | Solar Loan | Solar Lease |
 |---|---|---|---|

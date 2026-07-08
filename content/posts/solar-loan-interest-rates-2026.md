@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 You're sitting across from a solar salesperson. They slide a financing sheet your way and say, "It's just 2.99%." Sounds great. I've watched this happen dozens of times, and almost every homeowner signs without asking the one question that matters: compared to what? That 2.99% might be a dealer-fee-inflated loan that actually costs you closer to 6 or 7% once you understand how the numbers work. Solar loan interest rates in 2026 aren't what they look like on the surface, and the gap between what's advertised and what you actually pay could cost or save you thousands over a 20-year term.
 
@@ -58,7 +58,7 @@ Not all solar loans are created equal. Here's what you'll encounter in 2026:
 | Personal loan (bank/credit union) | 7% to 15% | No | 2 to 7 years | Shortest terms, highest payments |
 | Dealer-subsidized "low rate" loan | 0.99% to 3.99% (advertised) | No | 10 to 25 years | Inflated system price, hidden cost |
 
-My general advice: if you have at least 30% equity in your home and you're disciplined about not treating your house like an ATM, a home equity loan often gives you the best true cost of financing. The interest may also be tax-deductible if you use the funds for home improvements (check current IRS guidance, since rules change). If you'd rather keep your home equity untouched, a credit union personal loan or a direct solar-specific lender like Mosaic or Goodleap at a competitive rate usually beats the installer's in-house financing offer.
+My general advice: if you have at least 30% equity in your home and you're disciplined about not treating your house like an ATM, a [home equity loan](/home-equity-loan-for-solar-panels/) often gives you the best true cost of financing. The interest may also be tax-deductible if you use the funds for home improvements (check current IRS guidance, since rules change). If you'd rather keep your home equity untouched, a credit union personal loan or a direct solar-specific lender like Mosaic or Goodleap at a competitive rate usually beats the installer's in-house financing offer.
 
 ## How Your Credit Score Changes Everything
 

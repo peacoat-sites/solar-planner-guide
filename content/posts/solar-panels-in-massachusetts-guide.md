@@ -23,12 +23,21 @@ faqs:
     a: "Generally yes. Lawrence Berkeley National Laboratory research has found solar adds roughly $4 per watt of installed capacity to home value on average. In Massachusetts, where electricity rates are high, buyer willingness to pay a premium for solar tends to be above the national average. And since there's no property tax on that added value here, it's clean upside."
   - q: "Is it better to buy or lease solar panels in Massachusetts?"
     a: "Buy if you can, either cash or a solar loan. Leases and power purchase agreements (PPAs) transfer most of the financial upside (tax credits, SMART payments) to the leasing company. You get a lower monthly bill with less hassle, but the 25-year numbers look much worse. The one exception: if you can't use the federal tax credit because your tax liability is too low, a PPA might actually make more sense, since the installer captures the credit and can price the PPA accordingly."
+lastmod: 2026-07-07
 ---
 Massachusetts is one of the best states in the country to go solar. I'll say that upfront, without the usual installer-script enthusiasm, because the numbers actually back it up. Electricity here costs around 25-28 cents per kilowatt-hour depending on your utility and season, which is nearly double the national average. That single fact changes the math on solar more than almost anything else.
 
 You might be wondering if solar makes sense for *your* specific house, your roof, your budget. That's the right question, and it's not the same as asking whether solar is generally a good idea in Massachusetts. I'll walk you through what I've seen work, what doesn't, and what most installers won't bring up until you're already halfway through the paperwork.
 
 ## What Massachusetts Actually Offers Incentive-Wise
+
+| Incentive Type | Details | Typical Value |
+| --- | --- | --- |
+| Federal ITC | 30% of system cost | $8,400-$10,500 |
+| Massachusetts Income Tax Credit | 15% of system cost, capped | Up to $1,000 |
+| Property Tax Exemption | Solar installations exempt from property tax increases | Varies by municipality |
+| SMART Program | Fixed rate per kWh for 10 years (utility-dependent) | $3,000-$8,000+ over program term |
+| Net Metering | Full retail rate credit for excess power to grid | Included in annual savings |
 
 The federal Investment Tax Credit currently gives you 30% of your total system cost back as a tax credit. On a typical Massachusetts installation, which runs around $28,000-$35,000 before incentives (for an 8-10 kW system), that's $8,400 to $10,500 back. That credit applies to the year you install, though it can carry forward if you don't owe enough in taxes that year. Worth confirming with your accountant before assuming you'll capture the full amount.
 
@@ -46,7 +55,7 @@ Here's what I tell people who have older homes: get a roof assessment before you
 
 If your roof is original cedar shake, old slate, or showing soft spots, deal with that first. Some solar installers in Massachusetts will do a roof replacement alongside installation, and you may be able to include the roof cost in a solar loan for simpler financing. Ask specifically about this.
 
-South-facing roofs with minimal shading get the best production. But many Massachusetts homeowners I've worked with have east-west facing systems that still perform well, because the state's net metering policy ensures every kilowatt-hour you generate gets full value. A 10 kW east-west split roof in Framingham can still save you $1,800-$2,200 annually depending on consumption.
+South-facing roofs with minimal shading get the best production. But many Massachusetts homeowners I've worked with have east-west facing systems that still perform well, because the state's [net metering policy](/net-metering-changes-by-state/) ensures every kilowatt-hour you generate gets full value. A 10 kW east-west split roof in Framingham can still save you $1,800-$2,200 annually depending on consumption.
 
 Shade is the thing that will actually hurt you. A mature oak that's 40 feet from your house but overhangs the roofline? That's a genuine problem. Microinverters or DC optimizers from brands like Enphase or SolarEdge can mitigate partial shading, but they can't fix significant shade. If trees are an issue, ask for a shading analysis using tools like SunEye or the Solmetric system before signing anything.
 

@@ -12,16 +12,26 @@ author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
 slug: "the-prepaid-solar-lease-explained-how-the-6-year-flip-works"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 A homeowner I spoke with last month had already gotten three quotes for a rooftop system, was ready to sign, and then found out the 30% federal tax credit she'd been counting on had quietly disappeared. She hadn't heard about the One Big Beautiful Bill Act. A lot of people haven't. Under that legislation, the Section 25D residential solar tax credit expired on December 31, 2025, and anyone buying panels outright in 2026 gets exactly zero federal incentive. That's a significant shift, and it's reshaping the market faster than most homeowners realize. If you're evaluating solar right now, there's a structure called the prepaid lease with a six-year ownership transfer that has essentially become the workaround, and there's a hard deadline bearing down on it.
 
 ## Why the Tax Credit Disappearing Actually Matters More Than You Think
 
-When the 30% credit existed, a $30,000 system meant a $9,000 check back from the IRS. Gone. For a cash buyer in 2026, the math on solar gets harder immediately. You're paying full retail. The payback period stretches out. The financial case still works in high-electricity-cost states, but the cushion is thinner.
+When the 30% credit existed, a $30,000 system meant a $9,000 check back from the IRS. Gone. For a cash buyer in 2026, the math on solar gets harder immediately. You're paying full retail. The [payback period stretches out](/solar-roi-without-the-30-tax-credit-how-to-recalculate-now/). The financial case still works in high-electricity-cost states, but the cushion is thinner.
 
 What most people don't realize is that the commercial investment tax credit, Section 48E, is still alive, running through the end of 2027. The catch: it's only available to businesses, not individual homeowners. So the only way you get any piece of a federal solar incentive in 2026 is if a business owns your panels, claims that credit, and passes some of the savings to you. That's the entire premise behind third-party ownership, and it's why Jefferies analysts are projecting a 25% increase in TPO solar adoption this year, with nearly half of all new residential systems already owned by third parties rather than homeowners.
 
 ## What a Prepaid Lease Actually Is
+
+| Aspect | Before (2025) | After (2026) | Third-Party Ownership |
+| --- | --- | --- | --- |
+| Residential Tax Credit (25D) | 30% of system cost | Expired | N/A |
+| Commercial Tax Credit (48E) | Available to businesses | Available through 2027 | Available to TPO providers |
+| Effective discount for cash buyer | ~30% via tax credit | 0% | ~30-35% passed through prepaid lease |
+| Upfront cost structure | Full retail or financed | Full retail | ~70% of retail cost |
+| Homeowner ownership timeline | Immediate | Immediate | 6 years (then transfer) |
+| IRS Safe Harbor deadline | N/A | N/A | July 4, 2026 |
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

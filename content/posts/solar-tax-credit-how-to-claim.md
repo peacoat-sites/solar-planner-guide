@@ -23,11 +23,18 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
-Most homeowners leave thousands of dollars on the table every year simply because they don't understand how a tax credit actually works. Take a real example: a family in Phoenix installs a $28,000 solar system in 2024. They're entitled to a $7,840 federal tax credit (that's 30% of $28,000 under the current Residential Clean Energy Credit). But if they file incorrectly, forget Form 5695, or misunderstand the "carry forward" rules, that money either delays itself by a year or disappears entirely. Getting this right isn't complicated, but it does require knowing exactly what you're doing before you file.
+Most homeowners leave thousands of dollars on the table every year simply because they don't understand how a tax credit actually works. Take a real example: a family in Phoenix installs a $28,000 solar system in 2024. They're entitled to a $7,840 federal tax credit (that's 30% of $28,000 under the current [Residential Clean Energy Credit](/federal-solar-tax-credit-2026/)). But if they file incorrectly, forget Form 5695, or misunderstand the "carry forward" rules, that money either delays itself by a year or disappears entirely. Getting this right isn't complicated, but it does require knowing exactly what you're doing before you file.
 
 ## What the Solar Tax Credit Actually Is (and What It Isn't)
+
+| Year | Credit Rate | Status |
+| --- | --- | --- |
+| 2024-2032 | 30% | Currently available |
+| 2033 | 26% | Scheduled reduction |
+| 2034 | 22% | Scheduled reduction |
+| 2035+ | 0% | Expires (unless extended) |
 
 Let's clear up the single biggest misconception first. A tax credit is not a tax deduction, and that difference is enormous.
 
@@ -64,7 +71,7 @@ You'll need your installer's itemized invoice or contract showing the total cost
 **Step 3: Calculate your credit.**
 Multiply your total eligible costs by 0.30 (for installations through 2032). On a $25,000 system, that's $7,500.
 
-**Step 4: Complete IRS Form 5695.**
+**Step 4: Complete [IRS Form 5695](/irs-form-5695-solar-credit-instructions/).**
 This is the actual form that computes and claims the credit. Part I of Form 5695 covers the Residential Clean Energy Credit (solar, wind, geothermal, batteries). You'll enter your eligible costs on Line 1, the form calculates 30%, and the result flows to your Form 1040.
 
 If you use tax software like TurboTax, H&R Block, or FreeTaxUSA, the software will prompt you to enter your solar costs and automatically generate Form 5695. But don't just take the software's word for it. Pull up the actual Form 5695 PDF from IRS.gov and confirm the numbers look right before you file.

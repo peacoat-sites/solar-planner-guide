@@ -23,6 +23,7 @@ faqs:
    a: "Yes, typically by a few weeks. Batteries like the Tesla Powerwall or Enphase IQ Battery add complexity to the permit application and inspection, and some utilities require separate review for battery storage systems. Budget an extra two to four weeks if you're including storage."
  - q: "What time of year is fastest for solar installation?"
    a: "Late fall and winter tend to have shorter installer backlogs, so you might actually get scheduled faster even if the weather seems counterintuitive. Spring and early summer are peak season for installations, which means longer waits for both scheduling and inspections. If you start the process in October, you may be operational by January rather than waiting until summer like everyone else who called in March."
+lastmod: 2026-07-07
 ---
 Most people assume the whole thing takes a few weeks. I assumed that too, before I started tracking real installation timelines across hundreds of projects. The honest number? From the day you sign a contract to the day your panels are actually generating power, you're typically looking at **3 to 5 months**. Not days. Months.
 
@@ -37,6 +38,14 @@ The slow part is everything that happens before and after the install. Permit ap
 EnergySage has tracked this data across thousands of installs, and their numbers consistently show that permitting and interconnection account for most of the delay. In a place like Austin, Texas or Phoenix, Arizona, permits might get turned around in two to three weeks. In parts of California, New Jersey, or New York, I've seen homeowners wait three months just for permit approval, before a single panel goes up.
 
 ## A Realistic Week-by-Week Breakdown
+
+| Phase | Timeline | Key Activities | Location Variability |
+| --- | --- | --- | --- |
+| Site Assessment & Design | Weeks 1-3 | Shading analysis, roof evaluation, system design, quote collection | Minimal |
+| Permitting | Weeks 3-8 | Permit application submission & approval | High (10 days to 11 weeks) |
+| Physical Installation | Week 8 | Racking, wiring, panel mounting | Minimal (1-5 days) |
+| Inspection & Interconnection | Weeks 9-12 | City/county inspection, PTO application, utility approval | High (1 week to 12 weeks) |
+| **Total Contract-to-PTO** | **3-5 months** | All phases combined | High variance by jurisdiction |
 
 **Weeks 1-3: Site assessment, system design, and contract signing.** Your installer does a shading analysis, looks at your roof structure, pulls your utility bills, and designs a system. If you're doing your homework right, you're also collecting multiple quotes. EnergySage's data shows homeowners who get three or more quotes save an average of $3,000 to $5,000. Don't rush this phase.
 
@@ -70,7 +79,7 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has pub
 
 This isn't theoretical. In Hawaii, some utilities were so overwhelmed with applications that wait times stretched past six months. Parts of California's PG&E territory have seen similar slowdowns. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has resources on navigating utility relationships, but the honest truth is that if your utility is backlogged, there's not much you or your installer can do except wait.
 
-Ask your installer upfront: has your utility been issuing PTO quickly? Have there been any recent changes to their interconnection queue? A good installer will know.
+[Ask your installer upfront](/solar-installer-red-flags-to-avoid/): has your utility been issuing PTO quickly? Have there been any recent changes to their interconnection queue? A good installer will know.
 
 ---
 

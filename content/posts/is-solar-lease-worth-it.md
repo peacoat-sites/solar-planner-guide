@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 Your neighbor just got solar panels installed for $0 down, and suddenly your electricity bill looks even more offensive than usual. The installer made it sound simple: sign a lease, get panels, save money. What's not to love? Quite a bit, actually. Solar leases have helped millions of Americans get panels on their roofs without writing a five-figure check, but they've also trapped homeowners in contracts they didn't fully understand, complicated home sales, and delivered savings that looked better in the pitch deck than on the bank statement. Let's go through what a solar lease actually is, when it makes sense, and when you should walk away.
 
@@ -37,7 +37,7 @@ That's the part installers tend to gloss over. The 30% federal solar tax credit 
 
 A solar PPA (Power Purchase Agreement) works similarly but differently. With a lease, you pay a flat monthly fee regardless of how much power the panels produce. With a PPA, you pay per kilowatt-hour for the power actually generated, usually at a rate below your utility's retail price. Both structures leave ownership with the third party, and both deserve the same skeptical scrutiny.
 
-Buying outright or financing with a solar loan flips the equation. You own the system. You claim the tax credit. You keep the RECs if your state has a market for them. You capture full savings for 25-plus years rather than splitting them with a corporation in San Jose.
+Buying outright or financing with a [solar loan flips the equation](/solar-loan-vs-solar-lease-vs-ppa/). You own the system. You claim the tax credit. You keep the RECs if your state has a market for them. You capture full savings for 25-plus years rather than splitting them with a corporation in San Jose.
 
 ---
 
@@ -82,7 +82,7 @@ I don't want to be unfair here. There are real situations where a lease is the r
 
 **The escalator clause.** Most leases include an annual payment increase of 2-3%. It sounds modest. Over 20 years at 2.9% annual growth, your monthly payment nearly doubles. If utility rates in your area don't rise that fast (and historically in some states they haven't), you could end up paying lease rates that exceed what you'd have paid on the grid.
 
-**The home sale complication.** This one kills deals. When you sell your home, the buyer either needs to qualify to assume your lease or you have to buy out the remaining contract. Buyout costs are often calculated in ways that favor the leasing company. I've seen clients lose sales or eat $15,000-$20,000 in buyout costs because they didn't factor this in. The U.S. Department of Energy's homeowner guide on solar explicitly flags lease transfer complications as one of the top issues to address before signing.
+**[The home sale complication](/transferring-solar-lease-when-selling-home/).** This one kills deals. When you sell your home, the buyer either needs to qualify to assume your lease or you have to buy out the remaining contract. Buyout costs are often calculated in ways that favor the leasing company. I've seen clients lose sales or eat $15,000-$20,000 in buyout costs because they didn't factor this in. The U.S. Department of Energy's homeowner guide on solar explicitly flags lease transfer complications as one of the top issues to address before signing.
 
 **Production guarantees have fine print.** If a lease promises you 90% of projected annual production and you receive only 88%, the company owes you a credit. Sounds protective. But if production drops due to shading from a tree you planted, that's typically excluded. Read what voids the guarantee.
 
@@ -128,6 +128,14 @@ Solar leases solved a real problem when they emerged: they made solar accessible
 ---
 
 ## Recommended Resources
+
+
+| Financing Option | Upfront Cost | Est. 25-Year Savings | Own System at Year 25? |
+|---|---|---|---|
+| Cash purchase | ~$20,000 (after ITC) | $40,000-$60,000 | Yes |
+| Solar loan | $0 down | $25,000-$45,000 | Yes |
+| Solar lease | $0 down | $5,000-$20,000 | No |
+| Do nothing | $0 | -$40,000+ (utility bills) | N/A |
 
 ## Sources
 

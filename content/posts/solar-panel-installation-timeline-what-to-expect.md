@@ -23,6 +23,7 @@ faqs:
    a: "Yes, usually by one to four weeks. Battery systems require additional electrical work, a separate permit in many jurisdictions, and sometimes a dedicated utility review. The Enphase IQ Battery and Tesla Powerwall are both common additions that reliably add time and cost to the project."
  - q: "What happens if I turn on my solar panels before getting utility approval?"
    a: "Don't. Energizing a grid-tied system before PTO is granted violates your interconnection agreement and can result in the utility disconnecting your system or requiring a new inspection. It can also void your warranty with some inverter manufacturers."
+lastmod: 2026-07-07
 ---
 
 Most guides on this topic open with "the process is simpler than you think!" That's not always true, and it sets up homeowners for frustration when their installation drags into month three.
@@ -55,6 +56,13 @@ Check how your installer handles permit expediting by asking them directly: [lea
 
 ## A Realistic Timeline by Region
 
+| Region | Permitting Time | Utility Interconnection | Total Timeline | Key Factors |
+| --- | --- | --- | --- | --- |
+| Texas (Austin/Dallas) | Fast | 2-4 weeks | 6-9 weeks | Streamlined utilities (Oncor, Austin Energy) |
+| California (Bay Area/LA) | 2-3 weeks | 4-8 weeks | 10-16 weeks | NEM 3.0, PG&E/SCE queue backlogs |
+| Massachusetts/Connecticut | 3-4 weeks | 4-6 weeks | 12-20 weeks | High demand, town-by-town variation, National Grid delays |
+| Florida (Tampa/Orlando) | Fast | 2-4 weeks | 7-11 weeks | Generally fast permitting, improved FPL interconnection |
+
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -77,7 +85,7 @@ Start comparing local installer timelines side by side using a platform like [En
 
 ## Three Real-World Examples
 
-**New construction, Phoenix, AZ:** 9.6 kW system, straightforward south-facing roof, SRP utility territory. Site assessment to PTO: 41 days. Permitting took 11 days. Installation was one day. SRP interconnection: 18 days. Clean, fast, near-ideal conditions.
+**New construction, Phoenix, AZ:** 9.6 kW system, straightforward [south-facing roof](/best-direction-to-face-solar-panels/), SRP utility territory. Site assessment to PTO: 41 days. Permitting took 11 days. Installation was one day. SRP interconnection: 18 days. Clean, fast, near-ideal conditions.
 
 **Retrofit, suburban Boston, MA:** 7.2 kW system with 10 kWh Enphase IQ battery, older electrical panel requiring upgrade, Eversource utility territory. Site assessment to PTO: 19 weeks. Panel upgrade added two weeks and required a separate electrical permit. Town permitting took four weeks due to a historic district review. Eversource interconnection: six weeks. Nothing went "wrong," exactly. It just stacked.
 

@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 Florida gets more sun than almost any other state in the country, yet it ranks behind California and Texas in total solar installations. That gap is closing fast. In 2024, Florida added over 3.6 gigawatts of new solar capacity according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and homeowners are a big reason why. If you're sitting in Tampa, Orlando, or Jacksonville wondering whether 2026 is the right year to go solar, the honest answer is: the incentive stack is genuinely solid right now, but it won't stay this good forever. Let me walk you through exactly what's available, what the numbers look like, and where the catches are.
 
@@ -42,6 +42,13 @@ The 30% rate runs through 2032, then steps down to 26% in 2033 and 22% in 2034. 
 ---
 
 ## Florida's State-Level Incentives: Two Big Ones That Actually Matter
+
+| Incentive | Type | Value | Duration | Notes |
+| --- | --- | --- | --- | --- |
+| Federal ITC | Tax Credit | 30% of system cost | Through 2032 | Steps down to 26% in 2033, 22% in 2034 |
+| Sales Tax Exemption | State Exemption | 6% of equipment cost | Ongoing | Automatic; covers panels, inverters, batteries |
+| Property Tax Exemption | State Exemption | 100% of solar-added home value | Ongoing | Indefinite annual savings; example: $450/year at 1.5% tax rate on $30k added value |
+| Net Metering Credits | Utility Compensation | Reduced from retail rate | Ongoing | Now closer to avoided cost rate; less favorable for oversized systems |
 
 Florida doesn't have a state income tax, so there's no state solar tax credit to speak of. Some homeowners hear that and get discouraged. Don't. The state makes up for it with two financial protections that are genuinely valuable.
 

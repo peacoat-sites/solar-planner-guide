@@ -23,6 +23,7 @@ faqs:
    a: "Yes. Canadian Solar appears on Bloomberg NEF's tier one list, which is the most commonly cited industry benchmark. Tier one status reflects bankability and manufacturing scale, not necessarily panel quality per se. It's a floor, not a ceiling."
  - q: "How long does a Canadian Solar warranty claim actually take?"
    a: "Based on real cases I've tracked, expect six to twelve weeks from claim submission to replacement panel delivery in the U.S. market. It's not fast. Document everything from day one, including photos and installer assessments, and contact both the installer and Canadian Solar directly."
+lastmod: 2026-07-07
 ---
 
 I'll be honest: when I first started recommending Canadian Solar panels to clients, I did it mostly on price. They were cheaper than SunPower, competitive with Qcells, and the warranty looked reasonable on paper. That was good enough for me. Then I started actually tracking how those installs performed over two and three years, and what I found pushed me to go a lot deeper on this brand than I ever expected to.
@@ -40,6 +41,12 @@ They're not a boutique brand. They're not a premium brand. They sit comfortably 
 ---
 
 ## The Panel Lineup: What You're Actually Choosing Between
+
+| Panel Series | Power Output | Efficiency | Best For | Price Tier |
+| --- | --- | --- | --- | --- |
+| HiKu7 (CS7N) | 400-440W | 21-22% | Standard residential, workhorse option | Mid-tier |
+| TOPBiHiKu | 400-440W | 21-22% | Flat/low-tilt roofs with reflective surfaces | Mid-tier + premium |
+| HiHero (TOPCon) | 400-440W | 22-23% | Space-constrained roofs | Premium |
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -71,9 +78,9 @@ And a comparison that surprised me: a reader from Phoenix emailed me last winter
 
 ## Degradation and Warranty: Read This Before You Sign
 
-Canadian Solar's product warranty is 12 years for most panels, 25 years on performance (power output). The performance warranty guarantees no more than 2% degradation in year one, then no more than 0.55% per year through year 25. That's pretty standard for the industry right now.
+Canadian Solar's product warranty is 12 years for most panels, 25 years on performance (power output). The [performance warranty guarantees](/how-long-do-solar-panels-last/) no more than 2% degradation in year one, then no more than 0.55% per year through year 25. That's pretty standard for the industry right now.
 
-NREL's research on real-world panel degradation puts the median degradation rate across all manufacturers at about 0.5% per year. Canadian Solar's warranty allowance tracks closely with that, which means they're not padding the warranty far beyond what the panels actually do. That's a reassuring sign.
+NREL's research on [real-world panel degradation](/solar-panel-degradation-rate/) puts the median degradation rate across all manufacturers at about 0.5% per year. Canadian Solar's warranty allowance tracks closely with that, which means they're not padding the warranty far beyond what the panels actually do. That's a reassuring sign.
 
 What I'd flag: warranty value is only as good as the company's longevity. Canadian Solar has been around since 2001, is publicly traded on NASDAQ (ticker: CSIQ), and has the scale to make me reasonably confident they'll be around to honor a 2040 claim. Not certain. Reasonably confident.
 
@@ -85,7 +92,7 @@ I don't want to oversell these. A few honest limitations:
 
 Aesthetics. The HiKu panels have a silver frame and aren't all-black. If curb appeal is a priority, REC or Qcells' all-black options look sharper. Canadian Solar does offer some all-black products but availability through U.S. installers is spotty.
 
-Efficiency ceiling. At 21 to 22% for the standard residential line, you're not at the top. If you're working with a small or awkwardly shaped roof, a SunPower or Maxeon panel at 22.8% might let you fit a meaningfully larger system. On a generous south-facing roof, the efficiency gap matters less.
+Efficiency ceiling. At 21 to 22% for the standard residential line, you're not at the top. If you're working with a small or awkwardly shaped roof, a [SunPower or Maxeon panel](/solar-panel-brand-comparison-2026/) at 22.8% might let you fit a meaningfully larger system. On a generous south-facing roof, the efficiency gap matters less.
 
 Installer markup variability. Because Canadian Solar panels are widely distributed, installer margins vary a lot. I've seen quotes for the same panel model differ by $0.40 per watt depending on the installer's buying relationship. Get at least three quotes.
 

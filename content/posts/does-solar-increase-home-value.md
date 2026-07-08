@@ -12,10 +12,18 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "does-solar-increase-home-value"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 My neighbor sold her house last spring and got $31,000 more than comparable homes on her street. The only meaningful difference? A paid-off 9.2 kW solar system she'd installed four years earlier. I've seen this play out dozens of times, and I've also seen the opposite: sellers who couldn't recoup a dime of what they paid because the system was leased, or because they were in a market where buyers just didn't care. So before anyone tells you "solar definitely adds value," let me give you the actual picture.
 
 ## The Numbers Are Real, But They're Not Universal
+
+| Scenario | System Cost (Before Incentives) | Federal Tax Credit (30%) | Cost After Incentive | Typical Home Sale Premium | Net Outcome |
+| --- | --- | --- | --- | --- | --- |
+| Owned 7.5 kW System | $25,000-$35,000 | $7,500-$10,500 | $14,500-$27,500 | ~$30,000 | Break-even to positive |
+| Owned 8 kW System (Sunny Market) | $25,000-$35,000 | $7,500-$10,500 | $14,500-$27,500 | Varies by market | Positive in high-rate states |
+| Leased System | $0 upfront | N/A | $100-$200/month obligation | Little to none | Negative (buyout $10k-$20k) |
+| PPA System | $0 upfront | N/A | Per-kWh payments | Little to none | Negative (buyer reluctance) |
 
 Here's the headline figure: a Lawrence Berkeley National Laboratory study that's been widely cited by the [Solar Energy Industries Association (SEIA)](https://www.seia.org/) found that buyers paid a premium of about $4 per watt of solar capacity for owned systems. On a 7.5 kW system, that's roughly $30,000. For most homeowners, that's close to or exceeds what they originally paid after the federal tax credit.
 

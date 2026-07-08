@@ -9,7 +9,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 Thinking about putting solar panels on your roof but not sure if it's actually a good match for your home? You're not alone. The real question isn't whether solar works in theory. It's whether it works for *your* specific roof, your electricity habits, and what you're trying to accomplish over the next decade.
 
@@ -17,7 +17,7 @@ This quick 7-question quiz walks you through the pieces that actually matter. Tw
 
 {{< quiz >}}
 
-However you scored, don't treat this as a final answer. Every home's different, and the only real way to know your actual payback period and savings is a custom estimate from someone who'll actually visit your property. Check out our beginner guides to see what separates a solid installer from one that'll disappear after the install, then grab a couple of competing quotes when you're ready to make a real decision.
+However you scored, don't treat this as a final answer. Every home's different, and the only real way to know your actual payback period and savings is a custom estimate from someone who'll actually visit your property. Check out our [beginner guides](/best-solar-companies-2026/) to see what separates a solid installer from one that'll disappear after the install, then grab a couple of competing quotes when you're ready to make a real decision.
 
 ---
 

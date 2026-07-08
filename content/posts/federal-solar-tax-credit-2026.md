@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 You install a $30,000 solar system in January 2026 and claim an $8,100 federal tax credit when you file. Your neighbor waits until 2034 and gets almost nothing. That gap is real, it's baked into law, and most homeowners don't realize the clock's already running.
 
@@ -81,7 +81,7 @@ The process is less complicated than people think.
 
 **Do the math.** If the invoice is $28,500, your credit is $8,550.
 
-**Fill out IRS Form 5695.** That's the Residential Energy Credits form. Part I handles solar and other clean energy credits. It's straightforward. Line 1 is your qualified costs. Everything flows from there.
+**[Fill out IRS Form 5695](/irs-form-5695-solar-credit-instructions/).** That's the Residential Energy Credits form. Part I handles solar and other clean energy credits. It's straightforward. Line 1 is your qualified costs. Everything flows from there.
 
 **Move it to Schedule 3.** Line 5 of Part I goes to Schedule 3 (Additional Credits and Payments), which connects to Form 1040.
 

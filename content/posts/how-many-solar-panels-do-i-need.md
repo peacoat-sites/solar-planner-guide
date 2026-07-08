@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 The average American home pulls about 10,500 kilowatt-hours of electricity every year, according to the U.S. Energy Information Administration. Sounds massive until you realize a typical solar setup of just 8 to 10 panels can handle a real chunk of that. But here's what sales reps conveniently skip during that first phone call: the "right" number of panels has almost nothing to do with national averages. It comes down to your specific roof, your location, your actual habits, and how much of your electric bill you're willing to eliminate.
 
@@ -72,6 +72,13 @@ You could have perfect usage numbers and the sunniest yard around, but if your r
 **Usable roof space.** A 400-watt panel takes up roughly 22 square feet. A 15-panel system needs about 330 square feet of open, properly oriented space. Skylights, vents, chimneys, and dormers all take their share.
 
 ## Panel Wattage and Efficiency: Does It Actually Matter?
+
+| Panel Wattage | Panels Needed | Approx. Roof Space Required |
+|---------------|---------------|-----------------------------||
+| 300W | 24 panels | ~528 sq ft |
+| 370W | 19 panels | ~418 sq ft |
+| 400W | 18 panels | ~396 sq ft |
+| 430W | 17 panels | ~374 sq ft |
 
 A decade ago, premium panels hit 250 watts. Today, mainstream residential panels range from 370 to 430 watts, with high-efficiency models like the Maxeon 7 pushing past 440 watts. Higher wattage means fewer panels for the same system size, which matters hugely when roof space is tight.
 

@@ -23,6 +23,7 @@ faqs:
     a: "Yes, most systems can be expanded if your inverter has unused capacity or you add more inverter capacity. Microinverter systems (Enphase especially) are particularly easy to expand. Just confirm this with your installer before signing and make sure your interconnection agreement with the utility allows a larger system."
   - q: "What's the best time of year to assess shading before going solar?"
     a: "Winter, specifically around the December solstice. That's when the sun is lowest in the sky and shadows are at their longest. A site visit in June will dramatically understate your shading problem. If your installer won't do a winter assessment or refuses to model winter sun angles in their software, that's a red flag."
+lastmod: 2026-07-07
 ---
 Shading is the single most misunderstood variable in residential solar. Most installers will mention it briefly, wave at your roof, and move on. What they don't always tell you: even a small shadow from a chimney, vent pipe, or a neighbor's oak tree can cut your system's output by far more than the shaded percentage of your roof suggests. The math here is counterintuitive, and it costs people real money.
 
@@ -40,6 +41,13 @@ A system sized to produce 9,000 kWh per year losing 20% to shading is a $270 ann
 
 ## The Difference Technology Makes
 
+| Technology | Cost Premium | Best For | Key Benefit |
+| --- | --- | --- | --- |
+| String inverter only | Baseline | No shading | Lowest cost |
+| String inverter + power optimizers | $0.10-0.20/W (+$400-800) | Moderate shading | Individual panel optimization |
+| Microinverters | $0.15-0.25/W | Significant shading (10-15%+) | Full panel independence |
+| Smaller, better-positioned array | Variable | High shading risk | Zero shading, optimal positioning |
+
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's where your installer choice and equipment choice genuinely matter.
@@ -56,7 +64,7 @@ If you have significant shading on more than 10-15% of your roof area, microinve
 
 Most installers use software like Aurora Solar or PVWatts during the site assessment. These tools pull in satellite imagery and model shadows based on sun position at your latitude across the full year. They're decent, not perfect.
 
-The real problem is winter sun angles. A tree that clears your panels fine in July might cast a long shadow across three rows from November through February, precisely when your production is already lowest. I've seen shading analyses done during a summer site visit that completely missed a 40-foot pine that was a serious issue for six months of the year.
+The real problem is winter sun angles. A tree that clears your panels fine in July might cast a long shadow across three rows from November through February, precisely when [your production is already lowest](/do-solar-panels-work-in-winter/). I've seen shading analyses done during a summer site visit that completely missed a 40-foot pine that was a serious issue for six months of the year.
 
 If you want to check this yourself before any installer shows up, the [Sunpath app](https://www.solardesigntool.com) and the Solar Pathfinder tool are both respected options. The Solar Pathfinder (around $250 on Amazon, [check current price here](https://www.amazon.com/s?k=solar+pathfinder&tag=contentportfo-20)) is the old-school physical instrument that lets you photograph the full sky obstruction at each panel location. It's what serious installers use on complex sites. Renting one from a local solar training program is an option if you don't want to buy.
 

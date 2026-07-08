@@ -12,6 +12,7 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "solar-roi-without-the-30-tax-credit-how-to-recalculate-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most solar coverage this summer is treating the death of the 30% federal tax credit like a weather event, something unfortunate that happened and now we move on. That framing misses the real problem. The credit wasn't a nice bonus. For most homeowners, it was the entire financial justification for buying a system outright. Without it, the ROI math doesn't just get worse. It breaks in some cases, and requires a full rebuild in others.
 
@@ -23,13 +24,20 @@ What almost nobody is explaining clearly: the commercial tax credit (48E) surviv
 
 Before you size a system or get quotes, you need to decide whether you're buying or leasing. That decision used to be mostly about preference and credit scores. Now it's about who can actually capture federal incentives.
 
-Because 48E applies to third-party owners, installers and leasing companies can still claim a federal credit on the hardware they own and install on your roof. They can pass some of that value to you through lower monthly payments or reduced prepaid PPA prices. You, buying outright, get nothing from Washington.
+Because 48E applies to third-party owners, installers and leasing companies can still claim a federal credit on the hardware they own and install on your roof. They can pass some of that value to you through lower monthly payments or reduced [prepaid PPA](/the-prepaid-solar-lease-explained-how-the-6-year-flip-works/) prices. You, buying outright, get nothing from Washington.
 
 That's a structural disadvantage of roughly $7,500 to $9,000 on a typical 10 kW system at current prices. Leases and prepaid PPAs aren't the right answer for everyone, but anyone who dismisses them reflexively in 2026 is doing the math wrong. Get a real quote on a prepaid PPA, calculate the effective cost per kWh over 20 years, and compare it honestly against an owned system with no federal offset. The gap is smaller than your installer will volunteer.
 
 The tradeoff is real too: you don't own the asset, you can complicate a home sale, and you're locked into a contract. But for homeowners in moderate-incentive states who planned to use the 30% credit as their primary justification, a prepaid PPA deserves a serious look right now.
 
 ## State Incentives Have Become the Whole Game
+
+| Location | Utility Rate | State Incentive | System Type | Payback Period |
+| --- | --- | --- | --- | --- |
+| Albany, NY | 30¢/kWh | 25% credit (max $5,000) | Owned | 8-10 years |
+| Suburban Houston, TX | 12¢/kWh | None | Owned | 13-16 years |
+| Massachusetts | Market rate | 15% (max $1,000) + net metering | Owned | Improved by stacking |
+| Maryland (income-eligible) | Market rate | $750/kW grant (max $7,500) | Owned | Improved by grant |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,6 +23,7 @@ faqs:
     a: "This is the question people forget to ask before signing. Some subscriptions are transferable to a new address within the same utility territory. Others can be assigned to the next tenant or homeowner. Some require you to buy out the contract. Read the exit terms carefully before signing anything longer than a one-year term."
   - q: "Can I have both rooftop solar and a community solar subscription?"
     a: "Technically sometimes, but most utilities and community solar programs restrict this or limit how much net metering credit you can stack. In practice, if you have a well-sized rooftop system, a community solar subscription adds little value. They're generally alternatives, not complements."
+lastmod: 2026-07-07
 ---
 
 Most articles on this topic spend three paragraphs explaining what solar panels are before getting to anything useful. Let's skip that.
@@ -59,13 +60,26 @@ This is where I'd argue most coverage buries the lead. Community solar has expan
 
 The typical community solar subscription works like this: you subscribe to a fixed percentage of a solar farm's output, you receive a credit on your utility bill at a slightly discounted rate (usually 5-15% below retail electricity rates), and you pay the community solar company for your share of power produced. The arbitrage is the discount. You're buying solar electricity slightly cheaper than you'd buy grid electricity.
 
-Worked example: A renter in Illinois subscribes to a 3,000 kWh/year community solar share. Her utility rate is $0.14/kWh; she pays the community solar provider $0.12/kWh for that same energy. Annual savings: roughly $60. Not life-changing. But it requires zero upfront cost, zero installation, and she can cancel with 90 days notice.
+Worked example: A renter in Illinois subscribes to a 3,000 kWh/year community solar share. Her utility rate is $0.14/kWh; she pays the community solar provider $0.12/kWh for that same energy. Annual savings: roughly $60. Not life-changing. But it requires [zero upfront cost](/zero-down-solar-financing-options/), zero installation, and she can cancel with 90 days notice.
 
 The contrast to rooftop is stark. Community solar is lower risk, lower reward, and accessible to almost anyone. Renters, condo owners, people with shaded or north-facing roofs, people who move frequently: these are the people community solar was designed for.
 
 There's a catch I wish someone had explained to me earlier. Contract terms vary wildly. Some community solar programs have 20-year contracts with steep exit fees. Others are month-to-month. Read the contract. Seriously. I've talked with homeowners who signed 20-year community solar subscriptions and then went to sell their home and had no idea what to do with the contract.
 
 ## The Numbers Side-by-Side
+
+| Factor | Rooftop Solar | Community Solar |
+| --- | --- | --- |
+| Upfront Cost | $15,000-$25,000+ (after 30% ITC) | $0 |
+| Long-term Return (IRR) | 8-12% in good markets | Modest annual savings ($50-$200) |
+| Payback Period | 6-9 years (high-cost states) | N/A (subscription model) |
+| Home Value Impact | ~4% increase | None |
+| Ownership Required | Yes | No (renters eligible) |
+| Roof Suitability | South/west-facing, minimal shading | N/A (no roof installation) |
+| Minimum Bill Size | $150+/month recommended | Flexible |
+| Contract Flexibility | N/A | Varies (month-to-month to 20 years) |
+| Geographic Availability | Nationwide | ~20 states + D.C. |
+| Time to Install | Weeks (permits, installation) | None (subscription only) |
 
 Let me be concrete about the financial comparison because vague generalities are useless here.
 

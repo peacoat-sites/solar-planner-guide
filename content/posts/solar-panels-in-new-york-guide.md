@@ -23,11 +23,11 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 Forty-three dollars. That's what one of my clients in Westchester was paying per day on electricity last August during the heat wave. Not per month. Per day. When she called me, she wasn't curious about solar in an abstract way. She was angry, and she wanted to know why nobody had told her sooner that there was a better option.
 
-If you're a New York homeowner, you might be wondering whether solar actually makes sense for you or whether it's one of those things that sounds great until you look at the details. Here's what I tell people in that position: New York is genuinely one of the best states in the country for residential solar, but not for the reasons most installers lead with. It's not the sunshine (you'll get to that). It's the combination of high utility rates, strong state incentives, and a net metering policy that still works heavily in your favor.
+If you're a New York homeowner, you might be wondering whether solar actually makes sense for you or whether it's one of those things that sounds great until you look at the details. Here's what I tell people in that position: New York is genuinely one of the best states in the country for residential solar, but not for the reasons most installers lead with. It's not the sunshine (you'll get to that). It's the combination of high utility rates, strong state incentives, and a [net metering policy](/net-metering-changes-by-state/) that still works heavily in your favor.
 
 Let me walk you through the real picture.
 
@@ -57,9 +57,14 @@ New York switched to a modified net metering structure called "Value of Distribu
 
 Under full retail net metering, when your system overproduces in May (and it will), those credits offset what you draw at night or in winter, roughly dollar for dollar. That's a significant financial benefit, and it's why New York systems can still achieve payback periods of 6 to 9 years on a cash purchase, according to data from EnergySage's New York market reports.
 
-The thing to watch: VDER (sometimes called "net billing") has been expanding, and some new applicants in certain utility territories are now receiving it instead of traditional net metering. VDER typically values your exported energy at less than the retail rate, which stretches your payback period. Before you sign anything, ask your installer directly: will I receive full retail net metering or VDER? Get it in writing. This one question can change your 20-year financial model by thousands of dollars.
+The thing to watch: [VDER (sometimes called "net billing")](/california-nem-30-explained/) has been expanding, and some new applicants in certain utility territories are now receiving it instead of traditional net metering. VDER typically values your exported energy at less than the retail rate, which stretches your payback period. Before you sign anything, ask your installer directly: will I receive full retail net metering or VDER? Get it in writing. This one question can change your 20-year financial model by thousands of dollars.
 
 ## What a Real New York Solar Quote Looks Like
+
+| System Size | Annual Generation | Annual Savings @ 24¢/kWh | System Cost (Before Incentives) | Cost After Federal + State Credits |
+| --- | --- | --- | --- | --- |
+| 7 kW | ~7,500 kWh | ~$1,800 | $22,000-$24,500 | $13,000-$16,000 |
+| 8 kW | ~8,500-9,500 kWh | ~$2,000-$2,280 | $25,000-$28,000 | $13,600-$18,600 |
 
 EnergySage's 2024 solar market data puts the average New York installation cost at about $3.15 to $3.50 per watt before incentives. A 7 kW system lands at roughly $22,000 to $24,500. An 8 kW system runs closer to $25,000 to $28,000. After federal and state tax credits, you're often in the $13,000 to $18,000 range, depending on your specific credits and whether you're cash-purchasing or financing.
 

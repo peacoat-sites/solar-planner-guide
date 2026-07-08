@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 You've probably already lost power at least once this year. Maybe it was a few hours, maybe it was three days after a storm, and you sat there watching your refrigerator full of food edge toward room temperature while your neighbor's house stayed lit up because they had a battery. That moment has a way of making home battery storage go from "something I'll look into someday" to "I need to figure this out now." If you're here, you're probably in that exact headspace. Good. Let's actually work through it together.
 
@@ -31,11 +31,19 @@ You've probably already lost power at least once this year. Maybe it was a few h
 
 Before comparing specific products, it helps to be clear on what you're buying. A home battery system stores electricity, either from your solar panels, the grid during off-peak hours, or both, and releases it when you need it most. That might be during an outage, during peak rate hours when your utility charges more, or at night when your solar panels aren't generating anything.
 
-Here's what I tell people who expect a battery to replace the grid entirely: it almost certainly won't, unless you're building a full off-grid system with a very large battery bank and significant solar capacity. For most homeowners, a single battery is more like a very smart backup and savings tool than a complete energy independence solution.
+Here's what I tell people who expect a battery to replace the grid entirely: it almost certainly won't, unless you're building a [full off-grid system](/off-grid-solar-battery-system-cost/) with a very large battery bank and significant solar capacity. For most homeowners, a single battery is more like a very smart backup and savings tool than a complete energy independence solution.
 
 The typical home battery stores somewhere between 10 and 20 kilowatt-hours (kWh) of usable energy. For context, the average U.S. home uses about 30 kWh per day according to the U.S. Energy Information Administration. One battery won't cover everything. But it can power your essentials, refrigerator, lights, a few outlets, Wi-Fi, maybe your HVAC depending on its size, for anywhere from several hours to a couple of days depending on how conservatively you run things.
 
 ## The Main Contenders: A Real Comparison
+
+| Battery | Usable Capacity | Power Output (Continuous) | Chemistry | Warranty | Rough Installed Cost |
+|---|---|---|---|---|---|
+| Tesla Powerwall 3 | 13.5 kWh | 11.5 kW | NMC Lithium-ion | 10 years / 70% capacity | $12,000-$16,000 |
+| Enphase IQ Battery 5P | 5.0 kWh | 3.84 kW | LFP | 15 years / 70% capacity | $7,000-$9,000 per unit |
+| Franklin WH5000 | 6.0 kWh | 5.0 kW | LFP | 12 years / 70% capacity | $8,000-$11,000 |
+| Generac PWRcell | 9-18 kWh (modular) | 3.4-6.7 kW | NMC Lithium-ion | 10 years / 70% capacity | $15,000-$20,000 |
+| SolarEdge Home Battery | 9.7 kWh | 5.0 kW | LFP | 10 years / 70% capacity | $10,000-$14,000 |
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

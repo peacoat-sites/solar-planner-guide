@@ -23,6 +23,7 @@ faqs:
     a: "Modern cold-climate heat pumps like the Mitsubishi Hyper-Heat MXZ or the Daikin Quaternity work down to -13°F and maintain reasonable efficiency at 5°F. The research here is mixed on how well older or cheaper heat pump models perform below 20°F, so brand and model selection matters a lot in places like Minnesota or Maine. Don't let anyone sell you a standard heat pump and promise cold-climate performance."
   - q: "Does the 30% federal tax credit apply to both solar and a heat pump?"
     a: "Solar panels fall under the Residential Clean Energy Credit (30% through 2032, no income limit, no cap). Heat pumps qualify under the Energy Efficient Home Improvement Credit, which is capped at $2,000 per year. These are two separate credits, but you can claim both in the same tax year. Talk to a tax professional about your specific situation, since the heat pump credit is nonrefundable and has rules around timing."
+lastmod: 2026-07-07
 ---
 Most solar installers will quote you a panel system and wave vaguely at "future battery storage" as an upsell. What they rarely bring up unprompted is the combination that actually changes the math more than any battery ever will: pairing solar panels with a heat pump. I've spent years watching homeowners obsess over storage while leaving a far bigger opportunity sitting right there in their mechanical room.
 
@@ -34,7 +35,7 @@ A heat pump doesn't generate heat. It moves it, which is why it can deliver 2 to
 
 Solar panels produce the most electricity on the same sunny days when your home needs the least conditioning. That mismatch is real. But across a full year, the combination works out remarkably well. In spring and fall, when your panels are cranking and your HVAC load is minimal, you're banking credits with your utility. You pull those credits back in the peak of summer, when your heat pump runs hard for cooling. In heating-dominated climates, the math is tighter, but the efficiency advantage of the heat pump usually covers it.
 
-What surprised me was how dramatically this pairing shrinks the solar system size you actually need. If you're replacing a gas furnace with a heat pump, your electricity bill will go up, no question. But your total energy bill, gas plus electric, typically drops by 30 to 50 percent. EnergySage's market data has consistently shown that homeowners adding heat pumps alongside solar end up needing roughly 20 to 30 percent more panel capacity than a solar-only household, but they eliminate an entire fuel source. One bill. One system.
+What surprised me was how dramatically this pairing shrinks the solar system size you actually need. If you're replacing a gas furnace with a heat pump, your electricity bill will go up, no question. But your total [energy bill, gas plus electric](/whole-home-solar-energy-system/), typically drops by 30 to 50 percent. EnergySage's market data has consistently shown that homeowners adding heat pumps alongside solar end up needing roughly 20 to 30 percent more panel capacity than a solar-only household, but they eliminate an entire fuel source. One bill. One system.
 
 ## The Real Numbers (and Where People Get Surprised)
 
@@ -49,6 +50,11 @@ Now the good part. The federal Inflation Reduction Act (IRA) 30 percent tax cred
 One thing installers often gloss over: if you're in a state with Time-of-Use (TOU) electricity pricing, you can program a smart heat pump thermostat to pre-cool or pre-heat your home during the solar production window, essentially using your house as a thermal battery. No $10,000 Powerwall required. A good smart thermostat like the Ecobee SmartThermostat Premium (around $250 on [Amazon](https://www.amazon.com/s?k=ecobee+smart+thermostat&tag=contentportfo-20)) can do this automatically once you set the schedule.
 
 ## Sizing the Solar Array When a Heat Pump Is in the Picture
+
+| Climate Zone | Heat Pump Added Load (kWh/year) | Example Cities |
+| --- | --- | --- |
+| Cold (heating-dominated) | 3,000-5,000 | Chicago, Denver |
+| Warm (cooling-dominated) | 1,500-2,500 | Atlanta, Phoenix |
 
 This is where I see the most mistakes, and honestly, some installers make them too, because they design your solar system based on your current electricity usage without accounting for the load you're about to add.
 

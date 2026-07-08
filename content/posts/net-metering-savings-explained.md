@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 Your electric meter spinning backward on a sunny afternoon while you're at work, your solar panels quietly generating more electricity than your empty house can use. That surplus flows to the grid, and your utility company credits your account for every kilowatt-hour. By the time your bill arrives, you owe almost nothing. That's net metering.
 
@@ -42,6 +42,12 @@ This credit rollover is where the real annual savings live. In most net metering
 According to [the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), net metering policies are active in 41 states plus the District of Columbia, though the specific rules, credit rates, and caps differ significantly across those states.
 
 ## Full Retail Net Metering vs. Reduced-Rate Compensation
+
+| Compensation Type | Credit Rate | Example State/Program | Key Characteristic |
+| --- | --- | --- | --- |
+| Full Retail Net Metering | $0.12-$0.30/kWh | New York, New Jersey, Texas | Exported kWh credited at same rate as imported |
+| Avoided Cost / Wholesale | $0.03-$0.06/kWh | Various reformed programs | Credited at utility's wholesale purchase rate |
+| Net Billing | ~$0.05/kWh avg. | California NEM 3.0 (Apr 2023) | Time-of-use import rates; incentivizes battery storage |
 
 Here's something many installers gloss over: not every state credits your excess solar at the full retail rate, and the difference matters a lot for your payback period.
 

@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 You've been telling yourself you'll go solar "eventually" for two years now. Then you see a headline about the federal tax credit expiring, and your stomach drops. Did you just miss out on a 30% discount worth thousands of dollars?
 
@@ -40,6 +40,13 @@ After 2032 the credit steps down: 26% in 2033, 22% in 2034. Then in 2035, it exp
 Here's what most installers don't mention: if your federal tax bill is smaller than your credit in year one, you can roll the leftover portion to the next year. You can't roll it backward, and you won't get cash back for any unused amount, but it's not a use-it-or-lose-it trap within a single tax year. The [ITC solar investment tax credit explained](/itc-solar-investment-tax-credit-explained/) page here walks through the carryforward mechanics in detail.
 
 ## The Real Expiration Timeline: What Changes, and When
+
+| Year | ITC Rate | Notes |
+|------|----------|-------|
+| 2025-2032 | 30% | Full credit in effect |
+| 2033 | 26% | First step-down |
+| 2034 | 22% | Second step-down |
+| 2035+ | 0% | Expires for residential (unless extended) |
 
 Here's exactly when the rates change:
 

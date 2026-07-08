@@ -10,13 +10,13 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 How much electricity your rooftop solar system produces comes down to one thing: where you live. The table below shows estimated annual output for a standard **6 kW residential system** across US states, ranked from highest to lowest. These numbers come from NASA POWER solar irradiance data and assume a typical 80% system performance ratio.
 
 {{< solar-table >}}
 
-Peak sun hours measure the average daily hours when sunlight's strong enough to generate at full capacity. Arizona and Nevada punch way above cloudier northern states on a per-panel basis. But here's the thing: solar still pencils out in low-sun states if your electricity rates are high enough. The savings estimates below use a national average rate, so they're ballpark only. Your actual numbers depend entirely on what your utility charges and whether it offers net metering.
+Peak sun hours measure the average daily hours when sunlight's strong enough to generate at full capacity. Arizona and Nevada punch way above cloudier northern states on a per-panel basis. But here's the thing: solar still pencils out in low-sun states if your electricity rates are high enough. The savings estimates below use a national average rate, so they're ballpark only. Your actual numbers depend entirely on what your utility charges and [whether it offers net metering](/how-to-read-a-solar-electricity-bill/).
 
 ## Recommended Resources
 

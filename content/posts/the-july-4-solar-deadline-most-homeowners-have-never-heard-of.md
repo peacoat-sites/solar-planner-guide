@@ -12,6 +12,7 @@ author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 slug: "the-july-4-solar-deadline-most-homeowners-have-never-heard-of"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most homeowners shopping for solar right now are focused on the wrong deadline. They've heard the 30% federal tax credit is gone, they've maybe looked at lease options as a workaround, and they're vaguely planning to "get quotes this summer." What almost none of them know is that July 4, 2026 is a hard cutoff that could make their lease or PPA meaningfully more expensive, and it's days away.
 
@@ -27,11 +28,17 @@ The catch is that 48E doesn't last forever, and its clock is ticking in a way mo
 
 ## The July 4 Construction-Start Rule
 
+| Scenario | Federal Credit | Financing Option | Key Deadline | Price Impact |
+| --- | --- | --- | --- | --- |
+| Cash or solar loan purchase | Section 25D | Direct ownership | December 31, 2025 | $6,000-$10,000 lost |
+| Third-party lease/PPA | Section 48E (48%) | TPO company owns system | July 4, 2026 (construction start) | 10-12% price increase post-deadline |
+| Third-party lease/PPA (missed deadline) | Section 48E (reduced) | TPO company owns system | December 31, 2027 (placed in service) | Credit expires entirely after 2027 |
+
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
-Here's the mechanics of it. Section 48E requires that construction begin before July 4, 2026 for a project to lock in eligibility under the current rules. Miss that date, and the system must be placed in service by December 31, 2027 to qualify at all. After 2027, the credit expires entirely. So this summer isn't just a busy season. It's genuinely the last window for the commercial credit that makes third-party solar economics work, as Solar Permit Solutions laid out in their February 2026 breakdown of what changed after the legislation passed.
+Here's the mechanics of it. Section 48E requires that construction begin before July 4, 2026 for a project to lock in eligibility under the current rules. Miss that date, and the system must be placed in service by December 31, 2027 to qualify at all. After 2027, the credit expires entirely. So this summer isn't just a busy season. It's genuinely the last window for the commercial credit that makes [third-party solar economics work](/solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system/), as Solar Permit Solutions laid out in their February 2026 breakdown of what changed after the legislation passed.
 
 What does "construction begin" actually mean in practice? For solar, the IRS generally accepts that meaningful physical work has started, or that 5% of total project costs have been incurred. Installers working on pre-deadline contracts are trying to get permits pulled, equipment delivered, and some installation work physically underway before the date hits. That process takes weeks, not days, which means the effective deadline for homeowners to sign a contract and have any realistic shot at beating it has arguably already passed for some installers.
 

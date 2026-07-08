@@ -23,6 +23,7 @@ faqs:
    a: "DIY cleaning is totally reasonable if your panels are accessible without roof climbing. Professional inspections every 3 to 5 years make sense for checking mounts, wiring, and inverter health. Don't pay for professional cleaning four times a year if the DIY math doesn't pencil out."
  - q: "Does rain clean solar panels well enough?"
    a: "In wetter climates, often yes. Rain removes light dust accumulation reasonably well. But it does nothing for bird droppings, pollen that's baked on in summer heat, or the mineral deposits left behind when hard water evaporates. If you live somewhere with distinct dry seasons or hard tap water, don't count on rain alone."
+lastmod: 2026-07-07
 ---
 
 My first year consulting, I watched a homeowner in Phoenix lose almost 30% of his monthly output and spend four months blaming his inverter before we figured out the real problem: a thick crust of dust and bird droppings had essentially turned his south-facing panels into shade structures. A $40 cleaning fixed what he was convinced would be a $1,200 inverter replacement.
@@ -67,6 +68,13 @@ That's genuinely the full kit. Anyone selling you a $200 "solar cleaning system"
 For panels you can reach safely from the ground with an extended pole, cleaning is a DIY job. If you have a steep pitch, second-story installation, or anything where you'd need to go on the roof, please hire someone. Falls from residential roofs kill people every year. It's not worth it.
 
 ## How Often Should You Actually Clean?
+
+| Climate Zone | Annual Rainfall | Recommended Cleaning Frequency | Annual Production Loss (if uncleaned) | Professional Cost Viability |
+| --- | --- | --- | --- | --- |
+| High rainfall (Portland, Atlanta) | 20+ inches | Once yearly (spring) | 2-3% | Low - natural rain handles most cleaning |
+| Arid climate (Phoenix, Las Vegas) | Less than 12 inches | 3-4 times yearly | 4-6% per month | Moderate - DIY recommended |
+| Heavy agricultural/dust (San Joaquin Valley) | Variable | Monthly or as-needed | 25%+ seasonal | High - professional cleaning justified |
+| High bird activity | Any | Monthly spot-check + full cleanings | Variable (20-40% per affected panel) | High - immediate spot-cleaning critical |
 
 This is where I'll give you a real answer instead of a wishy-washy "it depends." Here's what I tell clients:
 

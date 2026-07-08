@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 If you're a New York homeowner and your electricity bill has hit $200 a month, you're probably already doing the math on solar. Here's the number that should grab you: the average New York residential installation runs $28,000 to $35,000 before incentives, but after stacking the state and federal programs available in 2026, many homeowners bring that down to $16,000 or less. That's not marketing spin. That's what happens when you combine a 30% federal tax credit with New York's own 25% state credit, a property tax exemption, and a sales tax exemption. The incentive stack in New York is genuinely one of the best in the country. Knowing exactly how it works can mean the difference between a system that pays for itself in 8 years versus 13.
 
@@ -62,6 +62,14 @@ Con Edison customers have access to a separate **Con Edison Clean Energy Rewards
 Net metering remains available in New York, though the state has been transitioning toward a successor tariff called **VDER** (Value of Distributed Energy Resources) for some systems. The credit rates under VDER can be higher or lower than traditional retail net metering depending on when and where you export power. This matters for your actual savings. Our guide on [net metering savings explained](/net-metering-savings-explained/) walks through how these export credits are calculated and what to expect on your bill.
 
 ## How the Incentives Stack Up: A Real-World Example
+
+| Incentive | Amount | Notes |
+|---|---|---|
+| Federal ITC (30%) | -$9,360 | Claimed on federal return |
+| NY State Tax Credit (25%, capped) | -$5,000 | Claimed on NY Form IT-255 |
+| Sales Tax Exemption (8.52%) | -$2,556 | Applied at purchase |
+| Property Tax Exemption (15 years, est.) | -$4,500 | Avoided annual property tax |
+| **Net Cost After Incentives** | **$10,344** | Out-of-pocket for 8 kW system |
 
 A homeowner in Westchester County installs an 8 kW system in early 2026. Before any incentives, installed cost is $31,200 (roughly $3.90 per watt, in line with current New York averages).
 

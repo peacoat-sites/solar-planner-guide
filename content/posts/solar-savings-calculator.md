@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 $28,000 for a solar system. The installer pulls up a calculator. It promises $1,400 in annual savings. Three years later, you're actually saving $800 a year. That gap wasn't bad luck. It's what happens when a calculator's job is to sell you something, not tell you the truth.
 
@@ -49,9 +49,16 @@ Before you trust any calculator's output, you need these specific pieces of data
 
 **Your roof's actual usable space and which direction it faces.** A south-facing roof at 30 degrees in Phoenix generates totally different amounts of power than an east-west split roof in Seattle. Calculators that don't ask about this are spitting out rough guesses at best.
 
-**The federal tax credit and your tax situation.** The Inflation Reduction Act extended the 30% federal Investment Tax Credit (ITC) through 2032. But here's what most people miss: the credit only reduces what you owe in taxes. If your federal tax liability is $2,000 and your credit is $8,400, you don't get a check for $8,400. You carry the rest forward, but only for one more year. A lot of homeowners don't realize this.
+**The [federal tax credit](/solar-panel-roi-calculation/) and your tax situation.** The Inflation Reduction Act extended the 30% federal Investment Tax Credit (ITC) through 2032. But here's what most people miss: the credit only reduces what you owe in taxes. If your federal tax liability is $2,000 and your credit is $8,400, you don't get a check for $8,400. You carry the rest forward, but only for one more year. A lot of homeowners don't realize this.
 
 ## How to Use Multiple Calculators (and Why You Actually Should)
+
+| Calculator | Best For | Key Strength | Limitation |
+| --- | --- | --- | --- |
+| Google Project Sunroof | Quick roof assessment | Free, uses aerial imagery and actual sun hours | Won't replace professional shade analysis |
+| EnergySage | Transparent assumptions | Shows range of outcomes, marketplace data | Requires more user input |
+| PVWatts (NREL) | Production verification | Professional-grade, decades of weather data | Technical interface, not consumer-friendly |
+| Utility's Own Calculator | Accurate rate structures | Reflects exact tariff and net metering rules | Limited geographic availability |
 
 There's no single calculator that's the gold standard. Running three or four of them and comparing the results is the smartest move.
 
@@ -73,7 +80,7 @@ Here's how to walk through this before you talk to a single installer.
 
 **Step 3: Size your system.** Divide your annual consumption by your location's production factor. Using 10,000 kWh/year in Phoenix? You need roughly 5.5 kW of panels to hit 100% (10,000 / 1,800). Add 10-15% for shading, dirt, and inverter losses.
 
-**Step 4: Price it out.** EnergySage's market data puts average installed cost at about $2.95 per watt before incentives. A 6 kW system runs roughly $17,700 before the 30% federal credit, or about $12,390 after.
+**Step 4: Price it out.** EnergySage's market data puts average [installed cost](/how-much-do-solar-panels-cost-2026/) at about $2.95 per watt before incentives. A 6 kW system runs roughly $17,700 before the 30% federal credit, or about $12,390 after.
 
 **Step 5: Calculate payback.** Divide net system cost by annual savings. Annual savings equals your production (kWh) times your current utility rate. If you produce 9,000 kWh at $0.15/kWh, that's $1,350/year. Payback is $12,390 / $1,350 = 9.2 years. Against a 25-year panel warranty, that works.
 

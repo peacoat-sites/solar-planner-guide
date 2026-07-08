@@ -23,15 +23,21 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
-Most homeowners I talk to assume solar batteries are basically just backup power for blackouts. That's the pitch you'll hear from installers, and it's not wrong, but it's about a third of the actual story. I've seen people drop $12,000 to $15,000 on a battery system expecting to cut their electric bill in half, only to find their monthly savings barely budged. I've also seen homeowners in time-of-use utility markets turn their battery into a genuine money machine. The difference almost always comes down to one thing: whether they understood their specific situation before signing the contract.
+Most homeowners I talk to assume solar batteries are basically just [backup power](/solar-battery-backup-for-power-outages/) for blackouts. That's the pitch you'll hear from installers, and it's not wrong, but it's about a third of the actual story. I've seen people drop $12,000 to $15,000 on a battery system expecting to cut their electric bill in half, only to find their monthly savings barely budged. I've also seen homeowners in time-of-use utility markets turn their battery into a genuine money machine. The difference almost always comes down to one thing: whether they understood their specific situation before signing the contract.
 
 ## What Solar Batteries Actually Do (And What They Don't)
 
+| Battery Model | Usable Capacity | Typical Installed Cost | Cost Per kWh |
+| --- | --- | --- | --- |
+| Tesla Powerwall 3 | 13.5 kWh | $11,500-$14,000 | $852-$1,037 |
+| Enphase IQ Battery 5P | 5 kWh per unit | Variable | $1,000-$1,500 |
+| Franklin WH10 | 10 kWh | Variable | $1,000-$1,500 |
+
 A solar battery stores excess electricity your panels generate during the day so you can use it at night or during a grid outage. Simple concept. The execution is where things get complicated.
 
-The most popular home battery right now is the Tesla Powerwall 3, which stores 13.5 kWh of usable capacity. The Enphase IQ Battery 5P stores about 5 kWh per unit, so most homes need two or three. The Franklin WH10 stores 10 kWh. These aren't cheap: installed costs typically run $1,000 to $1,500 per usable kilowatt-hour, according to recent data from EnergySage. A single Powerwall installed in 2024 runs roughly $11,500 to $14,000 all-in.
+The most popular home battery right now is the [Tesla Powerwall 3](/tesla-powerwall-cost-2026/), which stores 13.5 kWh of usable capacity. The Enphase IQ Battery 5P stores about 5 kWh per unit, so most homes need two or three. The Franklin WH10 stores 10 kWh. These aren't cheap: installed costs typically run $1,000 to $1,500 per usable kilowatt-hour, according to recent data from EnergySage. A single Powerwall installed in 2024 runs roughly $11,500 to $14,000 all-in.
 
 What surprises a lot of people is that batteries don't directly make your solar panels more efficient. The panels produce the same electricity either way. A battery just changes when you use that electricity. That distinction sounds small but it determines whether a battery actually saves you money.
 
@@ -47,7 +53,7 @@ The average American home uses about 29 kWh per day, according to the U.S. Energ
 
 At $13,000 installed, your simple payback is 15 to 22 years. Battery warranties run 10 years. You see the problem.
 
-Now change one variable: put that same homeowner in California, where some PG&E customers pay $0.45 to $0.55 per kWh during peak hours (typically 4 to 9 PM) under time-of-use rates. Suddenly the daily savings jump to $5 to $7 per day, or $1,800 to $2,500 per year. Payback drops to 5 to 7 years. That's a completely different investment.
+Now change one variable: put that same homeowner in California, where some PG&E customers pay $0.45 to $0.55 per kWh during peak hours (typically 4 to 9 PM) under [time-of-use rates](/solar-with-battery-storage-vs-without/). Suddenly the daily savings jump to $5 to $7 per day, or $1,800 to $2,500 per year. Payback drops to 5 to 7 years. That's a completely different investment.
 
 The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has modeled battery economics across different U.S. utility markets, and their findings consistently show that time-of-use rate arbitrage, charging the battery when electricity is cheap or free from your solar, discharging when utility rates peak, is the biggest financial driver for residential batteries. Backup power alone rarely justifies the cost on purely financial grounds.
 

@@ -12,6 +12,7 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "plug-in-balcony-solar-is-now-legal-in-your-state-now-what"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Your electricity bill just hit $140 a month. You're on a second-floor apartment balcony in Denver. Someone mentions solar, and you shut it down: "Yeah, but I'd need to own the roof." That objection just became obsolete.
 
@@ -26,6 +27,12 @@ For systems under 395 watts, you don't need a permit. No electrician. No inspect
 What's genuinely underappreciated is the meter collar requirement. A meter collar sits between your utility meter and the socket, letting a small solar system feed power into your home without rewiring anything. For homeowners who've been quoted $2,000 to $5,000 for an electrical panel upgrade just to go solar, this changes the equation. That barrier's gone for plug-in systems. Colorado's law requires all utilities, including municipal utilities and co-ops, the ones historically most resistant to this stuff, to accept them. As Solar Power World [reported](https://www.solarpowerworldonline.com/2026/05/colorado-approves-balcony-solar-requires-utilities-to-accept-meter-collars/), utilities fought this part of the bill hard. They didn't want to be mandated into acceptance.
 
 ## The UL 3700 Wrinkle Nobody Is Talking About
+
+| System Size | Permit Required | UL 3700 Certification | Best For |
+| --- | --- | --- | --- |
+| Under 395 watts | No | Less strict | Renters, quick deployment |
+| 395-1,920 watts | Yes | Required (UL 3700) | Homeowners, higher production |
+| Over 1,920 watts | Not allowed under Colorado law | N/A | Full rooftop systems (separate path) |
 
 Here's what I need to be honest about, because this could catch early adopters off guard.
 

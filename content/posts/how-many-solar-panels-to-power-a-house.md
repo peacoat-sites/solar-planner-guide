@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 Most people ask the wrong question. They Google "how many solar panels do I need" expecting a clean answer, and they get some calculator that spits out a number without explaining any of the assumptions underneath it. I've watched homeowners get burned by this more times than I'd like to count, because they bought a system based on that number without understanding why it might be completely wrong for their house.
 
@@ -59,7 +59,7 @@ Once you have your annual kWh, here's the basic calculation:
 
 **Number of panels = Annual kWh usage / (panel wattage x peak sun hours x 365)**
 
-Let me use real numbers. Say your home uses 10,500 kWh per year. You're considering 400-watt panels, which is standard now in 2024 (Qcells Q.PEAK DUO BLK ML-G10 and REC Alpha Pure-Black both sit around that range). Your location gets about 4.5 peak sun hours per day, which is roughly average for somewhere like Nashville or Charlotte.
+Let me use real numbers. Say your home uses 10,500 kWh per year. You're considering 400-watt panels, which is standard now in 2024 (Qcells Q.PEAK DUO BLK ML-G10 and REC Alpha Pure-Black both sit around that range). Your location gets about 4.5 [peak sun hours per day](/what-size-solar-system-for-2000-sq-ft-home/), which is roughly average for somewhere like Nashville or Charlotte.
 
 400W x 4.5 hours x 365 days = 657 kWh per panel per year (in theory)
 

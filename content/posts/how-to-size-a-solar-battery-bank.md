@@ -23,6 +23,7 @@ faqs:
    a: "Off-grid is much more complicated because you have no grid backup. You're sizing for multi-day outages and seasonal variation. You typically need 3-5 days of autonomy, which means a much larger battery. Don't attempt off-grid sizing without a professional, the math is totally different."
  - q: "Do I need to account for battery efficiency losses?"
    a: "Yes. Batteries are about 85-95% efficient round-trip (charge and discharge). That 1.25 multiplier I mentioned earlier covers that. If you're doing manual math, assume 10% loss, so a 10 kWh need requires about 11.1 kWh of battery storage to account for losses."
+lastmod: 2026-07-07
 ---
 
 The first time I sat down to size a battery bank for my own home, I stared at my utility bill for about twenty minutes waiting for it to tell me the answer. It didn't. Nobody tells you that the math here is backwards from what you'd think.
@@ -40,6 +41,12 @@ The second number nobody tells you: usable capacity isn't the same as nameplate 
 This distinction cost me about $15,000 in a conversation I overheard last year. A homeowner in my neighborhood got a quote for four Powerwalls to cover what she thought was her "backup power need." When we talked through it, she actually needed one and a half. The installer wasn't lying; she'd just done the math wrong.
 
 ## The Actual Calculation
+
+| Scenario | Night Usage | Safety Buffer | Usable Capacity Factor | Nameplate Battery Needed |
+| --- | --- | --- | --- | --- |
+| Basic winter night | 8.2 kWh | 1.25× | ÷ 0.85 | ~12 kWh |
+| With heat pump & sump pump | 10.8 kWh | 1.25× | ÷ 0.85 | ~16 kWh |
+| Pennsylvania example (recommended) | 10.8 kWh | 1.25× | ÷ 0.85 | 27 kWh (two Powerwalls) |
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

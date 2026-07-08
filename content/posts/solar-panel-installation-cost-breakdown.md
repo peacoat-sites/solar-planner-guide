@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 The average American homeowner gets three solar quotes and picks the middle one. It feels safe. But here's the real problem: most people have no idea what they're actually paying for, which means they can't tell if the middle quote is fair, inflated, or missing something critical. A $28,000 quote and a $19,000 quote for the "same" 8 kW system can both be legitimate, or one can be a complete rip-off. You won't know until you understand what's bundled into that number.
 
@@ -53,9 +53,16 @@ This is the honest part most installers won't advertise. Salesperson commissions
 
 ## National Averages and What to Actually Expect
 
+| System Size | Gross Cost (before ITC) | After 30% ITC | Typical Annual Output |
+|-------------|------------------------|---------------|-----------------------|
+| 5 kW | $14,000-$16,000 | $9,800-$11,200 | 6,000-7,500 kWh |
+| 8 kW | $22,400-$25,600 | $15,680-$17,920 | 9,600-12,000 kWh |
+| 10 kW | $28,000-$32,000 | $19,600-$22,400 | 12,000-15,000 kWh |
+| 12 kW | $33,600-$38,400 | $23,520-$26,880 | 14,400-18,000 kWh |
+
 Before the federal tax credit, the national average cost for a residential solar installation sits at roughly **$2.80 to $3.20 per watt** as of 2024. For a typical 8 kW system, that puts the gross cost between $22,400 and $25,600.
 
-The federal Investment Tax Credit (ITC), currently at 30% through 2032 per the Inflation Reduction Act, brings that same 8 kW system down to $15,680 to $17,920 after the credit is applied. That's not a rebate. It's a credit against your federal tax liability, so you need to actually owe taxes to use it.
+The [federal Investment Tax Credit](/solar-panel-roi-calculation/) (ITC), currently at 30% through 2032 per the Inflation Reduction Act, brings that same 8 kW system down to $15,680 to $17,920 after the credit is applied. That's not a rebate. It's a credit against your federal tax liability, so you need to actually owe taxes to use it.
 
 System size is the biggest lever on total price. Here's what the math looks like based on current national averages:
 

@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 Most homeowners get a solar quote, see the price tag, and think adding a battery will roughly double it. I've watched this assumption kill more solar projects than anything else. The truth is messier. Sometimes you'll spend more upfront than expected, but the real value might be far higher than simple math suggests. Let me show you what the numbers actually say.
 
@@ -54,6 +54,14 @@ That doesn't mean batteries are a bad deal. It means you need to be honest about
 Time-of-use rates change the entire picture. California's TOU-C or Arizona's time-of-use tariffs make battery economics work much faster. Storing cheap overnight solar and discharging during peak hours (often 4 to 9 p.m. at $0.40 to $0.55/kWh in some California utilities) genuinely cuts payback time. I've seen San Diego clients cut battery payback to under eight years using pure TOU arbitrage.
 
 ## System Size and Battery Sizing: The Decisions That Move the Cost Most
+
+| System Configuration | Estimated Cost (Pre-Incentive) | Best For |
+|---|---|---|
+| 6 kW solar only | $18,000 to $24,000 | Budget-conscious, good net metering |
+| 6 kW solar + 1 battery (13.5 kWh) | $28,000 to $38,000 | Partial backup, TOU optimization |
+| 8 kW solar + 1 battery | $33,000 to $44,000 | Most common residential setup |
+| 10 kW solar + 2 batteries (27 kWh) | $50,000 to $65,000 | Whole-home backup, EV charging |
+| 10 kW solar + 3 batteries | $60,000 to $80,000 | High usage, multi-day outage resilience |
 
 Most people fixate on brand choice when system sizing actually drives the budget. Here's how sizing decisions reshape your total cost:
 

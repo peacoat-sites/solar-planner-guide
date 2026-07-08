@@ -23,6 +23,7 @@ faqs:
     a: "A solar lease doesn't typically affect refinancing the way a PACE lien does, but it does complicate home sales. The buyer has to either assume the lease or you pay it off at closing. Lenders reviewing your refinance may count the lease payment as a liability. It's not disqualifying, but it adds paperwork and occasionally headaches."
   - q: "Is PACE financing actually worth it for bad credit borrowers?"
     a: "The research here is genuinely mixed. PACE makes solar accessible to people who have no other path, which is real value. But the interest rates are higher than conventional solar loans, the lien structure carries risks if you sell or refinance, and some states have passed consumer protection restrictions on PACE after complaints about aggressive sales practices. Go in knowing what you're agreeing to, especially the lien terms, before signing anything."
+lastmod: 2026-07-07
 ---
 
 Here's something most solar installers won't say out loud: a bad credit score doesn't automatically disqualify you from going solar. It makes things harder, yes. It costs you more, absolutely. But the path exists, and I've watched homeowners with scores in the low 600s get panels on their roofs for less than they were paying in utility bills.
@@ -45,6 +46,14 @@ The mistake I see constantly is homeowners calling one installer, getting quoted
 
 ## The Options, Ranked by Credit Friendliness
 
+| Financing Option | Credit Score Range | Interest Rate | Key Advantage | Main Risk |
+| --- | --- | --- | --- | --- |
+| PACE Financing | No minimum (equity-based) | 7-12%+ | No personal credit requirement | Lien transfers to new buyer; complicates sale/refinance |
+| FHA Title I Loans | 580-620+ (lender-dependent) | Varies | No equity required; up to $25,000 | Limited loan amounts |
+| Credit Union Personal Loans | Flexible (varies by union) | 10-12% | More flexible underwriting | Higher rates than conventional solar loans |
+| HELOC/Home Equity Loan | Flexible with collateral | 8-10% (variable) | Dramatically softens credit requirement | Rates variable; better rates available with good credit |
+| Solar Leases/PPAs | ~620+ | N/A ($/kWh rate) | Lowest credit threshold; no upfront cost | Forgo 30% federal tax credit; capped long-term savings |
+
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -57,9 +66,9 @@ The catch? PACE loans carry real risks. Interest rates run 7-12% or higher, and 
 
 **Credit unions.** This one changed my thinking after I spent some time digging into EnergySage's market data a couple of years back. Credit unions are structurally different from banks. They're nonprofits, they serve members, and they frequently carry personal loan products with more flexibility than you'd expect. I've seen credit union personal loans used to finance solar at 10-12% for borrowers who'd been turned down everywhere else. Not glamorous rates, but workable.
 
-**Secured personal loans or home equity products.** If you have equity, a HELOC or home equity loan lets you use your house as collateral, which dramatically softens the credit requirement. Current HELOC rates are variable and running around 8-10% depending on your lender and market conditions, which is not better than a good solar-specific loan, but it's accessible to more people.
+**Secured personal loans or home equity products.** If you have equity, a HELOC or [home equity loan](/home-equity-loan-for-solar-panels/) lets you use your house as collateral, which dramatically softens the credit requirement. Current HELOC rates are variable and running around 8-10% depending on your lender and market conditions, which is not better than a good solar-specific loan, but it's accessible to more people.
 
-**Leases and PPAs.** Here's where I see a lot of people land, and I have genuinely mixed feelings about it. Solar leases and power purchase agreements (PPAs) often have lower credit thresholds than loans, sometimes as low as 620, because the installer owns the panels and just charges you for the electricity they produce. You avoid the upfront cost entirely. But you also give up the federal Investment Tax Credit (currently 30% through 2032 under the Inflation Reduction Act), and your long-term savings are capped. It's a tradeoff, not a slam dunk.
+**Leases and PPAs.** Here's where I see a lot of people land, and I have genuinely mixed feelings about it. Solar leases and power purchase agreements (PPAs) often have lower credit thresholds than loans, sometimes as low as 620, because the installer owns the panels and just charges you for the electricity they produce. You avoid the upfront cost entirely. But you also give up the [federal Investment Tax Credit](/federal-solar-tax-credit-2026/) (currently 30% through 2032 under the Inflation Reduction Act), and your long-term savings are capped. It's a tradeoff, not a slam dunk.
 
 ---
 

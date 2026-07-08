@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 Most homeowners get exactly one solar quote, fall in love with the shiny renderings the salesperson shows them, and sign a contract within a week. I've watched this happen more times than I can count. And I get it, the rep was friendly, the financing seemed easy, and honestly, who has time to shop around? But that one-quote mistake routinely costs people $5,000 to $15,000 over the life of a system. I've seen the invoices. The spread between what different installers charge for the exact same system, same panel brand, same inverter, same roof complexity, can be $8,000 or more on a typical 8 kW install.
 
@@ -39,17 +39,25 @@ The EnergySage marketplace, which has collected millions of data points from rea
 
 ## How to Actually Get Multiple Quotes Without Wasting Three Weekends
 
+| Metric | EnergySage / Online Marketplace | Local Independent Installer |
+| --- | --- | --- |
+| **Installer Pool** | Large regional and national companies | Small local operations |
+| **Overhead Costs** | Higher (marketing, platform fees) | Lower |
+| **Price Competitiveness** | Standardized, transparent comparison | Flexible pricing, potential savings |
+| **Quote Detail Level** | Highly detailed, side-by-side dashboard | Varies by installer |
+| **Typical Savings vs. Single Quote** | ~20% (5+ quotes) | ~20% (5+ quotes) |
+
 Most advice on this topic fails where it matters most: it tells you to "get three to five quotes" without telling you how to do it without your phone blowing up with sales calls for the next six months.
 
 **Start with an online marketplace, but understand what it is.** EnergySage is the biggest and most transparent. You enter your address and utility info, and multiple pre-vetted installers submit competing quotes you can compare side-by-side in a dashboard. The quotes are detailed enough to actually compare: cost per watt, panel brand and wattage, inverter type, estimated production, payback period. I'd recommend starting here, not because it's perfect, but because it gives you a baseline that's hard to get otherwise. SolarReviews is another option worth a look, and Google's Project Sunroof can give you a rough production estimate before you talk to anyone.
 
 One thing to know: EnergySage installers pay to be on the platform, so the marketplace skews toward larger regional and national companies. That's not necessarily bad, but your local two-truck operation probably isn't on there.
 
-**Also get at least one quote from a local installer you find independently.** Ask a neighbor whose system you've noticed on their roof. Check the NABCEP (North American Board of Certified Energy Practitioners) installer lookup. Local companies often have lower overhead and more flexibility on price. I've seen cases where a local installer came in $4,000 under the EnergySage quotes for a comparable system, just because they didn't have the same marketing costs.
+**Also get at least one quote from a [local installer you find independently](/local-vs-national-solar-company/).** Ask a neighbor whose system you've noticed on their roof. Check the NABCEP (North American Board of Certified Energy Practitioners) installer lookup. Local companies often have lower overhead and more flexibility on price. I've seen cases where a local installer came in $4,000 under the EnergySage quotes for a comparable system, just because they didn't have the same marketing costs.
 
 **Be consistent about what you ask for.** This is where most people get tripped up. If you let every installer propose whatever they feel like, you'll end up comparing a 7.2 kW system with Enphase IQ8 microinverters against a 9.6 kW system with a SolarEdge string inverter, and the prices will mean nothing. Before your first quote, pull up a year's worth of electricity bills and figure out your annual kWh usage. Tell every installer you want to offset roughly X% of that usage, and ask them to quote using the same inverter type if possible, or at least explain their choice. You won't always get apples-to-apples, but you'll get close enough to compare.
 
-**Don't let "the deal expires Friday" rush you.** Every solar salesperson on earth has a Friday deadline. Some of them are real promotions. Most aren't. If an installer tells you a price is only good until the end of the week and you're still waiting on two other quotes, just say so. If they walk away over that, they've told you something important about how they'll treat you post-installation.
+**Don't let "the deal expires Friday" rush you.** Every [solar salesperson on earth](/solar-installer-red-flags-to-avoid/) has a Friday deadline. Some of them are real promotions. Most aren't. If an installer tells you a price is only good until the end of the week and you're still waiting on two other quotes, just say so. If they walk away over that, they've told you something important about how they'll treat you post-installation.
 
 ## What to Actually Look For When Comparing Quotes
 

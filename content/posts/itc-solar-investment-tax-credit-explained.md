@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 If you installed a solar system on your home last year and paid $20,000 for it, the federal government will hand you back $6,000 on your tax return. Not a deduction. Not a rebate check in the mail. A dollar-for-dollar reduction in what you owe the IRS. That's the solar Investment Tax Credit (ITC) in action, and it's one of the most valuable financial incentives available to American homeowners right now. Yet I've talked to dozens of people who either didn't claim it correctly, left money on the table, or passed on going solar because they didn't understand how it actually works. Let's fix that.
 
@@ -43,7 +43,7 @@ The solar Investment Tax Credit, now technically called the Residential Clean En
 
 Here's the critical distinction most people miss: a tax credit is not the same as a tax deduction. A deduction reduces your taxable income. A credit reduces your actual tax bill. You're in the 22% tax bracket and claim a $6,000 deduction? You save $1,320. Claim a $6,000 tax credit instead? You save $6,000. The difference matters.
 
-What the ITC isn't: it's not a check, it's not a rebate from your state government (though many states have their own incentives on top of this), and it doesn't come in the mail. The federal government issues it entirely through IRS Form 5695, applied against what you owe when you file.
+What the ITC isn't: it's not a check, it's not a rebate from your state government (though many states have their own incentives on top of this), and it doesn't come in the mail. The federal government issues it entirely through [IRS Form 5695](/irs-form-5695-solar-credit-instructions/), applied against what you owe when you file.
 
 ## What Costs Qualify for the 30% Credit
 

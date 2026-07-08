@@ -12,6 +12,7 @@ author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 slug: "how-demand-charges-are-rewriting-your-solar-roi-in-2026"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You got the quote from your solar installer: "With net metering, you'll pay off this system in nine years." You nodded, did the math in your head, and started filling out the paperwork. Then last week, you saw an email from your utility. Effective July 2026, there's a new charge on your bill. It's not based on how much electricity you use anymore. It's based on your peak demand during a 15-minute window.
 
@@ -22,6 +23,13 @@ This isn't happening in one corner of the country. Utilities from Nevada to Texa
 Here's what you need to know before you go solar, or before you assume your existing ROI math still holds.
 
 ## The Demand Charge Trap Is Already Here
+
+| Scenario | Annual Solar Savings | Demand Charges (Annual) | Net Benefit | Payback Period | IRR |
+| --- | --- | --- | --- | --- | --- |
+| Net Metering (Original) | $1,200 | $0 | $1,200 | 9 years | 8-10% |
+| Demand Charges Implemented | $1,200 | $340-$570 | $630-$860 | 12-13 years | ~5% |
+| Solar + Battery (no incentive) | $1,200 | $170-$285 | Minus $12k-$18k upfront | 16+ years | Below 5% |
+| Solar + Battery (with incentives) | $1,200 | $170-$285 | Varies by state rebate | 10-12 years | 6-8% |
 
 In March 2026, NV Energy filed a demand charge proposal that would fundamentally change how residential solar customers in Nevada get billed. Instead of netting out your solar production against your consumption, the utility would charge you based on your peak 15-minute usage window each month, regardless of whether solar was running.
 

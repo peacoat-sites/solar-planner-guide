@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 Square footage is almost irrelevant when sizing a solar system. I know that's not what you were hoping to hear, but it's true, and most of the "solar calculator" tools online are doing you a disservice by pretending otherwise.
 
@@ -39,13 +39,19 @@ According to the [U.S. Energy Information Administration via the Department of E
 
 For a 2,000 sq ft home specifically, I'd expect most people reading this to fall somewhere between 9,000 and 14,000 kWh annually.
 
-Once you have your annual kWh number, the basic sizing formula is straightforward: Take your annual kWh usage, divide by 365 to get your daily usage, then divide by the average number of "peak sun hours" your location gets per day. That gives you the raw kilowatts your system needs to produce. Multiply by 1.25 or so to account for real-world inefficiencies like panel degradation, inverter losses, and the fact that your roof isn't perfectly tilted toward the sun.
+Once you have your annual kWh number, the [basic sizing formula](/how-to-calculate-solar-panel-wattage-needs/) is straightforward: Take your annual kWh usage, divide by 365 to get your daily usage, then divide by the average number of "peak sun hours" your location gets per day. That gives you the raw kilowatts your system needs to produce. Multiply by 1.25 or so to account for real-world inefficiencies like panel degradation, inverter losses, and the fact that your roof isn't perfectly tilted toward the sun.
 
 Let's work through a concrete example. Say your home uses 12,000 kWh per year. That's about 32.9 kWh per day. If you live in Denver, which gets roughly 5.5 peak sun hours daily, you'd divide 32.9 by 5.5 to get 5.98 kW. Multiply by 1.25 and you're looking at roughly a 7.5 kW system.
 
 A solar installer in Phoenix doing the same math might land you at 6.5 kW because of the extra sun. A homeowner in Seattle might need 10 kW or more for the same household energy use. This is why I cringe when I see websites say "a 2,000 sq ft house needs an 8 kW system." That's only true for some 2,000 sq ft houses in some parts of the country.
 
 ## How Many Panels Does That Actually Mean?
+
+| System Size | Annual Usage | Daily Usage | Location | Peak Sun Hours | Panels (400W) | Roof Space Needed |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7.5 kW | 12,000 kWh | 32.9 kWh | Denver | 5.5 | 19 | 418 sq ft |
+| 6.5 kW | 12,000 kWh | 32.9 kWh | Phoenix | 6.0+ | 16 | 352 sq ft |
+| 10 kW | 12,000 kWh | 32.9 kWh | Seattle | 4.0 | 25 | 550 sq ft |
 
 Panel wattage has climbed significantly in the last few years. The most common residential panels right now are in the 380W to 430W range. High-efficiency options like the Maxeon 6 (440W) or SunPower's M-Series push up toward 440-450W, but you'll pay a premium for them.
 
@@ -63,7 +69,7 @@ A few factors can shift your ideal system size by 2-4 kW in either direction.
 
 **Shading.** A single large tree casting shade on even two or three panels between 10 AM and 2 PM can cut your system's output by 20-30%. Microinverters like those from Enphase, or DC power optimizers like SolarEdge, mitigate this significantly compared to old-school string inverters, but shading always costs you something. Be honest with yourself about your roof before you get deep into quotes.
 
-**Your electricity rate and whether it's time-of-use.** If your utility charges you different rates at different times of day, the economics of solar change. A higher on-peak rate makes solar more valuable if you're home during the day, and it also makes battery storage more attractive if you're not.
+**Your electricity rate and whether it's time-of-use.** If your utility charges you different rates at different times of day, the economics of solar change. A higher on-peak rate makes solar more valuable if you're home during the day, and it also makes [battery storage](/how-to-size-a-solar-battery-bank/) more attractive if you're not.
 
 **Battery storage.** This doesn't change how much solar you need to generate, but it changes how much of that generation you actually use yourself. A Tesla Powerwall 3 (13.5 kWh capacity) or an Enphase IQ Battery 5P lets you store midday production for evening use instead of sending it to the grid at a lower export rate. For homes with high evening loads, adding storage can justify a slightly larger array.
 

@@ -23,11 +23,11 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 Most people get this wrong before they even talk to an installer.
 
-They Google "how many solar panels do I need," find a calculator that spits out a number, and walk into a sales conversation already anchored to a figure that might be off by 30 percent. I've sat across from homeowners who were quoted systems ranging from 6 kW to 11 kW for the same house. That range isn't installer dishonesty (usually). It's what happens when the math starts from fuzzy inputs.
+They Google "how many solar panels do I need," find a calculator that spits out a number, and walk into a sales conversation already anchored to a figure that might be off by 30 percent. I've sat across from homeowners who were quoted systems ranging from 6 kW to 11 kW for the [same house](/what-size-solar-system-for-2000-sq-ft-home/). That range isn't installer dishonesty (usually). It's what happens when the math starts from fuzzy inputs.
 
 So let's do this right.
 
@@ -89,6 +89,13 @@ For Boston:
 Bigger jump. This is why cheap online calculators often lowball you by 20 percent. They ignore the derate factor, and suddenly your system underperforms compared to what you expected.
 
 ## From Kilowatts to Actual Panel Count
+
+| Location | Peak Sun Hours/Day | Daily Usage (29 kWh) | Raw System Size | With 0.80 Derate | Panel Count (400W) |
+| --- | --- | --- | --- | --- | --- |
+| Phoenix | 5.7 | 29 kWh | 5.09 kW | 6.36 kW | 16 panels |
+| Boston | 4.0 | 29 kWh | 7.25 kW | 9.06 kW | 23 panels |
+| Los Angeles | 5.5 | 29 kWh | 5.27 kW | 6.59 kW | 17 panels |
+| Seattle | 3.0 | 29 kWh | 9.67 kW | 12.08 kW | 30 panels |
 
 Converting to panel count from your target system size is simple: divide the system size in watts by the wattage of individual panels you're considering.
 

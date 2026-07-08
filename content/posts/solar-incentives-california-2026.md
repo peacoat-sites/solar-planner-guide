@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 California's electricity costs around 29 cents per kilowatt-hour as of early 2025. That's nearly double what most Americans pay. A solar system that takes 10 years to pay off in Ohio could be cash-positive in 6 or 7 years here in Sacramento or San Diego.
 
@@ -31,7 +31,7 @@ But here's what most installers gloss over: the incentive game shifted hard in 2
 
 ## What Changed After NEM 3.0 (And Why It Still Matters in 2026)
 
-The California Public Utilities Commission flipped the script in April 2023 with Net Energy Metering 3.0. Under the old NEM 2.0 rules, you got paid almost the full retail rate, 28 to 30 cents per kilowatt-hour, for any solar power you sent back to the grid. NEM 3.0 crushed that. Export rates dropped to roughly 5 cents per kilowatt-hour during midday hours, when your panels are pumping out the most power.
+The California Public Utilities Commission flipped the script in April 2023 with [Net Energy Metering 3.0](/net-metering-policy-by-state/). Under the old NEM 2.0 rules, you got paid almost the full retail rate, 28 to 30 cents per kilowatt-hour, for any solar power you sent back to the grid. NEM 3.0 crushed that. Export rates dropped to roughly 5 cents per kilowatt-hour during midday hours, when your panels are pumping out the most power.
 
 That's a gut punch if you were counting on running the meter backward.
 
@@ -41,7 +41,7 @@ Battery storage stopped being optional. It's basically the whole point now.
 
 ## The Federal Tax Credit: Still the Biggest Single Incentive
 
-The federal Investment Tax Credit is worth 30% of your entire system cost, including installation, equipment, and battery storage as long as the battery connects to solar or charges primarily from it. On a $25,000 system, that's $7,500 back on your federal taxes. A $35,000 system with a battery gets you $10,500.
+The [federal Investment Tax Credit](/federal-solar-tax-credit-2026/) is worth 30% of your entire system cost, including installation, equipment, and battery storage as long as the battery connects to solar or charges primarily from it. On a $25,000 system, that's $7,500 back on your federal taxes. A $35,000 system with a battery gets you $10,500.
 
 That 30% rate is locked in through 2032 under the Inflation Reduction Act. No cliff. No countdown. Congressional chatter in 2025 did introduce some uncertainty around future changes, which is exactly why a lot of homeowners are moving forward now rather than waiting. You can read the full breakdown on how to claim it in our [ITC solar investment tax credit explained](/itc-solar-investment-tax-credit-explained/) guide.
 
@@ -49,9 +49,18 @@ Here's where people trip up: it's a tax credit, not a refund. You need actual fe
 
 ## California-Specific Incentives Still Available in 2026
 
+| Incentive | Type | Amount/Value | Status in 2026 |
+| --- | --- | --- | --- |
+| Federal ITC | Tax Credit | 30% of system cost | Locked through 2032 |
+| SGIP (Equity Customers) | Rebate | $1,000/kWh storage | Available, priority funding |
+| SGIP (Non-Equity) | Rebate | $1,000/kWh storage | Available, tight funding |
+| Property Tax Exemption | Tax Exemption | No added value assessment | Active through 2026 |
+| Sales Tax Exemption | Tax Exemption | Not applicable | California taxes solar equipment |
+| NEM 3.0 Export Rate | Compensation | ~5 cents/kWh midday | Active (down from 28-30¢) |
+
 This is where the picture gets messier. California doesn't have a state solar tax credit. Never did. But several programs can still cut your costs meaningfully.
 
-**The California Solar Initiative closed years ago.** The main program that survived is the **Self-Generation Incentive Program (SGIP)**. It rebates battery storage systems, and in 2026 it prioritizes equity customers: low-income households, people in high fire-risk zones (Tier 2 and Tier 3 High Fire Threat Districts), and anyone who's gone through two or more Public Safety Power Shutoffs. If you qualify, rebates hit $1,000 per kilowatt-hour of storage. On a 10 kWh battery like a Tesla Powerwall 3 or Enphase IQ Battery 5P, that's $10,000.
+**The California Solar Initiative closed years ago.** The main program that survived is the **[Self-Generation Incentive Program (SGIP)](/utility-solar-incentive-programs/)**. It rebates battery storage systems, and in 2026 it prioritizes equity customers: low-income households, people in high fire-risk zones (Tier 2 and Tier 3 High Fire Threat Districts), and anyone who's gone through two or more Public Safety Power Shutoffs. If you qualify, rebates hit $1,000 per kilowatt-hour of storage. On a 10 kWh battery like a Tesla Powerwall 3 or Enphase IQ Battery 5P, that's $10,000.
 
 Non-equity customers can still apply. But funding is tight and waitlists are real. Check the SGIP portal or have your installer verify current funding status before you count on it.
 

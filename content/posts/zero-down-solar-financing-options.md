@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 Most people assume solar is out of reach because they can't write a $20,000 check. What if that assumption is costing them $200, $300, even $400 a month? I've watched homeowners delay solar for years waiting to "save up," while their utility bills kept climbing. The math never works in their favor.
 
@@ -32,6 +32,13 @@ Zero-down solar financing has become accessible enough that the upfront cost bar
 Here's the honest part: not all zero-down options are created equal. Some are genuinely good deals. Others are financial traps dressed up in green marketing. I've spent time analyzing the numbers on each, and what struck me was how wide the gap is between the best and worst options.
 
 ## The Four Zero-Down Solar Financing Options (And What They Actually Cost You)
+
+| Financing Option | Ownership | Tax Credit Eligible | Monthly Cost | Best For |
+| --- | --- | --- | --- | --- |
+| Solar Loan | You own system | Yes (30% ITC) | Often lower than old electric bill | Most homeowners; builds home equity |
+| Solar Lease | Company owns | No | Fixed monthly fee + escalator (1-3% annually) | No tax liability; roof needs replacement soon |
+| Power Purchase Agreement (PPA) | Company owns | No | Per kWh rate (below utility price) | No tax liability; performance risk mitigation |
+| PACE Financing | You own system | Yes (30% ITC) | Repaid via property tax bill | Poor credit; want ownership; available states only |
 
 There are four primary ways to go solar without putting money down: solar loans, solar leases, power purchase agreements (PPAs), and PACE financing. Each has a fundamentally different structure, and the one that's right for you depends on factors most installers won't mention unless you ask.
 
@@ -64,7 +71,7 @@ Leases and PPAs make sense if:
 - Your roof needs replacing in the next 5 years and you're not ready to commit
 - Your credit score doesn't qualify you for a competitive loan rate
 
-What surprised me is how often installers push leases on customers who'd clearly benefit more from a loan. Why? Because third-party ownership arrangements have historically been more profitable for installers and their financing partners. Data from SEIA shows that while loans now dominate the residential market at roughly 55% of new installations, leases and PPAs still account for about 25%, a share that includes many customers who probably didn't fully understand their alternatives.
+What surprised me is how often installers push leases on customers who'd clearly benefit more from a loan. Why? Because third-party ownership arrangements have historically been more profitable for installers and their financing partners. Data from SEIA shows that while loans now dominate the residential market at roughly 55% of new installations, [leases and PPAs](/solar-loan-vs-solar-lease-vs-ppa/) still account for about 25%, a share that includes many customers who probably didn't fully understand their alternatives.
 
 The escalator clause is the detail most people miss. Many leases include annual rate increases of 1 to 3% per year. If your lease payment starts at $120/month and escalates at 2.9% annually, you'll be paying around $190/month by year 20. That's still potentially below utility rates if electricity prices rise similarly, but it's not the "locked in savings" story you heard.
 

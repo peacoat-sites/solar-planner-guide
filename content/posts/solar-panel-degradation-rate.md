@@ -23,6 +23,7 @@ faqs:
    a: "A linear warranty guarantees a consistent annual minimum output floor throughout the warranty period. A stepped warranty only guarantees output at two or three checkpoints (e.g., year 10 and year 25), leaving gaps where the manufacturer isn't accountable for faster degradation in between. Linear is better."
  - q: "Can degradation be reversed or slowed down?"
    a: "No, degradation can't be reversed. You can slow it slightly by keeping panels clean (dirt and grime add thermal stress) and ensuring your system is properly grounded to prevent potential-induced degradation, but the underlying cell chemistry aging is irreversible. A well-installed, high-quality panel from a reputable manufacturer is your best defense before the system ever goes on the roof."
+lastmod: 2026-07-07
 ---
 Every solar panel on your roof is slowly dying. That's not a scare tactic, it's physics. The real question isn't whether degradation happens, it will, but how fast it happens, and whether the number your installer quoted is actually believable.
 
@@ -30,13 +31,21 @@ I've talked to hundreds of homeowners about this. What almost nobody realizes is
 
 ## What degradation actually means in dollars
 
-Panel degradation is straightforward: a panel loses power output over time. Your 400-watt panel won't produce 400 watts in year fifteen. The industry standard, backed by NREL research, sits around 0.5% per year for modern monocrystalline panels. That sounds trivial until you actually do the math.
+Panel degradation is straightforward: a panel loses power output over time. Your 400-watt panel won't produce 400 watts in year fifteen. The industry standard, backed by NREL research, sits around 0.5% per year for modern [monocrystalline panels](/monocrystalline-vs-polycrystalline-solar-panels/). That sounds trivial until you actually do the math.
 
 A 10-panel system producing 14,000 kWh annually loses roughly 70 kWh in year one alone. After 25 years, you're generating about 17% less than day one. At the current national average of $0.17/kWh, that's $300 a year in lost production by year 25. Just from slow, invisible attrition.
 
 The upside: most premium panels today are warrantied to 0.5% annual degradation or better. Panasonic and REC Group advertise 0.25% annually on their top-tier models. The downside: older panels, especially some polycrystalline units from the 2000s, degraded at 1% or more per year. I've seen 15-year-old systems where the output drop genuinely surprised the homeowner.
 
 ## Why some panels age faster than others
+
+| Panel Type | Typical Annual Degradation | Warranty Performance Example | Climate Impact |
+| --- | --- | --- | --- |
+| Modern monocrystalline (premium) | 0.25-0.5% | 98% year 1, 80%+ year 25 | Moderate in hot climates |
+| Modern monocrystalline (standard) | 0.5% | 98% year 1, 80% year 25 | Faster in hot climates |
+| Polycrystalline (2000s era) | 1%+ | Varies widely | Significantly faster |
+| Tier 1 manufacturers | 0.25-0.5% | Linear warranty common | Better heat tolerance |
+| Generic/import brands | 0.5-1%+ | Step warranty common | Less predictable |
 
 Heat is the worst offender. High temperatures accelerate thermal cycling, where panels expand and contract with temperature swings, stressing internal cell connections over time. Phoenix panels face more thermal stress than Portland panels, even though Portland gets fewer sunny days overall. NREL's field data proves this: hot climates show faster degradation than temperate ones.
 

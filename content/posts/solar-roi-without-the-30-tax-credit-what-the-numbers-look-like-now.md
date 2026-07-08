@@ -12,6 +12,7 @@ author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
 slug: "solar-roi-without-the-30-tax-credit-what-the-numbers-look-like-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most of the solar ROI calculators online will show you a payback period of 6 to 9 years. What they won't tell you is that those numbers are built on a tax credit that no longer exists.
 
@@ -25,7 +26,7 @@ I'll be honest: until I ran the numbers on a real 2026 system, I didn't fully ap
 
 A typical 7.5 kW residential system runs about $20,900 before incentives in 2026, according to current installer data compiled by Sustainability Atlas. Under the old 30% credit, a homeowner buying with cash or a loan could knock that down to roughly $14,600. Some installations came in closer to $13,000 depending on location and system size. That gap, somewhere between $6,000 and $8,000, is now completely gone for direct purchasers.
 
-The payback math changes dramatically. At an average electricity rate of around $0.16 per kWh nationally, a 7.5 kW system might generate $1,200 to $1,500 in annual savings depending on your location and net metering policy. At full price with no credit, you're looking at a payback period closer to 13 to 17 years before you've recovered your investment. That's not necessarily a deal-breaker, especially if your electricity rates are high or rising, but it's a completely different conversation than what most solar salespeople are walking homeowners through right now.
+The payback math changes dramatically. At an average electricity rate of around $0.16 per kWh nationally, a 7.5 kW system might generate $1,200 to $1,500 in annual savings depending on your location and [net metering policy](/how-to-size-a-solar-system-when-exporting-power-pays-almost-nothing/). At full price with no credit, you're looking at a payback period closer to 13 to 17 years before you've recovered your investment. That's not necessarily a deal-breaker, especially if your electricity rates are high or rising, but it's a completely different conversation than what most solar salespeople are walking homeowners through right now.
 
 ## State Incentives Have Gone From Nice-to-Have to Make-or-Break
 
@@ -48,6 +49,13 @@ The mechanism is this. Third-party solar ownership, meaning a company owns your 
 That's a real arbitrage. If your utility rate is $0.18 per kWh and a PPA offers you solar at $0.13, you're saving money from day one with zero upfront cost and zero credit needed. The downsides are real too: you don't own the system, you can't claim any incentives yourself, and selling your house with a solar lease attached is a known friction point. But for homeowners who were previously priced out of cash purchase, or who don't have a federal tax liability large enough to absorb a credit anyway (the old ITC required actual tax owed), a PPA deserves serious consideration in 2026 in a way it simply didn't before.
 
 ## Battery Storage Is Rising Anyway, and the Economics Are Shifting
+
+| Ownership Model | System Cost | Federal Credit Available | Typical Payback Period | Key Tradeoff |
+| --- | --- | --- | --- | --- |
+| Cash Purchase | $20,900 | None (as of Jan 2026) | 13-17 years | Full ownership, no incentives |
+| PPA/Lease | $0 upfront | 30% (passed to installer) | Day 1 savings | No ownership, can't claim incentives |
+| Battery + Solar System (third-party owned) | Varies | 30% (third-party) | Compressed vs. solar alone | Self-consumption focus |
+| Battery Standalone | Varies | None | N/A | No federal credit pathway |
 
 One data point from the BloombergNEF report genuinely surprised me: despite the overall market cratering, battery attachment rates are actually climbing. Forty percent of new residential solar systems installed in Q1 2026 included a battery, up from a 35% average across all of 2025.
 

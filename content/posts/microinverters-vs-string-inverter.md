@@ -23,6 +23,7 @@ faqs:
    a: "That panel stops producing. The rest of your system keeps running normally. You'll see the gap in your monitoring app and schedule a replacement. One failed microinverter on a 20-panel system costs you about 5% of your production while you wait for the repair. Not catastrophic."
  - q: "Does a string inverter failure take down my whole system?"
    a: "Yes. One box fails, all production stops. It's the main reliability argument against string inverters and the reason I lean toward SolarEdge's architecture (optimizer plus string inverter) for systems over 8kW. At least then you retain panel-level monitoring that tells you the inverter is the problem, not something else."
+lastmod: 2026-07-07
 ---
 
 Most solar articles treat the inverter choice as a footnote. Buy panels, pick a size, oh and also there's this inverter thing. That framing is backwards. The inverter is where your DC electricity becomes usable AC power, and the architecture you choose shapes your system's performance, monitoring granularity, maintenance costs, and warranty exposure for the next 25 years. Getting it wrong is expensive to fix.
@@ -62,6 +63,12 @@ For complex roof geometry, multiple roof faces, or any roof that isn't a clean s
 One more thing worth saying: microinverters carry 25-year warranties. Enphase backs theirs aggressively. The IQ8 has a strong field reliability record. You're not betting on a single box lasting two and a half decades; you're distributing that risk across individual units that are relatively inexpensive to replace one at a time.
 
 ## The SolarEdge Middle Option
+
+| System Type | Cost | Shading Tolerance | Monitoring | Warranty | Best For |
+| --- | --- | --- | --- | --- | --- |
+| String Inverter | $1,000-$1,500 lower | Poor (20-30% loss possible) | Aggregate output only | 12-25 years | Clean, unshaded south-facing roofs |
+| Microinverters | Baseline | Excellent (independent operation) | Panel-level data | 25 years | Shaded roofs, complex geometry, multiple orientations |
+| SolarEdge + Optimizers | Middle ground | Good (mitigated shading) | Panel-level data | 12-25 years | Moderate shading, cost-conscious, data priority |
 
 There's a third architecture most homeowners don't hear about until mid-consultation. SolarEdge uses string inverter topology but adds power optimizers to each panel. These DC optimizers handle panel-level maximum power point tracking and mitigate shading losses, without the full cost of individual microinverters.
 

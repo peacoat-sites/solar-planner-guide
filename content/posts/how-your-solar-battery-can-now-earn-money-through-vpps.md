@@ -12,6 +12,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 slug: "how-your-solar-battery-can-now-earn-money-through-vpps"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something big shifted in how home solar makes financial sense, and it happened in the last two weeks of June 2026. On June 24th, Sunrun, Tesla, and Renew Home announced a deal to build a 16 gigawatt virtual power plant, the largest in US history, by aggregating home batteries and smart thermostats to power data centers. Three hundred megawatts are ready to deploy right now in Virginia alone. If you've been sitting on the fence about adding a battery to your solar system, or wondering how solar even pencils out anymore without the federal tax credit, this is the news that changes the math.
 
@@ -35,6 +36,13 @@ The enrollment process varies by program. Some are run directly by utilities, ot
 
 ## Why 2026 Is the Year This Became a Primary ROI Lever
 
+| Metric | 2025 | Q1 2026 |
+| --- | --- | --- |
+| Battery attachment rate (BloombergNEF new residential solar) | 35% | 40% |
+| Battery attachment rate (Sunrun new customers) | - | 73% |
+| Projected US data center electricity demand by 2027 | - | 66 GW |
+| Largest US virtual power plant capacity announced (June 2026) | - | 16 GW |
+
 Let's be direct about what happened on January 1, 2026: the Section 25D residential solar tax credit expired. For years, that 30% federal tax credit was the single biggest financial reason to buy a solar-plus-battery system. It's gone now, at least for owner-purchased systems, and there's no legislation on the table to revive it. That changes the ROI conversation significantly.
 
 State incentives still exist in places like New York, Massachusetts, and Illinois. Net metering still works where utilities support it, though that's eroding in some markets. What's emerging to fill the gap, and what the Sunrun/Tesla deal has pushed into the mainstream, is VPP income. A battery that earns $800 to $1,200 a year in VPP payments starts to look very different on a payback spreadsheet than one that just sits in your garage providing backup power three times a decade.
@@ -47,7 +55,7 @@ This is where the practical question lands. If you're getting quotes today, batt
 
 A few things worth asking every installer you talk to: Is this battery brand eligible for VPP programs in my utility territory? Who manages enrollment? What's the estimated annual VPP payment based on local program history? Don't let an installer wave off the question with vague promises, the better ones can walk you through actual program terms from your local utility or an aggregator they work with.
 
-Also ask about battery ownership versus leasing. With a leased battery, Sunrun or another company may control VPP enrollment and keep a portion of the earnings. With an owned battery, you typically negotiate program terms directly or through an aggregator. Neither arrangement is inherently better, but you should know what you're agreeing to.
+Also ask about [battery ownership versus leasing](/solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system/). With a leased battery, Sunrun or another company may control VPP enrollment and keep a portion of the earnings. With an owned battery, you typically negotiate program terms directly or through an aggregator. Neither arrangement is inherently better, but you should know what you're agreeing to.
 
 ## The Grid Urgency Isn't Going Away
 

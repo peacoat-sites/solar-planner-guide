@@ -23,6 +23,7 @@ faqs:
     a: "In most states, no. The majority of states have solar property tax exemptions that prevent your solar installation from increasing your assessed property value for tax purposes, even though it typically does increase market value. Check your specific state's exemption status before assuming this applies to you."
   - q: "What's a realistic payback period for a solar installation today?"
     a: "Somewhere between 7 and 12 years for most U.S. homeowners using a loan, with cash purchases often hitting 6 to 9 years. High-sun states like Arizona, Texas, and California with strong utility rates tend toward the lower end. The national average, according to EnergySage data, has hovered around 8 to 9 years in recent years. After payback, you're generating essentially free electricity for the remaining life of the system."
+lastmod: 2026-07-07
 ---
 
 You're about to spend $25,000 to $40,000 on something you don't fully understand yet. That's not a criticism. That's just the reality of most solar decisions, and I say it because the financing piece is where I've watched smart, careful people make mistakes that cost them thousands over the life of a loan.
@@ -44,6 +45,11 @@ What a good calculator should show you:
 The most common mistake I see is people focusing only on that monthly payment number. If your solar loan payment is $175/month and your old electric bill was $180/month, that looks like a break-even. But if the loan is at 8.99% over 25 years, you're paying nearly double the system cost when you add up the interest. That's a different conversation entirely.
 
 ## The Numbers That Actually Matter: A Walkthrough
+
+| Financing Scenario | System Cost | Federal ITC (30%) | Net Cost | Loan Term | Interest Rate | Monthly Payment | Total Interest | Payback Period | 25-Year Lifetime Savings |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Scenario 1: Zero-down, standard term | $32,000 | $9,600 | $22,400 | 20 years | 6.99% | $174 | $19,500 | 9-10 years | Base |
+| Scenario 2: ITC applied to principal | $32,000 | $9,600 | $22,400 | 12 years | 5.49% | $205 | $7,800 | 7 years | +$11,000 |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

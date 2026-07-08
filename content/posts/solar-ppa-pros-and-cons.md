@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 You got a knock on the door, or maybe an email, from a solar company offering to put panels on your roof for free. No upfront cost, no equipment to buy, just sign here and start saving. It sounds almost too good to be true, which is exactly why you're here researching it before you commit. Good instinct. A solar Power Purchase Agreement, or PPA, is one of the most misunderstood financial products in residential energy, and the people selling them aren't always going to walk you through the parts that could complicate your life five years from now.
 
@@ -37,7 +37,7 @@ That's the key distinction most people miss. When you finance or pay cash for so
 
 The appeal is obvious. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) notes that PPAs and leases remove the barrier of upfront cost, which for a typical residential system can run $25,000 to $35,000 before incentives. For homeowners who don't have that cash or don't want a loan payment, a PPA can deliver real bill savings starting day one with zero capital required.
 
-The tradeoff is that you're giving up ownership, and with ownership goes the federal tax credit, the equity, and a lot of control.
+The tradeoff is that you're giving up ownership, and with ownership goes the [federal tax credit](/best-solar-financing-options/), the equity, and a lot of control.
 
 ## The Real Pros: Where PPAs Genuinely Shine
 
@@ -59,13 +59,23 @@ Here's where I need to be blunt.
 
 **The rate escalator can erode your savings.** Many PPAs include an annual escalator, typically 1-3%, written into the contract. Sounds small. But at 2.9% over 20 years, your per-kWh rate nearly doubles. If utility rates don't rise as fast as projected, or if technology makes solar cheaper (which it has, dramatically), you could end up paying above-market rates in the back half of your contract.
 
-**Selling your home gets complicated.** This is the one that surprises people most. If you want to sell your house with 14 years left on a PPA, you've got options: transfer the contract to the buyer (which requires buyer approval and credit qualification), buy out the system at fair market value (which the company sets, not you), or prepay the remaining contract balance. Buyers who don't understand solar can balk. Real estate agents have told me deals fall through over this. It's not common, but it happens.
+**[Selling your home gets complicated](/transferring-solar-lease-when-selling-home/).** This is the one that surprises people most. If you want to sell your house with 14 years left on a PPA, you've got options: transfer the contract to the buyer (which requires buyer approval and credit qualification), buy out the system at fair market value (which the company sets, not you), or prepay the remaining contract balance. Buyers who don't understand solar can balk. Real estate agents have told me deals fall through over this. It's not common, but it happens.
 
 **Output risk is yours.** You pay for the electricity the panels produce, per kilowatt-hour. If it's a cloudy year, you produce less and pull more from the grid at full utility rates. You're not guaranteed a specific production level in most PPAs.
 
 **You still have a lien on your title.** The solar company files a UCC financing statement against your property. It's not a mortgage lien, but it shows up in title searches and has to be resolved before closing on a sale. It's manageable, but it's paperwork and potential delay.
 
 ## PPA vs. Solar Loan vs. Cash Purchase: A Practical Comparison
+
+| Factor | PPA | Solar Loan | Cash Purchase |
+|---|---|---|---|
+| Upfront cost | $0 | $0 | $28,000 |
+| Federal tax credit (30%) | Goes to company | You keep it ($8,400) | You keep it ($8,400) |
+| Monthly payment | Per kWh rate | Fixed loan payment | None |
+| System ownership | No | Yes | Yes |
+| Maintenance responsibility | Company's | Yours | Yours |
+| Typical 20-year net savings | $10,000-$18,000 | $20,000-$35,000 | $30,000-$45,000 |
+| Home sale complexity | Moderate | Low | Low |
 
 Here's how the options actually stack up for a typical $28,000 residential system in a moderate-sun state:
 

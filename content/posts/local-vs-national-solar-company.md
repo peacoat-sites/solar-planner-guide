@@ -23,6 +23,7 @@ faqs:
    a: "Using a marketplace like EnergySage first is useful for getting a price benchmark and seeing multiple quotes in one place. But also contact one or two local installers directly who may not participate in those platforms. Some of the best smaller companies don't pay marketplace listing fees."
  - q: "How do I verify a solar installer is legitimate?"
    a: "Check their contractor license on your state's licensing board website, confirm they carry liability insurance and workers' comp, look at their BBB profile and Google reviews (focus on responses to negative reviews), and ask how many systems they've installed in your specific utility territory. If they can't answer that last question, that tells you something."
+lastmod: 2026-07-07
 ---
 
 Most people treat this decision like it's a minor logistical detail. Pick a company, sign the paperwork, get some panels on the roof. What I've found, after helping homeowners sort through hundreds of these quotes, is that who installs your system matters almost as much as the system itself.
@@ -30,6 +31,16 @@ Most people treat this decision like it's a minor logistical detail. Pick a comp
 I'll be honest: I came into this with a bias toward local installers. Smaller company, they care about their reputation in the community, you can drive by their office if something goes wrong. That story felt right. Then I started paying closer attention to the data.
 
 ## What the Numbers Actually Show
+
+| Aspect | Local Installers | National Installers |
+| --- | --- | --- |
+| Price per watt | Lower (baseline) | Higher by $0.20-$0.50/watt |
+| Utility interconnection knowledge | High (local expertise) | Variable (centralized permitting) |
+| Service response time | Fast (local crews) | Slower (call center routing) |
+| Financing options | Limited integration | Seamless (Mosaic, Sunlight Financial, GoodLeap) |
+| Customer communication infrastructure | Inconsistent | Standardized CRM and portals |
+| Company stability risk | Higher failure rate for small firms | Bankruptcy risk (e.g., SunPower 2024) |
+| Permitting speed | Days (experienced with local quirks) | Weeks (knowledge gaps on local variation) |
 
 EnergySage regularly publishes marketplace data, and one thing that consistently jumps out is the price gap. National installers, particularly the big publicly traded ones, tend to quote higher prices per watt than regional and local companies. The difference isn't trivial. We're often talking $0.20 to $0.50 per watt more, and on a 8 kW system, that's $1,600 to $4,000 in extra upfront cost for essentially the same equipment. The nationals justify this with brand recognition, financing options, and warranty programs. Sometimes those things are worth it. Often they aren't.
 

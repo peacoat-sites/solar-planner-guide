@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 My neighbor called me at 11 PM during a nor'easter two winters ago. Her house had solar panels, she'd been telling everyone about them for months, and now the grid was down and she was sitting in the dark. "I thought solar meant I'd have power," she said. I didn't have the heart to explain it right then, so I just brought over some candles.
 
@@ -42,6 +42,12 @@ A partial-home backup protects a dedicated "critical loads" panel, typically 4-8
 Here's something most people don't realize until they're buying: the inverter type matters as much as the battery itself. If you have a string inverter (one central inverter for all your panels, like older SolarEdge systems), backup capability gets more complicated and sometimes impossible without swapping equipment. Enphase microinverter systems with IQ8 microinverters can actually operate in "sunlight backup" mode without any battery at all, though only during daylight and at reduced capacity. That's genuinely unusual and worth knowing about if you're in early stages of choosing equipment.
 
 ## What a real battery system can and can't power
+
+| Battery Model | Capacity | Continuous Output | Typical Installed Cost |
+| --- | --- | --- | --- |
+| Tesla Powerwall 3 | 13.5 kWh | 11.5 kW | $12,000-$18,000 |
+| Enphase IQ Battery 5P | 5 kWh per unit | 3.84 kW per unit | ~$1,200/kWh installed |
+| Franklin Electric apower | 15.2 kWh | Not specified | ~$1,200/kWh installed |
 
 Let me give you actual numbers, because vague reassurances from a salesperson are useless.
 

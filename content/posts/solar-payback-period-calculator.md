@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 You just got a solar quote for $28,000. The salesperson mentions "about seven years" to pay it back, and you nod, unsure if that's actually true or what it even means. Here's the reality: payback period gets thrown around constantly in solar sales, and almost nobody explains it properly. Mess up the calculation and you'll spend the next decade watching your savings fall short of the brochure. Get it right, and you've got a solid, honest benchmark for one of the biggest home investments you'll make.
 
@@ -54,7 +54,7 @@ Also subtract state credits, utility rebates, local programs. EnergySage's data 
 **Annual Savings** gets genuinely complicated. Don't just copy last year's bill. Factor in:
 
 - How many kilowatt-hours (kWh) your actual system produces, which depends on roof angle, direction, shade, and your area's peak sun hours
-- Your utility's net metering policy. Full retail net metering means every kWh you send to the grid equals one you use. Reduced-rate or avoided-cost policies (increasingly common in California and Nevada) pay much less for exports, and that kills your payback
+- Your utility's [net metering policy](/net-metering-savings-explained/). Full retail net metering means every kWh you send to the grid equals one you use. Reduced-rate or avoided-cost policies (increasingly common in California and Nevada) pay much less for exports, and that kills your payback
 - Time-of-use rates, which help or hurt depending on when your panels produce versus when you consume power
 
 **Electricity Rate Escalation** is optional but realistic. U.S. electricity prices have risen about 2.5% annually on average according to the Department of Energy. Adding that in lets your projected savings grow year to year, shortening payback slightly. Conservative models use 2%, optimistic ones go 3.5%.
@@ -67,7 +67,7 @@ Here's how to work through this yourself, with or without a calculator.
 Grab 12 months of electric bills and total the kWh. Most utilities let you download this from their website. The U.S. average is about 10,500 kWh annually, though you might be at 7,000 or 15,000 depending on your home and region.
 
 **Step 2: Get a quote with production estimates.**
-A real installer should give you projected annual kWh output. PVWatts (free from NREL) lets you verify this independently. If a 9 kW system in Phoenix supposedly makes 16,000 kWh but you only use 12,000, you're oversizing and overpaying.
+A real installer should give you projected annual kWh output. [PVWatts (free from NREL)](/solar-savings-calculator/) lets you verify this independently. If a 9 kW system in Phoenix supposedly makes 16,000 kWh but you only use 12,000, you're oversizing and overpaying.
 
 **Step 3: Calculate net cost.**
 Start with the quoted price. Subtract 30% federal ITC (if you qualify). Subtract any state credits or rebates you've confirmed. Write it down.
@@ -82,6 +82,15 @@ Net cost over annual savings gives you payback in years. Build a second version 
 Solar panels are warrantied for 25 years performance. If payback is 11 years, you've got 14 years of nearly free electricity. That's your real profit window.
 
 ## Payback Period by Region: Real Numbers Across the U.S.
+
+| State | Avg. System Cost (10 kW, before ITC) | Avg. Rate ($/kWh) | Est. Payback Period |
+|---|---|---|---|
+| California | $27,000 | $0.28 | 7-9 years |
+| Texas | $24,000 | $0.13 | 11-14 years |
+| Massachusetts | $30,000 | $0.25 | 6-8 years |
+| Florida | $23,000 | $0.14 | 10-12 years |
+| Arizona | $22,000 | $0.13 | 9-11 years |
+| New York | $28,000 | $0.22 | 7-10 years |
 
 Geography hits harder than most people realize. Here's what typical payback looks like by state:
 

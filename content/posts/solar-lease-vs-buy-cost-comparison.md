@@ -16,7 +16,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 You've finally made the decision to go solar. Congratulations. But just when you thought the hard part was over, you've discovered there's another major decision waiting: should you lease your solar panels or buy them outright? If you've spent any time researching this question, you've probably encountered passionate advocates on both sides, confusing financial jargon, and more than a few sales pitches dressed up as objective advice.
 
@@ -43,6 +43,12 @@ Buying solar means you own the system outright. You can pay cash, or more common
 ---
 
 ## Breaking Down the Numbers: What Does Each Option Actually Cost?
+
+| Scenario | Upfront Cost (After ITC) | Monthly Payment | Total Cost Over 25 Years | Net Savings Over 25 Years | Payback Period |
+| --- | --- | --- | --- | --- | --- |
+| Cash Purchase | $16,800 | $0 | $16,800 | $38,000-$48,000 | 7-9 years |
+| Solar Loan (12-year, 5.99%) | $16,800 (after ITC applied) | $165-$180 | ~$20,300-$21,600 | $30,000-$40,000 | 8-10 years |
+| Solar Lease (20-25 year term) | $0 | $120-$150 | $48,000-$58,000 | $10,000-$18,000 | N/A (no ownership) |
 
 This is where most comparisons either get oversimplified or buried in so much complexity that readers give up. Let's use a realistic example: a 8 kW residential solar system in a mid-sized U.S. city.
 

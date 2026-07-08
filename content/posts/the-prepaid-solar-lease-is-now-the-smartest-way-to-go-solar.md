@@ -12,6 +12,7 @@ author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 slug: "the-prepaid-solar-lease-is-now-the-smartest-way-to-go-solar"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most solar coverage right now is either doom-and-gloom about the tax credit dying or cheerful nonsense about how "solar is still worth it!" Neither is useful. Here's what's actually happening: a financing structure that's been around for years just became, arguably, the best way to go solar in America. And it has a hard expiration date of July 4, 2026.
 
@@ -21,9 +22,15 @@ But the commercial Section 48E credit is still alive. Third-party ownership prov
 
 ## What a Prepaid TPO Lease Actually Is
 
+| Financing Structure | Upfront Cost | System Ownership | Credit Available | Timeline |
+| --- | --- | --- | --- | --- |
+| Direct Purchase | 100% | Immediate | Section 25D (30%) - **expires 12/31/2025** | Completed installations only |
+| Standard TPO Lease | $0 | Third-party (perpetual) | Section 48E (30%) claimed by provider | Ongoing |
+| Prepaid TPO Lease | ~70% of system cost | Third-party (6 years), then homeowner | Section 48E (30%) claimed by provider | Construction must start by 7/4/2026 |
+
 Standard solar leases have been around since the late 2000s. You pay nothing upfront, a company installs panels on your roof, and you pay them a monthly fee for power. The economics were often mediocre, and the ownership transfer terms ranged from fine to genuinely terrible.
 
-The prepaid variant is structurally different. You pay roughly 70% of the system cost upfront, either in cash or financed through a loan. The TPO provider owns the system for six years, during which they claim the Section 48E commercial credit. After that period, ownership transfers to you. As EnergySage's analysis of prepaid leases notes, this structure lets homeowners effectively capture credit value that's no longer available to direct system owners, since the provider prices the upfront cost to reflect the tax benefit they're receiving.
+The prepaid variant is structurally different. You pay roughly 70% of the system cost upfront, either in cash or financed through a loan. The TPO provider owns the system for six years, during which they claim the [Section 48E commercial credit](/solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system/). After that period, ownership transfers to you. As EnergySage's analysis of prepaid leases notes, this structure lets homeowners effectively capture credit value that's no longer available to direct system owners, since the provider prices the upfront cost to reflect the tax benefit they're receiving.
 
 Think of it this way: you're paying about 70 cents on the dollar for a system you'll own free and clear in six years. The provider gets the 30% credit, you get the discount. It's a clean arbitrage, and right now it's legal and available.
 
@@ -37,7 +44,7 @@ The solar industry has a long and embarrassing history of fake deadlines. "Hurry
 
 This one is different for two reasons. First, the residential credit is already gone. There's no percentage step-down to worry about. Second, the July 4 construction-start requirement for 48E isn't a sales pitch; it's an IRS standard requiring that a project either begin physical work on-site or incur at least 5% of total project costs before that date. TPO providers that miss it lose the ability to claim the credit on new projects entirely.
 
-EnergySage reported a 205% spike in homeowners working with solar installers in H2 2025 as people raced to beat the December 31 ITC deadline. That surge created installation backlogs. Installers who are already stretched thin in June 2026 now face a second qualifying deadline. If you're interested in a prepaid TPO arrangement, the practical window to get a contract signed, permitting initiated, and construction started before July 4 is measured in days, not weeks.
+EnergySage reported a 205% spike in homeowners working with solar installers in H2 2025 as people raced to beat the December 31 ITC deadline. That surge created installation backlogs. Installers who are already stretched thin in June 2026 now face a second qualifying deadline. If you're interested in a [prepaid TPO arrangement](/the-prepaid-solar-lease-explained-how-the-6-year-flip-works/), the practical window to get a contract signed, permitting initiated, and construction started before July 4 is measured in days, not weeks.
 
 ## The Equipment Catch Nobody's Advertising
 
@@ -47,7 +54,7 @@ Why does this matter to you? Because Chinese-manufactured equipment dominates th
 
 ## The Battery Question Is Worth Asking Separately
 
-BloombergNEF's June 15 report buried a number that deserves more attention: 40% of new residential solar systems in Q1 2026 were paired with batteries. That's up substantially from prior years, partly because battery incentives under 48E can stack with the solar credit when the system is designed correctly, and partly because grid reliability concerns are driving independent homeowner demand.
+BloombergNEF's June 15 report buried a number that deserves more attention: 40% of new residential solar systems in Q1 2026 were paired with batteries. That's up substantially from prior years, partly because [battery incentives under 48E](/how-your-solar-battery-can-now-earn-money-through-vpps/) can stack with the solar credit when the system is designed correctly, and partly because grid reliability concerns are driving independent homeowner demand.
 
 If you're entering a prepaid TPO arrangement, ask explicitly whether battery storage is included and whether the provider is claiming the storage credit separately. The FEOC battery threshold of 60% creates real constraints here; qualifying battery options are narrower than they were two years ago, and some providers are quietly dropping storage from TPO packages rather than sourcing compliant product. A solar system without storage installed in 2026 isn't wrong, but you should be making that choice consciously, not because your provider took the path of least resistance.
 

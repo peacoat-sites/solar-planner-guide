@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 Yes, solar panels can power a whole house off grid. But the version that installers pitch you conveniently skips the part where it gets expensive, complicated, and occasionally humbling.
 
@@ -59,7 +59,7 @@ A [home energy monitor like the Emporia Vue](https://www.amazon.com/dp/B084DQKJ6
 
 Panels get the attention. The other three components determine whether anything actually works.
 
-**Solar panels.** For off-grid systems, high-efficiency monocrystalline panels matter more than they do for grid-tied systems because you often don't have much roof or ground space and can't make up the difference with net-metering credits. REC, Panasonic, and SunPower consistently hit 22-23% efficiency, though tier-1 options from Jinko or LONGi at 20-21% cost less and perform just fine. On a 10kW system, you're installing roughly 22-28 panels depending on wattage per panel.
+**Solar panels.** For off-grid systems, high-efficiency monocrystalline panels matter more than they do for [grid-tied systems](/grid-tied-vs-off-grid-solar-system/) because you often don't have much roof or ground space and can't make up the difference with net-metering credits. REC, Panasonic, and SunPower consistently hit 22-23% efficiency, though tier-1 options from Jinko or LONGi at 20-21% cost less and perform just fine. On a 10kW system, you're installing roughly 22-28 panels depending on wattage per panel.
 
 **Battery storage.** This is where off-grid gets real. You need enough storage to cover multiple cloudy days, which means 2-4 days of autonomy for most climates. Lithium iron phosphate (LiFePO4) batteries are the current standard. A Tesla Powerwall 3 holds 13.5 kWh and costs around $9,200 installed. Enphase IQ batteries run similar numbers. For a home using 30 kWh per day that wants three days of backup, you're talking 10 Powerwalls or the equivalent. That's $90,000 in batteries alone, before a single panel goes up.
 

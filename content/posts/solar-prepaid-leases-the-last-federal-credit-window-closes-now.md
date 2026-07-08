@@ -12,6 +12,7 @@ author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 slug: "solar-prepaid-leases-the-last-federal-credit-window-closes-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 The deadline everyone in residential solar has been dreading just arrived. July 4, 2026 was the hard cutoff for third-party solar providers to safe-harbor their projects under Section 48E, the commercial investment tax credit that became the last remaining federal incentive for residential solar after Congress eliminated the consumer-facing 30% credit at the end of 2025. If you've been sitting on the fence about going solar, or if an installer has been pressuring you to sign quickly, here's what's actually happening and why the prepaid lease structure is suddenly the most hotly debated financing option in the industry.
 
@@ -24,6 +25,12 @@ What survived was Section 48E, a commercial clean energy credit that third-party
 So in practical terms: the federal incentive window for new residential solar projects is, for most purposes, closed.
 
 ## The Prepaid Lease: How It Actually Works
+
+| Financing Structure | Ownership | Tax Credit Claim | Typical Discount | Ownership Transfer |
+| --- | --- | --- | --- | --- |
+| Prepaid Lease (48E) | Third-party owner | TPO company claims 48E | 30-35% | After 6-year recapture |
+| Direct Purchase (25D) | Homeowner | Homeowner claims 25D | 30% (expired Dec 31, 2025) | Immediate |
+| Traditional Lease/PPA | Third-party owner | TPO company | Lower upfront cost | Never (20-year term) |
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

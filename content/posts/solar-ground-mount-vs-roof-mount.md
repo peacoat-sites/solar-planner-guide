@@ -23,6 +23,7 @@ faqs:
     a: "Yes, in virtually every jurisdiction. Ground mounts typically require both an electrical permit and a building permit for the foundation work, and some municipalities add specific zoning or setback requirements. Your installer should pull these, but it's worth asking explicitly and confirming they've checked local codes before you sign a contract."
   - q: "Can I add panels to a ground mount later if I want more capacity?"
     a: "Often yes, but it depends on whether your inverter has headroom and whether the original racking was sized for expansion. If you think you might want to grow your system (say, after adding an EV), tell your installer at the start. Designing for future expansion upfront is much cheaper than retrofitting later."
+lastmod: 2026-07-07
 ---
 
 Most people assume this is a simple question. It's not.
@@ -54,6 +55,13 @@ Ground mounts also win decisively when your roof is older or in poor condition. 
 Flat roofs are a separate conversation. You can absolutely solar a flat roof with ballasted racking, but the tilt angle typically gets compromised for wind load reasons, which affects production. In that case, a ground mount with a proper fixed tilt often beats the ballasted flat-roof system, especially in higher latitudes where tilt angle matters more.
 
 ## When Roof Mounts Are the Smarter Call
+
+| Scenario | Roof Mount Cost | Ground Mount Cost | Annual Production Gain | Payback Period |
+| --- | --- | --- | --- | --- |
+| Well-sited south-facing roof, minimal shading, 8+ year-old shingles | ~$29,000 | ~$34,200 | Baseline | 8.2 years (roof) |
+| Suboptimal azimuth + afternoon tree shade | Higher (with shade loss) | ~$32,200 | 1,800 kWh/year | <14 years (ground) |
+| Roof with 5-8 years remaining lifespan | $29,000 + roof replacement | ~$34,200 | Baseline | Longer (roof replacement cost) |
+| Flat roof with ballasted racking | ~$29,000 | ~$34,200 | Reduced (compromised tilt) | Longer (roof) |
 
 For most homeowners, the roof mount wins. Not because it's better in some abstract sense, but because the economics just work out. If you've got a south-facing roof, relatively new shingles (10-plus years of life remaining), minimal shading, and sufficient square footage for the system size you need, you will almost certainly get a faster payback on the rooftop system because of the lower upfront cost.
 

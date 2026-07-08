@@ -23,11 +23,11 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 Your utility company probably hasn't sent you a letter about this. They rarely do. But quietly, over the last three years, net metering rules have been rewritten in a dozen states, and a lot of homeowners who went solar expecting a certain payback period are now doing the math again.
 
-I've been watching this happen since California's NEM 3.0 rollout in April 2023, which cut the average export compensation rate by roughly 75% compared to NEM 2.0. Seventy-five percent. Homeowners who installed in 2021 under the old rules locked in compensation around $0.30 per kWh exported. New installations under NEM 3.0 are getting paid something closer to $0.08. That's not a rounding error. That's a fundamentally different financial calculation.
+I've been watching this happen since [California's NEM 3.0 rollout](/california-nem-30-explained/) in April 2023, which cut the average export compensation rate by roughly 75% compared to NEM 2.0. Seventy-five percent. Homeowners who installed in 2021 under the old rules locked in compensation around $0.30 per kWh exported. New installations under NEM 3.0 are getting paid something closer to $0.08. That's not a rounding error. That's a fundamentally different financial calculation.
 
 If you're researching solar right now, or you installed recently and want to understand what changed, this is the article I wish someone had written before I spent hours on utility commission websites piecing it all together.
 

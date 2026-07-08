@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 Your neighbor's lights are on. Yours aren't. You both have solar panels on the roof, but during yesterday's grid outage, his system kept running and yours went dark within seconds. The difference wasn't the panels. It was the battery.
 
@@ -65,11 +65,18 @@ A solar-plus-storage system costs significantly more than solar alone. According
 
 The 30% federal Investment Tax Credit (ITC) now applies to standalone battery storage systems, not just batteries purchased with solar. That changed with the Inflation Reduction Act in 2023. A $12,000 battery installation becomes $8,400 after the credit. Many states layer on additional incentives. California's SGIP program, for example, can rebate $200 per kWh or more for qualifying low-income or high-fire-risk households.
 
-Here's the hard part: batteries don't save you money the way solar panels do. Their financial value comes from three places: time-of-use arbitrage (charging cheap, discharging during peak rate hours), demand charge reduction for homes on those rate structures, and backup value, which is real but hard to quantify on a spreadsheet.
+Here's the hard part: [batteries don't save you money](/solar-battery-storage-worth-it/) the way solar panels do. Their financial value comes from three places: time-of-use arbitrage (charging cheap, discharging during peak rate hours), demand charge reduction for homes on those rate structures, and backup value, which is real but hard to quantify on a spreadsheet.
 
-I've seen clients in areas with frequent outages treat the battery cost almost like insurance. If you lose $3,000 worth of inventory in a home-based business during a single extended outage, the math shifts quickly. If you're in Phoenix with reliable grid power and no time-of-use rates, the financial case for batteries is weaker.
+I've seen clients in areas with frequent outages treat the [battery cost almost like insurance](/off-grid-solar-battery-system-cost/). If you lose $3,000 worth of inventory in a home-based business during a single extended outage, the math shifts quickly. If you're in Phoenix with reliable grid power and no time-of-use rates, the financial case for batteries is weaker.
 
 ## Comparing the Top Home Battery Systems
+
+| Battery | Usable Capacity | Power Output (Continuous) | Warranty | Approx. Cost (Installed, 1 Unit) |
+|---|---|---|---|---|
+| Tesla Powerwall 3 | 13.5 kWh | 11.5 kW | 10 years / 70% capacity | $13,000 to $16,000 |
+| Enphase IQ Battery 5P | 5 kWh | 3.84 kW | 15 years / 70% capacity | $7,000 to $9,000 |
+| SolarEdge Home Battery | 9.7 kWh | 5 kW | 10 years / 70% capacity | $9,000 to $12,000 |
+| Franklin Electric aPower 2 | 13.6 kWh | 10 kW | 12 years / 70% capacity | $13,000 to $15,000 |
 
 Not all batteries are created equal. Here's a direct comparison of the most commonly installed options:
 

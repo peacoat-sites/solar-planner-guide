@@ -12,6 +12,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 slug: "off-grid-solar-battery-system-cost"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most people who ask me about off-grid solar expect a simple answer. They're usually shocked when I tell them that the battery system alone, before you count a single solar panel, can easily run $15,000 to $50,000 for a full-size home. That number isn't a scare tactic. It's just math, and I think more homeowners deserve to hear it up front.
 
@@ -38,6 +39,12 @@ Flooded lead-acid is still cheaper upfront. A 48-volt, 600 amp-hour flooded lead
 The one scenario where I'd still consider AGM: a small seasonal cabin where the system is lightly used and you genuinely don't want to think about lithium's upfront hit.
 
 ## Real System Costs at Different Scales
+
+| System Type | Battery Capacity | Inverter Cost | Total Installed Cost | Best For |
+| --- | --- | --- | --- | --- |
+| Small cabin | 10-15 kWh | $300-$800 | $6,000-$10,000 | Lights, outlets, minimal loads |
+| Full-time rural home | 60-90 kWh | $1,500-$4,000 | $40,000-$80,000 | Central HVAC, normal American loads |
+| Large/premium build | 90+ kWh | $2,500-$6,000+ | $80,000-$95,000+ | 3,000+ sq ft, high redundancy |
 
 Rather than give you a vague range, let me break this down by actual use case, because "off-grid solar" covers everything from a weekend hunting cabin to a 2,500-square-foot family home.
 

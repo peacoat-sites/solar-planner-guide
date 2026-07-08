@@ -12,6 +12,7 @@ author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
 slug: "plug-in-solar-for-renters-what-the-new-state-laws-mean-for-you"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 If you rent your home, you've probably watched the solar conversation happen around you for years. Homeowners get the tax credits, the rooftop panels, the lower bills. You get nothing, because you don't own the roof. That's been the reality for roughly 35% of Americans, and it's a real gap in how this country has rolled out clean energy. Something shifted last week, though, and it's worth paying attention to.
@@ -27,6 +28,14 @@ New Jersey's new law permits systems up to 1,200 watts AC, which is roughly thre
 As PlugInSolarUS noted after the bill passed, this framework protects tenants in a way no prior state law has done as explicitly. Previous legalizations in other states largely addressed what utilities could or couldn't prohibit. This one goes straight at the landlord-tenant dynamic.
 
 ## Do the Numbers Actually Work for Renters?
+
+| Scenario | System Size | Annual Generation | Annual Savings | System Cost | Payback Period |
+| --- | --- | --- | --- | --- | --- |
+| Mid-range setup, New Jersey | 800W | ~1,094 kWh | ~$225 | $600 | 4-6 years |
+| 3-year tenancy, New Jersey | 800W | ~3,282 kWh | ~$675 | $600 | 0.9 years (50% recovered) |
+| 5-year tenancy, New Jersey | 800W | ~5,470 kWh | ~$1,125 | $600 | Break-even + positive |
+| Low-end system | - | - | - | $300 | Varies by use |
+| High-end system | - | - | - | $1,500 | Varies by use |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

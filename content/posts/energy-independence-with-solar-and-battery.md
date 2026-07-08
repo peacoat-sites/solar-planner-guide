@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 It's 2 a.m. during a winter storm and your neighborhood goes dark. Your neighbors are scrambling for flashlights, the heat's cut out, and someone's insulin is sitting in a refrigerator that stopped running an hour ago. Your house, though? Lights on. Fridge humming. You slept through the whole thing.
 
@@ -57,11 +57,18 @@ For monitoring how your system is actually performing day to day, a home energy 
 
 ## The Real Cost Breakdown (and Where the Savings Actually Come From)
 
+| Component | Typical Cost Range | Notes |
+| --- | --- | --- |
+| Grid-tied solar only (2,000 sq ft home) | $15,000-$25,000 | Before federal tax credit |
+| One battery unit (Powerwall or equivalent) | $10,000-$15,000 | Adds storage capability |
+| Solar-plus-storage system combined | $25,000-$40,000 | Before incentives |
+| Federal Investment Tax Credit (ITC) | 30% of system cost | Available through 2032; example: $10,500 on $35,000 system |
+
 Let's talk numbers honestly. This is where I see people get burned by overly optimistic sales pitches.
 
 A typical grid-tied solar-only system for a 2,000-square-foot home runs between $15,000 and $25,000 before the federal tax credit. Add one battery unit (like a Powerwall or Enphase IQ Battery 5P) and you're looking at roughly $10,000 to $15,000 more. So a solar-plus-storage system lands somewhere in the $25,000 to $40,000 range for most homeowners.
 
-The 30% federal Investment Tax Credit (ITC), extended through 2032 under the Inflation Reduction Act, applies to both solar and battery components when the battery is charged by solar. On a $35,000 system, that's $10,500 back against your federal tax liability. Real money, but it only works if you have sufficient tax liability to claim it. Retirees with little tax liability may need to spread the credit over multiple years or explore financing options.
+The 30% federal Investment Tax Credit (ITC), extended through 2032 under the Inflation Reduction Act, applies to both solar and battery components when the [battery is charged by solar](/solar-panels-with-heat-pump/). On a $35,000 system, that's $10,500 back against your federal tax liability. Real money, but it only works if you have sufficient tax liability to claim it. Retirees with little tax liability may need to spread the credit over multiple years or explore financing options.
 
 Where does the payback come from? Three places.
 

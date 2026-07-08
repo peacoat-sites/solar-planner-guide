@@ -23,13 +23,19 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 Picture this: you just pulled into your driveway after a long day, plugged in your new EV, and watched your electricity meter spin like a slot machine. Your neighbor mentioned solar panels might help, but you're not sure if it's real math or just good marketing. I've been in that driveway conversation more times than I can count, and I'm here to tell you the answer is genuinely yes, but only if you size the system right and understand what you're actually buying.
 
 Let's get into it.
 
 ## How Much Power Does an EV Actually Consume?
+
+| Charger Type | Voltage | Power Output | Range Added Per Hour | Best For |
+| --- | --- | --- | --- | --- |
+| Level 1 | 120V | ~1.4 kW | 4-5 miles | Low-mileage drivers, emergency backup |
+| Level 2 | 240V | 7-11 kW | Full overnight charge | Daily EV charging, solar integration |
+| Level 3 (DC Fast) | 480V | 50-350 kW | 200+ miles | Long-distance travel, commercial use |
 
 This is where most homeowners start getting vague answers, so let's put real numbers on the table.
 

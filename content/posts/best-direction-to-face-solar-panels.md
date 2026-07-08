@@ -23,6 +23,7 @@ faqs:
    a: "Yes, and you should. Open Google Maps, search your address, switch to satellite view, and use the compass overlay. You can also stand in your backyard at solar noon (roughly 12:30-1 p.m. local time) and watch where shadows fall. A proper compass app on your phone will give you your roof's azimuth in seconds."
  - q: "Does panel direction affect how fast they pay for themselves?"
    a: "Directly, yes. A well-oriented south-facing system in a sunny state like Arizona typically pays back in 6-8 years on a 25-year panel lifespan. A poorly oriented or partially shaded system might be 11-13 years, which changes the math significantly on whether solar makes sense without battery storage or strong incentives."
+lastmod: 2026-07-07
 ---
 
 My neighbor across the street got a quote last spring, signed off on a west-facing roof installation without asking a single question about orientation, and is now generating about 15% less power than she would have with a south-facing array. Her installer never brought it up. That's the situation I want to save you from.
@@ -30,6 +31,13 @@ My neighbor across the street got a quote last spring, signed off on a west-faci
 Panel direction is the single biggest fixed variable in your system's output. You can add batteries, upgrade inverters, shop for lower electricity rates. You cannot cheaply re-aim 20 panels bolted to your roof. So let's get this right before anything else.
 
 ## South is the default, and it's almost always the best
+
+| Azimuth Range | Direction | Output vs. South-Facing | Notes |
+| --- | --- | --- | --- |
+| 180° | Due South | 100% (optimal) | Best year-round performance in northern hemisphere |
+| 135°-225° | SE to SW | 90-95% | Within 5-10% of maximum; acceptable range |
+| 90° | Due East | 80-85% | 15-20% loss in places like Denver or Atlanta |
+| 270° | Due West | 80-85% | 15-20% loss annually, but may align with TOU peak rates in some states |
 
 In the northern hemisphere, the sun arcs through the southern sky. A panel facing due south (180° azimuth) sees the most cumulative sunlight over the course of a year. That's not an opinion, it's geometry. National Renewable Energy Laboratory (NREL) modeling consistently shows south-facing arrays at the optimal tilt outperforming any other fixed orientation by a meaningful margin in most U.S. climates.
 

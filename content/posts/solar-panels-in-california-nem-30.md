@@ -23,13 +23,21 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 If you've been sitting on the fence about going solar in California, I'll be honest: the window you missed in 2022 was genuinely great, and what replaced it is genuinely worse. That's not a scare tactic. It's just the math.
 
 NEM 3.0, officially called Net Billing Tariff (NBT), went into effect on April 15, 2023 for California's three big investor-owned utilities: PG&E, SCE, and SDG&E. It replaced NEM 2.0, the policy that made California the country's largest solar market for over a decade. And the change is substantial enough that it's worth understanding before you sign a single installer quote.
 
 ## What NEM 2.0 Actually Was (And Why Losing It Stings)
+
+| Metric | NEM 2.0 | NEM 3.0 |
+| --- | --- | --- |
+| Export Credit Rate | ~$0.40-$0.50/kWh (summer, typical SDG&E) | $0.04-$0.08/kWh (midday); $0.15-$0.30/kWh (evening peak) |
+| Payback Period | 5-7 years | 10-14 years |
+| Export Credit Change | Baseline | ~75% reduction |
+| Self-Consumed Power Value | ~Retail rate | Full retail rate ($0.35-$0.50/kWh) |
+| Policy Focus | High export credits | Battery storage & load shifting |
 
 Under NEM 2.0, the deal was simple and good. You sent excess solar electricity to the grid, and the utility credited you at roughly the retail rate you'd otherwise pay for that power. On a typical SDG&E plan, that meant earning somewhere around $0.40 to $0.50 per kWh for surplus solar in summer. The payback period on a California solar system hovered around 5 to 7 years for most households, and the 25-year ROI made solar one of the better investments a homeowner could make, full stop.
 

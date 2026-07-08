@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 Most solar shoppers spend weeks obsessing over panel brands and installation quotes, then barely glance at the three words that'll actually determine whether their system pays off: net metering policy.
 
@@ -45,13 +45,19 @@ What surprised me digging into actual billing mechanics is how much variation ex
 
 ## How the Credit Rate Changes Everything
 
+| Policy Type | Credit Rate | Example (at $0.14/kWh) | Impact on Payback |
+| --- | --- | --- | --- |
+| Full Retail-Rate Net Metering | Equals retail rate | $0.14/kWh export credit | ~6 years (California NEM 2.0) |
+| Avoided Cost Compensation | Wholesale rate | $0.03-$0.06/kWh export credit | 9-12 years (California NEM 3.0) |
+| Net Metering with Grid Access Fees | Retail rate minus fixed monthly charge | $0.14/kWh minus $15-$50/month | Extends payback by 1-2 years |
+
 Under full retail-rate net metering, which is what many states mandated for years, the credit you earn for exporting a kilowatt-hour equals exactly what you'd pay to import one. If your utility charges $0.14/kWh, you get a $0.14 credit for every kWh you export. Clean math. Favorable.
 
 Under that structure, it doesn't much matter when you use electricity. Export during the day, import at night, exchange at 1:1. The grid acts as a free battery.
 
 A growing number of states and utilities have moved to "avoided cost" compensation instead. Here's where it gets ugly. Exports are credited at the utility's wholesale rate, which often runs $0.03 to $0.06 per kilowatt-hour. You're exporting power but earning a fraction of what it costs to buy it back. A basic rooftop system without battery storage becomes considerably less attractive financially.
 
-California's NEM 3.0, which went live in April 2023, is the most visible example of this shift. The new structure cut average export rates by roughly 75% compared to NEM 2.0, according to reporting from multiple California solar advocacy groups. The CPUC's own analysis projected that solar payback periods in the state would stretch from around 6 years to somewhere between 9 and 12 years for typical systems. That's a real hit, and it sent a clear signal to the rest of the country that full retail-rate net metering isn't guaranteed.
+[California's NEM 3.0](/california-nem-30-explained/), which went live in April 2023, is the most visible example of this shift. The new structure cut average export rates by roughly 75% compared to NEM 2.0, according to reporting from multiple California solar advocacy groups. The CPUC's own analysis projected that solar payback periods in the state would stretch from around 6 years to somewhere between 9 and 12 years for typical systems. That's a real hit, and it sent a clear signal to the rest of the country that full retail-rate net metering isn't guaranteed.
 
 This is exactly the kind of thing installers sometimes gloss over when they're showing you the 25-year savings projection. Always ask: what credit rate is baked into that calculation?
 

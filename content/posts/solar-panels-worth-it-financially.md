@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 The average American homeowner installing solar in 2024 pays around $30,000 before incentives, or roughly $18,000 after the 30% federal tax credit. That's a serious chunk of money. Yet installers will hand you a glossy brochure showing you "saving $50,000 over 25 years" without mentioning that the math is built on assumptions that may not apply to your house, your utility, or your financial situation. I've seen clients sign contracts based on projections that fell apart within two years. I've also seen clients who absolutely knocked it out of the park. The difference wasn't luck. It was knowing which questions to ask upfront.
 
@@ -57,11 +57,22 @@ California's NEM 3.0, which took effect in April 2023, slashed the export credit
 
 A south-facing roof with a pitch between 15 and 40 degrees and no shading is ideal. Deviations cost you production. West-facing roofs typically produce 10 to 15% less than south-facing. A roof with partial shading from trees or chimneys can cut output dramatically, especially without microinverters or power optimizers. And if your roof is 15 years old, you need to factor in the cost of removing and reinstalling the panels when you re-roof. That job runs $2,000 to $4,000 and is rarely mentioned in a sales pitch.
 
-**How you pay for it**
+**[How you pay for it](/solar-lease-vs-buy-cost-comparison/)**
 
 Cash is king here. Loans look attractive but tack on thousands in interest. A $18,000 system financed at 7.99% over 20 years (common for solar loans) actually costs you over $30,000 total. Lease and power purchase agreement (PPA) options avoid upfront cost but forfeit most of the financial upside and can complicate home sales.
 
 ## What Real Payback Periods Look Like by Region
+
+| State | Avg. After-Incentive Cost | Avg. Annual Savings | Est. Payback Period |
+|---|---|---|---|
+| Massachusetts | $17,400 | $2,800 | 6.2 years |
+| California (pre-NEM 3.0) | $16,800 | $3,100 | 5.4 years |
+| California (NEM 3.0, no battery) | $16,800 | $1,600 | 10.5 years |
+| Texas | $15,200 | $1,900 | 8.0 years |
+| Florida | $14,900 | $2,100 | 7.1 years |
+| Louisiana | $14,200 | $950 | 14.9 years |
+| New York | $17,100 | $2,600 | 6.6 years |
+| Arizona | $15,500 | $2,400 | 6.5 years |
 
 This table uses typical system sizes, local rates, and average sun hours from [NREL's PVWatts tool](https://www.nrel.gov/), with after-incentive costs based on EnergySage 2024 data:
 

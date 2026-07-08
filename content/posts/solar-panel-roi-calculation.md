@@ -23,11 +23,18 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 A solar salesperson tells you the system will pay for itself in 6 years. Sounds great. Then you ask how they got that number and get something about "average savings" with zero real backing. I've watched clients get quotes promising 8-year paybacks that, once we ran actual numbers, landed closer to 14 years. The gap wasn't dishonesty so much as sloppy math and wishful thinking. This guide shows you how to do it yourself, honestly, so you know what you're actually signing up for.
 
 ## What Solar ROI Actually Means (And What It Doesn't)
+
+| Metric | Phoenix (High Sun) | Seattle (Low Sun) | Impact on ROI |
+|--------|-------------------|------------------|---------------|
+| Peak Sun Hours/Day | 5.8 | 3.9 | Higher production = faster payback |
+| Annual Production (7 kW) | 10,000-10,500 kWh | 7,200-7,500 kWh | 38% difference in Year 1 savings |
+| Electricity Rate | ~13¢/kWh | ~16¢/kWh | Higher rates accelerate payback |
+| Typical Payback Period | 8-10 years | 12-15 years | Location dominates ROI timeline |
 
 Solar ROI isn't stock market ROI. When someone claims solar delivers a "20% ROI," they usually mean the system generates enough savings to return 20% of its original cost annually. That framing hides a lot.
 
@@ -55,7 +62,7 @@ Multiply your system size in kilowatts by what NREL calls "peak sun hours" for y
 
 Look at your last 12 months of bills, not just the most recent one. Divide total dollars paid by total kWh consumed. Include all delivery and distribution charges, not just the energy supply line. Most homeowners who actually do this discover their real all-in rate runs 15–30% higher than the advertised rate. The national average hit around 16 cents/kWh in 2023, but ranged from 10 cents in parts of the South to 30+ cents in Hawaii and coastal New England.
 
-**4. Annual electricity rate escalation**
+**4. [Annual electricity rate escalation](/solar-cost-vs-electricity-bill-savings/)**
 
 Utilities never keep rates flat. U.S. residential electricity prices have climbed roughly 2–3% yearly over the past two decades. Your solar system locks in a fixed "fuel cost" of zero, so every rate hike your utility announces means bigger savings for you. Over a 25-year system life, this compounds hard.
 

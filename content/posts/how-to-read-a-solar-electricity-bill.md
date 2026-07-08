@@ -23,6 +23,7 @@ faqs:
    a: "A true-up is the annual settlement date when your utility adds up all your credits and charges for the year and either bills you the difference or pays out a surplus. Missing your true-up details can mean unused credits simply expire, so knowing your date and planning your consumption and production around it is worth the effort."
  - q: "My bill looks completely different from my neighbor's even though we have the same system size. Why?"
    a: "System size is only one variable. Your household consumption patterns, the direction and tilt of your roof, shading, how many months you've been accumulating credits, and whether you have a time-of-use rate plan versus a flat rate plan all affect what the bill looks like. Two identical 8 kW systems on two different homes can produce very different bills."
+lastmod: 2026-07-07
 ---
 
 Your first solar bill arrives and you feel like someone handed you a tax form written in a foreign language. Rows of numbers, unfamiliar terms, a balance that might be a credit or a charge, you're honestly not sure. I've watched this exact moment of confusion play out hundreds of times across kitchen tables, and I want to tell you: this is not you being bad at paperwork. Solar bills are genuinely weird, at least until someone explains what's actually going on.
@@ -38,6 +39,14 @@ With solar, the same meter (or a newer bidirectional one) is now tracking two di
 Here's what I tell people who are new to this: stop reading your solar bill the way you read your old bill. They're measuring fundamentally different things. Your old bill was a simple debit. Your new bill is closer to a ledger, with both deposits and withdrawals.
 
 ## Breaking Down the Line Items
+
+| Charge/Credit Type | Purpose | Varies by Utility? |
+| --- | --- | --- |
+| Energy charges | Cost for grid electricity consumed | Yes |
+| Solar generation credit (net metering) | Payment for excess electricity exported to grid | Yes-retail vs. avoided cost rates vary significantly |
+| Fixed customer charges | Monthly fee for grid connection | Yes-ranges $8-$30+/month |
+| Fuel adjustment, distribution, taxes | Additional recurring fees | Yes |
+| Annual true-up reconciliation | Yearly settlement of credits and charges | Yes-payout rules vary by state and utility |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

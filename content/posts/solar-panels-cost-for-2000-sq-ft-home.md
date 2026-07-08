@@ -23,6 +23,7 @@ faqs:
    a: "Not all 2,000 sq ft of your home is available roof space, and of that roof, only the south, southwest, or west-facing sections at low pitch angles are really useful. A typical home this size usually has enough usable roof area for a 7-10 kW system, but complex rooflines with lots of dormers or heavy shading can create real constraints."
  - q: "Can I get solar with no upfront cost?"
    a: "Yes, through solar loans, leases, or power purchase agreements (PPAs). Solar loans let you own the system (and claim the tax credit yourself), while leases and PPAs mean the installer owns the system and you pay for the power it produces at a contracted rate. Loans are generally the better financial deal if you have decent credit. Leases and PPAs have improved, but the savings are smaller and they complicate home sales."
+lastmod: 2026-07-07
 ---
 
 A 2,000 square foot home is almost exactly the national average for solar quotes I see come across my desk. Which means I've had this particular conversation more times than I can count.
@@ -32,6 +33,12 @@ You're probably at the "just trying to figure out the ballpark" stage. Maybe you
 So let's talk real costs.
 
 ## What a 2,000 Sq Ft Home Actually Needs (and What It'll Cost)
+
+| System Size | Monthly Usage | Gross Cost | Federal Credit (30%) | Net Cost | Payback Period |
+| --- | --- | --- | --- | --- | --- |
+| 6.5 kW | 780 kWh | $18,100 | $5,430 | $12,670 | ~10-12 years |
+| 8.0 kW | 1,050 kWh | $24,000 | $7,200 | $16,800 | ~8-9 years |
+| 8.5 kW | 1,050 kWh | $25,500 | $7,650 | $17,850 | ~8-9 years |
 
 Here's the thing most installers won't tell you upfront: square footage isn't what determines system size. Your electricity consumption does.
 

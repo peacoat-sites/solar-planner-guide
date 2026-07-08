@@ -23,6 +23,7 @@ faqs:
    a: "Customers who install systems before any rule change are typically grandfathered under the existing terms for a set period, often 25 years. Getting installed while retail-rate net metering is still in place is a real reason not to delay if you're already leaning toward solar."
  - q: "How do I know if my roof is ready for solar in Ohio?"
    a: "A south-facing roof with minimal shading and at least 10 to 15 years of remaining life is ideal. If your roof is within five years of needing replacement, replace it first or negotiate to have it done as part of the solar project. Installing panels on a roof that needs work two years later means paying labor to remove and reinstall them."
+lastmod: 2026-07-07
 ---
 
 Ohio gets about 178 sunny days per year. That sounds discouraging until you realize Germany, the country that essentially invented the modern solar incentive system, averages fewer. Ohio solar works. What doesn't work is going in blind, because this state has some genuinely unusual dynamics that most "best solar states" listicles never touch.
@@ -43,11 +44,18 @@ EnergySage's market data consistently shows Ohio installers quoting slightly bel
 
 ## Net Metering: The Fine Print That Actually Determines Your Payback
 
+| Utility Company | Coverage Area | Net Metering Structure | Key Detail |
+| --- | --- | --- | --- |
+| AEP Ohio | Central/Southern Ohio | Retail rate credit with annual true-up | Monthly credits expire at year-end |
+| FirstEnergy | Northern Ohio (large coverage) | Retail rate credit with aggregate cap | Approaching 5% distributed generation threshold |
+| Duke Energy Ohio | Southern Ohio | Retail rate credit with aggregate cap | Subject to PUCO adjustment review |
+| Dayton Power and Light | Dayton region | Retail rate credit with aggregate cap | Subject to PUCO adjustment review |
+
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
-Ohio has net metering, mandated statewide, but the compensation structure has taken hits. Under current rules, utilities credit excess generation at the full retail rate, which sounds great until you read the aggregate cap: once a utility reaches 5% of its peak demand from distributed generation, they can apply to the Public Utilities Commission of Ohio (PUCO) to adjust the program. Several major utilities are already watching that threshold.
+Ohio has [net metering](/net-metering-changes-by-state/), mandated statewide, but the compensation structure has taken hits. Under current rules, utilities credit excess generation at the full retail rate, which sounds great until you read the aggregate cap: once a utility reaches 5% of its peak demand from distributed generation, they can apply to the Public Utilities Commission of Ohio (PUCO) to adjust the program. Several major utilities are already watching that threshold.
 
 The practical implication: get solar now, while retail-rate net metering is locked in. Customers grandfathered under the current rules have historically been protected for 25 years in most states that have made changes. Waiting carries real policy risk.
 
@@ -55,7 +63,7 @@ AEP Ohio, FirstEnergy (which covers a big chunk of northern Ohio), Duke Energy O
 
 ## Payback Period and Honest ROI Expectations
 
-Here's the contrarian take I'll defend: Ohio's payback period is better than most people expect, and the reason is utility rate growth, not sunshine.
+Here's the contrarian take I'll defend: Ohio's payback period is better than most people expect, and the reason is [utility rate growth](/best-states-for-solar-energy-savings/), not sunshine.
 
 Ohio's average residential electricity rate runs around 14 to 15 cents per kWh currently. That's below the national average of roughly 17 cents, which makes the math look slower at first glance. But Ohio's rates have climbed significantly over the past decade, and if that trend continues at even 3% annually, the value of every kWh your system produces grows every year. The NREL (National Renewable Energy Laboratory) models that account for rate escalation consistently show Ohio payback periods of 8 to 11 years for well-designed systems. On a system warrantied for 25 years, that's 14+ years of essentially free electricity.
 

@@ -12,6 +12,7 @@ author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 slug: "solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 The 30% federal tax credit that defined residential solar for thirty years is gone. The One Big Beautiful Bill Act, signed July 4, 2025, killed the Section 25D homeowner credit for systems installed after December 31, 2025. Most coverage since then has focused on the loss. What it's missed is the opening: leases and PPAs are now the only residential financing path that still touches federal solar incentives, and they're structured completely differently from the buy-and-own model most homeowners have been taught to evaluate.
 
@@ -36,6 +37,17 @@ The right sizing target for a third-party system in 2026 is your baseload consum
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## The Contract Terms That Actually Matter
+
+| Metric | Lease/PPA Systems | Owner-Purchased Systems |
+| --- | --- | --- |
+| Federal Incentive Available (2026) | 30% ITC (Section 48E, via installer) | None |
+| Sizing Target | 80-90% of baseload consumption | Maximum load coverage |
+| Contract Length | 20-25 years | N/A |
+| Typical Annual Rate Escalator | 2-3% | N/A |
+| Production Guarantee | ~90% of projected output | N/A |
+| Exported Energy Recovery | Net billing rates (pennies per kWh in most states) | Full retail rate or 1:1 net metering (varies by state) |
+| SREC Program Value | Accrues to installer; should reduce rate | Accrues to homeowner |
+| Buyout Timing Risk | High in years 1-3 | N/A |
 
 Lease and PPA contracts run 20 to 25 years. That's the sentence installers bury.
 

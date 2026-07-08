@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 Picture this: it's January, there's six inches of snow on your roof, the sun sets at 4:30 PM, and your solar installer is telling you your panels are still generating power. You probably think they're just trying to keep you happy. I thought the same thing. But after spending time digging into actual production data and talking to homeowners from Minnesota to Maine, I'll be honest: winter solar performance surprised me more than almost any other topic I've researched in this industry.
 
@@ -55,7 +55,7 @@ One practical note: don't try to brush snow off your panels with a standard roof
 
 If temperature isn't the villain and snow is manageable, what actually hurts winter production? Sunlight hours. That's the honest answer.
 
-The sun's path across the sky is lower and shorter in winter. A location in Chicago gets roughly 4.5 peak sun hours per day in July but only around 2.5 in December. That's not a rounding error. That's a production drop of nearly 45% just from the sun's position.
+The sun's path across the sky is [lower and shorter in winter](/how-many-kwh-does-a-solar-panel-produce-per-day/). A location in Chicago gets roughly 4.5 peak sun hours per day in July but only around 2.5 in December. That's not a rounding error. That's a production drop of nearly 45% just from the sun's position.
 
 Shorter days mean less time for your system to generate power, full stop. This is why your December electric bill might still be higher than in summer even with solar, especially if you're running heating loads or have an electric vehicle.
 
@@ -64,6 +64,15 @@ The good news is that a properly designed system accounts for this. Your install
 If you want to stay on top of your production through the winter months, a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor) can show you real-time and historical generation data so you actually know what your system is doing day by day. Watching the numbers directly does a lot to replace guesswork with real understanding.
 
 ## How Winter Performance Varies by Location
+
+| Location | Avg. Daily Peak Sun Hours (Dec) | Avg. Daily Peak Sun Hours (July) | Typical Annual Snow Loss |
+|---|---|---|---|
+| Phoenix, AZ | 5.5 | 7.2 | Near zero |
+| Denver, CO | 4.2 | 6.8 | 1-3% |
+| Chicago, IL | 2.4 | 5.1 | 2-4% |
+| Boston, MA | 2.8 | 5.4 | 3-5% |
+| Minneapolis, MN | 2.1 | 5.5 | 3-6% |
+| Seattle, WA | 1.2 | 5.7 | Less than 1% (rain clears panels) |
 
 Let me give you a concrete comparison, because vague regional statements don't help you make decisions.
 

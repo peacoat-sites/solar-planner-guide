@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 You're standing in your backyard, squinting at your roof, and the solar installer just handed you a quote with two options. One says "monocrystalline" and costs about 20% more. The other says "polycrystalline" and looks like it might save you a decent chunk of money upfront. The installer gave you a quick explanation, but you walked away more confused than when you started. That's exactly where most people are when they come to me, and I want to give you the honest breakdown that the quote sheet doesn't.
 
@@ -38,6 +38,19 @@ Polycrystalline panels are made by melting multiple silicon fragments together i
 The practical result: monocrystalline panels typically achieve efficiencies between 19% and 23%, while polycrystalline panels generally land between 15% and 17%. That gap sounds modest. On a rooftop where every square foot matters, it adds up fast.
 
 ## The Real Numbers: Efficiency, Output, and Roof Space
+
+| Metric | Monocrystalline | Polycrystalline |
+| --- | --- | --- |
+| Typical Efficiency | 19-23% | 15-17% |
+| Appearance | Uniform black/dark gray | Blue with visible grain boundaries |
+| Panel Output (example) | 400 watts | 330 watts |
+| Panels Needed (10 kW system) | 25 panels | 31 panels |
+| Roof Space Required (10 kW) | ~550 sq ft | ~680 sq ft |
+| Annual Degradation Rate | 0.3-0.5% | 0.5-0.8% |
+| Temperature Coefficient | -0.3% to -0.4% per °C | -0.4% to -0.5% per °C |
+| Upfront Cost Premium | ~$500-$1,500 per 10 kW system | Baseline |
+| Year 25 Output (400W panel, mono at 0.5%) | ~352 watts | - |
+| Year 25 Output (400W panel, poly at 0.8%) | - | ~326 watts |
 
 Here's what I tell people who are tempted to just pick the cheaper option: efficiency differences matter most when your roof space is limited.
 

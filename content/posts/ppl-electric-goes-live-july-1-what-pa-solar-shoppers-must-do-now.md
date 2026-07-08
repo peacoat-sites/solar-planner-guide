@@ -12,6 +12,7 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "ppl-electric-goes-live-july-1-what-pa-solar-shoppers-must-do-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Something changed in Pennsylvania on July 1, 2026, and most homeowners in PPL Electric territory have no idea it happened. The utility quietly activated its first rate hike since 2016, a $275 million distribution increase the PA PUC approved unanimously on June 4. That alone would've been enough to get my attention. But the rate hike is almost the secondary story. The bigger threat, the one solar shoppers especially need to understand, is what PPL is proposing to do to net metering credits. If it goes through, the financial case for rooftop solar in central and eastern Pennsylvania gets rewritten from the ground up.
@@ -25,6 +26,12 @@ I'll be honest: a rate at $0.192/kWh isn't unusual by national standards. What m
 For the 1.5 million homes and businesses PPL serves across the Lehigh Valley, Lancaster, Harrisburg, Scranton, and Wilkes-Barre, that rising rate actually strengthens the solar math. Every kilowatt-hour you generate and consume yourself is a kilowatt-hour you don't buy at $0.192. Self-consumption value is real and growing. The complication, and it's a serious one, is what happens to the power you don't self-consume, the surplus that flows back to the grid.
 
 ## The Net Metering Threat Is the Part That Actually Worries Me
+
+| Scenario | Export Credit Value | Annual Export Value (5 kW system, 20% export) | Impact |
+| --- | --- | --- | --- |
+| Current PPL retail rate | $0.18-$0.21/kWh | $180-$210 | Full credit for surplus generation |
+| Proposed LMP-based rate | $0.04-$0.08/kWh | $40-$80 | 40-60% reduction in export compensation |
+| Self-consumption value (current rate) | $0.192/kWh | Avoided cost | Growing as rates rise |
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

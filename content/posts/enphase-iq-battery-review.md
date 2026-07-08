@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 You've just gotten three solar-plus-storage quotes, and every single installer is pushing the Enphase IQ Battery. One says it's "the most reliable system on the market." Another calls it "the best fit for microinverter setups." The third hands you a glossy brochure and circles the 10-year warranty. What none of them mention is how the system actually performs when the grid goes down at 2 a.m., whether the usable capacity matches the spec sheet, or why some homeowners end up underwhelmed despite spending $10,000 or more on storage. That's what we're going to get into here.
 
@@ -39,6 +39,16 @@ What this means practically: if one battery has a problem, the others keep worki
 
 ## Real-World Performance: What the Spec Sheet Doesn't Tell You
 
+| Metric | IQ Battery 5P | IQ Battery 10T | Tesla Powerwall 3 |
+| --- | --- | --- | --- |
+| Usable Capacity | 5 kWh | 10.08 kWh | Not specified in article |
+| Continuous Power Output | 3.84 kW | Not specified in article | Not specified in article |
+| Peak Surge Output | 7.68 kW | Not specified in article | Not specified in article |
+| Round-Trip Efficiency | ~89% | Not specified in article | 97.5% |
+| Depth of Discharge | 100% | Not specified in article | Not specified in article |
+| Operating Temperature Range | -4°F to 122°F | Not specified in article | Not specified in article |
+| Maximum Stack Capacity | 20 kWh (4 units) | Not specified in article | Not specified in article |
+
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's where I want to be straight with you. The IQ Battery 5P's 5 kWh usable capacity is genuine, not a hidden asterisk situation like some competitors where "usable" is a generous interpretation. Enphase rates their batteries at 100% depth of discharge, meaning you can actually use the full 5 kWh before the system hits reserve. That's good.
@@ -53,7 +63,7 @@ The operating temperature range is -4°F to 122°F (-20°C to 50°C), which hand
 
 This is where Enphase either wins you over completely or becomes a sticking point, depending on your situation.
 
-If you already have Enphase microinverters on your roof (IQ7, IQ8, or newer), adding IQ Batteries is seamless in a way that genuinely impressed me the first time I watched an installation. The Enphase Enlighten platform ties everything together: solar production, battery state of charge, home consumption, and grid usage all visible in one clean app. The IQ8 microinverters in particular have a feature called Sunlight Backup, where the solar panels can power your home during a grid outage even without a battery, as long as the sun is shining. Stack that with IQ Batteries for nighttime and cloudy-day coverage, and you have a genuinely resilient system.
+If you already have Enphase microinverters on your roof (IQ7, IQ8, or newer), [adding IQ Batteries is seamless](/home-battery-storage-options-compared/) in a way that genuinely impressed me the first time I watched an installation. The Enphase Enlighten platform ties everything together: solar production, battery state of charge, home consumption, and grid usage all visible in one clean app. The IQ8 microinverters in particular have a feature called Sunlight Backup, where the solar panels can power your home during a grid outage even without a battery, as long as the sun is shining. Stack that with IQ Batteries for nighttime and cloudy-day coverage, and you have a genuinely resilient system.
 
 The Enphase system also works with the [IQ System Controller 3](https://www.amazon.com/s?k=Enphase+IQ+System+Controller&tag=contentportfo-20), the brains that manages grid transition and load protection. You'll need it for whole-home backup. *(Note: affiliate link, site may earn a commission.)*
 
@@ -72,7 +82,7 @@ Here's a simple comparison to help you gut-check quotes:
 | Battery | Usable Capacity | Continuous Power | Round-Trip Efficiency | Approx. Installed Cost (1 unit) |
 |---|---|---|---|---|
 | Enphase IQ Battery 5P | 5 kWh | 3.84 kW | ~89% | $4,000 - $6,500 |
-| Tesla Powerwall 3 | 13.5 kWh | 11.5 kW | ~97.5% | $11,000 - $16,000 |
+| [Tesla Powerwall 3](/tesla-powerwall-cost-2026/) | 13.5 kWh | 11.5 kW | ~97.5% | $11,000 - $16,000 |
 | Franklin WH aGate | 13.6 kWh | 5 kW | ~96% | $9,000 - $14,000 |
 | Sonnen ecoLinx 10 | 10 kWh | 3.3 kW | ~86% | $13,000 - $18,000 |
 

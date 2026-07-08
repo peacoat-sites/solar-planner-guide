@@ -23,9 +23,9 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
-Three companies dominate the residential solar conversation in America, and the coverage of them is almost universally useless. Most comparisons just list specs and call it a day. What actually matters: who's going to be around in ten years, whose contracts won't trap you, and whether the panels on your roof are worth what you're paying.
+Three companies dominate the residential solar conversation in America, and the coverage of them is almost universally useless. Most comparisons just list specs and call it a day. What actually matters: who's going to be around in ten years, whose contracts won't trap you, and whether the panels on your roof are worth [what you're paying](/how-to-get-multiple-solar-quotes/).
 
 Let's get specific.
 
@@ -40,6 +40,13 @@ SunPower is a different animal. They manufacture their own Maxeon solar cells, w
 Tesla Solar is the one everyone has an opinion about before they actually research it. Tesla's strategy is the opposite of SunPower's: standardized system sizes, no custom design consultations, all online ordering, low price. Their panels are manufactured by Hanwha Q Cells, a solid tier-1 supplier, not by Tesla. The Tesla Solar Roof (the glass tile product) is a completely separate beast from the regular panel system, and most of this comparison is about the standard panel option because the Solar Roof economics are genuinely difficult to justify for most homes.
 
 ## The Price Reality
+
+| Company | Primary Business Model | Panel Efficiency | Typical Cost/Watt | Warranty |
+| --- | --- | --- | --- | --- |
+| SunPower | Premium hardware manufacturer | ~22.8% (Maxeon 6) | $3.50-$4.00+ | 25 years (panels, inverters, workmanship) |
+| Tesla Solar | Direct-to-consumer, standardized systems | 19.8-20.6% | $2.65-$2.85 | Standard manufacturer warranty |
+| Sunrun | Solar financing & installation services | Varies by package | $2.90-$3.20 (cash); PPA-based pricing | Depends on equipment sourced |
+| Market Average | - | - | $3.00 | - |
 
 Here's the number that should anchor your thinking: the average residential solar installation in the U.S. cost about $3.00 per watt before incentives in 2023, per EnergySage market data. For a 8 kW system (typical for a 2,000 sq ft home), that's $24,000 before the 30% federal tax credit brings it to roughly $16,800.
 

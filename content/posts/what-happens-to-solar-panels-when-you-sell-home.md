@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 Most solar sellers leave money on the table. Not because they priced the system wrong, but because they didn't understand what they were actually selling.
 
@@ -31,9 +31,16 @@ Here's what the typical "going solar" article skips entirely: the moment you dec
 
 ## Owned vs. Leased: This Is the Whole Ballgame
 
+| Ownership Type | Transfer at Sale | Warranty Coverage | Key Risk |
+| --- | --- | --- | --- |
+| Owned Outright | Automatic, mostly paperwork | 10-year workmanship; 25-year manufacturer panels; inverter varies | None; adds ~$4/watt to sale price |
+| Solar Loan (Paid Off) | Automatic, mostly paperwork | 10-year workmanship; 25-year manufacturer panels; inverter varies | None; adds ~$4/watt to sale price |
+| Lease (20-25 years) | Requires buyer approval & credit check | Solar company retains ownership | Buyer's lender may refuse; 30-60 day delay; buyout costs $10,000-$30,000 |
+| Power Purchase Agreement (PPA) | Requires buyer approval & credit check | Solar company retains ownership | Buyer's lender may refuse; 30-60 day delay; buyout costs $10,000-$30,000 |
+
 If you own your panels outright, or you've paid off a solar loan, congratulations. Your panels are real property, they transfer with the house, and according to a widely-cited Lawrence Berkeley National Laboratory study, they add roughly $4 per watt of installed capacity to your home's sale price. On a 7-kilowatt system, that's about $28,000 in added value. Buyers don't always pay full freight, and local markets vary enormously, but the direction is clearly positive.
 
-If you leased your panels, or you're still paying a power purchase agreement (PPA), you don't own them. The solar company does. And what you're really selling is a contract obligation, not an asset. That distinction has killed more home sales than most agents will admit to you.
+If you leased your panels, or you're still paying a power purchase agreement (PPA), you don't own them. The [solar company does](/sunrun-vs-sunpower-vs-tesla-solar/). And what you're really selling is a contract obligation, not an asset. That distinction has killed more home sales than most agents will admit to you.
 
 I've talked to homeowners who were genuinely blindsided by this. They'd been happily paying $85 a month to SunRun or Sunnova for years, their electricity bills were low, life was good. Then they listed the house and their agent called with bad news: the buyer's lender won't approve the loan because the leased panels complicate the title.
 
@@ -61,13 +68,13 @@ The $4-per-watt figure comes from research on markets like California, New Jerse
 
 In markets where solar is still unusual, things get murkier. Appraisers in rural Texas or suburban Ohio may not have the comps to formally credit the system. That doesn't mean buyers won't value it, but it might not show up in the appraised value, which matters for financed purchases. I've seen sellers in thin solar markets get almost nothing added to their appraisal even with a spotless, fully-owned 8 kW system installed two years prior.
 
-Age matters. A 12-year-old system with first-generation panels and an aging string inverter is not worth the same as a two-year-old setup with high-efficiency panels and Enphase microinverters. Panels degrade at roughly 0.5% per year according to NREL data, so a 15-year-old system is producing maybe 7-8% less than it was at installation. That's manageable, but it's real, and a savvy buyer will factor it in.
+Age matters. A 12-year-old system with first-generation panels and an [aging string inverter](/solar-installation-process-step-by-step/) is not worth the same as a two-year-old setup with high-efficiency panels and Enphase microinverters. Panels degrade at roughly 0.5% per year according to NREL data, so a 15-year-old system is producing maybe 7-8% less than it was at installation. That's manageable, but it's real, and a savvy buyer will factor it in.
 
 Get a solar-specific appraisal addendum if you can. The Appraisal Institute has guidelines for valuing PV systems (the "Income Approach" and "Cost Approach" methods), and some appraisers will use them if you ask. Your listing agent may not know to request this, so you might have to push.
 
 ## Before You List: A Pre-Sale Solar Checklist
 
-Pull your original installation contract and identify whether you own, lease, or have a PPA. If you're unsure, your installer or a quick search of your county's property records (look for a UCC-1 financing statement filed by the solar company) will tell you.
+Pull your original installation contract and identify whether you own, lease, or have a PPA. If you're unsure, [your installer](/how-to-choose-a-solar-installer/) or a quick search of your county's property records (look for a UCC-1 financing statement filed by the solar company) will tell you.
 
 Get the system inspected. A $150-250 inspection from a certified solar technician will catch any underperforming panels, degraded connections, or inverter issues before a buyer's inspector does. Fixing a $400 inverter issue proactively is a lot cheaper than a price reduction during negotiations.
 

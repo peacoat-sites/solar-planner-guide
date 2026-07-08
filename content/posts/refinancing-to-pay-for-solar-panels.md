@@ -23,6 +23,7 @@ faqs:
    a: "The main risk is that your home is the collateral. If you default on a HELOC or cash-out mortgage, you could lose the house. That's a categorically different risk than defaulting on a personal solar loan. Most people aren't in danger of that scenario, but it's worth being honest with yourself about payment stability before using secured debt for a discretionary upgrade."
  - q: "Should I tell the solar installer I'm paying cash from a HELOC?"
    a: "Yes, and it can work in your favor. When you pay cash (or HELOC funds that act like cash), the installer doesn't earn a dealer fee through financing and may have room to negotiate on price. Some installers will drop 5% to 10% off the system cost for a direct payment. Ask directly: 'What's your cash price?' You might be surprised."
+lastmod: 2026-07-07
 ---
 
 You've probably been sitting with a solar quote for a few weeks now, maybe longer. The system looks good, the installer seems legit, and you've run the numbers enough times to feel cautiously optimistic. But $28,000 (or whatever your quote says) is not a small check to write, and you're wondering whether pulling equity out of your home to pay for it is smart or just financially... a lot.
@@ -39,6 +40,14 @@ There's a third option some people overlook: the FHA Title I or PowerSaver loan 
 
 ## How the math actually stacks up
 
+| Financing Option | Typical Rate Range | Key Advantage | Main Consideration |
+| --- | --- | --- | --- |
+| Cash-Out Refi | 7.0%-7.5% | Lower rates than solar loans | 2-5% closing costs; locks in new rate on entire mortgage |
+| HELOC | Prime + margin | No closing costs; keeps first mortgage intact | Variable rate risk; CLTV typically capped at 85-90% |
+| Dedicated Solar Loan | 6.99%-12.99% | Fast approval; purpose-built | Often includes hidden 10-25% dealer fee |
+| FHA Title I / PowerSaver | Varies | Can roll into purchase or refi | Requires energy improvement qualification |
+| Fannie Mae HomeStyle Energy | Varies | Finances solar into mortgage at purchase | Best for new home buyers |
+
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -51,7 +60,7 @@ A HELOC sidesteps that entirely. You call your bank, get a line of credit at wha
 
 The catch with a cash-out refi specifically is that mortgage closing costs are real. Expect 2% to 5% of the loan amount. On a $30,000 solar addition to a $300,000 refinance, you might pay $6,000 to $15,000 in closing costs depending on lender and location. If your current mortgage rate is already sub-4% from a few years ago, a cash-out refi almost certainly doesn't make sense right now because you'd be trading a great rate for a worse one on your entire balance. That's a deal-breaker for a lot of homeowners.
 
-If you locked in a 3.25% rate in 2021, keep that mortgage. Use a HELOC instead.
+If you locked in a 3.25% rate in 2021, keep that mortgage. Use [a HELOC instead](/home-equity-loan-for-solar-panels/).
 
 ## When a HELOC is the smarter move
 
@@ -63,7 +72,7 @@ Run these numbers before you request a quote from the lender. Walking in with yo
 
 ## The 30% federal tax credit changes everything
 
-This is where refinancing to pay for solar gets genuinely compelling. The federal Investment Tax Credit (ITC) currently sits at 30% of the total installed system cost. If your system costs $28,000, you get an $8,400 credit against your federal tax liability in the year the system is installed. That's not a deduction. It's a dollar-for-dollar reduction in what you owe.
+This is where refinancing to pay for solar gets genuinely compelling. The [federal Investment Tax Credit](/best-solar-financing-options/) (ITC) currently sits at 30% of the total installed system cost. If your system costs $28,000, you get an $8,400 credit against your federal tax liability in the year the system is installed. That's not a deduction. It's a dollar-for-dollar reduction in what you owe.
 
 Here's what I tell people: if you finance the whole system through a HELOC, then apply the ITC to immediately pay down that HELOC balance, you've effectively funded a $28,000 solar system for $19,600 out of pocket. The NREL has documented that the ITC is the single biggest driver of residential solar payback periods, and it absolutely affects whether a refi-based financing strategy makes sense.
 

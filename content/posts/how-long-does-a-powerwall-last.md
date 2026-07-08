@@ -12,12 +12,19 @@ author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 slug: "how-long-does-a-powerwall-last"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most people asking "how long does a Powerwall last?" are really asking two different questions without realizing it. The first is about battery lifespan: how many years before this thing degrades to the point of being useless? The second is about daily runtime: if the grid goes down tonight, how many hours will my house actually stay powered? Both matter enormously, and the answers are more complicated than Tesla's marketing page lets on.
 
 I'll be honest, when I started digging into this, I expected to find a straightforward warranty number and call it a day. What I found instead was a more nuanced story about chemistry, usage patterns, climate conditions, and the gap between what Tesla promises and what real homeowners are experiencing after five or six years of daily cycling.
 
 ## The Warranty Number Is a Floor, Not a Guarantee
+
+| Powerwall Model | Chemistry | Usable Capacity | Warranty Capacity Retention | Estimated Cycle Life to 80% |
+| --- | --- | --- | --- | --- |
+| Powerwall 2 | NMC (Nickel Manganese Cobalt) | 13.5 kWh | 70% after 10 years | ~2,000-3,000 cycles |
+| Powerwall 3 | LFP (Lithium Iron Phosphate) | 13.5 kWh | 70% after 10 years | 3,000-4,000 cycles |
+| Daily Runtime at Average Load | - | - | - | 10-11 hours (30 kWh/day home) |
 
 Tesla warrants the Powerwall 3 (and its predecessors) to retain at least 70% of its original capacity after 10 years of use, provided it operates within normal conditions. That's the official promise. But "10 years" often gets misread as "it dies at 10 years," which isn't accurate. Plenty of lithium iron phosphate and NMC battery systems run well past their warranty periods with usable capacity still intact.
 

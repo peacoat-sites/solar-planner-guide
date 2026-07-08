@@ -23,13 +23,21 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 You submitted your solar application to your HOA three weeks ago. You've done the research, gotten quotes, and you're excited. Then the letter comes back: *denied*. Or maybe you haven't applied yet, and you're wondering whether it's even worth the hassle. Either way, you're probably feeling somewhere between frustrated and confused, and you might be wondering whether your HOA actually has the legal authority to stop you.
 
 Here's the thing: in most of the country, they don't. But the details matter enormously, and getting this wrong can cost you time, money, and a genuinely bad neighbor relationship.
 
 ## What the Law Actually Says (And Why Your State Matters More Than Your HOA Rules)
+
+| State/Region | Solar Access Law Status | HOA Restriction Authority | Key Limits |
+| --- | --- | --- | --- |
+| California | Solar Rights Act (strong) | Cannot ban; can regulate placement | Max $1,000 added cost; no more than 10% efficiency loss |
+| Florida | 2023 protections (strong) | Cannot ban; can regulate placement | Strengthened homeowner rights |
+| Texas, Arizona, Colorado | Solar access laws | Cannot ban; can regulate placement | State-specific limitations on restrictions |
+| 30+ states generally | Solar rights laws | Cannot ban; can regulate placement | Varies by state |
+| Alabama, Arkansas, Alaska | Limited/no solar law | Broader HOA authority | CC&Rs carry more weight |
 
 This is the part installers often gloss over, so let me be direct. More than 30 states have passed what are called "solar access laws" or "solar rights laws" that limit an HOA's ability to prohibit solar panels outright. California, Florida, Texas, Arizona, Colorado, and many others are on this list. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) tracks these protections by state, and it's one of the first places I send clients who are dealing with HOA resistance.
 

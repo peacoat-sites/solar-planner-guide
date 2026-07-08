@@ -23,19 +23,19 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 Your neighbor mentions she got an extra $1,500 back from the electric company. You didn't know that existed. Your solar quote was $28,000, the federal tax credit gets you $8,400, but apparently there's more money sitting on the table that nobody told you about. That kind of oversight happens constantly. Utility solar rebates are one of the least-advertised ways to cut your upfront costs, and they can legitimately change whether a system makes sense for your wallet.
 
 ## What Utility Solar Rebates Actually Are (And How They Differ From Tax Credits)
 
-A utility solar rebate is a direct payment or bill credit your electric utility hands you when you install a qualifying system. The federal Investment Tax Credit reduces your IRS bill, but a utility rebate puts cash in your pocket regardless of your tax situation. For retirees or anyone with low tax liability, that distinction matters enormously.
+A utility solar rebate is a direct payment or bill credit your electric utility hands you when you install a qualifying system. The [federal Investment Tax Credit](/federal-solar-tax-credit-2026/) reduces your IRS bill, but a utility rebate puts cash in your pocket regardless of your tax situation. For retirees or anyone with low tax liability, that distinction matters enormously.
 
 Rebates come in two flavors. Some utilities pay per installed watt, typically $0.10 to $0.50 per watt. A 10 kW system lands you between $1,000 and $5,000. Others offer a fixed lump sum capped at $500 or $1,500, no matter the system size. A few programs spread bill credits over time instead of writing one check.
 
 The funding varies too. State public utility commissions mandate some rebates as part of renewable energy requirements. Others are voluntary programs utilities run to manage peak demand, since rooftop solar reduces their load during the hottest hours. That's worth remembering: your utility isn't doing you a favor. They benefit when you generate your own power.
 
-Keep utility rebates separate from state-level incentives. State tax credits come through your state revenue department. Utility rebates come directly from your power company. You can usually stack both with the federal credit, though some programs require you to subtract the federal credit first before calculating the rebate. Always read that fine print.
+Keep utility rebates separate from [state-level incentives](/state-solar-incentives-by-state/). State tax credits come through your state revenue department. Utility rebates come directly from your power company. You can usually stack both with the federal credit, though some programs require you to subtract the federal credit first before calculating the rebate. Always read that fine print.
 
 ## Where Utility Rebates Exist (And Where They Don't)
 
@@ -75,6 +75,15 @@ Rebate payments take 60 to 180 days after installation and final inspection. If 
 Check the status if you haven't heard anything. Program administrators are sometimes understaffed and applications queue longer than promised.
 
 ## How Rebates Interact With Other Solar Incentives
+
+| Incentive | Amount | Notes |
+|---|---|---|
+| Gross system cost | $28,000 | Before any incentives |
+| Utility rebate | -$2,500 | Paid directly by utility |
+| Adjusted cost basis | $25,500 | For federal ITC calculation |
+| Federal ITC (30%) | -$7,650 | Applied to adjusted basis |
+| State tax credit (10%) | -$2,550 | Hypothetical state incentive |
+| **Net out-of-pocket cost** | **$13,300** | **52% reduction from gross cost** |
 
 The math gets interesting here. Utility rebates, the federal ITC, and most state credits stack on top of each other. The complicated part is the order matters.
 

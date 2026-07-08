@@ -23,6 +23,7 @@ faqs:
    a: "Then you have four options: accept partial offset, use higher-wattage panels to maximize limited space, consider a ground mount if you have yard space, or reduce your electricity consumption first (LED lighting, efficient appliances, better insulation) to shrink the required system size. Demand reduction often has better ROI than the incremental solar capacity anyway."
  - q: "How many solar panels do I need for a 2,000-square-foot house?"
    a: "There's no reliable answer to this question because square footage doesn't determine electricity use. A 2,000-square-foot house in Minnesota with gas heat and no pool might use 8,000 kWh per year. The same-sized house in Texas with electric everything might use 18,000. Get your actual annual kWh from your utility bill. That number tells you everything; the square footage tells you almost nothing."
+lastmod: 2026-07-07
 ---
 
 Most solar calculators are built by installers who want to sell you a system. That's not a conspiracy theory, it's just business. When the default output of a "free calculator" is always "yes, solar makes sense for you," you should wonder what variable they're rounding in your favor.
@@ -40,6 +41,12 @@ Pull your last 12 months of utility bills and find your total annual kilowatt-ho
 If you can't find 12 months of bills, your utility's online portal almost always has usage history going back two or three years. Log in and get the actual number.
 
 ## The Core Calculation (It's Four Steps)
+
+| Location | Peak Sun Hours/Day | Annual Usage Example | System Size Needed | Panel Count (400W) |
+| --- | --- | --- | --- | --- |
+| Charlotte, NC | 4.8 | 12,000 kWh | 8.5-9 kW | 21-23 |
+| Phoenix, AZ | 6.5 | 12,000 kWh | 6.3-6.8 kW | 16-17 |
+| Seattle, WA | 3.5 | 12,000 kWh | 12.4-13.3 kW | 31-33 |
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

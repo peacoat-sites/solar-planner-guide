@@ -23,6 +23,7 @@ faqs:
    a: "Budget for 9 to 13 years depending on your state, utility, and system design. Illinois homeowners with favorable net metering can see paybacks closer to 8-9 years. Missouri or Ohio homeowners with less supportive utility policies should realistically plan for 11-13 years."
  - q: "Should I wait for better technology or do solar now?"
    a: "Honestly, this question has come up for 15 years and the answer has consistently been: the savings you delay capturing are real money. Panel efficiency improvements are now incremental, not revolutionary. If your financial situation and roof condition work today, waiting for the 'next generation' usually costs more than it saves."
+lastmod: 2026-07-07
 ---
 
 Chicago gets about 4.2 peak sun hours per day on average. I know that number surprises people, because the first time I looked it up myself, I assumed the Midwest was basically a solar dead zone. It's not. But it's complicated enough that you deserve a straight answer instead of a sales pitch.
@@ -46,6 +47,14 @@ One scenario I've seen play out many times: A homeowner in Columbus, Ohio with a
 ---
 
 ## The Net Metering Situation (This Is Where It Gets Real)
+
+| State | Net Metering Rate | Additional Incentives | Key Notes |
+| --- | --- | --- | --- |
+| Illinois | Full retail rate | Illinois Shines program, SREC market ($3,000-$6,000 over time) | Gold standard; summer surplus offsets winter bills |
+| Minnesota | Full retail rate | Value-of-solar tariff (legacy customers) | Xcel Energy cooperative; historically favorable |
+| Ohio | Reduced credit rates | None significant | Hostile regulatory environment; utility resistance (FirstEnergy, AEP) |
+| Michigan | Capped program | None significant | Patchwork coverage; utility resistance |
+| Indiana | Capped program | Utilities pushing demand charges | Demand charges can erode savings significantly |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

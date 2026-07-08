@@ -12,12 +12,21 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "how-to-size-a-solar-system-when-exporting-power-pays-almost-nothing"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been getting quotes for solar lately, you might be wondering why the numbers don't seem to add up the way they did a few years ago. Your neighbor installed panels in 2021 and talks about nearly zeroing out his electric bill. Your quote for a similar system today doesn't come close to that. You're not imagining it. The economics of residential solar have shifted in a meaningful way, and the sizing formula that worked brilliantly for years is now actively working against a lot of homeowners.
 
 A BloombergNEF report released June 15, 2026 puts a number on the slowdown: the U.S. is projected to add just 4.1 GW of residential solar this year, down 15% from 2025 and the lowest five-year total we've seen. Part of that is the sunsetting of the 30% federal tax credit under the One Big Beautiful Bill Act. But a bigger part is something more structural. The classic sizing strategy, oversize your array and let the grid act as your free battery, is collapsing under the weight of net metering changes spreading state by state.
 
 ## The Export Credit Problem Is Not Just a California Thing Anymore
+
+| State/Utility | Export Credit Rate | Peak Rate Window | Net Metering Status | Key Deadline |
+| --- | --- | --- | --- | --- |
+| California (NEM 3.0) | $0.05-$0.08/kWh | 4-9 p.m. | Low export credits | Current |
+| Massachusetts | ~$0.30/kWh | Varies | Full retail net metering | N/A |
+| Pennsylvania (PPL) | LMP (40-60% reduction proposed) | Varies | Shift to hourly wholesale | ~July 2026 |
+| Wisconsin (WE Energies, Alliant) | Time-of-use export rates (proposed) | Varies | Moving from flat credits | Under review |
+| Duke Energy territory | Under petition Q1 2026 | Varies | Reduction proposed | TBD |
 
 California's NEM 3.0 is the most-discussed example, and for good reason. Homeowners on NEM 3.0 are getting roughly $0.05 to $0.08 per kilowatt-hour for power they export at midday, while buying power back during evening peaks at $0.35 to $0.50 per kWh. That's a spread that turns every watt of oversized solar capacity into a slow financial bleed. But the pattern is spreading.
 
@@ -51,7 +60,7 @@ This is a design conversation your installer should be having with you. If they'
 
 ## The Battery Math Has Changed, Too
 
-Battery attachment rates hit 40% of new residential installations in Q1 2026, up from 35% in 2025. That's not a coincidence. Homeowners who've done the math are arriving at the same conclusion: under low-export-rate regimes, a battery pays for itself in avoided peak-rate purchases in ways it simply didn't when net metering was generous.
+[Battery attachment rates hit 40%](/how-your-solar-battery-can-now-earn-money-through-vpps/) of new residential installations in Q1 2026, up from 35% in 2025. That's not a coincidence. Homeowners who've done the math are arriving at the same conclusion: under low-export-rate regimes, a battery pays for itself in avoided peak-rate purchases in ways it simply didn't when net metering was generous.
 
 The honest caveat is that battery economics still depend on your specific rate structure. If you're in Massachusetts and collecting $0.30 per kWh in export credits, a battery adds resilience and backup value but may not dramatically shorten your payback period on its own. If you're in California or heading there, a battery is arguably more important than adding the last two panels to your array.
 

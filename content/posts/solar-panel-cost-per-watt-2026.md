@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 Three quotes just landed on your kitchen table. One says $2.40 per watt. Another says $3.80. Same roof. Same neighborhood. Same equipment, supposedly. This isn't a sales gimmick or a mistake. It's just how solar pricing works in 2026, and if you don't get it, you'll either overpay or make a decision you regret later.
 
@@ -47,13 +47,21 @@ Batteries flip the whole equation. A single 10 kWh Tesla Powerwall 3 or Enphase 
 
 ## How to Compare Quotes Without Getting Confused
 
+| Factor | Budget Tier | Mid Tier | Premium Tier |
+|---|---|---|---|
+| Cost per watt (before ITC) | $2.40 to $2.70 | $2.80 to $3.20 | $3.30 to $4.00+ |
+| Panel brand examples | Astronergy, Jinko | REC, Q.CELLS | Maxeon, Panasonic |
+| Inverter type | String | String or SolarEdge | Enphase micro |
+| Workmanship warranty | 5 to 10 years | 10 years | 10 to 25 years |
+| Monitoring included | Basic | Panel-level optional | Panel-level standard |
+
 Here's where homeowners stumble. One quote shows $3.10 per watt for 10 kW. Another shows $3.20 per watt for 8 kW. They're not actually comparable without knowing panel wattage, efficiency, inverter type, warranty terms, and projected annual output.
 
 Use this approach:
 
 1. **Convert to cost per watt.** Take the total system price before incentives and divide by total system wattage (DC). Twenty-two panels at 400W each equals 8.8 kW. System price is $27,000? You're at $3.07 per watt.
 
-2. **Compare year-one production in kWh.** A solid system in a sunny climate produces 1,200 to 1,800 kWh per installed kilowatt annually. An 8 kW system in Dallas should hit roughly 11,200 to 13,600 kWh per year. If the estimate is low, ask why.
+2. **Compare [year-one production in kWh](/solar-savings-calculator/).** A solid system in a sunny climate produces 1,200 to 1,800 kWh per installed kilowatt annually. An 8 kW system in Dallas should hit roughly 11,200 to 13,600 kWh per year. If the estimate is low, ask why.
 
 3. **Check the inverter brand and type.** Enphase and SolarEdge dominate in 2026 and have proven track records. Unknown brands with no history? Skip them.
 
@@ -61,7 +69,7 @@ Use this approach:
 
 5. **Verify workmanship warranty.** Ten years is standard minimum. Some shops offer 25. This matters because installation defects, bad flashing, loose connections, cause most long-term problems.
 
-6. **Get the payback period in writing.** Any solid installer will show you a simple payback calculation. Most U.S. markets in 2026 see 6 to 10-year payback for well-sited systems.
+6. **Get the [payback period in writing](/how-long-to-pay-off-solar-panels/).** Any solid installer will show you a simple payback calculation. Most U.S. markets in 2026 see 6 to 10-year payback for well-sited systems.
 
 | Factor | Budget Tier | Mid Tier | Premium Tier |
 |---|---|---|---|

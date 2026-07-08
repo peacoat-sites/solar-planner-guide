@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 Most homeowners I talk to are shocked when they realize the federal tax credit is only part of the story. A homeowner in Massachusetts can stack so many incentives that a $28,000 solar system ends up costing closer to $10,000 out of pocket. Meanwhile, a neighbor in a state with weak net metering laws and no state rebate might wait 12 years just to break even on the same size system. The difference isn't the panels. It's the policy.
 
@@ -117,6 +117,18 @@ Here's a practical process I recommend to every client before they get their fir
 - **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
 
 ## Recommended Resources
+
+
+| State | Key Incentives | Property Tax Exemption | Sales Tax Exemption | Net Metering Status |
+| --- | --- | --- | --- | --- |
+| Massachusetts | 15% income tax credit (up to $1,000), SMART program ($0.05-$0.20/kWh for 10 years) | Yes | Yes | Strong |
+| New York | 25% tax credit (up to $5,000), NY-Sun Megawatt Block ($0.20-$0.40/watt) | Utility-dependent | Yes | Strong |
+| New Jersey | SREC market, sales tax exemption | 100% of added value | Yes | Strong |
+| California | Limited (NEM 3.0 reduced export rates) | Utility-dependent | Yes | Weakened (NEM 3.0) |
+| Texas | None (no state income tax) | 100% of added value | Utility-dependent | Utility-dependent |
+| Florida | Full property tax exemption | Yes | Yes | Disputed/Weakening |
+| Georgia | None | No | No | Unfavorable |
+| Arizona | 25% tax credit (up to $1,000) | No | No | Unfavorable |
 
 ## Sources
 

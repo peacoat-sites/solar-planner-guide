@@ -12,7 +12,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 Forty-seven thousand dollars. That's what one Phoenix family paid for a solar system they could've gotten for $31,000 from a different installer. Same panels. Nearly identical production estimates. Both companies had decent online reviews. The difference was a salesperson who pushed hard, moved fast, and gave them almost no time to compare.
 
@@ -21,6 +21,14 @@ I've seen this more times than I can count. And honestly, a lot of solar advice 
 So let me tell you what I actually tell people when they sit down with me and say they've just gotten a quote.
 
 ## The Pressure to Sign Tonight
+
+| Red Flag | What to Look For | Why It Matters |
+| --- | --- | --- |
+| Pressure to Sign Tonight | Hard deadline or artificial urgency | Reputable installers encourage comparison; pressure tactics hide weak quotes |
+| Vague Production Estimates | Specific annualized kWh number (e.g., 9,400 kWh/year) from PVWatts or comparable tool | Inflated estimates by 20-30% can turn a 9-year payback into 11+ years |
+| Contractor Disappearance | Clarify if company employees or subcontractors do installation; verify warranty contact | Third-party chains make accountability unclear when problems arise years later |
+| Lease-Backs or "Free" Offers | Check if you own panels or are leasing; review escalator clauses | Leases lock you in 20-25 years with cost escalators that nearly double rates by end |
+| Missing NABCEP Certification | Ask if installation team holds North American Board of Certified Energy Practitioners credentials | Certification requires real training and experience; its absence warrants scrutiny |
 
 This one is the most common red flag, and it's also the one people rationalize away the most. You'll hear things like "this pricing is only locked in until Friday" or "the tax credit situation is changing" (it's not, the 30% Residential Clean Energy Credit runs through 2032 under the Inflation Reduction Act) or "we only have one installation slot left in your area this month."
 
@@ -36,7 +44,7 @@ Here's what I tell people to look for in any legitimate solar quote: a specific,
 
 If an installer can't show you how they got to their production estimate, that's a problem. Your payback period calculation is only as good as the production estimate underneath it. Overstate production by 20% and suddenly a 9-year payback becomes 11 years. I've seen estimates inflated by 30% or more, usually on systems being quoted at a premium price, to make the return look better than it actually is.
 
-EnergySage's national data consistently shows that homeowners who get multiple quotes save an average of $5,000 to $10,000 on system cost. Part of that variance is pure price gouging. Part of it is production estimates that don't reflect reality.
+EnergySage's national data consistently shows that homeowners who [get multiple quotes](/how-to-get-multiple-solar-quotes/) save an average of $5,000 to $10,000 on system cost. Part of that variance is pure price gouging. Part of it is production estimates that don't reflect reality.
 
 Ask specifically: what software did you use to model this? What shading assumptions are built in? What was the assumed degradation rate for the panels? Reputable installers will answer all of this without hesitation. If you get evasiveness, vague gestures at "our proprietary system," or an annoyed response, consider that your answer.
 
@@ -44,7 +52,7 @@ Ask specifically: what software did you use to model this? What shading assumpti
 
 This one is sneaky because it often looks fine on the surface. The installer has good reviews, a professional website, a clean proposal. But they're actually a sales organization that subcontracts installation to a third party, who subcontracts the electrical work to someone else. By the time something goes wrong with your system three years from now, good luck figuring out who's responsible.
 
-Not all subcontracting is bad. Large national installers like Sunrun and SunPower have used subcontractors for years, and some of those jobs are done well. But you need to know upfront who is actually going to be on your roof, who is pulling the permits, and who you call if there's a problem.
+Not all subcontracting is bad. Large national installers like [Sunrun and SunPower](/sunrun-vs-sunpower-vs-tesla-solar/) have used subcontractors for years, and some of those jobs are done well. But you need to know upfront who is actually going to be on your roof, who is pulling the permits, and who you call if there's a problem.
 
 Ask directly: "Will your company's employees be doing the installation, or will you be subcontracting it?" Then ask: "Who do I contact for warranty service, and is that you or a third party?" The [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) specifically recommends verifying that your installer will be present throughout the process and responsible for the permits. If the answers are fuzzy, that's a flag.
 

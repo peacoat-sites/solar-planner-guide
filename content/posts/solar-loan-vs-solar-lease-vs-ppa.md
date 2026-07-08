@@ -11,7 +11,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 You've finally decided to go solar. The utility bills are too high, the environmental benefits are compelling, and your neighbor just installed panels and won't stop talking about how great they are. But then you sit down with a solar installer and suddenly you're staring at a menu of financing options that sounds more like a financial exam than a home improvement project. Solar loan? Solar lease? Power Purchase Agreement? What does any of this actually mean for your wallet, your home, and your long-term energy future?
 
@@ -23,7 +23,7 @@ Before comparing them, it helps to actually know what each one is and how owners
 
 ### Solar Loans
 
-A solar loan works much like a car loan or a home improvement loan. You borrow money to purchase a solar panel system outright, then repay that loan over time with interest. At the end of the loan term, you own the system free and clear. Solar loans can be secured (often structured as a home equity loan or HELOC) or unsecured (a personal loan specifically for solar). Many solar installers partner with lenders to offer in-house financing, and specialty solar lenders like Mosaic, GoodLeap, and Sunlight Financial have emerged to make the process easier.
+A solar loan works much like a car loan or a home improvement loan. You borrow money to purchase a [solar panel system outright](/how-to-finance-solar-panels-with-no-money-down/), then repay that loan over time with interest. At the end of the loan term, you own the system free and clear. Solar loans can be secured (often structured as a home equity loan or HELOC) or unsecured (a personal loan specifically for solar). Many solar installers partner with lenders to offer in-house financing, and specialty solar lenders like Mosaic, GoodLeap, and Sunlight Financial have emerged to make the process easier.
 
 Loan terms typically range from 5 to 25 years, with interest rates generally falling between 3.99% and 8.99% depending on your credit score, loan term, and lender.
 
@@ -47,7 +47,7 @@ This is where things get really interesting. And where the stakes are highest. L
 
 ### Who Gets the Tax Credits?
 
-This is arguably the most critical distinction between ownership and non-ownership options. Under the current federal Investment Tax Credit (ITC), solar system owners can claim a **30% federal tax credit** on the full cost of installation. That's a massive financial benefit.
+This is arguably the most critical distinction between ownership and non-ownership options. Under the current federal Investment Tax Credit (ITC), solar system owners can claim a **[30% federal tax credit](/best-solar-financing-options/)** on the full cost of installation. That's a massive financial benefit.
 
 - **Solar Loan:** You own the system, so **you** claim the 30% federal tax credit. On a $25,000 system, that's $7,500 back at tax time.
 - **Solar Lease:** The solar company owns the system, so **they** claim the tax credit. You get none of it directly, though the company may factor it into your lease pricing.
@@ -79,7 +79,7 @@ Leases and PPAs deliver more modest but often immediate savings with little to n
 | Federal Tax Credit | Yes (30%) | No | No |
 | Monthly Payment | Fixed loan payment | Fixed payment (may escalate) | Per-kWh rate (may escalate) |
 | Maintenance Responsibility | Homeowner | Solar Company | Solar Company |
-| Home Sale Impact | Adds home value | Lease transfer required | PPA transfer required |
+| Home Sale Impact | Adds home value | [Lease transfer required](/transferring-solar-lease-when-selling-home/) | PPA transfer required |
 | Long-Term Savings | Highest | Moderate | Moderate |
 | Break-Even Timeline | 6–10 years | May never fully break even | May never fully break even |
 | Risk | Moderate | Low | Low |

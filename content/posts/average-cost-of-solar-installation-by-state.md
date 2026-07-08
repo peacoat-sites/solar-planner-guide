@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 Two neighbors, same house size, same energy bills, both went solar in the same month. One in Arizona paid about $25,000 before incentives. The other in Massachusetts paid closer to $35,000. Same technology, same 10-kilowatt system, nearly $10,000 difference. That gap isn't random, and understanding what drives it could save you thousands.
 
@@ -63,12 +63,12 @@ After applying the federal ITC (currently 30% through 2032), those numbers drop 
 
 ## How to Calculate Your True Payback Period by State
 
-The sticker price matters, but what really determines whether solar makes financial sense is the payback period, which is how many years it takes for your energy savings to offset your upfront cost.
+The sticker price matters, but what really determines whether solar makes financial sense is the [payback period](/how-long-to-pay-off-solar-panels/), which is how many years it takes for your energy savings to offset your upfront cost.
 
 **Step 1: Get your actual system cost after incentives.**
 Take your installer quote, subtract the 30% federal ITC, then subtract any state or utility rebates.
 
-**Step 2: Calculate your annual solar savings.**
+**Step 2: Calculate your [annual solar savings](/solar-savings-calculator/).**
 Multiply your system's estimated annual production (in kilowatt-hours) by your utility's per-kWh rate. If your 6kW system produces 8,000 kWh per year and you pay $0.15/kWh, that's $1,200 in annual savings.
 
 **Step 3: Divide your net cost by your annual savings.**
@@ -84,7 +84,7 @@ If you want to track your production and savings once you're live, a home energy
 
 ## States Where Solar Makes the Most Sense Right Now
 
-High installation cost doesn't mean bad investment. Low installation cost doesn't automatically mean great investment. You need to look at the full picture: sun hours, electricity rates, incentives, and net metering policies.
+High installation cost doesn't mean bad investment. Low installation cost doesn't automatically mean great investment. You need to look at the full picture: sun hours, electricity rates, incentives, and [net metering policies](/net-metering-savings-explained/).
 
 **Massachusetts** is expensive upfront, but the SMART program pays you per kilowatt-hour your system generates for 10 years, regardless of what you consume. Combined with high local electricity rates ($0.25+ per kWh) and a 25% state tax credit, the lifetime return can be excellent.
 

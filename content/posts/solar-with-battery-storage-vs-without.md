@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 You finally get your first electric bill after going solar. You were expecting something close to zero. Instead, it's $94. You call your installer confused, and they explain that yes, your panels are producing power, but you're still drawing from the grid every evening when the sun goes down. You didn't add a battery. And now, six months in, you're wondering if you made the right call.
 
@@ -47,7 +47,7 @@ So the no-battery path works well right now in many places. But "right now" is d
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-A home battery, most commonly a Tesla Powerwall 3, Enphase IQ Battery 5P, or Franklin Electric aPower, stores excess solar energy during the day so you can use it at night. You're no longer automatically dependent on the grid when the sun goes down. The benefits break into three categories.
+A home battery, most commonly a [Tesla Powerwall 3](/tesla-powerwall-cost-2026/), Enphase IQ Battery 5P, or Franklin Electric aPower, stores excess solar energy during the day so you can use it at night. You're no longer automatically dependent on the grid when the sun goes down. The benefits break into three categories.
 
 **Self-consumption.** Instead of exporting cheap solar power to the grid and buying expensive grid power back at night, you use your own stored energy. In markets where time-of-use (TOU) rates apply, evening electricity can cost 30 to 50 cents per kWh while you exported your solar at 3 to 8 cents. A battery closes that gap.
 
@@ -59,9 +59,16 @@ A home battery, most commonly a Tesla Powerwall 3, Enphase IQ Battery 5P, or Fra
 
 ## The Real Cost Difference: What the Numbers Look Like
 
+| Configuration | Avg. Installed Cost (After 30% ITC) | Typical Payback Period |
+|---|---|---|
+| Solar only (good net metering) | $12,000 - $17,000 | 6 - 9 years |
+| Solar only (weak net metering) | $12,000 - $17,000 | 8 - 12 years |
+| Solar + 1 battery (TOU market) | $22,000 - $28,000 | 9 - 13 years |
+| Solar + 1 battery (backup priority) | $22,000 - $28,000 | 11 - 16 years |
+
 A solar system without a battery typically costs $2.50 to $3.50 per watt installed. A 7 kW system runs roughly $17,500 to $24,500 before the federal tax credit (which is 30% through at least 2032 under the Inflation Reduction Act). After the credit, you're looking at $12,000 to $17,000.
 
-Add a single Tesla Powerwall 3, and you're adding approximately $11,500 to $15,000 installed, before incentives. The 30% federal tax credit also applies to battery storage now. But your all-in cost for solar plus storage still typically runs $25,000 to $35,000 on a mid-sized home.
+Add a single Tesla Powerwall 3, and you're adding approximately $11,500 to $15,000 installed, before incentives. The 30% federal tax credit also applies to [battery storage](/solar-battery-storage-worth-it/) now. But your all-in cost for solar plus storage still typically runs $25,000 to $35,000 on a mid-sized home.
 
 Several states offer additional battery incentives worth researching. California's SGIP rebate can knock several thousand dollars off. Oregon, New York, and Massachusetts also have meaningful battery incentives.
 
@@ -102,7 +109,7 @@ There are scenarios where a battery isn't optional, even if the payback period l
 
 **You're in California under NEM 3.0.** The avoided-cost export rates make solar-only systems significantly less valuable at night. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has noted that pairing storage with solar is increasingly the default recommendation in markets with low export compensation. A battery isn't just a nice-to-have, it's how you make the system work as intended.
 
-**You have critical medical equipment at home.** If someone in your house depends on a CPAP, oxygen concentrator, or home dialysis machine, backup power isn't a luxury. The math changes completely.
+**You have critical medical equipment at home.** If someone in your house depends on a CPAP, oxygen concentrator, or home dialysis machine, [backup power](/solar-battery-backup-for-power-outages/) isn't a luxury. The math changes completely.
 
 **You're going off-grid or building new in a remote location.** Grid connection costs can run $10,000 to $50,000 or more depending on distance from utility infrastructure. A robust solar plus battery system often pencils out ahead of a grid connection on pure economics, not just resilience.
 

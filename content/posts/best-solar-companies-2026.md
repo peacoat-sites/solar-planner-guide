@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 Most homeowners spend more time picking a Netflix show than vetting their solar installer. That's a problem, because a bad panel choice fades in a few years, but a bad installer can cost you $5,000 in warranty disputes, roof damage claims, or a system that underperforms for two decades. The solar industry installed over 25 gigawatts of residential capacity in recent years according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and the market is crowded with companies ranging from excellent to predatory. Knowing which names actually deserve your business in 2026 takes more than reading a sponsored "best of" list.
 
@@ -42,6 +42,14 @@ Before any company names, you need a framework. Otherwise you're just comparing 
 **Financing terms** deserve a magnifying glass. A $0-down loan sounds great until you see a 25-year loan at 7.99% APR that adds $12,000 to the total cost of your system. Always calculate the total repayment amount, not the monthly payment.
 
 ## The Top Solar Companies to Consider in 2026
+
+| Company | Panel Efficiency | Workmanship Warranty | Key Strength | Best For |
+| --- | --- | --- | --- | --- |
+| SunPower/Maxeon | 0.25% annual degradation | 40 years | Highest efficiency, longest warranty | Small or shaded roofs |
+| Sunrun | Industry standard | Industry standard | Scale, battery integration | Stability, BrightBox storage |
+| Tesla Energy | Competitive | Industry standard | Integrated Solar Roof option | Roof replacements, tech-forward users |
+| Palmetto Solar | Industry standard | Industry standard | Regional expertise, monitoring plan | Mid-Atlantic and Southeast homeowners |
+| Local/Regional | Varies | Varies | Installer quality, local knowledge | Any region with established local installers |
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

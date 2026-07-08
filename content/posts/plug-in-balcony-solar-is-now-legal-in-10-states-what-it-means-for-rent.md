@@ -12,6 +12,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 slug: "plug-in-balcony-solar-is-now-legal-in-10-states-what-it-means-for-rent"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 When New Jersey's legislature voted 40-0 in the Senate and 79-0 in the Assembly on June 30, 2026, it wasn't close. It wasn't partisan. And it wasn't a coincidence. The Garden State Balcony Solar Act made New Jersey the 10th U.S. state to legalize plug-in balcony solar, and the unanimous margin tells you something the usual solar coverage misses: the politics of renter access to solar have quietly shifted.
@@ -41,6 +42,13 @@ The variables that matter most, in order: your balcony's orientation (south is b
 The ceiling on savings is also real. A 1,200-watt system running at peak for five hours a day in New Jersey generates roughly 6 kilowatt-hours. The average U.S. apartment uses about 700 kWh per month. You're offsetting maybe 15 to 25 percent of usage, not eliminating a bill. Balcony solar is a tool for reducing electricity costs, not escaping them.
 
 ## Why Ten States in and the Map Still Looks Sparse
+
+| State | Legal Status | Landlord/HOA Restrictions | Key Detail |
+| --- | --- | --- | --- |
+| New Jersey | Legal (S2368/A4836) | Explicitly prohibited from banning | Max 1,200W, no permit required |
+| Massachusetts | Rooftop focus (S3143) | N/A | Automated permitting platform, ~$2,040 savings per installation |
+| Illinois | Pending (expected fall 2026) | TBD | Reportedly reviving plug-in solar bill |
+| 7 other states | Legal | Varies | Legal status but utility enforcement unclear |
 
 The states that have legalized plug-in balcony solar so far are mostly concentrated in the Northeast and West. Germany, which popularized the "Balkonkraftwerk" concept, has over 1.5 million registered units. The U.S. is in the early innings, and the legal patchwork is genuinely confusing.
 

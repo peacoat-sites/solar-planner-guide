@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 You just got three solar quotes, the system looks solid on paper, and then you see the price: $28,000. That's what the average American pays. According to [EnergySage's market data](https://news.energysage.com/), the median solar installation in the U.S. costs around $30,000 before incentives. After the 30% federal tax credit, you're closer to $21,000. Still not pocket change.
 
@@ -38,6 +38,15 @@ The math is straightforward. A $28,000 system with a 30% ITC reduces your tax li
 The reality check: most people don't have $20,000 sitting around, or they'd rather keep the liquidity. Some homeowners refinance after the first year once they've claimed the tax credit and stabilized their budget. For most people, though, financing is necessary.
 
 ## Solar Loans: The Next Best Thing to Cash
+
+| Financing Option | Ownership | Tax Credit | Interest Rate | Term Length | Best For |
+| --- | --- | --- | --- | --- | --- |
+| Cash Purchase | Immediate | Full 30% ITC | None | N/A | Maximum savings, 10-11 year payback |
+| Home Equity Loan/HELOC | Immediate | Full 30% ITC | 6-8% | 10-25 years | Homeowners with equity, tax-deductible interest |
+| Unsecured Solar Loan | Immediate | Full 30% ITC | 7.99%+ (with embedded dealer fees) | 10-25 years | Quick approval, no collateral needed |
+| Solar Lease | Installer | Forfeited to installer | Fixed monthly + 2-3% escalator | 20-25 years | Minimal upfront cost, but locked into long-term contract |
+| PPA | Installer | Forfeited to installer | Per-kWh rate + 2-3% escalator | 20-25 years | Minimal upfront cost, payment tied to generation |
+| PACE Financing | Property owner | Full 30% ITC | 6-12% | 5-25 years | Limited credit options, but high lien risk |
 
 A solar loan lets you own the system while spreading payments over time. This is where loan products vary wildly, and those differences absolutely matter.
 
@@ -55,7 +64,7 @@ Your real payback period under each scenario is critical. Our guide on [how long
 
 Leases and Power Purchase Agreements (PPAs) get heavily marketed because they're simple to approve. Zero down, no maintenance headaches, immediate "savings." I understand the appeal. But here's what you're actually signing.
 
-With a **solar lease**, you pay a fixed monthly amount for the right to use panels on your roof. The installer owns them. With a **PPA**, you pay per kilowatt-hour generated, usually at a rate slightly below your utility rate. Either way, you don't own the panels, you forfeit the federal tax credit (the installer pockets it), and you're locked into a 20-to-25-year contract with annual escalator clauses of 2% to 3%.
+With a **[solar lease](/is-solar-lease-worth-it/)**, you pay a fixed monthly amount for the right to use panels on your roof. The installer owns them. With a **PPA**, you pay per kilowatt-hour generated, usually at a rate slightly below your utility rate. Either way, you don't own the panels, you forfeit the federal tax credit (the installer pockets it), and you're locked into a 20-to-25-year contract with annual escalator clauses of 2% to 3%.
 
 That escalator is what people overlook. Sign a PPA at $0.10/kWh with a 3% annual escalator, and by year 15 you're paying $0.156/kWh. Whether that's still a bargain depends entirely on what utility rates do, which is impossible to predict with certainty.
 

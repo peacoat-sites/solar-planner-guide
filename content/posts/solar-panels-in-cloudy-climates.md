@@ -23,6 +23,7 @@ faqs:
    a: "Most installers consider 3.5 or more peak sun hours per day a workable threshold, assuming reasonable electricity rates. Below that, you're not necessarily out, but your payback period stretches. Pair the NREL PVWatts Calculator with your actual utility rate to get a real picture."
  - q: "Will solar panels produce enough in winter to be useful?"
    a: "Production drops in winter, sometimes significantly. A system that produces 1,200 kWh in July might produce 400 kWh in December in a northern climate. The model that makes this work financially is annual net metering: summer surplus credits offset winter deficits. If your utility offers true annual net metering, winter underproduction matters much less."
+lastmod: 2026-07-07
 ---
 
 Seattle gets about 226 cloudy days a year. And yet it's one of the cities where I most often tell people to go solar.
@@ -36,6 +37,14 @@ Photovoltaic cells respond to diffuse light, not just direct sunlight. When clou
 There's also a counterintuitive effect that I always mention: solar panels actually perform *better* in cooler temperatures. High heat degrades output. A panel rated at 400 watts is tested at 25°C (77°F). In Phoenix in August, when ambient temps hit 110°F and a roof surface can reach 150°F+, panels can lose 10-25% of their rated efficiency just from thermal losses. In Seattle or Portland, where summers are mild, panels often perform closer to their nameplate rating during peak production hours than their counterparts in the desert Southwest. Germany, the world's fourth-largest solar market according to SEIA data, gets less peak sun annually than Alaska. That should settle the argument.
 
 ## The Number That Actually Matters: Peak Sun Hours
+
+| Location | Peak Sun Hours/Day | Avg. Grid Rate | Annual Production Difference vs. Phoenix | Climate Notes |
+| --- | --- | --- | --- | --- |
+| Phoenix | 6.5 | Lower | Baseline | High heat reduces panel efficiency |
+| Seattle | 3.5-4.0 | ~$0.12/kWh | -30-40% | Cooler temps improve performance |
+| Boston | 4.2 | ~$0.22-0.28/kWh | -30-40% | High rates improve ROI despite lower sun |
+| Massachusetts/New York/Connecticut | 3.5-4.5 | $0.22-0.28/kWh | -30-40% | High electricity prices offset lower production |
+| Juneau, Alaska | 2.7 | Subsidized | Poorest | North-facing, tree-covered lots problematic |
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -55,9 +64,9 @@ I'd recommend plugging your address into EnergySage's solar calculator before ca
 
 Not all panels handle diffuse light equally, and this is where I push back on the "just get the cheapest per-watt option" advice.
 
-Standard polycrystalline panels are fine in high-sun climates where direct irradiance dominates. In persistently cloudy climates, monocrystalline panels have a meaningful edge in low-light performance, and premium lines like the Panasonic EverVolt or REC Alpha series are specifically engineered with heterojunction technology that harvests diffuse light more efficiently than standard mono cells. The premium is real, maybe $0.15-0.25/watt more installed, but in a climate where diffuse light makes up a larger share of your annual production, it's usually worth paying.
+Standard polycrystalline panels are fine in high-sun climates where direct irradiance dominates. In persistently cloudy climates, [monocrystalline panels](/monocrystalline-vs-polycrystalline-solar-panels/) have a meaningful edge in low-light performance, and premium lines like the Panasonic EverVolt or REC Alpha series are specifically engineered with heterojunction technology that harvests diffuse light more efficiently than standard mono cells. The premium is real, maybe $0.15-0.25/watt more installed, but in a climate where diffuse light makes up a larger share of your annual production, it's usually worth paying.
 
-Microinverters also matter more in cloudy climates than most people realize. String inverters are vulnerable to the "Christmas light effect": if one panel gets shading or performs poorly (say, a cloud bank covering one side of the roof), it drags down the output of the entire string. Microinverters from Enphase, or power optimizers from SolarEdge, let each panel operate independently. In a climate where partial shading from clouds or trees is routine, this can recover 5-15% of annual production compared to a basic string setup. That's not nothing.
+[Microinverters also matter](/microinverters-vs-string-inverter/) more in cloudy climates than most people realize. String inverters are vulnerable to the "Christmas light effect": if one panel gets shading or performs poorly (say, a cloud bank covering one side of the roof), it drags down the output of the entire string. Microinverters from Enphase, or power optimizers from SolarEdge, let each panel operate independently. In a climate where partial shading from clouds or trees is routine, this can recover 5-15% of annual production compared to a basic string setup. That's not nothing.
 
 If you want to monitor your system's performance in real time and catch underperformance early, a device like the [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) is an inexpensive way to track production and consumption at the circuit level. (The site may earn a commission on that link.) I've seen homeowners go months with a poorly performing panel before catching it on their utility bill. Real-time monitoring fixes that.
 

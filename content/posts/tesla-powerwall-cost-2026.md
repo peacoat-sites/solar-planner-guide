@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 Most people searching for Tesla Powerwall pricing find a number, feel good about it, and then discover at installation that the real cost was 40% higher. That gap between the sticker price and the check you actually write is where most solar coverage fails you. Let's close it.
 
@@ -50,6 +50,17 @@ That 11.5 kW continuous output is the headline upgrade. The Powerwall 2 couldn't
 ---
 
 ## The Full Cost Breakdown: Hardware, Installation, and Hidden Line Items
+
+| Item | Cost |
+|---|---|
+| Powerwall 3 unit (1) | $9,200 |
+| Powerwall 3 unit (2) | $18,400 |
+| Tesla Gateway 3 (required) | Included with first unit |
+| Additional Gateway for 3+ units | $1,000-$1,500 |
+| Labor (electrical + mounting) | $1,500-$3,500 |
+| Electrical panel upgrades | $0-$3,000 |
+| Permits and inspection fees | $300-$800 |
+| Utility interconnection fees | $0-$500 |
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -81,13 +92,13 @@ Tesla sells and installs Powerwall directly through its app and website, but thi
 
 ## The Federal Tax Credit: Your Single Biggest Lever
 
-The 30% federal Investment Tax Credit (ITC) applies to battery storage installed in 2026, and it's the most impactful financial tool available to you. A $15,000 all-in Powerwall installation reduces your federal tax liability by $4,500. A $28,000 two-unit system saves $8,400.
+The 30% federal Investment Tax Credit (ITC) applies to [battery storage installed in 2026](/solar-battery-storage-worth-it/), and it's the most impactful financial tool available to you. A $15,000 all-in Powerwall installation reduces your federal tax liability by $4,500. A $28,000 two-unit system saves $8,400.
 
 A few things installers sometimes gloss over:
 
 **It's a tax credit, not a rebate.** You need to owe at least that amount in federal taxes in the year you install, or you'll need to carry it forward. If you're retired on a fixed income with minimal tax liability, the ITC may not help you much. Check with a tax professional before building your payback calculation around it.
 
-**Battery-only systems qualify.** Since the Inflation Reduction Act updated the ITC rules in 2023, standalone battery storage (not paired with solar) qualifies for the full 30% credit. You don't need to install solar simultaneously to capture it.
+**Battery-only systems qualify.** Since the Inflation Reduction Act updated the ITC rules in 2023, [standalone battery storage](/home-battery-storage-options-compared/) (not paired with solar) qualifies for the full 30% credit. You don't need to install solar simultaneously to capture it.
 
 **State incentives stack on top.** California's SGIP rebate program, New York's NY-Sun initiative, and similar programs in Oregon, Massachusetts, and Maryland can cut another $1,000 to $5,000 off your net cost. The [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) maintains a reasonably current list of state-level programs worth cross-referencing with your state's PUC website.
 

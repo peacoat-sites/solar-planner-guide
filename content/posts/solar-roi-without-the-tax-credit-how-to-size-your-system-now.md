@@ -12,6 +12,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 slug: "solar-roi-without-the-tax-credit-how-to-size-your-system-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 A homeowner in Orlando told me last month she was about to sign a contract for a 10-kilowatt system, then her installer mentioned, almost as an aside, that the federal tax credit was gone. She had no idea. She'd been budgeting around a $9,000 credit that no longer exists, and her payback calculation was completely wrong. That scenario is playing out across the country right now, and it's why the ROI framework most people are using is already obsolete.
 
@@ -19,9 +20,16 @@ Here's the state of play: BloombergNEF's June 2026 report projects U.S. resident
 
 ## The Tax Credit Is Gone. Your Spreadsheet Needs to Change.
 
+| Scenario | System Cost | Federal Tax Credit | Net Cost | Payback Period | Key Variable |
+| --- | --- | --- | --- | --- | --- |
+| With 30% Tax Credit (2023-2025) | $28,000 | $8,400 | $19,600 | 6-8 years | Strong nationwide |
+| Without Tax Credit (2026+) | $28,000 | $0 | $28,000 | 8-10 years | Local net metering rates |
+| High-rate state (FL/CA, 14-16¢/kWh) | $28,000 | $0 | $28,000 | 8-10 years | Utility export credits |
+| Low-rate state (9¢/kWh, poor NEM) | $28,000 | $0 | $28,000 | 12-14 years | Deteriorating net metering |
+
 The 30% federal investment tax credit did a lot of heavy lifting for solar ROI. On a typical $28,000 system, it knocked off $8,400 right away, compressing payback periods to the 6-to-8-year range that made solar a genuinely easy sell. Without it, that same system faces an 8-to-10-year payback period, according to current GreenWorld Energy analysis. That two-year difference sounds manageable until you factor in that most people move, refinance, or face a major home expense within a decade.
 
-What this means practically: the variables that were always important, local net metering rates, your utility's rate trajectory, your specific electricity consumption, have become the dominant ROI drivers. The tax credit was forgiving. It smoothed over a mediocre net metering policy or a house with too much shade. Now there's no cushion. You need to run the actual numbers for your ZIP code, not the national average.
+What this means practically: the variables that were always important, [local net metering rates](/how-to-size-a-solar-system-when-exporting-power-pays-almost-nothing/), your utility's rate trajectory, your specific electricity consumption, have become the dominant ROI drivers. The tax credit was forgiving. It smoothed over a mediocre net metering policy or a house with too much shade. Now there's no cushion. You need to run the actual numbers for your ZIP code, not the national average.
 
 ## Why Florida and California Are Defying the National Trend
 

@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 Most people who install solar panels to charge their EV end up disappointed at first. Not because the technology doesn't work, but because nobody told them that a standard 6 kW rooftop system and a Level 2 charger don't automatically play nicely together without some deliberate planning. I've talked to dozens of homeowners who went solar, bought an EV, plugged in, and then got a utility bill that looked suspiciously similar to what they paid before the panels went up. The solar was producing. The car was charging. The math just wasn't adding up. What I found when I dug into this, across real installation data, utility rate structures, and conversations with energy engineers, is that EV-solar integration is genuinely one of the best financial decisions a homeowner can make. But it requires treating your home like a small energy system, not just bolting two green technologies onto the same house and hoping for the best.
 
@@ -40,6 +40,11 @@ Do the math and you'll see the problem: if you add an EV to your existing setup 
 My recommendation is to add 2 to 3 kW of additional solar capacity beyond what you'd install without an EV. That extra capacity translates to roughly 8 to 10 additional kWh per day in most U.S. locations, which covers average daily driving without making your overall system financially bloated.
 
 ## Level 1 vs. Level 2 Charging: Which One Works Best With Solar?
+
+| Charging Level | Voltage | Range Added Per Hour | Installation Cost | Best For Solar? |
+| --- | --- | --- | --- | --- |
+| Level 1 | 120V standard outlet | 3-5 miles | None (existing outlet) | Yes, if daily drive ≤40 miles |
+| Level 2 | 240V dedicated circuit | 20-30 miles | $500-$1,500 | Yes, especially with variable rate control |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -65,7 +70,7 @@ If you want to track your solar production and home consumption without committi
 
 ## Time-of-Use Rates and Net Metering: The Financial Engine
 
-This is the part of the solar-plus-EV equation that genuinely excites me. When you get the rate structure right, the combination becomes dramatically more powerful than either technology alone.
+This is the part of the [solar-plus-EV equation](/solar-panels-and-electric-vehicle-charging/) that genuinely excites me. When you get the rate structure right, the combination becomes dramatically more powerful than either technology alone.
 
 Most utilities have moved to, or are moving toward, time-of-use pricing. Under TOU, electricity costs more during peak demand hours (typically 4 PM to 9 PM) and less during off-peak hours (overnight and midday). The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has noted that solar combined with smart home energy management can significantly reduce household energy costs, particularly as TOU rates become more widespread.
 

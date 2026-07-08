@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-
+lastmod: 2026-07-07
 ---
 Florida gets about 237 sunny days a year. You'd think that makes it the best place in the country to go solar. The truth is more complicated, and the thing that trips up most Florida homeowners has nothing to do with sunshine.
 
@@ -31,7 +31,7 @@ It's the utility companies.
 
 ## Why Florida Is a Good-But-Complicated Solar State
 
-Florida ranks 3rd in the country for installed solar capacity, according to SEIA data, with over 12 gigawatts of residential and commercial solar installed as of 2024. The sun is real. The savings potential is real. But Florida's net metering policy is, politely speaking, a work in progress, and a lot of homeowners find that out after they've already signed a contract.
+Florida ranks 3rd in the country for installed solar capacity, according to SEIA data, with over 12 gigawatts of residential and commercial solar installed as of 2024. The sun is real. The savings potential is real. But Florida's [net metering policy](/net-metering-changes-by-state/) is, politely speaking, a work in progress, and a lot of homeowners find that out after they've already signed a contract.
 
 Here's the short version: Florida eliminated its original 1:1 net metering policy in 2022. The new framework, called "net metering 2.0," means that when your panels produce more electricity than you use and that excess goes back to the grid, you get credited at a lower rate than what you pay for electricity. FPL (Florida Power & Light), which serves about 5.8 million customers, pays avoided-cost rates for surplus power that are substantially below retail. Duke Energy Florida works the same way.
 
@@ -40,6 +40,16 @@ In practical terms, this changes your payback math. A system that might pay itse
 None of this makes Florida a bad solar state. It makes it a state where system design and usage patterns matter more than they do in, say, New Jersey, which still has much stronger net metering protections. Size your system to your actual consumption, not bigger. Add storage if you can afford it, especially in hurricane country.
 
 ## The Real Numbers: What Solar Costs and Saves in Florida
+
+| Item | Cost | Notes |
+| --- | --- | --- |
+| 10 kW system (before incentives) | $28,500 | Based on $2.85/watt average installed cost |
+| 10 kW system (after 30% federal ITC) | $19,950 | Federal Investment Tax Credit through 2032 |
+| Tesla Powerwall 3 (installed) | ~$12,000 | Most common battery option in Florida |
+| Tile roof installation premium | $0.20-$0.40/watt | Additional cost vs. asphalt shingle |
+| Panel removal/reinstall for re-roof | $1,500-$4,000+ | Depends on system size |
+| Monthly savings (well-designed system) | $150-$200 | Central/South Florida, optimized usage |
+| Payback period | 8-12 years | Range depending on conditions and net metering rates |
 
 The average Florida home uses around 1,200 kWh per month, which is higher than the national average of roughly 900 kWh. Air conditioning is doing a lot of work here. That higher usage actually works in your favor because it means more solar production can be consumed directly rather than exported at the lower avoided-cost rate.
 
@@ -61,7 +71,7 @@ A battery changes that equation significantly. The Tesla Powerwall 3, currently 
 
 One thing Florida-specific to keep in mind: the battery incentive situation is improving. If your battery is charged exclusively by solar (not from the grid), it qualifies for the federal 30% ITC alongside your panels. That helps offset the sting of the upfront cost.
 
-The NREL has published research showing that solar-plus-storage systems in high-irradiance climates like Florida can achieve better financial returns than solar-only when you account for time-of-use rates and avoided demand charges, which some Florida utilities are moving toward for residential customers. The resilience value during hurricane season is harder to put a dollar figure on, but it's real.
+The NREL has published research showing that [solar-plus-storage systems](/best-states-for-solar-energy-savings/) in high-irradiance climates like Florida can achieve better financial returns than solar-only when you account for time-of-use rates and avoided demand charges, which some Florida utilities are moving toward for residential customers. The resilience value during hurricane season is harder to put a dollar figure on, but it's real.
 
 ## Roof Conditions, HOAs, and the Bureaucratic Reality
 

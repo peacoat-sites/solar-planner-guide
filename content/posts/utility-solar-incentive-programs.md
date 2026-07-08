@@ -23,9 +23,10 @@ faqs:
    a: "In most cases, yes. Programs like Xcel's BYOD or Green Mountain Power's Powerwall lease don't require you to have solar. A battery alone qualifies in many states. Adding storage to an existing solar system is typically straightforward from an interconnection standpoint, though you may need a utility inspection."
  - q: "Are utility incentive programs available in states without a renewable portfolio standard?"
    a: "Some are, though fewer. States without an RPS have less regulatory pressure on utilities to fund solar programs. That said, some rural electric co-ops and municipal utilities in RPS-free states run their own programs independently. It's worth checking even if your state doesn't have a strong renewable policy. Texas is a good example: the state has almost no solar mandates, yet some Texas co-ops run decent net metering programs because their members asked for them."
+lastmod: 2026-07-07
 ---
 
-Most homeowners who go solar focus entirely on the federal tax credit and stop there. That's understandable. The 30% Investment Tax Credit is real money and easy to understand. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.
+Most homeowners who go solar focus entirely on the [federal tax credit](/federal-solar-tax-credit-2026/) and stop there. That's understandable. The 30% Investment Tax Credit is real money and easy to understand. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.
 
 I've seen clients leave $3,000 to $6,000 on the table because they didn't know to ask. That stings every time.
 
@@ -35,13 +36,21 @@ Utility solar incentive programs vary wildly, they're often time-limited, and so
 
 ## What Utility Incentive Programs Actually Are (And Aren't)
 
+| Program Type | Typical Incentive Amount | Key Benefit | Primary Risk |
+| --- | --- | --- | --- |
+| Rebates | $0.10-$0.50/W ($1,000-$5,000 on 10kW) | Upfront cost reduction | Funding caps; programs close |
+| Net Metering | $0.05-$0.30/kWh export rate | Long-term bill credits | Rates being cut (NEM 3.0 example: $0.30 → $0.05/kWh) |
+| Time-of-Use + Battery | Variable by utility | Peak-hour arbitrage potential | Not all utilities support; requires storage investment |
+| SRECs (NJ example) | $200-$250 per SREC | ~$1,800-$2,500/year on 8kW system | Only available in 6 states; market-dependent |
+| Low-Income Programs | Deeper rebates or free installation | Eliminated cost barrier | Income caps; limited availability |
+
 These are programs run by your electric utility, not the federal government and not your state. They're funded in a few different ways: sometimes through ratepayer surcharges (yes, other customers are subsidizing your panels), sometimes through state-mandated renewable portfolio standards, and sometimes through federal grants the utility received and is passing along.
 
 The major categories:
 
 **Rebates.** A flat payment per watt installed, or a flat dollar amount per system. Pacific Gas & Electric, Xcel Energy, and Green Mountain Power have all run versions of these. Amounts vary from $0.10/W to over $0.50/W depending on the program and funding availability. On a 10-kilowatt system, that's $1,000 to $5,000 before you touch any other incentive.
 
-**Net metering.** This is the big one. When your panels produce more than you use, the excess goes to the grid and your meter runs backward. Your utility credits you, usually at or near the retail rate. EnergySage's market data consistently shows net metering access as the single biggest factor in payback period calculations, even more than installation cost in some markets.
+**Net metering.** This is the big one. When your panels produce more than you use, the excess goes to the grid and your meter runs backward. Your utility credits you, usually at or near the retail rate. EnergySage's market data consistently shows [net metering](/net-metering-policy-by-state/) access as the single biggest factor in payback period calculations, even more than installation cost in some markets.
 
 **Time-of-use rate optimization.** If your utility offers time-of-use (TOU) rates and you pair solar with a battery, you can charge during off-peak hours and sell back during peak hours. Not every utility plays fair here, but where they do, the math gets genuinely attractive.
 

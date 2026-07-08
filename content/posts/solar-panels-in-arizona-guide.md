@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-
+lastmod: 2026-07-07
 ---
 Arizona gets more sunshine than almost anywhere in the country. About 300 days of it per year in Phoenix alone. You'd think going solar here would be a no-brainer, and for most homeowners, it actually is. But I've talked with enough people in Scottsdale, Tucson, and Mesa to know that "Arizona is great for solar" is where the conversation starts, not where it ends.
 
@@ -32,6 +32,12 @@ When people come to me with a stack of installer quotes and that look somewhere 
 Let's work through it.
 
 ## Why Arizona Is Genuinely One of the Best Solar States
+
+| Metric | Phoenix | Chicago | Seattle |
+| --- | --- | --- | --- |
+| Peak Sun Hours/Day | 5.5-6.5 | ~4.0 | 3.5-4.0 |
+| 6 kW System Annual Production | 9,000-10,000 kWh | ~7,200 kWh | ~6,300 kWh |
+| Typical Residential Rate | 12-14¢/kWh | ~12¢/kWh | ~11¢/kWh |
 
 Arizona averages between 5.5 and 6.5 peak sun hours per day depending on where you live, according to NREL data. Seattle gets 3.5 to 4. Most of the Southeast gets 4.5 to 5. Peak sun hours measure solar energy intensity, which directly translates to electricity production. More peak sun hours means a smaller system can do the same work, which means lower upfront cost.
 
@@ -47,7 +53,7 @@ The federal Investment Tax Credit still applies. That's 30% of your total system
 
 I need to spend real time here because this is where Arizona homeowners get surprised.
 
-Your utility company has enormous influence on how much money you'll actually save with solar. Arizona's two dominant utilities, Arizona Public Service (APS) and Salt River Project (SRP), have some of the least solar-friendly net metering policies in the country.
+Your utility company has enormous influence on how much money you'll actually save with solar. Arizona's two dominant utilities, Arizona Public Service (APS) and Salt River Project (SRP), have some of the least solar-friendly [net metering policies](/net-metering-changes-by-state/) in the country.
 
 Net metering is where your utility credits you for excess electricity your panels send back to the grid. Homeowners used to assume those credits were worth roughly what they'd pay for grid power. That's mostly over in Arizona.
 

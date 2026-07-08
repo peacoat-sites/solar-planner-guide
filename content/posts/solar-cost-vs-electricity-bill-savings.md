@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-
+lastmod: 2026-07-07
 ---
 Your neighbor's $14 electricity bill versus your $220 one. That's the question that kicks off most solar conversations, and it's the right one to ask, just not always in the way people ask it. The honest answer depends on numbers most solar salespeople won't sit down and walk through carefully. So let's actually do that.
 
@@ -52,9 +52,16 @@ Take a household using 900 kWh per month at 16 cents per kWh. That's about $1,72
 
 In high-rate states, the numbers look much better. That same setup in California at 32 cents per kWh produces savings closer to $3,100 per year, cutting payback to around 5 years. That's genuinely good.
 
-Here's what installers often bury: net metering policies vary massively. Net metering lets you send excess solar power back to the grid for credit. Some utilities offer full retail rate credits. Others, like utilities in Nevada and Hawaii after recent policy changes, pay well below retail. If your utility pays you 4 cents per kWh for power you send back but charges 30 cents to buy it back at night, oversizing your system stops making sense.
+Here's what installers often bury: [net metering policies](/net-metering-savings-explained/) vary massively. Net metering lets you send excess solar power back to the grid for credit. Some utilities offer full retail rate credits. Others, like utilities in Nevada and Hawaii after recent policy changes, pay well below retail. If your utility pays you 4 cents per kWh for power you send back but charges 30 cents to buy it back at night, oversizing your system stops making sense.
 
 ## The Payback Period: What's Realistic?
+
+| Scenario | System Cost (After ITC) | Annual Savings | Payback Period |
+|---|---|---|---|
+| High-rate state (CA, 32¢/kWh) | $16,100 | ~$3,100 | ~5 years |
+| Average U.S. rate (16¢/kWh) | $16,100 | ~$1,550 | ~10 years |
+| Low-rate state (LA, 11¢/kWh) | $16,100 | ~$1,065 | ~15 years |
+| High-rate + poor sun (Pacific NW) | $16,100 | ~$1,800 | ~9 years |
 
 You deserve honest benchmarks, not the optimistic projections on a solar company's brochure.
 
@@ -79,7 +86,7 @@ You don't need a sales appointment to run your own numbers. This takes about 20 
 
 **Step 2: Find your average rate.** Divide your total annual electricity cost by your total annual kWh. This gives you your blended rate, which accounts for tiered pricing and fees better than the advertised "base rate."
 
-**Step 3: Estimate your system size.** Divide your annual kWh by 1,200. That's a rough rule of thumb based on average U.S. sun hours. A home using 10,800 kWh per year needs about 9 kW. NREL's free PVWatts calculator gives more precision based on your ZIP code.
+**Step 3: [Estimate your system size](/how-many-solar-panels-do-i-need/).** Divide your annual kWh by 1,200. That's a rough rule of thumb based on average U.S. sun hours. A home using 10,800 kWh per year needs about 9 kW. NREL's free PVWatts calculator gives more precision based on your ZIP code.
 
 **Step 4: Estimate installed cost.** Multiply your system size in kW by $2.75 for a baseline. Subtract 30% for the federal tax credit. You need enough tax liability to claim the full credit in the installation year, or you can spread it across future years.
 

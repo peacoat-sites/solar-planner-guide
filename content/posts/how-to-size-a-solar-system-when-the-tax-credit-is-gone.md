@@ -12,6 +12,7 @@ author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 slug: "how-to-size-a-solar-system-when-the-tax-credit-is-gone"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you're staring at a solar quote right now, the math probably feels off. The 30% federal residential tax credit expired December 31, 2025, when the One Big Beautiful Bill took effect July 4, 2025. That changes almost everything about system size, payback, and whether buying solar makes sense at all.
 
@@ -39,7 +40,7 @@ You might think a slower market means cheaper panels. Maybe a little. Installers
 
 Here's what I tell anyone weighing a full purchase against a lease or power purchase agreement: one of these options is about to close.
 
-The Section 48E commercial tax credit for solar leases and PPAs stays at 30% through the end of 2027. But there's a buried detail that matters. Projects must start construction by July 4, 2026 to get that credit. We're talking weeks. If you want a PPA or lease with full tax benefits, you need installers' contracts signed and site work booked now, not next month.
+The Section 48E commercial tax credit for [solar leases and PPAs](/solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system/) stays at 30% through the end of 2027. But there's a buried detail that matters. Projects must start construction by July 4, 2026 to get that credit. We're talking weeks. If you want a PPA or lease with full tax benefits, you need installers' contracts signed and site work booked now, not next month.
 
 Leases and PPAs come with tradeoffs. You don't own the equipment, which gets messy during home sales and keeps you from some state incentives. But if you don't have enough tax liability to use credits anyway, or you hate the idea of a solar loan, locking in a PPA before July 4 might be your best financial move in 2026. Talk to two installers about both options before that deadline passes.
 
@@ -47,9 +48,9 @@ Leases and PPAs come with tradeoffs. You don't own the equipment, which gets mes
 
 The old playbook was to size bigger: bigger system meant a bigger credit, and you'd eventually grow into that extra capacity. That logic doesn't hold anymore.
 
-The new math centers on battery pairing. As of Q1 2026, 40% of new residential solar installations include storage, up from 35% in 2025. That's not random. Without a federal credit, oversizing your system just to dump excess power onto the grid at terrible net metering rates is a waste of money. A system sized precisely to your needs, paired with a battery and designed for self-consumption, usually wins against a larger system without storage when you run the payback numbers.
+The new math centers on battery pairing. As of Q1 2026, 40% of new residential solar installations include storage, up from 35% in 2025. That's not random. Without a federal credit, oversizing your system just to dump excess power onto the grid at terrible net metering rates is a waste of money. A system sized precisely to your needs, [paired with a battery](/how-your-solar-battery-can-now-earn-money-through-vpps/) and designed for self-consumption, usually wins against a larger system without storage when you run the payback numbers.
 
-Here's how I'd approach it now: size to handle 80-90% of your usage, targeting your peak-cost hours, then add battery storage if your utility charges time-of-use rates or if their net metering policy is tightening. Before you sign anything, though, you've got to understand your state's net metering rules.
+Here's how I'd approach it now: size to handle 80-90% of your usage, targeting your peak-cost hours, then add battery storage if your utility charges time-of-use rates or if their net metering policy is tightening. Before you sign anything, though, you've got to understand your state's [net metering rules](/how-to-size-a-solar-system-when-exporting-power-pays-almost-nothing/).
 
 ## Your State's Net Metering Policy May Be About to Change
 

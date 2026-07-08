@@ -23,13 +23,13 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-
+lastmod: 2026-07-07
 ---
 Texas gets more solar energy than almost any other state in the country, yet the average Texas homeowner leaves thousands of dollars in incentives unclaimed every year. In 2024, Texas crossed 40 gigawatts of installed solar capacity, ranking second nationally behind only California according to SEIA data. And yet, many installers will hand you a quote without explaining the full picture of what's available to reduce that number. Let's fix that.
 
 ## The Federal Tax Credit: Still the Biggest Lever You Can Pull
 
-Before we even get to Texas-specific programs, the federal Investment Tax Credit (ITC) deserves serious attention because it's the largest single discount most homeowners will see.
+Before we even get to Texas-specific programs, the [federal Investment Tax Credit (ITC)](/itc-solar-investment-tax-credit-explained/) deserves serious attention because it's the largest single discount most homeowners will see.
 
 Through 2032, the ITC lets you claim 30% of your total system cost as a direct credit against your federal income tax bill. Not a deduction. A credit. That means if your system costs $28,000, you're looking at an $8,400 reduction in what you owe the IRS. The credit applies to panels, inverters, labor, permitting fees, and even battery storage as long as the battery is charged by solar.
 
@@ -51,11 +51,21 @@ These two exemptions alone can add $10,000 to $12,000 in lifetime savings for ma
 
 ## Utility and Municipal Rebates: The Programs Worth Checking in 2026
 
+| Utility / Program | Service Area | Incentive Type | Notes |
+| --- | --- | --- | --- |
+| CPS Energy (WE CARE) | San Antonio | Rebate | Up to $2,500+ for qualifying systems; annual program cycles |
+| Austin Energy | Austin | Value of Solar Tariff | ~9-10 cents/kWh for exported power (lower than retail rates) |
+| Oncor REPs | Dallas-Fort Worth & surrounding | Solar Buyback Plans | Green Mountain Energy Renewable Rewards and Rhythm Energy options available |
+| Pedernales Electric Cooperative (PEC) | Hill Country & Austin suburbs | Solar Rebate | Annual amounts vary; contact PEC directly |
+| Texas-New Mexico Power (TNMP) | Panhandle, Rio Grande Valley & other regions | Net Metering | No direct rebate as of early 2026; interconnection allowed |
+| Texas (State Level) | Statewide | Property Tax Exemption | 100% exemption on added home value; ~$500/year savings at 2.5% rate |
+| Texas (State Level) | Statewide | Sales Tax Exemption | 6.25% state + up to 2% local; ~$2,000 on $25,000 system |
+
 Because Texas has deregulated its electricity market through ERCOT, incentive programs vary wildly depending on who delivers your power. Here are the programs that currently offer meaningful money:
 
 **CPS Energy (San Antonio).** CPS has historically offered rebates through its WE CARE program, sometimes paying $2,500 or more for qualifying systems. Check their current rate in 2026 directly with CPS since these programs fill up and restart on an annual basis.
 
-**Austin Energy.** Austin Energy offers a Value of Solar tariff rather than traditional net metering. Instead of retail-rate credits, you receive a set per-kWh rate for exported power. In recent years that rate has hovered around 9 to 10 cents per kWh. It's lower than retail, which is why system sizing matters so much for Austin homeowners. You want to size your system to cover your own usage rather than export heavily.
+**Austin Energy.** Austin Energy offers a Value of Solar tariff rather than traditional [net metering](/net-metering-policy-by-state/). Instead of retail-rate credits, you receive a set per-kWh rate for exported power. In recent years that rate has hovered around 9 to 10 cents per kWh. It's lower than retail, which is why system sizing matters so much for Austin homeowners. You want to size your system to cover your own usage rather than export heavily.
 
 **Oncor territories.** Oncor delivers power across a large swath of Texas including Dallas-Fort Worth. Oncor itself doesn't offer residential solar rebates directly, but several Retail Electric Providers (REPs) serving Oncor territory offer their own solar buyback plans. Green Mountain Energy's Renewable Rewards buyback plan and Rhythm Energy's solar plans are two worth evaluating. The credits vary, so run the math carefully before signing up with any provider.
 

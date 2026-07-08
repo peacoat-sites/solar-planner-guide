@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 Install a $15,000 home battery system this year and the federal government gives you $3,750 back at tax time. That's not theoretical. It's what the Residential Clean Energy Credit does right now, and I talk to homeowners every week who've never heard of it. Some already bought a battery and missed the credit entirely because they didn't plan ahead. Don't be that person.
 
@@ -38,6 +38,14 @@ Here's the thing about the credit being nonrefundable: if your federal tax liabi
 For how this credit works with your specific solar setup, [ITC Solar Investment Tax Credit Explained](/itc-solar-investment-tax-credit-explained/) breaks it down on this site.
 
 ## How Much Money Are We Actually Talking About?
+
+| Battery System Cost | 30% Federal Credit | Your Net Cost |
+|---|---|---|
+| $8,000 | $2,400 | $5,600 |
+| $12,000 | $3,600 | $8,400 |
+| $15,000 | $4,500 | $10,500 |
+| $20,000 | $6,000 | $14,000 |
+| $25,000 (dual battery) | $7,500 | $17,500 |
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -71,7 +79,7 @@ The federal credit is the biggest single incentive. It's not the only one. Sever
 
 **California** has the Self-Generation Incentive Program (SGIP), which offers $150 to $1,000 per kilowatt-hour of storage capacity depending on income level and fire-threat district status. A 13 kWh battery could generate $2,000 to $13,000 from SGIP alone, on top of the federal 30%.
 
-**New York** offers the NY-Sun storage incentive, which cuts battery costs by $1,000 to $2,000 depending on your utility territory. New York also has a state income tax credit of 25% (up to $5,000) for solar systems, and batteries paired with solar can qualify.
+**New York** offers the NY-Sun storage incentive, which cuts battery costs by $1,000 to $2,000 depending on your utility territory. New York also has a [state income tax credit](/state-solar-incentives-by-state/) of 25% (up to $5,000) for solar systems, and batteries paired with solar can qualify.
 
 **Texas** has no statewide battery rebate, but utilities like Austin Energy and CPS Energy in San Antonio run their own battery incentive programs. Texas exempts solar equipment, including batteries paired with solar, from state sales tax.
 

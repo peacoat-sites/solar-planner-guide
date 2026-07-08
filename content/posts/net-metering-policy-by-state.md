@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-
+lastmod: 2026-07-07
 ---
 A 10-kilowatt solar system on a sunny July afternoon should generate a decent credit on your bill, right? That's what thousands of California homeowners thought. Then they opened their bills after NEM 3.0 took effect in April 2023 and found the value of exported solar energy had dropped by roughly 75%. Not a system failure. A policy change six months before installation. Net metering rules are one of the most critical financial variables in going solar, and most installers barely mention them.
 
@@ -53,7 +53,7 @@ Your state's position matters enormously when calculating real return on investm
 
 ## How Net Metering Policy Changes Your Payback Period
 
-Take a real example: a 7 kW system in Phoenix, Arizona. Cost is $21,000 before incentives. The 30% federal Investment Tax Credit brings it to $14,700. Annual production is about 11,900 kWh. You use 9,500 and export 2,400.
+Take a real example: a 7 kW system in Phoenix, Arizona. Cost is $21,000 before incentives. The 30% [federal Investment Tax Credit](/federal-solar-tax-credit-2026/) brings it to $14,700. Annual production is about 11,900 kWh. You use 9,500 and export 2,400.
 
 Under full-retail net metering at $0.12/kWh (roughly APS's rate), those 2,400 exported kWh earn about $288 annually. Self-consumed power saves $1,140. Total yearly benefit: roughly $1,428. Payback period: about 10.3 years.
 

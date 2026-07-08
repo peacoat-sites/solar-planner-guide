@@ -23,6 +23,7 @@ faqs:
    a: "The physical installation usually takes one to three days. Permitting, utility interconnection approval, and inspection scheduling can stretch the total timeline to six to twelve weeks from signed contract to system activation. That's the part that's genuinely frustrating, and it varies a lot by municipality."
  - q: "What happens to my solar system if I sell my house?"
    a: "Generally, a fully paid-off solar system adds to your home's value. A 2023 Zillow analysis found solar homes sold for roughly 4% more than comparable non-solar homes. If you have a solar loan, it either transfers with the house or gets paid off at closing. Leased systems are more complicated and can sometimes complicate a sale, which is one more reason I'd steer most people toward ownership."
+lastmod: 2026-07-07
 ---
 
 A homeowner I spoke with last year had a $340 electric bill in August. Not because she was wasteful. Just a 2,400-square-foot house in Phoenix, two teenagers, and a central AC unit running almost continuously. She'd been "looking into solar" for three years. The thing that finally got her to act wasn't the savings pitch. It was realizing she'd spent roughly $12,000 on electricity in those three years while she waited.
@@ -42,6 +43,16 @@ Pull your last 12 months of utility bills before you do anything else. Get the a
 The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) publishes a free tool called PVWatts that lets you input your address and system size and get a realistic annual production estimate. Use it before you talk to any installer. Walk in knowing your numbers.
 
 ## Sizing, Panels, and the Storage Question
+
+| System Component | Typical Range | Notes |
+| --- | --- | --- |
+| System Size | 8-15 kW | Most residential whole home systems |
+| Gross Cost (before incentives) | $20,000-$52,000 | At $2.50-$3.50 per watt installed |
+| Cost After 30% Federal Tax Credit | $14,000-$36,000 | Out-of-pocket, varies by installer |
+| Battery Units (if used) | 1-2 units | One for backup; two for daily cycling |
+| Panel Efficiency (premium tier) | 22%+ | REC Alpha Pure, Panasonic EverVolt |
+| Roof Age Threshold for Inspection | 15+ years | Recommended before solar installation |
+| Typical Roof Lifespan | 25-30 years | Matches solar panel lifespan (25+ years) |
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
