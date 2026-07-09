@@ -2,17 +2,19 @@
   {
     "label": "Financing Calc",
     "url": "/solar-financing-calculator/",
-    "icon": "\u2600\ufe0f",
+    "icon": "☀️",
     "match": [
       "financing"
-    ]
+    ],
+    "desc": "Compare loan, lease, and cash options to finance your solar system."
   },
   {
     "label": "Savings Calc",
     "url": "/solar-savings-calculator/",
-    "icon": "\u2600\ufe0f",
+    "icon": "☀️",
     "match": [
       "savings"
-    ]
+    ],
+    "desc": "Estimate how much you could save by switching your home to solar."
   }
 ]
