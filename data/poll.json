@@ -1,0 +1,21 @@
+{
+  "question": "How far along are you on solar?",
+  "options": [
+    {
+      "label": "Just researching",
+      "votes": 512
+    },
+    {
+      "label": "Getting quotes",
+      "votes": 161
+    },
+    {
+      "label": "Already installed",
+      "votes": 74
+    },
+    {
+      "label": "Decided against it",
+      "votes": 43
+    }
+  ]
+}
