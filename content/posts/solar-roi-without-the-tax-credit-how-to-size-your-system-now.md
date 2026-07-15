@@ -70,3 +70,13 @@ The national slowdown is real. BloombergNEF isn't wrong, and Canary Media's rece
 - [Residential Solar After the Tax Credit Ends 2026 Guide](https://www.greenworld-energy.com/blog/2026-survival-guide-for-u-s-homeowners-after-federal-credit-ends) (2026)
 
 ---
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+
