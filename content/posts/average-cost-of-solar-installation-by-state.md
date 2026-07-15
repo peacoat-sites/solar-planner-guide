@@ -116,16 +116,6 @@ Once your system is running, many installers provide a monitoring portal, but a 
 
 Solar is one of the largest financial decisions a homeowner will make, and the cost by state data is really just the starting point. Your roof orientation, local utility rates, plan to stay in the home, and ability to use tax credits all matter as much as what the market charges per watt in your zip code. Get the full picture before you sign anything. Don't let a good pitch substitute for good numbers.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)

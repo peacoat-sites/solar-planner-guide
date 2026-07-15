@@ -96,18 +96,6 @@ The trajectory points toward virtual power plants, where your battery participat
 
 The payoff on NEM 3.0 favors a different solar customer: one who pairs storage with panels, optimizes self-consumption, and treats their home energy system as something to actively manage. That person can still do very well financially in California. The person expecting 2019's simple economics? Those days are over.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)

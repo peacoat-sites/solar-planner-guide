@@ -109,16 +109,6 @@ I'll be direct here. Walk away if you encounter any of these.
 
 The solar market in 2026 gives homeowners genuinely good options at better prices than a decade ago. The companies worth hiring are the ones who can answer every question in this article without hesitation. The ones who hedge, deflect, or rush you toward a signature are telling you something important. Take the extra two weeks to get competitive quotes, check licenses, and talk to older customers. Twenty-five years of electricity savings is worth a careful decision.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)

@@ -121,16 +121,7 @@ Loans win on pure financial return in most scenarios, especially after factoring
 
 A PPA isn't automatically a bad deal. For homeowners who can't use the tax credit or genuinely want zero maintenance obligations, it's a reasonable path to cheaper, cleaner electricity. But it's a long-term financial contract, not just a utility arrangement, and it deserves the scrutiny you'd give a second mortgage. Read the escalator. Model 20 years of costs. Think hard about whether you'll move. The homeowners walking away satisfied are the ones who understood exactly what they were agreeing to before signing anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup. Charges in under 2 hours.
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -142,4 +133,3 @@ A PPA isn't automatically a bad deal. For homeowners who can't use the tax credi
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

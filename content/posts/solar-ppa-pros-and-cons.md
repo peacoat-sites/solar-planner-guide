@@ -124,8 +124,6 @@ The math usually favors ownership for people with tax liability and good credit.
 
 A solar PPA can be a genuinely good deal for the right homeowner, or a 25-year financial constraint for the wrong one. The difference usually comes down to how carefully you read the contract, how well the numbers match your actual situation, and whether you've honestly compared it to what an owned system would cost. Take your time. Ask hard questions. And if a salesperson is pressuring you to sign today, that's all the reason you need to wait until tomorrow.
 
-## Recommended Resources
-
 ## Sources
 
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)

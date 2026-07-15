@@ -106,16 +106,6 @@ Three is a reasonable floor. The EnergySage data on this is pretty consistent: h
 
 You can find a good installer. They exist in every market. But they share the market with people who see a $30,000 purchase and a homeowner who doesn't know the right questions to ask as an opportunity. Now you know the questions. Use them, take your time, and don't let anyone rush you into a decision on their timeline.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)

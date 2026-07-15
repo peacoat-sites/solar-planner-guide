@@ -121,20 +121,7 @@ For homeowners wanting to monitor whole-home energy flow (solar production, batt
 
 If you're in the early research phase, the per-panel output question deserves a good answer. But stop there and you're missing what actually matters: total system production, which depends on how many panels you install, where they're located, and how well your installer designs the array. A good installer will model your specific roof in software like Aurora or PVsyst and show you projected monthly output before you sign anything. If they can't or won't, keep shopping.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-
-*Photo: [Quang Nguyen Vinh](https://www.pexels.com/@quang-nguyen-vinh-222549) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

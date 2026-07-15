@@ -117,16 +117,6 @@ You can't move your house south, but there are concrete things you can do.
 
 On winter solar: it works, it just works differently than in summer. The honest version, with real production numbers and actual limitations, is more useful than the rosy pitch and more reassuring than the skeptic's dismissal. Understanding your specific location, your roof's orientation, and how your utility handles net metering will tell you far more about your winter performance than any generalization. That's the investigation worth doing before you sign anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)

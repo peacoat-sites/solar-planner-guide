@@ -121,19 +121,7 @@ And installers who can't or won't tell you the exact panel model you're getting.
 
 The solar market in 2026 is actually competitive, and good panels exist across a wide price range. But "good enough" and "right for your situation" aren't always the same thing. Spend 20 minutes looking up the actual warranty terms, checking the degradation rate, and verifying the manufacturer has real U.S. presence. Your future self, the one who might need a warranty claim honored in 2035, will thank you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-*Photo: [Dimitri C](https://www.pexels.com/@dimitri-c-33524157) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

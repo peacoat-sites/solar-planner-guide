@@ -148,17 +148,7 @@ To monitor any battery system's performance and catch degradation early, a home 
 
 The Tesla Powerwall 3 is a genuinely good product in 2026 with a pricing structure that still requires careful evaluation. If you have solar, live with time-of-use rates or frequent outages, and can use the 30% federal credit fully, the numbers work. If you're on flat-rate utility pricing with no solar and your grid is reliable, a Powerwall is mostly a premium insurance policy. Know which buyer you are before you sign anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

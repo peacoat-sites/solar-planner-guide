@@ -122,17 +122,7 @@ Finally, software and monitoring apps are part of the real experience. Tesla's a
 
 The honest bottom line is that a battery is a genuinely good investment for some homeowners and a questionable one for others. The difference isn't the battery itself, it's your utility rate structure, your net metering situation, your local grid reliability, and whether you've done the homework to know which category you're in. The homeowners who get burned are the ones who bought on the backup-power pitch without running the numbers. The ones who get the most out of it almost always understood the time-of-use arbitrage angle first.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

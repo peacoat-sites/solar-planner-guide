@@ -77,18 +77,6 @@ What you're hunting for: compare June 2026 production to June 2025, normalized f
 
 The 0.5% figure gets tossed around in sales pitches so casually it feels like background noise. It isn't. Track your production, understand what your warranty actually promises, and spend a bit more for a panel whose degradation rate has been independently verified. Twenty-five years is too long to rely on handshakes and good feelings.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [solar monitoring system](https://www.amazon.com/s?k=solar+monitoring+system&tag=contentportfo-20)

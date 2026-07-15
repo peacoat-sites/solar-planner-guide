@@ -94,16 +94,6 @@ The deal gets harder when you add a lease with 15 years left, a solar loan the b
 
 Pull out your solar contract and read the ownership and transfer clauses right now. Everything else flows from that one document. If you're leasing and you're even thinking about selling in the next few years, get a buyout quote today. Rates and remaining balances shift, and knowing your number early gives you options that waiting will take away.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)

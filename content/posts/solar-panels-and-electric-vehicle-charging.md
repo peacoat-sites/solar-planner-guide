@@ -127,17 +127,7 @@ These numbers assume 330 kWh/month in EV charging, a solar system sized to cover
 
 The combination of solar panels and an electric vehicle is genuinely one of the best long-term financial moves a homeowner can make right now. Get the sizing right, understand your utility's rules, and don't let anyone rush you past the details. Your future self, looking at a $0 electricity and fuel bill, will thank you for taking the time.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

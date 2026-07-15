@@ -101,18 +101,6 @@ If you're financing, compare a solar-specific loan against a home equity line of
 
 For most Arizona homeowners, going solar is genuinely a good move. Your sun resource is exceptional. Your state policy is supportive on taxes. Your utility bills give you plenty of cost to offset. The gotcha is knowing which utility you're on, understanding how their rate structure affects your return, and getting quotes that show honest production estimates. Ask hard questions. Compare at least three installers. Don't let anyone rush you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)

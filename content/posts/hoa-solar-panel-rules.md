@@ -122,16 +122,6 @@ To track this accurately after installation, a solar monitoring system paired wi
 
 The process of getting HOA approval for solar panels can feel like an obstacle course. Most homeowners who approach it methodically, with good documentation and a respectful tone, do get their systems approved. Know your state law, prepare a thorough application, and don't assume a first denial is final. The legal landscape has shifted significantly in favor of homeowners over the past decade, and in most cases, the sun is on your side.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)

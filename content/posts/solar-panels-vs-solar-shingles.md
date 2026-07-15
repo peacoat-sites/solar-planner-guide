@@ -83,16 +83,6 @@ With conventional panels, if your monitoring setup breaks or your inverter manuf
 
 The choice between panels and shingles isn't really about which technology is better. It's about which one fits your specific roof, your budget, your timeline, and honestly, how much you care about how it looks. If your roof is fine and you want the fastest payback, panels win, and it's not particularly close. If you're replacing a roof anyway and aesthetics matter a lot to you, shingles deserve a serious look. Just get quotes for both, and don't let anyone tell you the price difference is negligible. It isn't.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)

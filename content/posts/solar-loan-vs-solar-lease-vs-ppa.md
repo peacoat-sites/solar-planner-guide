@@ -169,8 +169,6 @@ Leases and PPAs serve an important purpose for homeowners who would otherwise ha
 
 *Photo by [Kindel Media](https://www.pexels.com/@kindelmedia) on Pexels*
 
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue Energy Monitor](https://www.amazon.com)

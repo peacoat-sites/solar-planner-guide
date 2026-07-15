@@ -133,19 +133,7 @@ The Department of Energy recommends checking your production data yearly against
 
 Payback period isn't everything when evaluating solar, but it's the most honest starting point. It shows exactly when this investment stops costing you and starts paying you back. Calculate it yourself using your actual utility rate, your actual net metering terms, and your actual tax situation. A salesperson's estimate is an opening. Your own math is what you sign for.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-*Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

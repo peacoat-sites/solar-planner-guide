@@ -140,17 +140,7 @@ Getting incentives isn't automatic. Here's the process most Florida homeowners f
 
 Florida homeowners who act in 2026 are working with one of the better incentive windows the state has seen: a 30% federal credit, no sales tax on equipment, permanent property tax protection, and utility rates that keep climbing. The incentive math is honest and the savings are real. Just go in with accurate expectations about net metering, get multiple quotes, and nail down your tax situation first. Do that, and solar in Florida makes sense.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

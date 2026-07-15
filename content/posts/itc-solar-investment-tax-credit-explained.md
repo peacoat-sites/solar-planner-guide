@@ -124,19 +124,6 @@ For homeowners considering a large system or adding battery storage, the window 
 
 The solar ITC is genuinely one of the most powerful financial tools available to homeowners right now, but it rewards those who understand the details. Know what costs qualify, confirm you have enough tax liability to use the credit efficiently, and keep clean records. A 30% reduction in a $20,000 investment is $6,000 back in your pocket. That kind of return doesn't come along often. Make sure you're positioned to capture every dollar of it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-
-*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)

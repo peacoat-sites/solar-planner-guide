@@ -118,17 +118,7 @@ For context on solar costs and savings in your specific state before incentives,
 
 Rebates won't save a bad solar investment, but they can close the gap between a system that barely works and one that clearly makes sense. The homeowners who win at solar aren't always the ones who got the cheapest quote. They're the ones who researched, asked hard questions, and claimed every available incentive before signing paperwork.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

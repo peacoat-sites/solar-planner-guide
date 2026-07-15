@@ -127,19 +127,9 @@ Here's the actual sequence.
 
 The 30% federal tax credit makes solar financially compelling for a lot of homeowners right now. It'll keep making sense as utility rates climb. But the tax credit doesn't protect you from a bad installation or a company that's out of business when you need warranty service. Two or three hours vetting installers properly is the highest-leverage thing you can do in this entire process. The panel specs and financing terms matter far less than who's actually doing the work.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
 ---
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

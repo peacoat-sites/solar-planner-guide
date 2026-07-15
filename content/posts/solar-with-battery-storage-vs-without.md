@@ -119,17 +119,7 @@ There are scenarios where a battery isn't optional, even if the payback period l
 
 The battery question doesn't have a universal answer, but it has a right answer for your specific situation. What matters is the framework to figure out your version of that answer: know your net metering rate, know your rate structure, be honest about your outage risk, and don't let anyone rush you into a decision either way. Solar is a 25-year asset. Getting it right matters more than getting it fast.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

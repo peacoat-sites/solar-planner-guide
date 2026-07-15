@@ -111,17 +111,7 @@ The IQ Battery 5P carries a 15-year warranty with a guarantee of at least 70% ca
 
 The Enphase IQ Battery is genuinely one of the better residential storage options available right now, particularly if you're building a system from scratch or already running Enphase microinverters. The modular design, the ecosystem integration, and the 15-year warranty are real advantages. The caveats are real too: the per-kWh cost is higher than some competitors, the round-trip efficiency isn't best-in-class, and it won't run your central air conditioner on a single unit. Go in with accurate expectations, run your own numbers on backup load requirements, and make sure the quote in front of you includes everything you need for the setup you actually want.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

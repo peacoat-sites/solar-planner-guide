@@ -113,19 +113,6 @@ The technology absolutely works. Off-grid solar homes aren't experiments anymore
 
 Know which situation you're in before you spend a dollar.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-
-*Photo: [Skyler Ewing](https://www.pexels.com/@skyler-ewing-266953) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)

@@ -100,25 +100,4 @@ If you want to track your energy use and figure out exactly what loads matter mo
 ---
 
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599), 1002Wh portable power station with three 1000W AC outlets, one of the best-reviewed solar generators on Amazon.
-- **[Jackery Explorer 1000 v2 (1070Wh, 1-Hr Charge)](https://www.amazon.com/dp/B0D7PPG25F/?tag=contentportfo-20)** (~$799), Updated Jackery Explorer 1000 with LFP battery and ultra-fast 1-hour recharge.
-

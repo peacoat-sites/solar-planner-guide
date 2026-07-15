@@ -84,18 +84,6 @@ If you do install on a partially shaded roof, per-panel monitoring is non-negoti
 
 Without panel-level monitoring, you're flying blind. The Emporia Vue ([around $70 on Amazon](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)) won't give you panel-level data, but it's a solid whole-home energy monitor that at least helps you track whether your total solar production is drifting over time. Catch a 15% production drop early and you might find a trimming job is all that's needed.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [El Jundi](https://www.pexels.com/@talal) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)

@@ -122,19 +122,7 @@ To give buyers confidence in the system they're inheriting, consider investing i
 
 The good news is that thousands of solar-leased homes sell every year without major drama. The key difference between a smooth transfer and a transaction-threatening headache is almost always timing and transparency. Contact your leasing company before you list, put the lease details in your listing, and give buyers time to review the terms without pressure. Do those three things, and you've eliminated most of the risk before it ever becomes a problem.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [Roman Biernacki](https://www.pexels.com/@szafran) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -103,18 +103,6 @@ For this household, assuming a $180/month electricity bill and good south-facing
 
 New York's incentive stack rewards homeowners who do their homework. The dollars are substantial and real, but you have to actively claim most of them. Miss the property tax exemption filing or misunderstand your net metering tariff, and you're leaving thousands on the table. Go in with accurate numbers, get competing bids from certified installers, and verify incentive availability for your specific utility territory before you sign anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [NREL](https://www.nrel.gov/)

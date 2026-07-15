@@ -122,17 +122,7 @@ Here's what I want you to hear: the credit doesn't vanish tomorrow. There's no e
 
 The federal solar tax credit is genuinely one of the best incentives for residential energy ever created, and it's available right now. But incentives that feel permanent have a way of disappearing before people act. The homeowners who get the best results are the ones who spend a few weeks doing their homework, collect multiple quotes, verify their tax situation with an accountant, and make a deliberate choice rather than a frantic one. You don't need to panic. You just need a plan.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

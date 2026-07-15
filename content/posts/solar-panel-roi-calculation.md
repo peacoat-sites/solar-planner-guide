@@ -143,19 +143,6 @@ I'd be doing you wrong if I only highlighted the upside. Solar is sometimes a ge
 
 Solar can be an excellent investment, mediocre, or terrible depending entirely on your situation. Do your own math, challenge the assumptions in any quote, and don't let enthusiasm override the arithmetic. Homeowners happiest with their systems five years later are almost always the ones who went in with realistic numbers and no surprises.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-
-*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)

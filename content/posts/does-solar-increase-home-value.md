@@ -99,20 +99,7 @@ In most states, yes. You'll typically need to disclose whether the system is own
 
 The bottom line is more nuanced than most solar installers will admit, but it's genuinely good news for people who go in with clear eyes: own your system, document your savings, and sell in a market that values it. Do those three things and solar is one of the few home improvements that can pay you back twice.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-
-*Photo: [ArtHouse Studio](https://www.pexels.com/@arthousestudio) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -127,4 +114,3 @@ The bottom line is more nuanced than most solar installers will admit, but it's 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

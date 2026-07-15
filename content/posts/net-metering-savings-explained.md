@@ -117,8 +117,6 @@ A few policy details that don't get enough attention:
 
 Net metering is genuinely one of the most powerful financial tools available to solar homeowners, but it's not a universal guarantee. The details of your state's policy, your utility's specific rules, and how well your system is sized all determine whether you're looking at a $200 annual bill or a $1,800 one. Get those details right before you sign anything, and the math can be very compelling.
 
-## Recommended Resources
-
 ## Sources
 
 - [the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)

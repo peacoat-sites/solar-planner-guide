@@ -98,16 +98,6 @@ Push your self-consumption higher (time your laundry, pool pump, EV charging to 
 
 The U.S. Department of Energy's homeowner solar guide shows 25-year lifetime savings for Texas systems in the $25,000 to $40,000 range, depending heavily on local rates and usage. Those numbers are real, but they require the system to be well-designed and installed, not just adequate.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)

@@ -85,17 +85,6 @@ For monitoring your system's performance during and after an outage, a whole-hom
 
 My neighbor eventually got a Powerwall installed that following spring. She texted me during the next outage, which hit in October, a photo of her kitchen lights on and her coffee maker running. "Finally," was all it said. That's a pretty good outcome for $13,000 after the tax credit. Whether it's the right outcome for your house, your grid reliability, and your budget is a different question, one worth taking seriously before you sign anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-
-## Recommended Resources
-
 ## Sources
 
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)

@@ -123,19 +123,7 @@ Payback periods in Texas commonly run 7 to 11 years depending on your electricit
 
 Texas isn't the easiest state to navigate for solar incentives. The fragmented utility landscape means you genuinely have to do some homework. But for homeowners willing to take the time to understand the federal ITC, claim the automatic state tax exemptions, and choose their REP strategically, the financial case for solar in Texas in 2026 is strong. The sun in Texas doesn't care about grid politics. It shows up reliably, and with the right system design, so do the savings.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-*Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

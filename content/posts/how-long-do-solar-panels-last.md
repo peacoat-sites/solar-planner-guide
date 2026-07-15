@@ -119,8 +119,6 @@ What you almost certainly won't face: a sudden, total system shutdown that leave
 
 Thirty years ago, people asked whether solar panels would even work. Today the question is smarter: how do you get the most out of a system you're likely to own longer than your car? The panels themselves are, in most cases, the least worrisome part of the equation. The decisions that really determine your long-term return are made before installation: the installer you choose, the monitoring habits you build, and whether you're paying attention when something quietly starts to slip. Get those right, and 25 years from now you'll have a system that's still quietly doing its job and a roof full of technology that's genuinely paid its way.
 
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)

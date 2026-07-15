@@ -106,18 +106,6 @@ Here's the sequence I walk homeowners through:
 
 The best state for solar savings is ultimately the state where your bill is high, your utility plays fair with export credits, and you can get a competitive installation price. Sometimes that's Massachusetts. Sometimes it's your specific corner of Illinois or Maryland or New Jersey. The homework is worth doing before anyone puts panels on your roof.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-*Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)

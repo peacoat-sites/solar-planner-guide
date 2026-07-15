@@ -101,8 +101,6 @@ Get at least three quotes. EnergySage's marketplace is genuinely useful for this
 
 The sun in Florida is genuinely exceptional. Nearly 5.5 peak sun hours per day in most of the state, year-round. What separates a good solar investment from a mediocre one here is mostly execution: getting the system sized right, choosing equipment that performs on a real Florida roof with real shading conditions, understanding the net metering rules before you sign anything, and, increasingly, pairing panels with storage so you're actually insulated from grid dependence when the next storm rolls through. The solar math works. You just have to run it correctly.
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

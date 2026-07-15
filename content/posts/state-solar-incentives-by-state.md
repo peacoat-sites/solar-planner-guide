@@ -108,28 +108,6 @@ Here's a practical process I recommend to every client before they get their fir
 
 **Step 6: Run your own payback calculation.** Use the total net system cost after all incentives, your utility rate, and your annual production estimate to calculate payback. Our [solar payback period calculator](/solar-payback-period-calculator/) makes this straightforward.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-## Recommended Resources
-
-
-| State | Key Incentives | Property Tax Exemption | Sales Tax Exemption | Net Metering Status |
-| --- | --- | --- | --- | --- |
-| Massachusetts | 15% income tax credit (up to $1,000), SMART program ($0.05-$0.20/kWh for 10 years) | Yes | Yes | Strong |
-| New York | 25% tax credit (up to $5,000), NY-Sun Megawatt Block ($0.20-$0.40/watt) | Utility-dependent | Yes | Strong |
-| New Jersey | SREC market, sales tax exemption | 100% of added value | Yes | Strong |
-| California | Limited (NEM 3.0 reduced export rates) | Utility-dependent | Yes | Weakened (NEM 3.0) |
-| Texas | None (no state income tax) | 100% of added value | Utility-dependent | Utility-dependent |
-| Florida | Full property tax exemption | Yes | Yes | Disputed/Weakening |
-| Georgia | None | No | No | Unfavorable |
-| Arizona | 25% tax credit (up to $1,000) | No | No | Unfavorable |
-
 ## Sources
 
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)

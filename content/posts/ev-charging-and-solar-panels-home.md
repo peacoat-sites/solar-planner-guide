@@ -123,17 +123,7 @@ Real results take a full billing cycle or three to show up. Track your net meter
 
 Solar and EV charging are genuinely better together than apart, but only when you approach them as a system. The homeowners I've seen get the best results are the ones who spent a few hours understanding their utility rate structure, chose a smart charger, and sized their solar array with the car in mind from the start. It's not complicated once you have the right framework. And the combination of driving on sunlight while watching your electricity bill shrink toward zero is, I'll admit, a deeply satisfying thing to pull off.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

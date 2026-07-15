@@ -89,18 +89,6 @@ When you sit down with installers, don't let them size your system based on your
 
 Also ask what happens if the system underproduces. A good installer will explain their production guarantee and how they modeled your shading and roof losses. A less careful one will change the subject.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [U.S. Energy Information Administration via the Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)

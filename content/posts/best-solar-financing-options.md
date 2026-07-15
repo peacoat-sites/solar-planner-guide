@@ -118,20 +118,7 @@ You can also cross-reference [what solar costs in your state](/average-cost-of-s
 
 The financing decision you make when you go solar echoes through your finances for the next 10 to 25 years. That's not cause for paralysis. It's a reason to spend a couple extra weeks getting competitive quotes, reading the total cost disclosures, and running real numbers. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) is a solid starting point. The right financing option is one that gets you a system you own, at a total cost that beats what you'd pay the utility, with terms you can actually live with.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

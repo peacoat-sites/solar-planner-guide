@@ -103,20 +103,7 @@ Whether this is good or bad for homeowners depends on your perspective. Batterie
 
 Net metering policy is, at its core, a negotiation between what solar homeowners want and what utilities are willing to give, refereed by state regulators answering to both. The rules are changing faster than ever before, and the direction in most states is toward lower export compensation. That doesn't mean solar is a bad deal. In most markets, it still pencils out well. But the version of solar that pays for itself mostly through grid exports is increasingly a thing of the past. Designing a system around self-consumption, ideally with storage, is becoming the smarter approach regardless of where you live.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-
-*Photo: [Theodore Nguyen](https://www.pexels.com/@thejourneyofframes) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

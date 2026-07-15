@@ -127,19 +127,7 @@ The [Emporia Vue 2 Smart Home Energy Monitor](https://www.amazon.com/s?k=emporia
 
 Solar is a strong financial investment for a lot of homeowners, but not for all of them. The honest answer is that your specific situation, your rate, your roof, your state's policies, and how you finance it determines whether this is a 7-year payback or a 15-year one. Run the real numbers, not the brochure numbers. A free quote from multiple installers through a platform like EnergySage gives you competitive pricing and lets you compare assumptions side by side. The goal isn't to go solar. The goal is to make a decision you'll still feel good about in year ten.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169): Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599): 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99): Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
-*Photo: [Calvin Seng](https://www.pexels.com/@calvinseng) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -155,4 +143,3 @@ Solar is a strong financial investment for a lot of homeowners, but not for all 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

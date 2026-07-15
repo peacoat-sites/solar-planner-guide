@@ -115,20 +115,7 @@ Before asking installers for quotes, run your own numbers. Get twelve months of 
 
 The federal solar tax credit in 2026 might be the most straightforward wealth-building opportunity available to homeowners right now. Thirty percent of a system cost that then cuts your utility bills for 25 years is compelling. It works for a lot of people. But it only works if you actually do the math honestly, with real quotes, real rates, and a clear read on your tax situation. That's where to start. The credit becomes a bonus on a decision that already made sense.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -109,16 +109,6 @@ Electricity rates below $0.10 per kWh? Your returns thin out fast. Solar hits be
 
 Getting the right per-watt price in 2026 boils down to one thing: comparison shopping with real information. Grab at least three quotes, standardize the format, ask hard questions about warranties and production, and don't let sales pressure or a limited-time offer short-circuit your research. The market's competitive enough that a patient, informed buyer almost always wins.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)

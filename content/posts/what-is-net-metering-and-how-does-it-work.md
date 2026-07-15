@@ -99,19 +99,7 @@ If you're in a time-of-use rate structure, which many utilities now default sola
 
 The honest takeaway: net metering is genuinely good in many states and genuinely mediocre in others. The gap between those situations is large enough to change your system sizing strategy, your battery decision, and your realistic payback timeline. Before you go near signing a solar contract, pull up your utility's interconnection tariff and find the words "net energy metering" or "distributed generation compensation." The rate per kWh and the carryover rules are in there. They matter more than the brand of panels on your roof.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

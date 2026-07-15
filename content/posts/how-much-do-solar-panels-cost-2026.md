@@ -116,16 +116,6 @@ I'll say what a lot of installers won't. Solar doesn't pencil out for everyone, 
 
 Solar in 2026 is a mature, well-understood investment with real financial upside for millions of homeowners, but it's not right for everyone at every price point. Get three quotes, run the numbers yourself with tools like PVWatts, understand your tax situation before banking on the ITC, and ask hard questions about net metering in your specific utility territory. The homeowners who get burned on solar are almost always the ones who skipped the homework.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage](https://www.energysage.com)

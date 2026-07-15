@@ -137,19 +137,7 @@ Battery storage is its own topic, but here's the point: if you're considering ba
 
 The honest answer to "how many panels do I need" is that it takes about 20 minutes of real work to get right. Run the numbers in PVWatts, pull your actual usage data, and think about where your energy consumption is headed over the next 5 to 10 years. The homeowners happiest with their solar systems understood the math before signing anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-*Photo: [Nova lv](https://www.pexels.com/@nova-lv-155338973) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -113,16 +113,6 @@ California's solar incentive landscape in 2026 is complicated, sure. But it's no
 
 The homeowners who struggle are the ones expecting old NEM 2.0 math to still apply. The ones who win design systems around self-consumption, understand their utility's TOU rates, and actually use what's available. That's solvable. The numbers work in your favor if you approach it clearly.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)

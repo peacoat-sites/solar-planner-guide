@@ -122,20 +122,7 @@ And if your utility switched to "net billing" that pays wholesale rates instead 
 
 The solar decision isn't whether panels are "worth it" in some abstract sense. It's whether they're worth it for your specific roof, your specific utility, and your specific finances. Run your own numbers, get multiple quotes, check your utility's net metering policy. Don't let anyone rush you. A system you understand beats one you were sold.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-
-
-*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

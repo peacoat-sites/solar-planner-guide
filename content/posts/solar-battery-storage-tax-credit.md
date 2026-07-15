@@ -121,19 +121,7 @@ Once your battery's installed, a home energy monitor like the Emporia Vue or Sen
 
 The 30% Residential Clean Energy Credit for battery storage is one of the best incentives available right now. It sits on the table for most of the next decade. Whether you're going solar for the first time or adding storage to an existing system, understanding how this credit works and how to claim it correctly puts thousands back in your pocket. The rules are straightforward. The math is real. Plan it right.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
-*Photo: [William Mead](https://www.pexels.com/@william-mead-106275) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

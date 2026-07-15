@@ -114,16 +114,6 @@ I tell people this all the time: the battery brand matters less than the install
 
 The home battery market in 2026 is strong: better hardware, more competitive pricing, and real financial tools through tax credits and utility programs that didn't exist a few years ago. The homeowners I've seen make the best decisions are the ones who slowed down, understood their own usage, checked their specific utility's policies, and got multiple quotes before committing. Do those things, and whichever battery you land on will serve you well.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)

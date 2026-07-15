@@ -123,16 +123,6 @@ When a quote lands in your inbox, most homeowners have no idea what to actually 
 
 The zero-down solar market is legitimately good news for homeowners who couldn't previously participate. The options are real, the savings are real, and millions of households have benefited. But the financing structure you choose will shape your financial outcome for the next 20 to 25 years. Take an extra week, get multiple quotes, and ask the uncomfortable questions about dealer fees, escalator clauses, and tax credit eligibility. The installers who are worth your business will have clear, honest answers.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)

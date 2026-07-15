@@ -96,18 +96,6 @@ Leases and PPAs have gotten more competitive too. If you're in a state with stro
 
 The solar industry is genuinely good at making complex financing look simple. It's one of the things that makes going solar feel accessible, and sometimes it actually is. But you're making a 20 to 25 year financial commitment, often for $20,000 to $40,000, and the interest rate you lock in today will determine whether solar was a great decision or an expensive lesson. Take the extra week to compare lenders, understand the dealer fee dynamics, and know your real cost before signing. Your future electricity bill will thank you for it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's marketplace](https://news.energysage.com/)

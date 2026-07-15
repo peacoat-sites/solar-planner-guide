@@ -112,18 +112,6 @@ If you're stacking multiple incentives, a CPA who understands energy credits is 
 
 The 30% credit is one of the most straightforward federal incentives available to homeowners right now, but only if you claim it correctly. Get your invoice itemized, install Form 5695 into your mental filing cabinet for April, and if you financed, know your loan's payment window before you file. The money is there. The paperwork to get it is manageable. The only way to lose is to not pay attention.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)

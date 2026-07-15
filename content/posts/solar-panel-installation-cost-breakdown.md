@@ -123,16 +123,6 @@ Cash is always the cheapest option in total dollars paid. But most homeowners do
 
 The Solar Energy Industries Association (SEIA) publishes regular market data on financing trends, and their research consistently shows that homeowners who purchase their systems outright or with low-interest loans see significantly better long-term returns than those who lease.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor)

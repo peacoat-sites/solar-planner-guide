@@ -86,18 +86,6 @@ The comparison I hear most: SunPower vs. Tesla. My take: if your system is under
 
 If you want to monitor any system's actual performance yourself (rather than relying on a company's app), a home energy monitor like the [Emporia Vue](https://www.amazon.com/dp/B08CJGPHL9?tag=contentportfo-20) gives you independent real-time visibility into what your panels are producing versus what your house is consuming. Worth having regardless of who installed your system. *(Note: this site may earn a commission on purchases made through this link.)*
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)

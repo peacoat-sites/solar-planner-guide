@@ -119,17 +119,7 @@ Also: apply for your federal tax credit. The Residential Clean Energy Credit (fo
 
 Going solar is one of the more complex home improvement projects most people will ever do, not because any single step is difficult, but because there are so many steps, so many different parties involved, and so much time spent waiting. The homeowners I've seen handle it best are the ones who treat it like a project they're managing, not a product they're purchasing. Ask questions. Read your monitoring data. Compare actuals to estimates. The system will work if the installation was done right, and knowing what to look for is the only way to catch problems early enough to fix them.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

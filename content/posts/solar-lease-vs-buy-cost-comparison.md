@@ -168,8 +168,6 @@ Free tools like the NREL PVWatts Calculator or the EnergySage Solar Calculator l
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue Smart Home Energy Monitor (available on Amazon)](https://www.amazon.com)

@@ -102,17 +102,7 @@ This means how you document your system's production matters more than most sell
 
 The $15,000 figure isn't made up, but it's a national average that hides a huge range of outcomes. In San Jose, you might see $30,000. In a rural Midwest market with low electricity rates and appraisers who've never valued solar, it might be close to zero. The honest answer is that solar's value is real and often substantial, especially if you own it outright, you're in a high-rate state, and you have production records to back it up. Get those three things right and the premium becomes more than just marketing talk.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

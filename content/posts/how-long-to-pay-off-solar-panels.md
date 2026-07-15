@@ -102,8 +102,6 @@ And if a salesperson is pressuring you to sign the same day, that's a red flag. 
 
 Solar is one of the best long-term investments a homeowner can make, but only if the numbers actually work for your specific situation. The difference between a 7-year payback and a 14-year payback isn't a rounding error. It's tens of thousands of dollars. Do the math before you sign, use the tools that exist to check your installer's projections, and don't let enthusiasm substitute for arithmetic.
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

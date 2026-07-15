@@ -121,8 +121,6 @@ Energy independence isn't an all-or-nothing proposition. You don't have to disco
 
 Start by getting clear on what you actually need: backup for critical loads, a lower electric bill, or both. Then size the system to that goal, not to a hypothetical. The technology is genuinely good right now. The incentives won't last forever. And the peace of mind of watching a storm roll through without holding your breath? That part is priceless.
 
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor)

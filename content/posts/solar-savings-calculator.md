@@ -108,18 +108,6 @@ If you want the full picture, a [solar production monitoring device](https://www
 
 The best solar savings calculator is the one you build yourself using real numbers from your utility bills, NREL's PVWatts, and a clear head about your state's net metering rules. The second-best is built by someone with zero financial interest in your decision. Installers and lead-gen sites have every reason to show you rosy numbers. You have every reason to pick them apart. Spend an afternoon running the numbers three different ways. You'll walk into any solar conversation knowing whether the deal makes actual sense for your house, not the average house in your zip code.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-
-*Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)

@@ -21,8 +21,6 @@ However you scored, don't treat this as a final answer. Every home's different, 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)

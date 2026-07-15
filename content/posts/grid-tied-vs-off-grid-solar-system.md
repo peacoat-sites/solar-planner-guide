@@ -112,20 +112,7 @@ Often yes, especially if you size the system to offset consumption rather than t
 
 Solar panels are roughly the same either way, typically 25-30 years. The difference is batteries. Lithium iron phosphate batteries in a well-managed off-grid system typically last 10-15 years before significant capacity degradation, meaning you'll likely replace them once over the life of the system. Grid-tied systems without batteries have almost no wear components beyond the inverter, which usually carries a 10-12 year warranty.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

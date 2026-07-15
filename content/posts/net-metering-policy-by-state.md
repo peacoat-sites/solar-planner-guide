@@ -95,19 +95,7 @@ I need to be direct here, because I've watched homeowners make expensive assumpt
 
 **Step 6: Consider battery storage if your state has weak net metering.** In California, Nevada, and similar markets with poor export compensation, pairing panels with a home battery like a Tesla Powerwall or Franklin WH significantly improves economics by letting you consume more of your own generation. A basic [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor) (affiliate link) helps you understand usage patterns before sizing a battery.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-
-*Photo: [Brett Sayles](https://www.pexels.com/@brett-sayles) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

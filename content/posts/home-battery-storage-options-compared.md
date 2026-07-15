@@ -101,17 +101,7 @@ One cost people often underestimate: panel upgrades. Many older homes have 100-a
 
 To keep tabs on your battery's performance after installation, a dedicated [solar monitoring display](https://www.amazon.com/s?k=solar+energy+monitor+display) can give you at-a-glance data without having to pull up an app. (The site may earn a commission on purchases.)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

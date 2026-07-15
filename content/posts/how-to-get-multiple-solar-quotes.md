@@ -85,18 +85,6 @@ And battery storage, if you're interested in a backup battery? Definitely get mu
 
 One more thing: the goal isn't the lowest price. It's the best value from a company that'll still be answering your calls in year 12 when something needs attention. Price shopping aggressively will get you there faster than any other single step you can take.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [SEIA](https://www.seia.org/)

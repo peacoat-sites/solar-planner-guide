@@ -111,20 +111,7 @@ One thing worth tracking after installation: a home energy monitor like the Empo
 
 The right number of panels for your house comes down to your specific consumption, where you live, what net metering rules apply to you, and what your electricity use looks like in three to five years. Run the math, question the assumptions in any quote you get, and remember that the installer's incentive is to sell you a system today, not necessarily to plan for the EV you're buying next spring.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)**
-
-
-*Photo: [Freek Wolsink](https://www.pexels.com/@freek-wolsink-508219) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

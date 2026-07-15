@@ -90,16 +90,6 @@ Leases and PPAs: I'll say it plainly. Unless you truly can't qualify for the tax
 
 Solar in New York isn't a perfect fit for everyone, but for a homeowner with a reasonably young south-facing roof, a meaningful utility bill, and the tax liability to use the credits, few home investments have a comparable combination of financial return and practical benefit. Get multiple quotes, ask about net metering specifics, and don't let anyone rush you into signing before you understand what you're buying.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [NYSERDA NY-Sun dashboard](https://www.nyserda.ny.gov/)

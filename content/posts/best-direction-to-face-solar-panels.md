@@ -109,20 +109,7 @@ Directly, yes. A well-oriented south-facing system in a sunny state like Arizona
 
 If there's one thing I'd want you to take from all of this: get your orientation decision locked in before you sign anything. It's the one thing in a solar install that's genuinely difficult to fix later, and the industry doesn't always flag it loudly. You now know more about this than most homeowners who've already signed contracts. Use that.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-
-
-*Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -138,4 +125,3 @@ If there's one thing I'd want you to take from all of this: get your orientation
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

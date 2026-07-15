@@ -118,16 +118,6 @@ The savings ranges above are illustrative based on EnergySage's market data and 
 
 Going solar with no money down is genuinely possible, and for millions of American homeowners, it's the practical path forward. The key is matching the right financing structure to your specific situation: your credit score, your tax liability, how long you'll stay in the home, and how much you care about long-term ownership. Don't let a single installer's pitch or a single financing product define your decision. Get multiple quotes, run the numbers specific to your address, and treat this like the $20,000-plus financial decision it is.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)

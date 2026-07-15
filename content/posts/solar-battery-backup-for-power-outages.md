@@ -114,16 +114,6 @@ The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) tracks i
 
 The decision to add battery backup isn't really about solar. It's about how much an outage would cost you in dollars, comfort, or safety, and whether the premium over a generator makes sense for your situation. Do the math honestly. Size for what you actually need, not what sounds impressive in a sales pitch. And if your installer can't clearly explain the difference between backup-capable and non-backup configurations, find one who can.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)**
-- **[Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)

@@ -137,19 +137,7 @@ The 30 percent federal Investment Tax Credit (good through 2032 under the Inflat
 
 The math isn't complicated, but it has to start with your numbers, your location, and your actual roof. Every shortcut during the calculation stage shows up later as underperformance, a quote you can't evaluate, or a payback period dragging on longer than expected. Get the inputs right first. Everything else gets cleaner from there.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 

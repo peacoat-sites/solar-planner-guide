@@ -72,18 +72,6 @@ If you have a very poorly insulated home, a heat pump will struggle in cold weat
 
 Older homes with only 100-amp electrical service will likely need a panel upgrade before adding both solar and a heat pump. That's another $2,000 to $5,000 you need to factor in. And if your utility has extremely low net metering rates or has moved to full retail-to-wholesale "buy-all, sell-all" structures, the solar economics get murkier. This is increasingly common. Check your utility's specific net metering policy before you sign anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-
-*Photo: [Dhruvan Patel](https://www.pexels.com/@dhruvan-patel-1353558181) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)

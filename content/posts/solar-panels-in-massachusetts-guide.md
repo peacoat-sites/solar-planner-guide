@@ -75,18 +75,6 @@ Ask specifically: What inverter brand? What panel manufacturer and wattage? What
 
 Massachusetts rewards homeowners who do their homework. The incentive stack is real, the electricity rates make the math work, and if you go in with clear eyes about your roof, your consumption, and your installer, this is one of the most financially solid solar decisions you can make anywhere in the country right now.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-
-*Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor&tag=contentportfo-20)

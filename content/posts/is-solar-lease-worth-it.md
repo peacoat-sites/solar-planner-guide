@@ -114,28 +114,7 @@ Before you sign anything, work through this process.
 
 Solar leases solved a real problem when they emerged: they made solar accessible to people who couldn't write a five-figure check in 2010. That was genuinely valuable. But solar loan products have matured significantly, installation costs have dropped more than 60% over the last decade per SEIA data, and the federal tax credit makes ownership far more attractive than it was when leases dominated the market. For most homeowners with decent credit who plan to stay put, a loan-financed purchase beats a lease on every financial metric that matters. The lease isn't always wrong. It's just rarely the best answer available.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)**
-
-
-*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
 ---
-
-## Recommended Resources
-
-
-| Financing Option | Upfront Cost | Est. 25-Year Savings | Own System at Year 25? |
-|---|---|---|---|
-| Cash purchase | ~$20,000 (after ITC) | $40,000-$60,000 | Yes |
-| Solar loan | $0 down | $25,000-$45,000 | Yes |
-| Solar lease | $0 down | $5,000-$20,000 | No |
-| Do nothing | $0 | -$40,000+ (utility bills) | N/A |
 
 ## Sources
 

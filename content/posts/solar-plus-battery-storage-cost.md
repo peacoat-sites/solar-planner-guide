@@ -96,18 +96,6 @@ The inverter choice matters far more with storage. A string inverter works fine 
 
 Getting solar plus battery right is genuinely more complex than either one alone. The difference between a system that delivers and one that disappoints often comes down to decisions made before the first panel goes up. The numbers here are real, but your utility's rates, your state's incentives, your outage history, your actual electricity use, these all shape your real return. Spend a few hours understanding your electricity bill and what problem you're solving before you sign. The installers who help you think that through clearly are worth hiring.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)**
-- **[P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)**
-- **[EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)**
-
-*Photo: [Ramesh Kambattan](https://www.pexels.com/@rameshkambattan) via Pexels*
-
-## Recommended Resources
-
 ## Sources
 
 - [EnergySage's market data](https://news.energysage.com/)
