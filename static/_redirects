@@ -16,3 +16,6 @@
 /solar-panel-cost-per-watt-2026/ /solar-panel-cost-per-watt/ 301
 /solar-panel-payback-period-calculator/ /solar-payback-period-calculator/ 301
 /tesla-powerwall-cost-2026/ /tesla-powerwall-cost/ 301
+
+# 2026-07-18 structural cleanup 301s
+/author/ /about/ 301
