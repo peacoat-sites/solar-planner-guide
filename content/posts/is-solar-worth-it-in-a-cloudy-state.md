@@ -4,7 +4,7 @@ date: 2026-07-08T09:34:15.961928+00:00
 draft: false
 description: "Discover if solar panels make financial sense in cloudy states. We break down real savings, payback periods, and which states surprise most."
 image: "https://images.pexels.com/photos/9799706/pexels-photo-9799706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-categories: ["Is Solar Worth It"]
+categories: ["Solar Costs & Savings"]
 tags: ["solar", "worth", "cloudy", "state"]
 author: "Patricia Moore"
 author_slug: "patricia-moore"

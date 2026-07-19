@@ -4,7 +4,7 @@ image: "/img/heroes/9875422.jpg"
 description: "Compare estimated annual solar production and electricity savings for a standard 6 kW rooftop system across US states. Data from NASA POWER."
 slug: "solar-production-by-state"
 date: 2026-05-28T09:00:00+00:00
-categories: ["Basics"]
+categories: ["trending"]
 tags: ["solar", "savings", "production", "by state"]
 author: "Derek Hansen"
 author_slug: "derek-hansen"

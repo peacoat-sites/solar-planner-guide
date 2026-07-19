@@ -4,7 +4,7 @@ date: 2026-06-04T12:24:42.633391+00:00
 draft: false
 description: "Discover how much solar panels can increase your home value, with research showing homes sell for up to 4% more, and what factors affect your property's solar p"
 image: "/img/heroes/6628274.jpg"
-categories: ["Costs & ROI"]
+categories: ["Solar Costs & Savings"]
 tags: ["much", "solar", "panels", "increase", "home"]
 slug: "how-much-do-solar-panels-increase-home-value"
 affiliate_disclosure: true

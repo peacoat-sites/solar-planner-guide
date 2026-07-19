@@ -19,3 +19,15 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/basics/ /categories/trending/ 301
+/categories/batteries/ /categories/home-battery-storage/ 301
+/categories/costs-roi/ /categories/solar-costs-savings/ 301
+/categories/equipment/ /categories/solar-panels-equipment/ 301
+/categories/financing/ /categories/solar-financing/ 301
+/categories/incentives/ /categories/tax-credits-incentives/ 301
+/categories/installation/ /categories/solar-installation/ 301
+/categories/is-solar-worth-it/ /categories/solar-costs-savings/ 301
+/categories/maintenance/ /categories/solar-installation/ 301
+/categories/off-grid/ /categories/home-battery-storage/ 301

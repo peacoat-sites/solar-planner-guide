@@ -4,7 +4,7 @@ date: 2026-07-05T09:48:59.414544+00:00
 draft: false
 description: "Explore solar panel financing options for bad credit. Discover loans, leases, and programs that help you go solar regardless of your credit score."
 image: "/img/heroes/29206500.jpg"
-categories: ["Financing"]
+categories: ["Solar Financing"]
 tags: ["solar", "panel", "financing", "credit"]
 author: "Patricia Moore"
 author_slug: "patricia-moore"

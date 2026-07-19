@@ -4,7 +4,7 @@ date: 2026-06-23T10:42:33.155326+00:00
 draft: false
 description: "Discover the best direction to face solar panels for maximum energy output. Learn how orientation, tilt, and location affect your solar system efficiency."
 image: "/img/heroes/27863809.jpg"
-categories: ["Installation"]
+categories: ["Solar Installation"]
 tags: ["best", "direction", "face", "solar", "panels"]
 author: "Patricia Moore"
 author_slug: "patricia-moore"

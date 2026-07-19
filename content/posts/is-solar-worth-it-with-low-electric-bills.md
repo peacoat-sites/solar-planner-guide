@@ -4,7 +4,7 @@ date: 2026-07-10T10:29:54.506404+00:00
 draft: false
 description: "Low electric bills make solar a tougher call. Here's how to weigh the real costs, savings, and breakeven timeline before you commit."
 image: "/img/heroes/9875438.jpg"
-categories: ["Is Solar Worth It"]
+categories: ["Solar Costs & Savings"]
 tags: ["solar", "worth", "with", "electric", "bills"]
 author: "Alex Rivera"
 author_slug: "alex-rivera"

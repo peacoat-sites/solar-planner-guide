@@ -4,7 +4,7 @@ date: 2026-06-28T10:08:24.419998+00:00
 draft: false
 description: "Learn the full solar panel installation timeline from initial consultation to final inspection so you know exactly what to expect at every step."
 image: "/img/heroes/8457866.jpg"
-categories: ["Installation"]
+categories: ["Solar Installation"]
 tags: ["solar", "panel", "installation", "timeline", "what"]
 author: "Patricia Moore"
 author_slug: "patricia-moore"

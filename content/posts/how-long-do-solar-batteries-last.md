@@ -4,7 +4,7 @@ date: 2026-06-05T12:21:33.106347+00:00
 draft: false
 description: "Discover how long solar batteries last, what affects their lifespan, and tips to maximize performance so you get the most value from your solar energy system."
 image: "/img/heroes/36594160.jpg"
-categories: ["Batteries"]
+categories: ["Home Battery Storage"]
 tags: ["long", "solar", "batteries", "last"]
 slug: "how-long-do-solar-batteries-last"
 affiliate_disclosure: true
