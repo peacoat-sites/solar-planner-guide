@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-08
+lastmod: 2026-07-19
 ---
 A 10-kilowatt solar system on a sunny July afternoon should generate a decent credit on your bill, right? That's what thousands of California homeowners thought. Then they opened their bills after NEM 3.0 took effect in April 2023 and found the value of exported solar energy had dropped by roughly 75%. Not a system failure. A policy change six months before installation. Net metering rules are one of the most critical financial variables in going solar, and most installers barely mention them.
 
@@ -40,6 +40,11 @@ Then there's what happens to unused credits. Some states let them roll forward f
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 The current landscape breaks into distinct tiers.
+
+The searchable table below places every state in one of those tiers, with the specific detail for each. Net metering is frequently set utility by utility, so treat this as your state-level starting point and verify your own utility on DSIRE.
+
+{{< datatable "net_metering" >}}
+
 
 **States with strong, full-retail net metering:** New York, New Jersey, Massachusetts, Illinois, and Texas (for most investor-owned utilities) still pay retail rates or very close. New York's Value of Distributed Energy Resources (VDER) tariff is complex but generally favorable. Massachusetts maintains a capped system that's been debated endlessly, but most residential customers still get solid credits.
 

@@ -1,0 +1,284 @@
+{
+ "title": "Net Metering Policy by State (2026)",
+ "note": "How each state compensates rooftop-solar exports at the statewide/dominant-utility level: full retail 1:1 credit, net billing at a reduced export rate, or no statewide mandate. Net metering is often set utility-by-utility, so your specific credit can differ; confirm with your utility and the DSIRE database. Most states grandfather existing customers 10-20 years when rules change.",
+ "search_placeholder": "Search your state…",
+ "filters": [
+  {
+   "key": "policy",
+   "label": "Policy type"
+  }
+ ],
+ "columns": [
+  {
+   "key": "state",
+   "label": "State",
+   "primary": true
+  },
+  {
+   "key": "policy",
+   "label": "Export compensation"
+  },
+  {
+   "key": "detail",
+   "label": "Details",
+   "wide": true
+  }
+ ],
+ "rows": [
+  {
+   "state": "Alabama",
+   "policy": "No statewide mandate",
+   "detail": "No statewide net metering; Alabama Power adds a solar fee and pays avoided cost."
+  },
+  {
+   "state": "Alaska",
+   "policy": "Full retail (1:1)",
+   "detail": "Applies to Railbelt utilities only, up to 25 kW."
+  },
+  {
+   "state": "Arizona",
+   "policy": "Net billing (reduced)",
+   "detail": "Retail net metering ended 2017; export ~7-10 c/kWh, set per utility."
+  },
+  {
+   "state": "Arkansas",
+   "policy": "Full retail (1:1)",
+   "detail": "1:1 retained for smaller systems under recent PSC grandfathering."
+  },
+  {
+   "state": "California",
+   "policy": "Net billing (reduced)",
+   "detail": "NEM 3.0 export credit ~5-8 c/kWh (down from ~30 c); NEM 2.0 grandfathered 9 yrs."
+  },
+  {
+   "state": "Colorado",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Connecticut",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Delaware",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "District of Columbia",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Florida",
+   "policy": "Full retail (1:1)",
+   "detail": "1:1 preserved; a 2022 rollback was vetoed."
+  },
+  {
+   "state": "Georgia",
+   "policy": "Net billing (reduced)",
+   "detail": "Georgia Power nets instantaneously at below-retail; 1:1 program capped and full."
+  },
+  {
+   "state": "Hawaii",
+   "policy": "Net billing (reduced)",
+   "detail": "Traditional NEM closed; newer tariffs (e.g. grid-supply/CGS) pay well below retail."
+  },
+  {
+   "state": "Idaho",
+   "policy": "No statewide mandate",
+   "detail": "No statewide mandate; Idaho Power uses a reduced export credit study."
+  },
+  {
+   "state": "Illinois",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Indiana",
+   "policy": "Net billing (reduced)",
+   "detail": "Moved to wholesale-plus export (2022); existing NEM grandfathered to 2032."
+  },
+  {
+   "state": "Iowa",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Kansas",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Kentucky",
+   "policy": "Net billing (reduced)",
+   "detail": "2021 law let utilities file lower export rates; PSC approved reduced credits."
+  },
+  {
+   "state": "Louisiana",
+   "policy": "Net billing (reduced)",
+   "detail": "Retail net metering ended for new systems (2020); credits at avoided cost."
+  },
+  {
+   "state": "Maine",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Maryland",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Massachusetts",
+   "policy": "Full retail (1:1)",
+   "detail": "Full retail with monthly rollover and annual cash-out."
+  },
+  {
+   "state": "Michigan",
+   "policy": "Net billing (reduced)",
+   "detail": "Inflow/outflow 'distributed generation' tariff credits exports below retail."
+  },
+  {
+   "state": "Minnesota",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Mississippi",
+   "policy": "Net billing (reduced)",
+   "detail": "Net billing with a small low-income adder; below retail."
+  },
+  {
+   "state": "Missouri",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Montana",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Nebraska",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Nevada",
+   "policy": "Net billing (reduced)",
+   "detail": "Tiered export credit (~75% of retail and declining) under NV Energy."
+  },
+  {
+   "state": "New Hampshire",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "New Jersey",
+   "policy": "Full retail (1:1)",
+   "detail": "Full retail, no statewide residential cap, 12-month rollover."
+  },
+  {
+   "state": "New Mexico",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "New York",
+   "policy": "Full retail (1:1)",
+   "detail": "1:1 up to 25 kW; larger systems use the VDER value stack."
+  },
+  {
+   "state": "North Carolina",
+   "policy": "Net billing (reduced)",
+   "detail": "Duke 'bridge'/net billing with time-of-use and monthly fees since 2023."
+  },
+  {
+   "state": "North Dakota",
+   "policy": "Net billing (reduced)",
+   "detail": "Net metering required only up to avoided-cost credit, below retail."
+  },
+  {
+   "state": "Ohio",
+   "policy": "Full retail (1:1)",
+   "detail": "Credits the generation portion of the bill, not the full retail rate."
+  },
+  {
+   "state": "Oklahoma",
+   "policy": "No statewide mandate",
+   "detail": "Weak statewide rule; utilities may meter exports separately at avoided cost."
+  },
+  {
+   "state": "Oregon",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Pennsylvania",
+   "policy": "Full retail (1:1)",
+   "detail": "Full retail today, though PPL has proposed cutting export credits."
+  },
+  {
+   "state": "Rhode Island",
+   "policy": "Full retail (1:1)",
+   "detail": "Net metering scaled back in 2023 toward a renewable-energy-growth tariff."
+  },
+  {
+   "state": "South Carolina",
+   "policy": "Net billing (reduced)",
+   "detail": "Solar Choice net billing after Act 62; time-of-use export values."
+  },
+  {
+   "state": "South Dakota",
+   "policy": "No statewide mandate",
+   "detail": "No statewide net metering mandate; terms set by each utility."
+  },
+  {
+   "state": "Tennessee",
+   "policy": "No statewide mandate",
+   "detail": "TVA territory has no retail net metering; exports bought at low generation rates."
+  },
+  {
+   "state": "Texas",
+   "policy": "No statewide mandate",
+   "detail": "Deregulated market; no statewide rule, but many retailers offer 'solar buyback' plans."
+  },
+  {
+   "state": "Utah",
+   "policy": "Net billing (reduced)",
+   "detail": "Rocky Mountain Power export credit ~5-6 c/kWh, far below retail."
+  },
+  {
+   "state": "Vermont",
+   "policy": "Full retail (1:1)",
+   "detail": "Net metering credit intact but the adjuster has declined several years running."
+  },
+  {
+   "state": "Virginia",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Washington",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "West Virginia",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Wisconsin",
+   "policy": "Full retail (1:1)",
+   "detail": "Statewide 1:1 retail-rate credit for residential exports, typically with monthly rollover."
+  },
+  {
+   "state": "Wyoming",
+   "policy": "Full retail (1:1)",
+   "detail": "1:1 for systems up to 25 kW."
+  }
+ ]
+}
