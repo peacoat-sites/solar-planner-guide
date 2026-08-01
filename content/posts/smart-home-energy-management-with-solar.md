@@ -53,7 +53,7 @@ If your utility uses time-of-use (TOU) pricing, and as of July 2026 roughly 40% 
 
 Solar doesn't automatically fix this. In fact, it can create a false sense of security. I thought for the first couple of years of advising clients that having solar meant TOU rates were somebody else's problem. Wrong. Once your panels stop producing at 5pm, you're buying from the grid at the worst possible moment unless your system is smart enough to shift loads or dispatch stored energy.
 
-A good home energy management system handles this automatically. Products like the Sense Home Energy Monitor (around $299 on [Amazon](https://www.amazon.com/dp/B075VRNMJ7?tag=yourtag-20), and yes, this site may earn a commission) identify which appliances are running and when, giving you the data to make smarter scheduling decisions. For full automation, systems like Span Smart Panel ($3,500-$4,500 installed) or the Lumin Smart Panel can shed or shift loads based on solar production and rate schedules without you touching anything.
+A good home energy management system handles this automatically. Products like the Sense Home Energy Monitor (around $299 on [Amazon](https://www.amazon.com/dp/B075VRNMJ7?tag=contentportfo-20), and yes, this site may earn a commission) identify which appliances are running and when, giving you the data to make smarter scheduling decisions. For full automation, systems like Span Smart Panel ($3,500-$4,500 installed) or the Lumin Smart Panel can shed or shift loads based on solar production and rate schedules without you touching anything.
 
 ## Home Energy Management Systems: Real Costs, Real Numbers
 

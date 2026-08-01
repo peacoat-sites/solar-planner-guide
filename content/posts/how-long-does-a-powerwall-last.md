@@ -64,7 +64,7 @@ Replacement is the real cost question. As of this year, a new Powerwall 3 with i
 
 One contrarian take I'll stand behind: for many homeowners, the Powerwall's financial case is weaker than the resilience case. If you're purely optimizing for return on investment through time-of-use arbitrage, the payback math is often thin. But if you live somewhere with frequent outages, wildfire-related grid shutoffs, or you're on a well pump that goes dead when power does, a Powerwall earns its cost in ways that don't show up cleanly on a spreadsheet. That's a legitimate reason to buy one.
 
-If you want to keep tabs on your Powerwall's health and daily production, a home energy monitor like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=solarpriceguide-20) (affiliate link) gives you a clearer picture of what's actually happening with consumption, so you can adjust your habits or identify the loads that are eating your backup buffer. Tesla's app is good, but granular circuit-level data helps you make smarter decisions about what to keep running when the grid's down.
+If you want to keep tabs on your Powerwall's health and daily production, a home energy monitor like the [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) (affiliate link) gives you a clearer picture of what's actually happening with consumption, so you can adjust your habits or identify the loads that are eating your backup buffer. Tesla's app is good, but granular circuit-level data helps you make smarter decisions about what to keep running when the grid's down.
 
 ---
 
@@ -97,7 +97,7 @@ Not if you can avoid it. Daily cycling through your solar system in self-consump
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [EnergySage's market data](https://news.energysage.com/)
 - [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
-- [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=solarpriceguide-20)
+- [Emporia Vue or Sense Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 
 

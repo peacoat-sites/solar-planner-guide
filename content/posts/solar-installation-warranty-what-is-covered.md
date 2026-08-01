@@ -109,7 +109,7 @@ I'm not going to pretend there's a single document that makes this simple. But i
 
 Worked example: A reader in Austin compared two bids. Both were similar in price ($28,400 vs. $29,100). Installer A offered a 10-year workmanship warranty with no backstop. Installer B offered 25 years, bonded, through a company that had been operating 15+ years. The $700 difference was, in my view, almost irrelevant next to that gap in coverage. He went with Installer B.
 
-If you want to monitor your own system's output closely and catch performance drops before they become warranty disputes, a home energy monitor like the [Emporia Vue or Sense Home Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=your-affiliate-tag) can flag anomalies early. Catching a 15% production drop at month 3 versus year 7 makes a significant difference in your ability to make a warranty claim while documentation is still fresh. (Note: this site may earn a commission on purchases through that link.)
+If you want to monitor your own system's output closely and catch performance drops before they become warranty disputes, a home energy monitor like the [Emporia Vue or Sense Home Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor+solar&tag=contentportfo-20) can flag anomalies early. Catching a 15% production drop at month 3 versus year 7 makes a significant difference in your ability to make a warranty claim while documentation is still fresh. (Note: this site may earn a commission on purchases through that link.)
 
 ## Sources
 

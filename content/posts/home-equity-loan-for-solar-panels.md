@@ -96,7 +96,7 @@ Call your current bank or credit union first. Seriously. Existing customers ofte
 
 When you're comparing offers, ask each lender these four questions: What's the APR (not just the interest rate)? What are the total closing costs? Is there a prepayment penalty? And can I get a rate lock while the solar install is scheduled?
 
-One thing worth tracking during installation: a good home energy monitor like the [Sense Home Energy Monitor](https://www.amazon.com/dp/B08SJG7PBK?tag=solarguide-20) (around $299 on Amazon, and our site may earn a commission if you buy through that link) lets you verify your system's actual output from day one. I've seen people finance $30,000 systems and never confirm whether the panels are performing as promised. That's just leaving money on the table.
+One thing worth tracking during installation: a good home energy monitor like the [Sense Home Energy Monitor](https://www.amazon.com/dp/B08SJG7PBK?tag=contentportfo-20) (around $299 on Amazon, and our site may earn a commission if you buy through that link) lets you verify your system's actual output from day one. I've seen people finance $30,000 systems and never confirm whether the panels are performing as promised. That's just leaving money on the table.
 
 The typical timeline from application to funding is 3-6 weeks. Make sure your installer knows your financing needs a close date before they schedule the install, because you need the funds available when they show up with equipment.
 

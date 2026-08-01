@@ -103,7 +103,7 @@ Denver, Colorado homeowner installs a 9.6 kW system at $28,800. Colorado has no 
 
 ## Monitoring Your System (and Your Savings)
 
-Once you've gone solar and captured every available exemption, it pays to actually track your production. The [Emporia Vue 3 energy monitor](https://www.amazon.com/dp/B0BWRJHCJM?tag=solarreviews-20) (around $140 on Amazon, affiliate link) is one of the better whole-home energy monitors for solar households. It clips onto your main panel breakers, pairs with a companion CT sensor on your solar feed, and shows you real-time production and consumption through an app. I've recommended it to homeowners who wanted something more granular than their inverter app alone.
+Once you've gone solar and captured every available exemption, it pays to actually track your production. The [Emporia Vue 3 energy monitor](https://www.amazon.com/dp/B0BWRJHCJM?tag=contentportfo-20) (around $140 on Amazon, affiliate link) is one of the better whole-home energy monitors for solar households. It clips onto your main panel breakers, pairs with a companion CT sensor on your solar feed, and shows you real-time production and consumption through an app. I've recommended it to homeowners who wanted something more granular than their inverter app alone.
 
 ---
 

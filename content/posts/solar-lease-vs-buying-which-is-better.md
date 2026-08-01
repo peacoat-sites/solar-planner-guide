@@ -91,7 +91,7 @@ Scenario example: A homeowner in Austin, Texas, 2,000 sq ft house, $190/month av
 
 One thing that doesn't come up enough: owning panels means you're responsible for knowing if something's wrong. If a panel or microinverter fails silently, you could lose weeks of production without noticing unless you're watching your monitoring app.
 
-I use a [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor&tag=youraffiliatetaghere) (around $350 on Amazon) alongside my system's built-in monitoring, and the combination catches anomalies I'd otherwise miss. Most installed systems come with manufacturer monitoring apps (Enphase's Enlighten, SolarEdge's app, etc.), but having a second layer doesn't hurt. (The site may earn a commission on Amazon purchases.)
+I use a [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor&tag=contentportfo-20) (around $350 on Amazon) alongside my system's built-in monitoring, and the combination catches anomalies I'd otherwise miss. Most installed systems come with manufacturer monitoring apps (Enphase's Enlighten, SolarEdge's app, etc.), but having a second layer doesn't hurt. (The site may earn a commission on Amazon purchases.)
 
 ## Sources
 

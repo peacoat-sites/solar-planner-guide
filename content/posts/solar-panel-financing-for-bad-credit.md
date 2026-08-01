@@ -92,7 +92,7 @@ Errors on credit reports are more common than people think. The FTC estimated ye
 
 Once you know your actual credit profile, get quotes from at least three installers and tell each one upfront that you're financing with credit challenges. A good installer should tell you what their financing partners' floors are before you submit a hard inquiry. Hard inquiries cost you points, and stacking a bunch of them for solar loans you won't qualify for is counterproductive.
 
-If you're monitoring your home energy usage more carefully while you go through this process, an energy monitor like the [Emporia Vue smart home energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=yourtag-20) (note: this site may earn a small commission from purchases) can give you real baseline data for sizing your system right. I find that people who track their usage before going solar tend to end up with more accurately sized systems, which matters a lot when you're financing under tighter constraints.
+If you're monitoring your home energy usage more carefully while you go through this process, an energy monitor like the [Emporia Vue smart home energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) (note: this site may earn a small commission from purchases) can give you real baseline data for sizing your system right. I find that people who track their usage before going solar tend to end up with more accurately sized systems, which matters a lot when you're financing under tighter constraints.
 
 ---
 

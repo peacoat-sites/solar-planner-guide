@@ -96,7 +96,7 @@ If you're income-qualified (generally at or below 80% of Area Median Income), ca
 
 Get at least three installer quotes and specifically ask each one: "What grants or rebates do you handle the application for, and are you familiar with the IRA low-income adders?" The answers will vary dramatically. An installer who can't answer that question clearly probably isn't set up to maximize your incentive stack.
 
-A home energy monitor like the [Emporia Vue](https://www.amazon.com/dp/B084CWGHHT?tag=solarenergy-20) (around $70, note: the site may earn a commission on that link) can help you document your baseline consumption, which some utility rebate applications require as part of the submission.
+A home energy monitor like the [Emporia Vue](https://www.amazon.com/dp/B084CWGHHT?tag=contentportfo-20) (around $70, note: the site may earn a commission on that link) can help you document your baseline consumption, which some utility rebate applications require as part of the submission.
 
 ## Sources
 

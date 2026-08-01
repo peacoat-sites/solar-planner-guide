@@ -106,7 +106,7 @@ Confirm your system size relative to your utility's simplified review threshold.
 
 Check whether your state has mandated interconnection timelines. If your utility violates them, you may have recourse. If your state has no mandated timelines, you mostly don't. NREL maintains a database of state interconnection rules that's worth looking at before you sign a contract.
 
-One thing I always tell homeowners to do that installers rarely mention: monitor your inverter's output data from day one after the PTO arrives. Products like the [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=solarsite-20) (the site may earn a commission on this link) let you see your generation, consumption, and grid export in real time, so you can verify immediately whether your net metering setup is actually working as agreed. I've seen cases where the PTO arrived, the homeowner assumed everything was fine, and a billing error meant they weren't getting net metering credit for two months. Catching that fast matters.
+One thing I always tell homeowners to do that installers rarely mention: monitor your inverter's output data from day one after the PTO arrives. Products like the [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) (the site may earn a commission on this link) let you see your generation, consumption, and grid export in real time, so you can verify immediately whether your net metering setup is actually working as agreed. I've seen cases where the PTO arrived, the homeowner assumed everything was fine, and a billing error meant they weren't getting net metering credit for two months. Catching that fast matters.
 
 ## Sources
 

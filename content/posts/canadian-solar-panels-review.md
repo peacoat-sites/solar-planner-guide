@@ -102,7 +102,7 @@ Installer markup variability. Because Canadian Solar panels are widely distribut
 
 For most homeowners with decent roof space, a mid-range budget, and a practical mindset, yes. You're not leaving significant performance on the table, you're buying from a company with real longevity, and the warranties are legitimate.
 
-If you want to monitor how your system performs closely (and I think you should), a home energy monitor like the [Emporia Vue 3 on Amazon](https://www.amazon.com/dp/B0CJZ49PJ3?tag=solarguide-20) is a solid, inexpensive way to track production versus consumption in real time. This site may earn a commission if you buy through that link.
+If you want to monitor how your system performs closely (and I think you should), a home energy monitor like the [Emporia Vue 3 on Amazon](https://www.amazon.com/dp/B0CJZ49PJ3?tag=contentportfo-20) is a solid, inexpensive way to track production versus consumption in real time. This site may earn a commission if you buy through that link.
 
 The scenario where I'd push you toward something else: you have a small roof, you're in a high shade environment, or you're trying to maximize a premium property where aesthetics genuinely matter at resale. In those cases, the efficiency difference between Canadian Solar and a premium brand is worth the extra cost.
 

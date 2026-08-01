@@ -60,7 +60,7 @@ People budget obsessively for batteries and then treat the inverter-charger as a
 
 The inverter converts DC battery power to the AC power your house runs on. It also manages charging from solar, from a generator, or from the grid in hybrid setups. Quality here affects efficiency, reliability, surge capacity, and your ability to run high-draw appliances like well pumps and air conditioners. Victron Energy's Quattro and MultiPlus lines are the industry standard for a reason. A 5,000-watt Victron MultiPlus-II runs around $1,200-$1,500 for the unit alone, and larger systems often need stacked or three-phase configurations that push costs much higher. Budget $1,500-$4,000 for the inverter-charger in most residential systems, and don't let a contractor swap it for a no-name unit to shave $300.
 
-A good home energy monitor (something like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=solarforum07-20) or the [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+home+energy+monitor&tag=solarforum07-20)) is genuinely worth installing before you size your system. Knowing your actual load profile, not just the utility's rough monthly number, can save you from dramatically over-buying battery capacity.
+A good home energy monitor (something like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20) or the [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+home+energy+monitor&tag=contentportfo-20)) is genuinely worth installing before you size your system. Knowing your actual load profile, not just the utility's rough monthly number, can save you from dramatically over-buying battery capacity.
 
 ## The Hidden Costs Nobody Quotes You
 
@@ -98,8 +98,8 @@ No, not if the system is completely disconnected from the grid. The 30% federal 
 
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [EnergySage's market data](https://news.energysage.com/)
-- [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=solarforum07-20)
-- [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+home+energy+monitor&tag=solarforum07-20)
+- [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20)
+- [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+home+energy+monitor&tag=contentportfo-20)
 - [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 
 

@@ -61,7 +61,7 @@ Here's the contrarian take: I think solar is routinely undervalued in home sales
 
 A typical 8 kW system in a sunny market produces around 11,000 to 12,000 kilowatt-hours per year. At the national average residential electricity rate today (around $0.17/kWh), that's $1,870 to $2,040 in annual savings. Over 25 years, even discounting for rate increases and modest panel degradation, that's a six-figure asset in present-value terms. But sellers almost never present it that way to buyers.
 
-What most people don't realize is that the framing at sale matters. Sellers who show buyers their utility bills, their monitoring app data, and a projected savings model move homes faster and at better prices than sellers who just mention "solar panels included" in the listing. I've seen a seller use a [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor&tag=yourtag-20) to generate a compelling year-over-year savings report that they literally printed and left on the kitchen counter during open houses. (*Disclosure: this site may earn a commission on purchases made through Amazon links.*) Corny? Maybe. Effective? Absolutely.
+What most people don't realize is that the framing at sale matters. Sellers who show buyers their utility bills, their monitoring app data, and a projected savings model move homes faster and at better prices than sellers who just mention "solar panels included" in the listing. I've seen a seller use a [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor&tag=contentportfo-20) to generate a compelling year-over-year savings report that they literally printed and left on the kitchen counter during open houses. (*Disclosure: this site may earn a commission on purchases made through Amazon links.*) Corny? Maybe. Effective? Absolutely.
 
 Your installer should be able to pull production data from the system's inverter. If you have an older system without monitoring, a clamp-on energy monitor can fill that gap. Make the invisible visible.
 
@@ -106,7 +106,7 @@ The bottom line is more nuanced than most solar installers will admit, but it's 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
 - [EnergySage's market data](https://news.energysage.com/)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-- [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor&tag=yourtag-20)
+- [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor&tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 
 

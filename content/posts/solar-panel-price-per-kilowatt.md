@@ -95,7 +95,7 @@ A retiree couple in Florida with limited federal tax liability, quoting a $19,80
 
 Here's my practical take after working through hundreds of these: if you're getting quotes above $3.60/watt before incentives with standard equipment, push back or walk away. If you're seeing quotes below $2.40/watt, ask very specific questions about panel warranty, installer certification (NABCEP is the one that matters), and whether the inverter is included.
 
-A home energy monitor like the [Emporia Vue 3](https://www.amazon.com/dp/B0B79K1X5C?tag=solarsite-20) (around $79 on Amazon, and yes the site may earn a commission) can help you right-size your system before you get quotes, so you're not over-buying capacity you don't need. Knowing your actual consumption by circuit changed how I approached my own home's solar sizing.
+A home energy monitor like the [Emporia Vue 3](https://www.amazon.com/dp/B0B79K1X5C?tag=contentportfo-20) (around $79 on Amazon, and yes the site may earn a commission) can help you right-size your system before you get quotes, so you're not over-buying capacity you don't need. Knowing your actual consumption by circuit changed how I approached my own home's solar sizing.
 
 ## Sources
 

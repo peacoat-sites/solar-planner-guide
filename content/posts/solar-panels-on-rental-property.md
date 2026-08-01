@@ -69,7 +69,7 @@ Let me give you some concrete examples that reflect real-world installs, not hyp
 
 **Scenario 2:** Duplex in Cleveland, OH, tenant-pays utilities on both units, 8 kW system, total cost $22,000, federal tax credit of $6,600 → Landlord earns no direct utility savings, adds a $75/month solar surcharge per unit after lease renewal, one tenant leaves over the change → Net savings after vacancy and turn costs: closer to $900/year → Payback stretches to 14+ years.
 
-**Scenario 3:** Three-bedroom Airbnb in Scottsdale, AZ, owner-managed, 7.2 kW system with a [solar monitoring system](https://www.amazon.com/s?k=solar+monitoring+system&tag=yourtag-20) to track production per guest stay, total cost $19,500, federal tax credit of $5,850 → Annual utility savings of $1,840, plus owner lists "solar-powered home" in listing and sees 9% higher nightly rate in A/B test over 60 days → Payback estimated at 6.2 years.
+**Scenario 3:** Three-bedroom Airbnb in Scottsdale, AZ, owner-managed, 7.2 kW system with a [solar monitoring system](https://www.amazon.com/s?k=solar+monitoring+system&tag=contentportfo-20) to track production per guest stay, total cost $19,500, federal tax credit of $5,850 → Annual utility savings of $1,840, plus owner lists "solar-powered home" in listing and sees 9% higher nightly rate in A/B test over 60 days → Payback estimated at 6.2 years.
 
 That third scenario is genuinely one of the better use cases I've encountered. The energy cost savings plus the marketing upside on short-term rentals can change the whole calculus.
 
@@ -93,7 +93,7 @@ PACE financing is underused by landlords and worth researching in your state. Th
 
 The roof matters more on a rental than on your own home because you're less likely to be monitoring it closely. I've seen landlords install solar on a roof with 6-8 years of life left. When the roof needs replacement, the panels come off, get stored, get reinstalled. That bill, including inverter checks and potential re-mounting, can run $3,000-$5,000. On a rental you're not living in, this catches people by surprise.
 
-A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=yourtag-20) connected to your system is worth the $150-$300 it costs to install. You'll know the system is producing correctly without having to visit the property or trust that tenants will alert you to problems.
+A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) connected to your system is worth the $150-$300 it costs to install. You'll know the system is producing correctly without having to visit the property or trust that tenants will alert you to problems.
 
 Also: check your insurance. Some standard landlord policies need a rider for solar. It's usually inexpensive ($50-$150/year), but a few landlords I know found out about the gap only after a hail event.
 
