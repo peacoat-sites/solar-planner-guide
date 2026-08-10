@@ -129,3 +129,14 @@ If you're seriously pricing a battery right now, I'd suggest picking up a [home 
 The math on home batteries has genuinely shifted over the past two years. The federal credit is real, the state programs in several states are extraordinary, and the utility programs are getting more structured. If you're in the right state with the right utility and you actually owe federal taxes, there are realistic scenarios where a battery system's net cost after incentives is under half its sticker price. That's not a sales pitch. It's arithmetic.
 
 *Photo: [Ramesh Kambattan](https://www.pexels.com/@rameshkambattan) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
+- **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
+
