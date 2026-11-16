@@ -31,9 +31,7 @@ Here's what typically happens: a homeowner gets a great deal on solar, signs the
 
 The timing question between roof replacement and [solar installation](/average-cost-of-solar-installation-by-state/) is one of the most financially consequential decisions a homeowner makes, and the industry mostly buries it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Remove-and-reinstall for solar panels costs $1,500-$6,000 and is rarely covered by warranty or insurance.</li><li style="margin:5px 0">Replace your roof first if it has fewer than 10-12 years of life remaining before going solar.</li><li style="margin:5px 0">A new roof can cost $8,000-$20,000; bundling it with solar avoids a second round of labor and scaffolding fees.</li><li style="margin:5px 0">Most asphalt shingle roofs last 20-30 years; solar panels carry 25-year production warranties.</li><li style="margin:5px 0">If your roof is under 5 years old and in good shape, install solar now without hesitation.</li></ul></div>
-
 
 ## The Lifespan Math You Need to Do First
 
@@ -50,8 +48,6 @@ The breakeven point shifts a little based on system size. A 6 kW system with 16 
 ## What a Simultaneous Project Actually Costs
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The biggest objection I hear is cost. Bundling a roof replacement with a solar installation feels like a lot of money hitting at once, and it is. But the alternative isn't "avoid the roof cost." It's "pay the roof cost later, plus extra."
 
@@ -104,10 +100,6 @@ Worked example, real scenario:
 
 A homeowner in Portland with a 2015 architectural shingle roof (about 11 years old at consultation) priced both options. A roofer quoted $13,200 for a full replacement. Solar-only was $24,500 after incentives. Bundled cost came to $35,800 before the ITC, or about $25,060 after. He chose the bundle. Had he done solar-only and needed a removal-reinstall in year 8, his all-in cost would have been $28,500 versus $25,060.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated total 25-year cost by timing scenario</div><div class="sc-row"><span class="sc-label">Solar now (new roof)</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$25,060</span></div><div class="sc-row"><span class="sc-label">Solar now (no reroof)</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">$25,500</span></div><div class="sc-row"><span class="sc-label">Bundle roof + solar</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">$31,500</span></div><div class="sc-row"><span class="sc-label">Roof first, then solar</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$33,000</span></div><div class="sc-src">Source: Industry installer estimates, EnergySage 2026 market data</div></div>
-
-
 ## Sources
 
 - [NREL Solar Panel Degradation Rates](https://www.nrel.gov/): National Renewable Energy Laboratory research on average 0.5%/year panel output degradation over system lifetime.
@@ -117,7 +109,6 @@ A homeowner in Portland with a 2015 architectural shingle roof (about 11 years o
 - [IRS Form 5695 Instructions](https://www.irs.gov/): Residential energy credit qualification criteria, including which roofing costs may be includable under the solar ITC.
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

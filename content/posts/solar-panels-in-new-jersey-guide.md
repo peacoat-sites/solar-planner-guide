@@ -31,9 +31,7 @@ Here's the thing most installers won't tell you upfront: New Jersey isn't a grea
 
 Let me walk you through what's actually going on here, as of August 2026.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NJ homeowners can combine the 30% federal tax credit with the state's SREC II program, reducing payback periods to 6-8 years in many cases.</li><li style="margin:5px 0">Average installed cost in NJ runs $2.80-$3.20 per watt before incentives, or roughly $16,800-$19,200 for a 6 kW system.</li><li style="margin:5px 0">NJ solar systems are exempt from both state sales tax and property tax reassessment, two savings most homeowners overlook.</li><li style="margin:5px 0">The NJ net metering policy is under pressure; locking in current terms sooner rather than later may be worth the urgency.</li><li style="margin:5px 0">A south-facing roof with minimal shading will outperform a larger system on a compromised roof, shade is the enemy here.</li></ul></div>
-
 
 ## What It Actually Costs in NJ Right Now
 
@@ -54,8 +52,6 @@ One thing I almost missed the first time I analyzed a NJ project: the sales tax 
 ## The SREC II Program: The Part That Actually Moves the Needle
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 New Jersey's Solar Renewable Energy Certificate program is what separates this state from most others. Every 1,000 kWh your system produces generates one SREC, which you can sell to utilities that are required by law to source a portion of their power from solar. As of 2026, SREC II prices in NJ have been trading in the $85-$95 range per certificate, though this shifts based on supply and demand.
 
@@ -81,10 +77,6 @@ Panel choice in NJ: given the modest sun hours, high-efficiency panels (Panasoni
 
 Scenario: A homeowner in Montclair with a 1,400 sq ft south-facing roof section got competing quotes of $31,000 (SunPower/Maxeon, 9.4 kW) and $24,500 (generic modules, 10 kW). After the 30% ITC, the gap narrowed to about $4,550. Projected SREC and bill savings over 15 years favored the higher-efficiency system by roughly $3,200, nearly closing the cost gap entirely. Not always the case, but worth running the numbers.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated 15-Year Net Savings by NJ County (8 kW System)</div><div class="sc-row"><span class="sc-label">Bergen</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$28,400</span></div><div class="sc-row"><span class="sc-label">Mercer</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">$27,100</span></div><div class="sc-row"><span class="sc-label">Camden</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">$26,800</span></div><div class="sc-row"><span class="sc-label">Ocean</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">$25,900</span></div><div class="sc-row"><span class="sc-label">Sussex</span><span class="sc-track"><span class="sc-bar" style="width:85%"></span></span><span class="sc-val">$24,200</span></div><div class="sc-src">Source: NREL PVWatts + NJ BPU SREC II estimates, 2026</div></div>
-
-
 ## Battery Storage: Does It Pencil Out in NJ?
 
 What surprised me when I dug into this: for most NJ homeowners with strong net metering, adding battery storage doesn't dramatically improve ROI on its own. If you're getting full retail rate credit for grid exports, there's less financial incentive to store that power at home. A 13.5 kWh Tesla Powerwall currently runs $11,000-$13,000 installed, which is a substantial addition.
@@ -100,7 +92,6 @@ Where storage absolutely makes sense in New Jersey: if you're on a time-of-use r
 - [NREL "Selling Into the Sun" report](https://www.nrel.gov/): Solar home value premium research cited in property tax section
 
 ---
-
 
 *Photo: [Elite Power Group](https://www.pexels.com/@elite-power-group-661996115) via Pexels*
 

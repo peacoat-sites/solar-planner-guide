@@ -29,9 +29,7 @@ Forty-three percent. That's the share of a typical home's energy bill that heati
 
 Combining a solar upgrade with an HVAC replacement isn't just a good idea. It's genuinely one of the best financial moves a homeowner can make, and most installers won't bring it up because they're selling panels, not heat pumps. Let me walk you through what actually makes sense, what the [numbers look like](/solar-roi-without-the-30-tax-credit-what-the-numbers-look-like-now/), and where people go wrong.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pairing solar with a new heat pump can cut total home energy bills by 50-70%, vs. 25-30% from solar alone.</li><li style="margin:5px 0">The federal solar tax credit (30%) also applies to battery storage and some efficiency upgrades through 2032.</li><li style="margin:5px 0">Right-sizing your solar array for a heat pump load requires adding roughly 2-4 kW of panels beyond a typical install.</li><li style="margin:5px 0">Average payback on a combined solar + heat pump project runs 7-9 years vs. 10-12 years for solar-only in most U.S. markets.</li><li style="margin:5px 0">Doing both projects simultaneously saves $1,500-$3,000 in avoided re-permitting and electrical work duplication.</li></ul></div>
-
 
 ## Why HVAC Is the Variable Nobody Talks About
 
@@ -45,17 +43,11 @@ The coordination piece is annoying but real. When you schedule a solar install a
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let's talk specifics. A conventional natural gas furnace paired with a standard central AC (say, a 14 SEER unit from 2010) might be costing you $2,100 per year in combined heating and cooling in a mid-size home in the Midwest. Replace that with a modern cold-climate heat pump, like a Mitsubishi Hyper-Heat or a Carrier Infinity 24, and that same heating and cooling load can drop to roughly $900 per year in electricity costs at average utility rates. That's assuming a COP (coefficient of performance) of around 3.0, which is conservative for these systems at moderate temperatures.
 
 The catch: that $900 is now electric, not gas. So your solar system has to produce enough to cover it. A heat pump for a 2,000-square-foot home might need around 3,000 to 5,500 kWh per year for heating and cooling combined. At average U.S. solar production of about 1,400 kWh per kW of installed capacity annually (per NREL data), you're looking at adding roughly 2.5 to 4 kW of solar capacity just to offset the heat pump's load.
 
 This is the calculation most homeowners skip. They see "heat pump saves energy" and assume smaller solar. The reality is more nuanced: a heat pump uses less *total energy* than a gas system, but it uses *all electric*, so your solar array has to be sized accordingly. The net effect is still very much in your favor, but the upfront panel count changes.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual HVAC energy cost by system type</div><div class="sc-row"><span class="sc-label">Old gas + AC (pre-2010)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,100</span></div><div class="sc-row"><span class="sc-label">Modern gas + 18 SEER AC</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">$1,450</span></div><div class="sc-row"><span class="sc-label">Cold-climate heat pump</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">$900</span></div><div class="sc-row"><span class="sc-label">Heat pump + solar offset</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$180</span></div><div class="sc-src">Source: U.S. Department of Energy &amp; NREL estimates, 2026</div></div>
-
 
 ## What the Numbers Actually Look Like
 
@@ -109,7 +101,6 @@ One other thing: make sure your new HVAC contractor and solar installer actually
 - [U.S. Department of Energy: HVAC Energy Use Data](https://www.energy.gov/energysaver/heating-cooling): Source for the 43% HVAC share of home energy bills.
 
 ---
-
 
 *Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
 

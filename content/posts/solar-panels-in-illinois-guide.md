@@ -31,9 +31,7 @@ Illinois is genuinely one of the better states in the country to go solar right 
 
 What I want to do here is give you the actual numbers, the catches, and the honest picture of what going solar in Illinois looks like in 2026, not the sales pitch.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Illinois homeowners pay roughly $2.85–$3.10/watt installed, putting a typical 8 kW system at $22,800–$24,800 before incentives.</li><li style="margin:5px 0">The federal ITC currently covers 30% of system cost; combined with Illinois's SREC program, payback can run 7–10 years.</li><li style="margin:5px 0">ComEd and Ameren customers both have net metering, but the rates differ meaningfully and affect your ROI.</li><li style="margin:5px 0">Illinois's Adjustable Block Program (ABP) pays cash for every kWh your system produces over 15 years, real money, not just bill credits.</li><li style="margin:5px 0">Getting 3–5 quotes typically saves $3,000–$6,000 on an average Illinois install.</li></ul></div>
-
 
 ## What Solar Actually Costs in Illinois Right Now
 
@@ -58,8 +56,6 @@ ABP income estimates assume current Adjustable Block Program pricing for the Com
 
 > **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Most people know about the federal tax credit. Almost nobody fully understands the ABP, which is genuinely unfortunate because it's the piece that often makes or breaks the Illinois solar math.
 
 Here's how it works: Illinois pays solar homeowners a fixed price per kilowatt-hour of electricity their system produces, paid out as Renewable Energy Credits (REC payments) over 15 years. The price per REC is set by the Illinois Power Agency and varies by utility territory, system size, and "block" (essentially, which funding tranche you land in as the program fills up). As of this year, residential systems under 10 kW in the ComEd territory have been receiving around $60 to $72 per REC, where one REC equals one megawatt-hour of production.
@@ -77,10 +73,6 @@ Both ComEd and Ameren offer net metering, but they're not identical, and the dif
 ComEd's net metering credits excess electricity at the full retail rate, currently around $0.13 to $0.15 per kWh depending on your rate class. Ameren's structure is similar but their base residential rate runs slightly lower, in the $0.11 to $0.13 range. That gap of a couple cents per kilowatt-hour sounds small until you're exporting several thousand kWh per year.
 
 What most people don't realize: Illinois's net metering rules require annual "true-up" settlements, similar to California, not monthly cash-out. So if you over-produce in July and August, you bank credits that offset your December and January bills. Credits that roll over but aren't used by your anniversary date are typically purchased by the utility at the avoided-cost rate, which is much lower than retail. Size your system to roughly meet your annual usage, not to maximize summer production. I've seen homeowners in Joliet get talked into 12 kW systems for homes that use 9,500 kWh per year, and they essentially donated a few hundred dollars of excess credits to the utility every year.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Illinois Solar Payback by Incentive Scenario (Years)</div><div class="sc-row"><span class="sc-label">No incentives</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">18 years</span></div><div class="sc-row"><span class="sc-label">Federal ITC only</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">13 years</span></div><div class="sc-row"><span class="sc-label">ITC + Net Metering</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">10 years</span></div><div class="sc-row"><span class="sc-label">ITC + Net Metering + ABP</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">7 years</span></div><div class="sc-src">Source: EnergySage, IPA, Craig Stevens estimates (2026)</div></div>
-
 
 ## What It Actually Looks Like: Three Real Examples
 
@@ -109,7 +101,6 @@ For homeowners who want to monitor their system's actual production after instal
 - [Illinois Commerce Commission](https://www.icc.illinois.gov/): Net metering tariff information for ComEd and Ameren residential customers.
 
 ---
-
 
 *Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
 

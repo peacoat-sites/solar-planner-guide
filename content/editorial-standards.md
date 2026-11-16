@@ -3,10 +3,10 @@ title: "Editorial Policy"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "How Solar Planner Guide researches, writes, fact-checks, and maintains every article — our commitment to accuracy, source quality, and genuine usefulness."
+description: "How Solar Planner Guide researches, writes, fact-checks, and maintains every article, our commitment to accuracy, source quality, and genuine usefulness."
 ---
 
-# Editorial Policy — Solar Planner Guide
+# Editorial Policy, Solar Planner Guide
 
 Solar Planner Guide exists to help homeowners understand the financial and technical realities of going solar. We publish research-backed, jargon-free articles about solar payback calculations, installer selection, financing options, incentives, and long-term system performance. Our readers are typically homeowners in the early-to-middle stages of solar evaluation—people who have received a proposal or two and want to understand what the numbers really mean before writing a check. This is serious money and a 25-year commitment. Bad information here doesn't just waste time; it can lead to poor financial decisions. That's why we maintain rigorous editorial standards and are transparent about how we work.
 

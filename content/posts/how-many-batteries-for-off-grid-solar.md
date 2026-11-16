@@ -31,9 +31,7 @@ That's not a dodge. It's just how the math works.
 
 Let me walk you through how I actually size battery banks for off-grid systems, what the real [numbers look like](/solar-roi-without-the-30-tax-credit-what-the-numbers-look-like-now/) for typical households, and where people consistently get it wrong.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most off-grid homes need 2–4 days of battery autonomy, which typically means 20–40 kWh of usable storage.</li><li style="margin:5px 0">A "standard" 100Ah 12V battery holds only 1.2 kWh ,  you'll almost certainly need more than a handful.</li><li style="margin:5px 0">Lithium (LiFePO4) batteries can be discharged to 80–100%, while lead-acid should stop at 50% to preserve lifespan.</li><li style="margin:5px 0">System voltage (12V, 24V, or 48V) affects how many batteries wire together, not just how many you need total.</li><li style="margin:5px 0">The average off-grid home in the U.S. uses 30 kWh/day, but aggressive efficiency measures can cut that to 10–15 kWh.</li></ul></div>
-
 
 ## Start with Your Daily Energy Use
 
@@ -48,8 +46,6 @@ Your daily kWh number is the foundation. Get it wrong and every calculation afte
 ## The Core Formula (And What It Actually Means)
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the math I use, stripped of the jargon:
 
@@ -74,10 +70,6 @@ A common budget battery like a Renogy 100Ah 12V AGM holds 1.2 kWh nominal. At 50
 With a 100Ah 48V lithium battery (like those from Ampere Time or EG4), each unit holds 4.8 kWh at full capacity and maybe 4.3 kWh usable. To hit 38 kWh, you need about 9 of them.
 
 Same energy requirement. Wildly different physical counts.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Batteries needed for 38 kWh usable storage</div><div class="sc-row"><span class="sc-label">12V 100Ah AGM (50% DoD)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">64 batterie</span></div><div class="sc-row"><span class="sc-label">12V 200Ah Lithium (90% DoD)</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">22 batterie</span></div><div class="sc-row"><span class="sc-label">48V 100Ah Lithium (90% DoD)</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">9 batterie</span></div><div class="sc-row"><span class="sc-label">51.2V 200Ah Server Rack LiFePO4</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">4 batterie</span></div><div class="sc-src">Source: Alex Rivera, calculated from manufacturer specs (2026)</div></div>
-
 
 This is exactly why the question "how many batteries do I need?" can't be answered with a single number. The honest answer is always: it depends on the battery.
 
@@ -118,7 +110,6 @@ I used to think 24V systems were fine for mid-sized off-grid homes. I changed my
 - Battery manufacturer specification sheets: Renogy, EG4, Ampere Time (Lithium LiFePO4 cycle life and DoD ratings, verified 2025–2026)
 
 ---
-
 
 *Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*
 

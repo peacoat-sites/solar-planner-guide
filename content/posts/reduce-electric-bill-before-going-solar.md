@@ -31,9 +31,7 @@ I've sat through enough post-installation consultations to know how this plays o
 
 Here's the thing: every dollar you cut from your monthly electric bill before sizing your solar system means you need fewer panels, which means a smaller loan, lower monthly payments, and a faster [payback period](/solar-payback-period-calculator/). A family in Phoenix dropping from $340/month to $210/month before going solar might need 7kW instead of 11kW. That difference is roughly $8,000-$12,000 in equipment. That's not a rounding error.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cutting energy use before sizing solar reduces system cost by $8,000-$15,000 for many households.</li><li style="margin:5px 0">LED lighting and smart power strips payback in under 12 months; do these first.</li><li style="margin:5px 0">An aging HVAC system can consume 50%+ of your home's electricity; address it before panel sizing.</li><li style="margin:5px 0">Switching to a heat pump water heater typically saves $300-$550/year and shrinks required solar capacity.</li><li style="margin:5px 0">A home energy audit (often $150-$400) reveals exactly where to cut before your solar quote.</li></ul></div>
-
 
 ## Start With What's Actually Eating Your Bill
 
@@ -48,8 +46,6 @@ If you want a cheaper starting point, a plug-in watt meter like the [Kill A Watt
 ## The Real Savings Hierarchy
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Not all efficiency upgrades are equal. Some have 2-year paybacks. Some have 18-year paybacks and you'll have moved before you see the return. Before spending a dollar, know where you are on this list.
 
@@ -90,10 +86,6 @@ I know it sounds boring. I put it off for years myself. But a professional home 
 
 Most utility companies offer free or subsidized audits. Type your utility name plus "home energy audit" and check before paying full price. The auditor's report also becomes useful documentation when you eventually talk to solar installers, because it shows what your consumption should drop to after you've implemented the recommendations.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. annual electricity savings by upgrade</div><div class="sc-row"><span class="sc-label">LED Lighting</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Smart Thermostat</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$165</span></div><div class="sc-row"><span class="sc-label">Air Sealing</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Heat Pump Water Heater</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">$425</span></div><div class="sc-row"><span class="sc-label">Heat Pump HVAC</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$950</span></div><div class="sc-src">Source: NREL and EIA residential efficiency estimates, 2026</div></div>
-
-
 ## Sources
 
 - [SEIA (Solar Energy Industries Association)](https://www.seia.org/): Residential solar market sizing, system cost data, and federal incentive guidance.
@@ -103,7 +95,6 @@ Most utility companies offer free or subsidized audits. Type your utility name p
 - [EnergyStar Program](https://www.energystar.gov/): Certified product efficiency ratings for water heaters, HVAC equipment, and appliances.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

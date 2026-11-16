@@ -31,9 +31,7 @@ Rental properties sit in an awkward middle ground. The person paying the [electr
 
 I've sat across from a lot of landlords over the years who came in thinking solar was either a no-brainer investment or a total scam, and almost none of them were right. The real answer lives somewhere specific, and it depends on a handful of variables that most solar salespeople won't bother to work through with you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30% federal tax credit applies to rental properties, but only if you have enough tax liability to use it.</li><li style="margin:5px 0">Landlord-owned solar typically increases property value 3-4%, per Zillow research, which can matter more than monthly savings.</li><li style="margin:5px 0">Utility-included leases are where solar ROI for landlords actually works; tenant-paid utilities flip the math entirely.</li><li style="margin:5px 0">Payback periods on rental solar average 8-12 years, about 2-3 years longer than owner-occupied installs.</li><li style="margin:5px 0">Single-family rentals almost always pencil better than multifamily for solar; the economics are just different.</li></ul></div>
-
 
 ## The Tax Credit Math (And Where It Gets Complicated)
 
@@ -47,17 +45,11 @@ The depreciation angle is worth mentioning too. Rental property owners can depre
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is the single variable that drives more solar ROI decisions on rental properties than anything else. And most landlords don't frame the question clearly before they start getting quotes.
 
 If you pay the utility bills as part of an all-inclusive rent setup, solar reduces your direct operating costs. That's clean math. A system generating 9,000 kWh per year at $0.14/kWh average (NREL's national residential average, as of this year) saves you around $1,260 annually. Over 25 years, that's real money, even before any rate increases.
 
 If your tenants pay their own utilities, you lose the direct savings unless you restructure leases to add a "solar surcharge" or roll the savings into higher rents. This is legally possible in most states but socially awkward and practically complicated. Some landlords do it. Most don't, and they end up with a system that produces electricity someone else benefits from while they wait for property appreciation to pay them back.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. annual solar savings by rental structure</div><div class="sc-row"><span class="sc-label">Utility-included lease</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">$1,260</span></div><div class="sc-row"><span class="sc-label">Tenant-pays (with lease surcharge)</span><span class="sc-track"><span class="sc-bar" style="width:51%"></span></span><span class="sc-val">$780</span></div><div class="sc-row"><span class="sc-label">Tenant-pays (no surcharge)</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">$180</span></div><div class="sc-row"><span class="sc-label">Short-term rental (STR)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,540</span></div><div class="sc-src">Source: NREL 2025 residential solar estimates</div></div>
-
 
 Short-term rentals like Airbnbs are actually one of the strongest cases for landlord solar, and I don't see it talked about enough. You control the utility account directly, turnover is high so you're not renegotiating with long-term tenants, and solar can be a genuine marketing differentiator in some markets.
 
@@ -106,7 +98,6 @@ Also: check your insurance. Some standard landlord policies need a rider for sol
 - [U.S. Department of Energy, Homeowner's Guide to Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar): Federal tax credit guidance, MACRS depreciation information
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

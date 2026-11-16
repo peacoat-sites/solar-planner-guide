@@ -39,8 +39,6 @@ The formula that actually matters: (annual energy production x your electricity 
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 **Louisiana.** I keep coming back to Louisiana. Residential electricity there runs around $0.09 to $0.10 per kWh, which sounds like a good thing until you realize you're offsetting cheap power with a $20,000-plus system. Entergy Louisiana's net metering policy has also faced significant criticism for paying below-retail rates for excess generation. The payback period in many Louisiana markets stretches past 18 years. For a lot of homeowners, that just doesn't pencil.
 
 **Idaho and Wyoming.** Both states have some of the lowest residential electricity rates in the country, regularly under $0.10/kWh. NREL data shows average peak sun hours in Boise around 5.5 per day, which is actually decent. But cheap power wipes out your savings. A homeowner running $80 a month in electricity bills is not going to break even on a $22,000 system in any reasonable timeline.
@@ -50,10 +48,6 @@ The formula that actually matters: (annual energy production x your electricity 
 **Michigan.** This one surprises people. Michigan gets roughly the same annual sun hours as Germany, and Germany has one of the highest solar adoption rates in the world. The difference is Germany has very high electricity prices. Michigan's electricity rates are middle-of-the-road, around $0.17/kWh as of this year, but the state also has some of the worst net metering policy in the Midwest, with utilities like Consumers Energy and DTE Energy running "distributed generation" programs that pay customers far below retail rates for power sent to the grid. The result is that you really need to size your system to cover exactly what you use, with no excess, which is hard to calibrate and easy to get wrong.
 
 **Indiana.** Indiana gets an honorable mention. The state repealed its one-to-one net metering for most customers in 2022, replacing it with a lower avoided-cost rate. For a system that exports a lot of power, that change alone can add four to six years to payback timelines.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated solar payback period by state (years)</div><div class="sc-row"><span class="sc-label">Louisiana</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">19 years</span></div><div class="sc-row"><span class="sc-label">Idaho</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">18 years</span></div><div class="sc-row"><span class="sc-label">Michigan</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">14 years</span></div><div class="sc-row"><span class="sc-label">Indiana</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">16 years</span></div><div class="sc-row"><span class="sc-label">North Dakota</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">20 years</span></div><div class="sc-row"><span class="sc-label">Arizona</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">8 years</span></div><div class="sc-src">Source: EnergySage, NREL, state utility data, 2026 estimates</div></div>
-
 
 ## The Net Metering Trap
 
@@ -90,7 +84,6 @@ If you're in one of these states and still want to explore it, get quotes from a
 - NC Clean Energy Technology Center: "The 50 States of Solar" quarterly report, tracking net metering and interconnection policy changes by state.
 
 ---
-
 
 ---
 

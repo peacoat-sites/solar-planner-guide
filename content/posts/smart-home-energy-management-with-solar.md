@@ -31,9 +31,7 @@ Here's what I tell people in that situation: the hardware is only half the story
 
 I've sat with homeowners who put $25,000 into a [solar system](/solar-system-size-calculator/) and then ran their dishwasher at 7pm every night, right when grid rates peaked, completely undermining the economics they'd planned around. The panels were fine. The strategy wasn't.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Smart energy management can recover 20-30% more value from an existing solar system without adding panels.</li><li style="margin:5px 0">Time-of-use rate optimization alone saves the average solar household $300-$800/year, per EnergySage data.</li><li style="margin:5px 0">A home energy management system (HEMS) typically costs $500-$2,500 installed, with ROI under 3 years in high-rate states.</li><li style="margin:5px 0">Battery storage paired with a HEMS can cut grid dependence by 70-90% in well-optimized homes.</li><li style="margin:5px 0">The 30% federal solar tax credit (ITC) currently applies to batteries and monitoring hardware installed with solar.</li></ul></div>
-
 
 ## What "Smart" Actually Means Here
 
@@ -46,8 +44,6 @@ The three layers worth understanding are: generation monitoring (knowing what yo
 ## The Time-of-Use Problem Nobody Explains Clearly
 
 > **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If your utility uses time-of-use (TOU) pricing, and as of July 2026 roughly 40% of U.S. residential customers have access to TOU rates according to SEIA data, the hour your dishwasher runs matters enormously. Peak rates in California (PG&E's E-TOU-C rate) currently hit $0.55/kWh in the evening. Off-peak is around $0.30. That's an 83% difference. Run a load of laundry at the wrong time and you're paying nearly double.
 
@@ -80,10 +76,6 @@ Homeowner in Massachusetts on National Grid's TOU rate, 6kW system + 10kWh batte
 
 Retired couple in San Diego with existing SunPower system, concerned about grid outages → Added SunPower SunVault battery with built-in HEMS + shifted water heater and laundry to 10am-2pm → Achieved 78% grid independence, reduced annual electricity bill from $2,400 to $520.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual grid electricity cost with solar (by strategy)</div><div class="sc-row"><span class="sc-label">Solar only, no optimization</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,400</span></div><div class="sc-row"><span class="sc-label">Solar + monitoring</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">$980</span></div><div class="sc-row"><span class="sc-label">Solar + TOU shifting</span><span class="sc-track"><span class="sc-bar" style="width:51%"></span></span><span class="sc-val">$720</span></div><div class="sc-row"><span class="sc-label">Solar + battery, no HEMS</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">$600</span></div><div class="sc-row"><span class="sc-label">Solar + battery + HEMS</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">$310</span></div><div class="sc-src">Source: Industry estimates based on EnergySage and NREL data, 2026</div></div>
-
-
 ## The Battery Question
 
 You might be wondering whether you need a battery to make any of this worthwhile. Honestly, no. Monitoring and load-shifting alone move the needle in most utility territories. But if your utility has cut net metering compensation (which has happened in California, Nevada, and Hawaii in recent years), storing your own power becomes a lot more financially compelling.
@@ -109,7 +101,6 @@ One thing installers often forget to mention: most modern inverters (SolarEdge, 
 - [PG&E Rate Schedule E-TOU-C](https://www.pge.com/): Current time-of-use rate data cited for California pricing examples
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

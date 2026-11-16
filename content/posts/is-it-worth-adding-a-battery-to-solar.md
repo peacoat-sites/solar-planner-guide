@@ -41,8 +41,6 @@ The 30% federal Investment Tax Credit (ITC) applies to battery storage if it's c
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I watch homeowners get tripped up more than anywhere else: they assume that if solar is good, solar plus battery is better. But in states with strong full-retail net metering, that math often doesn't hold.
 
 If your utility credits your excess solar production at the full retail rate, say $0.13 per kilowatt-hour in a state like Georgia or $0.15 in parts of the Midwest, you're essentially using the grid as a free battery already. Every kilowatt-hour you export during the day comes back to you at night at the same price. Under those conditions, adding a $10,000 physical battery so you can self-consume instead of exporting is a terrible financial trade.
@@ -64,10 +62,6 @@ The numbers change a lot depending on where you live and what your goal is. Here
 | SGIP rebate + CA NEM 3.0 | ~$5,200 | $900-$1,400 | 4-6 years | Almost always yes |
 
 These are estimates based on typical system sizes and average utility structures, not guarantees. Your specific utility tariff changes everything.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Est. Battery Payback Period by State/Rate Type (years)</div><div class="sc-row"><span class="sc-label">CA NEM 3.0</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">8 years</span></div><div class="sc-row"><span class="sc-label">Texas (no export)</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">11 years</span></div><div class="sc-row"><span class="sc-label">Strong Net Metering</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">27 years</span></div><div class="sc-row"><span class="sc-label">CA with SGIP rebate</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">5 years</span></div><div class="sc-src">Source: EnergySage &amp; NREL estimates, 2026</div></div>
-
 
 ## The Grid Reliability Argument
 
@@ -104,7 +98,6 @@ One last thing I always say: get quotes with and without the battery from at lea
 - [Lawrence Berkeley National Laboratory, Tracking the Sun](https://emp.lbl.gov/tracking-the-sun): Installed cost data for residential solar and storage systems
 
 ---
-
 
 ---
 

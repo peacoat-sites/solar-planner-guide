@@ -31,9 +31,7 @@ That last part is the kicker. The Inflation Reduction Act's [Investment Tax Cred
 
 I'll be honest: when I first dug into the standalone battery rule, I assumed there had to be a catch. There is one, sort of. The battery has to be charged "predominantly" from a renewable source (at least 3 kWh capacity, charged at least 70% from renewables) to qualify as standalone. But if it's paired with solar, you're automatically covered. In practice, almost every residential installation qualifies.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The federal ITC is 30% of installed battery cost, no dollar cap, through 2032.</li><li style="margin:5px 0">Standalone batteries (no solar required) qualify as of 2023, per IRA expansion.</li><li style="margin:5px 0">Many states stack additional incentives on top: OR, CA, NY, and MA are the strongest right now.</li><li style="margin:5px 0">Utilities in 20+ states offer demand response programs that pay you to discharge your battery.</li><li style="margin:5px 0">The ITC is a tax credit, not a deduction, it reduces your tax bill dollar-for-dollar.</li></ul></div>
-
 
 ## The Federal ITC: What the Numbers Actually Mean
 
@@ -48,8 +46,6 @@ One thing that tripped me up the first time I walked through this with a client:
 ## State Incentives Are Where It Gets Complicated (and Lucrative)
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Federal is the floor. State programs are where the real variation kicks in, and some of them are genuinely extraordinary.
 
@@ -97,10 +93,6 @@ Oregon state tax credit: $2,500.
 Net out of pocket: $13,460.
 That's a 41% reduction in cost. Staggering, if you ask me.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Effective out-of-pocket cost after incentives by state (10 kWh system)</div><div class="sc-row"><span class="sc-label">California (SGIP equity)</span><span class="sc-track"><span class="sc-bar" style="width:35%"></span></span><span class="sc-val">$4,200</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$7,100</span></div><div class="sc-row"><span class="sc-label">Oregon</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">$8,500</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$8,900</span></div><div class="sc-row"><span class="sc-label">Texas (Austin Energy)</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">$9,500</span></div><div class="sc-row"><span class="sc-label">Illinois</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">$9,900</span></div><div class="sc-row"><span class="sc-label">No state incentive</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$11,900</span></div><div class="sc-src">Source: SEIA / EnergySage market data, 2026 estimates</div></div>
-
-
 ## Utility Incentives and the Programs Most People Miss
 
 Beyond state governments, utilities are quietly running some of the better battery programs right now. EnergySage's market data shows that customers who enroll in utility virtual power plant (VPP) programs recover costs 1.4 to 2.1 years faster than those who don't. That's a meaningful spread.
@@ -120,7 +112,6 @@ The programs I'd look at first, by utility: Tesla VPP (PG&E territory), Swell En
 - [California CPUC SGIP Program Data](https://www.cpuc.ca.gov/sgip/): Current rebate levels, equity tier eligibility, and available capacity by utility territory
 
 ---
-
 
 ---
 
