@@ -37,7 +37,7 @@ Here's what most people don't realize: a [solar installer](/solar-installer-red-
 
 I've seen this play out badly for a homeowner in Phoenix named Marcus, who called me two years after [going solar](/reduce-electric-bill-before-going-solar/), frustrated that his bills were still high. He'd installed a 7.2 kW system in 2023, which was correctly sized for his consumption at the time. Then he replaced his aging gas furnace with a ducted heat pump a year later. The heat pump added about 4,200 kWh of annual electric demand, and his 7.2 kW array simply couldn't keep up. He needed two more panels. Going back and doing a second permit, a second electrician visit, a second inspection: it cost him an extra $2,400 in soft costs he would have avoided if he'd done everything together.
 
-The coordination piece is annoying but real. When you schedule a solar install and an HVAC swap in the same month, the electrical contractor only has to touch your panel once. The structural engineer (if required) only visits once. You pull one building permit instead of two. In my experience, this alone saves homeowners between $1,500 and $3,000 depending on local permit fees and contractor overlap.
+The coordination piece is annoying but real. When you schedule a solar install and an HVAC swap in the same month, the electrical contractor only has to touch your panel once. The structural engineer (if required) only visits once. You pull one building permit instead of two. Coordinating both upgrades can save $1,500 to $3,000 depending on local permit fees and contractor overlap.
 
 ## The Heat Pump Factor: Understanding What You're Actually Adding
 
@@ -47,7 +47,7 @@ Let's talk specifics. A conventional natural gas furnace paired with a standard 
 
 The catch: that $900 is now electric, not gas. So your solar system has to produce enough to cover it. A heat pump for a 2,000-square-foot home might need around 3,000 to 5,500 kWh per year for heating and cooling combined. At average U.S. solar production of about 1,400 kWh per kW of installed capacity annually (per NREL data), you're looking at adding roughly 2.5 to 4 kW of solar capacity just to offset the heat pump's load.
 
-This is the calculation most homeowners skip. They see "heat pump saves energy" and assume smaller solar. The reality is more nuanced: a heat pump uses less *total energy* than a gas system, but it uses *all electric*, so your solar array has to be sized accordingly. The net effect is still very much in your favor, but the upfront panel count changes.
+This is the calculation most homeowners skip. They see "heat pump saves energy" and assume smaller solar. A heat pump uses less *total energy* than a gas system, but it uses *all electric*, so your solar array has to be sized accordingly. The net effect is still very much in your favor, but the upfront panel count changes.
 
 ## What the Numbers Actually Look Like
 
@@ -86,11 +86,11 @@ As of August 2026, several states have layered additional rebates on top of fede
 
 ## Sizing Mistakes and How to Avoid Them
 
-I thought for a long time that oversizing solar was always better. Get more panels, sell more back to the grid, profit. That's actually wrong in many markets. Net metering rules have tightened significantly, and as [the U.S. Department of Energy notes](https://www.energy.gov/eere/solar/homeowners-guide-going-solar), utilities in California, Nevada, and several other states now compensate exported power at rates well below retail. You might generate excess electricity and earn pennies per kWh for it while paying 30 cents per kWh when you draw from the grid at night.
+Oversizing solar to export excess power back to the grid isn't always the right strategy. Net metering rules have tightened significantly, and as [the U.S. Department of Energy notes](https://www.energy.gov/eere/solar/homeowners-guide-going-solar), utilities in California, Nevada, and several other states now compensate exported power at rates well below retail. You might generate excess electricity and earn pennies per kWh for it while paying 30 cents per kWh when you draw from the grid at night.
 
 The right approach is to size your solar array to your post-HVAC-upgrade load, with maybe 10-15% overage as a buffer for bad weather months and future EV charging if that's in your plans. Talk to an installer who will do this calculation honestly. Ask them specifically: "What kWh annual load are you sizing to, and does that include my new heat pump?" If they look uncertain, get a second quote.
 
-One other thing: make sure your new HVAC contractor and solar installer actually talk to each other. I know that sounds obvious. In practice, I've seen projects where the HVAC crew upsized the heat pump "just to be safe," and the solar installer didn't know, so the array was undersized by two panels. A simple shared load calculation document, something you can create yourself with your HVAC contractor's design specs in hand before the solar quote, fixes this entirely.
+One other thing: make sure your new HVAC contractor and solar installer actually talk to each other. I know that sounds obvious. Without coordination, the HVAC crew might upsize the heat pump "just to be safe" while the solar installer remains unaware, leaving the array undersized by two panels. A simple shared load calculation document, something you can create yourself with your HVAC contractor's design specs in hand before the solar quote, fixes this entirely.
 
 ## Sources
 

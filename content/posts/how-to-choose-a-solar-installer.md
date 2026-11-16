@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 Most homeowners spend more time choosing a Netflix show than vetting the company about to drill holes in their roof and wire a $20,000 system to their electrical panel. That's not a knock on homeowners. Installer selection is genuinely confusing, and the solar industry doesn't make it easier. Slick websites, aggressive door-to-door reps, and "limited-time" pricing pressure are features of this market, not bugs. Here's how to cut through it.
 
-
 <div class="value-module">
  <div class="vm-head">Solar Installer Vetting Checklist</div>
  <div class="vm-body">
@@ -41,10 +40,9 @@ Most homeowners spend more time choosing a Netflix show than vetting the company
 
 **"Solar only works in sunny climates"**: Most people think solar panels are worthless north of the Sun Belt. But Germany, ranked 4th globally in solar capacity despite averaging just 3.5 peak sun hours daily (vs. 5+ in Arizona), generates 8% of its electricity from solar. The National Renewable Energy Laboratory found that even cloudy states like Washington and Massachusetts see 70-80% the efficiency of sunny California. Modern panels convert diffuse light effectively, meaning you don't need blue skies to generate power. Location matters less than roof orientation, shading, and incentives. If Germany can make solar work, your climate probably can too.
 
-
 The panels get all the attention. Monocrystalline vs. polycrystalline, efficiency ratings, degradation curves. Meanwhile, the installer is the variable that actually determines whether your system performs, gets permitted correctly, passes inspection, and comes with warranty support that exists five years from now.
 
-A Tier 1 panel installed badly will underperform a mid-grade panel installed well. Poor wiring connections, incorrect azimuth angles, inadequate conduit sealing. I've seen brand-new systems underperform by 15-20% because of sloppy installation that took years to diagnose.
+A Tier 1 panel installed badly will underperform a mid-grade panel installed well. Poor wiring connections, incorrect azimuth angles, inadequate conduit sealing. Poor installation can cause new systems to underperform by 15-20%, sometimes for years before the problem is caught.
 
 The Solar Energy Industries Association (SEIA) has documented that installation quality and post-installation service drive the majority of customer complaints. The hardware is commoditized. The labor isn't.
 
@@ -125,7 +123,7 @@ Here's the actual sequence.
 
 ---
 
-The 30% federal tax credit makes solar financially compelling for a lot of homeowners right now. It'll keep making sense as utility rates climb. But the tax credit doesn't protect you from a bad installation or a company that's out of business when you need warranty service. Two or three hours vetting installers properly is the highest-leverage thing you can do in this entire process. The panel specs and financing terms matter far less than who's actually doing the work.
+The 30% federal tax credit makes solar financially compelling for a lot of homeowners right now. It'll keep making sense as utility rates climb. But the tax credit doesn't protect you from a bad installation or a company that's out of business when you need warranty service. Vetting installers thoroughly for two or three hours matters more than any other decision in this process. The panel specs and financing terms matter far less than who's actually doing the work.
 
 ---
 
@@ -138,7 +136,6 @@ The 30% federal tax credit makes solar financially compelling for a lot of homeo
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

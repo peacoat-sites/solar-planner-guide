@@ -33,7 +33,7 @@ I've sat across from hundreds of homeowners trying to figure this out. Most of t
 
 A single Tesla Powerwall 3, which is currently the most common residential battery I see quoted, runs about $12,000 to $14,000 installed as of July 2026. The Enphase IQ Battery 5P comes in a bit lower, around $10,000 to $12,000 installed for a comparable usable capacity. FranklinWH's aPower is gaining ground too, typically $11,000 to $13,000.
 
-For most homes, one battery gives you roughly 10 to 13 kilowatt-hours of usable storage. That covers a typical evening's worth of power: lights, refrigerator, phone charging, maybe a TV. It does not cover running your central AC through the night. I've seen homeowners get a rude surprise the first time they test their battery during an outage and realize it's gone by 11pm.
+For most homes, one battery gives you roughly 10 to 13 kilowatt-hours of usable storage. That covers a typical evening's worth of power: lights, refrigerator, phone charging, maybe a TV. It does not cover running your central AC through the night. A common mistake is underestimating how fast a battery depletes during an outage, especially when running high-draw appliances.
 
 The 30% federal Investment Tax Credit (ITC) applies to battery storage if it's charged exclusively by solar, which reduces that $12,000 to about $8,400 out of pocket on the Powerwall. Several states stack additional incentives on top: California's SGIP rebate program has paid out up to $1,000 per kilowatt-hour of storage capacity (though the waitlist has historically been brutal), and Massachusetts offers another $1,000 through its Connected Solutions program. These incentives move the math meaningfully, so you can't evaluate battery ROI without checking your state first.
 
@@ -45,7 +45,7 @@ Here's where I watch homeowners get tripped up more than anywhere else: they ass
 
 If your utility credits your excess solar production at the full retail rate, say $0.13 per kilowatt-hour in a state like Georgia or $0.15 in parts of the Midwest, you're essentially using the grid as a free battery already. Every kilowatt-hour you export during the day comes back to you at night at the same price. Under those conditions, adding a $10,000 physical battery so you can self-consume instead of exporting is a terrible financial trade.
 
-I learned this the hard way with a client in suburban Atlanta back when I was newer to this. He was sold a Powerwall by an installer who didn't mention that Georgia Power's net metering policy made the battery's bill-savings case almost nonexistent. His projected payback on the battery alone was 22 years. He was understandably not happy.
+Some utility net metering policies can make a battery's bill-savings case nearly nonexistent. In one documented case involving Georgia Power's net metering policy, the projected payback on the battery alone was 22 years.
 
 Contrast that with California, which switched to the NEM 3.0 structure in 2023. Export credits there dropped to an average of around $0.05 per kilowatt-hour during peak solar hours, compared to retail rates of $0.30 to $0.45. Under NEM 3.0, the National Renewable Energy Laboratory (NREL) projects that batteries increase solar system value by 50% or more for California homeowners, because self-consumption is now dramatically more valuable than exporting. The math flipped entirely.
 

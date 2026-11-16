@@ -31,9 +31,7 @@ Here's what I tell people in that situation: PACE is a real, legitimate financin
 
 PACE stands for Property Assessed Clean Energy. The basic structure is this: instead of taking out a personal loan to pay for [solar panels](/refinancing-to-pay-for-solar-panels/), you borrow from a private PACE lender (companies like Ygrene, Mosaic, or Renovate America's Benji program), and that debt gets attached to your property as a tax assessment. You repay it as a line item on your property tax bill, typically twice a year. The loan stays with the house, not with you personally, which is either a feature or a landmine depending on your situation.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PACE loans attach to your home's property tax bill, not your credit, meaning repayment follows the house if you sell.</li><li style="margin:5px 0">Current PACE interest rates run 6%–10%+, often higher than a home equity loan or FHA Title I loan.</li><li style="margin:5px 0">35 states currently have active PACE programs; California, Florida, and Missouri are the largest markets.</li><li style="margin:5px 0">Missed PACE payments can trigger the same foreclosure process as unpaid property taxes, this is not a soft consequence.</li><li style="margin:5px 0">PACE financing may disqualify you for future refinancing unless your mortgage lender consents upfront.</li></ul></div>
-
 
 ## How the Numbers Actually Stack Up
 
@@ -57,9 +55,7 @@ The PACE loan doesn't look wildly out of line on interest rate alone. Where it d
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-This is the part I wish more salespeople explained clearly, and I'll admit I underestimated it myself when I first started looking at PACE deals years ago. I assumed the lien was basically benign. It's not.
+This part deserves clearer explanation from salespeople. The lien is often underestimated as benign, but it carries real weight.
 
 PACE liens are typically senior to your mortgage in some states, meaning if you default on your property taxes (including the PACE assessment), a PACE servicer can initiate foreclosure proceedings before your mortgage lender gets paid. Fannie Mae and Freddie Mac have explicitly said they will not purchase mortgages with first-lien PACE obligations. So if you've got a conventional mortgage and you take out a PACE loan without your lender's blessing, you may technically be in violation of your mortgage terms.
 
@@ -87,9 +83,7 @@ After approval, you sign a financing agreement. This is the moment to slow down.
 
 Once the installation is complete, the PACE provider funds the contractor directly. Your repayment begins with your next property tax cycle. One thing people don't always realize: if your closing happens mid-year, you might not make your first PACE payment for six to twelve months, which can create a false sense that the loan is cheaper than it is.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">PACE Loan Total Repayment vs. Alternatives ($22,000 System)</div><div class="sc-row"><span class="sc-label">PACE (8.5%, 20yr)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$45,800</span></div><div class="sc-row"><span class="sc-label">Home Equity Loan (8%, 15yr)</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">$37,200</span></div><div class="sc-row"><span class="sc-label">Solar Loan (7.5%, 20yr)</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">$43,600</span></div><div class="sc-row"><span class="sc-label">Cash + ITC</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">$15,400</span></div><div class="sc-row"><span class="sc-label">FHA Title I (6.5%, 20yr)</span><span class="sc-track"><span class="sc-bar" style="width:85%"></span></span><span class="sc-val">$39,100</span></div><div class="sc-src">Source: Industry rate averages, August 2026</div></div>
-
 
 ## Sources
 
@@ -100,7 +94,6 @@ Once the installation is complete, the PACE provider funds the contractor direct
 - Fannie Mae Lender Letters (LL-2018-05): Guidelines on PACE obligations and mortgage eligibility
 
 ---
-
 
 *Photo: [Elite Power Group](https://www.pexels.com/@elite-power-group-661996115) via Pexels*
 

@@ -45,17 +45,13 @@ A real example from my consulting work: a couple in Sacramento ran me their util
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where it gets counterintuitive. A $70/month bill in California, where PG&E residential rates currently run above $0.30/kWh in many tier structures, represents very different solar economics than a $70/month bill in Louisiana, where rates hover around $0.10/kWh.
 
 The California homeowner at $0.32/kWh using 219 kWh/month is leaving more on the table per avoided kilowatt-hour. Their solar savings rate is higher per unit of energy, even if the bill amounts look similar.
 
 If your rate is low (under $0.12/kWh), low consumption plus low rates is the double squeeze that makes solar really hard to justify financially. States like Louisiana, Washington, and parts of the Pacific Northwest with heavy hydro generation fall into this category. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has mapped solar payback periods by state and rate environment, and the spread is enormous, a 7-year payback in Massachusetts can become a 20+ year payback in Washington state for identical systems.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated solar payback period (years) by utility rate</div><div class="sc-row"><span class="sc-label">$0.10/kWh rate</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">28 years</span></div><div class="sc-row"><span class="sc-label">$0.14/kWh rate</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">20 years</span></div><div class="sc-row"><span class="sc-label">$0.18/kWh rate</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">15 years</span></div><div class="sc-row"><span class="sc-label">$0.24/kWh rate</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">11 years</span></div><div class="sc-row"><span class="sc-label">$0.32/kWh rate</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">7 years</span></div><div class="sc-src">Source: NREL solar resource data + EnergySage 2026 market pricing</div></div>
-
 
 These assume a $20,000 net system cost and full usage offset. Your numbers shift based on system size and local conditions.
 
@@ -65,7 +61,7 @@ This is where I'd push back on the "just skip it" advice that I almost always di
 
 **You're about to increase your usage substantially.** Adding an electric vehicle is the most common scenario. A typical EV adds 300 to 400 kWh/month to household consumption, which in many markets means adding $60 to $130/month in electricity costs right now, before future rate increases. If you're buying an EV within the next year or two, today's $70 bill may be tomorrow's $170 bill, and sizing solar for your projected consumption makes the numbers look completely different.
 
-Same logic applies to heat pumps replacing gas furnaces. I've had clients in Denver go from $55/month average bills to $140+ after electrifying their heat, and suddenly the solar project that looked ridiculous a year earlier became the obvious move.
+Same logic applies to heat pumps replacing gas furnaces. In cases where heat pumps replace gas furnaces, bills can increase significantly during the transition year, making a solar project suddenly more economically attractive.
 
 **Your rate is low but tiered, with brutal upper tiers.** Some utilities have very low baseline rates but punishing tier 2 and tier 3 pricing. If you're sitting in tier 1 now but know that adding a pool, a workshop, or a home office is coming, solar can protect you from the expensive tiers specifically.
 
@@ -93,7 +89,7 @@ The average solar sales rep is paid on commission. Their incentive is to get a s
 
 That 5% escalation assumption quietly inflates the 20-year savings estimate by tens of thousands of dollars on paper.
 
-When I consult with a new client, I ask for two years of actual utility bills, not estimates. I also ask them to pull their bills from summer and winter separately, in my experience, low-average-bill households often have one brutal summer or winter month buried in the average that makes the system economics look better than the yearly average suggests.
+Request two years of actual utility bills rather than estimates. Pull bills from summer and winter separately, as low-average-bill households often have one extreme season buried in the yearly average that can significantly affect system economics.
 
 The other thing I always look at is degradation. Quality panels from Tier 1 manufacturers like SunPower (Maxeon cells), REC, or Panasonic degrade around 0.25 to 0.4% per year. Cheaper commodity panels can lose 0.7% or more annually. On a 25-year horizon, the difference in cumulative production is significant. If you're on the financial margin of solar making sense, the panel quality choice matters more than most salespeople let on.
 
@@ -116,7 +112,6 @@ A useful thing to track once you're a solar owner: a home energy monitor like th
 - [Lawrence Berkeley National Laboratory, Tracking the Sun report](https://emp.lbl.gov/tracking-the-sun): Annual residential solar pricing and system characteristic data
 
 ---
-
 
 ---
 

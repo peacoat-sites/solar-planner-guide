@@ -25,7 +25,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 lastmod: 2026-07-08
 ---
-You've gotten [three solar quotes](/how-to-get-multiple-solar-quotes/), you're excited, and then one installer mentions, almost as an aside, that your roof "might need some work before we can install." Suddenly you're wondering whether you're about to spend $4,000 fixing your roof before you can even start saving money on electricity. I've seen this scenario play out dozens of times, and the frustration is completely legitimate. The problem is that most installers won't hand you a clear checklist upfront. They want the sale. So let me give you what they often don't: a straight look at exactly what your roof needs to be solar-ready, what disqualifies a roof, and how to figure out where yours stands before you sign anything.
+You've gotten [three solar quotes](/how-to-get-multiple-solar-quotes/), you're excited, and then one installer mentions, almost as an aside, that your roof "might need some work before we can install." Suddenly you're wondering whether you're about to spend $4,000 fixing your roof before you can even start saving money on electricity. This scenario is common, and the frustration is completely legitimate. The problem is that most installers won't hand you a clear checklist upfront. They want the sale. Here's what you need to know: exactly what your roof needs to be solar-ready, what disqualifies a roof, and how to figure out where yours stands before you sign anything.
 
 ## Why Your Roof Matters More Than Your Solar Panels
 
@@ -41,7 +41,7 @@ If your asphalt shingle roof is more than 15 years old, you need an honest conve
 
 A full solar reroof removal and reinstallation on a 7-kilowatt system can cost $3,500 or more. If you need a new roof anyway, it's almost always smarter to do both projects together. Many roofing companies now offer [solar-ready reroofs](/solar-installation-process-step-by-step/), and you can sometimes negotiate a combined discount.
 
-I've seen clients get burned both ways: people who installed solar on a 22-year-old roof and paid for reroof removal two years later, and people who panicked unnecessarily and spent money on a roof that had plenty of life left. Get a qualified roofer, not your solar installer, to give you an independent assessment of remaining life. Those are two different businesses with two different incentives.
+Homeowners can get burned both ways: some install solar on a 22-year-old roof and pay for reroof removal two years later, while others panic unnecessarily and spend money on a roof that had plenty of life left. Get a qualified roofer, not your solar installer, to give you an independent assessment of remaining life. Those are two different businesses with two different incentives.
 
 ## Roof Pitch, Orientation, and Shading: The Performance Triangle
 
@@ -101,7 +101,7 @@ If your installer skips the permit question or waves off structural concerns, th
 
 ## HOA Rules, Local Codes, and Historic Districts: The Invisible Obstacles
 
-This section might save you months of headache. I've had clients in homeowners associations who got through installer quotes, financing, and permit applications before discovering their HOA had placement restrictions that required moving the entire array to a less-efficient roof section.
+Checking HOA rules early can save months of headache. Some homeowners discover placement restrictions only after moving through installer quotes, financing, and permit applications, forcing a move of the entire array to a less-efficient roof section.
 
 Most states now have solar access laws that limit HOA authority to outright block solar installations. California, Texas, Florida, and about 25 other states have strong protections. But HOAs can still regulate aesthetics within limits. They may require panels to be flush-mounted, prohibit panels visible from the street, or mandate specific equipment colors. Know your state's rules before you assume you're protected.
 
@@ -119,7 +119,6 @@ A roof that's structurally solid, reasonably oriented, mostly unshaded, and has 
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - EnergySage's market data
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

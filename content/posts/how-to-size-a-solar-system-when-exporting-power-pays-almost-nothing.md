@@ -38,8 +38,6 @@ The state-by-state divergence is now extreme. Massachusetts still pays close to 
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's what I tell people who are planning a system today: stop thinking about your solar array as a power plant and start thinking about it as a bill-replacement engine.
 
 The old method was simple. Take your annual kWh consumption, divide by your location's peak sun hours, add 10 to 20% for good measure, and let excess production roll credits on your utility bill. That math assumed a 1:1 relationship between what you exported and what you'd eventually consume back. That relationship is gone in most of the country.
@@ -60,7 +58,7 @@ This is a design conversation your installer should be having with you. If they'
 
 ## The Battery Math Has Changed, Too
 
-[Battery attachment rates hit 40%](/how-your-solar-battery-can-now-earn-money-through-vpps/) of new residential installations in Q1 2026, up from 35% in 2025. That's not a coincidence. Homeowners who've done the math are arriving at the same conclusion: under low-export-rate regimes, a battery pays for itself in avoided peak-rate purchases in ways it simply didn't when net metering was generous.
+[Battery attachment rates hit 40%](/how-your-solar-battery-can-now-earn-money-through-vpps/) of new residential installations in Q1 2026, up from 35% in 2025. Under low-export-rate regimes, a battery pays for itself in avoided peak-rate purchases in ways it simply didn't when net metering was generous.
 
 The honest caveat is that battery economics still depend on your specific rate structure. If you're in Massachusetts and collecting $0.30 per kWh in export credits, a battery adds resilience and backup value but may not dramatically shorten your payback period on its own. If you're in California or heading there, a battery is arguably more important than adding the last two panels to your array.
 

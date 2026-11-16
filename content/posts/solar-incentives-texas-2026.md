@@ -33,7 +33,7 @@ Before we even get to Texas-specific programs, the [federal Investment Tax Credi
 
 Through 2032, the ITC lets you claim 30% of your total system cost as a direct credit against your federal income tax bill. Not a deduction. A credit. That means if your system costs $28,000, you're looking at an $8,400 reduction in what you owe the IRS. The credit applies to panels, inverters, labor, permitting fees, and even battery storage as long as the battery is charged by solar.
 
-Here's the catch: you need enough federal tax liability to absorb it. If you only owe $3,000 in federal taxes in year one, you don't lose the remaining $5,400. You carry it forward to the next tax year. But if you're retired on Social Security with minimal taxable income, the credit may not help you much. I've seen clients in that situation get burned by installers who never brought this up.
+You need enough federal tax liability to absorb the credit. If you only owe $3,000 in federal taxes in year one, you don't lose the remaining $5,400. You carry it forward to the next tax year. But if you're retired on Social Security with minimal taxable income, the credit may not help you much. In this situation, some installers may not mention the limitation upfront.
 
 For a full breakdown of how this works, including how to claim it correctly, check out [this detailed guide to the federal solar tax credit for 2026](/federal-solar-tax-credit-2026/).
 
@@ -132,7 +132,6 @@ Texas isn't the easiest state to navigate for solar incentives. The fragmented u
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

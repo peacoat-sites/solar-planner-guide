@@ -35,8 +35,6 @@ But those conditions matter enormously. More on that in a minute.
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where most people get confused, because the appraisal process for solar still isn't as consistent as it should be.
 
 Appraisers are supposed to use something called the income approach or the cost approach when valuing solar. The income approach calculates the present value of future electricity savings. The cost approach looks at what it would cost to replace the system, depreciated for age. In practice, appraisers in solar-saturated markets like California, Arizona, and Colorado tend to be more comfortable with these methods. In markets where solar is still uncommon, like parts of the Midwest or rural Northeast, you'll often find appraisers simply ignoring the system entirely or giving it token value.
@@ -49,7 +47,7 @@ If you're in a market like this and you're buying or selling soon, it's worth re
 
 I cannot stress this enough. A leased solar system can actively hurt your home sale.
 
-When you lease, you don't own the panels. A third-party company does. That means when you sell, the buyer has to either qualify to take over the lease payments (usually $100 to $200 a month) or you have to buy out the lease, which can run $10,000 to $20,000 depending on how many years remain. I've watched deals fall apart entirely over this.
+When you lease, you don't own the panels. A third-party company does. That means when you sell, the buyer has to either qualify to take over the lease payments (usually $100 to $200 a month) or you have to buy out the lease, which can run $10,000 to $20,000 depending on how many years remain.
 
 Even a Power Purchase Agreement (PPA), where you pay per kilowatt-hour rather than a monthly lease fee, creates the same headache. Buyers see an obligation tied to the house and get nervous. Some won't engage at all.
 
@@ -61,7 +59,7 @@ Here's the contrarian take: I think solar is routinely undervalued in home sales
 
 A typical 8 kW system in a sunny market produces around 11,000 to 12,000 kilowatt-hours per year. At the national average residential electricity rate today (around $0.17/kWh), that's $1,870 to $2,040 in annual savings. Over 25 years, even discounting for rate increases and modest panel degradation, that's a six-figure asset in present-value terms. But sellers almost never present it that way to buyers.
 
-What most people don't realize is that the framing at sale matters. Sellers who show buyers their utility bills, their monitoring app data, and a projected savings model move homes faster and at better prices than sellers who just mention "solar panels included" in the listing. I've seen a seller use a [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor&tag=contentportfo-20) to generate a compelling year-over-year savings report that they literally printed and left on the kitchen counter during open houses. (*Disclosure: this site may earn a commission on purchases made through Amazon links.*) Corny? Maybe. Effective? Absolutely.
+Presentation matters at sale. Buyers respond better to concrete data than to a generic mention of solar panels. Showing utility bills, monitoring app data, and a projected savings model helps buyers understand the financial benefit. Some sellers create year-over-year savings reports using tools like a [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor&tag=contentportfo-20) to document actual performance. (*Disclosure: this site may earn a commission on purchases made through Amazon links.*)
 
 Your installer should be able to pull production data from the system's inverter. If you have an older system without monitoring, a clamp-on energy monitor can fill that gap. Make the invisible visible.
 
@@ -108,7 +106,6 @@ The bottom line is more nuanced than most solar installers will admit, but it's 
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor&tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

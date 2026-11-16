@@ -29,11 +29,9 @@ Manufactured [home solar](/whole-home-solar-energy-system/) is one of the most m
 
 Let me back up. About four years ago, a couple in New Mexico emailed me after their [solar installer](/solar-installer-red-flags-to-avoid/) had already walked off the job midway through permitting. They owned a 1998 HUD-code manufactured home on a rented lot, and nobody had bothered to check any of that before taking their deposit. The roof wasn't rated for the added load, the park's lease didn't allow structural modifications, and the lender they'd been directed to didn't finance systems on personal property. Three strikes, and they were out $3,200 before a single panel went up. That story stuck with me, because it didn't have to go that way.
 
-Here's the thing: solar absolutely can work on manufactured homes. Tens of thousands of them are producing clean power [right now](/what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/). But there are real structural, financial, and legal obstacles that installers don't always mention, because the fastest path to their commission doesn't include a 45-minute conversation about your HUD data plate.
-
+Solar absolutely can work on manufactured homes. Tens of thousands of them are producing clean power [right now](/what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/). But there are real structural, financial, and legal obstacles that installers don't always mention, because the fastest path to their commission doesn't include a 45-minute conversation about your HUD data plate.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar works on many manufactured homes, but roof load ratings, lot ownership, and financing eligibility must be verified first.</li><li style="margin:5px 0">Most manufactured home roofs support 2-3 lbs/sq ft live load; standard solar panels weigh 2.5-4 lbs/sq ft, which may require engineering assessment.</li><li style="margin:5px 0">The 30% federal Investment Tax Credit applies to manufactured homes if you own the land or the home is on a permanent foundation.</li><li style="margin:5px 0">Ground-mounted systems sidestep most structural concerns and are often the smarter choice for manufactured home owners.</li><li style="margin:5px 0">Financing options are narrowing but real: FHA Title I, Fannie Mae MH Advantage, and chattel lenders like Triad Financial Services are active as of 2026.</li></ul></div>
-
 
 ## The Roof Problem Nobody Leads With
 
@@ -43,13 +41,11 @@ A standard 400-watt solar panel from a brand like Q CELLS or REC weighs roughly 
 
 What most people don't realize is that the load tolerance varies significantly by age and zone designation. A manufactured home built to the HUD Wind Zone III standard (common in Florida and the Gulf Coast) often has a more robust frame than a Wind Zone I home from the same year. Your HUD data plate, which is a small metal tag usually found inside a kitchen cabinet or on the main electrical panel, tells you which zone you're in. Any reputable solar installer should ask to see it before they measure your roof. If they don't ask, that's your first red flag.
 
-I've seen newer manufactured homes, particularly those built after 2010 to increasingly strict HUD standards, handle roof-mounted systems with no issues. I've also seen 1990s-era single-wides where the truss spacing couldn't safely support even a modest 6-panel string without professional reinforcement. The honest answer is you need a structural engineer to sign off, and that assessment usually costs $300-$600. Worth every penny.
+Newer manufactured homes built after 2010 to stricter HUD standards typically handle roof-mounted systems well. Older single-wides from the 1990s may have truss spacing that can't safely support even a modest 6-panel string without professional reinforcement. The honest answer is you need a structural engineer to sign off, and that assessment usually costs $300-$600. Worth every penny.
 
 ## Does Your Land Situation Change Everything?
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Short answer: yes, dramatically.
 
@@ -102,13 +98,11 @@ Scenario: 7 kW system on a 2015 double-wide on owned land
 
 If that same homeowner chose a ground mount instead: add $2,100 to gross cost, but improved production likely closes the gap within year 3-4.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated Net Solar Cost by Scenario (7 kW System)</div><div class="sc-row"><span class="sc-label">Rooftop, owned land</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$14,700</span></div><div class="sc-row"><span class="sc-label">Ground mount, owned land</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">$15,800</span></div><div class="sc-row"><span class="sc-label">Rooftop, leased lot (no ITC)</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">$21,000</span></div><div class="sc-row"><span class="sc-label">Ground mount, leased lot (no ITC)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$23,100</span></div><div class="sc-src">Source: SEIA 2026 pricing, IRS Section 25D</div></div>
-
 
 ## Before You Sign Anything
 
-A quick checklist, because I've watched people skip these and regret it:
+A quick checklist:
 
 1. Pull your HUD data plate and photograph it. Give that info to your installer and ask them to provide a written statement that the roof structure is compatible or that they're ordering an engineering assessment.
 2. Check your lease agreement (or your deed, depending on your land situation) for language about structural modifications and permanent fixtures.
@@ -127,7 +121,6 @@ A good home energy monitor, like the [Emporia Vue 2](https://www.amazon.com/s?k=
 - [Fannie Mae MH Advantage Program](https://www.fanniemae.com/): Financing guidelines for qualifying manufactured homes, current as of 2026
 
 ---
-
 
 *Photo: [Lena Netkach](https://www.pexels.com/@lena-netkach-395486) via Pexels*
 

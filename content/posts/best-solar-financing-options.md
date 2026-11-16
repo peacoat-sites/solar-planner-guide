@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You just got three solar quotes, the system looks solid on paper, and then you see the price: $28,000. That's what the average American pays. According to [EnergySage's market data](https://news.energysage.com/), the median solar installation in the U.S. costs around $30,000 before incentives. After the 30% federal tax credit, you're closer to $21,000. Still not pocket change.
 
-How you pay for that system matters enormously. I've seen homeowners with identical solar setups end up in wildly different financial positions purely because of the financing choice they made on signing day.
+How you pay for that system matters enormously. Homeowners with identical solar setups can end up in wildly different financial positions depending on the financing choice made at signing.
 
 ## Cash Purchase: The Gold Standard (When You Can Swing It)
 
@@ -68,7 +68,7 @@ With a **[solar lease](/is-solar-lease-worth-it/)**, you pay a fixed monthly amo
 
 That escalator is what people overlook. Sign a PPA at $0.10/kWh with a 3% annual escalator, and by year 15 you're paying $0.156/kWh. Whether that's still a bargain depends entirely on what utility rates do, which is impossible to predict with certainty.
 
-The bigger problem is practical: leases and PPAs complicate home sales. Buyers have to qualify to assume the contract, and many won't. I've watched deals collapse at closing because of a solar lease. Move before the contract ends and you might face buyout fees in the tens of thousands.
+The bigger problem is practical: leases and PPAs complicate home sales. Buyers have to qualify to assume the contract, and many won't. Deals can collapse at closing because of a solar lease. Move before the contract ends and you might face buyout fees in the tens of thousands.
 
 Leases and PPAs made sense a decade ago when solar loans were hard to find. Today, with competitive loan products everywhere, I rarely recommend them for homeowners who plan to stay.
 
@@ -127,7 +127,6 @@ The financing decision you make when you go solar echoes through your finances f
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

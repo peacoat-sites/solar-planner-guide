@@ -95,7 +95,7 @@ The 30% federal Investment Tax Credit (ITC) applies to battery storage when it's
 
 Payback periods depend heavily on your utility rate structure. If you're on a time-of-use (TOU) rate plan, where electricity costs more during peak hours (typically late afternoon and evening), you can charge your battery from solar during the day and discharge during expensive peak hours, generating real savings. In states with high electricity rates like California, Hawaii, and Massachusetts, battery economics are genuinely compelling. In states with flat rates below 12 cents per kWh, the financial case is much weaker, and you're really paying for backup power peace of mind, which is legitimate, just honest about it.
 
-I've seen clients in California with SCE time-of-use rates get payback periods of 8 to 10 years on their battery investment. In Texas or the Midwest, that same system might take 14 to 18 years to pay back on energy savings alone. Whether that's acceptable depends entirely on how you value grid independence and backup power.
+In California with SCE time-of-use rates, payback periods typically run 8 to 10 years on a battery investment. In Texas or the Midwest, that same system might take 14 to 18 years to pay back on energy savings alone. Whether that's acceptable depends entirely on how you value grid independence and backup power.
 
 One cost people often underestimate: panel upgrades. Many older homes have 100-amp or 150-amp electrical panels, and adding a battery system often triggers a panel upgrade to 200 amps, which adds $1,500 to $4,000 to your project. Ask about this upfront.
 
@@ -110,7 +110,6 @@ To keep tabs on your battery's performance after installation, a dedicated [sola
 - [solar monitoring display](https://www.amazon.com/s?k=solar+energy+monitor+display)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

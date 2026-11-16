@@ -25,7 +25,7 @@ faqs:
    a: "No, degradation can't be reversed. You can slow it slightly by keeping panels clean (dirt and grime add thermal stress) and ensuring your system is properly grounded to prevent potential-induced degradation, but the underlying cell chemistry aging is irreversible. A well-installed, high-quality panel from a reputable manufacturer is your best defense before the system ever goes on the roof."
 lastmod: 2026-07-08
 ---
-Every solar panel on your roof is slowly dying. That's not a scare tactic, it's physics. The real question isn't whether degradation happens, it will, but how fast it happens, and whether the number your installer quoted is actually believable.
+Every solar panel on your roof is slowly dying. Degradation is a physical process that affects all panels. The real question isn't whether degradation happens, it will, but how fast it happens, and whether the number your installer quoted is actually believable.
 
 I've talked to hundreds of homeowners about this. What almost nobody realizes is that the degradation rate buried in the warranty might be the single most important financial figure in the entire contract. Sometimes more important than what you paid upfront.
 
@@ -61,7 +61,7 @@ Quality panels usually come with two warranties: a product warranty (12-25 years
 
 Typical language looks like this: 98% output in year one, then no less than 80% at year 25. That implies roughly 0.72% annual degradation, which is actually worse than the real-world 0.5% standard. Look for a "linear" warranty instead of a "step" warranty. Step warranties guarantee 90% at year 10 and 80% at year 25, but nothing in between. Linear warranties hold the manufacturer to a consistent annual floor.
 
-Here's the thing nobody mentions: making a degradation warranty claim is genuinely difficult. You need documented underperformance across multiple years, accounting for weather variability. EnergySage's data shows most degradation claims never result in replacement, partly because the thresholds are loose enough that "normal degradation" and "too-fast degradation" look identical to most homeowners without professional monitoring.
+Making a degradation warranty claim is difficult in practice. The process requires documented underperformance across multiple years while accounting for weather variability. Most degradation claims don't result in replacement because warranty thresholds are loose enough that normal degradation and accelerated degradation are difficult to distinguish without professional monitoring.
 
 Don't mistake me. Warranties aren't worthless. But don't pick a panel because it has a 30-year performance warranty. Real degradation performance backed by third-party testing like PV Evolution Labs' module reliability scorecard matters more than legal language written by a manufacturer's team.
 
@@ -84,7 +84,6 @@ The 0.5% figure gets tossed around in sales pitches so casually it feels like ba
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

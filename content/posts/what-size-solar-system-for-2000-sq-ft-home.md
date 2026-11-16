@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Square footage is almost irrelevant when sizing a solar system. I know that's not what you were hoping to hear, but it's true, and most of the "solar calculator" tools online are doing you a disservice by pretending otherwise.
 
-Two 2,000 square foot homes sitting side by side in the same Phoenix neighborhood can have electricity needs that are wildly different. One family runs a chest freezer in the garage, charges two EVs overnight, and keeps the thermostat at 72 year-round. The other is a retired couple who travel six months a year. Same house. Completely different solar needs. I've seen this play out dozens of times.
+Two 2,000 square foot homes sitting side by side in the same Phoenix neighborhood can have electricity needs that are wildly different. One family runs a chest freezer in the garage, charges two EVs overnight, and keeps the thermostat at 72 year-round. The other is a retired couple who travel six months a year. Same house. Completely different solar needs.
 
 That said, if you just want a ballpark to start the conversation, a 2,000 sq ft home in the U.S. typically lands somewhere between a 6 kW and 12 kW solar system. That's a wide range, and narrowing it down is exactly what this article is for.
 
@@ -77,7 +77,7 @@ A few factors can shift your ideal system size by 2-4 kW in either direction.
 
 The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) puts average installed solar costs at roughly $2.95 per watt before incentives as of 2024. For a 7.5 kW system, that's about $22,125 before the federal tax credit. The Residential Clean Energy Credit covers 30% of that, dropping it to around $15,487. A 10 kW system would run approximately $29,500 before the credit, or about $20,650 after.
 
-Those are averages. I've seen quotes come in $4,000 under or over those figures depending on the installer, the equipment tier, roof complexity, and local permitting costs. EnergySage's marketplace data consistently shows that getting three or more quotes saves homeowners an average of 20% on their final price. On a $20,000 system, that's $4,000. That's not nothing.
+Those are averages. Quotes can come in $4,000 under or over those figures depending on the installer, the equipment tier, roof complexity, and local permitting costs. EnergySage's marketplace data consistently shows that getting three or more quotes saves homeowners an average of 20% on their final price. On a $20,000 system, that's $4,000. That's not nothing.
 
 Here's something installers often gloss over: the payback period in high-sunshine, high-rate states like California, Massachusetts, and New York is typically 6-9 years. In lower-rate states with moderate sun, it can stretch to 11-13 years. Both can still be good investments over a 25-year panel lifespan, but you should know which situation you're in.
 
@@ -96,7 +96,6 @@ Also ask what happens if the system underproduces. A good installer will explain
 - [Emporia Vue Gen 3](https://www.amazon.com/s?k=Emporia+Vue+home+energy+monitor&tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

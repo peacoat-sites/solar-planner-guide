@@ -42,13 +42,13 @@ This stage is fast. Don't let a sluggish installer make it slow. If you haven't 
 
 **Permitting: 2 to 8 weeks.** This is the biggest variable in the entire timeline and the one your installer controls least. Every jurisdiction has its own process. Los Angeles typically runs two to three weeks. Some smaller municipalities in the Midwest or Northeast still require in-person submissions and have building departments that review solar permits once a week. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has spent years pushing for permit streamlining, and progress has been made in many states, but it remains patchy.
 
-A reader emailed me last month after her installer told her permitting "usually takes two weeks" in her Connecticut town. It took seven. Nobody lied to her; they just quoted the optimistic scenario.
+Permitting timelines often quoted by installers reflect best-case scenarios rather than typical experience. A homeowner might be told permitting "usually takes two weeks" only to find it stretches to seven weeks or longer, depending on local processing backlogs and inspection schedules.
 
 **Installation day: 1 to 3 days.** The physical work goes fast. A typical 8 to 10 kW residential system can be racked, wired, and commissioned in one to two days with a crew of three. If you have a complex roof, multiple array orientations, or you're adding battery storage, plan for two to three days. This is the part homeowners expect to take the longest. It almost never does.
 
 **Utility inspection and interconnection: 1 to 8 weeks.** After installation, your utility needs to approve the system before it can export power to the grid. The installer submits interconnection paperwork; a utility inspector (and sometimes a city inspector) comes out; then the utility installs a new bi-directional meter or grants permission-to-operate (PTO). This step is entirely outside your installer's control, and it's where timelines get blown up in congested grids. California's investor-owned utilities, including PG&E and SCE, have faced significant interconnection backlogs. Some homeowners have sat on completed systems for eight or ten weeks waiting for PTO.
 
-Your panels can be fully installed on your roof and you still can't legally turn them on until PTO is granted. I've seen homeowners surprised by this more than almost any other aspect of the process.
+Your panels can be fully installed on your roof and you still can't legally turn them on until PTO is granted.
 
 Check how your installer handles permit expediting by asking them directly: [learn what questions to ask solar installers before signing](/solar-installation-checklist).
 
@@ -64,8 +64,6 @@ Check how your installer handles permit expediting by asking them directly: [lea
 | Florida (Tampa/Orlando) | Fast | 2-4 weeks | 7-11 weeks | Generally fast permitting, improved FPL interconnection |
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Geography matters more than most installers will tell you upfront.
 
@@ -120,7 +118,6 @@ Test your installer's responsiveness before you sign: send a detailed email with
 - [Emporia Energy consumer product documentation](https://www.emporiaenergy.com/): Specs and integration details for home energy monitoring hardware.
 
 ---
-
 
 ---
 

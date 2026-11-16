@@ -78,7 +78,7 @@ The math is straightforward. PG&E, SCE, and SDG&E all use time-of-use pricing. P
 
 That arbitrage is real. A 10 kWh battery you cycle daily could save $1,500 to $2,000 per year in peak-rate avoidance, depending on your rate plan and how much you actually use.
 
-Layer on the 30% federal ITC plus SGIP rebates if you qualify, and the battery often pays for itself faster than you'd think. I've seen clients in PG&E territory with qualifying SGIP status get their battery nearly free after combining all the incentives.
+Layer on the 30% federal ITC plus SGIP rebates if you qualify, and the battery often pays for itself faster than you'd think. Homeowners in PG&E territory with qualifying SGIP status can get their battery nearly free after combining all the incentives.
 
 If you want to track your system's performance and ensure the battery cycles optimally, an energy monitor like the Emporia Vue or Sense Home Energy Monitor (available on [Amazon](https://www.amazon.com/s?k=home+energy+monitor), where this site may earn a commission) shows you exactly when you're importing, exporting, and how efficiently your battery runs.
 
@@ -120,7 +120,6 @@ The homeowners who struggle are the ones expecting old NEM 2.0 math to still app
 - [Amazon](https://www.amazon.com/s?k=home+energy+monitor)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

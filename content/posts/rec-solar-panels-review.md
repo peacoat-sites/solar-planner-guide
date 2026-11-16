@@ -39,15 +39,11 @@ The Alpha line uses heterojunction (HJT) cell technology, which is the same arch
 
 One thing installers don't always mention: REC Alpha panels have a low temperature coefficient of -0.26% per degree Celsius. In Phoenix or Austin where summer roof temperatures easily hit 65-70°C, that matters more than rated efficiency. A panel with a -0.36% temperature coefficient (common in cheaper mono panels) loses significantly more output on your hottest days, which, inconveniently, are also your highest-demand days.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">25-Year Power Output Retention by Technology</div><div class="sc-row"><span class="sc-label">REC Alpha (HJT)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">97.2%</span></div><div class="sc-row"><span class="sc-label">Panasonic EverVolt (HJT)</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">92%</span></div><div class="sc-row"><span class="sc-label">Standard Mono PERC</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">85%</span></div><div class="sc-row"><span class="sc-label">Budget Poly (pre-2022)</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">78%</span></div><div class="sc-src">Source: NREL HJT degradation data &amp; manufacturer warranties</div></div>
-
 
 ## The Product Line, Ranked Honestly
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 REC makes three main residential products. Here's how they actually compare:
 
@@ -65,7 +61,7 @@ Prices current as of July 2026, sourced from installer quotes on EnergySage.
 
 REC's 25-year product warranty sounds excellent. And honestly, it mostly is. But here's the thing I got wrong for years before a more experienced colleague corrected me: the warranty is only valid if your installer is REC Certified. REC maintains a network of "Certified Solar Professional" installers, and if your system is installed by someone outside that network, the warranty coverage drops substantially in some markets.
 
-I've seen homeowners get surprised by this. They found a great price from a local installer, went with it, then discovered mid-claim that their coverage was voided because the installer hadn't recertified their REC status. Always verify certification on REC's website before signing a contract. It takes two minutes and saves real grief.
+A common surprise: coverage gets voided mid-claim because the installer hadn't recertified their REC status. Always verify certification on REC's website before signing a contract. It takes two minutes and saves real grief.
 
 The product warranty (covering manufacturing defects) is separate from the power output warranty. Both run 25 years on the Alpha Pure. That combined coverage is one of the strongest in the residential market.
 
@@ -81,7 +77,7 @@ The product warranty (covering manufacturing defects) is separate from the power
 
 Straightforward answer: REC Alpha Pure is the right call for homeowners with constrained roof space, hot climates, long planning horizons (staying 15+ years), or anyone who values a premium warranty and can find a certified installer in their area.
 
-REC is not ideal if you have unlimited roof space and a tight budget, or if you're in a market where REC Certified installers are rare. In rural areas, I've seen installers quote REC but struggle to maintain certification. A panel brand is only as good as its installer network, and REC's network, while solid in major metros, has gaps.
+REC may not be ideal if you have unlimited roof space and a tight budget, or if you're in a market where REC Certified installers are rare. In rural areas, installers sometimes quote REC but struggle to maintain certification. A panel brand is only as good as its installer network, and REC's network, while solid in major metros, has gaps.
 
 One data point worth knowing: SEIA's residential installation data shows that HJT panels (the category REC Alpha belongs to) have been gaining market share in the premium segment, growing from roughly 8% of premium residential installs to over 19% between 2022 and early 2026. The technology is proven at scale now. The early adoption risk is gone.
 
@@ -94,7 +90,6 @@ One data point worth knowing: SEIA's residential installation data shows that HJ
 - [IEA Photovoltaic Power Systems Programme](https://iea-pvps.org/): Long-term panel degradation studies across technology types
 
 ---
-
 
 ---
 

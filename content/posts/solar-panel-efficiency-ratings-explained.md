@@ -27,13 +27,11 @@ faqs:
 
 [Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) I talk to can tell me their panel's wattage within about five seconds. Ask them about efficiency, though, and you get a pause, a guess somewhere between 15% and 25%, and then: "Does it actually matter that much?"
 
-It matters more than the wattage number does, honestly. Wattage is a product of efficiency and panel size, so a 400W panel can be either a reasonably sized unit running at 22% efficiency or a bigger panel doing the same job at 18%. Same output, different footprint, different [cost per](/solar-panel-cost-per-watt-2026/) usable square foot on your roof. I've seen homeowners with limited south-facing roof space end up with a system that just couldn't fit enough panels to cover their bill, because they didn't realize their installer had quoted a lower-efficiency product.
+It matters more than the wattage number does, honestly. Wattage is a product of efficiency and panel size, so a 400W panel can be either a reasonably sized unit running at 22% efficiency or a bigger panel doing the same job at 18%. Same output, different footprint, different [cost per](/solar-panel-cost-per-watt-2026/) usable square foot on your roof. Homeowners with limited south-facing roof space can end up with a system that doesn't fit enough panels to cover their bill if they don't realize their installer has quoted a lower-efficiency product.
 
 Let me walk you through what these numbers actually mean, where they come from, and when they're worth paying a premium for.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard residential solar panels today run 19-23% efficiency; premium monocrystalline (SunPower, REC) reach 22.8%.</li><li style="margin:5px 0">Higher efficiency costs more per panel but means fewer panels for the same output, critical on small roofs.</li><li style="margin:5px 0">STC lab ratings always beat real-world performance; expect 10-25% less in actual conditions.</li><li style="margin:5px 0">Efficiency degrades about 0.5% per year; a 20% panel is ~10% less efficient after 20 years.</li><li style="margin:5px 0">For most homeowners with ample roof space, mid-range 20-21% panels offer the best cost-per-watt value.</li></ul></div>
-
 
 ## What the Percentage Actually Measures
 
@@ -47,13 +45,9 @@ The STC rating is a lab number. Your roof isn't a lab. More on that in a minute.
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I want to give you something concrete, because the "monocrystalline vs. polycrystalline vs. thin-film" breakdown gets repeated everywhere but rarely with current numbers attached.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical residential panel efficiency by technology (2026)</div><div class="sc-row"><span class="sc-label">Premium Mono (e.g. SunPower Maxeon)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">22.8%</span></div><div class="sc-row"><span class="sc-label">Standard Monocrystalline</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">20.5%</span></div><div class="sc-row"><span class="sc-label">PERC Monocrystalline</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">21.4%</span></div><div class="sc-row"><span class="sc-label">Polycrystalline</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">17.5%</span></div><div class="sc-row"><span class="sc-label">Thin-Film (CdTe, e.g. First Solar)</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">19%</span></div><div class="sc-src">Source: NREL + EnergySage market data, 2026</div></div>
-
 
 | Technology | Typical Efficiency (2026) | Typical Cost per Watt | Best For |
 |---|---|---|---|
@@ -73,7 +67,7 @@ Three things eat into your real-world output relative to STC:
 
 **Temperature.** Silicon panels hate heat. Most mono panels have a temperature coefficient of around -0.35% to -0.45% per degree Celsius above 25°C. Your panels on a Phoenix roof in July can hit 65°C or higher. That's 40°C above STC, times 0.40% = 16% output loss right there. This is one reason SunPower's Maxeon cells are genuinely interesting, not just marketing: their temperature coefficient runs around -0.27%/°C, measurably better than the field average.
 
-**Shading and soiling.** A single shaded cell can drop an entire string's output depending on your inverter setup. A little bird droppings or dust accumulation matters more than most people think. A reader emailed me last spring about a system that was running 11% under projections since install. After we worked through it, the culprit was a newly grown tree branch shading one edge of one panel for about two hours a day, dragging down the whole string.
+**Shading and soiling.** A single shaded cell can drop an entire string's output depending on your inverter setup. A little bird droppings or dust accumulation matters more than most people think. A newly grown tree branch shading one edge of one panel for about two hours a day can drag down the whole string's output.
 
 **Real irradiance.** Your roof doesn't receive 1,000 W/m² except at solar noon on a clear day near the summer solstice. Annual average irradiance varies dramatically: Boston averages about 4.0 peak sun hours per day, Phoenix about 6.5. The efficiency rating doesn't change, but the absolute production does.
 
@@ -111,7 +105,6 @@ Scenario: A homeowner in San Jose with a 400 sq ft of usable south-facing roof. 
 - SunPower, REC Group, Qcells product datasheets (current as of August 2026): Temperature coefficient and efficiency specifications for cited panel models
 
 ---
-
 
 *Photo: [Stefan de Vries](https://www.pexels.com/@sdvmovies) via Pexels*
 

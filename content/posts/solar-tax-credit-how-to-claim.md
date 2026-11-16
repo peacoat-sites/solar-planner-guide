@@ -52,7 +52,7 @@ This is where most people either undersell or oversell themselves, and the diffe
 
 Eligible costs include solar panels, inverters (including microinverters and string inverters), mounting systems and racking hardware, wiring and conduit and electrical components, battery storage systems installed simultaneously with panels (Tesla Powerwall, Enphase IQ Battery, etc.), labor costs for installation, permit and inspection fees directly related to the installation, and sales tax on eligible equipment.
 
-What often gets missed are the monitoring components. If your installer includes a solar monitoring gateway or consumption meter in the contract, that cost is part of the eligible basis. I've seen clients miss $400 to $800 worth of eligible equipment simply because they didn't review their itemized invoice carefully.
+What often gets missed are the monitoring components. If your installer includes a solar monitoring gateway or consumption meter in the contract, that cost is part of the eligible basis. A common mistake is missing $400 to $800 worth of eligible equipment by not reviewing the itemized invoice carefully.
 
 If you want to track your system's production after installation, devices like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) can help you verify your system is actually performing as promised (the site may earn a commission on purchases). Real performance data matters because it affects how quickly you recoup that credit's value.
 
@@ -119,7 +119,6 @@ The 30% credit is one of the most straightforward federal incentives available t
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

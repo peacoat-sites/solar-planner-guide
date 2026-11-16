@@ -31,9 +31,7 @@ I've watched homeowners make $30,000 decisions based on a number that took 45 se
 
 So let me walk you through what's actually going on inside these calculators, where they reliably go wrong, and how to use one in a way that produces a number you can actually trust.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The best calculators (EnergySage, PVWatts) use real weather data and local utility rates, generic tools often miss by 20-40%.</li><li style="margin:5px 0">The 30% federal tax credit (ITC) is still in effect as of July 2026, but your tax liability must be high enough to actually use it.</li><li style="margin:5px 0">Payback periods for U.S. residential solar currently average 6-12 years depending on state, roof orientation, and electricity rates.</li><li style="margin:5px 0">A calculator's output is only as good as your actual kWh consumption, pull your last 12 months of bills before you start.</li><li style="margin:5px 0">Net metering policy in your state will swing the savings estimate dramatically; not all calculators account for it correctly.</li></ul></div>
-
 
 ## What a Solar Calculator Is Actually Doing
 
@@ -41,13 +39,11 @@ Under the hood, every solar savings calculator is running the same basic math. I
 
 The inputs that drive accuracy are your location (specifically, your roof's solar irradiance, which varies a lot even within a single zip code), your roof's tilt and azimuth, the panel efficiency assumed, your current electricity rate, and your utility's [net metering policy](/net-metering-policy-by-state/). Mess up any one of those, and the output drifts.
 
-What surprised me, when I started looking closely at this, was how few consumer-facing calculators actually pull live utility rate data. Many use state averages from the U.S. Energy Information Administration. That sounds reasonable until you realize that in a state like California, rates between SDGE territory and PG&E territory can differ by 8 to 12 cents per kilowatt-hour. At typical residential consumption, that gap translates to $400 to $600 in annual savings difference on the same system. The calculator never blinks.
+Few consumer-facing calculators actually pull live utility rate data. Many use state averages from the U.S. Energy Information Administration. That sounds reasonable until you realize that in a state like California, rates between SDGE territory and PG&E territory can differ by 8 to 12 cents per kilowatt-hour. At typical residential consumption, that gap translates to $400 to $600 in annual savings difference on the same system. The calculator never blinks.
 
 ## The Tools That Are Actually Worth Using
 
 > **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 There are really only a handful of calculators I'd point someone to without caveats.
 
@@ -59,7 +55,7 @@ The calculators built into installer websites are almost universally optimistic.
 
 ## Where the Numbers Break Down
 
-Here's the thing most calculators skip past: net metering is not the same everywhere, and it's been changing fast.
+Most calculators skip past a critical detail: net metering is not the same everywhere, and it's been changing fast.
 
 Net metering is the policy that lets you "sell" excess solar power back to the grid at a useful rate. Historically, most states credited excess production at the retail electricity rate, meaning a kilowatt-hour you exported was worth the same as one you consumed. That math made solar pencil out beautifully.
 
@@ -77,9 +73,7 @@ Step three: enter your real electricity rate, including tiered rate structures i
 
 Step four: apply incentives carefully. The federal Investment Tax Credit (ITC) is currently 30% of system cost as of July 2026, per the Inflation Reduction Act provisions still in effect. But here's the thing that trips people up: it's a tax credit, not a rebate. You have to owe federal income tax to use it. If your liability in a given year is only $4,000 and your credit is $7,500, you can roll the remaining $3,500 forward to the following year, but you can't get a check for the difference. I've talked to retirees who got burned by this assumption. Run the calculation with your actual expected tax liability, not the face value of the credit.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average solar payback period by state (years)</div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">7.2 years</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">9.1 years</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">6.4 years</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:97%"></span></span><span class="sc-val">8.8 years</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">7.9 years</span></div><div class="sc-row"><span class="sc-label">Arizona</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">8.3 years</span></div><div class="sc-src">Source: EnergySage &amp; NREL residential solar data, 2026</div></div>
-
 
 ## What "Lifetime Savings" Really Means
 
@@ -87,7 +81,7 @@ Calculators love to show you a 25-year lifetime savings figure. Somewhere betwee
 
 If your utility's rates stay flat for a decade (unlikely but not impossible, especially in regulated markets), your savings are materially lower than projected. If rates spike faster than assumed (which is what happened in many markets between 2021 and 2025), you come out ahead of the model. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has guidance on how to think about rate escalation in your own planning, and it's worth reading before you anchor too hard to a 25-year number.
 
-I made this mistake myself, years ago, when I was advising a family in upstate New York. I ran their numbers with NYSEG's then-current rate and a standard 2.5% escalation. What actually happened was a 6.1% average annual increase over the following four years. Their system paid back about 14 months faster than projected. Luck, mostly. The lesson was to run a conservative scenario and an optimistic scenario, not just the middle.
+For example, a system modeled with a standard 2.5% annual rate escalation could instead see a 6.1% average annual increase, which would cause the system to pay back faster than projected. The lesson: run a conservative scenario and an optimistic scenario, not just the middle.
 
 Here's a quick comparison of how the same system looks under different assumptions:
 
@@ -109,7 +103,6 @@ That spread from 7.3 to 15.1 years is all the same physical system. The only var
 - [U.S. EIA Electric Power Monthly](https://www.eia.gov/electricity/monthly/): Historical and current residential electricity rates by state and utility.
 
 ---
-
 
 *Photo: [Tom Fisk](https://www.pexels.com/@tomfisk) via Pexels*
 

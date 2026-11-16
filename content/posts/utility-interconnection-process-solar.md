@@ -27,7 +27,7 @@ faqs:
 
 No one warns you about the interconnection process. You research panels, get three quotes, agonize over microinverters versus string inverters, maybe even spend a weekend on the EnergySage marketplace comparing cost-per-watt figures. And then, after you sign the contract, your installer mentions almost as an aside: "Oh, the utility still has to approve this. Could take a while." A while. That's the word they use.
 
-I've watched homeowners assume their system would be running within a month of installation. Sometimes that's true. Other times they're sitting on a fully installed, inspection-passed solar array for four months, staring at a meter that isn't spinning backward, because the utility hasn't finished its paperwork. That gap between "installation complete" and "actually generating power you can use" is the interconnection process, and it's the part of going solar that installers gloss over most consistently.
+Homeowners often assume their system will be running within a month of installation. Sometimes that's true. Other times a fully installed, inspection-passed solar array sits idle for four months while the utility finishes its paperwork. That gap between "installation complete" and "actually generating power you can use" is the interconnection process, and it's the part of going solar that installers gloss over most consistently.
 
 So I went deep on this. What follows is the real story.
 
@@ -37,13 +37,11 @@ At its core, interconnection is the utility's formal approval to connect your so
 
 There are two main pieces: the interconnection application (submitted before or during installation, depending on your state and installer) and the Permission to Operate, usually called a PTO letter, which is the final green light you need before you can actually flip the system on. In between those two moments, you might also need a separate utility meter upgrade, a witness inspection by the utility (different from the local building department inspection), and an updated net metering agreement.
 
-What surprised me, when I started pulling actual timeline data, was how much the utility itself determines your experience, not your installer, not the equipment brand, not even your state's solar policy. A homeowner in Sacramento served by SMUD might wait three weeks. Someone forty miles away in PG&E territory might wait three months for the same type of system.
+The utility itself determines your experience far more than your installer, equipment brand, or state solar policy do. A homeowner in Sacramento served by SMUD might wait three weeks. Someone forty miles away in PG&E territory might wait three months for the same type of system.
 
 ## The Step-by-Step Reality
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the sequence most homeowners go through, though the order shifts depending on your jurisdiction:
 
@@ -59,9 +57,7 @@ Here's the sequence most homeowners go through, though the order shifts dependin
 
 6. PTO letter arrives. You turn the system on.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical interconnection wait times by utility type</div><div class="sc-row"><span class="sc-label">Small municipal utility</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">18 days</span></div><div class="sc-row"><span class="sc-label">Rural electric co-op</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">42 days</span></div><div class="sc-row"><span class="sc-label">Mid-size IOU (e.g. Xcel)</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">35 days</span></div><div class="sc-row"><span class="sc-label">Large IOU (e.g. PG&amp;E)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">67 days</span></div><div class="sc-row"><span class="sc-label">SMUD / community utility</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">21 days</span></div><div class="sc-src">Source: EnergySage installer survey data, 2025-2026</div></div>
-
 
 ## The Numbers That Actually Matter
 
@@ -84,7 +80,7 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) publish
 
 I'll be honest: this is the section most solar salespeople skip entirely.
 
-**Transformer capacity issues.** If your neighborhood already has a lot of solar, the local transformer may be at or near its export capacity. Your application gets flagged for a "secondary review" or a "supplemental engineering study." I've seen this add 4-6 months in dense California suburbs. You'll likely pass eventually, but nobody's in a hurry to tell you that upfront.
+**Transformer capacity issues.** If your neighborhood already has a lot of solar, the local transformer may be at or near its export capacity. Your application gets flagged for a "secondary review" or a "supplemental engineering study." This can add 4-6 months in dense California suburbs. You'll likely pass eventually, but nobody's in a hurry to tell you that upfront.
 
 **Meter upgrade delays.** Your utility physically has to swap the meter in some cases. They schedule this on their own timeline. One reader, Sarah from suburban Phoenix, told me she waited 11 weeks from passing her inspection to getting a new APS meter installed. Her system sat ready on the roof the whole time.
 
@@ -106,7 +102,7 @@ Confirm your system size relative to your utility's simplified review threshold.
 
 Check whether your state has mandated interconnection timelines. If your utility violates them, you may have recourse. If your state has no mandated timelines, you mostly don't. NREL maintains a database of state interconnection rules that's worth looking at before you sign a contract.
 
-One thing I always tell homeowners to do that installers rarely mention: monitor your inverter's output data from day one after the PTO arrives. Products like the [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) (the site may earn a commission on this link) let you see your generation, consumption, and grid export in real time, so you can verify immediately whether your net metering setup is actually working as agreed. I've seen cases where the PTO arrived, the homeowner assumed everything was fine, and a billing error meant they weren't getting net metering credit for two months. Catching that fast matters.
+Monitor your inverter's output data from day one after the PTO arrives. Products like the [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) (the site may earn a commission on this link) let you see your generation, consumption, and grid export in real time, so you can verify immediately whether your net metering setup is actually working as agreed. Billing errors can occur where a system receives its PTO but the net metering setup isn't working as agreed, resulting in lost credits for months. Catching that fast matters.
 
 ## Sources
 
@@ -117,7 +113,6 @@ One thing I always tell homeowners to do that installers rarely mention: monitor
 - [Rocky Mountain Institute, "Reducing Solar Soft Costs"](https://rmi.org/): Analysis of permitting and interconnection as major components of residential solar soft costs in the U.S.
 
 ---
-
 
 ---
 

@@ -40,15 +40,13 @@ Form 5695 is the IRS mechanism for claiming residential energy credits. It doesn
 
 A deduction lowers your taxable income. A credit lowers your actual tax bill, dollar for dollar. The Residential Clean Energy Credit is nonrefundable, which is the part most people miss. If you owe $4,000 in federal taxes and your credit works out to $6,000, you only get to use $4,000 of it this year. The other $2,000 carries forward to next year's return. The carryforward is unlimited as long as the credit program remains in effect, so you won't lose it, but you also won't get a check in the mail for the difference.
 
-I've seen homeowners genuinely upset about this when they find out mid-filing. If your installer told you "you'll get 30% back," that's technically true, but it can take more than one tax year to fully capture that benefit if your annual tax liability is modest.
+Homeowners often feel upset when they discover mid-filing that the tax credit works this way. If your installer told you "you'll get 30% back," that's technically true, but it can take more than one tax year to fully capture that benefit if your annual tax liability is modest.
 
 ---
 
 ## What Qualifies (Don't Assume Your Whole Invoice Counts)
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Before you ever touch the form, you need to know your qualified expenditure, because that's what you're taking 30% of.
 
@@ -101,7 +99,7 @@ Quick note on dealer incentives: if your installer gave you a cash discount at t
 → Their federal liability on a mostly Social Security income: $1,100.
 → Result: They use $1,100 this year, carry forward $1,840. At that rate, it takes them about two more tax years to fully capture the credit. Worth it, but not the windfall they expected.
 
-**Scenario 3:** A reader named Marco emailed me last spring from Sacramento: he'd forgotten to claim the credit the year he installed his panels (2023) and didn't realize he could amend. He filed a 1040-X with Form 5695 attached, and three months later received a $6,300 refund check.
+If you missed claiming the credit in the year you installed your panels, you can amend your return. File a 1040-X with Form 5695 attached; you should receive your refund within a few months.
 → The point: you can go back three years. If you installed solar in 2023 or later and forgot to file the credit, amend your return.
 
 ---
@@ -118,11 +116,11 @@ Third: trying to include sales tax separately. It's already part of the purchase
 
 ## Should You File This Yourself or Get Help?
 
-Honestly, if your situation is straightforward (one system, one home, you own it outright or financed it, no home office deduction involved), you can absolutely handle Form 5695 yourself. TurboTax, FreeTaxUSA, and H&R Block all walk you through it with prompts. The form really is short.
+If your situation is straightforward (one system, one home, you own it outright or financed it, no home office deduction involved), you can absolutely handle Form 5695 yourself. TurboTax, FreeTaxUSA, and H&R Block all walk you through it with prompts. The form really is short.
 
 Where I'd say get a CPA: if you have a home office, if you installed the system on a property you also use for rental income, or if you're in a year with unusual income that might affect the credit limitation worksheet. Those situations add variables that are genuinely worth a professional set of eyes.
 
-If you want to monitor your system's output while you're at it (useful for documenting performance and validating your system cost), I've seen homeowners use the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor) to track consumption in real time. It's around $70 and a solid tool for anyone who wants data. (The site may earn a commission on purchases through that link.)
+If you want to monitor your system's output (useful for documenting performance and validating your system cost), the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor) tracks consumption in real time. It's around $70 and a solid tool for anyone who wants data. (The site may earn a commission on purchases through that link.)
 
 ---
 
@@ -135,7 +133,6 @@ If you want to monitor your system's output while you're at it (useful for docum
 - [IRS Publication 946 and Schedule 3 instructions](https://www.irs.gov/pub/irs-pdf/i1040s3.pdf): Explains how the credit from Form 5695 flows to your 1040 via Schedule 3.
 
 ---
-
 
 ---
 

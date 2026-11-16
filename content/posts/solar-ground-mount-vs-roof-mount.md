@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most people assume this is a simple question. It's not.
 
-Whether you put solar on your roof or on a ground-mounted racking system in your yard is one of the most consequential decisions you'll make in the whole solar process, and I've watched homeowners get it wrong in both directions. Ones who paid extra for ground mounts when their roof would have been totally fine. And ones who forced a roof install when a ground mount would have paid back thousands more over the system's lifetime. The choice genuinely depends on factors that are specific to your property, and I want to walk you through all of them honestly.
+Whether you put solar on your roof or on a ground-mounted racking system in your yard is one of the most consequential decisions you'll make in the whole solar process. A common mistake is paying extra for ground mounts when a roof would work fine, or forcing a roof install when a ground mount would deliver thousands more savings over the system's lifetime. The choice genuinely depends on factors that are specific to your property, and I want to walk you through all of them honestly.
 
 ---
 
@@ -41,8 +41,6 @@ Ground mounts are a different animal. You're digging footings, pouring concrete,
 ## When Ground Mounts Actually Win
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what shifted my perspective. A few years back, I was working with a family outside Tucson. Beautiful south-facing roof, looked perfect on paper. But the azimuth was off by about 20 degrees from true south, and there were two mature mesquite trees on the western edge of the property that were throwing afternoon shade on the roof from roughly 3 PM onward. The installer they'd originally spoken to had quoted a rooftop system and never mentioned the shade issue. When I modeled it out using PVWatts, that shade was costing them around 18% of annual production compared to an unshaded south-facing installation.
 
@@ -67,7 +65,7 @@ For most homeowners, the roof mount wins. Not because it's better in some abstra
 
 You're also not consuming yard space. That matters more to some people than others, but it's a real consideration. Ground mounts require a footprint that's roughly 1.5 to 2 times the panel area itself once you account for racking and access, and some HOAs and municipalities won't permit them, or require setbacks that make them impractical on smaller lots.
 
-There's also a maintenance argument for rooftop systems that often gets overlooked. Ground-mounted panels sit lower to the ground, which means more dust, debris, and critter exposure. I've seen ground-mount installations where squirrels had nested under the panels within two years. Panel critters aren't a crisis, but they're an annoyance and they can damage wiring. On a roof, that's much less common.
+There's also a maintenance argument for rooftop systems. Ground-mounted panels sit lower to the ground, which means more dust, debris, and critter exposure. Squirrels and other pests can nest under ground-mounted panels, which is an annoyance and can damage wiring. On a roof, that's much less common.
 
 Scenario: Well-sited south-facing roof, 8-year-old shingles, no shading → Standard rooftop install at $29,000 before incentives → Payback at 8.2 years vs. estimated 9.8 years for equivalent ground mount due to lower upfront cost.
 
@@ -92,7 +90,6 @@ Scenario: Homeowner installed 9.6 kW ground mount, no whole-home monitoring → 
 - [Solar Energy Technologies Office, Shading and Soiling Research](https://www.energy.gov/eere/solar): NREL and DOE analysis on production losses from shading and site orientation, used to validate production modeling estimates.
 
 ---
-
 
 ---
 

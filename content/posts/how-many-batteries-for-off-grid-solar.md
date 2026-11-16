@@ -99,7 +99,7 @@ I used to think 24V systems were fine for mid-sized off-grid homes. I changed my
 
 **Scenario 2: Full-time off-grid family home, 15 kWh/day, rural Montana (cloudy winters)** → 3–4 days autonomy, LiFePO4 → 50–67 kWh needed → 12–16 server rack batteries at 48V/100Ah → Battery cost alone: $12,000–$25,000. This is why full off-grid in cloudy climates often pairs oversized solar with a backup generator to shorten the required autonomy days rather than buying 20 batteries.
 
-**Scenario 3: Van or RV conversion, 2–3 kWh/day** → 1–2 days autonomy, LiFePO4 at 85% DoD → 2.4–7 kWh needed → 2–6 of the 12V 100Ah lithium batteries → Cost: $600–$2,000. The Renogy 12V 100Ah LiFePO4 is the one I've seen hold up best for mobile applications over years of recommendations.
+**Scenario 3: Van or RV conversion, 2–3 kWh/day** → 1–2 days autonomy, LiFePO4 at 85% DoD → 2.4–7 kWh needed → 2–6 of the 12V 100Ah lithium batteries → Cost: $600–$2,000. The Renogy 12V 100Ah LiFePO4 is a reliable choice for mobile applications.
 
 ## Sources
 

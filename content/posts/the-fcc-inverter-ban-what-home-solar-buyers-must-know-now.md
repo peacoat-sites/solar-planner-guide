@@ -20,9 +20,7 @@ The ban doesn't pull existing inverters off rooftops or warehouses. What it does
 
 That gap between the DOE's physical findings and the FCC's firmware-risk logic is worth sitting with. It signals that this ban is driven by policy posture, not a specific discovered threat. And as Electrek noted in their August 5 coverage, this is the fourth time the FCC has applied this national-security framework in recent months, following bans on drones in December 2025 and consumer routers in March 2026. The pattern is accelerating. Solar inverters aren't a one-off; they're the latest category in a broader technology decoupling.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">FCC ban took effect July 28, 2026, with no grace period for new foreign inverter model authorizations.</li><li style="margin:5px 0">Inverter models with valid FCC authorization before July 28 remain fully legal to import, sell, and install.</li><li style="margin:5px 0">Hoymiles HiFlow Pro, HMS series, and APsystems current portfolios are confirmed unaffected for now.</li><li style="margin:5px 0">Off-grid brands like EG4, Growatt, Renogy, and Victron face the highest long-term product availability risk.</li><li style="margin:5px 0">The FCC has now applied this national-security framework four times since December 2025.</li></ul></div>
-
 
 ## What's Actually Still Legal to Buy and Install
 
@@ -34,9 +32,7 @@ The problem isn't today's catalog. It's tomorrow's. What most people don't reali
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I've seen the off-grid and DIY solar community take this harder than any other segment, and that's not surprising. Brands like EG4, Growatt, Renogy, and Victron depend heavily on short product cycles and almost entirely offshore supply chains. Their business model is rapid iteration: release a new hybrid inverter every year or two with more features, better software, higher [efficiency ratings](/solar-panel-efficiency-ratings-explained/). That model is now legally frozen at whatever they had authorized before late July.
+The off-grid and DIY solar community faces particular challenges with these changes. Brands like EG4, Growatt, Renogy, and Victron depend heavily on short product cycles and almost entirely offshore supply chains. Their business model is rapid iteration: release a new hybrid inverter every year or two with more features, better software, higher [efficiency ratings](/solar-panel-efficiency-ratings-explained/). That model is now legally frozen at whatever they had authorized before late July.
 
 If you're building a new off-grid cabin system or a backup-power setup and you were planning around a Growatt SPF or an EG4 6000XP because of the price-to-feature ratio, what you can get today may be the last version of that product available. There won't be a next-gen EG4 unit you can expand into unless the company finds a way to manufacture in a non-covered country and gets fresh authorization, which is neither fast nor cheap.
 

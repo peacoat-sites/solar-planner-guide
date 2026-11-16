@@ -27,8 +27,7 @@ lastmod: 2026-07-08
 ---
 The average American home gains about $15,000 in resale value after a solar installation. That number gets quoted constantly by solar salespeople, and I'll be honest: it's not wrong, but it's also not the whole story. That figure comes from a 2019 Zillow analysis, and when you actually look at what's behind it, the picture gets both more interesting and more complicated than any installer is going to tell you sitting at your kitchen table.
 
-I've spent a lot of time with homeowners trying to figure out whether solar is a smart financial move, and the resale value question is one of the trickiest because the answer genuinely varies by so much depending on where you live, how you bought the system, and what the local real estate market is doing. Let me walk you through what the data actually says.
-
+Resale value is one of the trickiest solar questions because the answer varies significantly depending on where you live, how you bought the system, and what the local real estate market is doing.
 
 <div class="value-module">
  <div class="vm-head">Owned vs. Leased Solar: Resale Impact</div>
@@ -58,7 +57,7 @@ That last point catches people off guard. An appraiser in Boulder, Colorado prob
 
 I can't stress this enough: a leased solar system or one under a power purchase agreement doesn't add value to your home the way an owned system does. It can actually kill a sale.
 
-When you lease panels, you don't own them. The solar company does. When you sell, the buyer either assumes the lease payments or you buy out the contract, which typically runs $5,000 to $20,000 depending on years remaining. I've watched real estate agents describe deals that evaporated because buyers wouldn't touch the lease or didn't qualify for the transfer.
+When you lease panels, you don't own them. The solar company does. When you sell, the buyer either assumes the lease payments or you buy out the contract, which typically runs $5,000 to $20,000 depending on years remaining.
 
 Owned systems? Completely different animal. According to [EnergySage's market data](https://news.energysage.com/), homeowners who buy outright (cash or a paid-off solar loan) capture that $4/watt premium much more reliably. The difference is stark enough that if you're not planning to stay 20+ years, how you finance matters enormously.
 
@@ -78,7 +77,7 @@ Even when buyers will pay more for solar, that premium has to survive the apprai
 
 Appraisers are supposed to use an "income approach" to value solar, calculating the present value of future electricity savings. Some do this right. Many don't, especially in markets where solar is still rare and there aren't recent "solar comps" to reference.
 
-A reader emailed me last spring about exactly this. She'd accepted an offer $18,000 above asking because the buyers specifically wanted the solar. Then the appraisal came back with zero value assigned to the system. The deal nearly collapsed. They had to renegotiate.
+For example, a leased system can cause problems if an appraiser assigns it zero value, potentially derailing a sale even when the buyer initially wanted the panels.
 
 It's a real risk. If you're selling a solar home, find a real estate agent with experience selling solar properties. Request an appraiser with PV (photovoltaic) valuation training if possible. The Appraisal Institute offers specific credentials for this work, though not every appraiser pursues them.
 
@@ -111,7 +110,6 @@ The $15,000 figure isn't made up, but it's a national average that hides a huge 
 - [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

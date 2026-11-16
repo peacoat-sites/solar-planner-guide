@@ -40,9 +40,9 @@ More than you'd think, and less than some installers claim. The honest answer is
 
 NREL (the National Renewable Energy Laboratory) has studied soiling losses extensively, and their data shows that in arid climates like Southern California, Arizona, and Nevada, panels can lose 0.2% of output per day without rain. That compounds. Over a dry summer month, you could be looking at 4 to 6% losses. In San Joaquin Valley farmland, where dust and agricultural particulates are intense, some studies show seasonal soiling losses over 25%.
 
-Compare that to Portland, Oregon or Atlanta, Georgia, where regular rainfall keeps panels reasonably clean. In my experience working with homeowners in those markets, soiling losses rarely exceed 2 to 3% annually. Cleaning frequency matters a lot less when the sky does it for you.
+Compare that to Portland, Oregon or Atlanta, Georgia, where regular rainfall keeps panels reasonably clean. In markets with regular rainfall like Portland, Oregon or Atlanta, Georgia, soiling losses rarely exceed 2 to 3% annually. Cleaning frequency matters a lot less when the sky does it for you.
 
-The other thing that matters: partial shading from bird droppings is disproportionately bad. A single dropping covering 2% of a panel can cut that panel's output by 20 to 40%, because of how most residential systems use string inverters. One underperforming panel drags down the whole string. I thought for years that this was overstated, but after pulling monitoring data on systems with active bird issues, I changed my mind fast. The dip is real and it's not subtle.
+The other thing that matters: partial shading from bird droppings is disproportionately bad. A single dropping covering 2% of a panel can cut that panel's output by 20 to 40%, because of how most residential systems use string inverters. One underperforming panel drags down the whole string. The dip is real and it's not subtle.
 
 **Worked example:**
 A homeowner in Tucson with a 8 kW system notices output sagging in May. Monitoring app shows bottom-of-string panel underperforming by 35%. Site visit reveals heavy dust accumulation plus two large droppings on lower-tier panels. Cleaning takes 45 minutes. Output returns to baseline within one day, recovering roughly $22/month in production value at local utility rates.
@@ -51,9 +51,7 @@ A homeowner in Tucson with a 8 kW system notices output sagging in May. Monitori
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Let's start with what not to buy: any pressurized spray cleaner marketed specifically "for solar panels" that costs more than $30. In my experience, they offer almost no benefit over a $12 hose-end attachment and plain water. Same goes for specialty soaps. Most solar manufacturers explicitly warn against detergents because residue can leave mineral deposits worse than the dirt you're removing.
+Let's start with what not to buy: any pressurized spray cleaner marketed specifically "for solar panels" that costs more than $30. Most offer little benefit over a $12 hose-end attachment and plain water. Same goes for specialty soaps. Most solar manufacturers explicitly warn against detergents because residue can leave mineral deposits worse than the dirt you're removing.
 
 What actually works:
 
@@ -118,7 +116,6 @@ Per the [U.S. Department of Energy's homeowner solar guide](https://www.energy.g
 - [Arizona State University Photovoltaic Testing Laboratory](https://pv-test.asu.edu/): Research on panel degradation rates, soiling impacts, and cleaning technique effects on glass transmittance
 
 ---
-
 
 ---
 

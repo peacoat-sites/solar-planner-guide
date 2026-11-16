@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 Your electric bill arrives, and there's a line item you don't recognize: "Community Solar Credit, -$34.17." That's actually a good thing. But if you signed up for a community solar subscription without fully understanding what you'd agreed to, that small moment of confusion can feel a lot bigger.
 
-I've helped walk dozens of homeowners through community solar decisions over the years, and the same sticking points come up every time. People either don't know it exists, or they sign up without reading the contract carefully enough and end up locked into something that doesn't fit their situation. Let me lay out how this actually works.
+Community solar has common sticking points. Many homeowners either don't know it exists, or they sign up without reading the contract carefully enough and end up locked into something that doesn't fit their situation. Let me lay out how this actually works.
 
 ## What Community Solar Actually Is
 
@@ -30,8 +30,6 @@ The credits you receive typically reflect the value of the electricity your subs
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I want to slow down, because there's more variation here than most people expect.
 
 Most community solar subscriptions come in two flavors: percentage of output or fixed kilowatt-hour allocation. With the percentage model, you subscribe to, say, 5% of a 500-kilowatt farm. Your credits fluctuate month to month based on how much sun that farm sees. With a fixed allocation, you're locked into receiving (and paying for) a set amount of energy each month regardless of production.
@@ -44,7 +42,7 @@ The contract length is the part that catches people. Many subscriptions run 20 t
 - A transfer option if you move to a new address within the utility's service territory
 - Cancellation windows without penalty (often 30-90 days after signup)
 
-I've seen homeowners sign 20-year contracts with a $500 exit fee buried on page 8. Read page 8.
+Some contracts include a $500 exit fee buried on page 8. Read page 8.
 
 ## The Savings Are Real, But Not Dramatic
 
@@ -66,9 +64,7 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has don
 
 Community solar isn't available everywhere, and this is the piece that most explainers gloss over. As of July 2026, around 22 states plus Washington D.C. have active community solar markets. The rest either lack enabling legislation or have programs so limited they're effectively closed to new subscribers.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated avg. annual community solar savings by state (per household)</div><div class="sc-row"><span class="sc-label">Minnesota</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">$310</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">$270</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$390</span></div><div class="sc-row"><span class="sc-label">Colorado</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$260</span></div><div class="sc-row"><span class="sc-label">Maryland</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">$290</span></div><div class="sc-row"><span class="sc-label">Illinois</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">$340</span></div><div class="sc-src">Source: EnergySage / SEIA 2025-2026 data</div></div>
-
 
 The spread reflects differences in utility retail rates, net metering policy, and how generously states credit solar output. Massachusetts tends to deliver stronger savings because retail electricity rates there are among the highest in the country, meaning each kilowatt-hour credit is worth more. Minnesota has one of the longest-running and best-structured programs (the Xcel Energy Solar*Rewards Community program has been running for years), so subscribers there benefit from a mature, stable system rather than a newer, shakier one.
 
@@ -78,7 +74,7 @@ If you're not sure whether your state has an active program, the SEIA's communit
 
 When I walked a friend through signing up for a New York community solar subscription last year, I expected it to be complicated. It wasn't, exactly, but there were a few moments that would have tripped up someone going it alone.
 
-Step one: confirm your utility is eligible. Community solar credits only work if your utility participates. This sounds obvious, but I've seen people sign up for a program their rural co-op doesn't honor.
+Step one: confirm your utility is eligible. Community solar credits only work if your utility participates. This sounds obvious, but it's easy to miss if you don't check first.
 
 Step two: pick a provider and review the contract. Platforms like EnergySage's community solar marketplace, Arcadia, or Clean Choice Energy aggregate options and let you compare. Look at the discount rate, the contract length, the exit terms, and whether the project is already operational or still in development. "In development" means delays are possible, sometimes long ones.
 

@@ -27,10 +27,9 @@ lastmod: 2026-07-08
 ---
 Yes, solar panels can power a whole house off grid. But the version that installers pitch you conveniently skips the part where it gets expensive, complicated, and occasionally humbling.
 
-Here's what those sales meetings leave out: the panels are the easy part. A typical 10kW array runs $25,000 to $35,000 before incentives. The battery bank to back it up can easily cost as much again. Add a backup generator, a charge controller, an off-grid inverter, wiring upgrades, and a ground mount if your roof won't cooperate, and you're looking at a total system that regularly lands between $60,000 and $120,000 for a full-sized American home. I've seen quotes that topped $150,000 for families who refused to change their energy habits. Nobody leads with that number.
+Sales meetings often gloss over this: the panels are the easy part. A typical 10kW array runs $25,000 to $35,000 before incentives. The battery bank to back it up can easily cost as much again. Add a backup generator, a charge controller, an off-grid inverter, wiring upgrades, and a ground mount if your roof won't cooperate, and you're looking at a total system that regularly lands between $60,000 and $120,000 for a full-sized American home. Quotes can top $150,000 for homes that don't reduce energy consumption. Nobody leads with that number.
 
 That's not a reason to walk away. It's a reason to do the math first.
-
 
 <div class="value-module">
   <div class="vm-head">Off-Grid System Sizing Quick Reference</div>
@@ -120,7 +119,6 @@ Know which situation you're in before you spend a dollar.
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [EnergySage's market data](https://news.energysage.com/)
 - [Victron Cerbo GX](https://www.amazon.com/dp/B08XWDCZ3N?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -60,7 +60,7 @@ Most homeowners mess this up by installing first and asking questions later. You
 Visit your utility's website and DSIRE before you get installer quotes. Write down program names, rebate amounts, eligibility rules, and deadlines.
 
 **Step 2: Check for pre-approval.**
-Many programs require approval before installation starts. Installing without pre-approval disqualifies you completely. I've seen this cost homeowners thousands.
+Many programs require approval before installation starts. Installing without pre-approval disqualifies you completely. Skipping this step can cost thousands in lost incentives or rebates.
 
 **Step 3: Verify equipment eligibility.**
 Some programs only accept panels and inverters from approved lists. Get spec sheets from your installer and confirm compliance before you sign.
@@ -127,7 +127,6 @@ Rebates won't save a bad solar investment, but they can close the gap between a 
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

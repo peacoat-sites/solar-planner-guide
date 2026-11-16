@@ -27,13 +27,11 @@ faqs:
 
 [Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) don't realize that roughly 30% of all large-scale residential solar projects in the U.S. are now managed through EPC (Engineering, Procurement, and Construction) contractors rather than the local installer who knocked on their door or showed up in an EnergySage quote. That number, quietly tracked by the Solar Energy Industries Association (SEIA), has been climbing. And it matters more to your wallet and your project timeline than almost any other choice you'll make.
 
-You might be wondering: what does EPC even mean for a homeowner? Isn't that a commercial construction term? Partly. But as residential solar systems get larger, as [battery storage](/solar-battery-storage-tax-credit/) gets added, and as more homeowners do ground mounts or multi-structure installs, the line between "residential installer" and "EPC contractor" has blurred considerably. I've seen this firsthand. The first time a client of mine in Scottsdale got quoted by what she thought was a local company, I noticed the contract had EPC language embedded throughout. She had no idea the company subcontracted the actual installation to three different crews.
+You might be wondering: what does EPC even mean for a homeowner? Isn't that a commercial construction term? Partly. But as residential solar systems get larger, as [battery storage](/solar-battery-storage-tax-credit/) gets added, and as more homeowners do ground mounts or multi-structure installs, the line between "residential installer" and "EPC contractor" has blurred considerably. For example, a homeowner might receive a quote from what appears to be a local company, only to discover the contract contains EPC language throughout, with the actual installation subcontracted to multiple crews.
 
 Here's what I tell people: the distinction matters because it changes who's accountable, how fast the project moves, and often, how much you pay.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">EPC contractors handle design, equipment procurement, and installation under one contract; local installers may or may not do all three.</li><li style="margin:5px 0">EnergySage data shows local installers average $2.85/watt; national EPC-style contractors often quote $3.10–$3.50/watt for the same system.</li><li style="margin:5px 0">EPC firms typically carry broader insurance and stronger workmanship warranties, sometimes 10–25 years vs. 5–10 from smaller shops.</li><li style="margin:5px 0">Local installers usually pull permits faster (2–4 weeks vs. 4–8 weeks for EPC firms coordinating across regions).</li><li style="margin:5px 0">The best choice depends on system size, complexity, and whether you'll be there to manage the process yourself.</li></ul></div>
-
 
 ## What EPC Actually Means in Residential Solar
 
@@ -48,8 +46,6 @@ So when you're evaluating any company calling itself an EPC contractor, ask one 
 ## Local Solar Installers: The Real Tradeoffs
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Local installers get a bad rap from the big national players, and I think that's largely unfair. A well-run local shop with 5–15 employees, good Google reviews, and 200+ installations in your county often outperforms a national EPC firm on the metrics that actually matter to you: speed, communication, and post-install service.
 
@@ -75,15 +71,13 @@ This is where I'd tell you to pay less attention to the sales pitch and more att
 | Financial stability | Higher risk (small biz) | Lower risk (larger entity) |
 | Financing options | Limited in-house | Broader (Mosaic, Sunlight, GreenSky partnerships) |
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average cost per watt by installer type (2026)</div><div class="sc-row"><span class="sc-label">Local installer (avg)</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">2.9 $/watt</span></div><div class="sc-row"><span class="sc-label">National EPC contractor (avg)</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">3.3 $/watt</span></div><div class="sc-row"><span class="sc-label">Large national brand (e.g. Sunrun)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">3.5 $/watt</span></div><div class="sc-row"><span class="sc-label">Utility-scale EPC (residential div.)</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">3.1 $/watt</span></div><div class="sc-src">Source: EnergySage 2026 marketplace data</div></div>
-
 
 What that chart means practically: a 10 kW system through Sunrun at $3.55/watt is $35,500 before incentives. The same system through a solid local installer at $2.87/watt is $28,700. After the 30% federal Investment Tax Credit (ITC), the gap is roughly $2,030 in real money coming out of your pocket. That's not nothing.
 
 ## When the EPC Route Actually Makes Sense
 
-Honestly, for a standard rooftop install under 15 kW on a single-family home with good sun exposure and a competent local market? I'd point most people toward a vetted local installer. The premium for a national EPC firm often doesn't buy you meaningfully better outcomes.
+For a standard rooftop install under 15 kW on a single-family home with good sun exposure and a competent local market? I'd point most people toward a vetted local installer. The premium for a national EPC firm often doesn't buy you meaningfully better outcomes.
 
 But there are real situations where EPC-style contractors earn their higher price.
 
@@ -95,7 +89,7 @@ Contrast that with a client in Raleigh: 9.6 kW rooftop, simple south-facing roof
 
 ## How to Actually Vet Either Type
 
-Don't rely on the Better Business Bureau rating. I've seen companies with an "A+" rating deliver terrible installs. Here's the process I walk my clients through, regardless of installer type:
+Don't rely solely on the Better Business Bureau rating. Companies with top ratings can still deliver poor installations. Here's the process I walk my clients through, regardless of installer type:
 
 Start with the contractor's license number. Every state has a lookup tool. Verify it's current and check for any disciplinary actions. Then pull their electrical contractor license separately (solar requires both in most states). Ask for the name of the licensed electrician who will sign off on your interconnection paperwork.
 
@@ -112,7 +106,6 @@ Finally, call the local building department and ask if they know the company. Pe
 - [Lawrence Berkeley National Laboratory, "Tracking the Sun" report](https://emp.lbl.gov/tracking-the-sun): Annual installed price trends for residential and small commercial solar in the U.S.
 
 ---
-
 
 *Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
 

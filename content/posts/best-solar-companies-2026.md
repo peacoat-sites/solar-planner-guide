@@ -91,7 +91,7 @@ Don't outsource this to a review site. Do it yourself in an afternoon.
 | PPA (Power Purchase Agreement) | None | Variable | Very limited | Those wanting zero maintenance hassle |
 | PACE financing | None | Moderate | Tied to property | Homeowners who plan to sell |
 
-The federal Investment Tax Credit (ITC) currently stands at 30% through 2032, which means a $30,000 system generates a $9,000 federal tax credit. That credit only helps you if you have sufficient tax liability to use it. I've seen clients plan a cash purchase around the ITC and then discover their retirement income left them with a $1,200 tax bill. Run this by a tax professional before it factors into your financial model.
+The federal Investment Tax Credit (ITC) currently stands at 30% through 2032, which means a $30,000 system generates a $9,000 federal tax credit. That credit only helps you if you have sufficient tax liability to use it. A common scenario: someone plans a cash purchase around the ITC, only to discover their retirement income leaves them with minimal tax liability to use it against. Run this by a tax professional before it factors into your financial model.
 
 ## Red Flags That Should End the Conversation
 
@@ -116,7 +116,6 @@ The solar market in 2026 gives homeowners genuinely good options at better price
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

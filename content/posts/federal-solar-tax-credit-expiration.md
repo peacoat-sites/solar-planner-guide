@@ -63,7 +63,7 @@ So technically you've got until December 31, 2032 to claim the full 30%. That so
 
 To claim the credit for a tax year, your system has to be "placed in service" by December 31 of that year. Installed. Inspected. Connected to the grid. The IRS doesn't care when you signed papers or sent in a deposit.
 
-Most residential installations take anywhere from four to twelve weeks from signing a contract to actual grid connection. I've watched clients in slow markets wait four to six months just for utility approval. Saying "I'll do it in December 2032" is basically financial gambling.
+Most residential installations take anywhere from four to twelve weeks from signing a contract to actual grid connection. In slow markets, utility approval alone can stretch four to six months. Saying "I'll do it in December 2032" is basically financial gambling.
 
 ## How Much You Actually Lose If You Wait Until the Step-Down Years
 
@@ -131,7 +131,6 @@ The federal solar tax credit is genuinely one of the best incentives for residen
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

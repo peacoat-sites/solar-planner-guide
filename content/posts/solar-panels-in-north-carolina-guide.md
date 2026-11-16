@@ -31,9 +31,7 @@ The state sits in a genuinely good solar sweet spot. Not Arizona sun, but not Se
 
 What most coverage glosses over: North Carolina's retail electricity rates are currently around 13 cents per kWh, which is below the U.S. average of roughly 17 cents. That one fact meaningfully changes your payback math compared to, say, California or Massachusetts. Lower rates mean slower payback, full stop. I'll show you exactly what that looks like.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NC homeowners average $25,000–$33,000 before incentives for a 10–12 kW system; after the 30% federal tax credit, expect $17,500–$23,100.</li><li style="margin:5px 0">NC's retail electricity rate (~13¢/kWh) is below the U.S. average, so payback periods run 9–13 years, longer than in high-rate states.</li><li style="margin:5px 0">NC has no state solar tax credit as of 2026, but a solid Property Tax Exemption on solar's added home value.</li><li style="margin:5px 0">Duke Energy and Dominion offer net metering, but the policy caps and credit rates have gotten less generous since 2023.</li><li style="margin:5px 0">A south-facing roof with minimal shade and a pitch between 15–40 degrees is where NC solar performs best.</li></ul></div>
-
 
 ## What Solar Actually Costs in North Carolina Right Now
 
@@ -54,9 +52,7 @@ Production estimates assume 4.5 peak sun hours and a quality system with less th
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Here's where I have to deliver mildly disappointing news. North Carolina used to have a 35% state tax credit, one of the best in the country. It expired at the end of 2015 and nothing replaced it. So if you're reading an older article that mentions a state credit, that's stale information.
+There's some disappointing news here. North Carolina used to have a 35% state tax credit, one of the best in the country. It expired at the end of 2015 and nothing replaced it. So if you're reading an older article that mentions a state credit, that's stale information.
 
 What you do get in 2026:
 
@@ -94,7 +90,7 @@ References from jobs done at least 3–4 years ago. Anyone can have happy custom
 
 ## Roof and Shading Reality Check
 
-This is where I've seen the most honest mistakes, including one I nearly made on behalf of a client. A roof that looks fine from the street can have enough late-afternoon shade from a neighbor's oak tree to cut production 15–20%. That's the difference between a 10-year and a 13-year payback.
+A common mistake: a roof that looks fine from the street can have enough late-afternoon shade from a nearby tree to cut production 15–20%. That's the difference between a 10-year and a 13-year payback.
 
 Ask any installer you're considering to run a shade analysis using Aurora Solar or Solargraf, not just a visual estimate. The software ingests LiDAR data and models hourly shading across a year. If they're not using something like that, they're guessing.
 
@@ -125,7 +121,6 @@ My honest take: add battery conduit rough-in during installation (costs maybe $3
 - NC Utilities Commission: Net metering rule proceedings and current interconnection standards for Duke Energy territories
 
 ---
-
 
 *Photo: [Iqbal farooz](https://www.pexels.com/@wanderinglenses) via Pexels*
 

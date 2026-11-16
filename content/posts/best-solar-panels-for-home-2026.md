@@ -111,7 +111,7 @@ If you sell your home, a transferable panel warranty adds resale value. Confirm 
 
 ## The Honest Downsides (What Most Solar Content Skips)
 
-I've worked with clients who went solar in bad situations and regretted it. Here's when solar is the wrong call, or at least a harder one.
+Solar isn't right for every home or situation. Here are some cases where it's the wrong call, or at least a harder one.
 
 **Shading.** Partial shade, even from a single chimney or tree limb, can cut system output dramatically depending on your inverter type. If your roof has meaningful shade, you'll need either microinverters (each panel operates independently) or DC optimizers. Both cost more. Budget an additional $1,000-2,500 for a 10 kW system to address shading properly.
 
@@ -130,7 +130,6 @@ I've worked with clients who went solar in bad situations and regretted it. Here
 - [NREL's PVWatts calculator](https://www.nrel.gov/)
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

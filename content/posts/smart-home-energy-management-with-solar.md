@@ -68,7 +68,7 @@ A few things this table won't tell you: Span requires a panel replacement in old
 
 ## Where the Real Savings Come From
 
-Let me show you three scenarios I've seen play out, because the math is more compelling than the theory.
+The math behind three common scenarios is more compelling than theory.
 
 Family in Phoenix with 8kW system, no battery, no monitoring → Added Emporia Vue + smart plugs on pool pump and EV charger + shifted both to solar-peak hours → Reduced grid draw by 34%, saved $640/year on a flat-rate plan.
 
@@ -78,15 +78,15 @@ Retired couple in San Diego with existing SunPower system, concerned about grid 
 
 ## The Battery Question
 
-You might be wondering whether you need a battery to make any of this worthwhile. Honestly, no. Monitoring and load-shifting alone move the needle in most utility territories. But if your utility has cut net metering compensation (which has happened in California, Nevada, and Hawaii in recent years), storing your own power becomes a lot more financially compelling.
+You might be wondering whether you need a battery to make any of this worthwhile. No. Monitoring and load-shifting alone move the needle in most utility territories. But if your utility has cut net metering compensation (which has happened in California, Nevada, and Hawaii in recent years), storing your own power becomes a lot more financially compelling.
 
 The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published modeling showing that battery + solar combinations can achieve payback periods of 6-10 years in high-rate states, compared to 3-5 years for solar alone in favorable net metering environments. That gap narrows fast when net metering rates drop.
 
-What I can't tell you with confidence is how your specific utility will treat battery exports over the next decade. Nobody can. I've seen utilities change the rules twice in five years. Size your battery for your own usage first, not for grid arbitrage.
+What's uncertain is how your specific utility will treat battery exports over the next decade. Utilities have been known to change grid export rules, sometimes significantly. Size your battery for your own usage first, not for grid arbitrage.
 
 ## Setting It Up: What the Process Actually Looks Like
 
-If you're starting from scratch, here's the realistic sequence: First, get visibility. Even a $149 Emporia Vue will reveal patterns you didn't know existed. I've had clients discover their old refrigerator was drawing $40/month on its own. Second, identify your two or three biggest controllable loads (pool pump, EV charger, water heater, HVAC). Third, automate scheduling on those loads to match solar production hours (roughly 9am-3pm in most climates). Fourth, if your utility has TOU rates, set your battery (if you have one) to reserve charge for the evening peak window.
+If you're starting from scratch, here's the realistic sequence: First, get visibility. Even a $149 Emporia Vue will reveal patterns you didn't know existed. For example, an older refrigerator might draw $40/month on its own. Second, identify your two or three biggest controllable loads (pool pump, EV charger, water heater, HVAC). Third, automate scheduling on those loads to match solar production hours (roughly 9am-3pm in most climates). Fourth, if your utility has TOU rates, set your battery (if you have one) to reserve charge for the evening peak window.
 
 The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a useful homeowner's guide that covers the basics, though it's more starter-level than what most solar households need.
 

@@ -25,7 +25,7 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 lastmod: 2026-07-08
 ---
-The average American homeowner installing solar in 2024 pays around $30,000 before incentives, or roughly $18,000 after the 30% federal tax credit. That's a serious chunk of money. Yet installers will hand you a glossy brochure showing you "saving $50,000 over 25 years" without mentioning that the math is built on assumptions that may not apply to your house, your utility, or your financial situation. I've seen clients sign contracts based on projections that fell apart within two years. I've also seen clients who absolutely knocked it out of the park. The difference wasn't luck. It was knowing which questions to ask upfront.
+The average American homeowner installing solar in 2024 pays around $30,000 before incentives, or roughly $18,000 after the 30% federal tax credit. That's a serious chunk of money. Yet installers will hand you a glossy brochure showing you "saving $50,000 over 25 years" without mentioning that the math is built on assumptions that may not apply to your house, your utility, or your financial situation. Projections can fall apart when they're built on assumptions that don't match your specific situation. The difference between a successful installation and a disappointing one often comes down to knowing which questions to ask upfront.
 
 ## The Core Math: How Solar Payback Actually Works
 
@@ -136,7 +136,6 @@ Solar is a strong financial investment for a lot of homeowners, but not for all 
 - [Emporia Vue 2 Smart Home Energy Monitor](https://www.amazon.com/s?k=emporia+vue+2+energy+monitor&tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

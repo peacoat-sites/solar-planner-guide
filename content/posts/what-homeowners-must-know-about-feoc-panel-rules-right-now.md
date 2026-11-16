@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 Picture this: you sign a solar lease in June 2026, you're told you'll benefit from a 30% federal tax credit baked into your monthly rate, and then six months later your installer quietly informs you that the panels on your roof didn't actually qualify. Your rate doesn't change. The savings you were promised don't materialize the way you expected. And because you don't own the system, there's very little you can do about it.
 
-I've seen versions of this story play out before, usually around policy deadlines, and the FEOC rules taking effect right now have all the ingredients for it to happen again, at scale.
+The FEOC rules taking effect right now have all the ingredients for a similar pattern to occur, at scale, around policy deadlines.
 
 Here's the short version of what's going on: the residential solar tax credit (Section 25D) died on December 31, 2025 under the One Big Beautiful Bill Act. If you're a homeowner looking for federal incentive dollars in 2026, the only remaining pathway is a solar lease or power purchase agreement, where a third-party company owns your system and claims the commercial-side Section 48E credit on your behalf, passing some of those savings to you in the form of a lower monthly rate. But that 48E credit comes with a new catch called FEOC compliance, and it just got a lot more complicated.
 
@@ -31,8 +31,6 @@ This doesn't mean no panels qualify. Brands like First Solar, Silfab, and Qcells
 ## The Gray Zone Nobody's Talking About
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what most people don't realize: there's no official FEOC compliance certificate. None. When an installer or manufacturer tells you their panels are FEOC compliant, that claim is almost certainly based on internal affidavits, legal interpretation, and self-reporting, not any government validation. The Treasury Department issued formal guidance through Notice 2026-15 in February 2026, but the final IRS safe-harbor tables that will define exact component-level percentage thresholds aren't required to be published until December 31, 2026, according to Solar Power World's coverage of that guidance.
 
@@ -62,7 +60,7 @@ Ask for written documentation of the panel's FEOC compliance status, including w
 
 As Electrek reported in June 2026, the July 4 safe-harbor deadline created a genuine scramble in the industry, with companies racing to lock in projects before the 48E credit expired for new starts. That kind of rush rarely produces careful sourcing decisions. Some companies got it right. Others cut corners under time pressure.
 
-The Apollo Energy/Harness Our Sun guide for Colorado homeowners, published in April 2026, makes the useful point that homeowners should specifically ask whether their installer has done third-party supply chain verification, not just relying on manufacturer affidavits. That's smart advice regardless of your state.
+Homeowners should specifically ask whether their installer has done third-party supply chain verification, not just relying on manufacturer affidavits. That's smart advice regardless of your state.
 
 ## What Happens If the Credit Doesn't Pan Out
 

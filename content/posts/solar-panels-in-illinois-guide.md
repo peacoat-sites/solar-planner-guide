@@ -25,7 +25,7 @@ faqs:
     a: "From signed contract to system turned on, expect 2 to 4 months. Permitting with local municipalities (Chicago in particular) can run 6 to 10 weeks. ABP enrollment after installation adds another 8 to 12 weeks before REC payments begin. Utility interconnection approval is usually the last step and can take 3 to 6 weeks with ComEd or Ameren."
 ---
 
-Forty-four percent. That's the share of Illinois homeowners who, according to EnergySage's most recent market data, overpay for solar because they accept the first quote they get. I've watched it happen dozens of times, and it still frustrates me. Someone does the right thing, decides to go solar, and then hands an extra $4,000 to $6,000 to an installer who knew they wouldn't shop around.
+Forty-four percent. That's the share of Illinois homeowners who, according to EnergySage's most recent market data, overpay for solar because they accept the first quote they get. Many homeowners accept the first quote they receive and end up paying $4,000 to $6,000 more than necessary.
 
 Illinois is genuinely one of the better states in the country to go solar right now. Not the best, not California-level obvious, but better than most people realize. The combination of the federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/), the state's SREC successor program, and some of the country's more utility-friendly net metering policies puts Illinois solidly in the "yes, this pencils out for most homeowners" category. But the details matter enormously, and a few of them could change in 2027 depending on how the General Assembly handles the next revision of the Climate and Equitable Jobs Act (CEJA). More on that in a minute.
 
@@ -39,7 +39,7 @@ The average cost for a residential [solar installation](/average-cost-of-solar-i
 
 Apply the 30% federal Investment [Tax Credit](/solar-roi-without-the-30-tax-credit-how-to-recalculate-now/), and you're down to roughly $15,960 to $17,360. Then Illinois's Adjustable Block Program layered on top of that, and the numbers get genuinely interesting.
 
-I want to be clear about one thing most installers gloss over: the federal ITC is a tax *credit*, not a rebate. You have to owe federal taxes to benefit from it. I've worked with a handful of retirees on fixed income who had very little federal tax liability, and the ITC barely helped them. If that's your situation, talk to a CPA before signing anything.
+I want to be clear about one thing most installers gloss over: the federal ITC is a tax *credit*, not a rebate. You have to owe federal taxes to benefit from it. Some retirees and others on fixed income have very little federal tax liability, so the ITC provides minimal benefit. If that's your situation, talk to a CPA before signing anything.
 
 Here's what a typical Illinois solar deal looks like with all the incentives stacked:
 
@@ -72,7 +72,7 @@ Both ComEd and Ameren offer net metering, but they're not identical, and the dif
 
 ComEd's net metering credits excess electricity at the full retail rate, currently around $0.13 to $0.15 per kWh depending on your rate class. Ameren's structure is similar but their base residential rate runs slightly lower, in the $0.11 to $0.13 range. That gap of a couple cents per kilowatt-hour sounds small until you're exporting several thousand kWh per year.
 
-What most people don't realize: Illinois's net metering rules require annual "true-up" settlements, similar to California, not monthly cash-out. So if you over-produce in July and August, you bank credits that offset your December and January bills. Credits that roll over but aren't used by your anniversary date are typically purchased by the utility at the avoided-cost rate, which is much lower than retail. Size your system to roughly meet your annual usage, not to maximize summer production. I've seen homeowners in Joliet get talked into 12 kW systems for homes that use 9,500 kWh per year, and they essentially donated a few hundred dollars of excess credits to the utility every year.
+What most people don't realize: Illinois's net metering rules require annual "true-up" settlements, similar to California, not monthly cash-out. So if you over-produce in July and August, you bank credits that offset your December and January bills. Credits that roll over but aren't used by your anniversary date are typically purchased by the utility at the avoided-cost rate, which is much lower than retail. Size your system to roughly meet your annual usage, not to maximize summer production. Some homeowners in Joliet have been talked into 12 kW systems for homes that use 9,500 kWh per year, and they essentially donate a few hundred dollars of excess credits to the utility every year.
 
 ## What It Actually Looks Like: Three Real Examples
 

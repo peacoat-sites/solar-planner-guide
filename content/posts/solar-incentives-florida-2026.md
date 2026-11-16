@@ -33,9 +33,9 @@ Florida gets more sun than almost any other state in the country, yet it ranks b
 
 The 30% federal Investment Tax Credit (ITC) is the foundation of every Florida solar deal right now. If your system costs $28,000 before incentives, you're looking at an $8,400 credit directly against your federal tax liability. Not a deduction. A credit. That's real money off your tax bill.
 
-The credit applies to panels, inverters, batteries (if charged by solar), labor, and even sales tax on equipment. Most homeowners I've worked with are surprised by how broad the eligible costs are.
+The credit applies to panels, inverters, batteries (if charged by solar), labor, and even sales tax on equipment. Many homeowners are surprised by how broad the eligible costs are.
 
-Here's the catch that installers sometimes gloss over: you have to have sufficient federal tax liability to use the full credit in a single year. If you owe $5,000 in federal taxes annually, you can carry the remaining credit forward into future years, but that does affect your effective payback timeline. Retirees living on Social Security income should run this scenario carefully with a tax professional before signing any contract.
+One thing installers sometimes gloss over: you have to have sufficient federal tax liability to use the full credit in a single year. If you owe $5,000 in federal taxes annually, you can carry the remaining credit forward into future years, but that does affect your effective payback timeline. Retirees living on Social Security income should run this scenario carefully with a tax professional before signing any contract.
 
 The 30% rate runs through 2032, then steps down to 26% in 2033 and 22% in 2034. So while there's no panic-now urgency, waiting until 2034 means leaving thousands of dollars on the table. For a deeper look at how the credit works mechanically, the [ITC solar investment tax credit explained](/itc-solar-investment-tax-credit-explained/) guide on this site is worth reading before you meet with any installer.
 
@@ -149,7 +149,6 @@ Florida homeowners who act in 2026 are working with one of the better incentive 
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

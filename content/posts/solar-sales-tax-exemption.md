@@ -29,9 +29,7 @@ Thirty-one states have a solar sales tax exemption on the books right now. [Most
 
 Let me be clear about what this article is and isn't. It's not a fluffy "check with your tax professional" overview that tells you nothing. It's a working guide to how solar sales tax exemptions actually function, which states have them, how to claim them, and where the rules get weird enough to bite you. I've walked through this with enough homeowners to know the mistakes people make, and most of them are avoidable.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">31 states currently offer full or partial sales tax exemptions on residential solar equipment.</li><li style="margin:5px 0">On a $25,000 system, a 6% exemption saves roughly $1,500 at point of sale, no filing required.</li><li style="margin:5px 0">Exemptions typically apply to equipment (panels, inverters, batteries), not labor, verify with your installer.</li><li style="margin:5px 0">Some states require the homeowner to submit a form to claim the exemption; it's not always automatic.</li><li style="margin:5px 0">The federal ITC and state sales tax exemptions stack, you can claim both.</li></ul></div>
-
 
 ## How the Exemption Actually Works
 
@@ -45,13 +43,9 @@ I learned this distinction the hard way on behalf of a client in Maryland a few 
 
 > **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, 31 states offer some form of solar sales tax exemption for residential systems. The specifics vary considerably. Some states exempt 100% of solar equipment sales tax. Others cap the exemption at a dollar amount or tie it to [system size](/solaredge-nexis-just-hit-the-us-what-it-means-for-your-system-size/).
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated sales tax savings on a $25,000 solar system by state rate</div><div class="sc-row"><span class="sc-label">Arizona (5.6%)</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">$1,400</span></div><div class="sc-row"><span class="sc-label">New Jersey (6.625%)</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">$1,656</span></div><div class="sc-row"><span class="sc-label">Texas (6.25%)</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">$1,563</span></div><div class="sc-row"><span class="sc-label">North Carolina (4.75%)</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">$1,188</span></div><div class="sc-row"><span class="sc-label">Massachusetts (6.25%)</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">$1,563</span></div><div class="sc-row"><span class="sc-label">Florida (6.0%)</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">$1,500</span></div><div class="sc-row"><span class="sc-label">Minnesota (6.875%)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,719</span></div><div class="sc-src">Source: State revenue codes, SEIA 2026</div></div>
-
 
 A few states worth knowing in detail:
 
@@ -71,7 +65,7 @@ Most exemptions are automatic at the point of sale, meaning your installer is re
 
 Massachusetts is one example. The exemption applies to residential solar, but some installers initially charge tax and then issue a credit or refund after documentation is verified. If you're in Massachusetts, ask your installer explicitly: "Are you going to charge me sales tax, and if so, how do I get it back?" Get that answer in writing.
 
-North Carolina is similar. The state offers an exemption on solar energy property, but the process isn't uniformly handled by all installers. I've seen quotes from NC contractors that included sales tax, where a quick conversation with the sales rep was enough to remove it. Other times, homeowners needed to complete Form E-599C (the state's certificate of exemption) themselves.
+North Carolina is similar. The state offers an exemption on solar energy property, but the process isn't uniformly handled by all installers. Some NC contractors initially include sales tax in quotes, but a conversation with the sales rep can clarify the exemption. Other times, homeowners needed to complete Form E-599C (the state's certificate of exemption) themselves.
 
 This is the kind of thing only someone who's actually worked through the paperwork would tell you: ask for the exemption certificate number or form name specific to your state before you close. If your installer says "we handle it automatically," great. Ask them to show you the line on the contract where it says no tax is charged. If they're vague, look up your state's revenue department website. Every state that has an exemption publishes the applicable statute or code section.
 
@@ -116,7 +110,6 @@ Once you've gone solar and captured every available exemption, it pays to actual
 - North Carolina Department of Revenue, Form E-599C: State certificate of exemption for solar and energy equipment purchases.
 
 ---
-
 
 ---
 

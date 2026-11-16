@@ -29,9 +29,7 @@ Roughly 40% of U.S. homes are under 1,500 square feet. And a huge chunk of those
 
 The number that usually surprises people: according to EnergySage's current market data, the average cost of a small residential solar system (4-6 kW, which covers most homes under 1,500 sq ft) runs between $11,000 and $17,000 before incentives. After the federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) (ITC), which sits at 30% as of this year, that drops to roughly $7,700 to $11,900. That's not pocket change, but it's not the $30,000 figure people assume when they picture "going solar."
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A typical 4-6 kW system for a small home costs $11,000-$17,000 before incentives in 2026.</li><li style="margin:5px 0">The 30% federal tax credit reduces that to roughly $7,700-$11,900 out of pocket.</li><li style="margin:5px 0">Payback periods for small homes commonly run 7-10 years, with 25+ year panel warranties.</li><li style="margin:5px 0">Homes under 1,500 sq ft often need only 8-14 panels, fitting on most standard roofs.</li><li style="margin:5px 0">State incentives, net metering, and local utility rates change the math significantly by region.</li></ul></div>
-
 
 ## What Does a Small Home Actually Need?
 
@@ -39,13 +37,11 @@ Let's get concrete. A house under 1,000 square feet with average usage consumes 
 
 To cover 600 kWh per month, you'd typically need a 4-5 kW system in a sunny state like Arizona or Texas. In a cloudier region like the Pacific Northwest or New England, you might need 5-6 kW to hit the same output. That translates to about 10-14 panels using modern 400W modules (the current industry standard; panels below 350W are getting rare in residential installs). Eight to fourteen panels fit comfortably on most small roofs, which is why the "my roof is too small" concern usually doesn't hold up.
 
-One thing installers often don't mention upfront: roof orientation matters more than roof size. A south-facing pitch in good condition with no shading is worth more than twice the square footage of a north-facing or heavily shaded surface. I've seen homeowners with 1,000 sq ft homes outperform neighbors with 2,200 sq ft homes simply because their roof geometry was better. Don't let anyone sell you a bigger system to compensate for a bad orientation. Fix the orientation problem first, or accept the limitation honestly.
+One thing installers often don't mention upfront: roof orientation matters more than roof size. A south-facing pitch in good condition with no shading is worth more than twice the square footage of a north-facing or heavily shaded surface. A home with 1,000 sq ft of good south-facing roof can outperform a 2,200 sq ft home with poor orientation, since roof geometry matters more than total size. Don't let anyone sell you a bigger system to compensate for a bad orientation. Fix the orientation problem first, or accept the limitation honestly.
 
 ## The Real Numbers: System Size vs. Cost in 2026
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's a breakdown I put together from current installer quotes and EnergySage market data. These figures reflect installed costs (equipment plus labor) before any incentives, current as of July 2026.
 
@@ -60,9 +56,7 @@ Here's a breakdown I put together from current installer quotes and EnergySage m
 
 What jumps out here is that the cost-per-watt doesn't improve dramatically as you scale down. A 3 kW system often runs $2.80-$3.50/W installed, and a 6 kW system might run $2.80-$3.50/W as well. The labor overhead is similar regardless of system size, which is why some installers quietly steer small homeowners toward larger systems than they need. Ask for the cost-per-watt explicitly. If they quote you $4.00/W or higher, get another bid.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg installed solar cost per watt by system size (2026)</div><div class="sc-row"><span class="sc-label">3 kW</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$3.3</span></div><div class="sc-row"><span class="sc-label">4 kW</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">$3.1</span></div><div class="sc-row"><span class="sc-label">5 kW</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">$3</span></div><div class="sc-row"><span class="sc-label">6 kW</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">$3</span></div><div class="sc-src">Source: EnergySage Market Data 2026</div></div>
-
 
 ## Where the Money Actually Goes
 
@@ -97,7 +91,6 @@ State and utility incentives vary enormously. Some states, like New York and Cal
 - IRS Form 5695 instructions: Federal solar Investment Tax Credit (ITC) eligibility and carry-forward rules
 
 ---
-
 
 *Photo: [Trinh Trần](https://www.pexels.com/@trinh-tr-n-191284110) via Pexels*
 

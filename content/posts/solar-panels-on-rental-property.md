@@ -35,7 +35,7 @@ I've sat across from a lot of landlords over the years who came in thinking sola
 
 ## The Tax Credit Math (And Where It Gets Complicated)
 
-The federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) currently sits at 30% through 2032, then steps down. On a $20,000 system, that's $6,000 back. But here's where I've watched landlords get genuinely burned: the credit only offsets federal income tax liability. If your rental income and other income don't generate at least $6,000 in federal taxes owed that year, you don't lose the credit forever, but you do carry it forward, sometimes for years before it's fully absorbed.
+The federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) currently sits at 30% through 2032, then steps down. On a $20,000 system, that's $6,000 back. The credit only offsets federal income tax liability. If your rental income and other income don't generate at least $6,000 in federal taxes owed that year, you don't lose the credit forever, but you do carry it forward, sometimes for years before it's fully absorbed.
 
 I worked with a landlord in Phoenix a few years back, a retired couple with two single-family rentals and modest Social Security income. Their installer told them the 30% credit would make payback happen in under six years. What nobody told them was that their federal tax liability was about $2,200 per year. That $6,000 credit took them almost three years to fully use. Not a disaster, but not what they were sold.
 
@@ -83,7 +83,7 @@ PACE financing is underused by landlords and worth researching in your state. Th
 
 ## What Installers Won't Always Tell You
 
-The roof matters more on a rental than on your own home because you're less likely to be monitoring it closely. I've seen landlords install solar on a roof with 6-8 years of life left. When the roof needs replacement, the panels come off, get stored, get reinstalled. That bill, including inverter checks and potential re-mounting, can run $3,000-$5,000. On a rental you're not living in, this catches people by surprise.
+The roof matters more on a rental than on your own home because you're less likely to be monitoring it closely. Installing solar on a roof with 6-8 years of life left can create problems. When the roof needs replacement, the panels come off, get stored, get reinstalled. That bill, including inverter checks and potential re-mounting, can run $3,000-$5,000. This expense often surprises landlords who aren't monitoring the property closely.
 
 A [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor&tag=contentportfo-20) connected to your system is worth the $150-$300 it costs to install. You'll know the system is producing correctly without having to visit the property or trust that tenants will alert you to problems.
 

@@ -25,9 +25,9 @@ faqs:
     a: "Honestly, yes. The BPU has been reviewing net metering structures, and advocacy from utilities to move to a lower-value compensation model is ongoing. Nothing has changed as of August 2026, but this is worth monitoring if you're comparing 'go now' versus 'wait a year' scenarios. Locking in your interconnection date preserves your current terms under most proposals being discussed."
 ---
 
-New Jersey might be the most interesting solar market in the country [right now](/what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/). I don't say that to hype it up. I say it because when I started looking closely at the numbers for Garden State homeowners, I kept finding things that surprised me, including a few that made me reconsider advice I'd been giving people for years.
+New Jersey might be the most interesting solar market in the country [right now](/what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/). The reason is the state's policy stack, not its weather. When you examine the numbers for Garden State homeowners, several factors stand out that shift the economics compared to other East Coast states.
 
-Here's the thing most installers won't tell you upfront: New Jersey isn't a great [solar state](/solar-by-state/) because of its sunshine. It's not. Newark gets roughly 4.2 peak sun hours per day, which is solidly mediocre compared to Phoenix's 5.9 or even Charlotte's 4.8. What makes New Jersey work is the policy stack, a combination of incentives that, when you add them up, genuinely changes the math in ways I haven't seen replicated anywhere else on the East Coast.
+Most installers won't emphasize upfront that New Jersey isn't a great [solar state](/solar-by-state/) because of its sunshine. Newark gets roughly 4.2 peak sun hours per day, which is solidly mediocre compared to Phoenix's 5.9 or even Charlotte's 4.8. What makes New Jersey work is the policy stack, a combination of incentives that, when you add them up, genuinely changes the math in ways not replicated anywhere else on the East Coast.
 
 Let me walk you through what's actually going on here, as of August 2026.
 
@@ -35,7 +35,7 @@ Let me walk you through what's actually going on here, as of August 2026.
 
 ## What It Actually Costs in NJ Right Now
 
-Before incentives, a typical 8 kW residential system in New Jersey will run you somewhere between $22,400 and $25,600 based on current EnergySage market data for the Mid-Atlantic region. Most of the quotes I review from NJ homeowners fall in that $2.80 to $3.20 [per watt](/solar-panel-cost-per-watt-2026/) range. There are outliers on both ends, and if someone quotes you under $2.50/watt, I'd want to know exactly what equipment they're using.
+Before incentives, a typical 8 kW residential system in New Jersey will run you somewhere between $22,400 and $25,600 based on current EnergySage market data for the Mid-Atlantic region. Most quotes from NJ homeowners fall in that $2.80 to $3.20 [per watt](/solar-panel-cost-per-watt-2026/) range. There are outliers on both ends, and quotes under $2.50/watt warrant scrutiny about exactly what equipment is being used.
 
 After the 30% federal Investment Tax Credit (applied in 2026, which remains at 30% through 2032 under current law), that $24,000 system drops to roughly $16,800 out of pocket. That's before New Jersey's own incentives touch it.
 
@@ -57,13 +57,13 @@ New Jersey's Solar Renewable Energy Certificate program is what separates this s
 
 Here's a worked example. An 8 kW system in central New Jersey (let's say Mercer County) will generate approximately 9,200 kWh per year based on NREL's PVWatts calculator with a standard 0.77 DC-to-AC derate factor. That's roughly 9.2 SRECs annually. At $90 each, you're collecting $828/year just from SREC sales, for 15 years under the program's current structure. That's $12,420 in SREC revenue before you've calculated a dollar of electric bill savings.
 
-The catch: SRECs aren't guaranteed at today's price. If installations boom and supply outpaces utility demand, prices drop. I've watched this happen in New Jersey before, which is one reason the state restructured from SREC I to SREC II. The current program has better price floors, but I'd be lying if I said the risk was zero.
+The catch: SRECs aren't guaranteed at today's price. If installations boom and supply outpaces utility demand, prices drop. This has happened in New Jersey before, which is one reason the state restructured from SREC I to SREC II. The current program has better price floors, but The risk isn't zero.
 
 ## Net Metering: A Policy Worth Paying Attention To
 
 New Jersey's net metering policy currently compensates homeowners at the full retail rate for excess power sent to the grid. For PSE&G residential customers paying around $0.17-$0.19/kWh (as of this year), that's real money. But the Solar Energy Industries Association has flagged that several northeastern states are moving toward "net billing" programs that compensate at wholesale rates instead, which can slash the value of exported energy by 60-70%.
 
-I'll be honest: I don't know exactly when or whether New Jersey will make this shift. The BPU has been cautious. But if you're on the fence, this policy uncertainty is one legitimate reason to move sooner rather than wait. A few solar contracts I've seen in NJ now include "grandfather clause" language that locks in your net metering terms at the time of interconnection. Worth asking your installer about.
+It's unclear when or whether New Jersey will make this shift. The BPU has been cautious. But if you're on the fence, this policy uncertainty is one legitimate reason to move sooner rather than wait. Some solar contracts now include "grandfather clause" language that locks in your net metering terms at the time of interconnection. Worth asking your installer about.
 
 ## Choosing the Right Installer (And What to Watch For)
 
@@ -71,7 +71,7 @@ New Jersey has dozens of active installers, from national players like Sunrun, S
 
 A few things I look for that generic buyer's guides skip:
 
-The interconnection timeline matters enormously in NJ. JCP&L and PSE&G have different processing speeds, and your installer should know which utility serves your address and what the current backlog looks like. I've seen interconnection wait times stretch from six weeks to six months depending on the utility and the installer's familiarity with local paperwork. The form you're waiting on is the Parallel Generation Interconnection Application, and a good installer will know exactly where yours is in the queue.
+The interconnection timeline matters enormously in NJ. JCP&L and PSE&G have different processing speeds, and your installer should know which utility serves your address and what the current backlog looks like. Interconnection wait times can stretch from six weeks to six months depending on the utility and the installer's familiarity with local paperwork. The form you're waiting on is the Parallel Generation Interconnection Application, and a good installer will know exactly where yours is in the queue.
 
 Panel choice in NJ: given the modest sun hours, high-efficiency panels (Panasonic, REC Alpha, or Maxeon series) can recover 8-12% more energy from the same roof footprint compared to budget modules. On a shaded or smaller roof, this is the upgrade worth paying for.
 

@@ -16,7 +16,7 @@ lastmod: 2026-07-07
 ---
 Most homeowners shopping for solar right now are focused on the wrong deadline. They've heard the 30% federal tax credit is gone, they've maybe looked at lease options as a workaround, and they're vaguely planning to "get quotes this summer." What almost none of them know is that July 4, 2026 is a hard cutoff that could make their lease or PPA meaningfully more expensive, and it's days away.
 
-I'll be honest: when I first dug into this, I expected the usual fuzzy policy language with lots of wiggle room. What I found instead was a specific, binding construction-start requirement with real dollar consequences for anyone who misses it.
+The policy includes a specific, binding construction-start requirement with real dollar consequences for anyone who misses it.
 
 ## What Actually Happened to the Federal Solar Credit
 
@@ -36,15 +36,13 @@ The catch is that 48E doesn't last forever, and its clock is ticking in a way mo
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the mechanics of it. Section 48E requires that construction begin before July 4, 2026 for a project to lock in eligibility under the current rules. Miss that date, and the system must be placed in service by December 31, 2027 to qualify at all. After 2027, the credit expires entirely. So this summer isn't just a busy season. It's genuinely the last window for the commercial credit that makes [third-party solar economics work](/solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system/), as Solar Permit Solutions laid out in their February 2026 breakdown of what changed after the legislation passed.
 
 What does "construction begin" actually mean in practice? For solar, the IRS generally accepts that meaningful physical work has started, or that 5% of total project costs have been incurred. Installers working on pre-deadline contracts are trying to get permits pulled, equipment delivered, and some installation work physically underway before the date hits. That process takes weeks, not days, which means the effective deadline for homeowners to sign a contract and have any realistic shot at beating it has arguably already passed for some installers.
 
 ## The 10-12% Price Bump Coming for Leases and PPAs
 
-This is where it gets concrete for homeowners who are comparison shopping right now. Industry analysts and solar finance companies, including Sungage Financial and Bodhi Solar, have projected a 10 to 12% increase in TPO (third-party ownership) pricing after the July 4 deadline. That's not a minor rounding error. On a 20-year lease, a 10% price increase in the monthly payment can easily translate to several thousand dollars in additional cost over the contract term.
+Solar finance companies including Sungage Financial and Bodhi Solar have projected a 10 to 12% increase in TPO (third-party ownership) pricing after the July 4 deadline. On a 20-year lease, a 10% price increase in the monthly payment can easily translate to several thousand dollars in additional cost over the contract term.
 
 The reason is tax equity. When Sunrun or another TPO company deploys capital to install systems on your roof, they typically sell the tax credit to a tax equity investor who funds part of the project in exchange for the credit value. That financial structure only works if the credit is accessible. Once 48E becomes harder to claim, the economics of that capital structure shift, and some of that cost flows downstream to customers in the form of higher rates.
 

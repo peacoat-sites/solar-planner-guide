@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most homeowners who go solar focus entirely on the [federal tax credit](/federal-solar-tax-credit-2026/) and stop there. That's understandable. The 30% Investment Tax Credit is real money and easy to understand. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.
 
-I've seen clients leave $3,000 to $6,000 on the table because they didn't know to ask. That stings every time.
+Homeowners often leave $3,000 to $6,000 on the table by not asking the right questions upfront.
 
 Utility solar incentive programs vary wildly, they're often time-limited, and some have income caps or equipment requirements that disqualify you if you're not paying attention. Here's what they actually are, how they work, and where they tend to disappoint.
 
@@ -64,17 +64,15 @@ The major categories:
 
 > **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I have to be honest, because installers almost never are.
 
 Net metering rates are being cut. Quietly, steadily, and in some states, aggressively. California's NEM 3.0 policy, which took effect in April 2023, slashed the export rate solar customers receive to roughly $0.05/kWh in many cases, down from $0.30/kWh under the old rules. That's not a typo. The economics of going solar in California changed dramatically overnight for anyone who locked in after that date.
 
-I thought for a long time that net metering was a locked-in benefit once you installed. It isn't. Most utility tariffs include language that lets the commission revisit export rates on a schedule. In my experience, the states most at risk right now are California (already cut), Nevada (has been through this cycle once already), Arizona, and potentially Texas co-ops.
+Net metering isn't always a locked-in benefit once you install. It isn't. Most utility tariffs include language that lets the commission revisit export rates on a schedule. In my experience, the states most at risk right now are California (already cut), Nevada (has been through this cycle once already), Arizona, and potentially Texas co-ops.
 
 This doesn't mean solar is a bad deal in those places. It means you need to size your system to maximize self-consumption rather than export. Pair it with a battery. Run your dishwasher and EV charger during daylight hours. The game has changed in net-metering-weakened states, and the strategy has to change with it.
 
-A worked example from my practice: A Phoenix homeowner in 2025 installed an 8kW system, assumed full retail net metering, and calculated a 7.2-year payback. APS's export rate was actually $0.079/kWh, not the $0.12/kWh retail rate they'd assumed. Actual payback: 10.1 years. They were annoyed. They should have been told upfront. → Lesson: always verify your utility's current export rate before accepting any payback projection from an installer.
+For example, a Phoenix homeowner installing an 8kW system might assume full retail net metering and calculate a 7.2-year payback. If APS's actual export rate is $0.079/kWh instead of the assumed $0.12/kWh retail rate, the actual payback extends to 10.1 years. This difference should be disclosed upfront. → Lesson: always verify your utility's current export rate before accepting any payback projection from an installer.
 
 ---
 
@@ -89,7 +87,7 @@ After that, call your utility directly. Ask specifically for the "interconnectio
 3. Are there battery storage incentives separate from solar?
 4. Is there a waitlist or funding cap on any current programs?
 
-That last question matters. Utility rebate programs get funded, they get fully subscribed, and they close. A reader named Maria from suburban Chicago emailed me this past spring: she'd installed her system in March 2026 only to learn ComEd's rebate program had hit its funding cap in January. She'd have qualified for $1,800 had she checked before signing her contract. The installer hadn't mentioned it.
+That last question matters. Utility rebate programs get funded, they get fully subscribed, and they close. For example, a homeowner installing in March might qualify for $1,800 in rebates, but if the utility's program hit its funding cap in January, that money is lost. Installers should alert customers to check program status before signing.
 
 ---
 
@@ -111,7 +109,7 @@ For monitoring your battery and solar production together, a home energy monitor
 
 ## The Programs Worth Prioritizing (And One to Skip)
 
-In my experience ranking these by actual impact on ROI:
+Ranked by actual impact on ROI:
 
 Net metering with retail-rate credit is the most valuable thing you can have. Fight to lock it in before your state weakens it. If you're in a state where it's still full-retail, install sooner rather than later.
 
@@ -134,7 +132,6 @@ The one I'd approach skeptically: "green tariff" programs where you pay a premiu
 - [California Public Utilities Commission, NEM 3.0 Decision](https://www.cpuc.ca.gov/): The April 2023 ruling that restructured California net metering export rates.
 
 ---
-
 
 ---
 

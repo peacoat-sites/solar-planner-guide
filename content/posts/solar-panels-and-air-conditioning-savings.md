@@ -27,13 +27,11 @@ faqs:
 
 Sixty percent. That's the share of a typical home's [electricity bill](/solar-cost-vs-electricity-bill-savings/) that air conditioning alone can devour during a hot summer, according to the U.S. Department of Energy. I don't lead with that number to scare you. I lead with it because it's the reason solar panels and air conditioning are, for most American homeowners, one of the most financially compelling combinations you can make in home energy.
 
-I've seen this play out hundreds of times. A homeowner in Phoenix or Atlanta or Houston spends the first three summers staring at $350 [electric bills](/is-solar-worth-it-with-low-electric-bills/), finally calls me, and then we run the numbers together. The look on their face when they realize solar could cover almost their entire summer load is something I never get tired of. But I've also seen people make this decision badly, overpaying or undersizing their system because nobody gave them the honest version of how this actually works.
+In hot climates like Phoenix, Atlanta, or Houston, homeowners often face $350+ [electric bills](/is-solar-worth-it-with-low-electric-bills/) during peak summer months. Running the numbers can reveal that solar covers most or all of the summer load. However, many people make this decision without fully understanding how sizing and pricing actually work, leading to overpaying or undersizing their system.
 
 So let me give you that version.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">AC accounts for up to 60% of summer electricity use, making it the #1 solar payback driver.</li><li style="margin:5px 0">A properly sized 8-10 kW system can offset $1,200-$2,400/year in AC-related electricity costs in hot climates.</li><li style="margin:5px 0">Solar + a smart thermostat (like Ecobee or Nest) can cut AC costs an additional 10-15% beyond panels alone.</li><li style="margin:5px 0">The federal Investment Tax Credit is currently 30%, directly reducing system cost dollar-for-dollar.</li><li style="margin:5px 0">Payback periods in high-AC states like Florida, Texas, and Arizona are often 6-8 years versus 10-12 in cooler climates.</li></ul></div>
-
 
 ## Why AC Is the Reason Solar Math Often Works
 
@@ -46,8 +44,6 @@ This is also why I'm a little skeptical when someone in Portland, Oregon emails 
 ## The Real Numbers by State
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I want to show you actual cost comparisons rather than tell you solar "can save you money" in a vague, hand-wavy way. The table below reflects average annual AC-related electricity costs and estimated solar offset potential based on typical system sizes for a 2,000 sq. ft. home. These figures draw from [EnergySage's market data](https://news.energysage.com/) and EIA residential billing data, current as of August 2026.
 
@@ -63,9 +59,7 @@ I want to show you actual cost comparisons rather than tell you solar "can save 
 
 Payback periods assume the 30% federal ITC, average local incentives, and net metering credit at retail rate. Your numbers will vary. But the directional story is clear: the hotter the state, the faster the math works.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average Annual AC Electricity Cost by State</div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,100</span></div><div class="sc-row"><span class="sc-label">Arizona</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">$1,920</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">$1,850</span></div><div class="sc-row"><span class="sc-label">Georgia</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$1,400</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">$980</span></div><div class="sc-row"><span class="sc-label">Ohio</span><span class="sc-track"><span class="sc-bar" style="width:36%"></span></span><span class="sc-val">$760</span></div><div class="sc-row"><span class="sc-label">Washington</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">$410</span></div><div class="sc-src">Source: EIA residential billing data / EnergySage 2026</div></div>
-
 
 ## Sizing Your System for AC Load (Most People Get This Wrong)
 
@@ -98,7 +92,6 @@ Arizona, Texas, and Florida utilities have also been quietly revising net meteri
 - [California Public Utilities Commission, NEM 3.0 Decision (2023)](https://www.cpuc.ca.gov/): Details on California's revised net energy metering policy for new solar customers.
 
 ---
-
 
 *Photo: [Giant Asparagus](https://www.pexels.com/@giantasparagus) via Pexels*
 

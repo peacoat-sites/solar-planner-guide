@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most solar shoppers spend weeks obsessing over panel brands and installation quotes, then barely glance at the three words that'll actually determine whether their system pays off: net metering policy.
 
-I'll be straight about this. When I first started walking homeowners through solar economics, I undersold net metering hard. Mentioned it in passing, like a footnote. Big mistake. Because depending on where you live, the difference between a strong net metering policy and a weak one can shift your 25-year return by $15,000 to $30,000. Same panels. Same roof. Completely different financial outcome.
+Net metering deserves more attention than it often gets in solar discussions. Because depending on where you live, the difference between a strong net metering policy and a weak one can shift your 25-year return by $15,000 to $30,000. Same panels. Same roof. Completely different financial outcome.
 
 Let's dig into what this actually is, how the math works, and where the system's starting to crack.
 
@@ -108,7 +108,6 @@ The honest takeaway: net metering is genuinely good in many states and genuinely
 - [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -31,9 +31,7 @@ Most coverage of [solar panel](/how-many-kwh-does-a-solar-panel-produce-per-day/
 
 I've sat across from hundreds of homeowners who assumed higher efficiency automatically meant better value. It doesn't, always. The calculation is more specific than that, and I'll walk you through it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Monocrystalline panels lead at 20-23% efficiency; polycrystalline trails at 15-17%; thin-film averages 10-13%.</li><li style="margin:5px 0">Higher efficiency matters most when roof space is limited, not as a universal upgrade.</li><li style="margin:5px 0">TOPCon and heterojunction (HJT) panels now reach up to 24.5% efficiency with better temperature tolerance.</li><li style="margin:5px 0">A 400W monocrystalline panel costs roughly $0.80-$1.10 per watt; thin-film runs $0.50-$0.70 per watt.</li><li style="margin:5px 0">Efficiency degrades roughly 0.5% per year for premium panels vs. 0.7-0.8% for budget polycrystalline.</li></ul></div>
-
 
 ## The Main Types, Ranked by Performance
 
@@ -45,15 +43,11 @@ Three panel technologies dominate residential [solar right](/is-solar-right-for-
 
 **Thin-film** is a different animal entirely. Instead of silicon wafers, manufacturers deposit photovoltaic material (cadmium telluride, amorphous silicon, or CIGS) onto a substrate. First Solar's CdTe panels dominate the utility market, but residential thin-film remains niche. Efficiency of 10-13% means you need roughly twice the roof area for the same output. Where thin-film wins: flexibility, low degradation in extreme heat, and lower embodied energy in manufacturing. Where it loses: your house probably doesn't have the square footage to make the math work.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical Residential Panel Efficiency by Type (2026)</div><div class="sc-row"><span class="sc-label">Monocrystalline (standard)</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">21%</span></div><div class="sc-row"><span class="sc-label">Monocrystalline TOPCon</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">23%</span></div><div class="sc-row"><span class="sc-label">HJT (Heterojunction)</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Polycrystalline</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">16%</span></div><div class="sc-row"><span class="sc-label">Thin-Film (CdTe)</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">12%</span></div><div class="sc-src">Source: NREL 2026 Best Research-Cell Efficiency Chart (residential range)</div></div>
-
 
 ## The Full Comparison, Side by Side
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Current as of August 2026, based on installer pricing data from EnergySage's marketplace and NREL benchmarks:
 
@@ -70,7 +64,7 @@ A few things that table doesn't capture: HJT panels perform noticeably better th
 
 ## When Efficiency Actually Changes Your Decision
 
-Here's the thing most installers skip: [efficiency ratings](/solar-panel-efficiency-ratings-explained/) only matter if roof area is your constraint. I've seen homeowners in suburban Ohio with 800-square-foot south-facing roofs spend an extra $3,200 on high-efficiency panels when cheaper polycrystalline panels would have generated the same kilowatt-hours because they had room to add two more panels instead.
+[Efficiency ratings](/solar-panel-efficiency-ratings-explained/) only matter if roof area is your constraint. For example, a homeowner with an 800-square-foot south-facing roof might spend an extra $3,200 on high-efficiency panels when cheaper polycrystalline panels would generate the same kilowatt-hours, since there's room to add two more panels instead.
 
 The math that actually matters is cost per kilowatt-hour generated over the system's lifetime, not efficiency percentage.
 
@@ -82,7 +76,7 @@ Worked examples:
 
 **Scenario 3 (hot climate degradation, Phoenix):** HJT panels at $1.15/watt versus PERC at $0.92/watt for a 10 kW system, a $2,300 premium. Lower temperature coefficient on HJT yields roughly 7% more annual production in Phoenix's heat, about 1,100 extra kWh per year at $0.13/kWh local rate. That's $143/year. Payback on the HJT premium: 16 years. I'd take the PERC here unless you're planning to stay 25+ years.
 
-I made the mistake early in my career of recommending premium panels almost by default. A reader emailed me a few months back, frustrated that her installer had pushed HJT panels for a shaded, north-facing partial array in Oregon. HJT's temperature advantage is irrelevant when your problem is tree shade and bad orientation. No panel type fixes that.
+Premium panels get recommended for almost every install, but that's often a mistake. HJT's temperature advantage is irrelevant when your problem is tree shade and bad orientation. No panel type fixes poor site conditions.
 
 ## The New Tech Worth Watching
 
@@ -105,7 +99,6 @@ At -0.36%/°C and 40°C above baseline, a PERC panel is already outputting 14.4%
 - [Fraunhofer ISE Photovoltaics Report](https://www.ise.fraunhofer.de/): European research institute data on degradation rates and temperature coefficient comparisons
 
 ---
-
 
 *Photo: [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber) via Pexels*
 

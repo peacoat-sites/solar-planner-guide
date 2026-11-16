@@ -31,9 +31,7 @@ Let me be direct: Colorado is one of the best states in the country to go solar.
 
 This guide covers what actually matters for Colorado homeowners in 2026, with real numbers, not estimates dressed up to look precise.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Colorado averages 5.5 peak sun hours daily, among the top tier nationally for solar production.</li><li style="margin:5px 0">The federal ITC covers 30% of total system cost through 2032; Colorado adds no state income tax credit on top.</li><li style="margin:5px 0">Typical Colorado system (8-10 kW) costs $22,000-$28,000 before the ITC, or roughly $15,400-$19,600 after.</li><li style="margin:5px 0">Xcel Energy's net metering has changed: new solar customers get "avoided cost" rates, not full retail, so payback periods have lengthened.</li><li style="margin:5px 0">Hail is a genuine risk; confirm your installer uses IEC 61215 Class C panels and check your homeowner's insurance before signing.</li></ul></div>
-
 
 ## What Colorado Solar Actually Costs Right Now
 
@@ -41,7 +39,7 @@ As of July 2026, EnergySage's market data puts the average Colorado [solar insta
 
 Colorado itself doesn't offer a state solar income tax credit anymore (it expired in 2015 and was never reinstated, despite occasional legislative proposals). What the state does offer is a sales tax exemption on solar equipment and a property tax exemption that prevents your home's assessed value increase from raising your property taxes. Both are real money. The sales tax exemption alone saves you roughly $600-$900 on an average system.
 
-Utility rebates vary. Black Hills Energy customers can access modest rebates. Xcel Energy periodically runs programs through its Renewable*Connect and Solar*Rewards offerings, but availability changes. Check directly with your utility before an installer quotes you an incentive, because I've seen a few cases where the "rebate" the installer mentioned had already hit its cap for the year.
+Utility rebates vary. Black Hills Energy customers can access modest rebates. Xcel Energy periodically runs programs through its Renewable*Connect and Solar*Rewards offerings, but availability changes. Check directly with your utility before an installer quotes you an incentive, since rebate programs can hit their caps mid-year.
 
 Here's a realistic cost-and-payback comparison for a Denver homeowner versus two other Colorado profiles:
 
@@ -57,15 +55,13 @@ The Xcel scenario is the one that stings a little. Xcel's move away from full re
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I'm going to spend more time on this than most guides do, because it's the most underappreciated risk in Colorado solar.
 
 Colorado sits in the heart of hail alley. In May 2017, a single storm in the Denver metro caused over $2.3 billion in damage. Fort Collins, Colorado Springs, and the Front Range corridor all see multiple significant hail events per year. Solar panels are rated for hail impact under IEC 61215, with Class C being the most impact-resistant standard (tested at 2-inch hailstones at 88 mph).
 
 Most Tier 1 panels (REC, Qcells, Jinko Tiger Neo, SunPower) meet Class C. Some budget panels on the market do not. When I review installer proposals with clients, the first thing I check after panel efficiency is the hail rating. If the spec sheet doesn't explicitly state IEC 61215 Class C, I ask. If the installer can't answer, that's a red flag.
 
-Your homeowner's insurance is the other half of this equation. Some Colorado insurers have started excluding rooftop solar from standard HO-3 policies or applying separate deductibles. Before you finalize a contract, call your insurance agent and ask two specific questions: "Will my panels be covered under my current policy at replacement cost?" and "Does adding solar change my premium or deductible structure?" Get the answer in writing. I've seen post-installation surprises here that cost homeowners thousands.
+Your homeowner's insurance is the other half of this equation. Some Colorado insurers have started excluding rooftop solar from standard HO-3 policies or applying separate deductibles. Before you finalize a contract, call your insurance agent and ask two specific questions: "Will my panels be covered under my current policy at replacement cost?" and "Does adding solar change my premium or deductible structure?" Get the answer in writing, since coverage gaps and unexpected deductibles can become costly after installation.
 
 ## Net Metering, Xcel, and the Utilities Worth Knowing
 
@@ -77,9 +73,7 @@ Black Hills Energy (serves southern Colorado, including parts of Pueblo and the 
 
 I'll say something that might be obvious but bears stating: if you're in Xcel territory, battery storage starts making more financial sense than it did five years ago. If you can shift self-consumption to use your own solar power rather than exporting it at $0.08/kWh and buying it back at $0.15/kWh, that gap is essentially your battery's payback mechanism. A Tesla Powerwall 3 runs around $11,500 installed in Colorado today. The math doesn't pencil out for everyone, but for households with higher daytime consumption or interest in backup power (and given Colorado's weather, that interest is legitimate), it's worth modeling.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. peak sun hours by Colorado city</div><div class="sc-row"><span class="sc-label">Denver</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">5.5 hrs/day</span></div><div class="sc-row"><span class="sc-label">Colorado Springs</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">5.4 hrs/day</span></div><div class="sc-row"><span class="sc-label">Pueblo</span><span class="sc-track"><span class="sc-bar" style="width:97%"></span></span><span class="sc-val">5.6 hrs/day</span></div><div class="sc-row"><span class="sc-label">Fort Collins</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">5.3 hrs/day</span></div><div class="sc-row"><span class="sc-label">Grand Junction</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">5.8 hrs/day</span></div><div class="sc-row"><span class="sc-label">Durango</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">5.2 hrs/day</span></div><div class="sc-src">Source: NREL PVWatts 2025 data</div></div>
-
 
 ## Choosing an Installer: What Actually Differentiates Them
 
@@ -108,7 +102,6 @@ That range is real. Someone emailed me last fall after their system sat on their
 - [NABCEP Installer Certification](https://www.nabcep.org/): Verify contractor credentials before signing
 
 ---
-
 
 *Photo: [Lena Netkach](https://www.pexels.com/@lena-netkach-395486) via Pexels*
 

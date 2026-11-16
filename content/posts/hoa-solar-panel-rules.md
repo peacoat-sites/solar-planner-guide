@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You submitted your solar application to your HOA three weeks ago. You've done the research, gotten quotes, and you're excited. Then the letter comes back: *denied*. Or maybe you haven't applied yet, and you're wondering whether it's even worth the hassle. Either way, you're probably feeling somewhere between frustrated and confused, and you might be wondering whether your HOA actually has the legal authority to stop you.
 
-Here's the thing: in most of the country, they don't. But the details matter enormously, and getting this wrong can cost you time, money, and a genuinely bad neighbor relationship.
+In most of the country, they don't. But the details matter enormously, and getting this wrong can cost you time, money, and a genuinely bad neighbor relationship.
 
 ## What the Law Actually Says (And Why Your State Matters More Than Your HOA Rules)
 

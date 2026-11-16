@@ -44,8 +44,6 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) maintai
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Washington, Oregon, Michigan, Ohio, western New York. These are the states that come up constantly in reader emails with some version of "I've heard it's not worth it here."
 
 I'd push back on that, with numbers.
@@ -62,7 +60,7 @@ I'd push back on that, with numbers.
 
 (Costs reflect current market pricing as of July 2026, before the 30% federal Investment Tax Credit. Payback estimates assume average local electricity rates and net metering.)
 
-Ohio and Michigan payback periods of under 12 years look a lot better when you realize that electricity rates in those states have climbed 18-22% in the last four years. A longer payback on a lower-cost system, with rising rates, can actually outperform a shorter payback in a cheap-electricity state. I've seen this trip up homeowners who compare raw payback periods without factoring in local utility cost trends.
+Ohio and Michigan payback periods of under 12 years look a lot better when you realize that electricity rates in those states have climbed 18-22% in the last four years. A longer payback on a lower-cost system, with rising rates, can actually outperform a shorter payback in a cheap-electricity state. A common mistake is comparing raw payback periods without factoring in local utility cost trends.
 
 ## The Three Variables That Actually Determine Whether It's Worth It
 
@@ -80,7 +78,7 @@ Here's where equipment choice separates an okay system from a good one.
 
 Traditional string inverters chain your panels together. If one panel underperforms -- because a cloud shadow, a wet leaf, or a pigeon decided to sit on it -- the whole string drops to that panel's output level. In Phoenix, where most days are clear, this matters less. In Cleveland, where you're frequently dealing with partial cloud cover and variable conditions panel to panel, it matters a lot.
 
-Microinverters (Enphase is the dominant brand; IQ8 series is what most installers are deploying today) convert power at each individual panel. A shadow on one panel doesn't tank the others. In my experience working with cloudy-climate installs, microinverters typically recover 5-15% more production compared to string systems under the same conditions. That gap narrows in consistently sunny climates but widens in variable ones.
+Microinverters (Enphase is the dominant brand; IQ8 series is what most installers are deploying today) convert power at each individual panel. A shadow on one panel doesn't tank the others. In cloudy-climate installs, microinverters typically recover 5-15% more production compared to string systems under the same conditions. That gap narrows in consistently sunny climates but widens in variable ones.
 
 SolarEdge offers a middle-ground: string inverters with panel-level power optimizers. Similar shade tolerance to microinverters, slightly lower cost in most cases, with panel-level monitoring. Either approach beats a basic string inverter for cloudy climates.
 
@@ -104,9 +102,9 @@ And honestly? If your consumption is low -- say, under 400 kWh a month -- the sy
 
 Sarah in Tacoma, Washington, 2,100 sq ft home, 1,100 kWh/month average consumption. South-facing roof, no significant shading. Installed 9.6kW system with Enphase IQ8 microinverters, $22,400 before tax credit, $15,680 after the federal 30% ITC. First-year production: 9,800 kWh. Annual savings at $0.12/kWh local rate: $1,176. Estimated payback: 13.3 years. Decent, not spectacular. But Washington electricity rates have risen 15% in three years. She's looking at 10-11 years if that trend continues.
 
-A reader from Columbus, Ohio, emailed me after installing a 7.2kW system last spring. His utility (AEP Ohio) has strong net metering. System cost $17,600 before ITC, $12,320 after. With Ohio's average rate now at $0.15/kWh and climbing, he's projecting a 9-year payback. That's competitive with systems I'd spec in the Southwest.
+A 7.2kW system in Ohio with strong net metering (like AEP Ohio offers) costs around $17,600 before ITC, $12,320 after. With Ohio's average rate at $0.15/kWh and climbing, such a system projects a 9-year payback - competitive with systems in the Southwest.
 
-Worst case I've seen recently: homeowner in Olympia, Washington, west-facing roof with two large Douglas firs shading the south side. Installer sold them a 10kW string system anyway. First-year production was 40% below what was modeled. They're pursuing mediation now. That's not a cloudy-state solar problem -- it's a shading problem that got ignored because the sale was easier to close than the truth was to tell.
+For example: a west-facing roof with large trees shading the south side where a 10kW string system was installed anyway. First-year production was 40% below the model. That's not a cloudy-state solar problem - it's a shading problem that should have been addressed upfront.
 
 ## Sources
 
@@ -117,7 +115,6 @@ Worst case I've seen recently: homeowner in Olympia, Washington, west-facing roo
 - [Lawrence Berkeley National Laboratory "Tracking the Sun" Report](https://emp.lbl.gov/tracking-the-sun): Annual analysis of installed solar system pricing and characteristics
 
 ---
-
 
 ---
 

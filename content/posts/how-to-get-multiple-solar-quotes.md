@@ -25,7 +25,7 @@ author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
 lastmod: 2026-07-08
 ---
-Most homeowners get exactly one solar quote, fall in love with the shiny renderings the salesperson shows them, and sign a contract within a week. I've watched this happen more times than I can count. And I get it, the rep was friendly, the financing seemed easy, and honestly, who has time to shop around? But that one-quote mistake routinely costs people $5,000 to $15,000 over the life of a system. I've seen the invoices. The spread between what different installers charge for the exact same system, same panel brand, same inverter, same roof complexity, can be $8,000 or more on a typical 8 kW install.
+Most homeowners get exactly one solar quote and sign a contract within a week. This one-quote mistake routinely costs people $5,000 to $15,000 over the life of a system. The spread between what different installers charge for the exact same system, same panel brand, same inverter, and same roof complexity can be $8,000 or more on a typical 8 kW install.
 
 Getting multiple quotes isn't just about finding the cheapest price. It's about understanding what you're actually buying.
 
@@ -81,7 +81,7 @@ I had a reader email me last year who got quotes from four installers. Three of 
 
 Roof condition is another one. A reputable installer will flag if your roof is aging and recommend you reroof before going solar, because pulling panels off a 5-year-old system to replace deteriorated shingles underneath costs $2,000 to $5,000 in extra labor. Some installers don't mention it because bringing up additional costs can lose the sale. If two out of four installers mention your roof, take that seriously.
 
-And battery storage, if you're interested in a backup battery? Definitely get multiple quotes. The markup variability on systems like the Tesla Powerwall 3 or Enphase IQ Battery 5P is enormous. I've seen Powerwall 3 quotes ranging from $12,000 to $18,000 installed for the same hardware.
+And battery storage, if you're interested in a backup battery? Definitely get multiple quotes. The markup variability on systems like the Tesla Powerwall 3 or Enphase IQ Battery 5P is enormous, with installed prices varying significantly depending on the installer.
 
 One more thing: the goal isn't the lowest price. It's the best value from a company that'll still be answering your calls in year 12 when something needs attention. Price shopping aggressively will get you there faster than any other single step you can take.
 
@@ -92,7 +92,6 @@ One more thing: the goal isn't the lowest price. It's the best value from a comp
 - [Emporia Vue 3](https://www.amazon.com/dp/B0C8X1D64M?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

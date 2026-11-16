@@ -42,8 +42,6 @@ That distinction sounds simple. The real-world consequences are not.
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Cost, first. A string inverter system typically runs $1,000 to $1,500 less in equipment costs on an average residential install compared to microinverters. On a 10kW system, that gap matters. EnergySage's marketplace data consistently shows string inverter quotes coming in lower, and for straightforward installs on south-facing roofs with no shading, that price difference buys you nothing in return if you go micro.
 
 String inverters are also easier to service. When something goes wrong, it's one box. A competent electrician can diagnose it, and replacement units are stocked by most solar distributors. SMA's Sunny Boy and SolarEdge's HD Wave series carry 12-year warranties, extendable to 20 or 25. That's a real number, not a formality.
@@ -52,7 +50,7 @@ The efficiency argument used to favor string inverters heavily. That gap has nar
 
 ## Where Microinverters Win (and It's Significant)
 
-Shading is the one. If anything casts a shadow on any part of your roof during peak sun hours, a string inverter punishes you more than you'd expect. Because panels are wired in series, the output of the entire string drops to match the weakest panel. One shaded panel doesn't just lose its own production, it drags the whole string down. On a shaded roof, I've seen string-inverter systems underperform by 20-30% compared to what the design predicted.
+Shading is the one. If anything casts a shadow on any part of your roof during peak sun hours, a string inverter punishes you more than you'd expect. Because panels are wired in series, the output of the entire string drops to match the weakest panel. One shaded panel doesn't just lose its own production, it drags the whole string down. On a shaded roof, string-inverter systems can underperform by 20-30% compared to design predictions.
 
 Microinverters don't have this problem. Each panel works independently at its own maximum power point. The shaded one underperforms; the rest don't care.
 
@@ -88,7 +86,6 @@ The [Solar Energy Industries Association](https://www.seia.org/) reports that mi
 
 ---
 
-
 ---
 
 ## Sources
@@ -98,7 +95,6 @@ The [Solar Energy Industries Association](https://www.seia.org/) reports that mi
 - [Solar Energy Industries Association](https://www.seia.org/)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

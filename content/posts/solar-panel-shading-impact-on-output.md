@@ -64,7 +64,7 @@ If you have significant shading on more than 10-15% of your roof area, microinve
 
 Most installers use software like Aurora Solar or PVWatts during the site assessment. These tools pull in satellite imagery and model shadows based on sun position at your latitude across the full year. They're decent, not perfect.
 
-The real problem is winter sun angles. A tree that clears your panels fine in July might cast a long shadow across three rows from November through February, precisely when [your production is already lowest](/do-solar-panels-work-in-winter/). I've seen shading analyses done during a summer site visit that completely missed a 40-foot pine that was a serious issue for six months of the year.
+The real problem is winter sun angles. A tree that clears your panels fine in July might cast a long shadow across three rows from November through February, precisely when [your production is already lowest](/do-solar-panels-work-in-winter/). Shading analyses done during a summer site visit can miss trees that become problematic in winter, when lower sun angles create long shadows across panels for months.
 
 If you want to check this yourself before any installer shows up, the [Sunpath app](https://www.solardesigntool.com) and the Solar Pathfinder tool are both respected options. The Solar Pathfinder (around $250 on Amazon, [check current price here](https://www.amazon.com/s?k=solar+pathfinder&tag=contentportfo-20)) is the old-school physical instrument that lets you photograph the full sky obstruction at each panel location. It's what serious installers use on complex sites. Renting one from a local solar training program is an option if you don't want to buy.
 
@@ -91,7 +91,6 @@ Without panel-level monitoring, you're flying blind. The Emporia Vue ([around $7
 - [check current price here](https://www.amazon.com/s?k=solar+pathfinder&tag=contentportfo-20)
 - [around $70 on Amazon](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

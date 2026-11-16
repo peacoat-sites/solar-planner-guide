@@ -35,7 +35,7 @@ If blackout protection is why you're considering solar, you need to understand w
 
 When your grid-tied solar system detects an outage, it disconnects from the utility grid within milliseconds. A battery backup system adds the critical piece: an automatic transfer switch that isolates your home from the grid and lets your solar plus battery combination operate as a self-contained microgrid.
 
-Your panels charge the battery during the day. The battery powers your home when the sun isn't shining or when the grid goes down. A hybrid inverter manages the flow of electricity between panels, battery, storage, and your home's loads. When it's set up correctly, the whole process is seamless. A well-configured system switches over in less than 20 milliseconds, fast enough that most electronics don't even notice.
+Your panels charge the battery during the day. The battery powers your home when the sun isn't shining or when the grid goes down. A hybrid inverter manages the flow of electricity between panels, battery, storage, and your home's loads. A well-configured system switches over in less than 20 milliseconds, fast enough that most electronics don't even notice.
 
 The key distinction is between "whole home backup" and "partial home backup." Whole home backup means your battery can theoretically run everything: HVAC, water heater, EV charger, refrigerator, all of it. Partial backup means you've designated specific critical circuits, typically lights, refrigerator, a few outlets, and maybe a medical device, that the battery will protect. Whole home backup sounds better. It also drains batteries fast and requires significantly more storage capacity and a more complex installation.
 
@@ -67,7 +67,7 @@ The 30% federal Investment Tax Credit (ITC) now applies to standalone battery st
 
 Here's the hard part: [batteries don't save you money](/solar-battery-storage-worth-it/) the way solar panels do. Their financial value comes from three places: time-of-use arbitrage (charging cheap, discharging during peak rate hours), demand charge reduction for homes on those rate structures, and backup value, which is real but hard to quantify on a spreadsheet.
 
-I've seen clients in areas with frequent outages treat the [battery cost almost like insurance](/off-grid-solar-battery-system-cost/). If you lose $3,000 worth of inventory in a home-based business during a single extended outage, the math shifts quickly. If you're in Phoenix with reliable grid power and no time-of-use rates, the financial case for batteries is weaker.
+For those in areas with frequent outages, the [battery cost can look almost like insurance](/off-grid-solar-battery-system-cost/). If you lose $3,000 worth of inventory in a home-based business during a single extended outage, the math shifts quickly. If you're in Phoenix with reliable grid power and no time-of-use rates, the financial case for batteries is weaker.
 
 ## Comparing the Top Home Battery Systems
 
@@ -121,7 +121,6 @@ The decision to add battery backup isn't really about solar. It's about how much
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

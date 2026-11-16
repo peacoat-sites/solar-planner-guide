@@ -48,8 +48,6 @@ There's also a counterintuitive effect that I always mention: solar panels actua
 
 > **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I want to slow down, because this is the number most homeowners never see but should demand before signing anything.
 
 Peak sun hours measure the total solar energy hitting a surface per day, expressed as the number of equivalent hours of full 1000 W/m² sunlight. It's not the same as daylight hours. A 16-hour partly cloudy day might yield 3.5 peak sun hours. A 10-hour clear desert day might yield 6.5.
@@ -68,7 +66,7 @@ Standard polycrystalline panels are fine in high-sun climates where direct irrad
 
 [Microinverters also matter](/microinverters-vs-string-inverter/) more in cloudy climates than most people realize. String inverters are vulnerable to the "Christmas light effect": if one panel gets shading or performs poorly (say, a cloud bank covering one side of the roof), it drags down the output of the entire string. Microinverters from Enphase, or power optimizers from SolarEdge, let each panel operate independently. In a climate where partial shading from clouds or trees is routine, this can recover 5-15% of annual production compared to a basic string setup. That's not nothing.
 
-If you want to monitor your system's performance in real time and catch underperformance early, a device like the [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) is an inexpensive way to track production and consumption at the circuit level. (The site may earn a commission on that link.) I've seen homeowners go months with a poorly performing panel before catching it on their utility bill. Real-time monitoring fixes that.
+If you want to monitor your system's performance in real time and catch underperformance early, a device like the [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) is an inexpensive way to track production and consumption at the circuit level. (The site may earn a commission on that link.) Without real-time monitoring, a poorly performing panel can go unnoticed for months until it shows up on the utility bill. Real-time monitoring fixes that.
 
 ## The Honest Case Against Solar in Certain Cloudy Climates
 
@@ -81,7 +79,6 @@ The cases where I tell people to hold off: flat or low-pitch roofs that collect 
 Know your own numbers before you're sitting in front of a salesperson.
 
 ---
-
 
 ---
 
@@ -96,7 +93,6 @@ The honest version of this conversation is that cloudy climate solar is real and
 - [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

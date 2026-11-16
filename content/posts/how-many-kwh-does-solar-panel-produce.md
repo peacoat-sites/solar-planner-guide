@@ -31,9 +31,7 @@ Here's what actually matters: a 300-watt panel doesn't produce 300 watts every h
 
 A single 400-watt residential panel (the current standard size as of July 2026) typically produces somewhere between 400 and 600 kWh per year, depending on where you live and how your roof is oriented. A typical home system of 8 to 12 panels generates roughly 9,000 to 12,000 kWh annually, which is in the ballpark of average U.S. household consumption. But "typical" is doing a lot of work in that sentence, and the variation is enormous.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A single 400W panel produces roughly 400–600 kWh per year depending on location and tilt.</li><li style="margin:5px 0">An average 8–10 kW home system generates 9,600–14,000 kWh annually in most U.S. climates.</li><li style="margin:5px 0">Peak Sun Hours (PSH) is the single biggest variable, Phoenix gets ~6.5 PSH, Seattle gets ~3.5.</li><li style="margin:5px 0">Panel efficiency matters less than installers imply; location and shading dominate real-world output.</li><li style="margin:5px 0">Use NREL's PVWatts calculator for a free, address-specific production estimate before signing anything.</li></ul></div>
-
 
 ## The Math Behind the Number
 
@@ -49,17 +47,13 @@ The same panel in Seattle (3.5 peak sun hours):
 
 Nearly double the output from the same hardware. That's why "how much does solar produce?" is fundamentally a geography question before it's a technology question.
 
-I made the mistake early in my consulting work of quoting production numbers to clients in Chicago using California benchmarks. A homeowner named Marcus called me out on it after his first year of monitoring data showed 22% less output than my projection. He wasn't wrong to be annoyed. Peak sun hours by city is the number to pin down first, and I've been obsessive about it ever since.
+A common mistake is quoting production numbers using benchmarks from a different region. For example, using California peak sun hours to project output in Chicago can lead to overestimated results. Peak sun hours by city is the number to pin down first.
 
 ## Peak Sun Hours by Region
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average Peak Sun Hours Per Day by City</div><div class="sc-row"><span class="sc-label">Phoenix, AZ</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">6.5 hours</span></div><div class="sc-row"><span class="sc-label">Denver, CO</span><span class="sc-track"><span class="sc-bar" style="width:85%"></span></span><span class="sc-val">5.5 hours</span></div><div class="sc-row"><span class="sc-label">Dallas, TX</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">5.2 hours</span></div><div class="sc-row"><span class="sc-label">Chicago, IL</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">4.4 hours</span></div><div class="sc-row"><span class="sc-label">New York, NY</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">4.1 hours</span></div><div class="sc-row"><span class="sc-label">Seattle, WA</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">3.5 hours</span></div><div class="sc-src">Source: NREL National Solar Radiation Database</div></div>
-
 
 These aren't abstractions. That gap between Phoenix and Seattle translates directly to dollars. A 10-panel, 4,000-watt system in Phoenix produces roughly 7,584 kWh/year. The same system in Seattle produces about 4,088 kWh/year. If your utility charges $0.15/kWh, that's a $527 annual difference in bill offset, year after year, for 25 years.
 
@@ -113,7 +107,6 @@ If you want to monitor your own system's output in real time, a device like the 
 - U.S. Energy Information Administration (EIA), 2025 Residential Energy Consumption Survey: Average U.S. household electricity consumption (~10,500 kWh/year)
 
 ---
-
 
 *Photo: [K](https://www.pexels.com/@kelly) via Pexels*
 

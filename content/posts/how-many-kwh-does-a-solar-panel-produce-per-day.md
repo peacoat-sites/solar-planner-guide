@@ -29,7 +29,6 @@ Most homeowners I talk to guess somewhere between 1 and 100 kWh per day for a si
 
 Here's the honest answer: a standard residential solar panel today will produce somewhere between **1.5 and 2.5 kWh per day**, on average, over a full year. But that number is doing a lot of work, and understanding what pulls it up or down is what will actually help you size a system for your home. So let's slow down and look at how that number gets built.
 
-
 <div class="value-module">
  <div class="vm-head">Daily Output by City and Panel Size</div>
  <div class="vm-body">
@@ -89,7 +88,7 @@ Here's what I tell people asking about individual panel output: the per-panel nu
 
 The average American household used about 10,500 kWh in 2022, according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/). That's roughly 29 kWh per day. If your location gives you 1.5 kWh per panel per day, you'd need about 20 panels. If you're somewhere sunnier getting 2.0 kWh per panel, 15 panels might cover it.
 
-Most people I've worked with don't have average usage though. High-EV families, older HVAC systems, electric water heaters, home offices. It all shifts the number. Pull your last 12 months of utility bills before you talk to any installer. [EnergySage's market data](https://news.energysage.com/) shows that homeowners who show up with their own consumption data get more accurate quotes and don't get oversold.
+Most households don't have average usage. High-EV families, older HVAC systems, electric water heaters, and home offices all shift the number. Pull your last 12 months of utility bills before you talk to any installer. [EnergySage's market data](https://news.energysage.com/) shows that homeowners who show up with their own consumption data get more accurate quotes and don't get oversold.
 
 Here's a quick formula that gets you in the ballpark:
 
@@ -130,7 +129,6 @@ If you're in the early research phase, the per-panel output question deserves a 
 - [Emporia Vue 2](https://www.amazon.com/Emporia-Monitor-Circuit-Electricity-Metering/dp/B08CJGPHL9?tag=contentportfo-20)
 - [Sense Home Energy Monitor](https://www.amazon.com/Sense-Energy-Monitor-Electricity-Usage/dp/B01NB3BXKY?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

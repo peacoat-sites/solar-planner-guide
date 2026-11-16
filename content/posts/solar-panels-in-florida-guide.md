@@ -31,7 +31,7 @@ It's the utility companies.
 
 ## Why Florida Is a Good-But-Complicated Solar State
 
-Florida ranks 3rd in the country for installed solar capacity, according to SEIA data, with over 12 gigawatts of residential and commercial solar installed as of 2024. The sun is real. The savings potential is real. But Florida's [net metering policy](/net-metering-changes-by-state/) is, politely speaking, a work in progress, and a lot of homeowners find that out after they've already signed a contract.
+Florida ranks 3rd in the country for installed solar capacity, according to SEIA data, with over 12 gigawatts of residential and commercial solar installed as of 2024. But Florida's [net metering policy](/net-metering-changes-by-state/) is, politely speaking, a work in progress, and many homeowners discover this after signing a contract.
 
 Here's the short version: Florida eliminated its original 1:1 net metering policy in 2022. The new framework, called "net metering 2.0," means that when your panels produce more electricity than you use and that excess goes back to the grid, you get credited at a lower rate than what you pay for electricity. FPL (Florida Power & Light), which serves about 5.8 million customers, pays avoided-cost rates for surplus power that are substantially below retail. Duke Energy Florida works the same way.
 
@@ -108,7 +108,6 @@ The sun in Florida is genuinely exceptional. Nearly 5.5 peak sun hours per day i
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - [Florida Solar Fix](https://www.pexels.com/@florida-solar-fix-2154752009)
 - puts the average installed cost for a residential solar system at around $2
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

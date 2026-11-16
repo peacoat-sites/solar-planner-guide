@@ -62,13 +62,13 @@ SunPower's Maxeon cells use a back-contact design that puts metal contacts on th
 
 That matters on a small roof. If you're space-constrained and need to maximize watts per square foot, the efficiency premium is real. If you have a large south-facing roof with plenty of space, standard panels from Q Cells, REC, or Panasonic will serve you just as well for considerably less money.
 
-Tesla's panels are fine. That's not a slight. Hanwha Q Cells makes solid, warranted, bankable panels that'll generate power for decades. The efficiency is around 19.8-20.6% depending on the model, which is respectable. The inverter Tesla uses is a string inverter with a power optimizer option, not microinverters. For complex roofs with shading, that matters. A reader emailed me last month asking why his Tesla system was underperforming: he had a tree shading one corner of his array, and with a string inverter setup, the underperforming panels dragged down the whole string. A microinverter system (like Enphase) handles that situation much better.
+Tesla's panels are fine. That's not a slight. Hanwha Q Cells makes solid, warranted, bankable panels that'll generate power for decades. The efficiency is around 19.8-20.6% depending on the model, which is respectable. The inverter Tesla uses is a string inverter with a power optimizer option, not microinverters. For complex roofs with shading, that matters. For example, if a tree shades one corner of an array, a string inverter setup means the underperforming panels drag down the whole string. A microinverter system (like Enphase) handles that situation much better.
 
 Sunrun doesn't manufacture panels. They install whatever tier-1 equipment they're sourcing at the time, often SunPower Maxeon panels on higher-tier packages, or more mainstream panels like LG (before LG exited the market) or Canadian Solar on standard packages. The lack of a fixed hardware story is both honest and frustrating. Make sure you get the actual equipment specs in writing before you sign anything.
 
 ## The Warranty and Longevity Problem
 
-A warranty is only as good as the company standing behind it. SunPower has been around since 1985 and has manufacturing operations invested in long-term stability. That said, they went through significant financial restructuring and a split (SunPower separated its dealer business from its manufacturing unit, which became Maxeon Solar Technologies, a publicly traded company headquartered in Singapore). The integrated warranty story is now more complicated. Worth asking your SunPower dealer specifically who is backing the warranty and how claims work.
+A warranty depends on the company's ability and willingness to honor claims. SunPower has been around since 1985 and has manufacturing operations invested in long-term stability. That said, they went through significant financial restructuring and a split (SunPower separated its dealer business from its manufacturing unit, which became Maxeon Solar Technologies, a publicly traded company headquartered in Singapore). The integrated warranty story is now more complicated. Worth asking your SunPower dealer specifically who is backing the warranty and how claims work.
 
 Sunrun as a company is large and relatively well-capitalized, but their lease-model customers are dependent on Sunrun's corporate health for the life of the contract. If Sunrun is acquired or restructures (both have happened in various forms across the solar industry in the past decade), your lease terms follow the company, not the installer who put the panels up. Read every line of the contract.
 
@@ -93,7 +93,6 @@ If you want to monitor any system's actual performance yourself (rather than rel
 - [Emporia Vue](https://www.amazon.com/dp/B08CJGPHL9?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -25,7 +25,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 lastmod: 2026-07-08
 ---
-You're three weeks from closing on your house sale, the buyers are excited, and then your real estate agent drops a bomb: the solar panels on your roof aren't yours. You've been paying a monthly lease to a solar company for the past six years, and now that lease has to go somewhere. The buyers didn't budget for it, they don't fully understand it, and your closing date is suddenly in jeopardy. I've seen this exact situation derail more home sales than most people expect, and it's almost always preventable if you know what's coming.
+You're three weeks from closing on your house sale, the buyers are excited, and then your real estate agent drops a bomb: the solar panels on your roof aren't yours. You've been paying a monthly lease to a solar company for the past six years, and now that lease has to go somewhere. The buyers didn't budget for it, they don't fully understand it, and your closing date is suddenly in jeopardy. This situation can derail home sales, but it's almost always preventable if you know what's coming.
 
 Transferring a [solar lease](/is-solar-lease-worth-it/) is one of the most misunderstood parts of selling a solar home. It's not like transferring a warranty. It involves a third-party financing company, a credit check on your buyers, and paperwork timelines that do not care about your closing date. Here's what you actually need to know.
 
@@ -51,7 +51,7 @@ The transfer process varies by company, but the general sequence looks like this
 
 **Step 2: Disclose the lease to potential buyers upfront.** Your listing agent should include the lease details in the listing. Monthly payment, remaining term, escalator rate, and any buyout options. Buyers who see this information for the first time at closing are buyers who feel blindsided, and that's when deals fall apart.
 
-**Step 3: The buyer submits a credit application.** Most solar companies have an online portal for this. The buyer fills out the application, and the leasing company reviews it, usually within 5 to 10 business days, though I've seen it take longer during high-volume periods.
+**Step 3: The buyer submits a credit application.** Most solar companies have an online portal for this. The buyer fills out the application, and the leasing company reviews it, usually within 5 to 10 business days, though review times can extend during high-volume periods.
 
 **Step 4: If approved, both parties sign a transfer agreement.** This is a legal document reassigning the lease obligation from you to the buyer. Read it carefully. Make sure it addresses who's responsible for any unpaid balance from your time as leaseholder.
 
@@ -70,11 +70,11 @@ Typical timeline: 2 to 6 weeks. Start this process before you list, not after yo
 | Remove panels | 1-2 weeks | $500-$3,000 | System no longer available; may reduce home value |
 | Negotiate buyer credit or closing cost | Concurrent with sale | $2,000-$4,000 credit | Offsets buyer's lease burden; negotiable between parties |
 
-Most solar leasing companies charge a transfer fee. It's often between $150 and $500, though I've seen higher. Who pays it? That's negotiable, but in most markets, it falls on the seller. Factor it into your selling costs alongside your commission and transfer taxes.
+Most solar leasing companies charge a transfer fee. It's often between $150 and $500, though some companies charge more. Who pays it? That's negotiable, but in most markets, it falls on the seller. Factor it into your selling costs alongside your commission and transfer taxes.
 
 The bigger financial question is the lease escalator. Many solar leases include an annual rate increase, typically 1% to 3% per year. If your buyer is inheriting a lease that started at $85 per month but has been escalating for eight years, they might be taking on $102 or more per month, with more increases to come. That's a real cost they need to understand and you need to disclose clearly.
 
-Some buyers will ask you to buy down the lease or offer a closing cost credit to offset it. That's a legitimate negotiation point. I've had clients offer a $2,000 to $4,000 credit at closing to make a lease-inherited solar system more attractive to buyers who were on the fence.
+Some buyers will ask you to buy down the lease or offer a closing cost credit to offset it. That's a legitimate negotiation point. Some sellers offer a $2,000 to $4,000 credit at closing to make a lease-inherited solar system more attractive to buyers who are hesitant.
 
 If the lease includes a buyout option, get the current payoff quote from the company before listing. Buyout amounts can range from $15,000 to $30,000 or more depending on system size, age, and contract terms. Buying out the lease and marketing the system as owned outright is sometimes the cleaner path, especially in competitive markets where buyers want simplicity.
 
@@ -131,7 +131,6 @@ The good news is that thousands of solar-leased homes sell every year without ma
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Roman Biernacki](https://www.pexels.com/@szafran)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

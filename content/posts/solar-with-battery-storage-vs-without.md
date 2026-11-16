@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You finally get your first electric bill after going solar. You were expecting something close to zero. Instead, it's $94. You call your installer confused, and they explain that yes, your panels are producing power, but you're still drawing from the grid every evening when the sun goes down. You didn't add a battery. And now, six months in, you're wondering if you made the right call.
 
-I've had this conversation more times than I can count. Battery storage is one of the most misunderstood parts of going solar, and most installers either oversell it or barely mention it. The honest answer is: a battery isn't always worth it, but sometimes it absolutely is. Let's actually break down what the difference looks like in real life.
+Battery storage is one of the most misunderstood parts of going solar, and many installers either oversell it or barely mention it. The honest answer is: a battery isn't always worth it, but sometimes it absolutely is. Here's how to evaluate whether a battery makes sense for your situation.
 
 ---
 
@@ -128,7 +128,6 @@ The battery question doesn't have a universal answer, but it has a right answer 
 - [home energy monitor like the Emporia Vue 2](https://www.amazon.com/s?k=emporia+vue+2+energy+monitor)
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

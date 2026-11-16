@@ -29,7 +29,6 @@ Most solar battery articles will tell you to expect "10 to 15 years" and stop th
 
 So here's what those lifespan numbers actually mean, what kills batteries early, and which ones are genuinely worth the money.
 
-
 <div class="value-module">
  <div class="vm-head">Battery Degradation Factors: Impact Comparison</div>
  <div class="vm-body">
@@ -81,7 +80,7 @@ If you want to watch your battery's real-time state of health rather than waitin
 
 For most residential batteries, no. LFP batteries don't require electrolyte checks, equalization charges, or periodic maintenance like older lead-acid systems demanded. The BMS handles most of the work.
 
-What does matter: software updates. Tesla, Enphase, and Franklin all push firmware updates that refine charge management algorithms and sometimes directly improve cycle life estimates. Keep your app updated and your system connected to wifi. I've seen homeowners who installed and essentially forgot about their battery for three years, then called asking why performance had dropped. The answer was a missed software update that the manufacturer had released to address exactly that issue.
+What does matter: software updates. Tesla, Enphase, and Franklin all push firmware updates that refine charge management algorithms and sometimes directly improve cycle life estimates. Keep your app updated and your system connected to wifi. A common problem: systems that go years without software updates can see performance drops that a manufacturer update would have prevented.
 
 Physical installation quality matters a lot at the start. A poorly torqued connection, inadequate ventilation, or a mounting location that traps heat will cause problems no firmware update can fix. This is one of the stronger arguments for using an experienced installer instead of just the cheapest quote you can find.
 
@@ -102,7 +101,6 @@ It also means being talked into a premium product today partly on longevity grou
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

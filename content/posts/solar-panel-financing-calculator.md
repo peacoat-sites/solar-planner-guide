@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-You're about to spend $25,000 to $40,000 on something you don't fully understand yet. That's not a criticism. That's just the reality of most solar decisions, and I say it because the financing piece is where I've watched smart, careful people make mistakes that cost them thousands over the life of a loan.
+You're about to spend $25,000 to $40,000 on something you don't fully understand yet. The financing piece is where mistakes often cost thousands over the life of a loan.
 
 Let me walk you through how a solar panel financing calculator actually works, what the numbers mean, and, more importantly, what those calculators won't tell you.
 
@@ -52,8 +52,6 @@ The most common mistake I see is people focusing only on that monthly payment nu
 | Scenario 2: ITC applied to principal | $32,000 | $9,600 | $22,400 | 12 years | 5.49% | $205 | $7,800 | 7 years | +$11,000 |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me run a real scenario. A homeowner in Phoenix, Arizona, with an average monthly bill of $220 is looking at a 10-kilowatt system quoted at $32,000 installed.
 
@@ -107,7 +105,7 @@ Run it three times with three different assumptions:
 
 If solar pencils out in the conservative case, it's a genuinely strong decision for your house. If it only works in the optimistic case, you're betting on future utility rate increases you can't control. That's not necessarily a bad bet. Just be clear-eyed about what you're doing.
 
-I thought for years that the payback period was the key number. I was wrong. Total cost of ownership (purchase price plus all interest, minus all savings over 25 years) is the number. Payback period is a useful gut check, but it ignores what happens in years 11 through 25, which is where the real money is.
+A common mistake is focusing on payback period as the key number. Total cost of ownership (purchase price plus all interest, minus all savings over 25 years) is the number. Payback period is a useful gut check, but it ignores what happens in years 11 through 25, which is where the real money is.
 
 ---
 
@@ -120,7 +118,6 @@ I thought for years that the payback period was the key number. I was wrong. Tot
 - [EIA Electric Power Monthly](https://www.eia.gov/electricity/monthly/): Historical and current U.S. residential electricity rate data
 
 ---
-
 
 ---
 

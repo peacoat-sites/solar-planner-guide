@@ -69,7 +69,7 @@ At an average retail rate of $0.16 per kWh, that's approximately $1,680 in annua
 
 Now stretch that over the 25-year warranted lifespan of a solar panel system, with electricity rates rising at their historical average of about 2.5% per year, and the lifetime savings climb well past $50,000 for many homeowners in states with strong net metering.
 
-In my experience working with homeowners in high-rate states like Massachusetts and Connecticut, where retail electricity can hit $0.22 to $0.28 per kWh, the net metering math is even more compelling. Every kilowatt-hour exported is worth more, so the payback period on a system shrinks noticeably.
+In high-rate states like Massachusetts and Connecticut, where retail electricity can hit $0.22 to $0.28 per kWh, the net metering math is even more compelling. Every kilowatt-hour exported is worth more, so the payback period on a system shrinks noticeably.
 
 The flip side: in a state where your utility only credits exports at $0.04 per kWh, maximizing self-consumption becomes critical. If you're running a dishwasher and EV charger at noon when your panels are peak-producing, you're consuming that electricity yourself at full retail value instead of exporting it for pennies.
 
@@ -124,7 +124,6 @@ Net metering is genuinely one of the most powerful financial tools available to 
 - [The U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

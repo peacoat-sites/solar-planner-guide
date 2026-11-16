@@ -32,15 +32,13 @@ But here's what I want you to understand before we get into the numbers: solar p
 
 ## What You're Actually Comparing
 
-When people say "solar for backup," they almost always mean a solar-plus-battery system. Panels alone don't give you backup power during an outage. (This surprises a lot of people. I've had homeowners call me frustrated, saying their solar system went dead during a grid outage, even though the sun was shining. That's a safety feature, not a malfunction. Grid-tied inverters shut down automatically so utility workers aren't electrocuted by your panels feeding power back into downed lines.) So the real comparison is: solar + battery storage vs. a standalone generator.
+When people say "solar for backup," they almost always mean a solar-plus-battery system. Panels alone don't give you backup power during an outage. (Many homeowners are surprised to learn that their solar system goes offline during a grid outage, even when the sun is shining. That's a safety feature, not a malfunction. Grid-tied inverters shut down automatically so utility workers aren't electrocuted by your panels feeding power back into downed lines.) So the real comparison is: solar + battery storage vs. a standalone generator.
 
 Those are genuinely different animals. A generator is a fuel-burning engine. A solar-battery system is an energy storage device that gets recharged by sunlight. Both can keep your lights on when the grid goes down. The similarities stop there pretty quickly.
 
 ## The Cost Picture (And Why It's Complicated)
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me put some real numbers on the table, because the range here is enormous and the vagueness in most articles is unhelpful.
 
@@ -63,7 +61,7 @@ Here's where I'm going to be a little contrarian, because the solar industry lov
 
 You need a lot of power for a long time. A whole-home standby generator running on a natural gas line has effectively unlimited runtime. If you're in an area that loses power for days or weeks (think ice storms in the Southeast, or extended grid failures in rural areas), a generator connected to the gas line keeps going as long as gas is flowing to your neighborhood. A solar battery system, by contrast, is a finite tank. A single Tesla Powerwall 3 holds 13.5 kWh. The average American home uses about 29 kWh per day according to EIA data. You do the math. Two batteries gets you closer, but a string of cloudy winter days can still drain them.
 
-I tested this mentally with a family I consulted for outside Asheville, North Carolina. They'd lost power for five days during a winter storm. They had a south-facing roof with good solar potential, but their loads were heavy and they had a well pump. I told them honestly: one battery won't cut it for five-day outages in December. A standby generator on propane made more sense for their situation, even though I'm a solar person.
+For example, a home with heavy loads like a well pump and limited battery storage may not survive a five-day winter outage on solar and battery alone. In such cases, a standby generator on propane could be the practical choice.
 
 **Solar plus battery wins** when:
 
@@ -98,7 +96,6 @@ If you want to track your energy use and figure out exactly what loads matter mo
 - [Tesla Powerwall 3 Product Specifications](https://www.tesla.com/powerwall): Capacity, output, and warranty details referenced in cost comparisons
 
 ---
-
 
 ---
 

@@ -26,13 +26,13 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-The first time I sat down to size a battery bank for my own home, I stared at my utility bill for about twenty minutes waiting for it to tell me the answer. It didn't. Nobody tells you that the math here is backwards from what you'd think.
+Sizing a battery bank requires understanding that the math works backwards from what most people expect.
 
 Most people assume you size a battery based on how much power you use. That's wrong. You size it based on what you want the battery to do for you during the hours when your panels aren't producing. And those two things, total consumption and useful battery capacity, are wildly different numbers. I'll be honest: this is where a lot of homeowners get blindsided.
 
 ## What Your Battery Actually Needs to Cover
 
-Here's the thing that surprised me about battery sizing: it's not about your daily electricity use. It's about your *night* electricity use, or more precisely, your electricity use during grid-down hours.
+Battery sizing depends on your *night* electricity use, or more precisely, your electricity use during grid-down hours.
 
 Say you use 30 kilowatt-hours (kWh) per day. That sounds like you need a 30 kWh battery, right? Wrong. Your solar panels are generating during the day and feeding you electricity while the sun's up. Your battery only needs to cover the gap. If you use 8 kWh between sunset and sunrise, that's what your battery's actually working. Add a safety buffer (you don't want to drain a lithium battery to zero), and you're probably looking at a 10-12 kWh battery, not 30 kWh.
 
@@ -50,8 +50,6 @@ This distinction cost me about $15,000 in a conversation I overheard last year. 
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let me walk you through how to get real numbers, because this isn't complicated once you stop guessing.
 
 First, get your hourly usage data. Your utility company should have it (ask them, or log into your online account). Most utilities now show granular data in their portals. If yours doesn't, ask for it explicitly. Some still make you call, which is infuriating, but it's worth the phone call.
@@ -60,7 +58,7 @@ Look at your usage from, say, 6 PM to 6 AM on a typical winter night. Winter mat
 
 Add that number up. Let's say it's 9 kWh on a winter night. That's your baseline. Now here's where most people under-buy: add in anything that's seasonal or unusual. Do you have a sump pump that kicks on during heavy rain? An EV you want to charge at home? A furnace that draws power? Those all add up.
 
-I tested this math on a house in Pennsylvania last year. Their winter night usage was 8.2 kWh. But they had a 3-ton heat pump (which uses about 1.5 kW when running) and a sump pump that cycled every 3-4 hours in their wet season. That pushed their realistic winter night load to 10.8 kWh.
+For example, a home with 8.2 kWh of winter night usage but a 3-ton heat pump (which uses about 1.5 kW when running) and a sump pump that cycles every 3-4 hours during wet season would have a realistic winter night load closer to 10.8 kWh.
 
 Here's the formula: take your winter night usage, multiply by 1.25 (your safety buffer and inefficiency losses), then divide by 0.85 (because you don't want to drain below 85% for lithium). That's your rough battery size.
 
@@ -127,7 +125,6 @@ If I had to pick, undersizing is more expensive long-term. An undersized battery
 Oversizing is money wasted upfront. You're paying for capacity you don't use. But it costs nothing ongoing, and you get future-proofing if your usage grows or you add an EV.
 
 Split the difference: size for your actual current needs plus 20% buffer. Don't buy for someday.
-
 
 ## Sources
 

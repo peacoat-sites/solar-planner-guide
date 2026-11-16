@@ -25,11 +25,11 @@ author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 lastmod: 2026-07-08
 ---
-Most people assume solar is out of reach because they can't write a $20,000 check. What if that assumption is costing them $200, $300, even $400 a month? I've watched homeowners delay solar for years waiting to "save up," while their utility bills kept climbing. The math never works in their favor.
+Most people assume solar is out of reach because they can't write a $20,000 check. What if that assumption is costing them $200, $300, even $400 a month? Many homeowners delay solar while waiting to save up, but utility bills typically keep climbing during that period. The math never works in their favor.
 
 Zero-down solar financing has become accessible enough that the upfront cost barrier is essentially gone for most qualified homeowners. The real question isn't "can I afford this?" anymore. It's "which option actually makes sense for me?"
 
-Here's the honest part: not all zero-down options are created equal. Some are genuinely good deals. Others are financial traps dressed up in green marketing. I've spent time analyzing the numbers on each, and what struck me was how wide the gap is between the best and worst options.
+Here's the honest part: not all zero-down options are created equal. Some are genuinely good deals. Others are financial traps dressed up in green marketing. The gap between the best and worst zero-down options is substantial.
 
 ## The Four Zero-Down Solar Financing Options (And What They Actually Cost You)
 
@@ -56,7 +56,7 @@ For most homeowners, a solar loan is the best zero-down path.
 
 Ownership matters enormously. According to research from [the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), homes with owned solar systems sell for an average of $4 per watt more than comparable homes without solar. On a 7-kilowatt system, that's roughly $28,000 in added home value. Leased systems? They can actually complicate a home sale because the lease obligation transfers to the buyer, and some buyers won't take that on.
 
-The loan market has gotten genuinely competitive. Rates through specialized solar lenders like Mosaic, Sunlight Financial, and GreenSky typically range from around 2.99% to 7.99% for well-qualified borrowers, though I've seen promotional rates as low as 1.49% with certain installers. Here's the catch: a suspiciously low rate usually means a "dealer fee" baked into the loan principal, which inflates your balance by 10 to 30%. A 1.49% loan with a 25% dealer fee on a $20,000 system means you're actually borrowing $25,000. Run those numbers before you sign.
+The loan market has gotten genuinely competitive. Rates through specialized solar lenders like Mosaic, Sunlight Financial, and GreenSky typically range from around 2.99% to 7.99% for well-qualified borrowers, though promotional rates can be as low as 1.49% with certain installers. Here's the catch: a suspiciously low rate usually means a "dealer fee" baked into the loan principal, which inflates your balance by 10 to 30%. A 1.49% loan with a 25% dealer fee on a $20,000 system means you're actually borrowing $25,000. Run those numbers before you sign.
 
 If you want to track your system's output and make sure you're actually getting what you paid for, a home energy monitor like the [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is worth having. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -130,7 +130,6 @@ The zero-down solar market is legitimately good news for homeowners who couldn't
 - [The U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

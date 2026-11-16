@@ -64,7 +64,7 @@ Beyond the federal credit, 37 states offer additional incentives ranging from pr
 
 This is where most solar articles fail homeowners. They quote averages, but your quote isn't average. It's shaped by six key factors that vary wildly from one house to the next.
 
-**1. Roof condition and complexity.** A simple south-facing roof with no shading and recent installation is a solar installer's dream. Add multiple roof planes, dormers, skylights, or a roof that needs replacing in 5 years, and costs climb fast. I've seen roof-related complexity add $2,000-$5,000 to an otherwise standard quote.
+**1. Roof condition and complexity.** A simple south-facing roof with no shading and recent installation is a solar installer's dream. Add multiple roof planes, dormers, skylights, or a roof that needs replacing in 5 years, and costs climb fast. Roof-related complexity can add $2,000-$5,000 to an otherwise standard quote.
 
 **2. Panel type.** Monocrystalline panels are the current standard for residential installs. Premium options like the SunPower Maxeon or REC Alpha hit 22-23% efficiency but cost 15-25% more per watt than mid-tier panels. If roof space is tight, premium efficiency makes sense. If you have plenty of room, a quality mid-tier panel from a brand like Qcells or Canadian Solar will likely pencil out better.
 
@@ -123,7 +123,6 @@ Solar in 2026 is a mature, well-understood investment with real financial upside
 - [U.S. Department of Energy's homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [NREL's PVWatts calculator](https://www.nrel.gov/)
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

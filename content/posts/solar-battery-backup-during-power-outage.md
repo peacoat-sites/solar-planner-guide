@@ -29,7 +29,7 @@ My neighbor called me at 11 PM during a nor'easter two winters ago. Her house ha
 
 Here's what nobody tells you clearly enough before you sign: solar panels alone do nothing during a grid outage. Zero. The inverter automatically shuts down within milliseconds of detecting a grid failure, and that's by design. It's a safety rule called anti-islanding, meant to protect utility workers from live wires. Without a battery system to island your home, your $25,000 solar installation becomes decorative during the one situation most people assume it handles.
 
-This article is about the battery part. What actually happens when the grid goes down, which battery systems can keep your lights running (and your refrigerator, and your medical equipment), and whether the math makes sense for you. Because honestly, for some homeowners the answer is yes. For others, you'd be better off with a good generator. I've seen people spend $15,000 on battery storage who would've been fine with an $800 propane generator, and I've seen the reverse mistake too.
+This article is about the battery part. What actually happens when the grid goes down, which battery systems can keep your lights running (and your refrigerator, and your medical equipment), and whether the math makes sense for you. Because honestly, for some homeowners the answer is yes. For others, you'd be better off with a good generator. Some homeowners spend $15,000 on battery storage when an $800 propane generator would've suited them fine, while others buy a generator when battery storage would've been the better choice.
 
 ## Why your solar-plus-storage setup behaves differently than you expect
 
@@ -67,7 +67,7 @@ The federal Investment Tax Credit currently covers 30% of the total cost of a ba
 
 Many states layer on additional incentives. California's SGIP (Self-Generation Incentive Program) has historically paid $150-$200 per kWh for battery installations in certain utility territories. Massachusetts has the Connected Solutions program. New York has the Con Edison and PSEG battery incentive programs. The U.S. Department of Energy maintains a database of state incentives worth checking before you buy, because these programs open and close and the amounts change.
 
-I've seen homeowners skip this research and leave $3,000-$5,000 on the table. Don't do that.
+Skipping this research can mean leaving $3,000-$5,000 in incentives on the table. Don't do that.
 
 ## Choosing between systems: the honest version
 
@@ -92,7 +92,6 @@ My neighbor eventually got a Powerwall installed that following spring. She text
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

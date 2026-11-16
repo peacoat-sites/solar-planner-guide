@@ -25,15 +25,13 @@ faqs:
     a: "Smart meter data tells you how much energy you're using in 15-minute intervals. It doesn't tell you where it's going or why. It's useful for spotting anomalies and tracking overall trends, but it can't replace a blower-door test or infrared scan for identifying building envelope failures. Use both if you can."
 ---
 
-Most people think about [solar panels](/solar-panels-and-electric-vehicle-charging/) and immediately start comparing quotes. Makes sense. The shiny hardware is exciting, the tax credit math is tangible, and installers are very happy to talk about kilowatts. What almost nobody tells you is that you might be designing an expensive system around a house that's quietly leaking energy through a drafty attic or an oversized HVAC unit running inefficiently. I've watched homeowners spend $25,000 on solar and still end up with a bill because the audit conversation never happened.
+Most people think about [solar panels](/solar-panels-and-electric-vehicle-charging/) and immediately start comparing quotes. Makes sense. The shiny hardware is exciting, the tax credit math is tangible, and installers are very happy to talk about kilowatts. What almost nobody tells you is that you might be designing an expensive system around a house that's quietly leaking energy through a drafty attic or an oversized HVAC unit running inefficiently. Homeowners who skip the energy audit conversation can end up spending $25,000 on solar and still carrying a bill because the audit conversation never happened.
 
 Here's what I tell people when they call me with their first solar quote in hand: the house comes first. Always.
 
 A professional [home energy](/smart-home-energy-management-with-solar/) audit typically runs between $150 and $500, depending on your region and how thorough you want to be. The U.S. Department of Energy has documented cases where simple efficiency upgrades, found during an audit, reduce a home's energy load by 15 to 30 percent. That's not a rounding error. That's potentially two or three fewer solar panels you'd need to buy.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A home energy audit ($150-$500) often reveals 15-30% reducible energy waste before you size a solar system.</li><li style="margin:5px 0">Oversizing your solar array around inefficiencies means paying for panels you wouldn't need after basic weatherization.</li><li style="margin:5px 0">Air sealing and insulation upgrades typically cost $1,000-$3,500 and can shrink your required system size significantly.</li><li style="margin:5px 0">Many utilities offer free or heavily subsidized audits, check before paying out of pocket.</li><li style="margin:5px 0">The 30% federal tax credit applies to solar costs, not efficiency upgrades, so reducing load first gives you a smaller, cheaper system that still qualifies.</li></ul></div>
-
 
 ## Why Solar Installers Don't Usually Bring This Up
 
@@ -46,8 +44,6 @@ One client I worked with in Phoenix had a 2,200 sq ft home pulling $340 a month 
 ## What a Good Audit Actually Looks At
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A DIY walkthrough with a flashlight and a hand over your outlet covers is better than nothing. But a real audit is different in feel and depth. The auditor will usually show up with a blower door, which depressurizes your house to measure total air leakage, and an infrared camera that reveals cold spots invisible to the naked eye. The first time I watched an IR scan run on a 1990s ranch house, it looked like a heat map of poor decisions: light switches glowing blue, ceiling corners orange, an entire wall of an addition that was clearly never properly insulated. It's genuinely surprising.
 
@@ -96,9 +92,7 @@ My honest answer: parallel is fine, sequential is better. Get the audit done, im
 
 If you're on a tight timeline, at minimum share your audit findings with your solar installer and ask them to model two scenarios: one with your current load and one with the post-efficiency load. Any installer worth working with will do this without complaint.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated Load Reduction by Upgrade Type (%)</div><div class="sc-row"><span class="sc-label">Attic Insulation/Air Seal</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Duct Sealing</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">8%</span></div><div class="sc-row"><span class="sc-label">HVAC Replacement</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">15%</span></div><div class="sc-row"><span class="sc-label">Heat Pump Water Heater</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">10%</span></div><div class="sc-row"><span class="sc-label">LED Lighting</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">3%</span></div><div class="sc-src">Source: DOE/NREL efficiency benchmarks</div></div>
-
 
 ## Sources
 
@@ -109,7 +103,6 @@ If you're on a tight timeline, at minimum share your audit findings with your so
 - [ENERGY STAR, Heat Pump Water Heaters](https://www.energystar.gov/): Appliance efficiency data, including baseline water heating load percentages.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

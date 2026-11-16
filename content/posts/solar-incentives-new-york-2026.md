@@ -31,7 +31,7 @@ If you're a New York homeowner and your electricity bill has hit $200 a month, y
 
 The Inflation Reduction Act locked the Investment Tax Credit (ITC) at 30% through 2032. Start here because it's the biggest single amount on the table. If your system costs $30,000, that's a $9,000 reduction in your federal income tax liability. Not a deduction. A credit, dollar for dollar against what you owe.
 
-The catch most installers gloss over: you need to *owe* at least that much in federal taxes to capture the full credit in a single year. If you only owe $5,000 in federal taxes for 2026, you claim $5,000 this year and carry the remaining $4,000 forward to 2027. The ITC carries forward, so you don't lose it, but it does slow down your payback timeline. I've seen clients genuinely surprised by this in April when their accountant explains it.
+The catch most installers gloss over: you need to *owe* at least that much in federal taxes to capture the full credit in a single year. If you only owe $5,000 in federal taxes for 2026, you claim $5,000 this year and carry the remaining $4,000 forward to 2027. The ITC carries forward, so you don't lose it, but it does slow down your payback timeline.
 
 For a full breakdown of how the credit works and what qualifies, read our guide on the [federal solar tax credit for 2026](/federal-solar-tax-credit-2026/). Battery storage installed at the same time as your panels also qualifies, which matters increasingly in New York given the grid reliability issues some downstate customers hit in recent summers.
 
@@ -110,7 +110,6 @@ New York's incentive stack rewards homeowners who do their homework. The dollars
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Markus Spiske](https://www.pexels.com/@markusspiske)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -86,7 +86,7 @@ Here's where I want to slow down, because the "hidden costs" framing undersells 
 
 Panel upgrades are the wildcard. Older homes with 100-amp panels often need an upgrade to 200-amp service before a Powerwall can be installed safely. That alone adds $1,500 to $3,000 to your project cost. Get your panel assessed before you get excited about any quote.
 
-Tesla sells and installs Powerwall directly through its app and website, but third-party certified installers exist too. In my experience, third-party installers sometimes offer more competitive labor pricing, though Tesla's direct installation comes with tighter warranty accountability. EnergySage's market data consistently shows that getting multiple quotes through their platform saves homeowners an average of 20% on battery storage. On a $25,000 project, that's $5,000. Worth an afternoon of your time.
+Tesla sells and installs Powerwall directly through its app and website, but third-party certified installers exist too. Third-party installers often offer more competitive labor pricing, though Tesla's direct installation typically comes with tighter warranty accountability. EnergySage's market data consistently shows that getting multiple quotes through their platform saves homeowners an average of 20% on battery storage. On a $25,000 project, that's $5,000. Worth an afternoon of your time.
 
 ---
 
@@ -116,7 +116,7 @@ The variables that actually drive your payback:
 
 **Whether you have solar.** A Powerwall paired with solar is storing energy you generated for free. A Powerwall charged from the grid is arbitraging rate differences. The former has a faster payback; the latter often takes 15+ years and shouldn't be your primary financial justification.
 
-**Outage frequency and value.** If you work from home, have medical equipment that requires power, or live in a wildfire or hurricane zone with frequent multi-day outages, the value of backup power is real but hard to quantify cleanly. I've had clients in Texas who installed after Winter Storm Uri who consider their Powerwall worth every dollar regardless of ROI. That's legitimate. Just a different frame than financial optimization.
+**Outage frequency and value.** If you work from home, have medical equipment that requires power, or live in a wildfire or hurricane zone with frequent multi-day outages, the value of backup power is real but hard to quantify cleanly. For example, homeowners in areas affected by Winter Storm Uri who installed backup power often consider it worth every dollar regardless of ROI. That's legitimate. Just a different frame than financial optimization.
 
 **Rough payback estimates for 2026:**
 
@@ -157,7 +157,6 @@ The Tesla Powerwall 3 is a genuinely good product in 2026 with a pricing structu
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

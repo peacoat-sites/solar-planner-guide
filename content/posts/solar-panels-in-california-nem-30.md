@@ -41,7 +41,7 @@ NEM 3.0, officially called Net Billing Tariff (NBT), went into effect on April 1
 
 Under NEM 2.0, the deal was simple and good. You sent excess solar electricity to the grid, and the utility credited you at roughly the retail rate you'd otherwise pay for that power. On a typical SDG&E plan, that meant earning somewhere around $0.40 to $0.50 per kWh for surplus solar in summer. The payback period on a California solar system hovered around 5 to 7 years for most households, and the 25-year ROI made solar one of the better investments a homeowner could make, full stop.
 
-What surprised me when I started pulling actual data from California Public Utilities Commission filings was how aggressively the new rates cut those credits. Under NEM 3.0, export compensation is tied to what the CPUC calls the "Avoided Cost Calculator," which values your exported power at essentially the wholesale cost the utility pays for energy at a given hour. That works out to something like $0.04 to $0.08 per kWh during midday hours when the grid is already flooded with solar, rising to $0.15 to $0.30 per kWh during evening peak hours (roughly 4 to 9 PM). The CPUC's own analysis estimated average export credits would drop about 75% compared to NEM 2.0.
+California Public Utilities Commission filings show how aggressively the new rates cut those credits. Under NEM 3.0, export compensation is tied to what the CPUC calls the "Avoided Cost Calculator," which values your exported power at essentially the wholesale cost the utility pays for energy at a given hour. That works out to something like $0.04 to $0.08 per kWh during midday hours when the grid is already flooded with solar, rising to $0.15 to $0.30 per kWh during evening peak hours (roughly 4 to 9 PM). The CPUC's own analysis estimated average export credits would drop about 75% compared to NEM 2.0.
 
 Seventy-five percent. That's not a tweak. That's a restructuring.
 
@@ -55,7 +55,7 @@ NREL modeling published after the NEM 3.0 rollout estimated that [the payback pe
 
 The reason the math shifts so dramatically comes down to when you use power. Under NEM 2.0, it didn't matter much whether you used solar electricity directly or exported it; you got close to the same value either way. Under NEM 3.0, self-consumption is king. Electricity you use directly from your panels is worth full retail rates, which can run $0.35 to $0.50 per kWh for PG&E customers on tiered rates. Electricity you export at noon? Maybe $0.05. The difference is enormous, and it completely changes how you should think about system sizing, battery storage, and your own daily habits.
 
-A reader emailed me a few months ago after getting three installer bids. All three proposed essentially the same system they would have sold in 2021: panels sized to offset 100% of annual usage, no battery, no mention of NEM 3.0 rate differences. That's not fraud, but it's not doing right by the customer either.
+Many installers still propose systems sized to offset 100% of annual usage with no battery and no mention of NEM 3.0 rate differences. That's not fraud, but it's not doing right by the customer either.
 
 ## Why Batteries Changed from "Nice to Have" to Actually Doing Math
 
@@ -67,7 +67,7 @@ The time-of-use arbitrage under NEM 3.0 is real. If you have a battery like a Te
 
 The CPUC actually designed NEM 3.0 with this in mind. Solar plus storage systems get modestly better export rates in the early filing period, and the policy explicitly favors systems that shift load rather than dump solar onto the grid at noon. Whether you love or hate the policy as a matter of principle, the financial signal is clear: go solar plus storage, and do it thoughtfully.
 
-To make the most of this setup, you'll want solid monitoring. I've seen homeowners get real value from a home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor) (around $60 on Amazon, affiliate link), which lets you see exactly which appliances are consuming power and when. That visibility helps you shift dishwashers, EV charging, and pool pumps to solar production hours. It matters a lot more now than it did under NEM 2.0.
+To make the most of this setup, you'll want solid monitoring. A home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor) (around $60 on Amazon, affiliate link) lets you see exactly which appliances are consuming power and when. That visibility helps you shift dishwashers, EV charging, and pool pumps to solar production hours. It matters a lot more now than it did under NEM 2.0.
 
 ## What a Smart NEM 3.0 System Actually Looks Like
 
@@ -89,7 +89,7 @@ This doesn't change the NEM 3.0 math, but it meaningfully changes the absolute n
 
 The credit is currently set to stay at 30% through 2032, then step down. There's always political uncertainty around these things, but for now the 30% number is reliable planning material.
 
-What the NEM 3.0 transition really is, stripped of all the policy language, is a shift in who captures the value of solar: from any solar homeowner to solar homeowners who are thoughtful about storage and consumption timing. That's a harder bar to clear than it was two years ago, but it's not an impossible one. The people I've seen make this work are the ones who went in with accurate numbers rather than the numbers an eager salesperson put on a proposal. Get your own numbers.
+What the NEM 3.0 transition really is, stripped of all the policy language, is a shift in who captures the value of solar: from any solar homeowner to solar homeowners who are thoughtful about storage and consumption timing. That's a harder bar to clear than it was two years ago, but it's not an impossible one. The homeowners who make this work are the ones who go in with accurate numbers rather than the numbers an eager salesperson puts on a proposal. Get your own numbers.
 
 ## Sources
 
@@ -98,7 +98,6 @@ What the NEM 3.0 transition really is, stripped of all the policy language, is a
 - [The U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20)
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

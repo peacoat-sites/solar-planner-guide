@@ -27,7 +27,7 @@ faqs:
 
 Most homeowners I talk to have already made up their minds before they ask me the question. They've seen the lease ads, they've heard the "go solar for $0 down" pitch, and they assume leasing must be some kind of scam if financial guys like me keep warning against it. Or they've talked to a neighbor who owns panels and won't shut up about his electric bill, so buying must obviously be the move. I'll be honest: neither camp is entirely right, and the honest answer is actually more interesting than the party line from either side.
 
-I've worked through the numbers on hundreds of solar deals over the years, and what surprised me most early on was how often the "wrong" choice on paper worked out perfectly fine for the homeowner, while someone who made the "right" choice by the textbook still ended up frustrated. Context matters here more than almost any financial decision in home improvement. So let me walk you through what I actually found when I went deep on this.
+The best solar financing choice on paper doesn't always deliver the best real-world outcome. Context matters here more than in almost any other home improvement decision. The "right" choice by one measure can leave a homeowner frustrated, while a choice that looks suboptimal financially may work out perfectly fine.
 
 ## The Basic Mechanics (and Why They Matter More Than People Think)
 
@@ -40,8 +40,6 @@ That escalator is the part nobody reads carefully enough. I've sat with homeowne
 ## The Numbers Side by Side
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me put the comparison on the table, because I find most articles bury these figures in prose where they're hard to compare:
 
@@ -83,7 +81,7 @@ If you buy, this goes away entirely. The panels are a home improvement, similar 
 
 This is the part that changes the calculation for most people. You don't have to choose between a lease and writing a check for $20,000. Solar-specific loans from lenders like Mosaic, Goodleap, and Sunlight Financial are widely available, typically ranging from 4.99% to 8.99% APR as of this year depending on credit score and loan term. A 10-year loan on a $16,000 net system (after ITC) runs roughly $165/month at 6.99%. For a homeowner who was paying $200/month in electricity, that's still cash-flow positive from day one, and they own the asset.
 
-What surprised me when I started looking at the loan comparison more carefully: many solar installers push their preferred financing partner, which isn't always the cheapest option. Getting a competing quote from your local credit union or using a HELOC (if you have equity and good rates) can save $1,500 to $4,000 over the loan term.
+Many solar installers push their preferred financing partner, which isn't always the cheapest option. Getting a competing quote from your local credit union or using a HELOC (if you have equity and good rates) can save $1,500 to $4,000 over the loan term.
 
 Scenario example: A homeowner in Austin, Texas, 2,000 sq ft house, $190/month average electric bill (Oncor service territory). Purchased a 9.5 kW system at $27,000 gross, received $8,100 in federal ITC, net cost $18,900. Financed with a 10-year Mosaic loan at 5.99%, payment $209/month. Electric bill dropped to roughly $15/month. Net monthly change: paying $29 more per month than before. After loan payoff in year 10, saves $190/month with a system expected to perform well into the mid-2040s. 25-year estimated net savings: roughly $48,000.
 
@@ -102,7 +100,6 @@ I use a [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy
 - [Lawrence Berkeley National Laboratory - Tracking the Sun](https://emp.lbl.gov/tracking-the-sun): Annual report on distributed solar PV system characteristics and pricing
 
 ---
-
 
 ---
 

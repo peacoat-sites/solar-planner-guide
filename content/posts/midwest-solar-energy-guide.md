@@ -42,7 +42,7 @@ NREL's PVWatts calculator puts the average annual solar irradiance for cities li
 
 What actually eats into production here isn't the sun hours, it's winter cloud cover. January in Cleveland or Minneapolis can run 20+ overcast days. Your panels still produce on cloudy days (roughly 10-25% of rated output), but January genuinely underperforms. The saving grace is that summer production in the Midwest is excellent, often rivaling Sunbelt performance for the June-August window when days are long and skies are clear.
 
-One scenario I've seen play out many times: A homeowner in Columbus, Ohio with a 7 kW system and a $180/month average electric bill. After solar, their summer bills dropped to near zero, but January and February still ran $40-60/month even with net metering. Annually, they offset about 87% of their electricity use. Not 100%, but their payback period was still under 9 years with the federal tax credit factored in.
+For example, consider a home with a 7 kW system and a $180/month average electric bill. After solar installation, summer bills might drop to near zero, but winter months like January and February could still run $40-60/month even with net metering. A system this size typically offsets about 87% of electricity use annually. While not complete offset, the payback period could still be under 9 years with the federal tax credit factored in.
 
 ---
 
@@ -57,8 +57,6 @@ One scenario I've seen play out many times: A homeowner in Columbus, Ohio with a
 | Indiana | Capped program | Utilities pushing demand charges | Demand charges can erode savings significantly |
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If there's one thing that will determine whether solar pencils out in the Midwest more than sun hours, it's your state's net metering policy. And here I'll be blunt: the Midwest is a mixed bag, and some states are actively trying to reduce the value of net metering as more people go solar.
 
@@ -97,7 +95,7 @@ Snow load. That's the thing most installers breeze past in their presentations, 
 
 Standard residential panels are tested to handle 5,400 Pascals of load (roughly 113 lbs/sq ft), which is well above typical snow loads even in Minneapolis. But the racking system matters as much as the panels. Make sure your installer is using IEC-certified racking rated for your local ground snow load. Ask specifically, because not all installers specify this by default.
 
-On the panel side, I've seen a lot of Midwest homeowners defaulting to whatever the installer recommends, which is usually whatever they have warehoused. For cold climates, temperature coefficient matters more than in warm climates: as temperatures drop below 25°C (which is most of a Midwest winter), panel output actually increases slightly. High-efficiency monocrystalline panels from brands like Panasonic (now under Kauffman), REC, or SunPower's older back-contact modules will have better low-light performance on those February mornings. I don't have a strong opinion on brand loyalty here, but I'd push back on any installer who can't explain the temperature coefficient of the panels they're quoting you.
+Midwest homeowners often default to whatever the installer recommends, which may be whatever they have in stock. For cold climates, temperature coefficient matters more than in warm climates: as temperatures drop below 25°C (which is most of a Midwest winter), panel output actually increases slightly. High-efficiency monocrystalline panels from brands like Panasonic (now under Kauffman), REC, or SunPower's older back-contact modules will have better low-light performance on those February mornings. Any installer should be able to explain the temperature coefficient of the panels they're quoting you.
 
 For monitoring, a good home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor) (around $70-80 on Amazon, where the site may earn a commission) will help you track production vs. consumption in real time. Most inverters come with built-in monitoring apps, but an independent monitor gives you a cleaner whole-home picture and catches problems faster.
 
@@ -124,7 +122,6 @@ Scenario, from a reader in Indianapolis named Marcus who emailed me last fall: H
 - [Illinois Shines Program](https://illinoisshines.com/): State-administered solar incentive program documentation and SREC market information.
 
 ---
-
 
 ---
 

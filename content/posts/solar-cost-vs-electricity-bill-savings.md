@@ -38,7 +38,7 @@ Several things move the price up or down:
 - **Panel quality**: Budget panels from lesser-known brands cost less but degrade faster. SunPower or Panasonic panels carry higher price tags but better degradation warranties.
 - **Battery storage**: A Tesla Powerwall or similar adds $10,000 to $15,000. It's optional, but more people add it as grid outages tick up.
 
-Never accept a "ballpark" quote without someone looking at your actual roof and actual utility bills. I've seen quotes for the same house vary by $8,000 depending on the installer. Get three quotes minimum.
+Never accept a "ballpark" quote without someone looking at your actual roof and actual utility bills. Quotes for the same house can vary by $8,000 or more depending on the installer. Get three quotes minimum.
 
 ## How Much Can Solar Actually Save You?
 
@@ -131,7 +131,6 @@ The solar decision isn't whether panels are "worth it" in some abstract sense. I
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

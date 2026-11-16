@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Here's something most solar installers won't say out loud: a bad credit score doesn't automatically disqualify you from going solar. It makes things harder, yes. It costs you more, absolutely. But the path exists, and I've watched homeowners with scores in the low 600s get panels on their roofs for less than they were paying in utility bills.
+A bad credit score doesn't automatically disqualify you from going solar. It makes things harder, yes. It costs you more, absolutely. But the path exists. Homeowners with scores in the low 600s have financed panels for less than they were paying in utility bills.
 
-I'll be honest, though. When I first started looking at financing options for clients with damaged credit, I assumed the options would be thin and mostly predatory. What surprised me was how much the market has actually developed, partly because solar installers want to close deals and partly because the economics of solar are now strong enough that lenders have gotten creative.
+The market for solar financing among borrowers with damaged credit has developed considerably. Solar installers are motivated to close deals, and the economics of solar are strong enough that lenders have gotten creative with product offerings.
 
 Let's get into it.
 
@@ -56,15 +56,13 @@ The mistake I see constantly is homeowners calling one installer, getting quoted
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 **PACE financing** is the most credit-accessible option most homeowners have never heard of. PACE (Property Assessed Clean Energy) loans attach the repayment to your property tax bill rather than your personal credit. Because the loan is secured against your home's assessed value, approval is based on equity and property ownership, not your FICO score. Programs like Ygrene and Mosaic's PACE product are currently active in about 35 states.
 
-The catch? PACE loans carry real risks. Interest rates run 7-12% or higher, and if you sell your home, the lien typically transfers to the new buyer, which can complicate or kill a sale. A reader named Marcus from Sacramento emailed me last spring saying his PACE loan made his home hard to refinance. He wasn't wrong to flag it. You need to go in with eyes open.
+PACE loans carry real risks. Interest rates run 7-12% or higher, and if you sell your home, the lien typically transfers to the new buyer, which can complicate or kill a sale. You need to go in with eyes open.
 
 **FHA Title I loans and HUD-backed programs.** The FHA Title I Property Improvement Loan is underused and underrated. It doesn't require home equity, and FHA lenders are generally more flexible on credit than conventional lenders. Loan amounts go up to $25,000 for single-family homes. I don't have clean aggregated data on the minimum credit score across all FHA Title I lenders, so I won't pretend otherwise, but individual lenders set their own floors, and some approve borrowers in the 580-620 range.
 
-**Credit unions.** This one changed my thinking after I spent some time digging into EnergySage's market data a couple of years back. Credit unions are structurally different from banks. They're nonprofits, they serve members, and they frequently carry personal loan products with more flexibility than you'd expect. I've seen credit union personal loans used to finance solar at 10-12% for borrowers who'd been turned down everywhere else. Not glamorous rates, but workable.
+**Credit unions.** Credit unions are structurally different from banks. They're nonprofits, they serve members, and they frequently carry personal loan products with more flexibility than traditional banks. Credit union personal loans can finance solar at 10-12% for borrowers who'd been turned down by conventional lenders. Not glamorous rates, but workable.
 
 **Secured personal loans or home equity products.** If you have equity, a HELOC or [home equity loan](/home-equity-loan-for-solar-panels/) lets you use your house as collateral, which dramatically softens the credit requirement. Current HELOC rates are variable and running around 8-10% depending on your lender and market conditions, which is not better than a good solar-specific loan, but it's accessible to more people.
 
@@ -73,8 +71,6 @@ The catch? PACE loans carry real risks. Interest rates run 7-12% or higher, and 
 ---
 
 ## What the Numbers Actually Look Like
-
-Let me give you a few worked examples from scenarios I've seen.
 
 **Scenario 1:** Homeowner in Phoenix, credit score 610, $1,800 in annual electricity costs, owns home free and clear with $180,000 in equity. Applies for and gets a HELOC at 9.5% to finance a $18,000 system. After the 30% federal tax credit is applied (reducing effective cost to ~$12,600), monthly HELOC payments run about $130. Previous average electric bill: $150/month. Net savings: modest in year one, but the loan pays down and utility rates don't.
 
@@ -113,7 +109,6 @@ The other thing worth saying plainly: solar isn't right for everyone, even if yo
 - [Consumer Financial Protection Bureau, PACE Loan Resources](https://www.consumerfinance.gov/): Regulatory guidance and consumer warnings on PACE financing risks and lien structures.
 
 ---
-
 
 ---
 

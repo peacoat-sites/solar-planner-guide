@@ -98,13 +98,11 @@ High installation cost doesn't mean bad investment. Low installation cost doesn'
 
 ## What Installers Won't Always Tell You
 
-I've been in this industry long enough to see some patterns in what gets glossed over during the sales pitch.
-
 Production estimates can be optimistic. Installers typically use modeling software like PVWatts to estimate your system's annual output. These estimates assume your panels stay clean, your inverter works perfectly, and your roof shading doesn't worsen as nearby trees grow. Real-world production often runs 5-15% below the modeled projections.
 
 Roof condition affects total cost. If your roof needs replacement in the next five to ten years, you'll pay to remove and reinstall your solar panels when that happens. Removal and reinstallation typically costs $1,500 to $3,000 per job. If your roof has five years of life left, factor that into your decision timing.
 
-Financing terms dramatically change the real cost. A $18,000 system financed at 7.99% over 20 years doesn't cost $18,000. It costs closer to $31,000 with interest. Solar loans aren't inherently bad, but I've watched homeowners sign loan documents without doing the interest math.
+Financing terms dramatically change the real cost. A $18,000 system financed at 7.99% over 20 years doesn't cost $18,000. It costs closer to $31,000 with interest. Solar loans aren't inherently bad, but many homeowners don't account for the interest when evaluating total cost.
 
 Installer quality varies more than pricing does. A $500 discount from a less experienced installer isn't worth it if they cut corners on racking, run wiring improperly, or disappear when you have a warranty claim. Check contractor license numbers, pull actual permit records when you can, and read reviews that are more than one sentence long.
 
@@ -123,7 +121,6 @@ Solar is one of the largest financial decisions a homeowner will make, and the c
 - [Emporia Vue Smart Home Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
 - [Jackery or EcoFlow home battery system](https://www.amazon.com/s?k=home+battery+storage+solar)
 - [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

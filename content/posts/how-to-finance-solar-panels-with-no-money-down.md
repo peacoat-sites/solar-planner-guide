@@ -68,7 +68,7 @@ Evaluating a solar loan properly comes down to five concrete steps.
 
 **Check the APR, not just the interest rate.** Origination fees add to the true cost.
 
-**Run your break-even math.** For a realistic payback timeline based on your specific numbers, this guide on [how long to pay off solar panels](/how-long-to-pay-off-solar-panels/) is one of the most useful resources I've seen.
+**Run your break-even math.** For a realistic payback timeline based on your specific numbers, check this guide on [how long to pay off solar panels](/how-long-to-pay-off-solar-panels/).
 
 With good credit and a 10-year loan, many homeowners end up with a monthly payment that's roughly equal to or slightly less than what they were paying the utility. As electricity rates rise, the math only gets better.
 
@@ -80,7 +80,7 @@ The appeal is simplicity. You sign a 20 to 25-year agreement with a solar compan
 
 The catch? You don't own the system. That 30% federal tax credit goes to the solar company, not you. Over a 25-year period, the difference in total savings between owning and leasing can easily be $20,000 to $40,000 on a typical residential system.
 
-There's also a home-sale complication. If you sell your house before the lease term ends, the buyer has to qualify to take over the lease payments, or you pay a buyout. I've seen deals fall through because of this. It's one of the most underappreciated risks in the entire process.
+There's also a home-sale complication. If you sell your house before the lease term ends, the buyer has to qualify to take over the lease payments, or you pay a buyout. This is one of the most underappreciated risks in the entire process.
 
 That said, if your credit score is low, if you owe significant taxes in a year and can't use the ITC, or if you simply want the lowest-friction entry into solar, a lease or PPA can still make sense. Just read the escalator clause carefully. Many agreements include an annual payment increase of 1% to 3%, which can eat into your savings over time.
 
@@ -125,7 +125,6 @@ Going solar with no money down is genuinely possible, and for millions of Americ
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

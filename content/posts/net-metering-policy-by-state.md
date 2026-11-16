@@ -45,7 +45,6 @@ The searchable table below places every state in one of those tiers, with the sp
 
 {{< datatable "net_metering" >}}
 
-
 **States with strong, full-retail net metering:** New York, New Jersey, Massachusetts, Illinois, and Texas (for most investor-owned utilities) still pay retail rates or very close. New York's Value of Distributed Energy Resources (VDER) tariff is complex but generally favorable. Massachusetts maintains a capped system that's been debated endlessly, but most residential customers still get solid credits.
 
 **States with degraded or restructured net metering:** California is the poster child. NEM 3.0 replaced retail-rate credits with a "Net Billing Tariff" paying based on "Avoided Cost Calculator" rates, varying by time of day but averaging far below retail. The new system heavily favors battery storage because storing your power and using it at peak times is now far more valuable than exporting. Nevada went through its own restructuring, cut rates in 2015, reversed after consumer backlash in 2017, and keeps tweaking it.
@@ -86,8 +85,6 @@ In states moving toward net billing with time-of-use rates, timing becomes every
 
 ## Steps to Take Before Signing a Solar Contract
 
-I need to be direct here, because I've watched homeowners make expensive assumptions.
-
 **Step 1: Identify your exact utility, not just your state.** Net metering rules differ between investor-owned utilities, municipal utilities, and rural co-ops within the same state. Someone in rural Georgia served by a co-op faces completely different rules than an Atlanta resident served by Georgia Power.
 
 **Step 2: Look up your utility's current interconnection tariff.** It's public. Search your utility name plus "net metering tariff" or "interconnection agreement." Find the export compensation rate, any monthly charges for solar customers, and the credit rollover policy.
@@ -109,7 +106,6 @@ I need to be direct here, because I've watched homeowners make expensive assumpt
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

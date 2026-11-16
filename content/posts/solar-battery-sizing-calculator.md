@@ -25,7 +25,7 @@ faqs:
     a: "Backup power sizing is driven by how many hours of autonomy you need at a given load level. Self-consumption optimization is driven by your utility rate structure, specifically how much you pay during peak hours versus what you earn for exported solar. These two goals can pull battery sizing in opposite directions, and the right size depends on which goal matters more to you financially."
 ---
 
-Sixty-nine percent of homeowners who buy a solar battery end up with one that's either too small to get through a summer outage or so oversized it'll never pay itself back. I know that number because I've watched it play out in my own client conversations over and over, and EnergySage's market data backs it up: mismatched battery sizing is the single most common reason solar-plus-storage systems underperform expectations.
+Sixty-nine percent of homeowners who buy a solar battery end up with one that's either too small to get through a summer outage or so oversized it'll never pay itself back. EnergySage's market data confirms this: mismatched battery sizing is the single most common reason solar-plus-storage systems underperform expectations.
 
 You might be wondering: how hard can this be? Pick a battery, plug it in, done. Here's what I tell people when they ask that: sizing a solar battery is closer to sizing a home's HVAC system than buying a new phone. Get it wrong by 20% in either direction and you're either sweating through a blackout or paying interest on equipment that never earns its keep.
 
@@ -43,11 +43,9 @@ Most residential batteries today are lithium iron phosphate (LFP) chemistry, whi
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's what I walk clients through. It has four steps, and it takes about 20 minutes with a utility bill in hand.
 
-**Step 1: Find your daily average consumption.** Pull 12 months of electric bills and find your total annual kWh. Divide by 365. The national average household sits around 29 kWh per day, according to the U.S. Energy Information Administration, but I've seen Phoenix homes hit 55 kWh in July and Maine homes drop to 18 kWh in October. Your number matters, not the average.
+**Step 1: Find your daily average consumption.** Pull 12 months of electric bills and find your total annual kWh. Divide by 365. The national average household uses around 29 kWh per day, according to the U.S. Energy Information Administration, though consumption varies significantly by region and season. Your number matters, not the average.
 
 **Step 2: Decide what you actually want to back up.** This is the question most battery salespeople skip, because it shrinks the sale. Do you want full-home backup through a multi-day grid outage? Or do you want to keep the lights, refrigerator, and a few outlets running for 12 hours? The difference can be 30 kWh versus 8 kWh of needed storage, which is roughly $12,000 versus $4,000 in equipment.
 
@@ -82,21 +80,19 @@ As of July 2026, the residential battery market has consolidated around a handfu
 
 Installed costs include labor and rough average incentive calculations based on national data from SEIA's current market reports. Your actual cost will vary by state, installer, and whether you qualify for additional utility or state incentives beyond the federal ITC.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Usable Capacity vs. Installed Cost (post-ITC, mid estimate)</div><div class="sc-row"><span class="sc-label">Tesla Powerwall 3</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">864 USD per </span></div><div class="sc-row"><span class="sc-label">Enphase IQ 5P</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">1,008 USD per </span></div><div class="sc-row"><span class="sc-label">Franklin WH10</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">925 USD per </span></div><div class="sc-row"><span class="sc-label">Generac PWRcell M6</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">1,167 USD per </span></div><div class="sc-row"><span class="sc-label">SunPower SunVault</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">962 USD per </span></div><div class="sc-src">Source: SEIA 2026 installer surveys + EnergySage market data</div></div>
-
 
 The Franklin WH10 has quietly become one of the best value-per-kWh options on the market right now, and most installers won't mention it unless you ask because their margins on Powerwall are better. I'm not saying Powerwall is a bad product, it's excellent. But if you're sizing primarily for bill optimization rather than outage insurance, the Franklin math is hard to argue with.
 
 ## The Mistake I See Most Often
 
-I thought for years that bigger batteries always meant better solar ROI. It made intuitive sense: store more, sell less back at low rates, use it when rates are high. Then I started running the actual numbers with clients and kept seeing the same pattern.
+It might seem intuitive that bigger batteries always improve solar ROI: store more, sell less back at low rates, use it when rates are high. But the numbers often tell a different story.
 
 Oversizing a battery by 30-40% to cover hypothetical multi-week grid failures costs, on average, $6,000-$9,000 extra. But according to NREL's outage data, the median U.S. grid outage lasts 4.5 hours. Not four days. Four and a half hours. The expensive "bunker battery" scenario is real for some customers in specific geographies, but for most suburban homeowners on a reliable grid, it's a fear-based purchase dressed up as preparedness.
 
 Here's what I tell people: design for the 95th percentile outage in your specific utility's history, not for the apocalypse scenario you watched on YouTube. Your utility's reliability data is public record. Ask for it.
 
-A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor) (around $75, affiliate link) is genuinely worth installing before you size a battery. It gives you 30 days of circuit-level data that will tell you exactly which loads matter and how many kWh they actually draw. I've seen this data change a client's battery recommendation by 30%. It's the most useful $75 you can spend before a $15,000 decision. (The site may earn a small commission on purchases like this one.)
+A home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor) (around $75, affiliate link) is worth installing before you size a battery. It provides 30 days of circuit-level data showing which loads matter most and how many kWh they actually draw, which can significantly shift your battery sizing. (The site may earn a small commission on purchases like this one.)
 
 ## How Solar Production Changes the Equation
 
@@ -115,7 +111,6 @@ This is why I always look at a client's utility rate structure before I recommen
 - [Lawrence Berkeley National Laboratory "Tracking the Sun" report](https://emp.lbl.gov/tracking-the-sun): Installed cost trends for residential solar-plus-storage systems
 
 ---
-
 
 ---
 

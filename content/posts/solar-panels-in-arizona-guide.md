@@ -59,7 +59,7 @@ Net metering is where your utility credits you for excess electricity your panel
 
 APS moved to a "net billing" policy in 2017 that pays homeowners a wholesale export rate for excess generation, around 7 to 9 cents per kWh, while they charge you 12 to 14 cents when you draw power at night. That gap matters. If your system produces a lot and you're not home during peak sun hours, you're selling electricity cheap and buying it back expensive.
 
-SRP is tougher. SRP customers face demand charge structures, meaning your bill partly depends on your highest 30-minute energy draw during peak hours, not just total consumption. Solar panels don't reduce your demand charge unless you're very disciplined about when you run appliances, and most people aren't. I've seen SRP customers go solar with high expectations and end up disappointed because no one explained their rate plan.
+SRP is tougher. SRP customers face demand charge structures, meaning your bill partly depends on your highest 30-minute energy draw during peak hours, not just total consumption. Solar panels don't reduce your demand charge unless you're very disciplined about when you run appliances, and most people aren't. SRP customers often go solar with high expectations but end up disappointed because their rate plan wasn't clearly explained upfront.
 
 Battery storage fixes this. A Tesla Powerwall 3 costs around $11,500 installed before incentives. An Enphase IQ Battery 5P runs similar. Both let you store midday solar production and use it in the evening when grid rates peak. For SRP customers especially, batteries smooth out demand charge spikes. It's extra money upfront, but the math for batteries is more favorable in Arizona than most other states.
 
@@ -93,7 +93,7 @@ Installers will offer you solar leases or power purchase agreements (PPAs). With
 
 Both can make sense if you can't pay cash or your tax situation means you can't use the full federal ITC in a reasonable timeframe. But here's the honest truth: they typically generate less long-term value than owning outright or financing with a solar loan.
 
-Leases and PPAs also complicate home sales. You either transfer the agreement to your buyer, which some resist, or buy out the contract, which can be expensive. I've seen this stall real estate transactions. It's not a dealbreaker, but it's a real thing to factor in before signing.
+Leases and PPAs also complicate home sales. You either transfer the agreement to your buyer, which some resist, or buy out the contract, which can be expensive. This can stall real estate transactions. It's worth factoring in before signing.
 
 If you're financing, compare a solar-specific loan against a home equity line of credit. Interest rates and terms vary widely, and some "zero-down" loans offered by installers carry hidden dealer fees that inflate your effective cost by 10 to 20%.
 
@@ -108,7 +108,6 @@ For most Arizona homeowners, going solar is genuinely a good move. Your sun reso
 - [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor)
 - [U.S. Department of Energy's homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

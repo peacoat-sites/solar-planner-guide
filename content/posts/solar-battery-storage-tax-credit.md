@@ -33,7 +33,7 @@ The Residential Clean Energy Credit is a federal tax credit worth 30% of the cos
 
 Before 2023, your battery had to be charged exclusively by solar panels. The Inflation Reduction Act changed that completely. Starting January 1, 2023, standalone batteries (systems with no solar connection) qualify for the 30% credit as long as they have at least 3 kilowatt-hours of capacity. A Tesla Powerwall 3 or Enphase IQ Battery 5P clears that threshold without breaking a sweat.
 
-Here's the thing about the credit being nonrefundable: if your federal tax liability is $4,000 and your credit is $4,500, you get $4,000 back and the remaining $500 carries forward to next year. No check for the difference, but you don't lose it. The U.S. Department of Energy's [homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) covers carryforwards and is worth bookmarking.
+The credit being nonrefundable works this way: if your federal tax liability is $4,000 and your credit is $4,500, you get $4,000 back and the remaining $500 carries forward to next year. No check for the difference, but you don't lose it. The U.S. Department of Energy's [homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) covers carryforwards and is worth bookmarking.
 
 For how this credit works with your specific solar setup, [ITC Solar Investment Tax Credit Explained](/itc-solar-investment-tax-credit-explained/) breaks it down on this site.
 
@@ -103,7 +103,7 @@ This is where people stumble. The credit itself isn't hard. You just need to get
 
 **Step 6: Consult a tax professional for large installs.** If you're installing a major system (say, $30,000 or more), a CPA can make sure you're getting every dollar and structuring the claim correctly.
 
-Take photos of your installed system with a timestamp before the year ends. Not required, but timestamped documentation has saved a few of my clients during audits.
+Take photos of your installed system with a timestamp before the year ends. Timestamped documentation can be useful if the IRS questions your installation date.
 
 ## Is a Battery Actually Worth It Without the Credit?
 
@@ -130,7 +130,6 @@ The 30% Residential Clean Energy Credit for battery storage is one of the best i
 - [average solar-plus-storage systems](https://news.energysage.com/)
 - [Emporia Vue Gen 3 on Amazon](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -35,8 +35,6 @@ What most people don't realize is that the commercial investment tax credit, Sec
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The structure is less complicated than it sounds, even if the paperwork can make your eyes cross. Here's what actually happens: a solar financing company installs panels on your roof. They own the system. Because they're a business, they claim the Section 48E credit, which is currently worth 30% of system cost. They also claim MACRS accelerated depreciation, another meaningful tax benefit available only to business owners. Combined, these benefits amount to roughly a 30 to 35% discount off the retail system cost for the financing company.
 
 You, the homeowner, pay about 70% of the system's cost upfront as a single lump sum. That's the "prepaid" part. In exchange, you get to use the electricity the panels produce, and you get a contract guaranteeing that after six years, ownership of the system transfers to you, often for as little as $1. No ongoing monthly payments. No lease you're stuck in for 20 years.
@@ -55,7 +53,7 @@ This isn't fear-mongering. It's a real constraint that installers and financing 
 
 ## What You're Actually Getting, and What Could Go Wrong
 
-I've seen prepaid leases work really well for the right homeowner. I've also seen them go sideways. Here's what to think carefully about.
+Prepaid leases can work well for the right homeowner, but they can also present challenges. Here's what to consider carefully.
 
 The upside is real. You capture indirect access to the 48E credit through the discount baked into your 70% cost. You own the system outright after six years with no additional payment. No performance risk because you're not buying a specific production guarantee, you're buying the hardware at a discount.
 

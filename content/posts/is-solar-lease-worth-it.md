@@ -82,7 +82,7 @@ I don't want to be unfair here. There are real situations where a lease is the r
 
 **The escalator clause.** Most leases include an annual payment increase of 2-3%. It sounds modest. Over 20 years at 2.9% annual growth, your monthly payment nearly doubles. If utility rates in your area don't rise that fast (and historically in some states they haven't), you could end up paying lease rates that exceed what you'd have paid on the grid.
 
-**[The home sale complication](/transferring-solar-lease-when-selling-home/).** This one kills deals. When you sell your home, the buyer either needs to qualify to assume your lease or you have to buy out the remaining contract. Buyout costs are often calculated in ways that favor the leasing company. I've seen clients lose sales or eat $15,000-$20,000 in buyout costs because they didn't factor this in. The U.S. Department of Energy's homeowner guide on solar explicitly flags lease transfer complications as one of the top issues to address before signing.
+**[The home sale complication](/transferring-solar-lease-when-selling-home/).** This one kills deals. When you sell your home, the buyer either needs to qualify to assume your lease or you have to buy out the remaining contract. Buyout costs are often calculated in ways that favor the leasing company. Homeowners who don't factor in buyout costs may lose sales or face $15,000-$20,000 in unexpected expenses. The U.S. Department of Energy's homeowner guide on solar explicitly flags lease transfer complications as one of the top issues to address before signing.
 
 **Production guarantees have fine print.** If a lease promises you 90% of projected annual production and you receive only 88%, the company owes you a credit. Sounds protective. But if production drops due to shading from a tree you planted, that's typically excluded. Read what voids the guarantee.
 
@@ -123,7 +123,6 @@ Solar leases solved a real problem when they emerged: they made solar accessible
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [Kindel Media](https://www.pexels.com/@kindelmedia)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

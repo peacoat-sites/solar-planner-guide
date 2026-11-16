@@ -52,7 +52,7 @@ Let me ground this with real numbers. The average U.S. household burns about 10,
 
 Want a more detailed picture of where your electricity actually goes? A [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) runs about $80 on Amazon (yes, this site may earn a commission) and breaks down usage by circuit in real time. Worth buying before you size anything, especially if you're planning to add an EV charger or convert appliances to electric.
 
-Here's the thing people always miss: is your consumption about to change? Getting a heat pump installed? Buying an EV? Do that math *before* you size your system, not after.
+A common oversight: failing to account for consumption changes before sizing your system. Getting a heat pump installed? Buying an EV? Do that math *before* you size your system, not after.
 
 ## The Wattage Calculation Itself
 
@@ -146,7 +146,6 @@ The math isn't complicated, but it has to start with your numbers, your location
 - [PVWatts Calculator](https://pvwatts.nrel.gov/)
 - [EnergySage's marketplace data](https://news.energysage.com/)
 - [solar pathfinder tool](https://www.amazon.com/s?k=solar+pathfinder+tool&tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

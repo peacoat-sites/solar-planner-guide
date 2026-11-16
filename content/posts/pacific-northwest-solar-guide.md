@@ -31,9 +31,7 @@ Seattle gets roughly 2,080 hours of daylight per year. [Solar panels](/can-solar
 
 The real variables in the Pacific Northwest aren't cloud cover. They're your roof angle, your utility's [net metering policy](/net-metering-policy-by-state/), and whether you qualify for the state-specific incentives that most installers underplay because they're complicated to explain in a sales pitch.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pacific Northwest solar payback runs 8-12 years, competitive with many Sun Belt markets due to strong incentives.</li><li style="margin:5px 0">Oregon and Washington both offer state incentives stacked on the federal 30% Investment Tax Credit (ITC).</li><li style="margin:5px 0">Net metering rates vary sharply by utility, PSE, PGE, and PacifiCorp customers face meaningfully different math.</li><li style="margin:5px 0">Seattle averages 4.0 peak sun hours/day; Portland averages 4.5, both workable for residential solar.</li><li style="margin:5px 0">A south-facing, unshaded 8 kW system in Portland will typically generate around 8,200 kWh/year.</li></ul></div>
-
 
 ## The Numbers Behind the Gray Sky
 
@@ -43,17 +41,13 @@ Average system size in the region runs around 7 to 9 kW. EnergySage's market dat
 
 After the federal 30% ITC, you're looking at $15,120 to $17,360. Oregon's Residential Energy Tax Credit adds up to $6,000 more (spread over four years). Washington doesn't have a state income tax credit, but it exempts solar equipment from sales tax and property tax, which is worth more than people realize on a $20,000 system.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average peak sun hours per day by PNW city</div><div class="sc-row"><span class="sc-label">Seattle</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">4 hours</span></div><div class="sc-row"><span class="sc-label">Portland</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">4.5 hours</span></div><div class="sc-row"><span class="sc-label">Spokane</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">4.8 hours</span></div><div class="sc-row"><span class="sc-label">Eugene</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">4.6 hours</span></div><div class="sc-row"><span class="sc-label">Bend</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">5.1 hours</span></div><div class="sc-src">Source: NREL PVWatts 2025</div></div>
 
-
-Bend is the sleeper here. Eastern Oregon sun hours rival parts of California. I've seen homeowners in Sisters and Redmond hit payback in under seven years with the right setup.
+Bend is the sleeper here. Eastern Oregon sun hours rival parts of California. Homeowners in areas like Sisters and Redmond can hit payback in under seven years with the right setup.
 
 ## Utility Net Metering: Where the Math Gets Brutal
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where I have to be honest in a way most solar salespeople won't: net metering in the Pacific Northwest is in transition, and some customers are getting a much worse deal than others.
 
@@ -85,7 +79,7 @@ Spokane homeowner, 7 kW system at $19,600 → Federal ITC ($5,880) + Sales tax e
 
 ## Roof, Shading, and the Things Installers Rush Past
 
-South-facing roofs at a 30 to 40-degree pitch are ideal. You already knew that. What's less obvious: in the PNW, a west-facing roof often outperforms east-facing because afternoon sun tends to be clearer than morning sun in coastal areas. I've seen west-facing arrays in the Portland metro outperform east-facing equivalents by 7 to 9% annually. A good installer will model both orientations in PVWatts before recommending placement.
+South-facing roofs at a 30 to 40-degree pitch are ideal. You already knew that. What's less obvious: in the PNW, a west-facing roof often outperforms east-facing because afternoon sun tends to be clearer than morning sun in coastal areas. West-facing arrays in the Portland metro can outperform east-facing equivalents by 7 to 9% annually. A good installer will model both orientations in PVWatts before recommending placement.
 
 Shading is the killer. Douglas firs are beautiful. They will also destroy your production numbers. One fully shaded panel on a string inverter can drag down the entire array. If you have significant tree shading, the answer is microinverters (Enphase IQ8 series is the dominant choice in the market right now, running about $150 to $200 per unit installed) or a DC optimizer system like SolarEdge. The added cost, typically $800 to $1,500 more than a string inverter setup, almost always pays back in recovered production in shaded PNW conditions.
 
@@ -110,7 +104,6 @@ My honest take: in 2026, batteries in the Pacific Northwest are an insurance pro
 - [Washington State Department of Commerce](https://www.commerce.wa.gov/): Washington sales tax exemption and property tax incentive documentation
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

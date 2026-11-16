@@ -29,9 +29,7 @@ faqs:
 
 I've walked hundreds of homeowners through this decision. What surprised me the most, early in my career, was how often the "premium" microinverter recommendation was driven by installer margin rather than any honest site assessment. Enphase IQ8 microinverters run roughly $150-$180 per unit installed, and a typical 10-panel system means 10 units. A single SolarEdge [string inverter](/microinverters-vs-string-inverter/) with HD-Wave technology for that same system might run $1,200-$1,500 total. That's a real cost gap, and it doesn't automatically close just because one approach sounds more sophisticated.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Microinverters cost $800–$2,000+ more upfront on average but pay off mainly on shaded or complex roofs.</li><li style="margin:5px 0">String inverters (with or without optimizers) are the right call for simple, south-facing roofs with minimal shading.</li><li style="margin:5px 0">Enphase IQ8 microinverters and SolarEdge HD-Wave string inverters dominate the U.S. residential market as of 2026.</li><li style="margin:5px 0">Both technologies carry 25-year warranties today, so longevity alone is no longer a strong differentiator.</li><li style="margin:5px 0">The typical payback gap between the two options is 6–18 months longer for microinverters, depending on system size.</li></ul></div>
-
 
 ## How Each One Actually Works
 
@@ -39,13 +37,11 @@ A string inverter does what it sounds like: your panels connect in a series stri
 
 Microinverters flip the equation by placing a small inverter directly behind each panel. Each panel operates independently. Panel 7 gets hit by a chimney shadow at 2pm? Panels 1-6 and 8-10 don't care. Enphase basically owns this segment in the U.S. [right now](/what-homeowners-must-know-about-feoc-panel-rules-right-now/), and their IQ8 series added a notable wrinkle: it can form a microgrid during a grid outage even without a battery, which is genuinely useful for daytime resilience.
 
-There's also a hybrid approach worth knowing: a string inverter paired with power optimizers (DC-to-DC converters at each panel). SolarEdge is the main player here. You get panel-level monitoring and shade mitigation without paying full microinverter prices. In my experience, this middle path gets undersold by installers, probably because it's harder to explain in a 20-minute consultation.
+There's also a hybrid approach worth knowing: a string inverter paired with power optimizers (DC-to-DC converters at each panel). SolarEdge is the main player here. You get panel-level monitoring and shade mitigation without paying full microinverter prices. This middle path often gets undersold by installers, likely because it's more complex to explain in a brief consultation.
 
 ## The Numbers Side by Side
 
 > **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Prices shift constantly, but here's where the U.S. residential market sits as of July 2026, based on EnergySage data and what I'm seeing in real quotes:
 
@@ -57,9 +53,7 @@ Prices shift constantly, but here's where the U.S. residential market sits as of
 
 One thing installers often leave out: the string inverter in the basic scenario typically needs replacement once during the panel's 25-year life (around year 10-12), adding roughly $1,200–$1,800 to lifetime cost. That partially closes the gap with microinverters, which are theoretically a one-time buy for 25 years, though the research on long-term microinverter field reliability beyond 15 years is honestly thinner than I'd like.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated 10kW System Installed Cost by Inverter Type (USD)</div><div class="sc-row"><span class="sc-label">String (basic)</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">$9,500</span></div><div class="sc-row"><span class="sc-label">String + Optimizers</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">$11,500</span></div><div class="sc-row"><span class="sc-label">Microinverters (Enphase)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$13,000</span></div><div class="sc-src">Source: EnergySage 2026 market data</div></div>
-
 
 ## Where Microinverters Actually Win
 
@@ -92,7 +86,6 @@ If you want panel-level visibility without going full microinverter, a [home ene
 - Enphase Energy IQ8 Series Technical Specifications (2025): Warranty terms, microinverter output specifications, and grid-forming capability documentation
 
 ---
-
 
 *Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
 

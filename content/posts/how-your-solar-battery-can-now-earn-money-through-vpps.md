@@ -26,8 +26,6 @@ What makes the Sunrun/Tesla/Renew Home announcement significant isn't just the s
 
 > **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 You might be wondering what "earning money" actually looks like on a monthly bank statement. Across multiple states with active VPP programs, enrolled homeowners are currently earning $500 to $1,500 or more per year, according to program data compiled by NuWatt Energy. That's not a guarantee, and the range is wide because it depends on your state, your utility, your battery size, and how many grid events actually trigger a dispatch in a given year.
 
 California tends to see the highest earnings because its grid stress events are frequent and its programs are mature. States like Virginia, Texas, and Massachusetts have growing programs. The dispatch events themselves are typically short, often one to four hours, and your battery isn't fully drained. Most programs are designed so you keep enough reserve charge for your own home's needs. The tradeoff is real but modest: you give up some control over your battery's charge state during peak events, in exchange for cash payments or bill credits.
@@ -47,7 +45,7 @@ Let's be direct about what happened on January 1, 2026: the Section 25D resident
 
 State incentives still exist in places like New York, Massachusetts, and Illinois. Net metering still works where utilities support it, though that's eroding in some markets. What's emerging to fill the gap, and what the Sunrun/Tesla deal has pushed into the mainstream, is VPP income. A battery that earns $800 to $1,200 a year in VPP payments starts to look very different on a payback spreadsheet than one that just sits in your garage providing backup power three times a decade.
 
-BloombergNEF's June 15, 2026 analysis found that 40% of new residential solar installations in Q1 2026 included a battery, up from 35% in 2025. Sunrun's own Q1 data showed an even higher 73% battery attachment rate among their new customers. That's not just a trend, it's a structural shift. Homeowners and installers alike are pricing in battery value beyond backup, and VPP income is a big part of why.
+BloombergNEF's June 15, 2026 analysis found that 40% of new residential solar installations in Q1 2026 included a battery, up from 35% in 2025. Sunrun's own Q1 data showed an even higher 73% battery attachment rate among their new customers. This represents a structural shift in the market. Battery economics now include revenue from virtual power plant participation, not just backup power.
 
 ## What This Means If You're Sizing a System Right Now
 

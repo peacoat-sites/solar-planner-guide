@@ -31,9 +31,7 @@ You might be wondering why the inverter matters so much when [solar panels](/how
 
 I've sat across from homeowners in Phoenix who have a perfectly shaded-free roof and homeowners in Portland who have a single pine tree casting a shadow over one corner of their array. Those two people should not be buying the same inverter technology. That's the most honest thing I can say before we get into any of the specs.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Enphase microinverters cost roughly $0.20–$0.30/W more installed than SolarEdge, but eliminate single points of failure.</li><li style="margin:5px 0">SolarEdge systems typically cost $2.80–$3.10/W installed vs. Enphase at $3.00–$3.40/W (2026 EnergySage data).</li><li style="margin:5px 0">Shading matters enormously: even one shaded panel can cut a string inverter system's output by 10–25%.</li><li style="margin:5px 0">Both carry 25-year warranties, but the warranty structures differ in ways that affect real-world claims.</li><li style="margin:5px 0">Enphase IQ8 microinverters can operate during a grid outage without a battery; SolarEdge requires a battery for backup.</li></ul></div>
-
 
 ## How Each System Actually Works
 
@@ -41,13 +39,11 @@ SolarEdge uses what's called a DC-optimized [string inverter](/microinverters-vs
 
 Enphase goes a different direction entirely. Each panel gets its own microinverter, a palm-sized unit mounted directly on the racking underneath the panel. The conversion from DC to AC happens right there, on the roof. Nothing routes back to a central box on your wall.
 
-The practical difference is bigger than it sounds. With SolarEdge, if that central inverter fails, your whole system goes down. With Enphase, if one microinverter fails, you lose roughly 1/10th of your system output while everything else keeps running. I've had clients call me in a panic over a SolarEdge inverter failure in July, peak summer billing season. That doesn't happen the same way with Enphase.
+The practical difference is bigger than it sounds. With SolarEdge, if that central inverter fails, your whole system goes down. With Enphase, if one microinverter fails, you lose roughly 1/10th of your system output while everything else keeps running. A SolarEdge inverter failure during peak summer billing season means total system downtime, while an Enphase failure affects only that one unit's output.
 
 ## The Real Cost Difference
 
 > **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Current pricing (July 2026), based on EnergySage's national installer marketplace data, puts the average installed cost of a 7–8 kW residential system at roughly:
 
@@ -59,9 +55,7 @@ Current pricing (July 2026), based on EnergySage's national installer marketplac
 
 That $1,500–$2,250 gap between SolarEdge and Enphase often surprises people. It seems wide until you factor in that Enphase's microinverters have a published MTBF (mean time between failures) of over 300 years per unit, according to the company's own engineering documentation, and that the system's modularity means repair costs are lower when something does eventually go wrong. I'm not saying that statistic alone justifies the premium. But it's worth knowing it exists.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg Installed Cost per Watt (7.5 kW system, July 2026)</div><div class="sc-row"><span class="sc-label">Enphase IQ8</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$3.2</span></div><div class="sc-row"><span class="sc-label">SolarEdge + Optimizers</span><span class="sc-track"><span class="sc-bar" style="width:92%"></span></span><span class="sc-val">$3</span></div><div class="sc-row"><span class="sc-label">Basic String Inverter</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">$2.5</span></div><div class="sc-src">Source: EnergySage 2026 marketplace data</div></div>
-
 
 ## Where SolarEdge Wins
 
@@ -77,7 +71,7 @@ One worked example: A homeowner in Tucson, Arizona, 12 kW system, completely uns
 
 Shading changes the math fast. And I mean that literally: even a single panel producing at 50% can pull down an entire SolarEdge string's output in certain configurations, despite what the optimizer marketing might suggest. NREL's research on partial shading impact on DC-optimized systems versus microinverter systems shows that microinverters maintain higher energy harvest under complex shading scenarios, particularly when multiple shade sources affect different parts of the array at different times of day.
 
-Here's what I thought for years, and I was wrong about this: I assumed SolarEdge's power optimizers would eliminate shading losses almost as well as microinverters. They don't. The optimizers reduce shading losses compared to a basic string inverter, but they don't eliminate them the way individual microinverters do. Each microinverter operates completely independently. An optimizer is still constrained by the string architecture.
+SolarEdge's power optimizers reduce shading losses compared to a basic string inverter, but they don't eliminate them the way microinverters do. Each microinverter operates completely independently. An optimizer is still constrained by the string architecture.
 
 For roofs with dormers, chimneys, vent pipes, or nearby trees, Enphase is usually the right call. Full stop.
 
@@ -104,7 +98,6 @@ A third worked example on the long-term math: A 10 kW SolarEdge system experienc
 - [Oregon Public Utility Commission, Residential Electricity Rate Data (2026)](https://www.oregon.gov/puc): State-level retail electricity pricing used in cost-benefit modeling
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

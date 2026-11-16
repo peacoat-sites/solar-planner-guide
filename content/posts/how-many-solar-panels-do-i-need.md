@@ -51,7 +51,7 @@ Look for your **annual kWh usage**, which most utilities now print straight on t
 
 A few things to watch:
 
-**Electric vehicles.** A Level 2 EV charger can add 3,000 to 4,500 kWh annually to your household, depending on driving habits. I've seen people get quotes for 10-panel systems, then buy an EV six months later and still face significant bills.
+**Electric vehicles.** A Level 2 EV charger can add 3,000 to 4,500 kWh annually to your household, depending on driving habits. Homeowners may get quotes for 10-panel systems, then purchase an EV afterward and still face significant bills.
 
 **Upcoming changes.** Planning to add central air? Finish the basement? Have a kid moving back in? Size for where you're going, not where you are.
 
@@ -146,7 +146,6 @@ The honest answer to "how many panels do I need" is that it takes about 20 minut
 - [Emporia Energy Solar Monitor (on Amazon)](https://www.amazon.com/s?k=solar+energy+monitor)
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

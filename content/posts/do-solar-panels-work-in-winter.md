@@ -35,7 +35,7 @@ Here's what most people get backwards: solar panels don't run on heat. They run 
 
 This sounds like a marketing line, but the physics backs it up. Solar panels are rated at a standard test condition of 25°C (77°F). When panel temperatures exceed that, output degrades. Most silicon panels lose somewhere between 0.3% and 0.5% of their output for every degree Celsius above that threshold. In Arizona in August, panel surface temperatures can hit 65°C or higher. That's a 20% efficiency penalty just from heat.
 
-Flip that around. A crisp 35°F winter day keeps your panels cool, which means they're operating closer to their rated capacity. I've seen production logs from homeowners in Vermont and Wisconsin where January output per hour of sunlight actually beat their July numbers on a watt-per-panel basis. The summer wins on volume because of longer days, but winter often wins on efficiency per photon.
+Flip that around. A crisp 35°F winter day keeps your panels cool, which means they're operating closer to their rated capacity. Production data from cold climates like Vermont and Wisconsin often shows January output per hour of sunlight beating July numbers on a watt-per-panel basis. The summer wins on volume because of longer days, but winter often wins on efficiency per photon.
 
 The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has documented this temperature coefficient effect extensively. It's real, it's measurable, and it's one of the most consistently overlooked factors in how people understand solar performance.
 
@@ -43,7 +43,7 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has doc
 
 Snow is where things get genuinely complicated, and I want to be straight with you here.
 
-A light dusting of snow? It slides off most panels within hours, especially on roofs with a pitch steeper than 15 to 20 degrees. Modern panels have a slick tempered glass surface and dark cells that absorb heat, which accelerates melting. In my experience, 2 to 3 inches of snow on a 30-degree pitched roof is often gone by mid-morning on a sunny winter day.
+A light dusting of snow? It slides off most panels within hours, especially on roofs with a pitch steeper than 15 to 20 degrees. Modern panels have a slick tempered glass surface and dark cells that absorb heat, which accelerates melting. Typically, 2 to 3 inches of snow on a 30-degree pitched roof clears by mid-morning on a sunny winter day.
 
 Heavy, wet snow is a different story. A thick accumulation can block output almost entirely. If you get 12 inches of heavy wet snow and temperatures stay below freezing for three days, those panels are essentially offline for that stretch. That's real lost production. Any installer who glosses over that fact is doing you a disservice.
 
@@ -124,7 +124,6 @@ On winter solar: it works, it just works differently than in summer. The honest 
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
 - [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
 - [Tesla Powerwall](https://www.amazon.com/s?k=home+battery+storage+solar)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

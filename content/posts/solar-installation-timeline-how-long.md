@@ -35,7 +35,7 @@ Here's what surprises most people: the physical installation itself takes one to
 
 The slow part is everything that happens before and after the install. Permit applications. Utility interconnection agreements. HOA approvals if you have them. Inspection scheduling. These are largely bureaucratic processes outside your installer's control, and they vary wildly by location.
 
-EnergySage has tracked this data across thousands of installs, and their numbers consistently show that permitting and interconnection account for most of the delay. In a place like Austin, Texas or Phoenix, Arizona, permits might get turned around in two to three weeks. In parts of California, New Jersey, or New York, I've seen homeowners wait three months just for permit approval, before a single panel goes up.
+EnergySage has tracked this data across thousands of installs, and their numbers consistently show that permitting and interconnection account for most of the delay. Permits typically take two to three weeks in faster jurisdictions like Austin, Texas or Phoenix, Arizona. In parts of California, New Jersey, or New York, the process can stretch to three months before installation begins.
 
 ## A Realistic Week-by-Week Breakdown
 
@@ -49,13 +49,11 @@ EnergySage has tracked this data across thousands of installs, and their numbers
 
 **Weeks 1-3: Site assessment, system design, and contract signing.** Your installer does a shading analysis, looks at your roof structure, pulls your utility bills, and designs a system. If you're doing your homework right, you're also collecting multiple quotes. EnergySage's data shows homeowners who get three or more quotes save an average of $3,000 to $5,000. Don't rush this phase.
 
-**Weeks 3-8: Permitting.** Your installer submits permit applications to your local building department. Some jurisdictions use online portals and turn things around in days. Others require paper submissions reviewed by a single overworked official. This is genuinely unpredictable. I've seen permits pull through in 10 days in Colorado Springs and take 11 weeks in parts of Long Island.
+**Weeks 3-8: Permitting.** Your installer submits permit applications to your local building department. Some jurisdictions use online portals and turn things around in days. Others require paper submissions reviewed by a single overworked official. Timelines vary widely by jurisdiction and are genuinely unpredictable.
 
 **Week 8-ish: The actual installation.** One to three days for most residential systems, typically 6kW to 12kW. Larger systems or complex roofs might push to four or five days. If you're adding a battery like a Tesla Powerwall or Enphase IQ Battery, that's another day.
 
 **Weeks 9-12: Inspection and utility interconnection.** After install, a city or county inspector has to sign off. Then you submit a Permission to Operate (PTO) application to your utility. The utility review is often the final chokepoint. Some utilities turn PTO around in a week. Others, I'm not kidding, take 8 to 12 weeks. Your system just sits there, fully installed, generating nothing, while you wait for a bureaucrat to flip a switch on their end.
-
-I've had readers email me genuinely baffled that their panels have been on their roof for two months and they still can't turn them on. This is why.
 
 ## What Can Actually Speed Things Up
 
@@ -92,7 +90,6 @@ This isn't theoretical. In Hawaii, some utilities were so overwhelmed with appli
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

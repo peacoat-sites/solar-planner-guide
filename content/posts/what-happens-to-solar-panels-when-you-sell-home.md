@@ -86,7 +86,7 @@ If you have a solar loan through a lender like Mosaic or GreenSky, get a payoff 
 
 ## What Buyers Are Actually Thinking
 
-A reader emailed me last year after inheriting a home with a 9-year-old leased SunPower system. She didn't want the panels, didn't want the lease, and couldn't afford the buyout. The sale dragged on for four months while they worked through a lease transfer to a buyer who was willing to take it on. The seller dropped the price $8,000 to make the deal work.
+For example, inheriting a home with a 9-year-old leased system can complicate a sale. If the homeowner can't afford the buyout and needs to arrange a lease transfer, the process can stretch months and require a price concession to close the deal.
 
 That's an extreme case, but it shows what buyers weigh: future savings versus hassle, obligation, and uncertainty. Most buyers are fine taking on a well-maintained, fully-owned system in a state with good net metering. They get lower electric bills from day one. That's an easy sell.
 
@@ -101,7 +101,6 @@ Pull out your solar contract and read the ownership and transfer clauses right n
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

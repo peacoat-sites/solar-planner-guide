@@ -30,15 +30,11 @@ What most people don't realize is that the technology has been around for years.
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Utah, Maine, Virginia, Colorado, Maryland, Connecticut, New Hampshire, and Vermont have all enacted laws legalizing plug-in solar. The details vary by state, and the wattage caps matter a lot.
 
 Colorado's HB26-1007, signed by Governor Polis on May 7, 2026, set the highest cap in the country at 1,920 watts per meter. That's 60% higher than most other states and enough to run two or three panels with serious output. If you're in Colorado and want to maximize what a plug-in system can do, you have more room to work with than anywhere else in the U.S.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Plug-in solar wattage cap by state (where specified)</div><div class="sc-row"><span class="sc-label">Colorado</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">1,920 W</span></div><div class="sc-row"><span class="sc-label">Most other states</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">1,200 W</span></div><div class="sc-row"><span class="sc-label">Germany (reference)</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">800 W</span></div><div class="sc-src">Source: PlugInSolarUS State Legislation Tracker, May 2026</div></div>
-
 
 Now look at what's happening right now. On June 30, 2026, New Jersey's Garden State Balcony Solar Act passed both chambers unanimously, 40-0 in the Senate and 79-0 in the Assembly, and is waiting for the governor's signature. On July 1, the Massachusetts Senate passed an energy bill that includes balcony solar provisions. New York's SUNNY Act (A9111C/S8512C) passed both chambers and is on Governor Hochul's desk. And California's SB 868, authored by Senator Scott Wiener, passed a Senate committee 12-0 and faces an August 31 deadline for an Assembly floor vote.
 
@@ -46,7 +42,7 @@ California is the one I'm watching most closely. The state's average residential
 
 ## The Safety Question (and Why It's Now Answered)
 
-I've seen a lot of skepticism from electricians and utility representatives about these systems, and honestly, some of it was fair. Older plug-in solar setups had no standardized safety certification in the U.S. The concern was backfeed, fire risk from poor connections, and incompatibility with home wiring.
+Electricians and utility representatives have raised concerns about these systems, and some of those concerns are legitimate. Older plug-in solar setups had no standardized safety certification in the U.S. The concern was backfeed, fire risk from poor connections, and incompatibility with home wiring.
 
 UL 3700, launched in January 2026, changed that. It's a full certification standard specifically designed for plug-in solar systems, covering anti-islanding protection (so the system shuts off if grid power goes out, protecting utility workers), connector safety, and inverter performance. If a kit carries UL 3700 certification, it's cleared the same kind of vetting process that covers your dishwasher or space heater. That's the standard to look for when shopping.
 
@@ -71,7 +67,7 @@ The Canary Media report from July 2, 2026 noted that even in states with laws on
 
 Here's the honest version. The 30% federal tax credit that made rooftop solar financially obvious for most homeowners is gone. A plug-in system doesn't fill that gap for someone who was planning a full rooftop installation. It's a different product for a different situation.
 
-But for someone in a legal state paying California-level rates, the math is reasonable. A $900 kit producing 800W in a decent sun climate might cut $15 to $25 off a monthly electricity bill, according to figures from Solar.com and WattBuild. That's a 3 to 5 year simple payback, no installer, no permit fees, no utility application. I've seen rooftop installations with worse economics after incentives.
+But for someone in a legal state paying California-level rates, the math is reasonable. A $900 kit producing 800W in a decent sun climate might cut $15 to $25 off a monthly electricity bill, according to figures from Solar.com and WattBuild. That's a 3 to 5 year simple payback, no installer, no permit fees, no utility application.
 
 The plug-in solar wave isn't a replacement for rooftop solar. It's the thing that finally lets everyone else participate.
 

@@ -60,7 +60,7 @@ Using 400-watt monocrystalline panels (a common size today), you'd need 25 panel
 
 Using 330-watt polycrystalline panels, you'd need 31 panels to hit the same 10 kW. That's roughly 680 square feet.
 
-If your usable south-facing roof space is limited by dormers, vents, or shade, that 130-square-foot difference can mean the difference between getting your target system size on your roof or not. For homeowners with large, clear roof planes, it matters less. But I've seen plenty of cases where someone committed to poly panels and couldn't fit enough to offset their bill.
+If your usable south-facing roof space is limited by dormers, vents, or shade, that 130-square-foot difference can mean the difference between getting your target system size on your roof or not. For homeowners with large, clear roof planes, it matters less. For homeowners with limited roof space, committing to poly panels may result in not fitting enough to offset their bill.
 
 The National Renewable Energy Laboratory (NREL) has documented efficiency improvements in monocrystalline technology consistently outpacing polycrystalline in recent years, with top-of-line mono panels now regularly exceeding 22% in real-world conditions. That research trajectory has practical implications: the efficiency gap isn't closing, it's widening.
 
@@ -106,8 +106,6 @@ Use this table as a starting point, not a final verdict. Your specific roof, cli
 
 ## How to Choose: A Practical Decision Framework
 
-I've helped hundreds of homeowners work through this exact decision. Here's how I actually walk through it.
-
 **Step 1: Measure your usable roof space.** Ask your installer for the exact square footage of roof area that passes shade analysis. If you have less than 600 to 700 usable square feet and you need a system larger than 8 kW, monocrystalline is almost certainly the right call.
 
 **Step 2: Check your local climate.** Look up your city's average summer high temperatures. If you're routinely above 90°F in summer and care about peak afternoon production, mono's better temperature coefficient has real dollar value.
@@ -131,7 +129,6 @@ The honest truth is that for most homeowners making a new installation decision 
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

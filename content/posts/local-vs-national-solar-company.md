@@ -52,15 +52,13 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has tra
 
 > **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'd push back on the conventional wisdom: most people assume that a national company's warranty is more trustworthy because the company is "more stable." I'd argue the opposite is often true, and SunPower's bankruptcy is the cleanest example available. Homeowners with 25-year workmanship warranties suddenly found themselves dealing with a company in financial restructuring. Warranties are only as good as the company that survives to honor them.
 
 Local companies have their own version of this risk. Small installers go out of business too, sometimes faster. But here's what actually protects you regardless of company size: manufacturer warranties on the panels and inverters (typically 25 years for panels from brands like REC, Panasonic, or Qcells; 10-12 years for string inverters from SMA or SolarEdge), and your state's contractor licensing board as a backstop for workmanship complaints. Don't let either type of installer make you feel like their company-specific warranty is your primary protection. It isn't.
 
 ## What Local Installers Actually Do Better
 
-The interconnection process with your utility is the part of solar installation that nobody talks about until it's causing a three-month delay. A local installer who has done 50 jobs with your specific utility knows exactly what the interconnection application needs to say, which inspector wants what documentation, and whether the utility's current queue is running two weeks or eight weeks. A national company's permitting department in another state does not know this. I've watched jobs get delayed by months because a permit was filed with the wrong local variation on a detail that an experienced local crew would have handled in their sleep.
+The interconnection process with your utility is the part of solar installation that nobody talks about until it's causing a three-month delay. A local installer who has done 50 jobs with your specific utility knows exactly what the interconnection application needs to say, which inspector wants what documentation, and whether the utility's current queue is running two weeks or eight weeks. A national company's permitting department in another state does not know this. Jobs often get delayed when permits are filed with the wrong local variation on a detail that experienced local crews handle routinely.
 
 Local installers also tend to be faster to respond for service calls. This matters more than people think. If your inverter goes offline in February and your monitoring app shows zero production, you want someone on-site within a day or two, not a scheduling queue that routes through a national call center. Speaking of monitoring: whether you go local or national, set up your own independent monitoring. A device like the [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) (affiliate link, we may earn a commission) gives you a direct view of your system's output that doesn't depend on anyone's app or portal staying active.
 
@@ -78,10 +76,9 @@ Get at least three quotes: one from a national (or regional) company and two fro
 
 If the local options are sparse, if you live somewhere with limited installer competition, or if complex financing is what makes the economics work for your household, the national makes more sense. This isn't a dogmatic call. It's a numbers-and-specifics call.
 
-One more thing to do before signing with anyone: look up their contractor license number on your state's licensing board website and verify it's current and clean. Takes five minutes. I've had readers tell me they found expired licenses on companies with polished websites and impressive review counts. That's the kind of thing a saturated inbox of marketing emails will never mention.
+One more thing to do before signing with anyone: look up their contractor license number on your state's licensing board website and verify it's current and clean. Takes five minutes. Expired licenses sometimes appear on companies with polished websites and impressive review counts. That's the kind of thing a saturated inbox of marketing emails will never mention.
 
 ---
-
 
 ---
 
@@ -92,7 +89,6 @@ One more thing to do before signing with anyone: look up their contractor licens
 - [Emporia Vue energy monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

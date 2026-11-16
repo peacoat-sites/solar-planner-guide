@@ -16,7 +16,7 @@ lastmod: 2026-07-08
 ---
 Forty-seven thousand dollars. That's what one Phoenix family paid for a solar system they could've gotten for $31,000 from a different installer. Same panels. Nearly identical production estimates. Both companies had decent online reviews. The difference was a salesperson who pushed hard, moved fast, and gave them almost no time to compare.
 
-I've seen this more times than I can count. And honestly, a lot of solar advice out there focuses on the exciting stuff: your potential savings, the 30% federal tax credit, grid independence. Nobody wants to talk about the fact that this industry has a serious bad-actor problem. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has been pushing for stronger installer standards for years precisely because consumer complaints keep climbing alongside the market's growth.
+A lot of solar advice focuses on the exciting stuff: your potential savings, the 30% federal tax credit, grid independence. The industry does have a serious bad-actor problem that deserves attention. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has been pushing for stronger installer standards for years precisely because consumer complaints keep climbing alongside the market's growth.
 
 So let me tell you what I actually tell people when they sit down with me and say they've just gotten a quote.
 
@@ -88,7 +88,7 @@ Check for a valid state contractor's license (requirements vary by state, so ver
 
 #### Is it a red flag if an installer won't do a site visit before quoting?
 
-Honestly, yes, with one caveat. Many installers now use satellite imaging software like Nearmap or EagleView to do an initial remote assessment, which is fine for a ballpark quote. But before you sign anything, a physical site visit to assess your roof condition, attic structure, electrical panel, and shading should happen. If they want a signature before anyone has been on your property, walk away.
+Yes, with one caveat. Many installers now use satellite imaging software like Nearmap or EagleView to do an initial remote assessment, which is fine for a ballpark quote. But before you sign anything, a physical site visit to assess your roof condition, attic structure, electrical panel, and shading should happen. If they want a signature before anyone has been on your property, walk away.
 
 #### What should a solar contract always include?
 
@@ -113,7 +113,6 @@ You can find a good installer. They exist in every market. But they share the ma
 - [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

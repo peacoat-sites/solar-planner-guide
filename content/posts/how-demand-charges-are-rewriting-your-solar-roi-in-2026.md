@@ -37,13 +37,11 @@ This matters because solar doesn't produce power at night or during peak evening
 
 That might not sound catastrophic until you do the math. A homeowner saving $1,200 annually from solar production suddenly loses $340-$570 per year to demand charges. The payback period shifts from nine years to twelve or thirteen years. The internal rate of return drops from a respectable 8-10% to barely above 5%.
 
-I've seen installations in Nevada and Texas that penciled out at 8.5% IRR in early 2026 that wouldn't crack 6% under the new rate structures. Most installers still use old net-metering assumptions when they run your quote, because the software hasn't caught up to the regulatory reality.
+Installations in Nevada and Texas that penciled out at 8.5% IRR under earlier rate structures would not crack 6% under new rate structures. Most installers still use old net-metering assumptions when they run your quote, because the software hasn't caught up to the regulatory reality.
 
 ## Why Your Utility Is Doing This (And Why It Actually Matters)
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Utilities will tell you demand charges are about grid stability and cost allocation. That's not entirely wrong, but it's not the whole story. The real pressure is infrastructure. Capacity bottlenecks at distribution substations are now the fastest-growing cause of residential interconnection delays in 2026, according to solar interconnection research. When too many solar systems feed power back into a single transformer at the same time, grid operators lose visibility and control over voltage. The utility's solution is to make you the one who manages your peak usage.
 

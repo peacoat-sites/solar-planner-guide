@@ -50,8 +50,6 @@ If you can't find 12 months of bills, your utility's online portal almost always
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Once you have your annual kWh, the math is straightforward. I'll walk through it with a real example: a household using 12,000 kWh per year in Charlotte, North Carolina.
 
 **Step 1: Find your peak sun hours.** This isn't total daylight hours. It's the equivalent number of hours per day when sunlight intensity hits 1,000 watts per square meter. Charlotte averages about 4.8 peak sun hours per day. Phoenix runs closer to 6.5. Seattle scrapes by at around 3.5. NREL's PVWatts tool is the most reliable free source for this number by zip code, and it's what most serious installers actually use.
@@ -86,10 +84,9 @@ If a proposal comes in significantly larger than your calculated size, ask why. 
 
 The 30% federal investment tax credit is still in place through at least 2032 under current law. On a $28,000 system, that's $8,400 back in your pocket at tax time, though you need a sufficient tax liability to use it fully.
 
-A home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20) *(affiliate link)* installed before you go solar gives you a much sharper picture of where your kWh are actually going. I've had readers discover that an old chest freezer in the garage was adding 1,200 kWh per year to their bill. Replacing it before sizing a system saved them more than a panel's worth of capacity.
+A home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20) *(affiliate link)* installed before you go solar gives you a much sharper picture of where your kWh are actually going. For example, an old chest freezer in the garage might add 1,200 kWh per year to the bill. Replacing it before sizing a system could save more than a panel's worth of capacity.
 
 ---
-
 
 ---
 
@@ -100,7 +97,6 @@ A home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+
 - [EnergySage's market data](https://news.energysage.com/)
 - [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20)
 - [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

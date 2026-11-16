@@ -18,11 +18,9 @@ Something quietly significant happened in the solar industry this July, and [mos
 
 That sounds simple. It isn't. The arrival of a credible Battery-as-a-Service model changes how you should think about your existing solar array's size, your utility bill strategy, and the math on whether storage makes sense for you at all. And the timing matters: the residential solar tax credit under Section 25D expired for systems placed in service after December 31, 2025, meaning the old calculus of "buy the battery, grab the 30% credit" is gone for most homeowners. According to GreenLancer's July 2026 breakdown of the credit expiration, the federal incentive is no longer available to homeowner-owned systems, but the [investment tax credit](/itc-solar-investment-tax-credit-explained/) can still flow to third-party owners like Palmetto under a lease structure. That's not a small detail. It's the entire financial logic behind why these subscription models are suddenly worth taking seriously.
 
-I'll be honest: when I first saw the $98/month number, my instinct was to run the simple math and call it overpriced. What surprised me was how much the analysis changes once you factor in where the [tax credit](/solar-roi-without-the-30-tax-credit-how-to-recalculate-now/) actually lands now, what happens to an undersized solar array when you add storage, and how arbitrage capability affects the ROI picture for households in states with time-of-use rates.
-
+At first glance, a $98/month number might seem overpriced, but the analysis changes significantly once you factor in where the [tax credit](/solar-roi-without-the-30-tax-credit-how-to-recalculate-now/) actually lands now, what happens to an undersized solar array when you add storage, and how arbitrage capability affects the ROI picture for households in states with time-of-use rates.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Palmetto's battery subscription costs $98/month with $0 down across 25 states as of July 2026.</li><li style="margin:5px 0">The 30% federal solar tax credit expired after December 31, 2025 for homeowner-owned systems.</li><li style="margin:5px 0">Leased batteries let a third-party owner claim the investment tax credit, lowering your effective cost.</li><li style="margin:5px 0">Four million U.S. solar homeowners currently have no storage ,  this product targets them directly.</li><li style="margin:5px 0">Competing services from Base Power, Lunar Energy/Octopus, and Solrite are already live in Texas.</li></ul></div>
-
 
 ## The Tax Credit Shift Changes the Buy-vs-Lease Calculation
 
@@ -35,8 +33,6 @@ Over a 12-year term at $98/month, you're looking at roughly $14,112 in total pay
 ## How Your Solar Array Size Affects Storage ROI
 
 > **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where most of the conversation about Battery-as-a-Service gets oversimplified. Adding storage to an existing solar array isn't a plug-and-play situation. The value you extract from a battery depends heavily on how much solar you're actually generating relative to what your home consumes.
 

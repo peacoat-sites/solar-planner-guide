@@ -66,7 +66,7 @@ A Tesla Powerwall 3 holds 13.5 kWh of usable storage and costs roughly $9,500 to
 
 Batteries do make sense when you're chasing multiple goals: backup power during outages, avoiding demand charges (relevant in some states), and time-of-use arbitrage where the gap between peak and off-peak rates is large. California has some utilities where peak rates hit $0.58/kWh and off-peak rates are $0.28/kWh. In that environment, charging a Powerwall during cheap solar hours and discharging at peak makes financial sense.
 
-If you want to track your solar production and home consumption without committing to a full battery system, a [home energy monitor like the Emporia Vue Gen 3](https://www.amazon.com/s?k=emporia+vue+energy+monitor) (the site may earn a commission on purchases) gives you real-time visibility into exactly where your kilowatt-hours are going. That data alone has helped clients I've worked with cut their net bill by 15 to 20 percent just by shifting when they run appliances.
+If you want to track your solar production and home consumption without committing to a full battery system, a [home energy monitor like the Emporia Vue Gen 3](https://www.amazon.com/s?k=emporia+vue+energy+monitor) (the site may earn a commission on purchases) gives you real-time visibility into exactly where your kilowatt-hours are going. Tracking consumption data can reveal opportunities to cut your net bill by 15 to 20 percent just by shifting when you run appliances.
 
 ## Time-of-Use Rates and Net Metering: The Financial Engine
 
@@ -81,11 +81,9 @@ Here's the play that solar-plus-EV owners can run:
 3. You charge your EV during off-peak overnight hours at the lowest grid rates, OR you use smart charging to use only your solar surplus during the day.
 4. You avoid drawing from the grid during peak hours (4 to 9 PM) when rates are highest.
 
-The combination of reducing peak consumption and banking net metering credits can mean some EV-solar households pay close to zero in net electricity costs annually. I've seen this in practice with clients in states with favorable net metering policies. It's not universal, but it's achievable with the right setup.
+The combination of reducing peak consumption and banking net metering credits can mean some EV-solar households pay close to zero in net electricity costs annually. It's not universal, but it's achievable with the right setup.
 
 ## Step-by-Step: Optimizing Your Solar-EV Setup
-
-Here's how I'd actually approach this if I were setting it up for my own home today.
 
 **Step 1: Audit your current solar production and home consumption.**
 Get at least 12 months of data from your inverter app or utility portal. Know your average daily production and peak production hours.
@@ -121,7 +119,7 @@ Real results take a full billing cycle or three to show up. Track your net meter
 
 ---
 
-Solar and EV charging are genuinely better together than apart, but only when you approach them as a system. The homeowners I've seen get the best results are the ones who spent a few hours understanding their utility rate structure, chose a smart charger, and sized their solar array with the car in mind from the start. It's not complicated once you have the right framework. And the combination of driving on sunlight while watching your electricity bill shrink toward zero is, I'll admit, a deeply satisfying thing to pull off.
+Solar and EV charging are genuinely better together than apart, but only when you approach them as a system. The best results come from spending a few hours understanding your utility rate structure, choosing a smart charger, and sizing your solar array with your EV in mind from the start. It's not complicated once you have the right framework.
 
 ---
 
@@ -132,7 +130,6 @@ Solar and EV charging are genuinely better together than apart, but only when yo
 - [Emporia Smart EV Charger](https://www.amazon.com/s?k=emporia+smart+ev+charger)
 - [home energy monitor like the Emporia Vue Gen 3](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

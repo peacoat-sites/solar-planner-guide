@@ -37,7 +37,7 @@ The short answer is 25 to 30 years of meaningful electricity production, with ma
 
 That number sounds tiny. Let's make it concrete: a panel rated at 400 watts on day one will produce roughly 380 watts after 10 years, about 360 watts after 20 years, and close to 340 watts at the 30-year mark. Most manufacturer performance warranties guarantee at least 80% of original output at year 25, which aligns with NREL's findings. You're not losing half your power. You're losing roughly 12 to 15% over a quarter century.
 
-I've seen panels installed in the early 1990s still generating electricity on Arizona rooftops. They're producing less than they once did, but they're working. The real question isn't whether your panels will "die" at 25 years. It's how much less they'll produce, and whether that matters for your specific situation.
+Panels installed in the early 1990s have been documented still generating electricity on Arizona rooftops decades later. They're producing less than they once did, but they're working. The practical question isn't whether your panels will "die" at 25 years, but how much less they'll produce and whether that decline affects your energy needs.
 
 ## What Causes Solar Panels to Degrade
 
@@ -126,7 +126,6 @@ Thirty years ago, people asked whether solar panels would even work. Today the q
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Kindel Media](https://www.pexels.com/@kindelmedia)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

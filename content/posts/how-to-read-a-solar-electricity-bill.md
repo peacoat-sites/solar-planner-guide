@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Your first solar bill arrives and you feel like someone handed you a tax form written in a foreign language. Rows of numbers, unfamiliar terms, a balance that might be a credit or a charge, you're honestly not sure. I've watched this exact moment of confusion play out hundreds of times across kitchen tables, and I want to tell you: this is not you being bad at paperwork. Solar bills are genuinely weird, at least until someone explains what's actually going on.
+Your first solar bill arrives and you feel like someone handed you a tax form written in a foreign language. Rows of numbers, unfamiliar terms, a balance that might be a credit or a charge, you're honestly not sure. This moment of confusion is common, and it's not a sign you're bad at paperwork. Solar bills are genuinely weird, at least until someone explains what's actually going on.
 
 So let me do that.
 
@@ -50,8 +50,6 @@ Here's what I tell people who are new to this: stop reading your solar bill the 
 
 > **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Most solar bills from grid-connected utilities will include some version of these charges and credits. The exact labels vary by utility, but the underlying logic doesn't.
 
 **Energy charges.** This is what you owe for the grid electricity you actually consumed. If your panels covered most of your daytime usage, this number should be much lower than it used to be. But almost no system covers 100% of consumption all the time, especially at night, so there's almost always something here.
@@ -62,7 +60,7 @@ Most solar bills from grid-connected utilities will include some version of thes
 
 **Fuel adjustment charges, distribution charges, taxes.** These smaller line items add up faster than you'd think. They're the reason your bill never reaches zero even in a month where your panels way outproduced your usage.
 
-One thing installers often gloss over: your bill can show a net metering credit while still having an amount due. That's not an error. It means your credits didn't fully offset the fixed charges and miscellaneous fees. I've seen homeowners call their installer in a panic over this, and it's almost always explained by a $15 fixed customer charge sitting below the credit line.
+One thing installers often gloss over: your bill can show a net metering credit while still having an amount due. That's not an error. It means your credits didn't fully offset the fixed charges and miscellaneous fees. This situation is usually explained by a fixed customer charge (often around $15) sitting below the credit line.
 
 ## Understanding the Annual True-Up
 
@@ -95,7 +93,6 @@ The smarter target, in my opinion, is minimizing your annual net cost after all 
 
 ---
 
-
 ---
 
 ## Sources
@@ -105,7 +102,6 @@ The smarter target, in my opinion, is minimizing your annual net cost after all 
 - [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20)
 - [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20)
 - [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

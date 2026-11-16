@@ -25,7 +25,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 lastmod: 2026-07-08
 ---
-A solar salesperson tells you the system will pay for itself in 6 years. Sounds great. Then you ask how they got that number and get something about "average savings" with zero real backing. I've watched clients get quotes promising 8-year paybacks that, once we ran actual numbers, landed closer to 14 years. The gap wasn't dishonesty so much as sloppy math and wishful thinking. This guide shows you how to do it yourself, honestly, so you know what you're actually signing up for.
+A solar salesperson tells you the system will pay for itself in 6 years. Sounds great. Then you ask how they got that number and get something about "average savings" with zero real backing. Quotes promising 8-year paybacks sometimes land closer to 14 years once actual numbers are calculated. The gap often comes from sloppy math and wishful thinking rather than intentional dishonesty. This guide shows you how to do it yourself, honestly, so you know what you're actually signing up for.
 
 ## What Solar ROI Actually Means (And What It Doesn't)
 
@@ -150,7 +150,6 @@ Solar can be an excellent investment, mediocre, or terrible depending entirely o
 - [DSIRE (dsireusa.org)](https://www.dsireusa.org/)
 - [Sense Home Energy Monitor](https://www.amazon.com/s?k=sense+home+energy+monitor)
 - [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

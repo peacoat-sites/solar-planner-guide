@@ -25,7 +25,7 @@ author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 lastmod: 2026-07-08
 ---
-Most homeowners I talk to assume solar batteries are basically just [backup power](/solar-battery-backup-for-power-outages/) for blackouts. That's the pitch you'll hear from installers, and it's not wrong, but it's about a third of the actual story. I've seen people drop $12,000 to $15,000 on a battery system expecting to cut their electric bill in half, only to find their monthly savings barely budged. I've also seen homeowners in time-of-use utility markets turn their battery into a genuine money machine. The difference almost always comes down to one thing: whether they understood their specific situation before signing the contract.
+Many homeowners assume solar batteries are basically just [backup power](/solar-battery-backup-for-power-outages/) for blackouts. That's the pitch you'll hear from installers, and it's not wrong, but it's about a third of the actual story. Some people spend $12,000 to $15,000 on a battery system expecting to cut their electric bill in half, only to find their monthly savings barely budge. Others in time-of-use utility markets can turn their battery into a genuine money maker. The difference almost always comes down to one thing: whether they understood their specific situation before signing the contract.
 
 ## What Solar Batteries Actually Do (And What They Don't)
 
@@ -131,7 +131,6 @@ The honest bottom line is that a battery is a genuinely good investment for some
 - [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
 - [Sense Home Energy Monitor](https://www.amazon.com/s?k=Sense+Home+Energy+Monitor)
 - [solar charge controller](https://www.amazon.com/s?k=solar+charge+controller)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

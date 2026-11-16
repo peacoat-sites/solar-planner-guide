@@ -30,7 +30,7 @@ A homeowner I spoke with last year had a $340 electric bill in August. Not becau
 
 That's the opportunity cost nobody leads with.
 
-A whole home solar energy system is exactly what it sounds like: enough solar capacity to meaningfully offset your entire household's electricity consumption, not just trim the edges. Most of what gets sold as "solar" falls short of that. I've seen 4-kilowatt systems installed on homes that use 1,400 kWh a month. That's not a solar home. That's a solar accessory.
+A whole home solar energy system is exactly what it sounds like: enough solar capacity to meaningfully offset your entire household's electricity consumption, not just trim the edges. Most of what gets sold as "solar" falls short of that. A 4-kilowatt system on a home using 1,400 kWh a month falls far short of true whole-home coverage. That's a solar accessory, not a solar home.
 
 Here's how to actually do this right.
 
@@ -56,8 +56,6 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) publish
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 A system genuinely designed to cover your whole home typically runs between 8 kW and 15 kW for most residential installations. At current pricing (roughly $2.50 to $3.50 per watt installed before incentives), that's a $20,000 to $52,000 gross cost. After the federal Investment Tax Credit, which is currently 30%, you're looking at $14,000 to $36,000 out of pocket depending on system size and your specific installer.
 
 On panels: the premium tier right now is pretty clearly REC Alpha Pure or Panasonic EverVolt for efficiency and warranty terms. Both push 22%+ panel efficiency. If your roof space is limited, efficiency matters a lot. If you've got a big south-facing roof with no shading, you can use slightly less efficient panels and make it up in quantity. SunPower's Maxeon line is excellent but tends to come with a price premium that's hard to justify unless space is genuinely constrained.
@@ -72,7 +70,7 @@ One battery for backup, two for meaningful daily cycling. That's usually the pra
 
 ## The Roof Conversation Nobody Wants to Have
 
-I've watched people spend $28,000 on a solar system and then spend $12,000 on a roof replacement two years later, which required removing and reinstalling the panels at additional cost. Don't be that person.
+A common pitfall: installing solar before addressing roof condition. A $28,000 system may require costly panel removal and reinstallation if the roof needs replacement within a few years. Check roof condition first.
 
 If your roof is more than 15 years old, get a roofing inspection before you sign anything with a solar installer. Most shingle roofs last 25-30 years. Solar panels will be on your roof for 25+ years. The math on timing matters.
 
@@ -86,7 +84,7 @@ State incentives vary wildly. Massachusetts, New York, and Illinois have strong 
 
 Payback periods. The honest range for a well-designed system in a good market is 7 to 11 years. Installers who tell you 5 years are probably cherry-picking assumptions. Anyone quoting you more than 12 years in a net-metered state, barring unusual circumstances, has probably oversized your system or the electricity rates in your area are genuinely very low. After payback, you're generating essentially free electricity for another 15 to 20 years. That's the actual value proposition.
 
-One thing worth monitoring after installation: a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) *(the site may earn a commission on this link)* gives you real-time visibility into what your system is producing versus what your home is consuming. It costs around $70 and it's one of the best investments you can make alongside a solar install. I've seen it help homeowners catch underperforming panels months before their installer would have flagged the issue.
+One thing worth monitoring after installation: a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20) *(the site may earn a commission on this link)* gives you real-time visibility into what your system is producing versus what your home is consuming. It costs around $70 and it's one of the best investments you can make alongside a solar install. Real-time monitoring can catch underperforming panels long before standard installer checks would flag the problem.
 
 ## Getting Multiple Quotes (and What to Look For in Each)
 
@@ -98,7 +96,6 @@ Check the installer's track record on NABCEP certification and look up reviews s
 
 ---
 
-
 ---
 
 ## Sources
@@ -108,7 +105,6 @@ Check the installer's track record on NABCEP certification and look up reviews s
 - [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20)
 - [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=emporia+vue+energy+monitor&tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

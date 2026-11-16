@@ -25,7 +25,7 @@ faqs:
     a: "Solar panels fall under the Residential Clean Energy Credit (30% through 2032, no income limit, no cap). Heat pumps qualify under the Energy Efficient Home Improvement Credit, which is capped at $2,000 per year. These are two separate credits, but you can claim both in the same tax year. Talk to a tax professional about your specific situation, since the heat pump credit is nonrefundable and has rules around timing."
 lastmod: 2026-07-08
 ---
-Most solar installers will quote you a panel system and wave vaguely at "future battery storage" as an upsell. What they rarely bring up unprompted is the combination that actually changes the math more than any battery ever will: pairing solar panels with a heat pump. I've spent years watching homeowners obsess over storage while leaving a far bigger opportunity sitting right there in their mechanical room.
+Most solar installers will quote you a panel system and wave vaguely at "future battery storage" as an upsell. What they rarely bring up unprompted is the combination that actually changes the math more than any battery ever will: pairing solar panels with a heat pump. Many homeowners focus on battery storage while overlooking a bigger opportunity: pairing solar with a heat pump.
 
 Here's the honest version of what this pairing does, what it costs, and where it falls apart.
 
@@ -45,7 +45,7 @@ This is where a lot of homeowners get sticker shock and walk away from a decisio
 
 A mid-size heat pump system for a 2,000 square foot home, say a 3-ton ducted unit or two to three mini-split zones, runs $5,000 to $15,000 installed depending on whether you're adding ductwork. A solar array sized to cover that heat pump's electricity needs, roughly 8 to 12 kW for most homes in the continental U.S., costs around $24,000 to $36,000 before incentives, based on the current national average of about $2.95 per watt that EnergySage tracks.
 
-Now the good part. The federal Inflation Reduction Act (IRA) 30 percent tax credit applies to both systems, and it's available through at least 2032. Stack that on top of state incentives, utility rebates, and in some states, heat pump-specific programs, and you can realistically cut your combined out-of-pocket cost by 40 percent or more. A $40,000 combined project could net down to $24,000 or less. With energy savings of $200 to $350 a month replacing your old gas and electric bills, payback periods of 7 to 10 years are achievable. In high-electricity-cost states like California, Massachusetts, or New York, I've seen real-world cases closer to 6 years.
+Now the good part. The federal Inflation Reduction Act (IRA) 30 percent tax credit applies to both systems, and it's available through at least 2032. Stack that on top of state incentives, utility rebates, and in some states, heat pump-specific programs, and you can realistically cut your combined out-of-pocket cost by 40 percent or more. A $40,000 combined project could net down to $24,000 or less. With energy savings of $200 to $350 a month replacing your old gas and electric bills, payback periods of 7 to 10 years are achievable. In high-electricity-cost states like California, Massachusetts, or New York, payback periods can be closer to 6 years.
 
 One thing installers often gloss over: if you're in a state with Time-of-Use (TOU) electricity pricing, you can program a smart heat pump thermostat to pre-cool or pre-heat your home during the solar production window, essentially using your house as a thermal battery. No $10,000 Powerwall required. A good smart thermostat like the Ecobee SmartThermostat Premium (around $250 on [Amazon](https://www.amazon.com/s?k=ecobee+smart+thermostat&tag=contentportfo-20)) can do this automatically once you set the schedule.
 
@@ -79,7 +79,6 @@ Older homes with only 100-amp electrical service will likely need a panel upgrad
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20)
 - [Dhruvan Patel](https://www.pexels.com/@dhruvan-patel-1353558181)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

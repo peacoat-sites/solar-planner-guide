@@ -43,7 +43,7 @@ The tradeoff is that you're giving up ownership, and with ownership goes the [fe
 
 Let's be fair here. A PPA isn't a scam. For the right household, it makes a lot of sense.
 
-**Zero upfront cost and no maintenance burden.** The company handles repairs, inverter replacements, and monitoring. If a panel fails, that's their problem, not yours. I've seen clients on fixed incomes or tight budgets get meaningful electricity savings with no financial risk. That's a real benefit.
+**Zero upfront cost and no maintenance burden.** The company handles repairs, inverter replacements, and monitoring. If a panel fails, that's their problem, not yours. Homeowners on fixed incomes or tight budgets can get meaningful electricity savings with no financial risk. That's a real benefit.
 
 **Predictable electricity costs.** Your PPA rate is locked in, or escalates at a known annual percentage (more on that escalator in a moment). When utility rates in your area spike, and they will, you're partially insulated. According to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), residential electricity prices have risen about 2-3% annually on average over the past decade. If your PPA rate escalator is 1.5% and utilities go up 3%, you're winning that spread.
 
@@ -131,7 +131,6 @@ A solar PPA can be a genuinely good deal for the right homeowner, or a 25-year f
 - [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

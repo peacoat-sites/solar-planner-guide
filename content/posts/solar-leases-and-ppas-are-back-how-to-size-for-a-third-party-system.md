@@ -71,7 +71,7 @@ Battery attachment rates for new residential systems hit 40% nationally in Q1 20
 
 The 205% surge in installations in the second half of 2025, as homeowners raced to beat the Section 25D deadline, left installers flush with completed projects and now facing a slower 2026 market. Per PV Tech's March 2026 analysis, the industry is in adjustment mode, managing a post-surge demand gap while retooling around third-party products.
 
-Slower markets favor buyers. Installers who were turning away customers in late 2025 are now competing on price and terms. That's leverage. Use it to negotiate a lower PPA escalator, a stronger production guarantee, or a more favorable early buyout schedule, not necessarily a lower starting rate, which is what they'll offer first because it's the number that shows up in marketing.
+Slower markets favor buyers. Installers who were turning away customers in late 2025 are now competing on price and terms. Use it to negotiate a lower PPA escalator, a stronger production guarantee, or a more favorable early buyout schedule, not necessarily a lower starting rate, which is what they'll offer first because it's the number that shows up in marketing.
 
 The shift in 2026 is fundamental: leases and PPAs are no longer the consolation prize for homeowners who couldn't qualify for financing. They're the primary vehicle now, and they deserve primary-vehicle scrutiny. Read the contract as carefully as you'd read a 25-year mortgage, because that's roughly what it is.
 

@@ -29,9 +29,7 @@ Most homeowners who go solar [have never heard](/the-july-4-solar-deadline-most-
 
 So let's talk about what SRECs are, where they pay well, where they pay [almost nothing](/how-to-size-a-solar-system-when-exporting-power-pays-almost-nothing/), and what the installers pitching you a system in Ohio probably won't emphasize enough.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SRECs (Solar Renewable Energy Credits) are tradable certificates, one issued per 1,000 kWh your system produces.</li><li style="margin:5px 0">SREC prices range from under $5 in oversaturated markets to over $300 in New Jersey and DC as of mid-2026.</li><li style="margin:5px 0">Only about 15 states have active SREC markets; most states offer zero SREC income.</li><li style="margin:5px 0">A 10 kW system in NJ can generate $1,500–$3,000/year in SREC revenue at current prices.</li><li style="margin:5px 0">SRECs are taxable income in most situations; factor that into your ROI math.</li></ul></div>
-
 
 ## What an SREC Actually Is
 
@@ -43,15 +41,11 @@ That legal mandate is what gives SRECs real monetary value. Without an RPS with 
 
 > **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where most solar articles fail you. They explain what SRECs are and then leave you to figure out whether your state has a market. I'll be direct: most don't.
 
 As of July 2026, the states with meaningful, liquid SREC markets are: New Jersey, Massachusetts, Maryland, Washington D.C., Pennsylvania, Ohio (declining), Illinois (via the SREC-II program), and Virginia. A handful of others have thin or emerging markets. If you're in Texas, Arizona, Florida, or most of the West, SRECs are essentially not a factor in your solar economics.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Approximate SREC prices mid-2026 ($/credit)</div><div class="sc-row"><span class="sc-label">New Jersey</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$285</span></div><div class="sc-row"><span class="sc-label">Washington DC</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$375</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">$195</span></div><div class="sc-row"><span class="sc-label">Maryland</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$65</span></div><div class="sc-row"><span class="sc-label">Illinois</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$72</span></div><div class="sc-row"><span class="sc-label">Ohio</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$8</span></div><div class="sc-row"><span class="sc-label">Pennsylvania</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$12</span></div><div class="sc-src">Source: SRECtrade &amp; EnergySage market data, 2026</div></div>
-
 
 Those DC numbers aren't a typo. Washington D.C.'s Renewable Portfolio Standard requires 10% solar by 2041 with steep Alternative Compliance Payments (ACPs) if utilities fall short. That ACP acts as a price ceiling for SRECs, and DC's has historically sat around $500 per credit. The market price trades below that ceiling, but not by much. I've talked to DC homeowners clearing $4,000+ annually from a mid-size system. That's life-changing in terms of payback period.
 
@@ -76,7 +70,7 @@ Here's something nobody explains clearly until you're trying to figure out why y
 The general process works like this:
 
 1. Install a certified solar system with a production meter (your installer handles this part, but confirm it explicitly).
-2. Register with your state's SREC tracking system. In New Jersey, that's the GATS system through PJM. Massachusetts uses NEPOOL-GIS. Maryland uses GATS as well. Each has its own registration form, and I've seen homeowners lose six months of credits because they delayed registration. Those credits don't backdate.
+2. Register with your state's SREC tracking system. In New Jersey, that's the GATS system through PJM. Massachusetts uses NEPOOL-GIS. Maryland uses GATS as well. Each has its own registration form, and delayed registration can mean losing months of credits. Those credits don't backdate.
 3. Credits accrue monthly or quarterly depending on your state.
 4. Sell through an SREC aggregator or broker (companies like SRECtrade, Flett Exchange, or Sol Systems) or through a long-term contract with a utility. Aggregators take a small fee, typically 5–10%. Long-term contracts offer price certainty but you'll usually accept a discount to spot prices.
 5. Get paid. Frequency depends on your agreement, usually quarterly.
@@ -95,7 +89,7 @@ It's genuinely worth comparing SREC markets to the two main alternatives, becaus
 | Net metering only | TX, FL, AZ, most others | High (utility rate certainty) | None from SRECs | Grid policy changes |
 | Community solar credits | NY, CO, others | Medium | Moderate | Program caps |
 
-Illinois' SREC-II program, launched in phases under the Climate and Equitable Jobs Act, is worth watching. It's more structured than an open market, with set prices per credit that step down as capacity fills. I've had readers in suburban Chicago report decent income, but the waitlists for the program have been a real friction point. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) covers the broad incentive landscape without getting state-by-state granular, so you'll still need to check your state's PUC website for specifics.
+Illinois' SREC-II program, launched in phases under the Climate and Equitable Jobs Act, is worth watching. It's more structured than an open market, with set prices per credit that step down as capacity fills. The program has set prices per credit that step down as capacity fills, though waitlists can be a consideration. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) covers the broad incentive landscape without getting state-by-state granular, so you'll still need to check your state's PUC website for specifics.
 
 ## What Installers Won't Always Tell You
 
@@ -114,7 +108,6 @@ Ask any installer giving you SREC projections: what's your price assumption, and
 - PJM-EIS GATS / NEPOOL-GIS: State SREC tracking registries for Mid-Atlantic and New England markets
 
 ---
-
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

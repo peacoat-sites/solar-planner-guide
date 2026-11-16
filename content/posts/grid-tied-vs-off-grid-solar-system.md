@@ -20,7 +20,6 @@ The honest answer, most of the time, is no.
 
 That's not a knock. The marketing around off-grid living is genuinely seductive, and the grid-tied vs. off-grid decision is one where the "right" answer can vary by tens of thousands of dollars depending on factors most installers don't walk you through unprompted.
 
-
 <div class="value-module">
  <div class="vm-head">System Sizing & Cost Decision Matrix</div>
  <div class="vm-body">
@@ -46,11 +45,11 @@ Here's where I'm going to say something some installers won't: for the majority 
 
 A grid-tied system for a typical American home runs about $20,000-$30,000 before the 30% federal Investment Tax Credit (ITC), which has been extended through 2032. After that credit, you're often looking at $14,000-$21,000 out of pocket for a 6-12 kW system. [EnergySage's market data](https://news.energysage.com/) consistently shows average payback periods in the 7-10 year range depending on your state, utility rates, and net metering policy.
 
-Off-grid for the same home? Add a battery bank large enough to carry you through 2-3 cloudy days (industry standard for sizing), and you've easily added $20,000-$40,000 to the project. Plus you need a bigger array since there's no grid to lean on during low-production periods. Total system costs for a properly sized off-grid residential system regularly land between $45,000 and $80,000. I've seen quotes come in over $100,000 for large homes in cloudy climates.
+Off-grid for the same home? Add a battery bank large enough to carry you through 2-3 cloudy days (industry standard for sizing), and you've easily added $20,000-$40,000 to the project. Plus you need a bigger array since there's no grid to lean on during low-production periods. Total system costs for a properly sized off-grid residential system regularly land between $45,000 and $80,000. Quotes can come in over $100,000 for large homes in cloudy climates.
 
 The payback math basically collapses on off-grid if you already have grid access, because you're not offsetting a utility bill anymore. You've paid to replace the grid entirely. The value proposition flips completely when grid access isn't available. If you're building on 40 acres in rural Montana and the utility wants $50,000-$80,000 to run a line to your property, off-grid stops being a lifestyle choice and starts being the obvious economic decision.
 
-I've helped people make this call many times: pull one quote from the utility for grid extension, get one off-grid system quote, and compare them directly. Sometimes the numbers shock people in both directions.
+To decide between grid extension and off-grid, pull one quote from the utility for grid extension and get one off-grid system quote, then compare them directly. The numbers often shift expectations in both directions.
 
 ## How Sizing Works (And Why Off-Grid Is So Much Harder to Get Right)
 
@@ -58,7 +57,7 @@ Grid-tied systems are relatively forgiving to size. Underestimate your usage, an
 
 Off-grid sizing is different. You're designing to your worst-case scenario: January in Vermont, or three consecutive overcast days in the Pacific Northwest. You have to account for battery depth-of-discharge limits (you generally don't want to drain lithium iron phosphate batteries below 20% regularly if you want them to last 10+ years), inverter capacity, charge controller ratings, and the fact that your consumption patterns will change with seasons.
 
-I've seen off-grid systems spec'd too small because someone used their summer power bills to estimate usage and then discovered that electric heating in December ate through their battery bank by 9pm. I've also seen systems sized so conservatively that the customer spent $30,000 more than they needed to. The honest middle requires a detailed load analysis, hour by hour if possible, including loads people forget: well pumps, EV chargers, chest freezers, that weird plug-in wine cooler in the garage.
+Off-grid systems sized from summer power bills often fall short when winter heating loads drain the battery bank by 9pm. Conversely, overly conservative sizing can add $30,000 in unnecessary costs. A detailed load analysis, hour by hour if possible, finds the right balance. This should include loads people often forget: well pumps, EV chargers, chest freezers, and plug-in appliances like a wine cooler in the garage.
 
 If you're seriously considering off-grid, install a home energy monitor like the [Emporia Vue 2](https://www.amazon.com/Emporia-Monitor-Circuit-Electricity-Metering/dp/B08CJGPHL9?tag=contentportfo-20) (around $70-$80 on Amazon, and yes, this site may earn a commission on purchases) a year before you design the system. Real consumption data broken down by circuit is infinitely better than estimates when you're spending $50,000+ on a system.
 
@@ -121,7 +120,6 @@ Solar panels are roughly the same either way, typically 25-30 years. The differe
 - [The National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/)
 - [Emporia Vue 2](https://www.amazon.com/Emporia-Monitor-Circuit-Electricity-Metering/dp/B08CJGPHL9?tag=contentportfo-20)
 - [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

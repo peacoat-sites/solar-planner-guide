@@ -25,12 +25,11 @@ author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
 lastmod: 2026-07-08
 ---
-Most people ask the wrong question. They Google "how many solar panels do I need" expecting a clean answer, and they get some calculator that spits out a number without explaining any of the assumptions underneath it. I've watched homeowners get burned by this more times than I'd like to count, because they bought a system based on that number without understanding why it might be completely wrong for their house.
+Most people ask the wrong question. They Google "how many solar panels do I need" expecting a clean answer, and they get some calculator that spits out a number without explaining any of the assumptions underneath it. A common mistake is buying a system based on a generic calculator result without understanding the assumptions behind it, which can lead to a system that's completely wrong for your house.
 
 The honest answer is: it depends on four things, and two of them most installers won't bring up unless you ask.
 
 But let's actually work through this, because the math here isn't complicated. It just requires some real information about your home.
-
 
 <div class="value-module">
  <div class="vm-head">Solar Panel Sizing Worked Example</div>
@@ -71,7 +70,7 @@ But panels don't operate at theoretical efficiency. Heat, dust, wiring losses, a
 
 That's an 8-kilowatt system, which is fairly typical for average consumption. Most whole-home installations I see run between 6 kW and 12 kW, or somewhere around 15 to 30 panels depending on panel wattage.
 
-What surprised me when I first started running these numbers is how much peak sun hours shift the answer. Take that same home and drop it in Seattle (3.1 peak sun hours) versus Phoenix (6.5 peak sun hours), and you're looking at 29 panels versus 14 panels for identical electricity needs. That's a $10,000 to $15,000 difference.
+Peak sun hours make a dramatic difference in system sizing. Take that same home and drop it in Seattle (3.1 peak sun hours) versus Phoenix (6.5 peak sun hours), and you're looking at 29 panels versus 14 panels for identical electricity needs. That's a $10,000 to $15,000 difference.
 
 You can look up your location's peak sun hours through NREL's PVWatts Calculator, which is free and genuinely useful.
 
@@ -120,7 +119,6 @@ The right number of panels for your house comes down to your specific consumptio
 - [Amazon](https://www.amazon.com/s?k=home+energy+monitor)
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

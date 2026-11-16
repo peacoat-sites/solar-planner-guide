@@ -39,17 +39,15 @@ Panel direction is the single biggest fixed variable in your system's output. Yo
 | 90° | Due East | 80-85% | 15-20% loss in places like Denver or Atlanta |
 | 270° | Due West | 80-85% | 15-20% loss annually, but may align with TOU peak rates in some states |
 
-In the northern hemisphere, the sun arcs through the southern sky. A panel facing due south (180° azimuth) sees the most cumulative sunlight over the course of a year. That's not an opinion, it's geometry. National Renewable Energy Laboratory (NREL) modeling consistently shows south-facing arrays at the optimal tilt outperforming any other fixed orientation by a meaningful margin in most U.S. climates.
+In the northern hemisphere, the sun arcs through the southern sky. A panel facing due south (180° azimuth) sees the most cumulative sunlight over the course of a year. National Renewable Energy Laboratory (NREL) modeling consistently shows south-facing arrays at the optimal tilt outperforming any other fixed orientation by a meaningful margin in most U.S. climates.
 
 How meaningful? For a typical 10 kW system in a place like Denver or Atlanta, the difference between south-facing and east-facing can be 15-20% in annual production. At average U.S. electricity prices around $0.16/kWh, that's roughly $200-$300 per year in lost value. Over 25 years, that gap is real money.
 
-The caveat: due south is the goal, but you've got more flexibility than most people think. Anywhere from about 135° to 225° azimuth (southeast to southwest) will give you output within 5-10% of the theoretical maximum. Don't let a slightly off-axis roof scare you away from solar entirely. I've seen homeowners in the 150°-200° range do just fine.
+The caveat: due south is the goal, but you've got more flexibility than most people think. Anywhere from about 135° to 225° azimuth (southeast to southwest) will give you output within 5-10% of the theoretical maximum. Don't let a slightly off-axis roof scare you away from solar entirely. Homeowners with panels in the 150°-200° range typically see solid performance.
 
 ## West-facing panels aren't a disaster. Sometimes they're actually smarter.
 
 > **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the take that might surprise you: depending on your utility's rate structure, west-facing panels can actually make you *more money* than south-facing ones, even while producing fewer total kilowatt-hours.
 
@@ -77,7 +75,7 @@ Before your site assessment, I'd strongly recommend spending $20-$40 on a solar 
 
 ## Does your hemisphere or geographic location change anything?
 
-Yes, one obvious but often-forgotten point: if you're in the southern hemisphere (Australia, South Africa, southern South America), everything flips. Face your panels north. The sun arcs through the northern sky there. I get emails from Australian readers every few months who've been quoted south-facing systems by inattentive installers, which is just inexcusable.
+Yes, one obvious but often-forgotten point: if you're in the southern hemisphere (Australia, South Africa, southern South America), everything flips. Face your panels north. The sun arcs through the northern sky there. South-facing system quotes are occasionally issued in error in the southern hemisphere, so double-check your installer's hemisphere-specific guidance.
 
 Within the northern hemisphere, your latitude affects optimal tilt more than it changes the preferred direction. Alaskans need steeper tilt; Floridians can go shallower. Both should still aim south.
 
@@ -118,7 +116,6 @@ If there's one thing I'd want you to take from all of this: get your orientation
 - [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20)
 - [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
 - [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
