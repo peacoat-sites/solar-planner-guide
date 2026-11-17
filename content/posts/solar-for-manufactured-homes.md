@@ -45,8 +45,6 @@ Newer manufactured homes built after 2010 to stricter HUD standards typically ha
 
 ## Does Your Land Situation Change Everything?
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Short answer: yes, dramatically.
 
 Homeowners who own their land outright, or have it on a standard real property deed, have access to the full range of solar financing, the federal ITC, and most state incentives. That's the same situation as a site-built home.

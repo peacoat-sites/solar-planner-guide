@@ -43,8 +43,6 @@ What the brochure rarely explains:
 
 ## The Top Solar Panels Worth Considering in 2026
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 These aren't ranked by a single metric. They're ranked by real-world fit for different homeowner situations.
 
 **1. SunPower Maxeon 7**

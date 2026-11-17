@@ -37,8 +37,6 @@ The formula that actually matters: (annual energy production x your electricity 
 
 ## The States That Come Up on My Problem List
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **Louisiana.** I keep coming back to Louisiana. Residential electricity there runs around $0.09 to $0.10 per kWh, which sounds like a good thing until you realize you're offsetting cheap power with a $20,000-plus system. Entergy Louisiana's net metering policy has also faced significant criticism for paying below-retail rates for excess generation. The payback period in many Louisiana markets stretches past 18 years. For a lot of homeowners, that just doesn't pencil.
 
 **Idaho and Wyoming.** Both states have some of the lowest residential electricity rates in the country, regularly under $0.10/kWh. NREL data shows average peak sun hours in Boise around 5.5 per day, which is actually decent. But cheap power wipes out your savings. A homeowner running $80 a month in electricity bills is not going to break even on a $22,000 system in any reasonable timeline.

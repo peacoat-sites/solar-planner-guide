@@ -30,8 +30,6 @@ The problem isn't today's catalog. It's tomorrow's. What most people don't reali
 
 ## The Off-Grid and DIY Market Has the Steepest Exposure
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The off-grid and DIY solar community faces particular challenges with these changes. Brands like EG4, Growatt, Renogy, and Victron depend heavily on short product cycles and almost entirely offshore supply chains. Their business model is rapid iteration: release a new hybrid inverter every year or two with more features, better software, higher [efficiency ratings](/solar-panel-efficiency-ratings-explained/). That model is now legally frozen at whatever they had authorized before late July.
 
 If you're building a new off-grid cabin system or a backup-power setup and you were planning around a Growatt SPF or an EG4 6000XP because of the price-to-feature ratio, what you can get today may be the last version of that product available. There won't be a next-gen EG4 unit you can expand into unless the company finds a way to manufacture in a non-covered country and gets fresh authorization, which is neither fast nor cheap.
@@ -64,12 +62,12 @@ The broader situation is genuinely unsettled. The FCC may issue guidance, carve 
 
 ## Sources
 
-- [FCC bans foreign-produced solar inverters ,  pv magazine USA](https://pv-magazine-usa.com/2026/07/28/fcc-bans-foreign-produced-solar-inverters-grid-lockout-begins-today/) (July 28, 2026)
-- [Trump weaponizes FCC to ban new foreign-made connected solar inverters ,  Electrek](https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/) (August 5, 2026)
-- [Trump admin bans 'new' foreign-made inverters. What does that mean? ,  Canary Media](https://www.canarymedia.com/articles/corporate-procurement/trump-admin-bans-new-foreign-inverters) (Early August 2026)
-- [FCC Solar Inverter Ban 2026: What's Still Legal to Install ,  A1 SolarStore](https://a1solarstore.com/blog/washington-blacklists-foreign-solar-inverters-overnight.html) (July 30, 2026)
-- [The FCC Just Banned Foreign Inverters. Here's What It Means ,  PluginSolarUS](https://pluginsolarus.com/learn/fcc-inverter-ban-plug-in-solar-impact) (Late July / Early August 2026)
-- [FCC bans new foreign inverter imports ,  Solar Power World](https://www.solarpowerworldonline.com/2026/07/fcc-bans-new-foreign-inverter-imports/) (July 30, 2026)
+- [FCC bans foreign-produced solar inverters, pv magazine USA](https://pv-magazine-usa.com/2026/07/28/fcc-bans-foreign-produced-solar-inverters-grid-lockout-begins-today/) (July 28, 2026)
+- [Trump weaponizes FCC to ban new foreign-made connected solar inverters, Electrek](https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/) (August 5, 2026)
+- [Trump admin bans 'new' foreign-made inverters. What does that mean?, Canary Media](https://www.canarymedia.com/articles/corporate-procurement/trump-admin-bans-new-foreign-inverters) (Early August 2026)
+- [FCC Solar Inverter Ban 2026: What's Still Legal to Install, A1 SolarStore](https://a1solarstore.com/blog/washington-blacklists-foreign-solar-inverters-overnight.html) (July 30, 2026)
+- [The FCC Just Banned Foreign Inverters. Here's What It Means, PluginSolarUS](https://pluginsolarus.com/learn/fcc-inverter-ban-plug-in-solar-impact) (Late July / Early August 2026)
+- [FCC bans new foreign inverter imports, Solar Power World](https://www.solarpowerworldonline.com/2026/07/fcc-bans-new-foreign-inverter-imports/) (July 30, 2026)
 
 *Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*
 

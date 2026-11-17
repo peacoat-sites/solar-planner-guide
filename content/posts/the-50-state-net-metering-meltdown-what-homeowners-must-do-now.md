@@ -32,8 +32,6 @@ Vermont's trajectory is the most instructive cautionary tale. Seven consecutive 
 
 ## The One State That Got It Right (And What It Cost Them)
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest, New Hampshire surprised me. While the rest of the Northeast was generating regulatory chaos, New Hampshire quietly locked in NEM 2.0 through 2041 via legislation. That's a 15-year statutory guarantee. No utility commission can unilaterally rewrite it. No new fee structure can sneak in through a rate case. For a homeowner in New Hampshire signing a contract today, that's an extraordinary amount of policy certainty that homeowners in Pennsylvania or Connecticut simply don't have.
 
 The tradeoff worth understanding is that New Hampshire's electricity rates, while high by national standards, are lower than Massachusetts and Connecticut. The locked-in credit structure helps, but the absolute dollar value of each kilowatt-hour saved or exported is smaller. Policy stability doesn't automatically mean the best economics. It means predictable economics, which is a different and arguably more valuable thing for a 25-year asset.
@@ -65,10 +63,10 @@ The honest takeaway is this: where you live has never mattered more for the sola
 
 ## Sources
 
-- [The Cooldown ,  45 states took 284 solar policy actions in Q2 2026](https://www.thecooldown.com/green-tech/solar-policy-actions-united-states-q2-2026/) (August 2026)
-- [NuWatt Energy ,  Net Metering in 2026: State-by-State Guide](https://nuwattenergy.com/en/net-metering-changes-2026) (April 2026)
-- [Solar Energy World ,  How Net Metering Works in Virginia (And Why 2026 Changes Everything)](https://www.solarenergyworld.com/blog/regional-solar-insights/how-net-metering-works-in-virginia/) (April 2026)
-- [Bluetti Power ,  Solar Panels + Net Metering in 2026: The Real Guide for Homeowners](https://www.bluettipower.com/blogs/power-solution/solar-panels-with-net-metering-for-homeowners) (April 2026)
+- [The Cooldown, 45 states took 284 solar policy actions in Q2 2026](https://www.thecooldown.com/green-tech/solar-policy-actions-united-states-q2-2026/) (August 2026)
+- [NuWatt Energy, Net Metering in 2026: State-by-State Guide](https://nuwattenergy.com/en/net-metering-changes-2026) (April 2026)
+- [Solar Energy World, How Net Metering Works in Virginia (And Why 2026 Changes Everything)](https://www.solarenergyworld.com/blog/regional-solar-insights/how-net-metering-works-in-virginia/) (April 2026)
+- [Bluetti Power, Solar Panels + Net Metering in 2026: The Real Guide for Homeowners](https://www.bluettipower.com/blogs/power-solution/solar-panels-with-net-metering-for-homeowners) (April 2026)
 
 *Photo: [AV](https://www.pexels.com/@av-49217877) via Pexels*
 

@@ -25,7 +25,7 @@ faqs:
     a: "Yes, and this is one of the most underused strategies available as of July 2026. The Inflation Reduction Act's Energy Efficient Home Improvement Credit (25C) covers things like heat pump water heaters (30%, up to $2,000), heat pumps for heating and cooling (30%, up to $2,000), and insulation and air sealing (30%, up to $1,200). These are separate from the 30% residential solar investment tax credit. You can claim both in the same tax year, subject to your tax liability."
 ---
 
-Most homeowners I talk to have it backwards. They call a [solar installer](/solar-installer-red-flags-to-avoid/), get a quote for a 10-kilowatt system, and start daydreaming about a $0 electric bill ,  before they've ever looked at *why* their bill is so high in the first place.
+Most homeowners I talk to have it backwards. They call a [solar installer](/solar-installer-red-flags-to-avoid/), get a quote for a 10-kilowatt system, and start daydreaming about a $0 electric bill, before they've ever looked at *why* their bill is so high in the first place.
 
 I've sat through enough post-installation consultations to know how this plays out. Someone spends $28,000 on [solar panels](/solar-panels-in-ohio-guide/). Six months later they're frustrated because their bill isn't zero. And when we dig into the numbers, it turns out their HVAC system is 19 years old, their attic has R-11 insulation in a climate that needs R-49, and they never switched off their second electric water heater. Solar didn't fix any of that. It just put a cleaner label on the problem.
 
@@ -44,8 +44,6 @@ A home energy monitor is the fastest way to identify where you're using the most
 If you want a cheaper starting point, a plug-in watt meter like the [Kill A Watt P4400](https://www.amazon.com/s?k=Kill+A+Watt+P4400) lets you measure individual appliances for about $20-$30. Not as elegant, but it works.
 
 ## The Real Savings Hierarchy
-
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Not all efficiency upgrades are equal. Some have 2-year paybacks. Some have 18-year paybacks and you'll have moved before you see the return. Before spending a dollar, know where you are on this list.
 

@@ -43,8 +43,6 @@ The three layers worth understanding are: generation monitoring (knowing what yo
 
 ## The Time-of-Use Problem Nobody Explains Clearly
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If your utility uses time-of-use (TOU) pricing, and as of July 2026 roughly 40% of U.S. residential customers have access to TOU rates according to SEIA data, the hour your dishwasher runs matters enormously. Peak rates in California (PG&E's E-TOU-C rate) currently hit $0.55/kWh in the evening. Off-peak is around $0.30. That's an 83% difference. Run a load of laundry at the wrong time and you're paying nearly double.
 
 Solar doesn't automatically fix this. In fact, it can create a false sense of security. I thought for the first couple of years of advising clients that having solar meant TOU rates were somebody else's problem. Wrong. Once your panels stop producing at 5pm, you're buying from the grid at the worst possible moment unless your system is smart enough to shift loads or dispatch stored energy.

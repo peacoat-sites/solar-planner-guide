@@ -45,8 +45,6 @@ So when you're evaluating any company calling itself an EPC contractor, ask one 
 
 ## Local Solar Installers: The Real Tradeoffs
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Local installers get a bad rap from the big national players, and I think that's largely unfair. A well-run local shop with 5–15 employees, good Google reviews, and 200+ installations in your county often outperforms a national EPC firm on the metrics that actually matter to you: speed, communication, and post-install service.
 
 Here's what the data shows. According to the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), soft costs (permitting, interconnection, customer acquisition, overhead) account for roughly 65% of total residential solar system costs in the U.S. Local installers often have lower overhead and established relationships with local utilities and building departments. That can translate directly to faster timelines and lower prices.

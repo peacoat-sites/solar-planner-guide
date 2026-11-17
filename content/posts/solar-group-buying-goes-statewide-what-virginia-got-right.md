@@ -34,10 +34,6 @@ The reverse auction format also solves a problem [most homeowners](/the-july-4-s
 
 ## The Numbers, Compared
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's where this gets concrete. The table below puts Switch Together's economics next to what a typical Virginia homeowner faces shopping the open market without a federal tax credit in 2026.
 
 | Scenario | Avg. System Cost (9 kW) | Est. Annual Savings | Effective Cost/Watt |
@@ -74,12 +70,12 @@ Virginia's experiment is only weeks old. The October 15 deadline will tell us ho
 
 ## Sources
 
-- [Office of Governor Abigail Spanberger ,  Switch Together Press Release](https://www.governor.virginia.gov/newsroom/news-releases/2026/july-releases/name-1121033-en.html) (July 13, 2026)
-- [Switch Together Virginia ,  Official State Energy Page](https://www.energychief.virginia.gov/switchtogether/) (July 2026)
-- [Virginia Mercury ,  Virginia joins rooftop solar initiative](https://virginiamercury.com/briefs/virginia-joins-rooftop-solar-initiative-to-help-residents-trim-electric-bills/) (July 13, 2026)
-- [WTVR CBS 6 ,  Virginia wants to help you go solar for cheaper](https://www.wtvr.com/news/local-news/richmond/switch-together-solar-july-14-2026) (July 14, 2026)
-- [Taiyang News ,  Virginia Launches Statewide Switch Together Solar Program](https://taiyangnews.info/markets/virginia-launches-statewide-switch-together-solar-program) (July 14, 2026)
-- [Fairfax County ,  Two Programs Help Residents Go Solar](https://www.fairfaxcounty.gov/environment-energy-coordination/two-programs-help-residents-go-solar) (July 2026)
+- [Office of Governor Abigail Spanberger, Switch Together Press Release](https://www.governor.virginia.gov/newsroom/news-releases/2026/july-releases/name-1121033-en.html) (July 13, 2026)
+- [Switch Together Virginia, Official State Energy Page](https://www.energychief.virginia.gov/switchtogether/) (July 2026)
+- [Virginia Mercury, Virginia joins rooftop solar initiative](https://virginiamercury.com/briefs/virginia-joins-rooftop-solar-initiative-to-help-residents-trim-electric-bills/) (July 13, 2026)
+- [WTVR CBS 6, Virginia wants to help you go solar for cheaper](https://www.wtvr.com/news/local-news/richmond/switch-together-solar-july-14-2026) (July 14, 2026)
+- [Taiyang News, Virginia Launches Statewide Switch Together Solar Program](https://taiyangnews.info/markets/virginia-launches-statewide-switch-together-solar-program) (July 14, 2026)
+- [Fairfax County, Two Programs Help Residents Go Solar](https://www.fairfaxcounty.gov/environment-energy-coordination/two-programs-help-residents-go-solar) (July 2026)
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

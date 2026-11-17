@@ -34,10 +34,6 @@ The practical implication: if you were on the fence about adding a battery, 2026
 
 ## What 1.3 GWh in One Quarter Actually Means
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Residential battery storage hit 1.3 GWh installed in Q1 2026, an 86% jump year-over-year, according to the American Clean Power Association and Wood Mackenzie's U.S. Energy Storage Monitor released in June 2026. To put that in perspective, the entire U.S. residential storage market didn't reach that quarterly pace until very recently. Wood Mackenzie projects cumulative U.S. energy storage capacity hitting 200 GW and 655 GWh by 2031, roughly four times current levels.
 
 That growth trajectory matters to you as a buyer for one reason: supply chains and installer availability are finally catching up to demand. Eighteen months ago, lead times on a Tesla Powerwall or Enphase IQ Battery could stretch to six months in high-demand states. That's compressed significantly. More installers are now certified for storage, which introduces real price competition.

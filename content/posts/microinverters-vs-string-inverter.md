@@ -40,8 +40,6 @@ That distinction sounds simple. The real-world consequences are not.
 
 ## Where String Inverters Win
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Cost, first. A string inverter system typically runs $1,000 to $1,500 less in equipment costs on an average residential install compared to microinverters. On a 10kW system, that gap matters. EnergySage's marketplace data consistently shows string inverter quotes coming in lower, and for straightforward installs on south-facing roofs with no shading, that price difference buys you nothing in return if you go micro.
 
 String inverters are also easier to service. When something goes wrong, it's one box. A competent electrician can diagnose it, and replacement units are stocked by most solar distributors. SMA's Sunny Boy and SolarEdge's HD Wave series carry 12-year warranties, extendable to 20 or 25. That's a real number, not a formality.

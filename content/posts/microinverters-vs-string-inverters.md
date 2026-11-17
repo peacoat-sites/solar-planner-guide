@@ -41,8 +41,6 @@ There's also a hybrid approach worth knowing: a string inverter paired with powe
 
 ## The Numbers Side by Side
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Prices shift constantly, but here's where the U.S. residential market sits as of July 2026, based on EnergySage data and what I'm seeing in real quotes:
 
 | Technology | Typical Cost (10kW system) | Warranty | Panel-level monitoring | Shade tolerance | Best for |

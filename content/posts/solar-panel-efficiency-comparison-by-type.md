@@ -47,8 +47,6 @@ Three panel technologies dominate residential [solar right](/is-solar-right-for-
 
 ## The Full Comparison, Side by Side
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Current as of August 2026, based on installer pricing data from EnergySage's marketplace and NREL benchmarks:
 
 | Type | Efficiency Range | Typical Cost ($/watt) | 25-yr Degradation | Best For |

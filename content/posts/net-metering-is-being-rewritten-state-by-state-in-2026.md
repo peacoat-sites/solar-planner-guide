@@ -30,10 +30,6 @@ State policy is now doing the heavy lifting the federal government just dropped.
 
 ## Where the Cuts Are Happening and How Bad They Are
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 California set the template that other utilities are studying. NEM 3.0, which took effect for new applicants in April 2023, slashed export credits from roughly 30 cents per kilowatt-hour down to 5 to 8 cents, a reduction of approximately 75%. The practical effect: solar-only systems in California now have much longer payback periods, and the calculus has shifted firmly toward pairing panels with a battery like the Tesla Powerwall or Enphase IQ Battery so you actually consume your own generation rather than export it cheaply. California effectively turned a net metering question into a self-consumption question, and the rest of the country is watching.
 
 Virginia's situation is more acute because it's still unresolved. The State Corporation Commission was required to rule by May 1, 2026 on Dominion Energy's proposal to reduce solar export credit values for new customers. An $11.24/month rate increase for residential customers is already in effect, and new solar customers face the prospect of considerably lower export compensation than existing customers receive. If you're in Dominion territory and have been sitting on a solar quote, this is the moment where waiting costs you money, not saves it.
@@ -72,11 +68,11 @@ The federal tax credit carried a lot of bad solar decisions for a decade. It mad
 
 ## Sources
 - [Net Metering in 2026: How Every US State Compensates Solar Homeowners](https://torichain.com/net-metering-in-2026-how-every-us-state-compensates-solar-homeowners/) (May 29, 2026)
-- [Net Metering Rules by State (2026 Guide) ,  Green Energy Calculators](https://greenenergycalc.com/guides/net-metering-rules-by-state-2026/) (June 9, 2026)
+- [Net Metering Rules by State (2026 Guide), Green Energy Calculators](https://greenenergycalc.com/guides/net-metering-rules-by-state-2026/) (June 9, 2026)
 - [What Duke Energy's Net Metering Changes Mean for Your Solar Savings After 2026](https://www.capefearenergy.com/blog/what-duke-energys-net-metering-changes-mean-for-your-solar-savings-after-2026) (July 2026)
 - [How Net Metering Works in Virginia (And Why 2026 Changes Everything)](https://www.solarenergyworld.com/blog/regional-solar-insights/how-net-metering-works-in-virginia/) (April 16, 2026)
 - [Washington Net Metering in 2026: What Homeowners Should Know](https://www.a-rsolar.com/incentives-financing-policy/washington-net-metering/) (July 2026)
-- [Net Metering in 2026: State-by-State Guide to What's Changed ,  Nuwatt Energy](https://nuwattenergy.com/en/net-metering-changes-2026) (April 7, 2026)
+- [Net Metering in 2026: State-by-State Guide to What's Changed, Nuwatt Energy](https://nuwattenergy.com/en/net-metering-changes-2026) (April 7, 2026)
 
 *Photo: [Connor Scott McManus](https://www.pexels.com/@connorscottmcmanus) via Pexels*
 

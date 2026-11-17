@@ -45,8 +45,6 @@ Also worth knowing: batteries have a cycle life. The Powerwall 3 is rated for 10
 
 ## The Economics: When the Numbers Work and When They Don't
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest, the payback math on home batteries is tough in a lot of markets. Let me show you why.
 
 The average American home uses about 29 kWh per day, according to the U.S. Energy Information Administration. After solar, let's say your nighttime and evening consumption is around 12 kWh. A single 13.5 kWh battery could theoretically cover most of that. But here's the math that matters: if your utility rate is a flat $0.14 per kWh (the national average is actually higher now, closer to $0.17, but some rural co-ops are still low), you're saving maybe $1.68 to $2.30 per day by pulling from battery instead of the grid. That's roughly $600 to $840 per year.

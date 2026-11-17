@@ -62,8 +62,6 @@ The major categories:
 
 ## The Net Metering Trap Nobody Warns You About
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I have to be honest, because installers almost never are.
 
 Net metering rates are being cut. Quietly, steadily, and in some states, aggressively. California's NEM 3.0 policy, which took effect in April 2023, slashed the export rate solar customers receive to roughly $0.05/kWh in many cases, down from $0.30/kWh under the old rules. That's not a typo. The economics of going solar in California changed dramatically overnight for anyone who locked in after that date.

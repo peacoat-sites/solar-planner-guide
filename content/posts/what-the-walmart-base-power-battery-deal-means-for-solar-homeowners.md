@@ -34,10 +34,6 @@ The honest answer depends on your electricity rates, your solar production, and 
 
 ## The Shrinking Export Rate Problem, Illustrated
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Net metering cuts are happening faster than most solar owners realize. Arizona's September 2026 reduction is one recent example, but it's part of a national pattern that's been building since California's NEM 3.0 took effect in 2023. When export rates drop, the financial case for oversizing a solar array weakens. It also makes self-consumption, using what you generate rather than exporting it, more valuable.
 
 That's where storage becomes a real tool, not just a backup option. Here's how the economics shift depending on your approach:

@@ -33,8 +33,6 @@ What most people don't realize is that the commercial investment tax credit, Sec
 | Homeowner ownership timeline | Immediate | Immediate | 6 years (then transfer) |
 | IRS Safe Harbor deadline | N/A | N/A | July 4, 2026 |
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The structure is less complicated than it sounds, even if the paperwork can make your eyes cross. Here's what actually happens: a solar financing company installs panels on your roof. They own the system. Because they're a business, they claim the Section 48E credit, which is currently worth 30% of system cost. They also claim MACRS accelerated depreciation, another meaningful tax benefit available only to business owners. Combined, these benefits amount to roughly a 30 to 35% discount off the retail system cost for the financing company.
 
 You, the homeowner, pay about 70% of the system's cost upfront as a single lump sum. That's the "prepaid" part. In exchange, you get to use the electricity the panels produce, and you get a contract guaranteeing that after six years, ownership of the system transfers to you, often for as little as $1. No ongoing monthly payments. No lease you're stuck in for 20 years.

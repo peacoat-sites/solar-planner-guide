@@ -43,8 +43,6 @@ The inverter alone can run $1,000 to $2,500 depending on whether you go string, 
 
 ## Panel Type and Price: A Real Comparison
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Panel technology moves fast, but the basic pricing tiers are fairly stable right now. Here's a realistic breakdown based on current market pricing (July 2026):
 
 | Panel Type | Efficiency Range | Typical $/Watt (panel only) | Common Brands |

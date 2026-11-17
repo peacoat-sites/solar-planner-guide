@@ -41,8 +41,6 @@ The coordination piece is annoying but real. When you schedule a solar install a
 
 ## The Heat Pump Factor: Understanding What You're Actually Adding
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's talk specifics. A conventional natural gas furnace paired with a standard central AC (say, a 14 SEER unit from 2010) might be costing you $2,100 per year in combined heating and cooling in a mid-size home in the Midwest. Replace that with a modern cold-climate heat pump, like a Mitsubishi Hyper-Heat or a Carrier Infinity 24, and that same heating and cooling load can drop to roughly $900 per year in electricity costs at average utility rates. That's assuming a COP (coefficient of performance) of around 3.0, which is conservative for these systems at moderate temperatures.
 
 The catch: that $900 is now electric, not gas. So your solar system has to produce enough to cover it. A heat pump for a 2,000-square-foot home might need around 3,000 to 5,500 kWh per year for heating and cooling combined. At average U.S. solar production of about 1,400 kWh per kW of installed capacity annually (per NREL data), you're looking at adding roughly 2.5 to 4 kW of solar capacity just to offset the heat pump's load.

@@ -36,10 +36,6 @@ Think of it this way: you're paying about 70 cents on the dollar for a system yo
 
 ## Why the June 2026 Deadline Is Different From the Usual Solar Urgency Theater
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The solar industry has a long and embarrassing history of fake deadlines. "Hurry, the tax credit is going down!" was a sales tactic for so many years that most homeowners reasonably learned to ignore it.
 
 This one is different for two reasons. First, the residential credit is already gone. There's no percentage step-down to worry about. Second, the July 4 construction-start requirement for 48E isn't a sales pitch; it's an IRS standard requiring that a project either begin physical work on-site or incur at least 5% of total project costs before that date. TPO providers that miss it lose the ability to claim the credit on new projects entirely.

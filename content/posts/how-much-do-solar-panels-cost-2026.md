@@ -46,8 +46,6 @@ Panel prices have dropped dramatically over the past 15 years. In 2010, resident
 
 ## The Federal Tax Credit: Still 30% in 2026 (For Now)
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Investment Tax Credit (ITC) is the single most important financial lever for most homeowners. In 2026, it remains at **30% of your total system cost**, including installation labor and equipment. Pay $25,000 for a system, get a $7,500 credit directly off your federal income tax bill. Not a deduction. A credit.
 
 A few things people get wrong about the ITC:

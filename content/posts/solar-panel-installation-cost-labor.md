@@ -43,8 +43,6 @@ Here's something installers don't volunteer: roof penetrations are where roof wa
 
 ## The Numbers, State by State
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Labor costs don't move in a straight line with cost of living. California has high labor rates but also incredibly efficient permitting in some counties, which can partially offset the hourly cost difference. Hawaii is eye-watering. Texas tends to run lean. Here's how current (July 2026) labor costs break down across major markets, drawing from [NREL's residential solar cost benchmark reports](https://www.nrel.gov/):
 
 | State | Avg. Labor Cost per Watt | Labor Cost on 8 kW System | Notes |

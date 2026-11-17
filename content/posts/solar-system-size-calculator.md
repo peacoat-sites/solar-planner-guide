@@ -48,8 +48,6 @@ If you can't find 12 months of bills, your utility's online portal almost always
 | Phoenix, AZ | 6.5 | 12,000 kWh | 6.3-6.8 kW | 16-17 |
 | Seattle, WA | 3.5 | 12,000 kWh | 12.4-13.3 kW | 31-33 |
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once you have your annual kWh, the math is straightforward. I'll walk through it with a real example: a household using 12,000 kWh per year in Charlotte, North Carolina.
 
 **Step 1: Find your peak sun hours.** This isn't total daylight hours. It's the equivalent number of hours per day when sunlight intensity hits 1,000 watts per square meter. Charlotte averages about 4.8 peak sun hours per day. Phoenix runs closer to 6.5. Seattle scrapes by at around 3.5. NREL's PVWatts tool is the most reliable free source for this number by zip code, and it's what most serious installers actually use.

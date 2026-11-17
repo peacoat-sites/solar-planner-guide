@@ -60,8 +60,6 @@ Not spectacular, but not bad either. Especially with panels carrying 25-year pro
 
 ## Why Your Number Could Be Higher (or Lower) Than Average
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 These ranges are genuinely wide, and homeowners can get burned by anchoring on the low end.
 
 **Roof complexity matters a lot.** A single-plane south-facing roof with no shading means easier, cheaper installation. Multiple dormers, steep pitch, tile roofing that requires special mounting hardware, or mature trees shading the afternoon sun will increase your cost per watt. Simple installs can come in at $2.60/watt while complex ones may hit $3.80/watt on the same size system based on roof work alone.

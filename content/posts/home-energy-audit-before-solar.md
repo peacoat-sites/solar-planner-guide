@@ -43,8 +43,6 @@ One client I worked with in Phoenix had a 2,200 sq ft home pulling $340 a month 
 
 ## What a Good Audit Actually Looks At
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A DIY walkthrough with a flashlight and a hand over your outlet covers is better than nothing. But a real audit is different in feel and depth. The auditor will usually show up with a blower door, which depressurizes your house to measure total air leakage, and an infrared camera that reveals cold spots invisible to the naked eye. The first time I watched an IR scan run on a 1990s ranch house, it looked like a heat map of poor decisions: light switches glowing blue, ceiling corners orange, an entire wall of an addition that was clearly never properly insulated. It's genuinely surprising.
 
 Here's what gets measured in a thorough audit:

@@ -62,8 +62,6 @@ That 11.5 kW continuous output is the headline upgrade. The Powerwall 2 couldn't
 | Permits and inspection fees | $300-$800 |
 | Utility interconnection fees | $0-$500 |
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I want to slow down, because the "hidden costs" framing undersells how predictable these costs actually are once you know what to look for.
 
 **Hardware costs (2026 estimates):**

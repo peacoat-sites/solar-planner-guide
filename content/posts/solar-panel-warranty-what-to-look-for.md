@@ -32,7 +32,7 @@ Here's the real number that should get your attention: according to the [Solar E
 So let's talk about what these warranties actually say, what matters, and where the traps are.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar panels carry two separate warranties: a product (materials) warranty and a performance (power output) warranty.</li><li style="margin:5px 0">A 25-year performance warranty doesn't mean much if the manufacturer won't exist in 10 years.</li><li style="margin:5px 0">Top-tier panels guarantee no more than 2% degradation in year one, then 0.5%/year after.</li><li style="margin:5px 0">Workmanship warranties from installers typically run 10 years, but vary widely ,  get it in writing.</li><li style="margin:5px 0">Manufacturer reputation and financial stability matter as much as the warranty term itself.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar panels carry two separate warranties: a product (materials) warranty and a performance (power output) warranty.</li><li style="margin:5px 0">A 25-year performance warranty doesn't mean much if the manufacturer won't exist in 10 years.</li><li style="margin:5px 0">Top-tier panels guarantee no more than 2% degradation in year one, then 0.5%/year after.</li><li style="margin:5px 0">Workmanship warranties from installers typically run 10 years, but vary widely, get it in writing.</li><li style="margin:5px 0">Manufacturer reputation and financial stability matter as much as the warranty term itself.</li></ul></div>
 
 
 ## Two Warranties, Not One
@@ -48,10 +48,6 @@ The performance warranty is the one people actually quote when they say "25-year
 The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published research showing that real-world panel degradation averages about 0.5% per year for modern panels, which means the better warranties are basically promising what panels already do naturally. The weaker ones are promising less. That tells you something.
 
 ## What Good vs. Weak Actually Looks Like
-
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me put the numbers side by side, because this is where it gets concrete.
 

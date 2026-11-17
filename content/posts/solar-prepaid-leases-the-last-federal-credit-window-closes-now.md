@@ -32,10 +32,6 @@ So in practical terms: the federal incentive window for new residential solar pr
 | Direct Purchase (25D) | Homeowner | Homeowner claims 25D | 30% (expired Dec 31, 2025) | Immediate |
 | Traditional Lease/PPA | Third-party owner | TPO company | Lower upfront cost | Never (20-year term) |
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is where the prepaid lease structure gets interesting, and I'll be honest, it's more nuanced than most installers will explain on the first call.
 
 Here's the mechanism. A TPO company owns the solar system installed on your roof. Because they own it, they, not you, can claim the Section 48E credit. They pay something close to 70% of system cost upfront as a prepaid lease, and the TPO company passes the value of that tax credit back to you as a discount, typically 30 to 35% off what you'd pay for a cash purchase. After a six-year recapture period (the IRS requires the credit not be "recaptured" if the asset changes hands within that window), ownership transfers to you.

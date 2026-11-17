@@ -48,8 +48,6 @@ This distinction cost me about $15,000 in a conversation I overheard last year. 
 | With heat pump & sump pump | 10.8 kWh | 1.25× | ÷ 0.85 | ~16 kWh |
 | Pennsylvania example (recommended) | 10.8 kWh | 1.25× | ÷ 0.85 | 27 kWh (two Powerwalls) |
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me walk you through how to get real numbers, because this isn't complicated once you stop guessing.
 
 First, get your hourly usage data. Your utility company should have it (ask them, or log into your online account). Most utilities now show granular data in their portals. If yours doesn't, ask for it explicitly. Some still make you call, which is infuriating, but it's worth the phone call.

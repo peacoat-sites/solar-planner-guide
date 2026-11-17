@@ -33,8 +33,6 @@ But those conditions matter enormously. More on that in a minute.
 
 ## What Appraisers Actually Do With Solar
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most people get confused, because the appraisal process for solar still isn't as consistent as it should be.
 
 Appraisers are supposed to use something called the income approach or the cost approach when valuing solar. The income approach calculates the present value of future electricity savings. The cost approach looks at what it would cost to replace the system, depreciated for age. In practice, appraisers in solar-saturated markets like California, Arizona, and Colorado tend to be more comfortable with these methods. In markets where solar is still uncommon, like parts of the Midwest or rural Northeast, you'll often find appraisers simply ignoring the system entirely or giving it token value.

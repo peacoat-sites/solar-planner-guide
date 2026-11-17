@@ -43,8 +43,6 @@ Here's what most people don't realize. The leasing company has to approve the bu
 
 ## How the Solar Lease Transfer Process Actually Works
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The transfer process varies by company, but the general sequence looks like this:
 
 **Step 1: Notify the solar company early.** Don't wait until you're under contract. Contact the leasing company the moment you decide to list your home. Ask for their exact transfer requirements, typical timeline, and any fees involved. Get this in writing.

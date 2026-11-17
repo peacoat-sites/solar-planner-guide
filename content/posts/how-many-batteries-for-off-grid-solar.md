@@ -31,7 +31,7 @@ That's not a dodge. It's just how the math works.
 
 Let me walk you through how I actually size battery banks for off-grid systems, what the real [numbers look like](/solar-roi-without-the-30-tax-credit-what-the-numbers-look-like-now/) for typical households, and where people consistently get it wrong.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most off-grid homes need 2–4 days of battery autonomy, which typically means 20–40 kWh of usable storage.</li><li style="margin:5px 0">A "standard" 100Ah 12V battery holds only 1.2 kWh ,  you'll almost certainly need more than a handful.</li><li style="margin:5px 0">Lithium (LiFePO4) batteries can be discharged to 80–100%, while lead-acid should stop at 50% to preserve lifespan.</li><li style="margin:5px 0">System voltage (12V, 24V, or 48V) affects how many batteries wire together, not just how many you need total.</li><li style="margin:5px 0">The average off-grid home in the U.S. uses 30 kWh/day, but aggressive efficiency measures can cut that to 10–15 kWh.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most off-grid homes need 2–4 days of battery autonomy, which typically means 20–40 kWh of usable storage.</li><li style="margin:5px 0">A "standard" 100Ah 12V battery holds only 1.2 kWh, you'll almost certainly need more than a handful.</li><li style="margin:5px 0">Lithium (LiFePO4) batteries can be discharged to 80–100%, while lead-acid should stop at 50% to preserve lifespan.</li><li style="margin:5px 0">System voltage (12V, 24V, or 48V) affects how many batteries wire together, not just how many you need total.</li><li style="margin:5px 0">The average off-grid home in the U.S. uses 30 kWh/day, but aggressive efficiency measures can cut that to 10–15 kWh.</li></ul></div>
 
 ## Start with Your Daily Energy Use
 
@@ -44,8 +44,6 @@ I did this exercise with a family in rural New Mexico a couple of years back. Th
 Your daily kWh number is the foundation. Get it wrong and every calculation after it is wrong too.
 
 ## The Core Formula (And What It Actually Means)
-
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's the math I use, stripped of the jargon:
 

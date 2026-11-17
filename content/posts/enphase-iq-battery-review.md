@@ -49,8 +49,6 @@ What this means practically: if one battery has a problem, the others keep worki
 | Operating Temperature Range | -4°F to 122°F | Not specified in article | Not specified in article |
 | Maximum Stack Capacity | 20 kWh (4 units) | Not specified in article | Not specified in article |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I want to be straight with you. The IQ Battery 5P's 5 kWh usable capacity is genuine, not a hidden asterisk situation like some competitors where "usable" is a generous interpretation. Enphase rates their batteries at 100% depth of discharge, meaning you can actually use the full 5 kWh before the system hits reserve. That's good.
 
 The continuous power output of 3.84 kW is enough to run a refrigerator, lights, a few outlets, and a modest TV simultaneously during an outage. It won't run a central air conditioner, an electric water heater, or most well pumps without careful load management. Stack two 5P units and you get 7.68 kW continuous, which opens up more options. You're also now looking at a much larger investment, though.

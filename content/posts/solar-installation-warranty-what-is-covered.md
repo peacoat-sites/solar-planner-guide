@@ -49,8 +49,6 @@ Let me break down exactly what each warranty covers, because this is where the c
 
 ## The Coverage Gaps Nobody Warns You About
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 For example, a monitoring system might show a 23% production shortfall while panels remain physically undamaged. An installer might correctly say "performance is within warranty specs on each individual panel," while the roof overall generates significantly less than the production estimate that was provided.
 
 That's a real gap. The performance warranty covers individual panels, not the system design. If your installer undersized the array, pointed panels suboptimally, or underestimated shading from a neighbor's tree that was already there at install time, that's not typically covered by any warranty. It might be addressed through a production guarantee (a separate contractual promise about annual kWh output, sometimes offered but not universal), but warranties and production guarantees are different things.

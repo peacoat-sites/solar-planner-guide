@@ -47,8 +47,6 @@ The breakeven point shifts a little based on system size. A 6 kW system with 16 
 
 ## What a Simultaneous Project Actually Costs
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The biggest objection I hear is cost. Bundling a roof replacement with a solar installation feels like a lot of money hitting at once, and it is. But the alternative isn't "avoid the roof cost." It's "pay the roof cost later, plus extra."
 
 Here's a realistic comparison for a 2,000-square-foot home in a mid-cost market:

@@ -37,10 +37,6 @@ As PlugInSolarUS noted after the bill passed, this framework protects tenants in
 | Low-end system | - | - | - | $300 | Varies by use |
 | High-end system | - | - | - | $1,500 | Varies by use |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's what I tell people when they're deciding whether a small solar investment makes sense: the math has to hold up even if you move in two years. With rooftop solar, the payback period can be 7 to 10 years, which makes it a terrible fit for renters. Plug-in systems are different.
 
 An 800-watt south-facing balcony system in New Jersey can generate approximately 1,094 kilowatt-hours per year. At the state's average retail electricity rate of 18.4 cents per kilowatt-hour, that's about $225 in annual savings. The systems themselves currently run anywhere from $300 on the low end to $1,500 for a more capable setup, putting the payback window at roughly 4 to 6 years for a mid-range purchase.
@@ -69,11 +65,11 @@ For renters who have spent years watching solar pass them by, that's genuinely n
 
 ## Sources
 
-- [New Jersey legislature unanimously passes plug-in solar bill ,  pv magazine USA](https://pv-magazine-usa.com/2026/07/01/new-jersey-legislature-unanimously-passes-plug-in-solar-bill/) (July 1, 2026)
-- [New Jersey Passes Garden State Balcony Solar Act ,  PlugInSolarUS](https://pluginsolarus.com/learn/new-jersey-s2368-garden-state-balcony-solar-act) (July 1, 2026)
-- [Why New Jersey's balcony solar bill is a huge deal for renters ,  CNN via LocalNews8](https://localnews8.com/cnn-other/2026/07/02/why-new-jerseys-balcony-solar-bill-is-a-huge-deal-for-renters/) (July 2, 2026)
-- [New Jersey lawmakers say 'yes' to plug-in solar ,  Solar Power World](https://www.solarpowerworldonline.com/2026/07/new-jersey-lawmakers-say-yes-to-plug-in-solar/) (July 1, 2026)
-- [New Jersey Unanimously Legalizes Plug-In (Balcony) Solar ,  Exact Solar / Substack](https://exactsolar.substack.com/p/new-jersey-unanimously-legalizes) (July 3, 2026)
+- [New Jersey legislature unanimously passes plug-in solar bill, pv magazine USA](https://pv-magazine-usa.com/2026/07/01/new-jersey-legislature-unanimously-passes-plug-in-solar-bill/) (July 1, 2026)
+- [New Jersey Passes Garden State Balcony Solar Act, PlugInSolarUS](https://pluginsolarus.com/learn/new-jersey-s2368-garden-state-balcony-solar-act) (July 1, 2026)
+- [Why New Jersey's balcony solar bill is a huge deal for renters, CNN via LocalNews8](https://localnews8.com/cnn-other/2026/07/02/why-new-jerseys-balcony-solar-bill-is-a-huge-deal-for-renters/) (July 2, 2026)
+- [New Jersey lawmakers say 'yes' to plug-in solar, Solar Power World](https://www.solarpowerworldonline.com/2026/07/new-jersey-lawmakers-say-yes-to-plug-in-solar/) (July 1, 2026)
+- [New Jersey Unanimously Legalizes Plug-In (Balcony) Solar, Exact Solar / Substack](https://exactsolar.substack.com/p/new-jersey-unanimously-legalizes) (July 3, 2026)
 
 ---
 

@@ -43,8 +43,6 @@ A real example from my consulting work: a couple in Sacramento ran me their util
 
 ## Why your rate matters more than your bill
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where it gets counterintuitive. A $70/month bill in California, where PG&E residential rates currently run above $0.30/kWh in many tier structures, represents very different solar economics than a $70/month bill in Louisiana, where rates hover around $0.10/kWh.
 
 The California homeowner at $0.32/kWh using 219 kWh/month is leaving more on the table per avoided kilowatt-hour. Their solar savings rate is higher per unit of energy, even if the bill amounts look similar.

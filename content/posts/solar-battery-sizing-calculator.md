@@ -41,8 +41,6 @@ Most residential batteries today are lithium iron phosphate (LFP) chemistry, whi
 
 ## The Actual Calculation
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I walk clients through. It has four steps, and it takes about 20 minutes with a utility bill in hand.
 
 **Step 1: Find your daily average consumption.** Pull 12 months of electric bills and find your total annual kWh. Divide by 365. The national average household uses around 29 kWh per day, according to the U.S. Energy Information Administration, though consumption varies significantly by region and season. Your number matters, not the average.

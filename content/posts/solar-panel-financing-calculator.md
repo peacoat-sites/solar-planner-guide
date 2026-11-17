@@ -51,8 +51,6 @@ The most common mistake I see is people focusing only on that monthly payment nu
 | Scenario 1: Zero-down, standard term | $32,000 | $9,600 | $22,400 | 20 years | 6.99% | $174 | $19,500 | 9-10 years | Base |
 | Scenario 2: ITC applied to principal | $32,000 | $9,600 | $22,400 | 12 years | 5.49% | $205 | $7,800 | 7 years | +$11,000 |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me run a real scenario. A homeowner in Phoenix, Arizona, with an average monthly bill of $220 is looking at a 10-kilowatt system quoted at $32,000 installed.
 
 **Scenario 1: Zero-down solar loan at 6.99% over 20 years**

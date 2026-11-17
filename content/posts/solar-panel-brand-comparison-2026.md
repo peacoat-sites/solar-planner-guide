@@ -39,8 +39,6 @@ Panel quality has genuinely converged over the last decade. A Tier 1 panel from 
 
 ## The Top Solar Panel Brands Heading Into 2026
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me be straight about what "top brand" means here. I'm not going by marketing budget. I'm looking at efficiency, degradation warranty terms, manufacturing quality, financial stability, and what installers and homeowners actually report in the real world.
 
 **REC Group** has become one of the most respected names among installers who give a damn about quality. Their Alpha Pure-R series hits 23%+ efficiency and comes with a 25-year product and performance warranty guaranteeing no more than 0.25% degradation per year after year one. That degradation number is genuinely impressive. Most standard panels degrade at 0.5% to 0.7% annually.

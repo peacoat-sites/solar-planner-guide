@@ -28,8 +28,6 @@ That's before the inverter-charger, the battery management system, the wiring, t
 
 ## The Battery Chemistry Question
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What surprised me most when I really dug into this was how decisively LiFePO4 has won the off-grid argument. Five years ago there was a real conversation about flooded lead-acid versus AGM versus lithium. That conversation is largely over.
 
 Flooded lead-acid is still cheaper upfront. A 48-volt, 600 amp-hour flooded lead-acid bank from a supplier like Rolls or Trojan might cost $3,000-$5,000 in components. Sounds great until you account for the 50% depth-of-discharge limit (meaning you can only use half of what you paid for), the maintenance, the off-gassing, and the fact that you'll likely replace the whole bank in 5-7 years. LiFePO4 batteries like the popular SOK 206Ah or Battle Born 100Ah cells go to 80% depth of discharge routinely, last 10-15 years with proper management, and need essentially zero maintenance. Total cost of ownership over a decade almost always favors lithium, sometimes dramatically.

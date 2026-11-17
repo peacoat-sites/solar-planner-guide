@@ -48,8 +48,6 @@ Here's what I tell people who are new to this: stop reading your solar bill the 
 | Fuel adjustment, distribution, taxes | Additional recurring fees | Yes |
 | Annual true-up reconciliation | Yearly settlement of credits and charges | Yes-payout rules vary by state and utility |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most solar bills from grid-connected utilities will include some version of these charges and credits. The exact labels vary by utility, but the underlying logic doesn't.
 
 **Energy charges.** This is what you owe for the grid electricity you actually consumed. If your panels covered most of your daytime usage, this number should be much lower than it used to be. But almost no system covers 100% of consumption all the time, especially at night, so there's almost always something here.

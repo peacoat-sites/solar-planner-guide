@@ -30,8 +30,6 @@ This doesn't mean no panels qualify. Brands like First Solar, Silfab, and Qcells
 
 ## The Gray Zone Nobody's Talking About
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what most people don't realize: there's no official FEOC compliance certificate. None. When an installer or manufacturer tells you their panels are FEOC compliant, that claim is almost certainly based on internal affidavits, legal interpretation, and self-reporting, not any government validation. The Treasury Department issued formal guidance through Notice 2026-15 in February 2026, but the final IRS safe-harbor tables that will define exact component-level percentage thresholds aren't required to be published until December 31, 2026, according to Solar Power World's coverage of that guidance.
 
 That means for most of this year, the industry is operating in a genuine compliance gray zone. Installers are making their best legal judgment. Lease and PPA companies are doing the same. And if it turns out a system doesn't qualify? The risk of non-compliance falls on the taxpayer or the third-party system owner, not the manufacturer who sold the panels.

@@ -45,8 +45,6 @@ So the no-battery path works well right now in many places. But "right now" is d
 
 ## What Adding a Battery Actually Changes
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A home battery, most commonly a [Tesla Powerwall 3](/tesla-powerwall-cost-2026/), Enphase IQ Battery 5P, or Franklin Electric aPower, stores excess solar energy during the day so you can use it at night. You're no longer automatically dependent on the grid when the sun goes down. The benefits break into three categories.
 
 **Self-consumption.** Instead of exporting cheap solar power to the grid and buying expensive grid power back at night, you use your own stored energy. In markets where time-of-use (TOU) rates apply, evening electricity can cost 30 to 50 cents per kWh while you exported your solar at 3 to 8 cents. A battery closes that gap.

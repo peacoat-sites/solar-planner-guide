@@ -28,8 +28,6 @@ The credits you receive typically reflect the value of the electricity your subs
 
 ## How Subscriptions Are Structured
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I want to slow down, because there's more variation here than most people expect.
 
 Most community solar subscriptions come in two flavors: percentage of output or fixed kilowatt-hour allocation. With the percentage model, you subscribe to, say, 5% of a 500-kilowatt farm. Your credits fluctuate month to month based on how much sun that farm sees. With a fixed allocation, you're locked into receiving (and paying for) a set amount of energy each month regardless of production.

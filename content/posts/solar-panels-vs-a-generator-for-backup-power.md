@@ -38,8 +38,6 @@ Those are genuinely different animals. A generator is a fuel-burning engine. A s
 
 ## The Cost Picture (And Why It's Complicated)
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me put some real numbers on the table, because the range here is enormous and the vagueness in most articles is unhelpful.
 
 | Option | Upfront Cost | Annual Operating Cost | Lifespan | Fuel Dependency |

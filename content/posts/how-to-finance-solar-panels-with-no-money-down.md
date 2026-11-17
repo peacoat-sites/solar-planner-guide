@@ -52,8 +52,6 @@ Each path has real advantages and real drawbacks. The right one depends on your 
 
 ## Solar Loans: The Best Path for Most Homeowners
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I recommend solar loans most often, and the reason is straightforward. You own the system outright from day one. That means you claim the federal investment tax credit, currently worth 30% of your total system cost. On a $25,000 system, that's $7,500 back on your taxes. Leases and PPAs don't give you that.
 
 Most solar-specific loans are unsecured, so you don't put your house up as collateral. Terms typically range from 5 to 25 years, and interest rates in the current market run roughly 6% to 12% depending on your credit score and the lender. Some installers offer 0% promotional financing for shorter terms, though those deals sometimes hide a "dealer fee" that inflates the overall system price.

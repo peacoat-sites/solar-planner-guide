@@ -37,8 +37,6 @@ Then there's what happens to unused credits. Some states let them roll forward f
 
 ## The State-by-State Breakdown: Where You Stand Right Now
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The current landscape breaks into distinct tiers.
 
 The searchable table below places every state in one of those tiers, with the specific detail for each. Net metering is frequently set utility by utility, so treat this as your state-level starting point and verify your own utility on DSIRE.

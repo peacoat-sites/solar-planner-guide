@@ -51,10 +51,6 @@ The takeaway here is real: **high electricity rates matter more than sunshine** 
 
 ## The Variables That Move the Number the Most
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 A handful of factors swing payback period by years, not months. Worth knowing which ones are actually in your control.
 
 **Net metering policy.** If your utility offers full retail net metering, every kWh you send to the grid offsets a kWh you'd otherwise buy. That's the best case. If your state has moved to "net billing" or reduced export compensation (California's NEM 3.0, adopted in 2023, reduced export credits dramatically), your savings from overproduction drop significantly. EnergySage's market data shows California payback periods lengthened by several years under the new policy for homes without batteries. This is one of the most consequential policy shifts in residential solar right now, and it's exactly the kind of thing installers glossed over during the sales pitch.

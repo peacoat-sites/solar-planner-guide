@@ -39,10 +39,6 @@ The tradeoff is real too: you don't own the asset, you can complicate a home sal
 | Massachusetts | Market rate | 15% (max $1,000) + net metering | Owned | Improved by stacking |
 | Maryland (income-eligible) | Market rate | $750/kW grant (max $7,500) | Owned | Improved by grant |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 With Washington out of the residential picture, state programs are now carrying the entire policy load, and they vary wildly. New York's 25% credit (capped at $5,000) and Maryland's $750 per kW grant for income-eligible households (up to $7,500) are among the strongest in the country. Massachusetts offers 15% up to $1,000, which sounds modest but stacks on top of the state's net metering rules and utility rebates.
 
 If you're in Texas, Florida, or most of the Southeast, your state incentive situation is thin to nonexistent. That matters enormously for payback period. A homeowner in Albany with a 30-cent utility rate, New York's 25% credit, and good net metering can still build a reasonable 8 to 10 year payback case. A homeowner in suburban Houston with a 12-cent rate and no state credit is looking at 13 to 16 years on an owned system, possibly longer. Those are fundamentally different propositions.

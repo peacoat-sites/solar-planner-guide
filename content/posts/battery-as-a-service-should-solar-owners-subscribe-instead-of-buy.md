@@ -28,8 +28,6 @@ If you were planning to buy a battery this year counting on that residential cre
 
 ## Subscription vs. Ownership: The Real Numbers
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me put the comparison on paper, because the headline math hides a few things.
 
 | | Buy Outright | Palmetto Subscription |

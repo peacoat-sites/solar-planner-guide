@@ -54,8 +54,6 @@ ABP income estimates assume current Adjustable Block Program pricing for the Com
 
 ## The Illinois Adjustable Block Program (ABP): Your Most Overlooked Incentive
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people know about the federal tax credit. Almost nobody fully understands the ABP, which is genuinely unfortunate because it's the piece that often makes or breaks the Illinois solar math.
 
 Here's how it works: Illinois pays solar homeowners a fixed price per kilowatt-hour of electricity their system produces, paid out as Renewable Energy Credits (REC payments) over 15 years. The price per REC is set by the Illinois Power Agency and varies by utility territory, system size, and "block" (essentially, which funding tranche you land in as the program fills up). As of this year, residential systems under 10 kW in the ComEd territory have been receiving around $60 to $72 per REC, where one REC equals one megawatt-hour of production.

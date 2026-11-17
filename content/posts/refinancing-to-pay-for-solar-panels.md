@@ -48,10 +48,6 @@ There's a third option some people overlook: the FHA Title I or PowerSaver loan 
 | FHA Title I / PowerSaver | Varies | Can roll into purchase or refi | Requires energy improvement qualification |
 | Fannie Mae HomeStyle Energy | Varies | Finances solar into mortgage at purchase | Best for new home buyers |
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Right now, a typical cash-out refinance runs somewhere in the 7% to 7.5% range for a 30-year fixed mortgage, depending on your credit and lender. Compare that to a dedicated solar loan through companies like Mosaic or GreenSky, where rates frequently land between 6.99% and 12.99% depending on your credit profile and whether the installer bakes a "dealer fee" into the loan (more on that in a second).
 
 On the surface, those ranges overlap. But here's the thing most installers won't tell you: a large chunk of solar loans carry a hidden dealer fee, where the lender charges the installer 10% to 25% of the loan amount to offer financing, and the installer simply adds that cost to your system price. You pay for it. You just can't see it. EnergySage's market data has documented this fee pattern extensively, and it's one of the biggest quiet costs in residential solar financing.

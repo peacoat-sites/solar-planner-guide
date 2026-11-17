@@ -33,10 +33,6 @@ For the 1.5 million homes and businesses PPL serves across the Lehigh Valley, La
 | Proposed LMP-based rate | $0.04-$0.08/kWh | $40-$80 | 40-60% reduction in export compensation |
 | Self-consumption value (current rate) | $0.192/kWh | Avoided cost | Growing as rates rise |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Right now, PPL customers with solar get credited at the full retail rate for every kilowatt-hour they export. That's roughly $0.18 to $0.21/kWh depending on tariff class and timing. It's what makes oversizing a system strategically valuable, especially for families who can't be home during peak production hours.
 
 PPL wants to replace that with hourly Locational Marginal Pricing credits, wholesale market rates that average somewhere between $0.04 and $0.08/kWh. That's not a small adjustment. As [NuWatt Energy's 2026 Pennsylvania net metering guide](https://nuwattenergy.com/en/pennsylvania/net-metering-guide-2026) frames it, the shift from retail to LMP-based credits could slash export value by 40 to 60 percent. A system sized to push surplus onto the grid under current rules suddenly becomes a very different financial proposition if those exports are worth a nickel instead of twenty cents.
@@ -70,11 +66,11 @@ The combination of PPL's first rate hike in a decade, a plausible grandfathering
 ## Sources
 
 - [PA PUC Issues Decision in PPL Electric Rate Proceeding](https://www.puc.pa.gov/press-release/2026/puc-issues-decision-in-ppl-electric-rate-proceeding-06042026) (June 4, 2026)
-- [PPL Electric Utilities Reaches Settlement ,  PPL Investor Relations](https://investors.pplweb.com/2026-03-13-PPL-Electric-Utilities-reaches-settlement-in-first-distribution-rate-increase-since-2016) (March 13, 2026)
-- [PA Net Metering 2026: 1:1 Credits, PTC & PPL Changes ,  NuWatt Energy](https://nuwattenergy.com/en/pennsylvania/net-metering-guide-2026) (April 2026)
-- [Pennsylvania Net Metering Update: PPL Enters the Fray ,  Power Advisory LLC](https://www.poweradvisoryllc.com/reports/pennsylvania-net-metering-update-ppl-enters-the-fray-with-rate-case-filing) (October 16, 2025)
-- [PPL Electric Rate Case Settlement, Data Center Tariff ,  Utility Dive](https://www.utilitydive.com/news/ppl-electric-rate-case-settlement-data-center-tariff/814760/) (March 16, 2026)
-- [Pennsylvania Solar Permits: PECO, PPL & Municipal Guide ,  Solar Permit Solutions](https://www.solarpermitsolutions.com/blog/pennsylvania-solar-permits) (April 24, 2026)
+- [PPL Electric Utilities Reaches Settlement, PPL Investor Relations](https://investors.pplweb.com/2026-03-13-PPL-Electric-Utilities-reaches-settlement-in-first-distribution-rate-increase-since-2016) (March 13, 2026)
+- [PA Net Metering 2026: 1:1 Credits, PTC & PPL Changes, NuWatt Energy](https://nuwattenergy.com/en/pennsylvania/net-metering-guide-2026) (April 2026)
+- [Pennsylvania Net Metering Update: PPL Enters the Fray, Power Advisory LLC](https://www.poweradvisoryllc.com/reports/pennsylvania-net-metering-update-ppl-enters-the-fray-with-rate-case-filing) (October 16, 2025)
+- [PPL Electric Rate Case Settlement, Data Center Tariff, Utility Dive](https://www.utilitydive.com/news/ppl-electric-rate-case-settlement-data-center-tariff/814760/) (March 16, 2026)
+- [Pennsylvania Solar Permits: PECO, PPL & Municipal Guide, Solar Permit Solutions](https://www.solarpermitsolutions.com/blog/pennsylvania-solar-permits) (April 24, 2026)
 
 ---
 

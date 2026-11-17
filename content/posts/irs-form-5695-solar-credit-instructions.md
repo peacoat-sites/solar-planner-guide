@@ -46,8 +46,6 @@ Homeowners often feel upset when they discover mid-filing that the tax credit wo
 
 ## What Qualifies (Don't Assume Your Whole Invoice Counts)
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before you ever touch the form, you need to know your qualified expenditure, because that's what you're taking 30% of.
 
 For solar specifically, qualified costs include:

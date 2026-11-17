@@ -50,8 +50,6 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has tra
 
 ## The Warranty Trap
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'd push back on the conventional wisdom: most people assume that a national company's warranty is more trustworthy because the company is "more stable." I'd argue the opposite is often true, and SunPower's bankruptcy is the cleanest example available. Homeowners with 25-year workmanship warranties suddenly found themselves dealing with a company in financial restructuring. Warranties are only as good as the company that survives to honor them.
 
 Local companies have their own version of this risk. Small installers go out of business too, sometimes faster. But here's what actually protects you regardless of company size: manufacturer warranties on the panels and inverters (typically 25 years for panels from brands like REC, Panasonic, or Qcells; 10-12 years for string inverters from SMA or SolarEdge), and your state's contractor licensing board as a backstop for workmanship complaints. Don't let either type of installer make you feel like their company-specific warranty is your primary protection. It isn't.

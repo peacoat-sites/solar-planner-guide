@@ -34,8 +34,6 @@ With a third-party system, the calculus changes completely. You're locking in a 
 
 The right sizing target for a third-party system in 2026 is your baseload consumption, not your peak. Pull 12 months of utility bills, calculate your average monthly kilowatt-hours, and design to cover roughly 80 to 90 percent of that. Not 110 percent. Every kilowatt-hour you overproduce and export under most current net billing tariffs is a kilowatt-hour you've paid the installer for (through lower PPA rates on your whole system) and recovered pennies on.
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## The Contract Terms That Actually Matter
 
 | Metric | Lease/PPA Systems | Owner-Purchased Systems |

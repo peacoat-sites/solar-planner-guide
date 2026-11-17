@@ -51,8 +51,6 @@ EnergySage's market data consistently shows Ohio installers quoting slightly bel
 | Duke Energy Ohio | Southern Ohio | Retail rate credit with aggregate cap | Subject to PUCO adjustment review |
 | Dayton Power and Light | Dayton region | Retail rate credit with aggregate cap | Subject to PUCO adjustment review |
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Ohio has [net metering](/net-metering-changes-by-state/), mandated statewide, but the compensation structure has taken hits. Under current rules, utilities credit excess generation at the full retail rate, which sounds great until you read the aggregate cap: once a utility reaches 5% of its peak demand from distributed generation, they can apply to the Public Utilities Commission of Ohio (PUCO) to adjust the program. Several major utilities are already watching that threshold.
 
 The practical implication: get solar now, while retail-rate net metering is locked in. Customers grandfathered under the current rules have historically been protected for 25 years in most states that have made changes. Waiting carries real policy risk.

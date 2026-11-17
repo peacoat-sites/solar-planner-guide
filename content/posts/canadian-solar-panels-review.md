@@ -48,8 +48,6 @@ They're not a boutique brand. They're not a premium brand. They sit comfortably 
 | TOPBiHiKu | 400-440W | 21-22% | Flat/low-tilt roofs with reflective surfaces | Mid-tier + premium |
 | HiHero (TOPCon) | 400-440W | 22-23% | Space-constrained roofs | Premium |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Canadian Solar sells several residential lines, and the naming has gotten a little chaotic over the years. The main ones you'll encounter from installers today:
 
 The **HiKu7** (CS7N) series runs around 400 to 440W per panel and uses M10 or larger format cells. Efficiency lands around 21 to 22%. This is their workhorse residential panel, and it's the one I've seen quoted most in the U.S. market this year.

@@ -49,8 +49,6 @@ The "solar shingles are almost the same price now" narrative doesn't match actua
 
 ## The Efficiency Gap Is Real, But Shrinking
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where it gets technical but matters a lot. Standard monocrystalline panels from Qcells or REC Alpha hit 20-22% efficiency today. The SunPower Maxeon 6 pushes past 22.8%. Tesla's Solar Roof tiles check in at around 19.8% efficiency, which sounds close, but because the tiles lie flat against your roof and can't be tilted toward optimal sun angles, the real-world energy production often lags behind what a rack-mounted system would generate on the same roof.
 
 [The National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has done extensive modeling on how tilt angle affects solar yield. Even a 15-degree difference from optimal can drop annual output by 10-15% depending on your latitude. Rack-mounted panels get installed at the angle that maximizes production for your specific location. Shingles follow your roofline, wherever that points.

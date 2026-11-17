@@ -49,8 +49,6 @@ A highly rated option on Amazon is the [ChargePoint Home Flex Level 2 EV Charger
 
 ## Sizing Your Solar System for Both the House and the Car
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where the math gets important, and where I see the most costly mistakes.
 
 Most solar installers will size your system based on your past 12 months of utility bills. That works fine for your baseline household load. But if you've recently bought an EV, or plan to buy one, your installer needs to know that upfront. A system sized for your old electricity use will fall short.

@@ -45,10 +45,6 @@ If you see a quote that includes LG or Panasonic panels from an installer today,
 
 ## SunPower Today
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 SunPower's bankruptcy filing in 2023 was alarming news, but the outcome matters more than the filing. The company restructured, sold off its installer network (which became a separate entity), and refocused on its core panel manufacturing and dealer channel. The Maxeon cell technology, which was already its own publicly traded company (Maxeon Solar Technologies), supplies the high-efficiency cells at the core of SunPower's residential panels.
 
 What you're actually getting with a SunPower panel is a back-contact cell design that puts all the electrical contacts on the rear surface. This eliminates shading losses from front-side busbars, which is part of why the efficiency numbers are so high. The SunPower Maxeon 6 panels currently list efficiency around 22.8%, and the temperature coefficient is typically around -0.27%/°C, which is meaningfully better than conventional monocrystalline silicon at roughly -0.35 to -0.40%/°C. That gap matters most if you live somewhere hot.

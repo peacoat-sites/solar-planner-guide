@@ -29,10 +29,6 @@ A Fairleigh Dickinson University poll from April 2026 found 74 to 82 percent of 
 
 ## The Numbers: Is It Actually Worth Doing?
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 For a lot of renters, the honest answer is yes, but the margin varies more than the marketing suggests.
 
 New Jersey averages 18.4 cents per kilowatt-hour. An 800-watt south-facing balcony system, in a state with decent sun exposure, can realistically save around $225 per year, according to figures cited by Sierra Club New Jersey and PlugInSolarUS. Entry-level systems start around $300; more capable setups with battery storage run closer to $1,500. That puts payback somewhere between 1.5 and 6.5 years depending on what you buy and where your balcony faces.
@@ -68,12 +64,12 @@ The 1.28 million renter households in New Jersey now have legal clarity and land
 
 ## Sources
 
-- [New Jersey Passes Legislation to Cut Utility Bills with Plug-In Solar ,  Sierra Club NJ](https://www.sierraclub.org/new-jersey/blog/2026/07/new-jersey-passes-legislation-cut-utility-bills-plug-in-solar) (July 1, 2026)
-- [New Jersey legislature unanimously passes plug-in solar bill ,  pv magazine USA](https://pv-magazine-usa.com/2026/07/01/new-jersey-legislature-unanimously-passes-plug-in-solar-bill/) (July 1, 2026)
-- [Why New Jersey's balcony solar bill is a huge deal for renters ,  CNN](https://www.cnn.com/climate/new-jersey-balcony-solar-renters) (July 2, 2026)
-- [New Jersey Passes Garden State Balcony Solar Act ,  PlugInSolarUS](https://pluginsolarus.com/learn/new-jersey-s2368-garden-state-balcony-solar-act) (July 1, 2026)
-- [Solar plays big role in Massachusetts Senate's energy savings bill ,  Solar Power World](https://www.solarpowerworldonline.com/2026/07/solar-plays-big-role-in-massachusetts-senates-energy-savings-bill/) (July 2, 2026)
-- [New Jersey lawmakers say 'yes' to plug-in solar ,  Solar Power World](https://www.solarpowerworldonline.com/2026/07/new-jersey-lawmakers-say-yes-to-plug-in-solar/) (July 2, 2026)
+- [New Jersey Passes Legislation to Cut Utility Bills with Plug-In Solar, Sierra Club NJ](https://www.sierraclub.org/new-jersey/blog/2026/07/new-jersey-passes-legislation-cut-utility-bills-plug-in-solar) (July 1, 2026)
+- [New Jersey legislature unanimously passes plug-in solar bill, pv magazine USA](https://pv-magazine-usa.com/2026/07/01/new-jersey-legislature-unanimously-passes-plug-in-solar-bill/) (July 1, 2026)
+- [Why New Jersey's balcony solar bill is a huge deal for renters, CNN](https://www.cnn.com/climate/new-jersey-balcony-solar-renters) (July 2, 2026)
+- [New Jersey Passes Garden State Balcony Solar Act, PlugInSolarUS](https://pluginsolarus.com/learn/new-jersey-s2368-garden-state-balcony-solar-act) (July 1, 2026)
+- [Solar plays big role in Massachusetts Senate's energy savings bill, Solar Power World](https://www.solarpowerworldonline.com/2026/07/solar-plays-big-role-in-massachusetts-senates-energy-savings-bill/) (July 2, 2026)
+- [New Jersey lawmakers say 'yes' to plug-in solar, Solar Power World](https://www.solarpowerworldonline.com/2026/07/new-jersey-lawmakers-say-yes-to-plug-in-solar/) (July 2, 2026)
 
 ---
 

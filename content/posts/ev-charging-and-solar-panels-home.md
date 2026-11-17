@@ -46,8 +46,6 @@ My recommendation is to add 2 to 3 kW of additional solar capacity beyond what y
 | Level 1 | 120V standard outlet | 3-5 miles | None (existing outlet) | Yes, if daily drive ≤40 miles |
 | Level 2 | 240V dedicated circuit | 20-30 miles | $500-$1,500 | Yes, especially with variable rate control |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is a question I get asked constantly, and what surprised me is how often the slower option actually makes more financial sense for solar owners.
 
 **Level 1 charging** uses a standard 120-volt outlet and delivers about 3 to 5 miles of range per hour. Most people dismiss it as impractically slow. But if you're driving 30 to 40 miles a day and your car sits in the garage for 10 to 14 hours overnight, Level 1 can actually top off your battery just fine.

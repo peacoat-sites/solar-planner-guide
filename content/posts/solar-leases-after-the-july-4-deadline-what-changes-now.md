@@ -30,10 +30,6 @@ The Tax Adviser laid out these safe harbor rules clearly back in February 2026, 
 
 ## How This Changes Pricing, in Practice
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's something that might surprise you. SolarReviews projects that lease pricing could actually fall modestly through the rest of 2026. The reason is competition. Companies with safe harbor are fighting hard for the shrinking pool of customers they can sign before their eligible installation windows close. That competitive pressure benefits you right now, if you're a good candidate for a lease.
 
 But the picture changes after 2027. Once Section 48E fully expires, Solar Insure's July 2026 modeling flags what they describe as a potential pricing reset similar to the disruption that followed the end of Section 25D for owned systems. Here's a rough way to think about what's at stake:

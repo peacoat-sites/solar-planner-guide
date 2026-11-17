@@ -63,8 +63,6 @@ Check how your installer handles permit expediting by asking them directly: [lea
 | Massachusetts/Connecticut | 3-4 weeks | 4-6 weeks | 12-20 weeks | High demand, town-by-town variation, National Grid delays |
 | Florida (Tampa/Orlando) | Fast | 2-4 weeks | 7-11 weeks | Generally fast permitting, improved FPL interconnection |
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Geography matters more than most installers will tell you upfront.
 
 **Texas (Austin or Dallas):** Permitting is relatively fast, utilities like Oncor or Austin Energy have streamlined interconnection in recent years. Realistic total timeline: 6 to 9 weeks.

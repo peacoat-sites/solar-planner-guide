@@ -56,8 +56,6 @@ For example, consider a home with a 7 kW system and a $180/month average electri
 | Michigan | Capped program | None significant | Patchwork coverage; utility resistance |
 | Indiana | Capped program | Utilities pushing demand charges | Demand charges can erode savings significantly |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If there's one thing that will determine whether solar pencils out in the Midwest more than sun hours, it's your state's net metering policy. And here I'll be blunt: the Midwest is a mixed bag, and some states are actively trying to reduce the value of net metering as more people go solar.
 
 As of July 2026, here's roughly where the major Midwest states stand:

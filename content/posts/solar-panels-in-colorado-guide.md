@@ -53,8 +53,6 @@ The Xcel scenario is the one that stings a little. Xcel's move away from full re
 
 ## The Hail Problem
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'm going to spend more time on this than most guides do, because it's the most underappreciated risk in Colorado solar.
 
 Colorado sits in the heart of hail alley. In May 2017, a single storm in the Denver metro caused over $2.3 billion in damage. Fort Collins, Colorado Springs, and the Front Range corridor all see multiple significant hail events per year. Solar panels are rated for hail impact under IEC 61215, with Class C being the most impact-resistant standard (tested at 2-inch hailstones at 88 mph).

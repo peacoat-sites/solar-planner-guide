@@ -46,8 +46,6 @@ Don't accept a single ROI number. Always dig into what's underneath.
 
 ## The Five Numbers You Need Before You Calculate Anything
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most homeowners skip this part and regret it. You need five inputs before opening a spreadsheet. Get these wrong and everything downstream falls apart.
 
 **1. Net system cost after incentives**

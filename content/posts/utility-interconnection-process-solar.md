@@ -41,8 +41,6 @@ The utility itself determines your experience far more than your installer, equi
 
 ## The Step-by-Step Reality
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the sequence most homeowners go through, though the order shifts depending on your jurisdiction:
 
 1. Your installer submits the interconnection application. This includes system specs, single-line electrical diagrams, equipment datasheets, and sometimes a site map. Most utilities now have online portals for this, though I've dealt with a few rural co-ops that still want a PDF faxed or emailed to a specific address that changes every six months.

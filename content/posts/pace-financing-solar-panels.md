@@ -53,8 +53,6 @@ The PACE loan doesn't look wildly out of line on interest rate alone. Where it d
 
 ## The Property Lien Problem (and When It Bites You)
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This part deserves clearer explanation from salespeople. The lien is often underestimated as benign, but it carries real weight.
 
 PACE liens are typically senior to your mortgage in some states, meaning if you default on your property taxes (including the PACE assessment), a PACE servicer can initiate foreclosure proceedings before your mortgage lender gets paid. Fannie Mae and Freddie Mac have explicitly said they will not purchase mortgages with first-lien PACE obligations. So if you've got a conventional mortgage and you take out a PACE loan without your lender's blessing, you may technically be in violation of your mortgage terms.

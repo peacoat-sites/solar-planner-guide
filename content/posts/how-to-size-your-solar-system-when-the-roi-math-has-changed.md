@@ -34,10 +34,6 @@ The practical response isn't to walk away from solar. It's to walk into the sizi
 
 ## Why the 7.4 kW "Median" Is the Wrong Starting Point Now
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The recent median residential system size of 7.4 kW was partly shaped by the tax credit. When 30% of your system cost comes back as a federal credit, there's a strong incentive to size up. Cover 100% or even 110% of your usage. Add a little buffer for an EV you might buy someday. The credit softened the upfront pain of going bigger.
 
 That logic no longer applies. Here's a simple way to think about the tradeoff in 2026:
@@ -78,12 +74,12 @@ The solar market in mid-2026 is harder than it was two years ago. That's just tr
 
 ## Sources
 
-- [US Residential Solar Industry Faces Slump in 2026, BNEF Says ,  Bloomberg Law](https://news.bloomberglaw.com/states-of-play/us-residential-solar-industry-faces-slump-in-2026-bnef-says) (June 15, 2026)
-- [Residential Solar to Decline 33% Year-Over-Year ,  PV Magazine USA](https://pv-magazine-usa.com/2026/03/17/residential-solar-to-decline-33-year-over-year-said-roth-capital-partners/) (March 17, 2026)
-- [U.S. Residential Solar Installations Set to Stall for Years ,  The Spokesman](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
-- [Is Solar Still Worth It in 2026? Analyzing the Investment Without Federal Credits ,  Infinity Solar](https://www.infinitysolar.net/blog-solar-panels/is-solar-still-worth-it-in-2026-analyzing-the-investment-without-federal-credits/) (June 29, 2026)
-- [What Will Happen in Residential Solar in 2026? 10 Predictions ,  Bodhi Solar](https://www.bodhi.solar/blog/residential-solar-in-2026-10-predictions) (January 11, 2026)
-- [Why Florida's Residential Solar Industry Started 2026 So Strong ,  Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/why-florida-s-residential-solar-industry-started-2026-so-strong) (July 28, 2026)
+- [US Residential Solar Industry Faces Slump in 2026, BNEF Says, Bloomberg Law](https://news.bloomberglaw.com/states-of-play/us-residential-solar-industry-faces-slump-in-2026-bnef-says) (June 15, 2026)
+- [Residential Solar to Decline 33% Year-Over-Year, PV Magazine USA](https://pv-magazine-usa.com/2026/03/17/residential-solar-to-decline-33-year-over-year-said-roth-capital-partners/) (March 17, 2026)
+- [U.S. Residential Solar Installations Set to Stall for Years, The Spokesman](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
+- [Is Solar Still Worth It in 2026? Analyzing the Investment Without Federal Credits, Infinity Solar](https://www.infinitysolar.net/blog-solar-panels/is-solar-still-worth-it-in-2026-analyzing-the-investment-without-federal-credits/) (June 29, 2026)
+- [What Will Happen in Residential Solar in 2026? 10 Predictions, Bodhi Solar](https://www.bodhi.solar/blog/residential-solar-in-2026-10-predictions) (January 11, 2026)
+- [Why Florida's Residential Solar Industry Started 2026 So Strong, Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/why-florida-s-residential-solar-industry-started-2026-so-strong) (July 28, 2026)
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

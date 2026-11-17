@@ -47,8 +47,6 @@ For how this credit works with your specific solar setup, [ITC Solar Investment 
 | $20,000 | $6,000 | $14,000 |
 | $25,000 (dual battery) | $7,500 | $17,500 |
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Battery costs are all over the map depending on brand, capacity, and installation. A single Tesla Powerwall 3 runs $12,000 to $16,000 installed. An Enphase IQ Battery 10T (10 kilowatt-hours) typically lands around $10,000 to $14,000 installed. Some homeowners go bigger and stack multiple units.
 
 At 30%, here's the actual math:

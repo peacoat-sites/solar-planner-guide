@@ -51,8 +51,6 @@ Before any company names, you need a framework. Otherwise you're just comparing 
 | Palmetto Solar | Industry standard | Industry standard | Regional expertise, monitoring plan | Mid-Atlantic and Southeast homeowners |
 | Local/Regional | Varies | Varies | Installer quality, local knowledge | Any region with established local installers |
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 These aren't paid placements. They're companies with track records worth examining.
 
 **SunPower (now Maxeon in some markets)** remains the gold standard for panel efficiency and warranty coverage. Their Maxeon cells degrade at roughly 0.25% per year, which is half the industry average. The 40-year combined warranty on panels and installation is genuinely rare. The tradeoff: SunPower is expensive, often 20-30% above the market average per watt. If you have a small or shaded roof where efficiency per square foot matters, the premium pays off. If you have plenty of unshaded space, cheaper panels may deliver equal returns.

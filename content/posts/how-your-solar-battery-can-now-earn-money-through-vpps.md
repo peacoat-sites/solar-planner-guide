@@ -24,8 +24,6 @@ What makes the Sunrun/Tesla/Renew Home announcement significant isn't just the s
 
 ## The Earning Potential: Real Numbers, Realistic Expectations
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering what "earning money" actually looks like on a monthly bank statement. Across multiple states with active VPP programs, enrolled homeowners are currently earning $500 to $1,500 or more per year, according to program data compiled by NuWatt Energy. That's not a guarantee, and the range is wide because it depends on your state, your utility, your battery size, and how many grid events actually trigger a dispatch in a given year.
 
 California tends to see the highest earnings because its grid stress events are frequent and its programs are mature. States like Virginia, Texas, and Massachusetts have growing programs. The dispatch events themselves are typically short, often one to four hours, and your battery isn't fully drained. Most programs are designed so you keep enough reserve charge for your own home's needs. The tradeoff is real but modest: you give up some control over your battery's charge state during peak events, in exchange for cash payments or bill credits.

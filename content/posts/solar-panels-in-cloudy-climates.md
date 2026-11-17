@@ -46,8 +46,6 @@ There's also a counterintuitive effect that I always mention: solar panels actua
 | Massachusetts/New York/Connecticut | 3.5-4.5 | $0.22-0.28/kWh | -30-40% | High electricity prices offset lower production |
 | Juneau, Alaska | 2.7 | Subsidized | Poorest | North-facing, tree-covered lots problematic |
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I want to slow down, because this is the number most homeowners never see but should demand before signing anything.
 
 Peak sun hours measure the total solar energy hitting a surface per day, expressed as the number of equivalent hours of full 1000 W/m² sunlight. It's not the same as daylight hours. A 16-hour partly cloudy day might yield 3.5 peak sun hours. A 10-hour clear desert day might yield 6.5.

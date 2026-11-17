@@ -42,10 +42,6 @@ For someone who simply cannot write a $16,000 check [right now](/what-feoc-rules
 
 ## Texas Is the Testing Ground
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The most interesting thing happening in the battery subscription space isn't Palmetto. It's what's already been running quietly in Texas. Base Power, Lunar Energy (backed by Octopus Energy), and Solrite have built subscription-style battery services in deregulated Texas markets, operating customer batteries as part of virtual power plants, or VPPs. The model works like this: the company installs the battery, manages it through software, dispatches stored energy back to the grid when prices spike or demand peaks, and uses that revenue to help offset the cost to the customer. The homeowner gets backup power; the operator gets a grid-participating asset they can monetize. Texas's deregulated market makes this easier because customers can actually choose their electricity plan and the incentive structures are more flexible.
 
 I'll be honest, the VPP approach is more sophisticated than a pure backup play, and it's not clear yet how well it translates to regulated utility states where Palmetto is launching. The economics depend heavily on local rate structures and whether utilities allow bidirectional participation.

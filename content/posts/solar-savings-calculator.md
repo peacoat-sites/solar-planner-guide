@@ -43,8 +43,6 @@ Few consumer-facing calculators actually pull live utility rate data. Many use s
 
 ## The Tools That Are Actually Worth Using
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are really only a handful of calculators I'd point someone to without caveats.
 
 **PVWatts** (built and maintained by the National Renewable Energy Laboratory) is the gold standard for production estimates. It uses NASA satellite-derived irradiance data, lets you input actual roof tilt and azimuth, and accounts for losses from wiring, soiling, and inverter inefficiency. It won't give you a polished savings report, but it gives you the most defensible production number you can get without an on-site assessment. Free. No email required. NREL publishes it specifically so homeowners and researchers can get an honest answer.

@@ -39,8 +39,6 @@ The salesperson who promised "seven years"? They might have assumed faster elect
 
 ## The Core Solar Payback Period Formula (and What Goes Into Each Number)
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The formula:
 
 **Payback Period (years) = Net System Cost / Annual Savings**

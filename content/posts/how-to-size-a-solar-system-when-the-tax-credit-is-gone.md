@@ -36,8 +36,6 @@ You might think a slower market means cheaper panels. Maybe a little. Installers
 
 ## Buy, Lease, or Wait: This Decision Has a Deadline Attached
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell anyone weighing a full purchase against a lease or power purchase agreement: one of these options is about to close.
 
 The Section 48E commercial tax credit for [solar leases and PPAs](/solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system/) stays at 30% through the end of 2027. But there's a buried detail that matters. Projects must start construction by July 4, 2026 to get that credit. We're talking weeks. If you want a PPA or lease with full tax benefits, you need installers' contracts signed and site work booked now, not next month.
@@ -72,12 +70,12 @@ The honest answer is this: solar still pencils out for plenty of homeowners in 2
 
 ## Sources
 
-- [U.S. Residential Solar Installations Set to Stall for Years , Spokesman-Review / BloombergNEF](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
-- [Net Metering in 2026: State-by-State Guide to What's Changed , NuWatt Energy](https://nuwattenergy.com/en/net-metering-changes-2026) (April 7, 2026)
-- [Is Solar Worth It in 2026? The Honest Answer After the Tax Credit Ended , IntegrateSun](https://www.integratesun.com/post/is-solar-worth-it-in-2026-the-honest-answer-after-the-tax-credit-ended) (June 12, 2026)
-- [The Federal Solar Tax Credit: What's New in 2026 , SolarReviews](https://www.solarreviews.com/blog/federal-solar-tax-credit) (2026)
-- [New Colorado Law Expands Access to Plug-In Solar Panels , CBS Colorado](https://www.cbsnews.com/colorado/news/colorado-law-plug-in-solar-panels-access/) (June 10, 2026)
-- [Net Metering Tracker: Which States Are Changing the Rules in 2026? , OhmSnap](https://www.ohmsnap.com/net-metering-tracker) (April 2026)
+- [U.S. Residential Solar Installations Set to Stall for Years, Spokesman-Review / BloombergNEF](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
+- [Net Metering in 2026: State-by-State Guide to What's Changed, NuWatt Energy](https://nuwattenergy.com/en/net-metering-changes-2026) (April 7, 2026)
+- [Is Solar Worth It in 2026? The Honest Answer After the Tax Credit Ended, IntegrateSun](https://www.integratesun.com/post/is-solar-worth-it-in-2026-the-honest-answer-after-the-tax-credit-ended) (June 12, 2026)
+- [The Federal Solar Tax Credit: What's New in 2026, SolarReviews](https://www.solarreviews.com/blog/federal-solar-tax-credit) (2026)
+- [New Colorado Law Expands Access to Plug-In Solar Panels, CBS Colorado](https://www.cbsnews.com/colorado/news/colorado-law-plug-in-solar-panels-access/) (June 10, 2026)
+- [Net Metering Tracker: Which States Are Changing the Rules in 2026?, OhmSnap](https://www.ohmsnap.com/net-metering-tracker) (April 2026)
 
 ---
 

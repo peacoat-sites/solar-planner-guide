@@ -52,8 +52,6 @@ Get your number first. If you don't have 12 months of bills, your utility can us
 
 ## The Core Formula (And What Makes It Messy)
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once you have your annual kWh, here's the basic calculation:
 
 **Number of panels = Annual kWh usage / (panel wattage x peak sun hours x 365)**

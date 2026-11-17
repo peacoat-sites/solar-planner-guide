@@ -39,8 +39,6 @@ That legal mandate is what gives SRECs real monetary value. Without an RPS with 
 
 ## Where the Market Is Real (and Where It Isn't)
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most solar articles fail you. They explain what SRECs are and then leave you to figure out whether your state has a market. I'll be direct: most don't.
 
 As of July 2026, the states with meaningful, liquid SREC markets are: New Jersey, Massachusetts, Maryland, Washington D.C., Pennsylvania, Ohio (declining), Illinois (via the SREC-II program), and Virginia. A handful of others have thin or emerging markets. If you're in Texas, Arizona, Florida, or most of the West, SRECs are essentially not a factor in your solar economics.

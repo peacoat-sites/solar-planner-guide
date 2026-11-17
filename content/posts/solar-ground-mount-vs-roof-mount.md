@@ -40,8 +40,6 @@ Ground mounts are a different animal. You're digging footings, pouring concrete,
 
 ## When Ground Mounts Actually Win
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what shifted my perspective. A few years back, I was working with a family outside Tucson. Beautiful south-facing roof, looked perfect on paper. But the azimuth was off by about 20 degrees from true south, and there were two mature mesquite trees on the western edge of the property that were throwing afternoon shade on the roof from roughly 3 PM onward. The installer they'd originally spoken to had quoted a rooftop system and never mentioned the shade issue. When I modeled it out using PVWatts, that shade was costing them around 18% of annual production compared to an unshaded south-facing installation.
 
 We put in a ground mount about 40 feet from the house, angled at 25 degrees toward true south, fully clear of shade. The extra install cost was $3,200. The production improvement over the roof install? About 1,800 kWh per year. At their blended rate of $0.13 per kWh (this was Arizona, rates are low), that's $234 a year. The payback on the premium was under 14 years, but they planned to be in the house indefinitely, and the system itself is warrantied for 25 years. Over the back half of that warranty period, the ground mount paid for its own premium twice over.

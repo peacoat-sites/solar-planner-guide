@@ -43,8 +43,6 @@ Buying outright or financing with a [solar loan flips the equation](/solar-loan-
 
 ## The Real Numbers: Lease vs. Buy vs. Loan
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's put some concrete figures against the vague promises.
 
 The average residential solar system in the U.S. costs around $30,000 before incentives, or roughly $20,000-$21,000 after the 30% federal tax credit, according to data consistently cited by EnergySage. Financed over 10-12 years at a 6-7% interest rate, monthly payments land in the $150-$200 range for a typical 8-10 kW system.

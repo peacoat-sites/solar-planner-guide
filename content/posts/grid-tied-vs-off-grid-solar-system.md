@@ -39,8 +39,6 @@ There's also a third option that gets underdiscussed: grid-tied with battery bac
 
 ## The Economics, Laid Out Honestly
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'm going to say something some installers won't: for the majority of U.S. homeowners with grid access, off-grid solar makes no financial sense.
 
 A grid-tied system for a typical American home runs about $20,000-$30,000 before the 30% federal Investment Tax Credit (ITC), which has been extended through 2032. After that credit, you're often looking at $14,000-$21,000 out of pocket for a 6-12 kW system. [EnergySage's market data](https://news.energysage.com/) consistently shows average payback periods in the 7-10 year range depending on your state, utility rates, and net metering policy.

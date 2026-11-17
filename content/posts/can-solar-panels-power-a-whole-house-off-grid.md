@@ -54,8 +54,6 @@ A [home energy monitor like the Emporia Vue](https://www.amazon.com/dp/B084DQKJ6
 
 ## The Four Components That Actually Run an Off-Grid Home
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Panels get the attention. The other three components determine whether anything actually works.
 
 **Solar panels.** For off-grid systems, high-efficiency monocrystalline panels matter more than they do for [grid-tied systems](/grid-tied-vs-off-grid-solar-system/) because you often don't have much roof or ground space and can't make up the difference with net-metering credits. REC, Panasonic, and SunPower consistently hit 22-23% efficiency, though tier-1 options from Jinko or LONGi at 20-21% cost less and perform just fine. On a 10kW system, you're installing roughly 22-28 panels depending on wattage per panel.

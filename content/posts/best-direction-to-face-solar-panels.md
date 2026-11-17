@@ -47,8 +47,6 @@ The caveat: due south is the goal, but you've got more flexibility than most peo
 
 ## West-facing panels aren't a disaster. Sometimes they're actually smarter.
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the take that might surprise you: depending on your utility's rate structure, west-facing panels can actually make you *more money* than south-facing ones, even while producing fewer total kilowatt-hours.
 
 Stay with me. Utilities in California, Arizona, Texas, and several other states operate on time-of-use (TOU) pricing, where electricity is more expensive during peak hours, typically 4-9 p.m. A south-facing array produces its peak output around noon, which in many TOU structures is off-peak. A west-facing array shifts peak production to 3-6 p.m., when prices can be 2-3x higher. EnergySage's market data shows this trade-off is now a real conversation in states with aggressive TOU schedules, and some installers in California routinely recommend a west-facing split for this exact reason.

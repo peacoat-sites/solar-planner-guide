@@ -40,10 +40,6 @@ This distinction matters because the two options solve different problems for di
 
 ## Who Rooftop Solar Actually Works For
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Not everyone. I'll say that plainly because installers won't.
 
 Rooftop solar has a strong financial case when you own your home, have a south or west-facing roof with minimal shading, use a meaningful amount of electricity (think $150+ monthly bills), and plan to stay put for at least seven to ten years. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published research showing that only about half of U.S. residential rooftops are even technically suitable for solar, when you factor in orientation, shading, and structural issues.

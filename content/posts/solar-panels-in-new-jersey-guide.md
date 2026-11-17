@@ -51,8 +51,6 @@ One thing I almost missed the first time I analyzed a NJ project: the sales tax 
 
 ## The SREC II Program: The Part That Actually Moves the Needle
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 New Jersey's Solar Renewable Energy Certificate program is what separates this state from most others. Every 1,000 kWh your system produces generates one SREC, which you can sell to utilities that are required by law to source a portion of their power from solar. As of 2026, SREC II prices in NJ have been trading in the $85-$95 range per certificate, though this shifts based on supply and demand.
 
 Here's a worked example. An 8 kW system in central New Jersey (let's say Mercer County) will generate approximately 9,200 kWh per year based on NREL's PVWatts calculator with a standard 0.77 DC-to-AC derate factor. That's roughly 9.2 SRECs annually. At $90 each, you're collecting $828/year just from SREC sales, for 15 years under the program's current structure. That's $12,420 in SREC revenue before you've calculated a dollar of electric bill savings.

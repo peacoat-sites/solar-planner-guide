@@ -45,8 +45,6 @@ The typical home battery stores somewhere between 10 and 20 kilowatt-hours (kWh)
 | Generac PWRcell | 9-18 kWh (modular) | 3.4-6.7 kW | NMC Lithium-ion | 10 years / 70% capacity | $15,000-$20,000 |
 | SolarEdge Home Battery | 9.7 kWh | 5.0 kW | LFP | 10 years / 70% capacity | $10,000-$14,000 |
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The home battery market has matured significantly over the last five years. You're no longer choosing between one good option and a bunch of also-rans. Here's a practical breakdown of the systems I see installed most often and what actually differentiates them.
 
 | Battery | Usable Capacity | Power Output (Continuous) | Chemistry | Warranty | Rough Installed Cost |

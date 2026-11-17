@@ -39,8 +39,6 @@ That escalator is the part nobody reads carefully enough. I've sat with homeowne
 
 ## The Numbers Side by Side
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me put the comparison on the table, because I find most articles bury these figures in prose where they're hard to compare:
 
 | Factor | Purchase (cash or loan) | Solar Lease / PPA |

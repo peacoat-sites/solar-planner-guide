@@ -42,8 +42,6 @@ Never accept a "ballpark" quote without someone looking at your actual roof and 
 
 ## How Much Can Solar Actually Save You?
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your savings come down to three variables: how much electricity you actually use, what your utility charges per kilowatt-hour (kWh), and how much sun your roof gets.
 
 The national average hit 16.2 cents per kWh in 2023, but that number means almost nothing on its own. California residents pay 30 to 35 cents per kWh under PG&E's tiered rates. Louisiana customers might pay 11 cents. That difference more than doubles potential savings.

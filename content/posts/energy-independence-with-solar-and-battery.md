@@ -53,8 +53,6 @@ Two or three batteries stacked together gets most households through a multi-day
 
 For monitoring how your system is actually performing day to day, a home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor) (Amazon, commission may apply) lets you track solar production, battery state, and home consumption in real time from your phone. I recommend it to almost every client because it turns a black-box system into something you actually understand.
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## The Real Cost Breakdown (and Where the Savings Actually Come From)
 
 | Component | Typical Cost Range | Notes |

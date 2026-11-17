@@ -56,8 +56,6 @@ A common oversight: failing to account for consumption changes before sizing you
 
 ## The Wattage Calculation Itself
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once you've got your daily kWh number, you're halfway there. The actual formula is:
 
 **Daily kWh needed ÷ Peak Sun Hours = System size in kW**

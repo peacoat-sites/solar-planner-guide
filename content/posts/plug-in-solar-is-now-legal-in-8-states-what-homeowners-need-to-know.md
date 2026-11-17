@@ -28,8 +28,6 @@ What most people don't realize is that the technology has been around for years.
 
 ## The 8 States Where It's Already Legal, and the Big Ones Still Deciding
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Utah, Maine, Virginia, Colorado, Maryland, Connecticut, New Hampshire, and Vermont have all enacted laws legalizing plug-in solar. The details vary by state, and the wattage caps matter a lot.
 
 Colorado's HB26-1007, signed by Governor Polis on May 7, 2026, set the highest cap in the country at 1,920 watts per meter. That's 60% higher than most other states and enough to run two or three panels with serious output. If you're in Colorado and want to maximize what a plug-in system can do, you have more room to work with than anywhere else in the U.S.
@@ -77,12 +75,12 @@ If you're in one of the eight states where this is already legal, the barrier to
 
 ## Sources
 
-- [PlugInSolarUS ,  State Legislation Tracker](https://pluginsolarus.com/states) (Updated May 2026)
-- [Canary Media ,  Where Does Balcony Solar Stand in Your State?](https://www.canarymedia.com/articles/solar/states-passing-balcony-solar-laws) (July 2, 2026)
-- [TechRadar ,  Home Battery Installations Hit Record High as 30 States Plan to Legalize Plug-In Solar](https://www.techradar.com/home/energy-saving/the-diy-energy-boom-is-here-30-us-states-are-planning-to-legalize-plug-in-solar-tech-as-home-battery-installations-quietly-hit-a-record-high) (July 12, 2026)
-- [Solar.com ,  2026 Guide to Balcony & Plug-In Solar](https://www.solar.com/learn/guide-to-balcony-plug-in-solar/) (July 11, 2026)
-- [WattBuild ,  Balcony Solar in the US in 2026](https://www.wattbuild.com/learn/about/477/balcony-solar) (April 11, 2026)
-- [US Solar Supplier ,  Plug-In Solar Guide 2026](https://ussolarsupplier.com/blogs/news/plug-in-solar-guide-2026) (April 29, 2026)
+- [PlugInSolarUS, State Legislation Tracker](https://pluginsolarus.com/states) (Updated May 2026)
+- [Canary Media, Where Does Balcony Solar Stand in Your State?](https://www.canarymedia.com/articles/solar/states-passing-balcony-solar-laws) (July 2, 2026)
+- [TechRadar, Home Battery Installations Hit Record High as 30 States Plan to Legalize Plug-In Solar](https://www.techradar.com/home/energy-saving/the-diy-energy-boom-is-here-30-us-states-are-planning-to-legalize-plug-in-solar-tech-as-home-battery-installations-quietly-hit-a-record-high) (July 12, 2026)
+- [Solar.com, 2026 Guide to Balcony & Plug-In Solar](https://www.solar.com/learn/guide-to-balcony-plug-in-solar/) (July 11, 2026)
+- [WattBuild, Balcony Solar in the US in 2026](https://www.wattbuild.com/learn/about/477/balcony-solar) (April 11, 2026)
+- [US Solar Supplier, Plug-In Solar Guide 2026](https://ussolarsupplier.com/blogs/news/plug-in-solar-guide-2026) (April 29, 2026)
 
 ---
 

@@ -45,8 +45,6 @@ One thing that tripped me up the first time I walked through this with a client:
 
 ## State Incentives Are Where It Gets Complicated (and Lucrative)
 
-> **Helpful resource:** [Solar Panel Cleaning Brush Kit with Extension Handle](https://www.amazon.com/dp/B0BVXGN3WK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Federal is the floor. State programs are where the real variation kicks in, and some of them are genuinely extraordinary.
 
 Here's the honest picture of the best state programs as of August 2026:

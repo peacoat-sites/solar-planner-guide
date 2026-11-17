@@ -41,8 +41,6 @@ One thing installers often don't mention upfront: roof orientation matters more 
 
 ## The Real Numbers: System Size vs. Cost in 2026
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's a breakdown I put together from current installer quotes and EnergySage market data. These figures reflect installed costs (equipment plus labor) before any incentives, current as of July 2026.
 
 | System Size | Typical Home Size | Est. Before ITC | After 30% ITC | Est. Annual Savings | Simple Payback |

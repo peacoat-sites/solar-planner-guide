@@ -43,8 +43,6 @@ The practical difference is bigger than it sounds. With SolarEdge, if that centr
 
 ## The Real Cost Difference
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Current pricing (July 2026), based on EnergySage's national installer marketplace data, puts the average installed cost of a 7–8 kW residential system at roughly:
 
 | System Type | Avg Installed Cost/Watt | Avg Total (7.5 kW) | Monitoring App | Battery-Ready? |

@@ -42,8 +42,6 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) maintai
 
 ## The States Most People Write Off (and Shouldn't)
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Washington, Oregon, Michigan, Ohio, western New York. These are the states that come up constantly in reader emails with some version of "I've heard it's not worth it here."
 
 I'd push back on that, with numbers.

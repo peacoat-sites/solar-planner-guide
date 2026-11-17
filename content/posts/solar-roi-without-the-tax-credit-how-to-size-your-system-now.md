@@ -33,8 +33,6 @@ What this means practically: the variables that were always important, [local ne
 
 ## Why Florida and California Are Defying the National Trend
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The national headline obscures something important. Florida is projected to add 710 MW of residential solar in 2026, a 62% year-over-year jump, driven by pro-solar legislation passed in 2025. California is up 17%. These aren't accidents. Both states have strong net metering frameworks, high utility rates, and in Florida's case, a political environment that has recently made solar more accessible rather than less. When your utility charges 14 to 16 cents per kilowatt-hour and offers reasonable export credits, an 8-to-10-year payback is still competitive compared to alternatives. When your utility charges 9 cents and has gutted net metering, you might be looking at 12 to 14 years. Same system, radically different outcome.
 
 Homeowners in states with deteriorating net metering policies often find updated export rates surprising. If you're in a state where the utility has recently changed its export rate structure, or where there's an active regulatory docket on net metering, that uncertainty alone should factor into your decision. The federal credit was predictable. Net metering policy is not.

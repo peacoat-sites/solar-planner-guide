@@ -49,8 +49,6 @@ The federal Investment Tax Credit still applies. That's 30% of your total system
 
 ## The APS and SRP Problem Nobody Warns You About
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I need to spend real time here because this is where Arizona homeowners get surprised.
 
 Your utility company has enormous influence on how much money you'll actually save with solar. Arizona's two dominant utilities, Arizona Public Service (APS) and Salt River Project (SRP), have some of the least solar-friendly [net metering policies](/net-metering-changes-by-state/) in the country.

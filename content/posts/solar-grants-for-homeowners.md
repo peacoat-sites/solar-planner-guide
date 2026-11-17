@@ -39,8 +39,6 @@ The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-gui
 
 ## Where actual grants live
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Real outright grants for residential solar exist primarily in three places: USDA programs targeting rural areas, state-level low-income programs, and utility-run rebate programs that function like grants in practice.
 
 The USDA Rural Energy for America Program (REAP) is technically aimed at agricultural producers and rural small businesses, not homeowners per se, but if you run any kind of home-based agricultural operation or small business from your property, it's worth investigating. REAP grants can cover up to 50% of eligible project costs. That's not a typo.

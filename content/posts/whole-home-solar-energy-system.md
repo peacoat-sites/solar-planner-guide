@@ -54,8 +54,6 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) publish
 | Roof Age Threshold for Inspection | 15+ years | Recommended before solar installation |
 | Typical Roof Lifespan | 25-30 years | Matches solar panel lifespan (25+ years) |
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A system genuinely designed to cover your whole home typically runs between 8 kW and 15 kW for most residential installations. At current pricing (roughly $2.50 to $3.50 per watt installed before incentives), that's a $20,000 to $52,000 gross cost. After the federal Investment Tax Credit, which is currently 30%, you're looking at $14,000 to $36,000 out of pocket depending on system size and your specific installer.
 
 On panels: the premium tier right now is pretty clearly REC Alpha Pure or Panasonic EverVolt for efficiency and warranty terms. Both push 22%+ panel efficiency. If your roof space is limited, efficiency matters a lot. If you've got a big south-facing roof with no shading, you can use slightly less efficient panels and make it up in quantity. SunPower's Maxeon line is excellent but tends to come with a price premium that's hard to justify unless space is genuinely constrained.

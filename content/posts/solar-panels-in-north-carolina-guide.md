@@ -50,8 +50,6 @@ Production estimates assume 4.5 peak sun hours and a quality system with less th
 
 ## North Carolina's Incentive Stack (and What's Missing)
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's some disappointing news here. North Carolina used to have a 35% state tax credit, one of the best in the country. It expired at the end of 2015 and nothing replaced it. So if you're reading an older article that mentions a state credit, that's stale information.
 
 What you do get in 2026:

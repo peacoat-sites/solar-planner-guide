@@ -43,8 +43,6 @@ Take that same house to Seattle, where peak sun hours drop to 3.5 daily, and you
 
 ## Your Electricity Bill: The Starting Point You Can't Skip
 
-> **Helpful resource:** [Jackery Explorer 300 Portable Power Station](https://www.amazon.com/dp/B08B4C9R5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before anything else, grab 12 months of electricity bills. Not just last month, twelve full months. Seasonal swings are real, and a single summer bill from Texas or a winter bill from Minnesota will throw you off completely.
 
 Look for your **annual kWh usage**, which most utilities now print straight on the bill. If yours doesn't, add up the kWh across 12 months.

@@ -39,8 +39,6 @@ The 30% federal Investment Tax Credit (ITC) applies to battery storage if it's c
 
 ## The Net Metering Trap Most People Don't See Coming
 
-> **Helpful resource:** [Emporia Vue 2 Home Energy Monitor](https://www.amazon.com/dp/B09ZJ1WVGK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I watch homeowners get tripped up more than anywhere else: they assume that if solar is good, solar plus battery is better. But in states with strong full-retail net metering, that math often doesn't hold.
 
 If your utility credits your excess solar production at the full retail rate, say $0.13 per kilowatt-hour in a state like Georgia or $0.15 in parts of the Midwest, you're essentially using the grid as a free battery already. Every kilowatt-hour you export during the day comes back to you at night at the same price. Under those conditions, adding a $10,000 physical battery so you can self-consume instead of exporting is a terrible financial trade.

@@ -43,8 +43,6 @@ The depreciation angle is worth mentioning too. Rental property owners can depre
 
 ## Utility-Included vs. Tenant-Pays: The Question That Changes Everything
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the single variable that drives more solar ROI decisions on rental properties than anything else. And most landlords don't frame the question clearly before they start getting quotes.
 
 If you pay the utility bills as part of an all-inclusive rent setup, solar reduces your direct operating costs. That's clean math. A system generating 9,000 kWh per year at $0.14/kWh average (NREL's national residential average, as of this year) saves you around $1,260 annually. Over 25 years, that's real money, even before any rate increases.

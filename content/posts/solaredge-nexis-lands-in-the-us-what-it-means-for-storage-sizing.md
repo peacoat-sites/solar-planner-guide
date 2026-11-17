@@ -32,10 +32,6 @@ The Germany debut in March 2026 reportedly generated record installer order volu
 
 ## The Sizing Question: 5 kWh or 80 kWh?
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is where most homeowners get lost. The Nexis range is unusually wide. Here's what I tell people: your sizing target depends almost entirely on what you're trying the battery to do.
 
 | Goal | Typical size needed | Notes |

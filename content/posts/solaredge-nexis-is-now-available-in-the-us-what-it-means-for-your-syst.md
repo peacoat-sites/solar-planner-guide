@@ -28,10 +28,6 @@ Storage scales from 5 kWh to 80 kWh. The inverter runs from 3.8 kW to 13 kW grid
 
 ## The Storage Flexibility Argument Is Now the Main Story
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 For the past five years, the standard installer pitch was: buy a modestly sized battery for backup, let the grid handle everything else. Net metering made that sensible. Export your surplus, pull it back at retail rates. Easy.
 
 That math is eroding fast. According to OhmSnap's net metering tracker, active policy proceedings are underway in more than a dozen states in 2026, and nearly all of them move in the same direction: lower export compensation, time-of-use rate structures, or fixed grid charges that make exporting solar less valuable. California's NEM 3.0 already showed where this goes nationally.

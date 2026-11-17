@@ -39,8 +39,6 @@ What surprised me was how dramatically this pairing shrinks the solar system siz
 
 ## The Real Numbers (and Where People Get Surprised)
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where a lot of homeowners get sticker shock and walk away from a decision that would have paid off well.
 
 A mid-size heat pump system for a 2,000 square foot home, say a 3-ton ducted unit or two to three mini-split zones, runs $5,000 to $15,000 installed depending on whether you're adding ductwork. A solar array sized to cover that heat pump's electricity needs, roughly 8 to 12 kW for most homes in the continental U.S., costs around $24,000 to $36,000 before incentives, based on the current national average of about $2.95 per watt that EnergySage tracks.

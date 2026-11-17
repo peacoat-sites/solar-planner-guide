@@ -48,8 +48,6 @@ One thing catches people off guard: it's non-refundable. You owe $4,000 in taxes
 
 ## The 2026 Timeline: Where Things Stand Right Now
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where people get lost. The 30% doesn't vanish overnight. It steps down, and 2026 sits right at the top of that schedule.
 
 The Inflation Reduction Act locked in 30% through 2032. Then it drops to 26% in 2033, 22% in 2034, and disappears entirely for residential systems in 2035. If you're reading this in 2025 or 2026, you're in the sweet spot. The full 30% is there for you.

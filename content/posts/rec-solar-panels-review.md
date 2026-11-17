@@ -43,8 +43,6 @@ One thing installers don't always mention: REC Alpha panels have a low temperatu
 
 ## The Product Line, Ranked Honestly
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 REC makes three main residential products. Here's how they actually compare:
 
 | Panel | Wattage | Efficiency | Temp Coefficient | Warranty (Power) | Est. Cost/Watt (installed) |

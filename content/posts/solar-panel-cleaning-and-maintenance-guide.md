@@ -49,8 +49,6 @@ A homeowner in Tucson with a 8 kW system notices output sagging in May. Monitori
 
 ## What You Actually Need to Clean Panels (And What to Skip)
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's start with what not to buy: any pressurized spray cleaner marketed specifically "for solar panels" that costs more than $30. Most offer little benefit over a $12 hose-end attachment and plain water. Same goes for specialty soaps. Most solar manufacturers explicitly warn against detergents because residue can leave mineral deposits worse than the dirt you're removing.
 
 What actually works:

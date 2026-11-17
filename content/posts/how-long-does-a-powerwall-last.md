@@ -34,8 +34,6 @@ What surprised me was how little attention gets paid to degradation curves. It's
 
 ## The Daily Runtime Question Is Where It Gets Personal
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the one that actually determines whether you're satisfied with your Powerwall the day your neighborhood loses power. And it depends entirely on your home's consumption, not on Tesla's spec sheet.
 
 The Powerwall 3 carries 13.5 kWh of usable capacity. That sounds like a lot until you run the numbers on a real house.

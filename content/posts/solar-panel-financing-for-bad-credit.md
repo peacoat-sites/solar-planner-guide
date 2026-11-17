@@ -54,8 +54,6 @@ The mistake I see constantly is homeowners calling one installer, getting quoted
 | HELOC/Home Equity Loan | Flexible with collateral | 8-10% (variable) | Dramatically softens credit requirement | Rates variable; better rates available with good credit |
 | Solar Leases/PPAs | ~620+ | N/A ($/kWh rate) | Lowest credit threshold; no upfront cost | Forgo 30% federal tax credit; capped long-term savings |
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **PACE financing** is the most credit-accessible option most homeowners have never heard of. PACE (Property Assessed Clean Energy) loans attach the repayment to your property tax bill rather than your personal credit. Because the loan is secured against your home's assessed value, approval is based on equity and property ownership, not your FICO score. Programs like Ygrene and Mosaic's PACE product are currently active in about 35 states.
 
 PACE loans carry real risks. Interest rates run 7-12% or higher, and if you sell your home, the lien typically transfers to the new buyer, which can complicate or kill a sale. You need to go in with eyes open.

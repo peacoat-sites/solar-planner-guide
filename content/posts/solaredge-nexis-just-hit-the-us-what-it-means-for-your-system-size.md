@@ -26,10 +26,6 @@ The inverter handles up to 13 kW on-grid and 14.5 kW off-grid, supporting home s
 
 ## The System Size Question: What Can Nexis Actually Support?
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is where the rubber meets the road for homeowners. The range from 3.8 kW to 13 kW covers the vast majority of American single-family homes. According to NREL data, the median new residential solar system in the US was around 8 to 9 kW in recent years, which lands squarely in the middle of Nexis's range.
 
 What surprised me when I looked at the storage scaling is how the modular approach changes the sizing conversation. With older systems, you'd buy a fixed battery size and either over-buy or under-buy. With Nexis, you can start at 5 kWh and add modules later, which is actually a meaningful option for homeowners who aren't sure how their energy use will evolve, especially with EV adoption still accelerating.

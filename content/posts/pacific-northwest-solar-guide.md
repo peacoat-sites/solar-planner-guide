@@ -47,8 +47,6 @@ Bend is the sleeper here. Eastern Oregon sun hours rival parts of California. Ho
 
 ## Utility Net Metering: Where the Math Gets Brutal
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I have to be honest in a way most solar salespeople won't: net metering in the Pacific Northwest is in transition, and some customers are getting a much worse deal than others.
 
 Here's the current situation, as of August 2026:

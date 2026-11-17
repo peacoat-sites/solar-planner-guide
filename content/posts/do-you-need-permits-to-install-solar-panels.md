@@ -31,7 +31,7 @@ Permit requirements vary significantly from one jurisdiction to the next, and mi
 
 So here's the real story.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Virtually all U.S. jurisdictions require at least one permit for residential solar installation, usually a building permit and a separate electrical permit.</li><li style="margin:5px 0">Permit costs typically range from $150 to $500, though some jurisdictions charge fees based on system size (roughly $1–$2 per watt).</li><li style="margin:5px 0">Timeline impact is real: permit approvals take anywhere from 2 days to 10+ weeks depending on your city or county.</li><li style="margin:5px 0">Your installer handles permit paperwork in most cases, but you are legally responsible if work is done without permits.</li><li style="margin:5px 0">Some states have passed laws limiting how long jurisdictions can delay solar permits ,  worth knowing if you're in a backlog situation.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Virtually all U.S. jurisdictions require at least one permit for residential solar installation, usually a building permit and a separate electrical permit.</li><li style="margin:5px 0">Permit costs typically range from $150 to $500, though some jurisdictions charge fees based on system size (roughly $1–$2 per watt).</li><li style="margin:5px 0">Timeline impact is real: permit approvals take anywhere from 2 days to 10+ weeks depending on your city or county.</li><li style="margin:5px 0">Your installer handles permit paperwork in most cases, but you are legally responsible if work is done without permits.</li><li style="margin:5px 0">Some states have passed laws limiting how long jurisdictions can delay solar permits, worth knowing if you're in a backlog situation.</li></ul></div>
 
 ## Yes, You Almost Certainly Need Permits
 
@@ -42,8 +42,6 @@ The specific permits you'll need depend on your jurisdiction, but the two most c
 For example, unpermitted work can create serious problems years later. A homeowner who refinances may have an appraiser flag unpermitted solar work, forcing retroactive permitting, inspections of completed work, and potential fines from the county.
 
 ## What the Permit Process Actually Looks Like
-
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's where I'll give you the real walkthrough, because the standard installer pitch of "don't worry, we handle everything" glosses over some details worth knowing.
 

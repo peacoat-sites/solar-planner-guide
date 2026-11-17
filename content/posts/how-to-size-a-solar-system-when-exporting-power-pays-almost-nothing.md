@@ -36,8 +36,6 @@ The state-by-state divergence is now extreme. Massachusetts still pays close to 
 
 ## What "Self-Consumption First" Actually Means for Sizing
 
-> **Helpful resource:** [Renogy 100W 12V Flexible Solar Panel](https://www.amazon.com/dp/B07YTL2HFN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell people who are planning a system today: stop thinking about your solar array as a power plant and start thinking about it as a bill-replacement engine.
 
 The old method was simple. Take your annual kWh consumption, divide by your location's peak sun hours, add 10 to 20% for good measure, and let excess production roll credits on your utility bill. That math assumed a 1:1 relationship between what you exported and what you'd eventually consume back. That relationship is gone in most of the country.
@@ -76,12 +74,12 @@ The installers who tell you to oversize aren't necessarily being dishonest. Many
 
 ## Sources
 
-- [U.S. Residential Solar Installations Set to Stall for Years , Bloomberg / Spokesman-Review](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
-- [Net Metering Tracker: Which States Are Changing the Rules in 2026? , OhmSnap](https://www.ohmsnap.com/net-metering-tracker) (April 2026)
-- [Net Metering Rules by State: 2026 Policy Comparison , Green Energy Calculators](https://greenenergycalc.com/guides/net-metering-rules-by-state-2026/) (April 7, 2026)
-- [PA Net Metering 2026: PPL Tariff Changes July 2026 , NuWatt Energy](https://nuwattenergy.com/en/pennsylvania/net-metering-guide-2026) (April 2026)
-- [How Much Solar Do You Really Need? Sizing Your System Under NEM 3.0 , Pacific Solar Company](https://pacificsolarcompany.com/how-much-solar-do-you-really-need-sizing-your-system-the-smart-way/) (January 2026)
-- [PG&E Solar in 2026: NEM 3.0 Strategy, TOU Rates, and Battery Sizing Guide , OhmSnap](https://www.ohmsnap.com/blog/pge-solar-savings-nem3-2026) (March 2026)
+- [U.S. Residential Solar Installations Set to Stall for Years, Bloomberg / Spokesman-Review](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
+- [Net Metering Tracker: Which States Are Changing the Rules in 2026?, OhmSnap](https://www.ohmsnap.com/net-metering-tracker) (April 2026)
+- [Net Metering Rules by State: 2026 Policy Comparison, Green Energy Calculators](https://greenenergycalc.com/guides/net-metering-rules-by-state-2026/) (April 7, 2026)
+- [PA Net Metering 2026: PPL Tariff Changes July 2026, NuWatt Energy](https://nuwattenergy.com/en/pennsylvania/net-metering-guide-2026) (April 2026)
+- [How Much Solar Do You Really Need? Sizing Your System Under NEM 3.0, Pacific Solar Company](https://pacificsolarcompany.com/how-much-solar-do-you-really-need-sizing-your-system-the-smart-way/) (January 2026)
+- [PG&E Solar in 2026: NEM 3.0 Strategy, TOU Rates, and Battery Sizing Guide, OhmSnap](https://www.ohmsnap.com/blog/pge-solar-savings-nem3-2026) (March 2026)
 
 ---
 

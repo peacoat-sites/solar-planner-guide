@@ -28,10 +28,6 @@ The manufacturers that can credibly claim compliance are a short list. First Sol
 
 ## How This Flows Down to Your Monthly Payment
 
-> **Helpful resource:** [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You might be wondering: if I'm signing a lease, why does any of this affect me? The installer handles the equipment. You're right that you don't pick the panels. But here's what I tell people sitting across from me: the economics of your lease or PPA are built on a set of assumptions your installer made about the Section 48E tax credit they'll claim. If their equipment clears FEOC compliance, they claim the full credit, and they can offer you a competitive rate. If their supply chain fails a FEOC audit, or if compliant supply runs short and they have to reprice, those savings either shrink or disappear, and the contract terms you were quoted may not reflect that.
 
 The table below shows how the FEOC thresholds stack up across the current and near-term period, so you can see what your installer's equipment is being measured against.
@@ -62,12 +58,12 @@ Leases and PPAs remain a genuinely good option for many homeowners in 2026, espe
 
 ## Sources
 
-- [What in the FEOC is Going On? Solar and Foreign Entity of Concern Rules in the OBBB ,  Solar.com](https://www.solar.com/learn/what-in-the-feoc-is-going-on-solar-and-foreign-entity-of-concern-rules-in-the-obbb/) (July 2025, updated 2026)
-- [FEOC Compliance in 2026: What It Is and Why Compliant Panels Are Almost a Myth ,  A1 Solar Store](https://a1solarstore.com/blog/feoc-compliance-in-2026-what-it-isand-why-compliant-panels-are-almost-a-myth.html) (February 2026)
-- [FEOC Rules for Solar Installers: Supplier Checklist for 2026 ,  GreenLancer](https://www.greenlancer.com/post/feoc-rules-for-solar-installers) (July 2026)
-- [The Final Version of the Solar Tax Credit Changes from the One Big Beautiful Bill ,  Solar Insure](https://www.solarinsure.com/final-changes-to-solar-tax-credit-from-h-r-1) (June–July 2026)
-- [What You Need to Know About Solar Leases in 2026 ,  EnergySage](https://www.energysage.com/solar/solar-leases/) (February 2026)
-- [FEOC Solar Safe Harbor: July 4, 2026 ,  NuWatt Energy](https://nuwattenergy.com/en/feoc-solar-deadline-2026) (February 2026)
+- [What in the FEOC is Going On? Solar and Foreign Entity of Concern Rules in the OBBB, Solar.com](https://www.solar.com/learn/what-in-the-feoc-is-going-on-solar-and-foreign-entity-of-concern-rules-in-the-obbb/) (July 2025, updated 2026)
+- [FEOC Compliance in 2026: What It Is and Why Compliant Panels Are Almost a Myth, A1 Solar Store](https://a1solarstore.com/blog/feoc-compliance-in-2026-what-it-isand-why-compliant-panels-are-almost-a-myth.html) (February 2026)
+- [FEOC Rules for Solar Installers: Supplier Checklist for 2026, GreenLancer](https://www.greenlancer.com/post/feoc-rules-for-solar-installers) (July 2026)
+- [The Final Version of the Solar Tax Credit Changes from the One Big Beautiful Bill, Solar Insure](https://www.solarinsure.com/final-changes-to-solar-tax-credit-from-h-r-1) (June–July 2026)
+- [What You Need to Know About Solar Leases in 2026, EnergySage](https://www.energysage.com/solar/solar-leases/) (February 2026)
+- [FEOC Solar Safe Harbor: July 4, 2026, NuWatt Energy](https://nuwattenergy.com/en/feoc-solar-deadline-2026) (February 2026)
 
 ---
 

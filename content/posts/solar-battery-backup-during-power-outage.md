@@ -79,8 +79,6 @@ The SunPower SunVault (which uses an LG Chem battery internally) and the Generac
 
 One thing I'd tell any friend buying today: insist on knowing the chemistry. Lithium iron phosphate (LFP) batteries like the Powerwall 3 and most Enphase units have better thermal stability and a longer cycle life (typically 3,000-6,000 cycles vs. 1,000-2,000 for NMC chemistry). For a system you're hoping to run for 15+ years, that's not a trivial difference.
 
-> **Helpful resource:** [P3 Kill A Watt Electricity Usage Monitor](https://www.amazon.com/dp/B098PPB3TN?tag=contentportfo-20) is top-rated for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 For monitoring your system's performance during and after an outage, a whole-home energy monitor like the Emporia Vue Gen 2 can show you exactly which circuits are drawing power, which helps you manage loads intelligently when you're running on stored energy.
 
 My neighbor eventually got a Powerwall installed that following spring. She texted me during the next outage, which hit in October, a photo of her kitchen lights on and her coffee maker running. "Finally," was all it said. That's a pretty good outcome for $13,000 after the tax credit. Whether it's the right outcome for your house, your grid reliability, and your budget is a different question, one worth taking seriously before you sign anything.

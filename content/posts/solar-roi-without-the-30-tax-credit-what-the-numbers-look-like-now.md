@@ -30,10 +30,6 @@ The payback math changes dramatically. At an average electricity rate of around 
 
 ## State Incentives Have Gone From Nice-to-Have to Make-or-Break
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 What surprised me was how dramatically your zip code now determines whether solar pencils out at all. Without the federal credit doing the heavy lifting, state programs have become the primary ROI lever, and the disparity between states is wide.
 
 Massachusetts homeowners can layer the SMART program (a per-kWh production incentive that's been paying roughly $0.03 to $0.15 per kWh depending on utility and capacity block) on top of a state 15% income tax credit capped at $1,000. California's SGIP battery storage rebate, while reduced from its peak years, still provides meaningful per-watt-hour incentives for storage. Rhode Island's Renewable Energy Fund offers a $0.65 per watt rebate, capped at $5,000, which on a 7.5 kW system translates to $4,875 back in your pocket. That's not nothing. That's nearly a third of what the old federal credit would have returned.
@@ -71,11 +67,11 @@ I won't pretend solar is an obvious yes right now for most homeowners. The numbe
 
 ## Sources
 
-- [US Residential Solar Installations Set to Stall for Years , Bloomberg / The Spokesman-Review](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
-- [Missed the 30% Tax Credit? How to Make Solar Work for You in 2026 , All Energy Solar](https://www.allenergysolar.com/resources/how-to-make-solar-work-in-2026/) (April 1, 2026)
-- [The History & Future of the Solar Tax Credit in 2026 , GreenLancer](https://www.greenlancer.com/post/solar-energy-tax-credit-2025) (May 18, 2026)
-- [Solar Battery Tax Credit 2026: What Changed After the OBBBA , Solar Permit Solutions](https://www.solarpermitsolutions.com/blog/solar-battery-tax-credit-2026) (April 16, 2026)
-- [Solar Panel ROI in 2026: Costs, Savings, and Payback , Sustainability Atlas](https://sustainableatlas.org/post/cost-solar-panel-roi-2026-costs-savings-payback-1417) (February 26, 2026)
+- [US Residential Solar Installations Set to Stall for Years, Bloomberg / The Spokesman-Review](https://www.spokesman.com/stories/2026/jun/15/us-residential-solar-installations-set-to-stall-fo/) (June 15, 2026)
+- [Missed the 30% Tax Credit? How to Make Solar Work for You in 2026, All Energy Solar](https://www.allenergysolar.com/resources/how-to-make-solar-work-in-2026/) (April 1, 2026)
+- [The History & Future of the Solar Tax Credit in 2026, GreenLancer](https://www.greenlancer.com/post/solar-energy-tax-credit-2025) (May 18, 2026)
+- [Solar Battery Tax Credit 2026: What Changed After the OBBBA, Solar Permit Solutions](https://www.solarpermitsolutions.com/blog/solar-battery-tax-credit-2026) (April 16, 2026)
+- [Solar Panel ROI in 2026: Costs, Savings, and Payback, Sustainability Atlas](https://sustainableatlas.org/post/cost-solar-panel-roi-2026-costs-savings-payback-1417) (February 26, 2026)
 
 ---
 

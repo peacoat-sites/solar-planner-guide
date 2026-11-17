@@ -43,8 +43,6 @@ This is also why I'm a little skeptical when someone in Portland, Oregon emails 
 
 ## The Real Numbers by State
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to show you actual cost comparisons rather than tell you solar "can save you money" in a vague, hand-wavy way. The table below reflects average annual AC-related electricity costs and estimated solar offset potential based on typical system sizes for a 2,000 sq. ft. home. These figures draw from [EnergySage's market data](https://news.energysage.com/) and EIA residential billing data, current as of August 2026.
 
 | State | Avg. Annual AC Cost | Typical System Size | Est. Annual Solar Offset | Payback Period |

@@ -41,8 +41,6 @@ Installations in Nevada and Texas that penciled out at 8.5% IRR under earlier ra
 
 ## Why Your Utility Is Doing This (And Why It Actually Matters)
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Utilities will tell you demand charges are about grid stability and cost allocation. That's not entirely wrong, but it's not the whole story. The real pressure is infrastructure. Capacity bottlenecks at distribution substations are now the fastest-growing cause of residential interconnection delays in 2026, according to solar interconnection research. When too many solar systems feed power back into a single transformer at the same time, grid operators lose visibility and control over voltage. The utility's solution is to make you the one who manages your peak usage.
 
 From the utility's perspective, demand charges make sense. They discourage you from running your AC and EV charger during the same hour. They push you toward battery storage or smarter load management. But here's what most people don't realize: demand charges benefit the utility's bottom line more than they benefit the grid. NV Energy's proposal isn't arriving because the grid is in crisis. It's arriving because the utility wants to preserve revenue as more customers go solar.

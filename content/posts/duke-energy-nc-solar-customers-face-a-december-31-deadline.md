@@ -34,8 +34,6 @@ Duke recently proposed an 18.1% rate increase for North Carolina customers. That
 
 ## The Capacity Cap Problem Nobody Mentions
 
-> **Helpful resource:** [Govee WiFi Smart Plug with Energy Monitoring](https://www.amazon.com/dp/B09MVHVL1G?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part that keeps me up at night when I'm advising homeowners. The annual capacity caps on the Bridge Rate mean Duke can stop accepting new applications before December 31 arrives. According to reporting from NC Solar Now and 8MSolar, once the cap for a given year fills, applicants are rerouted to the less favorable TOU structure automatically, with no appeals process and no holding your spot.
 
 The honest answer to "how much capacity is left?" is that it's genuinely hard for a homeowner to know in real time. Duke doesn't publish a live cap tracker. What I can tell you is that the summer of 2026 is when awareness of this deadline has gone mainstream, which means application volume is climbing right now. You want to be in that queue before the rush peaks, not during it.

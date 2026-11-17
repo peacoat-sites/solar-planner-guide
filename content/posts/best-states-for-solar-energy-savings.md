@@ -50,8 +50,6 @@ Here's what most people don't realize. The [Solar Energy Industries Association 
 
 ## The States Where Savings Are Genuinely Excellent Right Now
 
-> **Helpful resource:** [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **Massachusetts** keeps showing up at the top of every serious analysis I've done, and it keeps earning that spot. Rates average around 24 to 27 cents per kWh depending on the season. The state has a Solar Massachusetts Renewable Target (SMART) program that pays you a per-kWh incentive on top of net metering credits. And they still have real net metering. A typical 8 kW system in the Boston suburbs costs around $24,000 before the 30% federal tax credit, which brings it to roughly $16,800. With current rates and incentives, payback periods of 6 to 8 years are common. That's strong money on what's essentially a home improvement investment.
 
 **New Jersey** is a sleeper that catches people off guard. High electricity rates (often 18 to 21 cents per kWh), a functioning Solar Renewable Energy Certificate (SREC-II) market, full retail net metering, and property tax exemptions on added home value. Paybacks in New Jersey can reach 7 years. The market is competitive enough that you can get multiple quotes and actually drive down installation costs.

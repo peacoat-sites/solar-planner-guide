@@ -48,8 +48,6 @@ A system sized to produce 9,000 kWh per year losing 20% to shading is a $270 ann
 | Microinverters | $0.15-0.25/W | Significant shading (10-15%+) | Full panel independence |
 | Smaller, better-positioned array | Variable | High shading risk | Zero shading, optimal positioning |
 
-> **Helpful resource:** [EG4 Battery Monitor Shunt for Solar Systems](https://www.amazon.com/dp/B088JHR11H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where your installer choice and equipment choice genuinely matter.
 
 **String inverters alone** are the worst-case scenario for shaded roofs. One shaded panel drags down the whole string. If you have any meaningful shading and you're quoted a basic string inverter system, push back or walk away.

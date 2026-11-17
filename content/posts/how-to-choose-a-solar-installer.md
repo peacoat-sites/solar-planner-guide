@@ -48,8 +48,6 @@ The Solar Energy Industries Association (SEIA) has documented that installation 
 
 ## What to Look for Before You Request a Single Quote
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Do this screening work before you talk to anyone's sales team. Two hours. That's it. You'll avoid a lot of noise.
 
 **Check their license status.** Every state has a contractor licensing board with a public lookup tool. Verify the company holds a valid electrical contractor's license in your state, not just a general contractor's license. Solar installation is electrical work. Some states require a specific solar contractor classification. Look it up for yours.

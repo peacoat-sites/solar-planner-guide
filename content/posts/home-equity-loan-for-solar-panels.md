@@ -52,8 +52,6 @@ There's also the tax angle. Interest paid on a home equity loan used for home im
 
 ## The Federal Tax Credit Changes the Calculation
 
-> **Helpful resource:** [Jackery SolarSaga 100W Solar Panel](https://www.amazon.com/dp/B08FX9QHLP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You need to understand how the [30% federal Investment Tax Credit](/solar-panel-financing-calculator/) (ITC) interacts with your financing choice, because it affects which loan structure makes the most sense.
 
 The ITC, currently at 30% for residential installs, is a credit against your federal tax liability. Not a rebate, not a check in the mail. You have to actually owe that much in federal taxes to use it all in year one. If your system costs $30,000, your credit is $9,000. If you only owe $4,000 in federal taxes that year, you carry the rest forward.
