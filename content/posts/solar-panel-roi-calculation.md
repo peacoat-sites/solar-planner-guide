@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A solar salesperson tells you the system will pay for itself in 6 years. Sounds great. Then you ask how they got that number and get something about "average savings" with zero real backing. Quotes promising 8-year paybacks sometimes land closer to 14 years once actual numbers are calculated. The gap often comes from sloppy math and wishful thinking rather than intentional dishonesty. This guide shows you how to do it yourself, honestly, so you know what you're actually signing up for.
 

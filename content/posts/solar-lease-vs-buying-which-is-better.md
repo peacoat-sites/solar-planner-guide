@@ -1,6 +1,7 @@
 ---
 title: "Solar Lease vs Buying: Which Option Saves You More"
 date: 2026-07-09T10:34:19.420753+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare solar leasing and buying side by side. Discover which option fits your budget, home, and long-term energy goals before you decide."
 image: "/img/heroes/35425754.jpg"

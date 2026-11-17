@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Florida gets more sun than almost any other state in the country, yet it ranks behind California and Texas in total solar installations. That gap is closing fast. In 2024, Florida added over 3.6 gigawatts of new solar capacity according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and homeowners are a big reason why. If you're sitting in Tampa, Orlando, or Jacksonville wondering whether 2026 is the right year to go solar, the honest answer is: the incentive stack is genuinely solid right now, but it won't stay this good forever. Let me walk you through exactly what's available, what the numbers look like, and where the catches are.
 

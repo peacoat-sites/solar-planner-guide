@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your neighbor mentions she got an extra $1,500 back from the electric company. You didn't know that existed. Your solar quote was $28,000, the federal tax credit gets you $8,400, but apparently there's more money sitting on the table that nobody told you about. That kind of oversight happens constantly. Utility solar rebates are one of the least-advertised ways to cut your upfront costs, and they can legitimately change whether a system makes sense for your wallet.
 

@@ -1,6 +1,7 @@
 ---
 title: "Worst States for Solar Panels: Where Installation Doesn't Pay"
 date: 2026-07-14T09:18:11.059906+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover which states have the least favorable conditions for solar panel installation, including cloud cover, costs, and incentive challenges."
 image: "/img/heroes/37341527.jpg"

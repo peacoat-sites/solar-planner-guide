@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Yes, solar panels can power a whole house off grid. But the version that installers pitch you conveniently skips the part where it gets expensive, complicated, and occasionally humbling.
 

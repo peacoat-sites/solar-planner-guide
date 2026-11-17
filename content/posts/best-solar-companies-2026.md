@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners spend more time picking a Netflix show than vetting their solar installer. That's a problem, because a bad panel choice fades in a few years, but a bad installer can cost you $5,000 in warranty disputes, roof damage claims, or a system that underperforms for two decades. The solar industry installed over 25 gigawatts of residential capacity in recent years according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and the market is crowded with companies ranging from excellent to predatory. Knowing which names actually deserve your business in 2026 takes more than reading a sponsored "best of" list.
 

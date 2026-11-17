@@ -23,7 +23,7 @@ faqs:
    a: "Off-grid is much more complicated because you have no grid backup. You're sizing for multi-day outages and seasonal variation. You typically need 3-5 days of autonomy, which means a much larger battery. Don't attempt off-grid sizing without a professional, the math is totally different."
  - q: "Do I need to account for battery efficiency losses?"
    a: "Yes. Batteries are about 85-95% efficient round-trip (charge and discharge). That 1.25 multiplier I mentioned earlier covers that. If you're doing manual math, assume 10% loss, so a 10 kWh need requires about 11.1 kWh of battery storage to account for losses."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Sizing a battery bank requires understanding that the math works backwards from what most people expect.

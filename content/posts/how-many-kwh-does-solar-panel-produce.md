@@ -1,6 +1,7 @@
 ---
 title: "How Many kWh Does a Solar Panel Produce Per Year"
 date: 2026-07-30T09:38:51.224414+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how much electricity a typical solar panel generates annually, including factors that affect output and what to expect from your system."
 image: "/img/heroes/8457866.jpg"

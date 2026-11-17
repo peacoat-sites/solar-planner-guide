@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your electric meter spinning backward on a sunny afternoon while you're at work, your solar panels quietly generating more electricity than your empty house can use. That surplus flows to the grid, and your utility company credits your account for every kilowatt-hour. By the time your bill arrives, you owe almost nothing. That's net metering.
 

@@ -1,6 +1,7 @@
 ---
 title: "Solar for Manufactured Homes: Installation and Savings Guide"
 date: 2026-07-24T09:33:04.079114+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to install solar panels on manufactured homes, compare system options, and understand costs and incentives available to mobile homeowners."
 image: "/img/heroes/38021376.jpg"

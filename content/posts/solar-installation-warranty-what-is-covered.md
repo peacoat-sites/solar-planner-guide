@@ -1,6 +1,7 @@
 ---
 title: "25-Year Solar Panel Warranties: What's Actually Covered"
 date: 2026-07-29T09:48:08.865325+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what solar installation warranties cover, including panel degradation limits, equipment protection, and common exclusions homeowners should know."
 image: "/img/heroes/17965455.jpg"

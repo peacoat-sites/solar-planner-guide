@@ -1,6 +1,7 @@
 ---
 title: "Solar Panels in North Carolina: Installation, Costs & Incentives"
 date: 2026-08-15T07:41:27.227355+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Complete guide to going solar in North Carolina. Learn about installation costs, tax credits, net metering policies, and finding qualified installers."
 image: "/img/heroes/37083400.jpg"

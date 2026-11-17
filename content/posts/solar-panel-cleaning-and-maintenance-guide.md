@@ -23,7 +23,7 @@ faqs:
    a: "DIY cleaning is totally reasonable if your panels are accessible without roof climbing. Professional inspections every 3 to 5 years make sense for checking mounts, wiring, and inverter health. Don't pay for professional cleaning four times a year if the DIY math doesn't pencil out."
  - q: "Does rain clean solar panels well enough?"
    a: "In wetter climates, often yes. Rain removes light dust accumulation reasonably well. But it does nothing for bird droppings, pollen that's baked on in summer heat, or the mineral deposits left behind when hard water evaporates. If you live somewhere with distinct dry seasons or hard tap water, don't count on rain alone."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 My first year consulting, I watched a homeowner in Phoenix lose almost 30% of his monthly output and spend four months blaming his inverter before we figured out the real problem: a thick crust of dust and bird droppings had essentially turned his south-facing panels into shade structures. A $40 cleaning fixed what he was convinced would be a $1,200 inverter replacement.

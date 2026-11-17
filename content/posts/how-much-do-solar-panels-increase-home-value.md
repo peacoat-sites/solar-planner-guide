@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The average American home gains about $15,000 in resale value after a solar installation. That number gets quoted constantly by solar salespeople, and I'll be honest: it's not wrong, but it's also not the whole story. That figure comes from a 2019 Zillow analysis, and when you actually look at what's behind it, the picture gets both more interesting and more complicated than any installer is going to tell you sitting at your kitchen table.
 

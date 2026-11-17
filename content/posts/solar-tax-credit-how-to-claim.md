@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners leave thousands of dollars on the table every year simply because they don't understand how a tax credit actually works. Take a real example: a family in Phoenix installs a $28,000 solar system in 2024. They're entitled to a $7,840 federal tax credit (that's 30% of $28,000 under the current [Residential Clean Energy Credit](/federal-solar-tax-credit-2026/)). But if they file incorrectly, forget Form 5695, or misunderstand the "carry forward" rules, that money either delays itself by a year or disappears entirely. Getting this right isn't complicated, but it does require knowing exactly what you're doing before you file.
 

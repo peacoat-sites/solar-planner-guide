@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Two neighbors, same house size, same energy bills, both went solar in the same month. One in Arizona paid about $25,000 before incentives. The other in Massachusetts paid closer to $35,000. Same technology, same 10-kilowatt system, nearly $10,000 difference. That gap isn't random, and understanding what drives it could save you thousands.
 

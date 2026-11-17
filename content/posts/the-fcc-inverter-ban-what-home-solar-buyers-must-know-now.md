@@ -1,6 +1,7 @@
 ---
 title: "The FCC Inverter Ban: What Home Solar Buyers Must Know Now"
 date: 2026-08-09T07:59:28.937638+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "The FCC Inverter Ban: What Home Solar Buyers Must Know Now. Learn how new regulations affect your solar installation costs, equipment choices, and timeline."
 image: "/img/heroes/6961110.jpg"

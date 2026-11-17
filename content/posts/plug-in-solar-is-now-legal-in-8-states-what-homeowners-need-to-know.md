@@ -1,6 +1,7 @@
 ---
 title: "Plug-In Solar Is Now Legal in 8 States: What Homeowners Need to Know"
 date: 2026-07-15T09:20:45.161616+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Plug-in solar systems are now legal in 8 states. Learn what homeowners need to know about regulations, installation, costs, and benefits of portable solar panel"
 image: "/img/heroes/8783541.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "Yes, typically by a few weeks. Batteries like the Tesla Powerwall or Enphase IQ Battery add complexity to the permit application and inspection, and some utilities require separate review for battery storage systems. Budget an extra two to four weeks if you're including storage."
  - q: "What time of year is fastest for solar installation?"
    a: "Late fall and winter tend to have shorter installer backlogs, so you might actually get scheduled faster even if the weather seems counterintuitive. Spring and early summer are peak season for installations, which means longer waits for both scheduling and inspections. If you start the process in October, you may be operational by January rather than waiting until summer like everyone else who called in March."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume the whole thing takes a few weeks. I assumed that too, before I started tracking real installation timelines across hundreds of projects. The honest number? From the day you sign a contract to the day your panels are actually generating power, you're typically looking at **3 to 5 months**. Not days. Months.
 

@@ -1,5 +1,4 @@
 baseURL = "https://solarplannerguide.com/"
-enableGitInfo = true
 languageCode = "en-us"
 title = "Solar Planner Guide"
 

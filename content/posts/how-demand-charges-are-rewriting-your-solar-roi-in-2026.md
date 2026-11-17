@@ -12,7 +12,7 @@ author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
 slug: "how-demand-charges-are-rewriting-your-solar-roi-in-2026"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You got the quote from your solar installer: "With net metering, you'll pay off this system in nine years." You nodded, did the math in your head, and started filling out the paperwork. Then last week, you saw an email from your utility. Effective July 2026, there's a new charge on your bill. It's not based on how much electricity you use anymore. It's based on your peak demand during a 15-minute window.
 

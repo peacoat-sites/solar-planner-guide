@@ -12,7 +12,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who come to me asking about [off-grid solar](/can-solar-panels-power-a-whole-house-off-grid/) have already made up their minds. They've watched a few YouTube videos, priced out battery walls, and they're ready to cut the cord. My job at that point is usually to slow them down and ask one question: have you actually added up what energy independence costs at your address, with your consumption, in your climate?
 

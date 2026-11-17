@@ -1,6 +1,7 @@
 ---
 title: "$4,000 to $6,000: Illinois Solar Panel Costs Explained"
 date: 2026-07-16T09:25:35.754204+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about solar panel installation costs in Illinois, available incentives, and what factors affect your total investment for going solar."
 image: "/img/heroes/30440447.jpg"

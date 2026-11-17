@@ -1,6 +1,7 @@
 ---
 title: "The 50-State Net Metering Meltdown: What Homeowners Must Do Now"
 date: 2026-08-06T09:48:49.419655+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "The 50-State Net Metering Meltdown: What Homeowners Must Do Now. Learn how changing net metering policies affect your solar savings and what steps to take today"
 image: "/img/heroes/10065200.jpg"

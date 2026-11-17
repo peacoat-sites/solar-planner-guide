@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 California killed the deal that made rooftop solar a no-brainer. On April 15, 2023, NEM 3.0 went live, and the economics shifted more dramatically than at any point in the past two decades. Since then, homeowners have faced a split outcome: some who installed systems just in time locked in favorable economics, while others are now weighing whether solar still makes sense for their situation. The honest answer: it's complicated, and the gap between a smart solar decision and a wasteful one just got much wider.
 

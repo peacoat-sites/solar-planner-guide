@@ -12,7 +12,7 @@ author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
 slug: "solar-roi-without-the-tax-credit-how-to-size-your-system-now"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 A homeowner in Orlando told me last month she was about to sign a contract for a 10-kilowatt system, then her installer mentioned, almost as an aside, that the federal tax credit was gone. She had no idea. She'd been budgeting around a $9,000 credit that no longer exists, and her payback calculation was completely wrong. That scenario is playing out across the country right now, and it's why the ROI framework most people are using is already obsolete.
 

@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: you're sitting across from a solar salesperson who's telling you these panels will basically pay for themselves over 25 years. You nod, you sign, and somewhere in the back of your mind you wonder, "But what actually happens at year 26?" It's a fair question, and I've found that most homeowners never get a straight answer before they commit to a $20,000+ purchase.
 

@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people searching for Tesla Powerwall pricing find a number, feel good about it, and then discover at installation that the real cost was 40% higher. That gap between the sticker price and the check you actually write is where most solar coverage fails you. Let's close it.
 

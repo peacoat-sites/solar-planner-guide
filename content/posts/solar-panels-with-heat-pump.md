@@ -23,7 +23,7 @@ faqs:
     a: "Modern cold-climate heat pumps like the Mitsubishi Hyper-Heat MXZ or the Daikin Quaternity work down to -13°F and maintain reasonable efficiency at 5°F. The research here is mixed on how well older or cheaper heat pump models perform below 20°F, so brand and model selection matters a lot in places like Minnesota or Maine. Don't let anyone sell you a standard heat pump and promise cold-climate performance."
   - q: "Does the 30% federal tax credit apply to both solar and a heat pump?"
     a: "Solar panels fall under the Residential Clean Energy Credit (30% through 2032, no income limit, no cap). Heat pumps qualify under the Energy Efficient Home Improvement Credit, which is capped at $2,000 per year. These are two separate credits, but you can claim both in the same tax year. Talk to a tax professional about your specific situation, since the heat pump credit is nonrefundable and has rules around timing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar installers will quote you a panel system and wave vaguely at "future battery storage" as an upsell. What they rarely bring up unprompted is the combination that actually changes the math more than any battery ever will: pairing solar panels with a heat pump. Many homeowners focus on battery storage while overlooking a bigger opportunity: pairing solar with a heat pump.
 

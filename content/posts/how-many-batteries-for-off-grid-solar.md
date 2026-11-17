@@ -1,6 +1,7 @@
 ---
 title: "Off-Grid Solar Batteries: Calculate What You Actually Need"
 date: 2026-08-08T07:57:17.093128+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to size your off-grid solar battery bank based on daily energy use, autonomy days, and system voltage. Step-by-step sizing guide."
 image: "/img/heroes/18306344.jpg"

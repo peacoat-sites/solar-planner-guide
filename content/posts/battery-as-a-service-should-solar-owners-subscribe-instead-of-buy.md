@@ -1,6 +1,7 @@
 ---
 title: "Battery-as-a-Service: Should Solar Owners Subscribe Instead of Buy?"
 date: 2026-07-28T09:45:11.853353+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Battery-as-a-Service: Should Solar Owners Subscribe Instead of Buy? Explore the pros and cons of leasing vs. owning solar batteries for your home."
 image: "/img/heroes/36085816.jpg"

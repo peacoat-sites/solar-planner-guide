@@ -23,7 +23,7 @@ faqs:
     a: "As of July 2026, yes. A battery system installed alongside a new solar array qualifies for the 30% federal Investment Tax Credit. Standalone battery additions to existing solar systems also qualify, as long as the battery is charged primarily from solar (not the grid). Consult a tax professional for your specific situation."
   - q: "Which is better for frequent short outages vs. rare long ones?"
     a: "Short, frequent outages: solar plus battery wins easily. Silent, automatic, no fuel needed, and it reduces your bill the rest of the year. Rare but long outages (multi-day): a whole-home standby generator on natural gas or propane is hard to beat, because it has unlimited runtime. Many homeowners in high-risk weather areas choose to have both for complete coverage."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people come to this question after a storm. The power's been out for two days, the fridge is starting to smell, and someone in the house is saying "we need a generator." That's usually when I get the calls. And honestly? It's not a bad time to think about it, because nothing clarifies your priorities faster than sitting in the dark.

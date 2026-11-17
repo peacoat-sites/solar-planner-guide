@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A $340 electric bill is often the moment homeowners start seriously thinking about solar, and it's a reasonable instinct. Texas gets more solar irradiance than almost any other state, ERCOT rates have been volatile enough to make grown adults cry, and the economics can be genuinely compelling. But "Texas is great for solar" is also a sales pitch. Many homeowners sign agreements without fully understanding what their actual numbers look like.
 

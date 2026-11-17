@@ -1,6 +1,7 @@
 ---
 title: "Duke Energy NC Solar Customers Face a December 31 Deadline"
 date: 2026-07-20T10:22:55.285843+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Duke Energy NC solar customers must act by December 31 to lock in current net metering rates before new rates take effect. Don't miss this deadline."
 image: "/img/heroes/15751138.jpg"

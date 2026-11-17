@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 My neighbor called me at 11 PM during a nor'easter two winters ago. Her house had solar panels, she'd been telling everyone about them for months, and now the grid was down and she was sitting in the dark. "I thought solar meant I'd have power," she said. I didn't have the heart to explain it right then, so I just brought over some candles.
 

@@ -1,6 +1,7 @@
 ---
 title: "23% Efficiency: Which Solar Panel Type Performs Best"
 date: 2026-08-07T08:20:38.506535+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare solar panel efficiency by type. See which panels deliver the highest performance and best ROI for your home or business."
 image: "/img/heroes/17965455.jpg"

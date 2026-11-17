@@ -23,7 +23,7 @@ faqs:
     a: "Run your address through NREL's free PVWatts calculator yourself before accepting any installer's estimate. If their projected production is more than 10-15% higher than what PVWatts shows, ask them to explain the discrepancy. Aggressive modeling is one of the most common ways homeowners get oversold in low-irradiance markets."
   - q: "Does shade matter more in cloudy states?"
     a: "Yes. In sunny climates, shading on one part of the day still leaves many high-production hours. In cloudy climates, your production window is already compressed. Shading during those limited good hours costs you proportionally more. If your roof has significant shading, get a professional shade analysis done before signing anything."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most solar advice is written for Phoenix. Clear skies, 300 sun-days a year, and payback periods that practically sell themselves. If you live in Seattle, Cleveland, or Portland, that advice doesn't just fail you -- it can cost you tens of thousands of dollars in a bad decision.

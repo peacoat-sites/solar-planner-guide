@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you installed a solar system on your home last year and paid $20,000 for it, the federal government will hand you back $6,000 on your tax return. Not a deduction. Not a rebate check in the mail. A dollar-for-dollar reduction in what you owe the IRS. That's the solar Investment Tax Credit (ITC) in action, and it's one of the most valuable financial incentives available to American homeowners right now. Yet I've talked to dozens of people who either didn't claim it correctly, left money on the table, or passed on going solar because they didn't understand how it actually works. Let's fix that.
 

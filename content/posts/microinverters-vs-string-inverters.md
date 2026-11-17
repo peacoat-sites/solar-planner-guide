@@ -1,6 +1,7 @@
 ---
 title: "Microinverters vs String Inverters: Which Saves More"
 date: 2026-07-23T09:33:19.436291+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare microinverters and string inverters to find the right solar solution for your home, roof type, and budget."
 image: "/img/heroes/16427010.jpg"

@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people ask the wrong question. They Google "how many solar panels do I need" expecting a clean answer, and they get some calculator that spits out a number without explaining any of the assumptions underneath it. A common mistake is buying a system based on a generic calculator result without understanding the assumptions behind it, which can lead to a system that's completely wrong for your house.
 

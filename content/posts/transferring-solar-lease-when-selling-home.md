@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're three weeks from closing on your house sale, the buyers are excited, and then your real estate agent drops a bomb: the solar panels on your roof aren't yours. You've been paying a monthly lease to a solar company for the past six years, and now that lease has to go somewhere. The buyers didn't budget for it, they don't fully understand it, and your closing date is suddenly in jeopardy. This situation can derail home sales, but it's almost always preventable if you know what's coming.
 

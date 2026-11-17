@@ -23,7 +23,7 @@ faqs:
     a: "In most states, no. The majority of states have solar property tax exemptions that prevent your solar installation from increasing your assessed property value for tax purposes, even though it typically does increase market value. Check your specific state's exemption status before assuming this applies to you."
   - q: "What's a realistic payback period for a solar installation today?"
     a: "Somewhere between 7 and 12 years for most U.S. homeowners using a loan, with cash purchases often hitting 6 to 9 years. High-sun states like Arizona, Texas, and California with strong utility rates tend toward the lower end. The national average, according to EnergySage data, has hovered around 8 to 9 years in recent years. After payback, you're generating essentially free electricity for the remaining life of the system."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 You're about to spend $25,000 to $40,000 on something you don't fully understand yet. The financing piece is where mistakes often cost thousands over the life of a loan.

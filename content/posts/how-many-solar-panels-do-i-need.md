@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The average American home pulls about 10,500 kilowatt-hours of electricity every year, according to the U.S. Energy Information Administration. Sounds massive until you realize a typical solar setup of just 8 to 10 panels can handle a real chunk of that. But here's what sales reps conveniently skip during that first phone call: the "right" number of panels has almost nothing to do with national averages. It comes down to your specific roof, your location, your actual habits, and how much of your electric bill you're willing to eliminate.
 

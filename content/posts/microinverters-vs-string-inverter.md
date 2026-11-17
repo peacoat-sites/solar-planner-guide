@@ -23,7 +23,7 @@ faqs:
    a: "That panel stops producing. The rest of your system keeps running normally. You'll see the gap in your monitoring app and schedule a replacement. One failed microinverter on a 20-panel system costs you about 5% of your production while you wait for the repair. Not catastrophic."
  - q: "Does a string inverter failure take down my whole system?"
    a: "Yes. One box fails, all production stops. It's the main reliability argument against string inverters and the reason I lean toward SolarEdge's architecture (optimizer plus string inverter) for systems over 8kW. At least then you retain panel-level monitoring that tells you the inverter is the problem, not something else."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most solar articles treat the inverter choice as a footnote. Buy panels, pick a size, oh and also there's this inverter thing. That framing is backwards. The inverter is where your DC electricity becomes usable AC power, and the architecture you choose shapes your system's performance, monitoring granularity, maintenance costs, and warranty exposure for the next 25 years. Getting it wrong is expensive to fix.

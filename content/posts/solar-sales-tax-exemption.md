@@ -1,6 +1,7 @@
 ---
 title: "Solar Sales Tax Exemption: Save on Your Installation"
 date: 2026-07-15T16:15:47.964437+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how solar sales tax exemptions work, which states offer them, and how to claim tax breaks when installing solar panels."
 image: "/img/heroes/9875405.jpg"

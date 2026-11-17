@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
-lastmod: 2026-07-19
+lastmod: 2026-11-16T16:00:00Z
 ---
 A 10-kilowatt solar system on a sunny July afternoon should generate a decent credit on your bill, right? That's what thousands of California homeowners thought. Then they opened their bills after NEM 3.0 took effect in April 2023 and found the value of exported solar energy had dropped by roughly 75%. Not a system failure. A policy change six months before installation. Net metering rules are one of the most critical financial variables in going solar, and most installers barely mention them.
 

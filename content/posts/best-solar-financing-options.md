@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Clean Energy Specialist"
 author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You just got three solar quotes, the system looks solid on paper, and then you see the price: $28,000. That's what the average American pays. According to [EnergySage's market data](https://news.energysage.com/), the median solar installation in the U.S. costs around $30,000 before incentives. After the 30% federal tax credit, you're closer to $21,000. Still not pocket change.
 

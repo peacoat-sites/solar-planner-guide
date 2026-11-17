@@ -1,6 +1,7 @@
 ---
 title: "Solar Interconnection Process: What to Expect Step by Step"
 date: 2026-07-11T09:01:10.120931+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how the utility interconnection process works for solar, from application to permission to operate, and how long each stage typically takes."
 image: "/img/heroes/30144993.jpg"

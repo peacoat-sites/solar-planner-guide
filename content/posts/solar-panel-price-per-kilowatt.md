@@ -1,6 +1,7 @@
 ---
 title: "Solar Panel Cost Per Kilowatt: What You'll Actually Pay"
 date: 2026-07-16T09:28:09.627797+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare current solar panel prices per kilowatt across different systems and manufacturers. Find out what residential installation costs today."
 image: "/img/heroes/8457866.jpg"

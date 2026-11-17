@@ -1,6 +1,7 @@
 ---
 title: "Solar Panel Efficiency Ratings: What The Numbers Really Mean"
 date: 2026-08-05T09:46:17.281381+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand solar panel efficiency ratings and how they affect your system's performance and ROI. Learn what percentage means for your home."
 image: "/img/heroes/29206488.jpg"

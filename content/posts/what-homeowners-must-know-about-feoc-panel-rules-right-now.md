@@ -1,6 +1,7 @@
 ---
 title: "What Homeowners Must Know About FEOC Panel Rules Right Now"
 date: 2026-07-09T10:31:31.532682+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what FEOC panel rules mean for homeowners, how they impact solar incentives, and what steps you should take now to protect your energy investments."
 image: "/img/heroes/6961120.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "EPC Contractors vs Local Solar: $2.85 to $3.50 per Watt"
 date: 2026-08-04T09:48:41.673673+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare EPC contractors and local solar installers. See pricing differences, project timelines, and which option saves 30% on installation costs."
 image: "/img/heroes/17762230.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Cut Your Electric Bill: 5 Steps Before Installing Solar"
 date: 2026-07-18T08:57:57.512849+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to reduce electricity usage and lower your bill before investing in solar panels. Simple changes that maximize your ROI."
 image: "/img/heroes/8293746.jpg"

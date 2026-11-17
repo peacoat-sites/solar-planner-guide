@@ -1,6 +1,7 @@
 ---
 title: "80% Depth of Discharge: Solar Battery Sizing Calculator"
 date: 2026-07-12T09:15:56.415507+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Use our solar battery sizing calculator to find the right capacity. Learn how 20% reserve, cycle life, and 90% efficiency affect your system."
 image: "/img/heroes/12224996.jpg"

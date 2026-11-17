@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Financial Advisor"
 author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners get exactly one solar quote and sign a contract within a week. This one-quote mistake routinely costs people $5,000 to $15,000 over the life of a system. The spread between what different installers charge for the exact same system, same panel brand, same inverter, and same roof complexity can be $8,000 or more on a typical 8 kW install.
 

@@ -1,6 +1,7 @@
 ---
 title: "Enphase vs SolarEdge: Which Inverter Gives Better Value?"
 date: 2026-07-17T09:22:29.196894+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare Enphase and SolarEdge inverters by cost, efficiency, and performance. See which solar inverter technology delivers better long-term returns."
 image: "/img/heroes/9875422.jpg"

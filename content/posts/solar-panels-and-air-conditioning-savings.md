@@ -1,6 +1,7 @@
 ---
 title: "60% AC Savings With Solar Panels: Real Numbers"
 date: 2026-08-01T09:18:06.077078+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "See how solar panels cut air conditioning costs by 60%. Learn actual savings, installation costs, and payback timelines."
 image: "/img/heroes/35425754.jpg"

@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation Contractor"
 author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Forty-three dollars. That's what one of my clients in Westchester was paying per day on electricity last August during the heat wave. Not per month. Per day. When she called me, she wasn't curious about solar in an abstract way. She was angry, and she wanted to know why nobody had told her sooner that there was a better option.
 

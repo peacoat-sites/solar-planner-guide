@@ -23,7 +23,7 @@ faqs:
    a: "Most installers consider 3.5 or more peak sun hours per day a workable threshold, assuming reasonable electricity rates. Below that, you're not necessarily out, but your payback period stretches. Pair the NREL PVWatts Calculator with your actual utility rate to get a real picture."
  - q: "Will solar panels produce enough in winter to be useful?"
    a: "Production drops in winter, sometimes significantly. A system that produces 1,200 kWh in July might produce 400 kWh in December in a northern climate. The model that makes this work financially is annual net metering: summer surplus credits offset winter deficits. If your utility offers true annual net metering, winter underproduction matters much less."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Seattle gets about 226 cloudy days a year. And yet it's one of the cities where I most often tell people to go solar.

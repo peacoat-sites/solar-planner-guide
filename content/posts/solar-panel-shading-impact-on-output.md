@@ -23,7 +23,7 @@ faqs:
     a: "Yes, most systems can be expanded if your inverter has unused capacity or you add more inverter capacity. Microinverter systems (Enphase especially) are particularly easy to expand. Just confirm this with your installer before signing and make sure your interconnection agreement with the utility allows a larger system."
   - q: "What's the best time of year to assess shading before going solar?"
     a: "Winter, specifically around the December solstice. That's when the sun is lowest in the sky and shadows are at their longest. A site visit in June will dramatically understate your shading problem. If your installer won't do a winter assessment or refuses to model winter sun angles in their software, that's a red flag."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Shading is the single most misunderstood variable in residential solar. Most installers will mention it briefly, wave at your roof, and move on. What they don't always tell you: even a small shadow from a chimney, vent pipe, or a neighbor's oak tree can cut your system's output by far more than the shaded percentage of your roof suggests. The math here is counterintuitive, and it costs people real money.
 

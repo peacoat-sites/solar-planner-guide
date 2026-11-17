@@ -1,6 +1,7 @@
 ---
 title: "40% Solar Tax Credit: How SRECs Maximize Your Energy Savings"
 date: 2026-07-19T09:18:14.953878+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how solar renewable energy credits work and unlock potential $300+ earnings per credit to boost your solar investment returns."
 image: "/img/heroes/4254164.jpg"

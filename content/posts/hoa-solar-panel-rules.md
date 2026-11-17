@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy Analyst"
 author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You submitted your solar application to your HOA three weeks ago. You've done the research, gotten quotes, and you're excited. Then the letter comes back: *denied*. Or maybe you haven't applied yet, and you're wondering whether it's even worth the hassle. Either way, you're probably feeling somewhere between frustrated and confused, and you might be wondering whether your HOA actually has the legal authority to stop you.
 

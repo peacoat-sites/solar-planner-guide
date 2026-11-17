@@ -23,7 +23,7 @@ faqs:
    a: "Customers who install systems before any rule change are typically grandfathered under the existing terms for a set period, often 25 years. Getting installed while retail-rate net metering is still in place is a real reason not to delay if you're already leaning toward solar."
  - q: "How do I know if my roof is ready for solar in Ohio?"
    a: "A south-facing roof with minimal shading and at least 10 to 15 years of remaining life is ideal. If your roof is within five years of needing replacement, replace it first or negotiate to have it done as part of the solar project. Installing panels on a roof that needs work two years later means paying labor to remove and reinstall them."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Ohio gets about 178 sunny days per year. That sounds discouraging until you realize Germany, the country that essentially invented the modern solar incentive system, averages fewer. Ohio solar works. What doesn't work is going in blind, because this state has some genuinely unusual dynamics that most "best solar states" listicles never touch.

@@ -23,7 +23,7 @@ faqs:
     a: "Yes, in virtually every jurisdiction. Ground mounts typically require both an electrical permit and a building permit for the foundation work, and some municipalities add specific zoning or setback requirements. Your installer should pull these, but it's worth asking explicitly and confirming they've checked local codes before you sign a contract."
   - q: "Can I add panels to a ground mount later if I want more capacity?"
     a: "Often yes, but it depends on whether your inverter has headroom and whether the original racking was sized for expansion. If you think you might want to grow your system (say, after adding an EV), tell your installer at the start. Designing for future expansion upfront is much cheaper than retrofitting later."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people assume this is a simple question. It's not.

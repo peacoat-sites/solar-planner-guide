@@ -23,7 +23,7 @@ faqs:
    a: "In most cases, yes. Programs like Xcel's BYOD or Green Mountain Power's Powerwall lease don't require you to have solar. A battery alone qualifies in many states. Adding storage to an existing solar system is typically straightforward from an interconnection standpoint, though you may need a utility inspection."
  - q: "Are utility incentive programs available in states without a renewable portfolio standard?"
    a: "Some are, though fewer. States without an RPS have less regulatory pressure on utilities to fund solar programs. That said, some rural electric co-ops and municipal utilities in RPS-free states run their own programs independently. It's worth checking even if your state doesn't have a strong renewable policy. Texas is a good example: the state has almost no solar mandates, yet some Texas co-ops run decent net metering programs because their members asked for them."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most homeowners who go solar focus entirely on the [federal tax credit](/federal-solar-tax-credit-2026/) and stop there. That's understandable. The 30% Investment Tax Credit is real money and easy to understand. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.

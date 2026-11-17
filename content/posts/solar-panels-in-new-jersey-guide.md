@@ -1,6 +1,7 @@
 ---
 title: "Solar Panels in New Jersey: Your Complete Installation Guide"
 date: 2026-08-02T09:19:37.179632+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to install solar panels in New Jersey, including costs, incentives, permits, and top installers to maximize your savings."
 image: "/img/heroes/38171120.jpg"

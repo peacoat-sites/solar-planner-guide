@@ -1,6 +1,7 @@
 ---
 title: "$14,000 Later: Is Adding a Battery to Solar Worth It?"
 date: 2026-07-11T08:58:29.907736+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "We break down the real costs of adding a battery to solar, from $12,000 to $14,000 installs, and whether the savings actually add up."
 image: "/img/heroes/35425766.jpg"

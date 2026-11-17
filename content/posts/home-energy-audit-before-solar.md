@@ -1,6 +1,7 @@
 ---
 title: "Home Energy Audit Before Solar: Why It Matters"
 date: 2026-07-27T10:50:56.250339+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why a home energy audit is essential before installing solar panels and how it can maximize your system's performance and savings."
 image: "/img/heroes/8293646.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Smart Home Energy Management With Solar: Maximize Your System"
 date: 2026-07-20T10:20:31.218295+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how smart home technology optimizes solar energy use, reduces grid dependence, and lowers electricity costs with intelligent automation."
 image: "/img/heroes/9875415.jpg"

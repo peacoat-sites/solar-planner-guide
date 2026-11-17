@@ -1,6 +1,7 @@
 ---
 title: "Is Solar Worth It When Your Electric Bill Is Already Low?"
 date: 2026-07-10T10:29:54.506404+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Low electric bills make solar a tougher call. Here's how to weigh the real costs, savings, and breakeven timeline before you commit."
 image: "/img/heroes/9875438.jpg"

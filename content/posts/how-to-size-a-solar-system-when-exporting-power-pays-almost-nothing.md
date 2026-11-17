@@ -12,7 +12,7 @@ author_title: "Solar Engineer"
 author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
 slug: "how-to-size-a-solar-system-when-exporting-power-pays-almost-nothing"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've been getting quotes for solar lately, you might be wondering why the numbers don't seem to add up the way they did a few years ago. Your neighbor installed panels in 2021 and talks about nearly zeroing out his electric bill. Your quote for a similar system today doesn't come close to that. You're not imagining it. The economics of residential solar have shifted in a meaningful way, and the sizing formula that worked brilliantly for years is now actively working against a lot of homeowners.
 
