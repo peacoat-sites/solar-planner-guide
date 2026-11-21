@@ -21,8 +21,8 @@ faqs:
    a: "Most modern panels are warrantied for 25 years and carry a production guarantee that they'll still produce at least 80% to 87% of their rated output at year 25. Real-world degradation data from NREL shows an average decline of about 0.5% per year, meaning a panel installed today should still be producing around 88% of its original output 25 years from now. The inverter is more likely to need replacement first, usually around the 10 to 15 year mark."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people ask the wrong question. They Google "how many solar panels do I need" expecting a clean answer, and they get some calculator that spits out a number without explaining any of the assumptions underneath it. A common mistake is buying a system based on a generic calculator result without understanding the assumptions behind it, which can lead to a system that's completely wrong for your house.

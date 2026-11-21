@@ -21,8 +21,8 @@ faqs:
    a: "The research here is genuinely mixed, partly because this market is moving fast. Tesla Powerwall has the largest installed base and most third-party performance data. Enphase IQ is modular and works especially well with Enphase microinverter systems. Franklin Electric's WH10 has been gaining installer confidence. SunPower's SunVault is well-regarded but SunPower's 2024 bankruptcy created uncertainty about long-term support. I'd weight installer track record with a specific battery heavily, since local service quality matters as much as product specs."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Solar Policy Analyst"
-author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
+author_title: "Solar Policy"
+author_bio: "Patricia Moore is the byline used at Solar Planner Guide for articles on incentives, net metering and state solar policy. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many homeowners assume solar batteries are basically just [backup power](/solar-battery-backup-for-power-outages/) for blackouts. That's the pitch you'll hear from installers, and it's not wrong, but it's about a third of the actual story. Some people spend $12,000 to $15,000 on a battery system expecting to cut their electric bill in half, only to find their monthly savings barely budge. Others in time-of-use utility markets can turn their battery into a genuine money maker. The difference almost always comes down to one thing: whether they understood their specific situation before signing the contract.

@@ -21,8 +21,8 @@ faqs:
    a: "Yes. The Residential Clean Energy Credit applies to a primary residence and secondary residences, which includes vacation homes. The property just needs to be a dwelling unit you use personally. If you rent out the vacation home part of the year and use it personally for part of the year, you can claim a portion of the credit proportional to your personal use. Pure rental properties with no personal use don't qualify for the residential credit, though commercial solar installations have their own separate incentive pathway."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You install a $30,000 solar system in January 2026 and claim an $8,100 federal tax credit when you file. Your neighbor waits until 2034 and gets almost nothing. That gap is real, it's baked into law, and most homeowners don't realize the clock's already running.

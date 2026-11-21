@@ -21,8 +21,8 @@ faqs:
    a: "Most manufacturers warrant their batteries for 10 years with at least 70% capacity remaining. Real-world longevity depends on usage patterns, temperature exposure, and chemistry. LFP batteries in moderate climates that are cycled daily typically retain 80-85% capacity at the 10-year mark in field studies. After warranty expiration, batteries don't die suddenly, they just hold less charge. Many installations are still functional at 12 to 15 years, just with reduced capacity. Avoid storing batteries in spaces that regularly exceed 90 degrees Fahrenheit, since heat is the single biggest acceleran"
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've probably already lost power at least once this year. Maybe it was a few hours, maybe it was three days after a storm, and you sat there watching your refrigerator full of food edge toward room temperature while your neighbor's house stayed lit up because they had a battery. That moment has a way of making home battery storage go from "something I'll look into someday" to "I need to figure this out now." If you're here, you're probably in that exact headspace. Good. Let's actually work through it together.

@@ -21,8 +21,8 @@ faqs:
    a: "You can, but you'll probably need to upgrade the panel first. Most homes built before the 1990s have 100-amp service panels, and a solar-plus-storage installation, especially with an EV charger, typically requires 200-amp service. Panel upgrades run $1,500 to $4,000 depending on your location and the complexity of the work. This cost is often the surprise item that wasn't mentioned in early quotes. Ask your installer explicitly whether your current panel is compatible before you get too far into the process."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners assume adding a battery will roughly double the cost of a solar quote. This misconception often derails projects. The reality is more complex: upfront costs may be higher than expected, but the actual value can exceed simple math. Battery payback depends heavily on local rates and usage patterns.

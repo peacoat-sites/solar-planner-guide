@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_specialty: "Solar Panel Installation & Permitting"
+author_title: "Installation and Permits"
+author_specialty: "Installation and Permits"
 ---
 
-Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor.
+Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards.
+
+[How Solar Planner Guide articles are written and checked](/editorial-standards/)

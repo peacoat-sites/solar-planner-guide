@@ -21,8 +21,8 @@ faqs:
    a: "Not really, what matters is total system output in kW. A 20-panel system with 450W panels produces 9 kW, same as a 25-panel system with 360W panels. Higher-wattage panels are useful when roof space is limited. Otherwise, the wattage per panel is less important than the total system size and the quality of the installation."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Solar Policy Analyst"
-author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
+author_title: "Solar Policy"
+author_bio: "Patricia Moore is the byline used at Solar Planner Guide for articles on incentives, net metering and state solar policy. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people get this wrong before they even talk to an installer.

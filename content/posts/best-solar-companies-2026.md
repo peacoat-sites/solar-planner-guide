@@ -21,8 +21,8 @@ faqs:
    a: "This is more common than people expect. The solar industry has seen significant consolidation and company failures. Your panel manufacturer's warranty is separate from your installer's workmanship warranty, so panel coverage typically survives an installer's closure. Workmanship warranties backed by a third-party insurer also survive. Always ask: 'Is your workmanship warranty backed by an insurance policy, or is it backed solely by your company?' The former survives bankruptcy; the latter does not."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners spend more time picking a Netflix show than vetting their solar installer. That's a problem, because a bad panel choice fades in a few years, but a bad installer can cost you $5,000 in warranty disputes, roof damage claims, or a system that underperforms for two decades. The solar industry installed over 25 gigawatts of residential capacity in recent years according to the [Solar Energy Industries Association (SEIA)](https://www.seia.org/), and the market is crowded with companies ranging from excellent to predatory. Knowing which names actually deserve your business in 2026 takes more than reading a sponsored "best of" list.

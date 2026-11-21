@@ -21,8 +21,8 @@ faqs:
    a: "It can be, but the analysis has to be done carefully. Washington state has relatively low electricity rates due to hydropower, which makes it harder for solar to pencil out financially even though panels do generate in cloudy conditions. Michigan has higher rates and decent incentives, which helps. The real question is always: what are you paying per kWh now, how much does your system produce given local solar resources, and what incentives reduce your upfront cost? In my experience, low-sun states can work, but they require a longer payback period and a homeowner who plans to stay in the hous"
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Two neighbors, same house size, same energy bills, both went solar in the same month. One in Arizona paid about $25,000 before incentives. The other in Massachusetts paid closer to $35,000. Same technology, same 10-kilowatt system, nearly $10,000 difference. That gap isn't random, and understanding what drives it could save you thousands.

@@ -14,8 +14,8 @@ faqs:
    a: "Buying solar means you own the system outright. You can pay cash, or more commonly, finance the purchase through a solar loan. When you own the system, every kilowatt-hour it produces is yours, reducing your electricity bill dollar for dollar. You also receive all applicable incentives, including the federal solar Investment Tax Credit (ITC), which currently stands at 30% of the total system cost. [RELATED: how to choose the best solar loan for your home]"
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've finally made the decision to go solar. Congratulations. But just when you thought the hard part was over, you've discovered there's another major decision waiting: should you lease your solar panels or buy them outright? If you've spent any time researching this question, you've probably encountered passionate advocates on both sides, confusing financial jargon, and more than a few sales pitches dressed up as objective advice.

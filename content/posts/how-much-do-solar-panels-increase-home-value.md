@@ -21,8 +21,8 @@ faqs:
    a: "If you took out a solar loan and it's still outstanding, the lien on the system can complicate the title transfer at sale. It doesn't eliminate the value, but you'll generally need to pay off the loan at closing, similar to any other secured debt. Factor this into your equity calculations before listing."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The average American home gains about $15,000 in resale value after a solar installation. That number gets quoted constantly by solar salespeople, and I'll be honest: it's not wrong, but it's also not the whole story. That figure comes from a 2019 Zillow analysis, and when you actually look at what's behind it, the picture gets both more interesting and more complicated than any installer is going to tell you sitting at your kitchen table.

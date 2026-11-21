@@ -21,8 +21,8 @@ faqs:
    a: "Ask them to provide an hour-by-hour simulation using software like PVWatts, System Advisor Model (SAM), or Aurora Solar. A reputable installer will show you annual production estimates by month, not just a single annual number. Cross-check their production estimate against NREL's free PVWatts tool using your address. If their numbers are more than 10 to 15% higher than PVWatts, ask them to justify the difference."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your neighbor's $14 electricity bill versus your $220 one. That's the question that kicks off most solar conversations, and it's the right one to ask, just not always in the way people ask it. The honest answer depends on numbers most solar salespeople won't sit down and walk through carefully. So let's actually do that.

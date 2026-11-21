@@ -21,8 +21,8 @@ faqs:
    a: "Not even close to a whole house. One 400W panel might produce enough to run a refrigerator and a few lights. Whole-home solar systems in the US typically run between 6 kW and 12 kW, which means 15 to 30 panels depending on wattage. Single-panel setups are more appropriate for cabins, RVs, or specific appliance offsets."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Solar Policy Analyst"
-author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
+author_title: "Solar Policy"
+author_bio: "Patricia Moore is the byline used at Solar Planner Guide for articles on incentives, net metering and state solar policy. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners I talk to guess somewhere between 1 and 100 kWh per day for a single solar panel. That range tells you everything about how poorly this topic gets explained.

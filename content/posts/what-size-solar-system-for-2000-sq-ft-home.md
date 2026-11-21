@@ -21,8 +21,8 @@ faqs:
     a: "Buy if you can. Purchasing outright (or with a solar loan) gives you the 30% federal tax credit and all the long-term savings. Leases and PPAs transfer those benefits to the third-party owner, and they can complicate home sales. The monthly payment structure feels comfortable, but the 25-year math almost always favors ownership."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Square footage is almost irrelevant when sizing a solar system. I know that's not what you were hoping to hear, but it's true, and most of the "solar calculator" tools online are doing you a disservice by pretending otherwise.

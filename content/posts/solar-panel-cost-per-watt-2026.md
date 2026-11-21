@@ -21,8 +21,8 @@ faqs:
    a: "Your inverter manufacturer's app (Enphase Enlighten, SolarEdge monitoring portal, etc.) is the primary tool. For a more detailed whole-home view, a dedicated energy monitor like the Sense Home Energy Monitor (Amazon, affiliate link) identifies individual appliance consumption and can help you understand whether your panels are actually offsetting what you expected. This kind of independent verification catches production shortfalls that might otherwise go unnoticed for months."
 author: "Craig Stevens"
 author_slug: "craig-stevens"
-author_title: "Financial Advisor"
-author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+author_title: "Solar Financing"
+author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Three quotes just landed on your kitchen table. One says $2.40 per watt. Another says $3.80. Same roof. Same neighborhood. Same equipment, supposedly. This isn't a sales gimmick or a mistake. It's just how solar pricing works in 2026, and if you don't get it, you'll either overpay or make a decision you regret later.

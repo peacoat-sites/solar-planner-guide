@@ -21,8 +21,8 @@ faqs:
    a: "In my experience, waiting for 'better' incentives in California is usually a losing strategy. The 30% federal ITC is stable through 2032, but NEM 3.0 is unlikely to get more generous, and electricity rates keep climbing. Every year you wait is another year of paying full retail rates. That said, if you're in financial circumstances where the timing of the tax credit matters, or if you're planning major home changes, coordinating those factors makes sense. For most California homeowners with a suitable roof and the ability to finance or purchase, 2026 is a reasonable time to move forward."
 author: "Craig Stevens"
 author_slug: "craig-stevens"
-author_title: "Financial Advisor"
-author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+author_title: "Solar Financing"
+author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 California's electricity costs around 29 cents per kilowatt-hour as of early 2025. That's nearly double what most Americans pay. A solar system that takes 10 years to pay off in Ohio could be cash-positive in 6 or 7 years here in Sacramento or San Diego.

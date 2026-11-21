@@ -21,8 +21,8 @@ faqs:
     a: "Mostly no. If you're leasing panels or buying power through a PPA, the export credit structure still applies in the same way, but the financial arrangement you have with the leasing company may or may not pass those credits through to you. Read your contract carefully. Some lease agreements lock in rates that assumed NEM 2.0 export values, which can make the deal worse than expected. Ownership, especially with the federal tax credit, tends to look better under NEM 3.0 than third-party financing."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you've been sitting on the fence about going solar in California, I'll be honest: the window you missed in 2022 was genuinely great, and what replaced it is genuinely worse. That's not a scare tactic. It's just the math.

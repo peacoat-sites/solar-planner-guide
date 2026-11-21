@@ -21,8 +21,8 @@ faqs:
    a: "As of 2026, the 30% Investment Tax Credit is still in effect. It was extended and expanded under the Inflation Reduction Act through 2032 before stepping down. That said, policy can change, and there are ongoing legislative discussions. The federal solar tax credit expiration page tracks the current status and timeline."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your utility bill sits at $180 a month. They just announced another rate hike. Your neighbor's solar panels are cutting their bill to almost nothing. You want in.

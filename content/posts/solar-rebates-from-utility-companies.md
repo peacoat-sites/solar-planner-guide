@@ -21,8 +21,8 @@ faqs:
    a: "This is a real risk. Many programs operate on a first-come, first-served basis with an annual funding cap. If you've submitted a pre-approval application and received a reservation, you're usually protected even if the program runs out of funding after your submission. If you haven't applied yet and the cap is reached, you may be waitlisted for the next funding cycle. This is another reason to apply early and before installation begins, not after."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your neighbor mentions she got an extra $1,500 back from the electric company. You didn't know that existed. Your solar quote was $28,000, the federal tax credit gets you $8,400, but apparently there's more money sitting on the table that nobody told you about. That kind of oversight happens constantly. Utility solar rebates are one of the least-advertised ways to cut your upfront costs, and they can legitimately change whether a system makes sense for your wallet.

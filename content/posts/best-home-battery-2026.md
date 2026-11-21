@@ -21,8 +21,8 @@ faqs:
    a: "As of the writing of this article, the 30% Residential Clean Energy Credit under the Inflation Reduction Act is scheduled to remain at 30% through 2032. However, tax law can change, and I always tell people not to make purchasing decisions assuming a tax credit will definitely be there. Check IRS.gov or consult a tax professional for current guidance, especially given the legislative environment around clean energy incentives."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Solar Policy Analyst"
-author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
+author_title: "Solar Policy"
+author_bio: "Patricia Moore is the byline used at Solar Planner Guide for articles on incentives, net metering and state solar policy. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You finally went solar, or you're seriously thinking about it, and now someone mentioned "[battery backup](/solar-battery-backup-for-power-outages/)" and suddenly you're down a rabbit hole at 11pm trying to figure out if a Powerwall is worth $15,000 or whether some competing brand just made it obsolete. Sound familiar? The home battery market in 2025 moving into 2026 is genuinely exciting, but it's also full of marketing noise that can make even smart homeowners feel lost. I've sat across from hundreds of people in exactly this spot, and the question I hear most isn't "which battery is best?" It's actually: "Do I even need one, and if I do, how do I choose without getting taken?"

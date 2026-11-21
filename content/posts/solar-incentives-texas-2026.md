@@ -21,8 +21,8 @@ faqs:
    a: "Research from NREL has found that solar homes sell for a premium of roughly $4 per watt of installed capacity, which on a 10 kW system equals about $40,000 in added home value on the high end. Texas-specific data tends to show premiums in the $15,000 to $25,000 range for typical residential systems, varying by market. Critically, that added value is completely exempt from Texas property taxes under state law."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Texas gets more solar energy than almost any other state in the country, yet the average Texas homeowner leaves thousands of dollars in incentives unclaimed every year. In 2024, Texas crossed 40 gigawatts of installed solar capacity, ranking second nationally behind only California according to SEIA data. And yet, many installers will hand you a quote without explaining the full picture of what's available to reduce that number. Let's fix that.

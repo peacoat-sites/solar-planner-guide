@@ -21,8 +21,8 @@ faqs:
    a: "Panel-level monitoring through your inverter's app (Enphase Enlighten, SolarEdge monitoring portal, etc.) will flag production drops that can indicate shading issues, equipment failures, or damage. For the roof itself, a home energy monitor like the Emporia Vue Energy Monitor (Amazon, affiliate link) can help you track consumption patterns that might indicate something's off with your system. You should also do a visual roof inspection once a year, ideally from the ground with binoculars, looking for lifted panels, damaged flashing, or debris accumulation under the array."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've gotten [three solar quotes](/how-to-get-multiple-solar-quotes/), you're excited, and then one installer mentions, almost as an aside, that your roof "might need some work before we can install." Suddenly you're wondering whether you're about to spend $4,000 fixing your roof before you can even start saving money on electricity. This scenario is common, and the frustration is completely legitimate. The problem is that most installers won't hand you a clear checklist upfront. They want the sale. Here's what you need to know: exactly what your roof needs to be solar-ready, what disqualifies a roof, and how to figure out where yours stands before you sign anything.

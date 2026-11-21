@@ -21,8 +21,8 @@ faqs:
    a: "Quality panels from reputable manufacturers are rated for 25-30 years and typically carry a performance warranty guaranteeing at least 80-87% of rated output at 25 years. In practice, panels often last longer than their warranty. The inverter is typically the first component to need replacement, usually around year 10-15, at a cost of $1,000-$2,500 depending on inverter type."
 author: "Craig Stevens"
 author_slug: "craig-stevens"
-author_title: "Financial Advisor"
-author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+author_title: "Solar Financing"
+author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The average American household spends about $1,500 a year on electricity. Over 25 years, that's $37,500 flowing straight to your utility company, and that's before accounting for the rate increases that have averaged around 2-3% annually for the past decade. So when a solar installer quotes you $25,000 for a rooftop system, the sticker shock hits hard. But that number only tells part of the story. Here's what solar panels actually cost in 2026, and more importantly, what they'll really cost you after the dust settles.

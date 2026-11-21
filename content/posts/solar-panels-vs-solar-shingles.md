@@ -21,8 +21,8 @@ faqs:
     a: "Research on this is mixed and relatively thin for solar shingles specifically since they haven't been in the market long enough. For conventional solar panels, NREL and Zillow have both published data showing meaningful home value increases, roughly $4,000 to $6,000 per kilowatt of installed capacity in some markets. Solar shingles may add more value from an aesthetic standpoint in certain neighborhoods, but I'd be cautious about banking on a premium that hasn't been well-documented yet."
 author: "Craig Stevens"
 author_slug: "craig-stevens"
-author_title: "Financial Advisor"
-author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+author_title: "Solar Financing"
+author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume solar shingles are the obvious upgrade over bulky rooftop panels. They're wrong, and the math is pretty unforgiving once you see it.

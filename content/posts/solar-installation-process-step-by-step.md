@@ -21,8 +21,8 @@ faqs:
    a: "Check your monitoring data against the production estimates in your original contract. If there's a sustained gap, contact your installer first. Most reputable installers offer production guarantees. If your inverter is the issue, it's typically covered under a 10 to 12 year warranty. Panels usually carry 25-year performance warranties guaranteeing they'll produce at least 80 to 85 percent of their rated output. Document everything in writing when you raise a concern."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many homeowners think the hardest part of going solar is deciding to do it. Then they sign the contract and realize there's a whole other journey ahead of them, typically taking 2 to 4 months before a single panel produces a single kilowatt-hour. Without clear guidance on what's happening behind the scenes, the timeline can feel surprising and stressful. Here's a breakdown of what the solar installation process actually looks like from contract to first power bill.

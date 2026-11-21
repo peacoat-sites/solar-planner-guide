@@ -21,8 +21,8 @@ faqs:
     a: "Yes, and New York has a specific incentive for it: the NYSERDA Battery Storage Incentive provides upfront rebates ranging from roughly $150 to $250 per kWh of storage capacity. A Tesla Powerwall 3 (13.5 kWh) could qualify for $2,000 to $3,375 in state incentives on top of the federal tax credit. Given how often the grid gets stressed during New York summer heat events, this is becoming a much more common add-on."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Forty-three dollars. That's what one of my clients in Westchester was paying per day on electricity last August during the heat wave. Not per month. Per day. When she called me, she wasn't curious about solar in an abstract way. She was angry, and she wanted to know why nobody had told her sooner that there was a better option.

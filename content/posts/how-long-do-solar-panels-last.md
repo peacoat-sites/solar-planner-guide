@@ -21,8 +21,8 @@ faqs:
    a: "The clearest sign is a production number that's noticeably lower than your installer's original estimate or your own records from prior years. Seasonal variation is normal, so compare July to July, not July to January. If you see a sudden drop rather than a gradual one, that usually points to a specific failure: a shading issue, a failed panel, or an inverter problem. A qualified solar technician with a clamp meter and thermal camera can pinpoint the source in a single visit."
 author: "Craig Stevens"
 author_slug: "craig-stevens"
-author_title: "Financial Advisor"
-author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+author_title: "Solar Financing"
+author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: you're sitting across from a solar salesperson who's telling you these panels will basically pay for themselves over 25 years. You nod, you sign, and somewhere in the back of your mind you wonder, "But what actually happens at year 26?" It's a fair question, and I've found that most homeowners never get a straight answer before they commit to a $20,000+ purchase.

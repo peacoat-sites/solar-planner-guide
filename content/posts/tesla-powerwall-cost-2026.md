@@ -21,8 +21,8 @@ faqs:
    a: "In participating states (California, Texas, and a growing list), Tesla can dispatch a small portion of your Powerwall's stored energy to the grid during peak demand events. You're compensated, typically $0.60 to $2.00 per kWh exported. You set minimum backup reserves so your battery never drops below your comfort level. For most participants, it generates $100 to $400 per year. It won't transform your payback timeline, but it's passive income on hardware you already own."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
-author_title: "Solar Policy Analyst"
-author_bio: "Patricia Moore analyzes solar incentive and net-metering policy across the states, tracking how rebates, tax credits, and utility rules change what a solar project actually returns. She translates dense policy into plain numbers homeowners can use. At Solar Planner Guide she covers incentives, net metering, and the policy shifts that move payback timelines."
+author_title: "Solar Policy"
+author_bio: "Patricia Moore is the byline used at Solar Planner Guide for articles on incentives, net metering and state solar policy. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people searching for Tesla Powerwall pricing find a number, feel good about it, and then discover at installation that the real cost was 40% higher. That gap between the sticker price and the check you actually write is where most solar coverage fails you. Let's close it.

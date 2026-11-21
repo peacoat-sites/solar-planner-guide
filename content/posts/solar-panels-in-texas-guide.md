@@ -21,8 +21,8 @@ faqs:
     a: "NREL research suggests solar adds roughly $15,000 to $20,000 in resale value for a typical residential system, and Texas exempts that added value from property taxes entirely. That exemption alone can save you several thousand dollars over the system's life, and it's one of the better state-level solar incentives Texas actually offers."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A $340 electric bill is often the moment homeowners start seriously thinking about solar, and it's a reasonable instinct. Texas gets more solar irradiance than almost any other state, ERCOT rates have been volatile enough to make grown adults cry, and the economics can be genuinely compelling. But "Texas is great for solar" is also a sales pitch. Many homeowners sign agreements without fully understanding what their actual numbers look like.

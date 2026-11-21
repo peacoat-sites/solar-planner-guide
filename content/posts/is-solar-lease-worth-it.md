@@ -21,8 +21,8 @@ faqs:
    a: "Sometimes, yes. If a retiree can't use the 30% tax credit (because they have limited tax liability), the ITC advantage of ownership shrinks. A lease eliminates equipment risk, monthly payment risk is capped, and many seniors aren't planning a home sale. The calculus is different here than for a 40-year-old with 25 years of equity building ahead. That said, I'd still recommend exploring a cash purchase if the funds are available, because the 25-year savings gap remains substantial."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your neighbor just got solar panels installed for $0 down, and suddenly your electricity bill looks even more offensive than usual. The installer made it sound simple: sign a lease, get panels, save money. What's not to love? Quite a bit, actually. Solar leases have helped millions of Americans get panels on their roofs without writing a five-figure check, but they've also trapped homeowners in contracts they didn't fully understand, complicated home sales, and delivered savings that looked better in the pitch deck than on the bank statement. Let's go through what a solar lease actually is, when it makes sense, and when you should walk away.

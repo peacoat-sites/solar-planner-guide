@@ -21,8 +21,8 @@ faqs:
    a: "You keep the credit as long as you've already claimed it on your return. The credit belongs to you, not the property. If you haven't yet claimed all of it (for example, you're in the middle of a carryforward period), the unclaimed portion doesn't transfer to the buyer. You can still use it on future tax returns as long as you have federal tax liability. The solar system itself does add to your home's resale value, which is a separate benefit from the tax credit."
 author: "Craig Stevens"
 author_slug: "craig-stevens"
-author_title: "Financial Advisor"
-author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+author_title: "Solar Financing"
+author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've been telling yourself you'll go solar "eventually" for two years now. Then you see a headline about the federal tax credit expiring, and your stomach drops. Did you just miss out on a 30% discount worth thousands of dollars?

@@ -21,8 +21,8 @@ faqs:
    a: "This is subjective, but most homeowners and real estate professionals find monocrystalline's uniform dark appearance more aesthetically pleasing than polycrystalline's blue, shimmery look. If curb appeal matters to you, and for many homeowners it genuinely does, mono panels blend more naturally into a dark roof. All-black monocrystalline panels, where the backsheet and frame are also black, are the most visually seamless option available today."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're standing in your backyard, squinting at your roof, and the solar installer just handed you a quote with two options. One says "monocrystalline" and costs about 20% more. The other says "polycrystalline" and looks like it might save you a decent chunk of money upfront. The installer gave you a quick explanation, but you walked away more confused than when you started. That's exactly where most people are when they come to me, and I want to give you the honest breakdown that the quote sheet doesn't.

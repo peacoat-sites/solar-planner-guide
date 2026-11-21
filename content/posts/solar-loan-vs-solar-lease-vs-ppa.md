@@ -9,8 +9,8 @@ tags: ["solar", "loan", "vs", "solar", "lease"]
 slug: "solar-loan-vs-solar-lease-vs-ppa"
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've finally decided to go solar. The utility bills are too high, the environmental benefits are compelling, and your neighbor just installed panels and won't stop talking about how great they are. But then you sit down with a solar installer and suddenly you're staring at a menu of financing options that sounds more like a financial exam than a home improvement project. Solar loan? Solar lease? Power Purchase Agreement? What does any of this actually mean for your wallet, your home, and your long-term energy future?

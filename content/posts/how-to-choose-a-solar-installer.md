@@ -21,8 +21,8 @@ faqs:
    a: "A workmanship warranty covers defects and failures caused by the installation itself: roof penetrations, wiring, racking attachment, conduit work. It does not cover panel degradation (that's the manufacturer's performance warranty) or inverter failure (the inverter manufacturer's warranty). Standard is 10 years. Some installers offer 25 years, which is a genuine differentiator. Whatever the length, it needs to be in your contract, not a verbal commitment."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most homeowners spend more time choosing a Netflix show than vetting the company about to drill holes in their roof and wire a $20,000 system to their electrical panel. That's not a knock on homeowners. Installer selection is genuinely confusing, and the solar industry doesn't make it easier. Slick websites, aggressive door-to-door reps, and "limited-time" pricing pressure are features of this market, not bugs. Here's how to cut through it.

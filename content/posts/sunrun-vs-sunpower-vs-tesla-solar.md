@@ -21,8 +21,8 @@ faqs:
     a: "Yes, and you should. For Tesla, pricing is fixed and posted online, so that one's easy. For SunPower, contact two or three local dealers (they operate independently, so pricing varies). For Sunrun, be specific that you want a cash purchase quote alongside any lease or PPA option, so you're comparing apples to apples. Using a platform like EnergySage to get competing bids alongside these three is the best way to know whether you're getting fair pricing in your market."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Three companies dominate the residential solar conversation in America, and the coverage of them is almost universally useless. Most comparisons just list specs and call it a day. What actually matters: who's going to be around in ten years, whose contracts won't trap you, and whether the panels on your roof are worth [what you're paying](/how-to-get-multiple-solar-quotes/).

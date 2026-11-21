@@ -21,8 +21,8 @@ faqs:
    a: "Most warranties cover the battery reaching below the specified capacity retention threshold (commonly 70%) within the warranty period. They typically cover repair or replacement of the unit, not the installation labor, which can run $500-1,500 depending on the system. Read the warranty document, not the sales brochure, before buying."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar battery articles will tell you to expect "10 to 15 years" and stop there. That number isn't wrong, but it's hiding something important: one battery might still deliver 80% of its original capacity at year twelve, while another is limping along at 60% by year eight. The gap between a well-maintained battery in a mild climate and a neglected one in Phoenix heat is enormous, and almost nobody talks about it.

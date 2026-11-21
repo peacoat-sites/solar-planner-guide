@@ -21,8 +21,8 @@ faqs:
    a: "Moderately useful for ballpark estimates, not reliable for final decisions. Most calculators use regional averages for sun hours and don't account for your specific roof orientation, shading conditions, local utility rate structure, or upcoming changes in your energy use. They're a reasonable way to walk into a conversation with an installer, but treat any number they give you as a starting point, not a quote."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The average American home pulls about 10,500 kilowatt-hours of electricity every year, according to the U.S. Energy Information Administration. Sounds massive until you realize a typical solar setup of just 8 to 10 panels can handle a real chunk of that. But here's what sales reps conveniently skip during that first phone call: the "right" number of panels has almost nothing to do with national averages. It comes down to your specific roof, your location, your actual habits, and how much of your electric bill you're willing to eliminate.

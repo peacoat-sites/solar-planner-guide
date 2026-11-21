@@ -21,8 +21,8 @@ faqs:
    a: "Not perfect sun, no. A south-facing roof with no shading between 9 AM and 3 PM in a state with 4+ peak sun hours per day is enough to build a viable system. What kills ROI faster than clouds is shading from trees or nearby structures, or a poorly oriented roof (north-facing in the northern hemisphere generates almost nothing useful)."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
-author_title: "Solar Engineer"
-author_bio: "Alex Rivera designs solar systems for a living, working on projects ranging from rooftop residential arrays to small commercial installations. With a background in electrical engineering, he brings precise technical knowledge to what is often an oversimplified conversation. At Solar Planner Guide, he covers system sizing, panel specifications, inverter selection, and the engineering decisions that determine long-term output."
+author_title: "System Design"
+author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 My favorite myth to bust: the sunniest state is automatically the best state for solar savings. Homeowners in Phoenix can actually get worse returns on their panels than homeowners in Massachusetts, a difference most installers gloss over during the sales pitch.

@@ -21,8 +21,8 @@ faqs:
    a: "This is the question I get most often. The honest answer: panels are already cheap. Hardware is now roughly 30-40% of total installed cost; the rest is labor, permitting, and overhead. Waiting for another 20% price drop on hardware only saves you 6-8% on total system cost. Meanwhile, you're paying full utility rates every month you wait, and there's real policy risk around net metering rollbacks and ITC changes. If the numbers work today, waiting rarely makes financial sense."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
-author_title: "Installation Contractor"
-author_bio: "Derek Hansen has pulled permits and installed solar systems in three states, which means he has navigated wildly different inspection requirements, utility interconnection rules, and HOA restrictions. He knows where the friction points are in a typical installation. At Solar Planner Guide, he covers the installation process, permitting, and what to expect from your contractor."
+author_title: "Installation and Permits"
+author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A solar salesperson tells you the system will pay for itself in 6 years. Sounds great. Then you ask how they got that number and get something about "average savings" with zero real backing. Quotes promising 8-year paybacks sometimes land closer to 14 years once actual numbers are calculated. The gap often comes from sloppy math and wishful thinking rather than intentional dishonesty. This guide shows you how to do it yourself, honestly, so you know what you're actually signing up for.

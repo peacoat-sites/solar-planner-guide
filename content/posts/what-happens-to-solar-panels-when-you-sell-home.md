@@ -21,8 +21,8 @@ faqs:
     a: "This varies by utility and state. Some utilities transfer the existing agreement to the new owner automatically. Others require a new application, which matters in states like California where older NEM agreements carry better rates than new ones. Check with your utility before listing and include the details in your disclosure documents."
 author: "Nadia Patel"
 author_slug: "nadia-patel"
-author_title: "Clean Energy Specialist"
-author_bio: "Nadia Patel has spent years in residential clean energy, helping homeowners weigh solar against their actual energy use and electrification goals. She is candid about where solar makes sense and where it does not. At Solar Planner Guide she covers environmental impact, electrification, and getting real value from a system."
+author_title: "Home Electrification"
+author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar sellers leave money on the table. Not because they priced the system wrong, but because they didn't understand what they were actually selling.

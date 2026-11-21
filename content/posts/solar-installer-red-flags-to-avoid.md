@@ -10,8 +10,8 @@ slug: "solar-installer-red-flags-to-avoid"
 affiliate_disclosure: true
 author: "Craig Stevens"
 author_slug: "craig-stevens"
-author_title: "Financial Advisor"
-author_bio: "Craig Stevens is a financial advisor who has helped dozens of clients evaluate solar contracts and understand the real cost of solar financing versus purchasing outright. He is particularly focused on the fine print in solar leases and PPAs that homeowners often miss. At Solar Planner Guide, he covers solar financing structures, the federal tax credit, and how to compare quotes side by side."
+author_title: "Solar Financing"
+author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Forty-seven thousand dollars. That's what one Phoenix family paid for a solar system they could've gotten for $31,000 from a different installer. Same panels. Nearly identical production estimates. Both companies had decent online reviews. The difference was a salesperson who pushed hard, moved fast, and gave them almost no time to compare.
