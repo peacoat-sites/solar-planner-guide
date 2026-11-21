@@ -30,7 +30,7 @@ Tesla warrants the Powerwall 3 (and its predecessors) to retain at least 70% of 
 
 The Powerwall 2 uses nickel manganese cobalt (NMC) chemistry. The Powerwall 3 shifted to lithium iron phosphate (LFP). That matters because LFP chemistry is known for better thermal stability and longer cycle life. LFP packs are projected to reach 3,000 to 4,000 full charge cycles before dropping to 80% capacity. At one cycle per day, that's 8 to 11 years. At less-than-one-cycle per day, which is common for homeowners with moderate solar production, you're pushing closer to 15 years of useful life.
 
-What surprised me was how little attention gets paid to degradation curves. It's not linear. Lithium batteries typically lose capacity faster in the first couple of years, then the degradation rate slows considerably. A Powerwall sitting at year 7 may be performing better than its trajectory in year 2 suggested.
+One underappreciated detail is how little attention gets paid to degradation curves. It's not linear. Lithium batteries typically lose capacity faster in the first couple of years, then the degradation rate slows considerably. A Powerwall sitting at year 7 may be performing better than its trajectory in year 2 suggested.
 
 ## The Daily Runtime Question Is Where It Gets Personal
 
@@ -40,7 +40,7 @@ The Powerwall 3 carries 13.5 kWh of usable capacity. That sounds like a lot unti
 
 A typical American home uses around 30 kWh per day according to the U.S. Energy Information Administration. At that rate, a single Powerwall lasts about 10 to 11 hours at average load. But nobody uses power at a perfectly flat average. If a heat pump kicks on, or someone runs the electric dryer, you can draw 4 to 5 kW at a single moment. The Powerwall 3 can handle up to 11.5 kW continuous output, so it won't trip on those surges. But the faster you pull from it, the shorter it lasts.
 
-I ran through this calculation with a homeowner in Phoenix who had a Powerwall 2. She'd been told she'd be "covered" during outages. What nobody explained clearly: her 4-ton AC unit alone draws roughly 3.5 kW continuously, which would exhaust a single Powerwall in under four hours of pure air conditioning. In June. In Phoenix. That's a real problem.
+For example, consider a homeowner in Phoenix with a Powerwall 2. If told they would be "covered" during outages, the reality can come as a surprise. What often goes unexplained is that a 4-ton AC unit alone draws roughly 3.5 kW continuously, which would exhaust a single Powerwall in under four hours of pure air conditioning. In June. In Phoenix. That's a real problem.
 
 The practical answer most solar installers give, but don't volunteer upfront: one Powerwall is enough to run essential loads (refrigerator, lights, phone charging, maybe a small window unit) for 12 to 24 hours. It is not a whole-home backup solution for most households unless you're disciplined about what you run. Two Powerwalls stacked together change the math significantly. [EnergySage's market data](https://news.energysage.com/) consistently shows that homeowners who configure whole-home backup are buying multiple units.
 

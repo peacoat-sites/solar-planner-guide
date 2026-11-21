@@ -28,17 +28,17 @@ faqs:
 
 47 states get enough sun to make solar at least somewhat viable. But "viable" isn't the same as "worth it," and that gap is where a lot of homeowners get burned.
 
-I've sat across from people in some genuinely rough solar markets who came in excited, fed numbers by an installer who glossed over the hard parts. My job, as I see it, is to be the person who tells you what the installer might not. So let's talk about where solar genuinely struggles, and why.
+Many homeowners in genuinely rough solar markets come in excited, fed numbers by an installer who glossed over the hard parts. The goal here is to cover what installers might not tell you. So let's talk about where solar genuinely struggles, and why.
 
 ## Why Location Matters More Than People Expect
 
-Most people think solar is about sunlight. And yes, sun hours matter. But after sitting through hundreds of consultations, I can tell you the bigger killers are electricity rates, net metering policy, upfront cost after incentives, and how fast you'll realistically break even. A state can have fantastic sunshine and still be a terrible place to go solar.
+Most people think solar is about sunlight. And yes, sun hours matter. The bigger killers are electricity rates, net metering policy, upfront cost after incentives, and how fast you'll realistically break even. A state can have fantastic sunshine and still be a terrible place to go solar.
 
 The formula that actually matters: (annual energy production x your electricity rate) minus your annual loan or lease payment. That number tells you whether you're ahead or behind each year. In states where electricity is cheap, that first multiplier shrinks. In states where net metering pays you pennies on the dollar, the math gets worse. Stack both problems together and you can end up with a 20-year payback on a system with a 25-year warranty. That's not a deal. That's a gamble.
 
 ## The States That Come Up on My Problem List
 
-**Louisiana.** I keep coming back to Louisiana. Residential electricity there runs around $0.09 to $0.10 per kWh, which sounds like a good thing until you realize you're offsetting cheap power with a $20,000-plus system. Entergy Louisiana's net metering policy has also faced significant criticism for paying below-retail rates for excess generation. The payback period in many Louisiana markets stretches past 18 years. For a lot of homeowners, that just doesn't pencil.
+**Louisiana.** Louisiana comes up repeatedly in this analysis. Residential electricity there runs around $0.09 to $0.10 per kWh, which sounds like a good thing until you realize you're offsetting cheap power with a $20,000-plus system. Entergy Louisiana's net metering policy has also faced significant criticism for paying below-retail rates for excess generation. The payback period in many Louisiana markets stretches past 18 years. For a lot of homeowners, that just doesn't pencil.
 
 **Idaho and Wyoming.** Both states have some of the lowest residential electricity rates in the country, regularly under $0.10/kWh. NREL data shows average peak sun hours in Boise around 5.5 per day, which is actually decent. But cheap power wipes out your savings. A homeowner running $80 a month in electricity bills is not going to break even on a $22,000 system in any reasonable timeline.
 
@@ -50,7 +50,7 @@ The formula that actually matters: (annual energy production x your electricity 
 
 ## The Net Metering Trap
 
-Here's something I got wrong early in my career: I used to evaluate states mostly by sun hours. I spent years recommending against the Pacific Northwest based on cloud cover, while quietly being fine with states that had sunny skies but predatory net metering policies. That was backwards.
+A common mistake in solar analysis is evaluating states mostly by sun hours. It is easy to recommend against the Pacific Northwest based on cloud cover while overlooking states that have sunny skies but predatory net metering policies. That was backwards.
 
 Net metering is the policy that lets you sell excess solar power back to the grid at or near retail rates. When it's generous, it's the financial backbone of rooftop solar economics. When it's gutted, your system only "pays" you for the hours you're home and consuming the power you're generating. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has modeled this extensively: moving from full retail net metering to an avoided-cost rate can reduce the value of a solar system by 30 to 50 percent over its lifetime.
 

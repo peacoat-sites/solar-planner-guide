@@ -42,7 +42,7 @@ What a good calculator should show you:
 - **Payback period**: how many years before your cumulative savings exceed your total out-of-pocket cost
 - **Lifetime savings**: total money saved over 25 years, minus total interest paid on the loan
 
-The most common mistake I see is people focusing only on that monthly payment number. If your solar loan payment is $175/month and your old electric bill was $180/month, that looks like a break-even. But if the loan is at 8.99% over 25 years, you're paying nearly double the system cost when you add up the interest. That's a different conversation entirely.
+The most common mistake is focusing only on that monthly payment number. If your solar loan payment is $175/month and your old electric bill was $180/month, that looks like a break-even. But if the loan is at 8.99% over 25 years, you're paying nearly double the system cost when you add up the interest. That's a different conversation entirely.
 
 ## The Numbers That Actually Matter: A Walkthrough
 
@@ -67,7 +67,7 @@ That last number. $19,500 in interest. The calculator the installer showed this 
 **Scenario 2: Same system, 12-year loan at 5.49% (used the ITC refund to pay down principal)**
 → Applied the $9,600 ITC refund in year one as a lump-sum payment → Monthly payment rises to about $205, but total interest drops to roughly $7,800 → Payback period shrinks to 7 years, and lifetime savings over 25 years increase by nearly $11,000
 
-That's not a small difference. I've run this comparison for dozens of clients, and it's almost always the right move if you have the discipline to actually apply that tax credit to the loan balance.
+That's not a small difference, and applying the ITC refund as a lump-sum principal payment is almost always the right move if you have the discipline to follow through.
 
 ## What the Calculator Doesn't Know (And You Should)
 
@@ -77,7 +77,7 @@ A few things that will throw off any estimate, no matter how good the tool:
 
 **Net metering policies.** If your utility has recently shifted from 1-to-1 net metering to a lower export rate (a lot of utilities are doing this right now), your actual savings could be 20-30% lower than the calculator projects. This is a real issue in California, Nevada, and increasingly other states. Ask your installer specifically what net metering rate your utility currently uses, and what happens if it changes.
 
-**Your tax situation.** The 30% ITC is a tax credit, not a refund. If your federal tax liability is $4,000/year, you can only use $4,000 of a $9,600 credit in year one. You can roll the remainder forward, but it affects cash flow. I had one client in 2025 who planned their entire financing strategy around getting that full credit back in April. Took them three years to fully use it. Don't skip this step with your accountant.
+**Your tax situation.** The 30% ITC is a tax credit, not a refund. If your federal tax liability is $4,000/year, you can only use $4,000 of a $9,600 credit in year one. You can roll the remainder forward, but it affects cash flow. For example, a homeowner who plans their entire financing strategy around getting that full credit back in April may be disappointed. It can take three years or more to fully use the credit in that situation. Don't skip this step with your accountant.
 
 **Shading and system degradation.** NREL data puts average solar panel degradation at about 0.5% per year. A calculator that doesn't account for this is overstating year-20 savings by roughly 10%.
 
@@ -89,7 +89,7 @@ With a loan, you own the system. You get the tax credit. You capture all the sav
 
 With a lease or PPA, you're essentially renting the panels. No tax credit for you. Your monthly payment is typically fixed or escalates 2-3% per year. The installer keeps the credit and the RECs (renewable energy certificates). [EnergySage's market data](https://news.energysage.com/) consistently shows that homeowners who purchase their systems (cash or loan) come out ahead of lease customers by $10,000 to $20,000 over 20 years in most markets. That's a wide range because it depends heavily on your local utility rates, but the direction is consistent.
 
-I've honestly steered almost every client away from leases unless they have zero tax liability and truly can't access financing. Even then, I'd push hard on the loan option first.
+Leases are generally worth avoiding unless a homeowner has zero tax liability and truly cannot access financing. Even in that situation, exhausting the loan option first is worth the effort.
 
 For comparing these products head-to-head, a home energy monitor like the [Emporia Vue Gen 3](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor) (note: the site may earn a commission) can help you get a more accurate baseline of your actual consumption before you run any calculator. If your usage numbers are off, every downstream calculation is off.
 

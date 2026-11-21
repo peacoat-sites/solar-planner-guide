@@ -66,7 +66,7 @@ Here's where I have to be honest, because installers almost never are.
 
 Net metering rates are being cut. Quietly, steadily, and in some states, aggressively. California's NEM 3.0 policy, which took effect in April 2023, slashed the export rate solar customers receive to roughly $0.05/kWh in many cases, down from $0.30/kWh under the old rules. That's not a typo. The economics of going solar in California changed dramatically overnight for anyone who locked in after that date.
 
-Net metering isn't always a locked-in benefit once you install. It isn't. Most utility tariffs include language that lets the commission revisit export rates on a schedule. In my experience, the states most at risk right now are California (already cut), Nevada (has been through this cycle once already), Arizona, and potentially Texas co-ops.
+Net metering isn't always a locked-in benefit once you install. It isn't. Most utility tariffs include language that lets the commission revisit export rates on a schedule. The states most at risk right now appear to be California (already cut), Nevada (has been through this cycle once already), Arizona, and potentially Texas co-ops.
 
 This doesn't mean solar is a bad deal in those places. It means you need to size your system to maximize self-consumption rather than export. Pair it with a battery. Run your dishwasher and EV charger during daylight hours. The game has changed in net-metering-weakened states, and the strategy has to change with it.
 

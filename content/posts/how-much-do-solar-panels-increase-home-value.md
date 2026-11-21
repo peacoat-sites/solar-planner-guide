@@ -25,7 +25,7 @@ author_title: "System Design"
 author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-The average American home gains about $15,000 in resale value after a solar installation. That number gets quoted constantly by solar salespeople, and I'll be honest: it's not wrong, but it's also not the whole story. That figure comes from a 2019 Zillow analysis, and when you actually look at what's behind it, the picture gets both more interesting and more complicated than any installer is going to tell you sitting at your kitchen table.
+The average American home gains about $15,000 in resale value after a solar installation. That number gets quoted constantly by solar salespeople, and while it is not wrong, it is also not the whole story. That figure comes from a 2019 Zillow analysis, and when you actually look at what's behind it, the picture gets both more interesting and more complicated than any installer is going to tell you sitting at your kitchen table.
 
 Resale value is one of the trickiest solar questions because the answer varies significantly depending on where you live, how you bought the system, and what the local real estate market is doing.
 
@@ -55,7 +55,7 @@ That last point catches people off guard. An appraiser in Boulder, Colorado prob
 
 ## Owned Systems vs. Leased Systems: This Is Where It Gets Serious
 
-I can't stress this enough: a leased solar system or one under a power purchase agreement doesn't add value to your home the way an owned system does. It can actually kill a sale.
+A leased solar system or one under a power purchase agreement does not add value to your home the way an owned system does. It can actually kill a sale.
 
 When you lease panels, you don't own them. The solar company does. When you sell, the buyer either assumes the lease payments or you buy out the contract, which typically runs $5,000 to $20,000 depending on years remaining.
 
@@ -63,7 +63,7 @@ Owned systems? Completely different animal. According to [EnergySage's market da
 
 ## How Location Warps the Math
 
-The geographic data surprised me the most. The premium isn't evenly distributed across the country.
+The geographic data tells an important story. The premium isn't evenly distributed across the country.
 
 A Fannie Mae analysis and work from [the National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) both found that high-electricity-rate states show the largest solar premiums. It's straightforward: a solar system in Massachusetts, where residential power costs around 25 cents per kilowatt-hour, saves more money annually than the identical system in Louisiana at 11 cents. Buyers understand this. Higher savings means higher value.
 
@@ -91,7 +91,7 @@ If you're buying a home with existing solar, ask for monitoring data. Most moder
 
 ## What Buyers Actually Pay For
 
-Here's my honest assessment: buyers don't pay a premium for solar as technology. They pay for electricity cost certainty.
+Buyers do not pay a premium for solar as technology. They pay for electricity cost certainty.
 
 The real hook isn't "we have panels." It's "our electric bill was $38 a month last year, here's proof." That's what makes buyers lean forward. A $400 annual bill versus $2,400? That translates directly into monthly cash flow and mortgage payment math.
 

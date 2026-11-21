@@ -104,7 +104,7 @@ Getting from "thinking about solar" to "credit claimed on my taxes" takes more w
 
 5. **Use a solar loan if you need financing.** With a loan you own the system immediately and claim the full ITC. Many homeowners use their year-one tax credit refund to pay down loan principal, which dramatically improves payback periods. Check the [how long to pay off solar panels](/how-long-to-pay-off-solar-panels/) page to see how different financing options affect your timeline.
 
-6. **File IRS Form 5695 with your tax return.** This is the residential energy credit form. Your accountant should handle it, but double-check they're actually including it. I've heard from people whose CPAs completely missed it because they weren't familiar with solar incentives.
+6. **File IRS Form 5695 with your tax return.** This is the residential energy credit form. Your accountant should handle it, but double-check they're actually including it. Tax preparers unfamiliar with solar incentives sometimes miss this form entirely, so it is worth confirming it is included.
 
 7. **Keep all documentation.** Save your installation invoice, utility approval letter, and payment proof. The IRS might ask.
 
@@ -116,7 +116,7 @@ The credit could get extended past 2035. It could also get cut sooner given toda
 
 States add their own layer of incentives. California, Florida, and Texas each have their own programs on top of the federal credit. A California homeowner can potentially stack the 30% ITC with net energy metering credits and local utility rebates. If you're in one of those states, the breakdowns at [solar incentives California 2026](/solar-incentives-california-2026/), [solar incentives Florida 2026](/solar-incentives-florida-2026/), and [solar incentives Texas 2026](/solar-incentives-texas-2026/) will refine your cost math.
 
-Here's what I want you to hear: the credit doesn't vanish tomorrow. There's no emergency. But "I've got until 2032" has a way of becoming "I missed the deadline" faster than expected, especially as more people realize the timeline and installations get backed up.
+The credit does not vanish tomorrow. There's no emergency. But "I've got until 2032" has a way of becoming "I missed the deadline" faster than expected, especially as more people realize the timeline and installations get backed up.
 
 ---
 

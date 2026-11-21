@@ -63,7 +63,7 @@ Here's what installers often bury: [net metering policies](/net-metering-savings
 
 You deserve honest benchmarks, not the optimistic projections on a solar company's brochure.
 
-[The National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) shows average payback periods for residential solar ranging from 6 to 12 years depending on local rates and sun availability. That range matches what I see in practice.
+[The National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) shows average payback periods for residential solar ranging from 6 to 12 years depending on local rates and sun availability. That range reflects real-world outcomes across a wide variety of installations.
 
 | Scenario | System Cost (After ITC) | Annual Savings | Payback Period |
 |---|---|---|---|
@@ -72,7 +72,7 @@ You deserve honest benchmarks, not the optimistic projections on a solar company
 | Low-rate state (LA, 11¢/kWh) | $16,100 | ~$1,065 | ~15 years |
 | High-rate + poor sun (Pacific NW) | $16,100 | ~$1,800 | ~9 years |
 
-That low-rate scenario deserves hard scrutiny. If you're in a state with cheap electricity and mediocre sun, solar's financial case weakens significantly. A 15-year payback on a 25-year system technically works, but you're absorbing weather risk, equipment risk, and the possibility of policy shifts over that entire window. I've advised clients in some Southeastern states to wait until rates climb or battery economics improve.
+That low-rate scenario deserves hard scrutiny. If you're in a state with cheap electricity and mediocre sun, solar's financial case weakens significantly. A 15-year payback on a 25-year system technically works, but you're absorbing weather risk, equipment risk, and the possibility of policy shifts over that entire window. Homeowners in some Southeastern states are often better served by waiting until rates climb or battery economics improve.
 
 One thing that consistently gets underestimated: electricity rates rise. Historically they've climbed about 2-3% per year. Every year your utility charges more, your solar savings grow larger. A system saving $1,500 in year one might save $2,100 in year 15. That makes the payback period look a lot better in hindsight.
 
@@ -92,7 +92,7 @@ You don't need a sales appointment to run your own numbers. This takes about 20 
 
 **Step 6: Calculate payback.** Divide your net out-of-pocket cost by annual savings. Simple payback period.
 
-Once your system is installed, track production with a home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor) (Amazon affiliate link, we may earn a commission). You see real-time solar production and home consumption in one app. It's one of the best $150 purchases my clients make alongside their panels.
+Once your system is installed, track production with a home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor) (Amazon affiliate link, we may earn a commission). You see real-time solar production and home consumption in one app. It is one of the most practical $150 purchases a homeowner can make alongside their panels.
 
 ## Hidden Costs and Honest Downsides
 

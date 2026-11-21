@@ -30,7 +30,7 @@ faqs:
 
 You might be wondering: what does EPC even mean for a homeowner? Isn't that a commercial construction term? Partly. But as residential solar systems get larger, as [battery storage](/solar-battery-storage-tax-credit/) gets added, and as more homeowners do ground mounts or multi-structure installs, the line between "residential installer" and "EPC contractor" has blurred considerably. For example, a homeowner might receive a quote from what appears to be a local company, only to discover the contract contains EPC language throughout, with the actual installation subcontracted to multiple crews.
 
-Here's what I tell people: the distinction matters because it changes who's accountable, how fast the project moves, and often, how much you pay.
+The distinction matters because it changes who's accountable, how fast the project moves, and often, how much you pay.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">EPC contractors handle design, equipment procurement, and installation under one contract; local installers may or may not do all three.</li><li style="margin:5px 0">EnergySage data shows local installers average $2.85/watt; national EPC-style contractors often quote $3.10–$3.50/watt for the same system.</li><li style="margin:5px 0">EPC firms typically carry broader insurance and stronger workmanship warranties, sometimes 10–25 years vs. 5–10 from smaller shops.</li><li style="margin:5px 0">Local installers usually pull permits faster (2–4 weeks vs. 4–8 weeks for EPC firms coordinating across regions).</li><li style="margin:5px 0">The best choice depends on system size, complexity, and whether you'll be there to manage the process yourself.</li></ul></div>
 
@@ -40,7 +40,7 @@ EPC stands for Engineering, Procurement, and Construction. In commercial and uti
 
 In residential solar, the term gets used more loosely. Some companies that call themselves EPC firms are genuinely vertically integrated: they employ licensed engineers, they buy panels by the container load at negotiated rates, and their crews are W-2 employees. Others slap "EPC" on their branding to sound more authoritative while actually outsourcing installation to local subs.
 
-I made this mistake early in my consulting practice. I recommended a firm to a client in Austin because their EPC branding and system design documentation looked impressive. Three weeks into the job, it became clear their "installation team" was a local subcontractor they'd hired off a lead marketplace. Communication broke down, the interconnection application got filed late, and my client waited 14 weeks from signed contract to system-on. That's not the EPC experience they were sold.
+ For example, a homeowner might select a firm based on impressive EPC branding and system design documentation. Three weeks into the job, it can become clear that the "installation team" is a local subcontractor hired off a lead marketplace. Communication breaks down, the interconnection application gets filed late, and the homeowner waits 14 weeks from signed contract to system-on. That is not the EPC experience the homeowner was sold.
 
 So when you're evaluating any company calling itself an EPC contractor, ask one question directly: "Are your installation crews your own employees or subcontractors?" The answer tells you everything.
 
@@ -52,11 +52,11 @@ Here's what the data shows. According to the [National Renewable Energy Laborato
 
 EnergySage's marketplace data (current as of August 2026) shows the national average installer quote at about $2.85 per watt before incentives for a standard 8–10 kW system. EPC-style national contractors frequently come in 8–20% higher. On a 10 kW system, that's a $2,500–$5,250 difference before the federal [tax credit](/federal-solar-tax-credit-expiration/) applies.
 
-The downside is real, though. Smaller local shops have failed at higher rates during economic downturns. If a local installer goes out of business three years after your install, their workmanship warranty is worthless. I've talked to homeowners who've had exactly this happen. The equipment warranties on the panels and inverter remain valid (SunPower, Enphase, SolarEdge all warranty directly to the homeowner), but any roof penetration or mounting workmanship issue becomes your problem.
+The downside is real, though. Smaller local shops have failed at higher rates during economic downturns. If a local installer goes out of business three years after your install, their workmanship warranty is worthless.  The equipment warranties on the panels and inverter remain valid (SunPower, Enphase, SolarEdge all warranty directly to the homeowner), but any roof penetration or mounting workmanship issue becomes your problem.
 
 ## Side-by-Side: The Numbers That Actually Matter
 
-This is where I'd tell you to pay less attention to the sales pitch and more attention to the contract terms and company fundamentals.
+Pay less attention to the sales pitch and more attention to the contract terms and company fundamentals.
 
 | Factor | Local Installer | National EPC Contractor |
 |---|---|---|
@@ -76,19 +76,19 @@ What that chart means practically: a 10 kW system through Sunrun at $3.55/watt i
 
 ## When the EPC Route Actually Makes Sense
 
-For a standard rooftop install under 15 kW on a single-family home with good sun exposure and a competent local market? I'd point most people toward a vetted local installer. The premium for a national EPC firm often doesn't buy you meaningfully better outcomes.
+For a standard rooftop install under 15 kW on a single-family home with good sun exposure and a competent local market, a vetted local installer is often the better choice. The premium for a national EPC firm often doesn't buy you meaningfully better outcomes.
 
 But there are real situations where EPC-style contractors earn their higher price.
 
 If you're doing a ground-mount system, adding a battery backup like a Tesla Powerwall 3 or Franklin Electric aAPex, installing EV chargers alongside solar, or managing a complex multi-roof property with shading complications, the engineering rigor of a true EPC firm becomes genuinely valuable. Same if you're near a utility service territory with notoriously slow interconnection timelines (I'm looking at you, certain Pacific Gas & Electric districts in California). A national EPC firm with a dedicated utility liaison team can sometimes move those applications faster than a local shop doing it for the hundredth time the hard way.
 
-A worked example from my own client work: A homeowner outside Denver wanted a 22 kW ground-mount with dual battery storage and a dedicated agricultural load. Local quotes came in all over the place, $68,000–$94,000, and two of the three local bidders had never done a ground-mount of that size. A regional EPC contractor quoted $81,500 with a 15-year workmanship warranty, a dedicated project manager, and pulled the interconnection application within 48 hours of signing. System energized in 12 weeks. That's when EPC is worth the premium.
+For example, a homeowner outside Denver might want a 22 kW ground-mount with dual battery storage and a dedicated agricultural load. Local quotes might come in all over the place, $68,000--$94,000, and two of the three local bidders may have never done a ground-mount of that size. A regional EPC contractor could quote $81,500 with a 15-year workmanship warranty, a dedicated project manager, and pull the interconnection application within 48 hours of signing. In a scenario like this, the system could be energized in 12 weeks. That is when EPC is worth the premium.
 
-Contrast that with a client in Raleigh: 9.6 kW rooftop, simple south-facing roof, Duke Energy territory. Local installer quoted $26,400. National EPC firm quoted $31,200. Local installer finished in 7 weeks, the crew foreman texted her personally when the inspection passed. She saved $4,800 and had a better experience. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) actually recommends getting at least three quotes for exactly this reason.
+Contrast that with a simpler case: a 9.6 kW rooftop install on a simple south-facing roof in Duke Energy territory. A local installer might quote $26,400. A national EPC firm might quote $31,200. A local installer in this situation can finish in 7 weeks, with the crew foreman reaching out personally when the inspection passes. The homeowner saves $4,800 and often has a better experience. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) actually recommends getting at least three quotes for exactly this reason.
 
 ## How to Actually Vet Either Type
 
-Don't rely solely on the Better Business Bureau rating. Companies with top ratings can still deliver poor installations. Here's the process I walk my clients through, regardless of installer type:
+Don't rely solely on the Better Business Bureau rating. Companies with top ratings can still deliver poor installations. Here is a recommended process for vetting any installer type:
 
 Start with the contractor's license number. Every state has a lookup tool. Verify it's current and check for any disciplinary actions. Then pull their electrical contractor license separately (solar requires both in most states). Ask for the name of the licensed electrician who will sign off on your interconnection paperwork.
 

@@ -69,7 +69,7 @@ None of these options are particularly clean. Renewal just extends a contract yo
 
 ## The Home Sale Complication
 
-This is the real complaint I hear from PPA owners who regret signing.
+This is the most common complaint from PPA owners who regret signing.
 
 When you sell, you either transfer the contract to the buyer (they have to qualify creditwise, and many deals stall because buyers don't want a 25-year energy obligation) or pay it off completely. That buyout can run $10,000 to $20,000 on a contract you're halfway through.
 
@@ -127,7 +127,6 @@ A PPA isn't automatically a bad deal. For homeowners who can't use the tax credi
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

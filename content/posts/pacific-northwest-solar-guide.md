@@ -28,7 +28,7 @@ faqs:
 
 Most solar coverage about the Pacific Northwest makes the same mistake: it leads with sunshine maps that show the region as a gray wasteland, scares people off, and stops there. That's wrong, and the numbers prove it.
 
-Seattle gets roughly 2,080 hours of daylight per year. [Solar panels](/can-solar-panels-power-a-whole-house-off-grid/) don't run on direct sunshine alone; they run on daylight, and modern monocrystalline panels are genuinely efficient in diffuse, overcast conditions. Germany, which produces more solar energy per capita than almost anywhere on earth, gets *less* annual sun than Portland. I've walked through that comparison with dozens of skeptical homeowners in the Willamette Valley, and it's the single fact that changes minds fastest.
+Seattle gets roughly 2,080 hours of daylight per year. [Solar panels](/can-solar-panels-power-a-whole-house-off-grid/) don't run on direct sunshine alone; they run on daylight, and modern monocrystalline panels are genuinely efficient in diffuse, overcast conditions. Germany, which produces more solar energy per capita than almost anywhere on earth, gets *less* annual sun than Portland. That comparison is often the single fact that changes skeptical homeowners' minds fastest.
 
 The real variables in the Pacific Northwest aren't cloud cover. They're your roof angle, your utility's [net metering policy](/net-metering-policy-by-state/), and whether you qualify for the state-specific incentives that most installers underplay because they're complicated to explain in a sales pitch.
 
@@ -60,7 +60,7 @@ Here's the current situation, as of August 2026:
 | Seattle City Light | Net metering | ~$0.10/kWh | 100% of load | Rate differential small; payback is longer |
 | Pacific Northwest Utilities (rural PUDs) | Varies widely | $0.03-$0.09/kWh | Varies | Some only offer avoided-cost credits |
 
-That third column matters more than any other number in this article. If your utility credits excess generation at avoided-cost rates ($0.03 to $0.05 per kWh) instead of retail rates ($0.10 to $0.12), your financial model collapses. I've reviewed proposals where installers built a full retail-rate projection for customers served by a rural PUD that only pays avoided cost. The homeowner was looking at an 18-year payback, not 10. Know your utility before you sign anything.
+That third column matters more than any other number in this article. If your utility credits excess generation at avoided-cost rates ($0.03 to $0.05 per kWh) instead of retail rates ($0.10 to $0.12), your financial model collapses. Installers have been known to build full retail-rate projections for customers served by a rural PUD that only pays avoided cost. The homeowner was looking at an 18-year payback, not 10. Know your utility before you sign anything.
 
 Check your utility's interconnection queue, too. PSE in particular has had significant delays this year.
 
@@ -82,7 +82,7 @@ South-facing roofs at a 30 to 40-degree pitch are ideal. You already knew that. 
 
 Shading is the killer. Douglas firs are beautiful. They will also destroy your production numbers. One fully shaded panel on a string inverter can drag down the entire array. If you have significant tree shading, the answer is microinverters (Enphase IQ8 series is the dominant choice in the market right now, running about $150 to $200 per unit installed) or a DC optimizer system like SolarEdge. The added cost, typically $800 to $1,500 more than a string inverter setup, almost always pays back in recovered production in shaded PNW conditions.
 
-I made the mistake early in my career of approving a string inverter proposal for a client on a wooded lot in Lake Oswego. First-year production was 22% below the model. The fix cost more than doing it right would have. If you have trees anywhere near your roof, ask specifically about panel-level electronics and don't let a salesperson wave that question away.
+For example, a string inverter installed for a homeowner on a wooded lot in Lake Oswego can result in first-year production running 22% below the model.  The fix typically costs more than doing it right from the start. If you have trees anywhere near your roof, ask specifically about panel-level electronics and don't let a salesperson wave that question away.
 
 ## Batteries in the PNW: Honestly, The Math Is Harder
 
@@ -92,7 +92,7 @@ A Tesla Powerwall 3 runs about $11,500 to $12,500 installed in 2026. It provides
 
 Where batteries make better financial sense in the PNW: if your utility introduces time-of-use rates (PGE is piloting this) and you can charge from solar midday and discharge in the evening peak window. That arbitrage doesn't fully exist yet for most PNW customers, but it's coming.
 
-My honest take: in 2026, batteries in the Pacific Northwest are an insurance product, not a financial product. Buy one if power reliability is worth $8,000 to you. If you're primarily motivated by ROI, wait two to three years for the rate structures to catch up.
+In 2026, batteries in the Pacific Northwest are an insurance product, not a financial product. Buy one if power reliability is worth $8,000 to you. If you're primarily motivated by ROI, wait two to three years for the rate structures to catch up.
 
 ## Sources
 

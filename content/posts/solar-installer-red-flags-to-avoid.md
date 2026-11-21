@@ -18,7 +18,7 @@ Forty-seven thousand dollars. That's what one Phoenix family paid for a solar sy
 
 A lot of solar advice focuses on the exciting stuff: your potential savings, the 30% federal tax credit, grid independence. The industry does have a serious bad-actor problem that deserves attention. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has been pushing for stronger installer standards for years precisely because consumer complaints keep climbing alongside the market's growth.
 
-So let me tell you what I actually tell people when they sit down with me and say they've just gotten a quote.
+Here is what every homeowner should know before sitting down with a quote.
 
 ## The Pressure to Sign Tonight
 
@@ -34,7 +34,7 @@ This one is the most common red flag, and it's also the one people rationalize a
 
 None of that is real. Not the deadline, not the slot, not the urgency. Reputable installers will tell you to take your time. The good ones actually prefer it, because they know their quote will hold up to comparison. When a salesperson is manufacturing urgency, ask yourself why. The answer is almost always that the quote doesn't hold up.
 
-I had a reader email me last spring who signed the same night a salesperson came to her door in Sacramento. She was in her mid-60s, on a fixed income, and she was told the deal would expire at midnight. Her contract included a $4,500 system performance guarantee that, buried in the fine print, required her to file paperwork within 10 days of any underperformance. She didn't know that. These details hide easily when you're signing under pressure.
+For example, consider a homeowner who signed the same night a salesperson came to her door. She was in her mid-60s, on a fixed income, and was told the deal would expire at midnight. Her contract included a $4,500 system performance guarantee that, buried in the fine print, required her to file paperwork within 10 days of any underperformance. She didn't know that. These details hide easily when you're signing under pressure.
 
 If any installer gives you a hard deadline to sign, thank them for their time and walk away.
 
@@ -42,7 +42,7 @@ If any installer gives you a hard deadline to sign, thank them for their time an
 
 Here's what I tell people to look for in any legitimate solar quote: a specific, annualized kilowatt-hour production estimate for your roof. Not "you'll save a lot" or "this system will cover most of your usage." An actual number, like 9,400 kWh per year, ideally generated using [PVWatts](https://pvwatts.nrel.gov/) or a comparable modeling tool.
 
-If an installer can't show you how they got to their production estimate, that's a problem. Your payback period calculation is only as good as the production estimate underneath it. Overstate production by 20% and suddenly a 9-year payback becomes 11 years. I've seen estimates inflated by 30% or more, usually on systems being quoted at a premium price, to make the return look better than it actually is.
+If an installer can't show you how they got to their production estimate, that's a problem. Your payback period calculation is only as good as the production estimate underneath it. Overstate production by 20% and suddenly a 9-year payback becomes 11 years. Installers have been known to inflate estimates by 30% or more, usually on systems quoted at a premium price, to make the return look better than it actually is.
 
 EnergySage's national data consistently shows that homeowners who [get multiple quotes](/how-to-get-multiple-solar-quotes/) save an average of $5,000 to $10,000 on system cost. Part of that variance is pure price gouging. Part of it is production estimates that don't reflect reality.
 
@@ -66,7 +66,7 @@ If someone is pitching you "free solar panels" with no money down and big monthl
 
 That escalator clause is where people get hurt. A 2.9% annual price escalator sounds small. Over 20 years, it means you're paying nearly twice as much per kWh at the end of the contract as you were at the start. And if your utility rate doesn't keep pace, or if you want to sell your house, you'll either be paying a buyout fee or convincing your buyer to assume the lease, which many buyers' lenders won't allow.
 
-I'm not saying leases are always wrong for everyone. If you truly can't qualify for a loan, have no federal tax liability to absorb the credit, and have a roof in perfect condition, a lease might be your only path to any savings. But anyone who presents a lease as unambiguously better than ownership is either uninformed or not working in your interest.
+Leases are not always wrong for everyone. If you truly can't qualify for a loan, have no federal tax liability to absorb the credit, and have a roof in perfect condition, a lease might be your only path to any savings. But anyone who presents a lease as unambiguously better than ownership is either uninformed or not working in your interest.
 
 ## The Equipment Bait-and-Switch
 
