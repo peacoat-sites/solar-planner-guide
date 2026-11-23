@@ -4,7 +4,7 @@ date: 2026-11-19T16:32:19.773060+00:00
 draft: false
 description: "Learn what solar panel insurance and warranties actually cover, including 10-25 year protections and common coverage gaps homeowners miss."
 image: "/img/heroes/38021376.jpg"
-categories: ["Costs & ROI"]
+categories: ["Solar Costs & Savings"]
 tags: ["solar", "panel", "insurance", "warranty", "guide"]
 author: "Craig Stevens"
 author_slug: "craig-stevens"
