@@ -28,7 +28,7 @@ faqs:
 
 Most people who plug their address into a solar savings calculator walk away thinking they understand what they're about to save. I'll be honest: most of them are wrong, and the calculator is often part of the problem.
 
-I've watched homeowners make $30,000 decisions based on a number that took 45 seconds to generate. I've also seen people dismiss solar entirely because a poorly built tool spat out a [payback period](/solar-payback-period-calculator/) of 19 years when the real number was closer to 8. Solar savings calculators can be genuinely powerful. They can also mislead you in ways that don't become obvious until year three of ownership, when your actual bill looks nothing like what the tool promised.
+I've watched homeowners make $30,000 decisions based on a number that took 45 seconds to generate. I've also seen people dismiss solar entirely because a poorly built tool spat out a [payback period](/how-long-to-pay-off-solar-panels/) of 19 years when the real number was closer to 8. Solar savings calculators can be genuinely powerful. They can also mislead you in ways that don't become obvious until year three of ownership, when your actual bill looks nothing like what the tool promised.
 
 So let me walk you through what's actually going on inside these calculators, where they reliably go wrong, and how to use one in a way that produces a number you can actually trust.
 
@@ -36,7 +36,7 @@ So let me walk you through what's actually going on inside these calculators, wh
 
 ## What a Solar Calculator Is Actually Doing
 
-Under the hood, every solar savings calculator is running the same basic math. It estimates how much electricity a solar array of a given size would produce at your location, then multiplies that production by your cost [per kilowatt](/solar-panel-price-per-kilowatt/)-hour, then applies whatever incentives it knows about. The result is an annual savings figure, and from there it extrapolates a payback period and lifetime value.
+Under the hood, every solar savings calculator is running the same basic math. It estimates how much electricity a solar array of a given size would produce at your location, then multiplies that production by your cost [per kilowatt](/solar-panel-cost-per-watt/)-hour, then applies whatever incentives it knows about. The result is an annual savings figure, and from there it extrapolates a payback period and lifetime value.
 
 The inputs that drive accuracy are your location (specifically, your roof's solar irradiance, which varies a lot even within a single zip code), your roof's tilt and azimuth, the panel efficiency assumed, your current electricity rate, and your utility's [net metering policy](/net-metering-policy-by-state/). Mess up any one of those, and the output drifts.
 

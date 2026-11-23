@@ -65,7 +65,7 @@ Let me put the numbers side by side, because this is where it gets concrete.
 
 What this table tells you practically: if you have a 10 kW system today, SunPower's warranty guarantees you'll have at least 9.2 kW of capacity in 2051. A budget panel might only guarantee 7 kW. Over 25 years, that gap compounds into thousands of dollars of lost production.
 
-Scenario example: A homeowner in Phoenix installs a 10 kW system in 2026. They choose budget panels with a 70% output guarantee at year 25. A neighbor installs the same [size system](/solar-roi-without-the-tax-credit-how-to-size-your-system-now/) with panels guaranteeing 92% at year 25. At an average retail rate of $0.14/kWh (conservative for Arizona), that 2.2 kW difference in guaranteed output translates to roughly $2,700 in lost electricity value over the life of the system, assuming the same sun hours. And that's the guaranteed floor, not the average outcome.
+Scenario example: A homeowner in Phoenix installs a 10 kW system in 2026. They choose budget panels with a 70% output guarantee at year 25. A neighbor installs the same [size system](/how-to-size-your-solar-system-when-the-roi-math-has-changed/) with panels guaranteeing 92% at year 25. At an average retail rate of $0.14/kWh (conservative for Arizona), that 2.2 kW difference in guaranteed output translates to roughly $2,700 in lost electricity value over the life of the system, assuming the same sun hours. And that's the guaranteed floor, not the average outcome.
 
 ## The Installer Warranty Nobody Reads
 

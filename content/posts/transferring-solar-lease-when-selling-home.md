@@ -27,13 +27,13 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You're three weeks from closing on your house sale, the buyers are excited, and then your real estate agent drops a bomb: the solar panels on your roof aren't yours. You've been paying a monthly lease to a solar company for the past six years, and now that lease has to go somewhere. The buyers didn't budget for it, they don't fully understand it, and your closing date is suddenly in jeopardy. This situation can derail home sales, but it's almost always preventable if you know what's coming.
 
-Transferring a [solar lease](/is-solar-lease-worth-it/) is one of the most misunderstood parts of selling a solar home. It's not like transferring a warranty. It involves a third-party financing company, a credit check on your buyers, and paperwork timelines that do not care about your closing date. Here's what you actually need to know.
+Transferring a [solar lease](/solar-lease-vs-buying-which-is-better/) is one of the most misunderstood parts of selling a solar home. It's not like transferring a warranty. It involves a third-party financing company, a credit check on your buyers, and paperwork timelines that do not care about your closing date. Here's what you actually need to know.
 
 ---
 
 ## What a Solar Lease Actually Is (And Why It Complicates a Sale)
 
-When you leased your solar panels, you didn't buy the equipment. A [solar financing company](/best-solar-financing-options/), often names like Sunrun, SunPower, or Tesla Energy, owns those panels. They sit on your roof, but they're not yours. Your lease is a contract, typically 20 to 25 years long, that requires you to either pay a monthly fee or let the company sell electricity back to you at a set rate.
+When you leased your solar panels, you didn't buy the equipment. A [solar financing company](/solar-loan-vs-solar-lease-vs-ppa/), often names like Sunrun, SunPower, or Tesla Energy, owns those panels. They sit on your roof, but they're not yours. Your lease is a contract, typically 20 to 25 years long, that requires you to either pay a monthly fee or let the company sell electricity back to you at a set rate.
 
 That contract doesn't disappear when you sell your house. The panels are attached to the property, which means the lease obligation has to be resolved at closing. You have three basic options: transfer the lease to the buyer, buy out the lease before selling, or have the panels removed. Most sellers go the transfer route, but it's rarely as simple as signing a form.
 

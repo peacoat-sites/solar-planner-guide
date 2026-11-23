@@ -28,7 +28,7 @@ faqs:
 
 [Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) I talk to can tell me their panel's wattage within about five seconds. Ask them about efficiency, though, and you get a pause, a guess somewhere between 15% and 25%, and then: "Does it actually matter that much?"
 
-It matters more than the wattage number does, honestly. Wattage is a product of efficiency and panel size, so a 400W panel can be either a reasonably sized unit running at 22% efficiency or a bigger panel doing the same job at 18%. Same output, different footprint, different [cost per](/solar-panel-cost-per-watt-2026/) usable square foot on your roof. Homeowners with limited south-facing roof space can end up with a system that doesn't fit enough panels to cover their bill if they don't realize their installer has quoted a lower-efficiency product.
+It matters more than the wattage number does, honestly. Wattage is a product of efficiency and panel size, so a 400W panel can be either a reasonably sized unit running at 22% efficiency or a bigger panel doing the same job at 18%. Same output, different footprint, different [cost per](/solar-panel-cost-per-watt/) usable square foot on your roof. Homeowners with limited south-facing roof space can end up with a system that doesn't fit enough panels to cover their bill if they don't realize their installer has quoted a lower-efficiency product.
 
 Let me walk you through what these numbers actually mean, where they come from, and when they're worth paying a premium for.
 

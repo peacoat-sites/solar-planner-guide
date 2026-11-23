@@ -57,7 +57,7 @@ New York switched to a modified net metering structure called "Value of Distribu
 
 Under full retail net metering, when your system overproduces in May (and it will), those credits offset what you draw at night or in winter, roughly dollar for dollar. That's a significant financial benefit, and it's why New York systems can still achieve payback periods of 6 to 9 years on a cash purchase, according to data from EnergySage's New York market reports.
 
-The thing to watch: [VDER (sometimes called "net billing")](/california-nem-30-explained/) has been expanding, and some new applicants in certain utility territories are now receiving it instead of traditional net metering. VDER typically values your exported energy at less than the retail rate, which stretches your payback period. Before you sign anything, ask your installer directly: will I receive full retail net metering or VDER? Get it in writing. This one question can change your 20-year financial model by thousands of dollars.
+The thing to watch: [VDER (sometimes called "net billing")](/solar-panels-in-california-nem-30/) has been expanding, and some new applicants in certain utility territories are now receiving it instead of traditional net metering. VDER typically values your exported energy at less than the retail rate, which stretches your payback period. Before you sign anything, ask your installer directly: will I receive full retail net metering or VDER? Get it in writing. This one question can change your 20-year financial model by thousands of dollars.
 
 ## What a Real New York Solar Quote Looks Like
 

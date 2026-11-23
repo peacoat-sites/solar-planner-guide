@@ -36,7 +36,7 @@ The standalone battery rule can seem complex at first glance. There is one, sort
 
 ## The Federal ITC: What the Numbers Actually Mean
 
-A [tax credit](/solar-roi-without-the-tax-credit-how-to-size-your-system-now/) and a tax deduction are not the same thing, and conflating them is the single most expensive mistake I see homeowners make in their planning. A deduction reduces your taxable income. A credit reduces your actual tax liability. If you owe $8,000 in federal taxes this year and claim a $5,000 battery credit, you pay $3,000. Full stop.
+A [tax credit](/how-to-size-your-solar-system-when-the-roi-math-has-changed/) and a tax deduction are not the same thing, and conflating them is the single most expensive mistake I see homeowners make in their planning. A deduction reduces your taxable income. A credit reduces your actual tax liability. If you owe $8,000 in federal taxes this year and claim a $5,000 battery credit, you pay $3,000. Full stop.
 
 What surprised me when I went deep on this: the ITC is also refundable across multiple years under certain conditions. If your credit exceeds your tax liability in year one, you can carry the excess forward. So if your credit is $7,500 but you only owe $5,000, you don't lose $2,500. You roll it into next year. This is huge for people who are retired or had a low-income year.
 

@@ -1,6 +1,6 @@
-/solar-panel-payback-period-calculator  /solar-payback-period-calculator/  301
-/federal-solar-tax-credit-2026-explained/ /federal-solar-tax-credit/ 301
-/federal-solar-tax-credit-2026/ /federal-solar-tax-credit/ 301
+/solar-panel-payback-period-calculator /how-long-to-pay-off-solar-panels/ 301
+/federal-solar-tax-credit-2026-explained/ /itc-solar-investment-tax-credit-explained/ 301
+/federal-solar-tax-credit-2026/ /itc-solar-investment-tax-credit-explained/ 301
 
 # 2026-07-17 slug-change 301s (GSC 404 cleanup)
 /best-home-battery-2026/ /best-home-battery/ 301
@@ -14,7 +14,7 @@
 /solar-loan-interest-rates-2026/ /solar-loan-interest-rates/ 301
 /solar-panel-brand-comparison-2026/ /solar-panel-brand-comparison/ 301
 /solar-panel-cost-per-watt-2026/ /solar-panel-cost-per-watt/ 301
-/solar-panel-payback-period-calculator/ /solar-payback-period-calculator/ 301
+/solar-panel-payback-period-calculator/ /how-long-to-pay-off-solar-panels/ 301
 /tesla-powerwall-cost-2026/ /tesla-powerwall-cost/ 301
 
 # 2026-07-18 structural cleanup 301s
@@ -31,3 +31,47 @@
 /categories/is-solar-worth-it/ /categories/solar-costs--savings/ 301
 /categories/maintenance/ /categories/solar-installation/ 301
 /categories/off-grid/ /categories/home-battery-storage/ 301
+/battery-as-a-service-should-solar-owners-subscribe-instead-of-buy/ /battery-as-a-service-what-the-new-0-down-storage-leases-mean-for-solar/ 301
+/battery-subscriptions-for-solar-homes-what-the-new-lease-plans-offer/ /battery-as-a-service-what-the-new-0-down-storage-leases-mean-for-solar/ 301
+/solar-battery-backup-during-power-outage/ /solar-battery-backup-for-power-outages/ 301
+/federal-solar-tax-credit/ /itc-solar-investment-tax-credit-explained/ 301
+/federal-solar-tax-credit-expiration/ /itc-solar-investment-tax-credit-explained/ 301
+/does-solar-increase-home-value/ /how-much-do-solar-panels-increase-home-value/ 301
+/how-many-kwh-does-solar-panel-produce/ /how-many-kwh-does-a-solar-panel-produce-per-day/ 301
+/how-many-solar-panels-do-i-need/ /how-many-solar-panels-to-power-a-house/ 301
+/how-to-finance-solar-panels-with-no-money-down/ /zero-down-solar-financing-options/ 301
+/microinverters-vs-string-inverter/ /microinverters-vs-string-inverters/ 301
+/net-metering-is-being-rewritten-state-by-state-in-2026/ /net-metering-changes-by-state/ 301
+/the-50-state-net-metering-meltdown-what-homeowners-must-do-now/ /net-metering-changes-by-state/ 301
+/what-is-net-metering-and-how-does-it-work/ /net-metering-savings-explained/ 301
+/plug-in-balcony-solar-is-now-legal-in-your-state-now-what/ /plug-in-balcony-solar-is-now-legal-in-10-states-what-it-means-for-rent/ 301
+/plug-in-solar-for-renters-what-the-new-state-laws-mean-for-you/ /plug-in-balcony-solar-is-now-legal-in-10-states-what-it-means-for-rent/ 301
+/plug-in-solar-is-now-legal-in-8-states-what-homeowners-need-to-know/ /plug-in-balcony-solar-is-now-legal-in-10-states-what-it-means-for-rent/ 301
+/solar-roi-without-the-30-tax-credit-how-to-recalculate-now/ /how-to-size-your-solar-system-when-the-roi-math-has-changed/ 301
+/solar-roi-without-the-30-tax-credit-what-the-numbers-look-like-now/ /how-to-size-your-solar-system-when-the-roi-math-has-changed/ 301
+/solar-roi-without-the-tax-credit-how-to-size-your-system-now/ /how-to-size-your-solar-system-when-the-roi-math-has-changed/ 301
+/how-to-size-a-solar-system-when-the-tax-credit-is-gone/ /how-to-size-your-solar-system-when-the-roi-math-has-changed/ 301
+/solaredge-nexis-is-now-available-in-the-us-what-it-means-for-your-syst/ /solaredge-nexis-just-hit-the-us-what-it-means-for-your-system-size/ 301
+/solaredge-nexis-lands-in-the-us-what-it-means-for-storage-sizing/ /solaredge-nexis-just-hit-the-us-what-it-means-for-your-system-size/ 301
+/the-prepaid-solar-lease-explained-how-the-6-year-flip-works/ /the-prepaid-solar-lease-is-now-the-smartest-way-to-go-solar/ 301
+/solar-prepaid-leases-the-last-federal-credit-window-closes-now/ /the-prepaid-solar-lease-is-now-the-smartest-way-to-go-solar/ 301
+/what-homeowners-must-know-about-feoc-panel-rules-right-now/ /what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/ 301
+/solar-panel-installation-timeline-what-to-expect/ /solar-installation-timeline-how-long/ 301
+/solar-lease-vs-buy-cost-comparison/ /solar-lease-vs-buying-which-is-better/ 301
+/is-solar-lease-worth-it/ /solar-lease-vs-buying-which-is-better/ 301
+/solar-panel-price-per-kilowatt/ /solar-panel-cost-per-watt/ 301
+/solar-panels-worth-it-financially/ /solar-cost-vs-electricity-bill-savings/ 301
+/solar-payback-period-calculator/ /how-long-to-pay-off-solar-panels/ 301
+/solar-payback-period-explained/ /how-long-to-pay-off-solar-panels/ 301
+/solar-panel-roi-calculation/ /how-long-to-pay-off-solar-panels/ 301
+/how-to-size-a-solar-battery-bank/ /solar-battery-sizing-calculator/ 301
+/california-nem-30-explained/ /solar-panels-in-california-nem-30/ 301
+/ev-charging-and-solar-panels-home/ /solar-panels-and-electric-vehicle-charging/ 301
+/solar-power-purchase-agreement-explained/ /solar-ppa-pros-and-cons/ 301
+/best-solar-financing-options/ /solar-loan-vs-solar-lease-vs-ppa/ 301
+/home-battery-storage-options-compared/ /best-home-battery/ 301
+/solar-battery-storage-worth-it/ /solar-with-battery-storage-vs-without/ 301
+/is-it-worth-adding-a-battery-to-solar/ /solar-with-battery-storage-vs-without/ 301
+/solar-panel-efficiency-comparison-by-type/ /solar-panel-efficiency-ratings-explained/ 301
+/how-to-choose-a-solar-installer/ /solar-installer-red-flags-to-avoid/ 301
+/solar-leases-after-the-july-4-deadline-what-changes-now/ /solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system/ 301

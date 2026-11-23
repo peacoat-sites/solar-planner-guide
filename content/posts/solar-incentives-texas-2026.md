@@ -35,7 +35,7 @@ Through 2032, the ITC lets you claim 30% of your total system cost as a direct c
 
 You need enough federal tax liability to absorb the credit. If you only owe $3,000 in federal taxes in year one, you don't lose the remaining $5,400. You carry it forward to the next tax year. But if you're retired on Social Security with minimal taxable income, the credit may not help you much. In this situation, some installers may not mention the limitation upfront.
 
-For a full breakdown of how this works, including how to claim it correctly, check out [this detailed guide to the federal solar tax credit for 2026](/federal-solar-tax-credit-2026/).
+For a full breakdown of how this works, including how to claim it correctly, check out [this detailed guide to the federal solar tax credit for 2026](/itc-solar-investment-tax-credit-explained/).
 
 ## Texas State-Level Incentives: What Actually Exists
 

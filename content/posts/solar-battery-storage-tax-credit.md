@@ -69,7 +69,7 @@ The 30% rate is locked in through 2032. Then it steps down to 26% in 2033 and 22
 
 Congress could change that. I'll be direct: the political environment around clean energy incentives is genuinely uncertain. There have been discussions about modifying or speeding up the phase-out. If you're sitting on the fence and the credit matters to your finances, waiting until 2034 is a bet I wouldn't take.
 
-[Federal Solar Tax Credit 2026](/federal-solar-tax-credit-2026/) on this site has the most current near-term details, and [Federal Solar Tax Credit Expiration](/federal-solar-tax-credit-expiration/) lays out the longer-term picture before you lock in your timeline.
+[Federal Solar Tax Credit 2026](/itc-solar-investment-tax-credit-explained/) on this site has the most current near-term details, and [Federal Solar Tax Credit Expiration](/itc-solar-investment-tax-credit-explained/) lays out the longer-term picture before you lock in your timeline.
 
 ## State-Level Battery Incentives That Stack on Top
 
@@ -83,7 +83,7 @@ The federal credit is the biggest single incentive. It's not the only one. Sever
 
 **Florida** exempts solar equipment from both sales tax and property tax increases. No money in your pocket upfront, but your tax bill won't climb after installation.
 
-For state specifics, check [Solar Incentives California 2026](/solar-incentives-california-2026/), [Solar Incentives New York 2026](/solar-incentives-new-york-2026/), [Solar Incentives Texas 2026](/solar-incentives-texas-2026/), or [Solar Incentives Florida 2026](/solar-incentives-florida-2026/).
+For state specifics, check [Solar Incentives California 2026](/solar-incentives-california/), [Solar Incentives New York 2026](/solar-incentives-new-york/), [Solar Incentives Texas 2026](/solar-incentives-texas/), or [Solar Incentives Florida 2026](/solar-incentives-florida/).
 
 ## How to Claim the Credit: A Practical Step-by-Step
 

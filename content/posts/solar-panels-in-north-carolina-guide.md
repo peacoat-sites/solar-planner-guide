@@ -36,7 +36,7 @@ What most coverage glosses over: North Carolina's retail electricity rates are c
 
 ## What Solar Actually Costs in North Carolina Right Now
 
-As of August 2026, the average installed cost for residential solar in North Carolina runs between $2.50 and $3.20 [per watt](/solar-panel-cost-per-watt-2026/) before incentives, based on EnergySage's current market data for the state. A typical 10 kW system lands between $25,000 and $32,000 before any credits.
+As of August 2026, the average installed cost for residential solar in North Carolina runs between $2.50 and $3.20 [per watt](/solar-panel-cost-per-watt/) before incentives, based on EnergySage's current market data for the state. A typical 10 kW system lands between $25,000 and $32,000 before any credits.
 
 The federal Residential Clean [Energy Credit](/srec-solar-renewable-energy-credit/) remains at 30% through 2032 (thank the Inflation Reduction Act for that runway). On a $28,000 system, that's $8,400 back at tax time. Not a rebate, a tax credit, so you need to actually owe that much in federal taxes to use it fully. If you don't, the unused portion carries forward to subsequent years, which most installers mention and then immediately underexplain.
 

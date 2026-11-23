@@ -50,7 +50,7 @@ Local installers get a bad rap from the big national players, and I think that's
 
 Here's what the data shows. According to the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), soft costs (permitting, interconnection, customer acquisition, overhead) account for roughly 65% of total residential solar system costs in the U.S. Local installers often have lower overhead and established relationships with local utilities and building departments. That can translate directly to faster timelines and lower prices.
 
-EnergySage's marketplace data (current as of August 2026) shows the national average installer quote at about $2.85 per watt before incentives for a standard 8–10 kW system. EPC-style national contractors frequently come in 8–20% higher. On a 10 kW system, that's a $2,500–$5,250 difference before the federal [tax credit](/federal-solar-tax-credit-expiration/) applies.
+EnergySage's marketplace data (current as of August 2026) shows the national average installer quote at about $2.85 per watt before incentives for a standard 8–10 kW system. EPC-style national contractors frequently come in 8–20% higher. On a 10 kW system, that's a $2,500–$5,250 difference before the federal [tax credit](/itc-solar-investment-tax-credit-explained/) applies.
 
 The downside is real, though. Smaller local shops have failed at higher rates during economic downturns. If a local installer goes out of business three years after your install, their workmanship warranty is worthless.  The equipment warranties on the panels and inverter remain valid (SunPower, Enphase, SolarEdge all warranty directly to the homeowner), but any roof penetration or mounting workmanship issue becomes your problem.
 

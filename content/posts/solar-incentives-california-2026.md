@@ -41,7 +41,7 @@ Battery storage stopped being optional. It's basically the whole point now.
 
 ## The Federal Tax Credit: Still the Biggest Single Incentive
 
-The [federal Investment Tax Credit](/federal-solar-tax-credit-2026/) is worth 30% of your entire system cost, including installation, equipment, and battery storage as long as the battery connects to solar or charges primarily from it. On a $25,000 system, that's $7,500 back on your federal taxes. A $35,000 system with a battery gets you $10,500.
+The [federal Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) is worth 30% of your entire system cost, including installation, equipment, and battery storage as long as the battery connects to solar or charges primarily from it. On a $25,000 system, that's $7,500 back on your federal taxes. A $35,000 system with a battery gets you $10,500.
 
 That 30% rate is locked in through 2032 under the Inflation Reduction Act. No cliff. No countdown. Congressional chatter in 2025 did introduce some uncertainty around future changes, which is exactly why a lot of homeowners are moving forward now rather than waiting. You can read the full breakdown on how to claim it in our [ITC solar investment tax credit explained](/itc-solar-investment-tax-credit-explained/) guide.
 
@@ -92,9 +92,9 @@ Incentives only matter if your system is designed correctly for NEM 3.0. Here's 
 
 **Step 3: Size the battery for peak periods.** Most California households need 10 to 13 kWh of battery to cover 4 PM to 9 PM usage with buffer. Larger homes or homes with EVs? Plan for 20+ kWh.
 
-**Step 4: Calculate actual net cost.** Total system cost minus 30% ITC minus any SGIP rebate you qualify for. Our [how much solar panels cost in 2026](/how-much-do-solar-panels-cost-2026/) guide breaks down current market pricing.
+**Step 4: Calculate actual net cost.** Total system cost minus 30% ITC minus any SGIP rebate you qualify for. Our [how much solar panels cost in 2026](/how-much-do-solar-panels-cost/) guide breaks down current market pricing.
 
-**Step 5: Run honest payback math.** California's high electricity rates plus 3% annual rate increases (conservative, given recent PG&E and SDG&E approvals) mean most well-designed systems pay back in 7 to 10 years under NEM 3.0, depending on battery and SGIP eligibility. Use a [solar payback period calculator](/solar-payback-period-calculator/) for your specific numbers.
+**Step 5: Run honest payback math.** California's high electricity rates plus 3% annual rate increases (conservative, given recent PG&E and SDG&E approvals) mean most well-designed systems pay back in 7 to 10 years under NEM 3.0, depending on battery and SGIP eligibility. Use a [solar payback period calculator](/how-long-to-pay-off-solar-panels/) for your specific numbers.
 
 **Step 6: Think through financing.** Cash or a solar loan preserves the tax credit for you. Leasing or a PPA means the installer keeps it. See the full breakdown in our [solar loan vs. solar lease vs. PPA comparison](/solar-loan-vs-solar-lease-vs-ppa/).
 

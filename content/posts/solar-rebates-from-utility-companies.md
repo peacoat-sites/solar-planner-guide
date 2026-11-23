@@ -29,7 +29,7 @@ Your neighbor mentions she got an extra $1,500 back from the electric company. Y
 
 ## What Utility Solar Rebates Actually Are (And How They Differ From Tax Credits)
 
-A utility solar rebate is a direct payment or bill credit your electric utility hands you when you install a qualifying system. The [federal Investment Tax Credit](/federal-solar-tax-credit-2026/) reduces your IRS bill, but a utility rebate puts cash in your pocket regardless of your tax situation. For retirees or anyone with low tax liability, that distinction matters enormously.
+A utility solar rebate is a direct payment or bill credit your electric utility hands you when you install a qualifying system. The [federal Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) reduces your IRS bill, but a utility rebate puts cash in your pocket regardless of your tax situation. For retirees or anyone with low tax liability, that distinction matters enormously.
 
 Rebates come in two flavors. Some utilities pay per installed watt, typically $0.10 to $0.50 per watt. A 10 kW system lands you between $1,000 and $5,000. Others offer a fixed lump sum capped at $500 or $1,500, no matter the system size. A few programs spread bill credits over time instead of writing one check.
 
@@ -112,7 +112,7 @@ California's SGIP shifted almost entirely to battery storage. Xcel's Solar*Rewar
 
 The reality: if a rebate program exists in your state today, waiting might mean losing it. This isn't fearmongering, it's documented history. The best incentive window for most people is now, not in two years.
 
-For context on solar costs and savings in your specific state before incentives, [average cost of solar installation by state](/average-cost-of-solar-installation-by-state/) is a solid starting point. Running numbers through a [solar payback period calculator](/solar-payback-period-calculator/) with and without rebates shows exactly how much that rebate accelerates your break-even.
+For context on solar costs and savings in your specific state before incentives, [average cost of solar installation by state](/average-cost-of-solar-installation-by-state/) is a solid starting point. Running numbers through a [solar payback period calculator](/how-long-to-pay-off-solar-panels/) with and without rebates shows exactly how much that rebate accelerates your break-even.
 
 ---
 

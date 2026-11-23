@@ -31,7 +31,7 @@ State solar incentives vary wildly, and most installers won't walk you through a
 
 ## Why State Incentives Matter as Much as the Federal Credit
 
-The federal Investment Tax Credit (ITC) is the headline number. In 2025, it's 30% of your total installed system cost, and you can read the full mechanics of how to claim it in our [breakdown of the federal solar tax credit for 2026](/federal-solar-tax-credit-2026/). That's meaningful, but it's the floor, not the ceiling.
+The federal Investment Tax Credit (ITC) is the headline number. In 2025, it's 30% of your total installed system cost, and you can read the full mechanics of how to claim it in our [breakdown of the federal solar tax credit for 2026](/itc-solar-investment-tax-credit-explained/). That's meaningful, but it's the floor, not the ceiling.
 
 State incentives can slash your payback period by two to five years depending on where you live. They come in several forms: direct rebates paid to you or your installer, state income tax credits that reduce your annual tax bill, property tax exemptions that prevent your home's assessed value from rising because you added solar, sales tax exemptions that knock 5-9% off the upfront equipment cost, and net metering policies that determine how much your utility pays you for excess power you push to the grid.
 
@@ -106,7 +106,7 @@ Here's a practical process I recommend to every client before they get their fir
 
 **Step 5: Get at least three quotes and ask each installer to itemize which incentives they've included in their savings projections.** EnergySage's market data shows that homeowners who compare multiple quotes save an average of 20% on system cost. That matters as much as any state rebate.
 
-**Step 6: Run your own payback calculation.** Use the total net system cost after all incentives, your utility rate, and your annual production estimate to calculate payback. Our [solar payback period calculator](/solar-payback-period-calculator/) makes this straightforward.
+**Step 6: Run your own payback calculation.** Use the total net system cost after all incentives, your utility rate, and your annual production estimate to calculate payback. Our [solar payback period calculator](/how-long-to-pay-off-solar-panels/) makes this straightforward.
 
 ## Sources
 

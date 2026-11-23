@@ -4,7 +4,7 @@ date: 2026-07-26T09:22:43.354623+00:00
 draft: false
 description: "Learn when to replace your roof before installing solar panels. Avoid costly mistakes and maximize your energy investment with expert timing."
 image: "/img/heroes/9875679.jpg"
-categories: ["Installation"]
+categories: ["Solar Installation"]
 tags: ["solar", "panels", "roof", "replacement", "timing"]
 author: "Derek Hansen"
 author_slug: "derek-hansen"

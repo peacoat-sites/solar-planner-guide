@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most homeowners who go solar focus entirely on the [federal tax credit](/federal-solar-tax-credit-2026/) and stop there. That's understandable. The 30% Investment Tax Credit is real money and easy to understand. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.
+Most homeowners who go solar focus entirely on the [federal tax credit](/itc-solar-investment-tax-credit-explained/) and stop there. That's understandable. The 30% Investment Tax Credit is real money and easy to understand. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.
 
 Homeowners often leave $3,000 to $6,000 on the table by not asking the right questions upfront.
 

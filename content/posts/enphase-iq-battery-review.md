@@ -61,7 +61,7 @@ The operating temperature range is -4°F to 122°F (-20°C to 50°C), which hand
 
 This is where Enphase either wins you over completely or becomes a sticking point, depending on your situation.
 
-If you already have Enphase microinverters on your roof (IQ7, IQ8, or newer), [adding IQ Batteries is seamless](/home-battery-storage-options-compared/) with your existing system. The Enphase Enlighten platform displays solar production, battery state of charge, home consumption, and grid usage in one app. The IQ8 microinverters in particular have a feature called Sunlight Backup, where the solar panels can power your home during a grid outage even without a battery, as long as the sun is shining. Combine that with IQ Batteries for nighttime and cloudy-day coverage, and you have a resilient system.
+If you already have Enphase microinverters on your roof (IQ7, IQ8, or newer), [adding IQ Batteries is seamless](/best-home-battery/) with your existing system. The Enphase Enlighten platform displays solar production, battery state of charge, home consumption, and grid usage in one app. The IQ8 microinverters in particular have a feature called Sunlight Backup, where the solar panels can power your home during a grid outage even without a battery, as long as the sun is shining. Combine that with IQ Batteries for nighttime and cloudy-day coverage, and you have a resilient system.
 
 The Enphase system also works with the [IQ System Controller 3](https://www.amazon.com/s?k=Enphase+IQ+System+Controller&tag=contentportfo-20), the brains that manages grid transition and load protection. You'll need it for whole-home backup. *(Note: affiliate link, site may earn a commission.)*
 
@@ -80,7 +80,7 @@ Here's a simple comparison to help you gut-check quotes:
 | Battery | Usable Capacity | Continuous Power | Round-Trip Efficiency | Approx. Installed Cost (1 unit) |
 |---|---|---|---|---|
 | Enphase IQ Battery 5P | 5 kWh | 3.84 kW | ~89% | $4,000 - $6,500 |
-| [Tesla Powerwall 3](/tesla-powerwall-cost-2026/) | 13.5 kWh | 11.5 kW | ~97.5% | $11,000 - $16,000 |
+| [Tesla Powerwall 3](/tesla-powerwall-cost/) | 13.5 kWh | 11.5 kW | ~97.5% | $11,000 - $16,000 |
 | Franklin WH aGate | 13.6 kWh | 5 kW | ~96% | $9,000 - $14,000 |
 | Sonnen ecoLinx 10 | 10 kWh | 3.3 kW | ~86% | $13,000 - $18,000 |
 

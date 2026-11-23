@@ -51,19 +51,19 @@ The searchable table below places every state in one of those tiers, with the sp
 
 **States with strong policies under threat:** Arizona, Michigan, and North Carolina have seen serious utility campaigns to cut net metering compensation. Check the latest rules before signing anything.
 
-Your state's position matters enormously when calculating real return on investment. Our [solar panel ROI calculation guide](/solar-panel-roi-calculation/) walks through exactly how export rates change your long-term returns.
+Your state's position matters enormously when calculating real return on investment. Our [solar panel ROI calculation guide](/how-long-to-pay-off-solar-panels/) walks through exactly how export rates change your long-term returns.
 
 ## How Net Metering Policy Changes Your Payback Period
 
-Take a real example: a 7 kW system in Phoenix, Arizona. Cost is $21,000 before incentives. The 30% [federal Investment Tax Credit](/federal-solar-tax-credit-2026/) brings it to $14,700. Annual production is about 11,900 kWh. You use 9,500 and export 2,400.
+Take a real example: a 7 kW system in Phoenix, Arizona. Cost is $21,000 before incentives. The 30% [federal Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) brings it to $14,700. Annual production is about 11,900 kWh. You use 9,500 and export 2,400.
 
 Under full-retail net metering at $0.12/kWh (roughly APS's rate), those 2,400 exported kWh earn about $288 annually. Self-consumed power saves $1,140. Total yearly benefit: roughly $1,428. Payback period: about 10.3 years.
 
 Change one variable. Export compensation drops to $0.04/kWh (avoided cost). Export value falls to $96 annually. Total benefit: $1,236. Payback: 11.9 years. That's nearly two additional years from a single rate change.
 
-Larger systems or states with higher export percentages widen the gap further. Model this for your situation using our [solar payback period calculator](/solar-payback-period-calculator/) to see the real-world impact.
+Larger systems or states with higher export percentages widen the gap further. Model this for your situation using our [solar payback period calculator](/how-long-to-pay-off-solar-panels/) to see the real-world impact.
 
-This is also why right-sizing matters in states with weak net metering. If exports earn wholesale rates, you want to minimize them. Design a system closer to actual consumption rather than chasing maximum production. Our [how many solar panels do you need](/how-many-solar-panels-do-i-need/) guide covers that sizing logic.
+This is also why right-sizing matters in states with weak net metering. If exports earn wholesale rates, you want to minimize them. Design a system closer to actual consumption rather than chasing maximum production. Our [how many solar panels do you need](/how-many-solar-panels-to-power-a-house/) guide covers that sizing logic.
 
 ## Net Metering vs. Net Billing vs. Avoided Cost: A Comparison
 

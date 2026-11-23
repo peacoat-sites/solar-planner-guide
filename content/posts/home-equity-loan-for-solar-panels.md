@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-A $40,000 solar install paired with a home equity loan can save nearly $11,000 over a [solar-specific financing product](/best-solar-financing-options/). This kind of result is achievable for many homeowners in residential solar.
+A $40,000 solar install paired with a home equity loan can save nearly $11,000 over a [solar-specific financing product](/solar-loan-vs-solar-lease-vs-ppa/). This kind of result is achievable for many homeowners in residential solar.
 
 Here's what frustrates me: most installers don't walk you through your financing options in any real depth. They have a preferred lender (often one that pays them a dealer fee), they hand you a brochure, and they move on. I'm not saying they're dishonest. They're just not your financial advisor. So let's talk about what they usually skip.
 
@@ -56,7 +56,7 @@ You need to understand how the [30% federal Investment Tax Credit](/solar-panel-
 
 The ITC, currently at 30% for residential installs, is a credit against your federal tax liability. Not a rebate, not a check in the mail. You have to actually owe that much in federal taxes to use it all in year one. If your system costs $30,000, your credit is $9,000. If you only owe $4,000 in federal taxes that year, you carry the rest forward.
 
-Here's where I got this wrong for a long time: many [solar loan products](/solar-loan-interest-rates-2026/) are structured assuming you'll receive the ITC quickly and apply it to the principal. If you don't do that within 12-18 months, your payment can balloon significantly. I watched a reader in Sacramento, Michael, get blindsided by exactly this. He had a low tax year, couldn't apply the credit on schedule, and his "affordable" monthly payment jumped by $180. That almost never happens with a home equity loan, because the repayment structure doesn't depend on a tax credit timing assumption.
+Here's where I got this wrong for a long time: many [solar loan products](/solar-loan-interest-rates/) are structured assuming you'll receive the ITC quickly and apply it to the principal. If you don't do that within 12-18 months, your payment can balloon significantly. I watched a reader in Sacramento, Michael, get blindsided by exactly this. He had a low tax year, couldn't apply the credit on schedule, and his "affordable" monthly payment jumped by $180. That almost never happens with a home equity loan, because the repayment structure doesn't depend on a tax credit timing assumption.
 
 With a home equity loan, the ITC credit comes to you independently. You use it however you want. Pay down the principal early, put it in savings, offset the next year's utility bills. It's yours to deploy strategically.
 

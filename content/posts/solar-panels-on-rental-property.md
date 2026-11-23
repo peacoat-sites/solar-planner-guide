@@ -40,7 +40,7 @@ The federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/)
 
 I worked with a landlord in Phoenix a few years back, a retired couple with two single-family rentals and modest Social Security income. Their installer told them the 30% credit would make payback happen in under six years. What nobody told them was that their federal tax liability was about $2,200 per year. That $6,000 credit took them almost three years to fully use. Not a disaster, but not what they were sold.
 
-The depreciation angle is worth mentioning too. Rental property owners can depreciate the [solar system](/how-to-size-a-solar-system-when-the-tax-credit-is-gone/) under MACRS (Modified Accelerated Cost Recovery System) over five years, which is genuinely useful if you have a real accountable income to offset. Talk to a CPA who knows rentals before you sign anything. That's not a hedge, that's the actual answer.
+The depreciation angle is worth mentioning too. Rental property owners can depreciate the [solar system](/how-to-size-your-solar-system-when-the-roi-math-has-changed/) under MACRS (Modified Accelerated Cost Recovery System) over five years, which is genuinely useful if you have a real accountable income to offset. Talk to a CPA who knows rentals before you sign anything. That's not a hedge, that's the actual answer.
 
 ## Utility-Included vs. Tenant-Pays: The Question That Changes Everything
 

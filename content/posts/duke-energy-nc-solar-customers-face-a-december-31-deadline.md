@@ -25,7 +25,7 @@ What most people don't realize is that December 31 isn't even the real deadline.
 
 ## What You're Actually Protecting Yourself From
 
-The post-deadline world for Duke solar customers is pretty bleak by comparison. New solar homeowners who miss the cutoff will default to the Residential Solar Choice plan, Rider RSC, which pays excess solar exports at roughly $0.034 [per kilowatt](/solar-panel-price-per-kilowatt/)-hour. That sounds like a number until you realize the current retail rate you're avoiding by self-consuming your solar power is $0.11 to $0.13 per kWh. The export credit pays you about 75 to 80 percent less than what you'd otherwise pay for electricity from the grid.
+The post-deadline world for Duke solar customers is pretty bleak by comparison. New solar homeowners who miss the cutoff will default to the Residential Solar Choice plan, Rider RSC, which pays excess solar exports at roughly $0.034 [per kilowatt](/solar-panel-cost-per-watt/)-hour. That sounds like a number until you realize the current retail rate you're avoiding by self-consuming your solar power is $0.11 to $0.13 per kWh. The export credit pays you about 75 to 80 percent less than what you'd otherwise pay for electricity from the grid.
 
 On top of that, post-deadline customers face mandatory Time-of-Use and Critical Peak Pricing structures, where rates can spike above $0.40 per kWh during high-demand windows. If your solar system produces less during those peaks than your house consumes (and most grid-tied systems do, especially in late afternoon summer heat), you're buying expensive electricity while your solar credits bank at a fraction of that cost. It's a losing structure that the Bridge Rate insulates you from entirely.
 

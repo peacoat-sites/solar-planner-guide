@@ -28,7 +28,7 @@ faqs:
 
 New Jersey might be the most interesting solar market in the country [right now](/what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/). The reason is the state's policy stack, not its weather. When you examine the numbers for Garden State homeowners, several factors stand out that shift the economics compared to other East Coast states.
 
-Most installers won't emphasize upfront that New Jersey isn't a great [solar state](/solar-by-state/) because of its sunshine. Newark gets roughly 4.2 peak sun hours per day, which is solidly mediocre compared to Phoenix's 5.9 or even Charlotte's 4.8. What makes New Jersey work is the policy stack, a combination of incentives that, when you add them up, genuinely changes the math in ways not replicated anywhere else on the East Coast.
+Most installers won't emphasize upfront that New Jersey isn't a great solar state because of its sunshine. Newark gets roughly 4.2 peak sun hours per day, which is solidly mediocre compared to Phoenix's 5.9 or even Charlotte's 4.8. What makes New Jersey work is the policy stack, a combination of incentives that, when you add them up, genuinely changes the math in ways not replicated anywhere else on the East Coast.
 
 Let me walk you through what's actually going on here, as of August 2026.
 
@@ -36,7 +36,7 @@ Let me walk you through what's actually going on here, as of August 2026.
 
 ## What It Actually Costs in NJ Right Now
 
-Before incentives, a typical 8 kW residential system in New Jersey will run you somewhere between $22,400 and $25,600 based on current EnergySage market data for the Mid-Atlantic region. Most quotes from NJ homeowners fall in that $2.80 to $3.20 [per watt](/solar-panel-cost-per-watt-2026/) range. There are outliers on both ends, and quotes under $2.50/watt warrant scrutiny about exactly what equipment is being used.
+Before incentives, a typical 8 kW residential system in New Jersey will run you somewhere between $22,400 and $25,600 based on current EnergySage market data for the Mid-Atlantic region. Most quotes from NJ homeowners fall in that $2.80 to $3.20 [per watt](/solar-panel-cost-per-watt/) range. There are outliers on both ends, and quotes under $2.50/watt warrant scrutiny about exactly what equipment is being used.
 
 After the 30% federal Investment Tax Credit (applied in 2026, which remains at 30% through 2032 under current law), that $24,000 system drops to roughly $16,800 out of pocket. That's before New Jersey's own incentives touch it.
 

@@ -116,7 +116,7 @@ Let's put concrete numbers on a typical scenario. An Orlando homeowner with a 1,
 
 The numbers above assume the homeowner has sufficient federal tax liability to fully use the ITC. They also assume relatively stable utility rates, though FPL has historically raised rates roughly 3% annually, which would improve the solar economics over time.
 
-For context on how system costs break down line by line, [solar panel installation cost breakdown](/solar-panel-installation-cost-breakdown/) shows where your money actually goes. And if you're trying to figure out the right system size before getting quotes, [how many solar panels do I need](/how-many-solar-panels-do-i-need/) is a practical starting point.
+For context on how system costs break down line by line, [solar panel installation cost breakdown](/solar-panel-installation-cost-breakdown/) shows where your money actually goes. And if you're trying to figure out the right system size before getting quotes, [how many solar panels do I need](/how-many-solar-panels-to-power-a-house/) is a practical starting point.
 
 ---
 

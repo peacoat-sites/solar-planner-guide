@@ -45,7 +45,7 @@ So the no-battery path works well right now in many places. But "right now" is d
 
 ## What Adding a Battery Actually Changes
 
-A home battery, most commonly a [Tesla Powerwall 3](/tesla-powerwall-cost-2026/), Enphase IQ Battery 5P, or Franklin Electric aPower, stores excess solar energy during the day so you can use it at night. You're no longer automatically dependent on the grid when the sun goes down. The benefits break into three categories.
+A home battery, most commonly a [Tesla Powerwall 3](/tesla-powerwall-cost/), Enphase IQ Battery 5P, or Franklin Electric aPower, stores excess solar energy during the day so you can use it at night. You're no longer automatically dependent on the grid when the sun goes down. The benefits break into three categories.
 
 **Self-consumption.** Instead of exporting cheap solar power to the grid and buying expensive grid power back at night, you use your own stored energy. In markets where time-of-use (TOU) rates apply, evening electricity can cost 30 to 50 cents per kWh while you exported your solar at 3 to 8 cents. A battery closes that gap.
 
@@ -66,7 +66,7 @@ A home battery, most commonly a [Tesla Powerwall 3](/tesla-powerwall-cost-2026/)
 
 A solar system without a battery typically costs $2.50 to $3.50 per watt installed. A 7 kW system runs roughly $17,500 to $24,500 before the federal tax credit (which is 30% through at least 2032 under the Inflation Reduction Act). After the credit, you're looking at $12,000 to $17,000.
 
-Add a single Tesla Powerwall 3, and you're adding approximately $11,500 to $15,000 installed, before incentives. The 30% federal tax credit also applies to [battery storage](/solar-battery-storage-worth-it/) now. But your all-in cost for solar plus storage still typically runs $25,000 to $35,000 on a mid-sized home.
+Add a single Tesla Powerwall 3, and you're adding approximately $11,500 to $15,000 installed, before incentives. The 30% federal tax credit also applies to battery storage now. But your all-in cost for solar plus storage still typically runs $25,000 to $35,000 on a mid-sized home.
 
 Several states offer additional battery incentives worth researching. California's SGIP rebate can knock several thousand dollars off. Oregon, New York, and Massachusetts also have meaningful battery incentives.
 

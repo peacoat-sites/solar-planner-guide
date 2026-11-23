@@ -40,7 +40,7 @@ The solar industry has a long and embarrassing history of fake deadlines. "Hurry
 
 This one is different for two reasons. First, the residential credit is already gone. There's no percentage step-down to worry about. Second, the July 4 construction-start requirement for 48E isn't a sales pitch; it's an IRS standard requiring that a project either begin physical work on-site or incur at least 5% of total project costs before that date. TPO providers that miss it lose the ability to claim the credit on new projects entirely.
 
-EnergySage reported a 205% spike in homeowners working with solar installers in H2 2025 as people raced to beat the December 31 ITC deadline. That surge created installation backlogs. Installers who are already stretched thin in June 2026 now face a second qualifying deadline. If you're interested in a [prepaid TPO arrangement](/the-prepaid-solar-lease-explained-how-the-6-year-flip-works/), the practical window to get a contract signed, permitting initiated, and construction started before July 4 is measured in days, not weeks.
+EnergySage reported a 205% spike in homeowners working with solar installers in H2 2025 as people raced to beat the December 31 ITC deadline. That surge created installation backlogs. Installers who are already stretched thin in June 2026 now face a second qualifying deadline. If you're interested in a prepaid TPO arrangement, the practical window to get a contract signed, permitting initiated, and construction started before July 4 is measured in days, not weeks.
 
 ## The Equipment Catch Nobody's Advertising
 

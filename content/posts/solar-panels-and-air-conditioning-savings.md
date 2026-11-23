@@ -36,7 +36,7 @@ So let me give you that version.
 
 ## Why AC Is the Reason Solar Math Often Works
 
-Here's what most people don't realize: solar production and air conditioning demand peak at almost exactly the same time. Panels generate the most electricity between 11 a.m. and 3 p.m. Your AC works hardest from noon to 4 p.m. That alignment is not a coincidence of good luck. It's the core reason [solar payback](/solar-payback-period-calculator/) in hot climates is so much faster than in mild ones.
+Here's what most people don't realize: solar production and air conditioning demand peak at almost exactly the same time. Panels generate the most electricity between 11 a.m. and 3 p.m. Your AC works hardest from noon to 4 p.m. That alignment is not a coincidence of good luck. It's the core reason [solar payback](/how-long-to-pay-off-solar-panels/) in hot climates is so much faster than in mild ones.
 
 [NREL's PVWatts calculator](https://www.nrel.gov/) confirms this when you model real consumption data: a home in Dallas, Texas will produce roughly 30-40% more annual solar energy per kilowatt of installed capacity than an equivalent home in Seattle. And Dallas also runs its AC five months longer. Both factors stack in favor of the solar investment.
 

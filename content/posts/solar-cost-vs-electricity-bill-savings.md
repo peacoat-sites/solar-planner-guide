@@ -84,7 +84,7 @@ You don't need a sales appointment to run your own numbers. This takes about 20 
 
 **Step 2: Find your average rate.** Divide your total annual electricity cost by your total annual kWh. This gives you your blended rate, which accounts for tiered pricing and fees better than the advertised "base rate."
 
-**Step 3: [Estimate your system size](/how-many-solar-panels-do-i-need/).** Divide your annual kWh by 1,200. That's a rough rule of thumb based on average U.S. sun hours. A home using 10,800 kWh per year needs about 9 kW. NREL's free PVWatts calculator gives more precision based on your ZIP code.
+**Step 3: [Estimate your system size](/how-many-solar-panels-to-power-a-house/).** Divide your annual kWh by 1,200. That's a rough rule of thumb based on average U.S. sun hours. A home using 10,800 kWh per year needs about 9 kW. NREL's free PVWatts calculator gives more precision based on your ZIP code.
 
 **Step 4: Estimate installed cost.** Multiply your system size in kW by $2.75 for a baseline. Subtract 30% for the federal tax credit. You need enough tax liability to claim the full credit in the installation year, or you can spread it across future years.
 

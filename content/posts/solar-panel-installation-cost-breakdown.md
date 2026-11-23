@@ -62,7 +62,7 @@ This is the honest part most installers won't advertise. Salesperson commissions
 
 Before the federal tax credit, the national average cost for a residential solar installation sits at roughly **$2.80 to $3.20 per watt** as of 2024. For a typical 8 kW system, that puts the gross cost between $22,400 and $25,600.
 
-The [federal Investment Tax Credit](/solar-panel-roi-calculation/) (ITC), currently at 30% through 2032 per the Inflation Reduction Act, brings that same 8 kW system down to $15,680 to $17,920 after the credit is applied. That's not a rebate. It's a credit against your federal tax liability, so you need to actually owe taxes to use it.
+The [federal Investment Tax Credit](/how-long-to-pay-off-solar-panels/) (ITC), currently at 30% through 2032 per the Inflation Reduction Act, brings that same 8 kW system down to $15,680 to $17,920 after the credit is applied. That's not a rebate. It's a credit against your federal tax liability, so you need to actually owe taxes to use it.
 
 System size is the biggest lever on total price. Here's what the math looks like based on current national averages:
 

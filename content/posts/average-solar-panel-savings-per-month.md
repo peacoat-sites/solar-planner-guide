@@ -35,7 +35,7 @@ The good news: this is not a guessing game. You can build a reasonable estimate 
 
 ## What Actually Drives Your Monthly Savings
 
-Start with your utility rate. The national average residential electricity rate is around 16–17 cents [per kilowatt](/solar-panel-price-per-kilowatt/)-hour, but that number hides a lot. Connecticut and Massachusetts customers regularly pay 25–30 cents. California's tiered rates can exceed 35 cents in upper tiers. If you're in one of those states, solar math looks fantastic. If you're in Louisiana or Washington state, where rates sit closer to 9–11 cents, the numbers are tighter and payback takes longer.
+Start with your utility rate. The national average residential electricity rate is around 16–17 cents [per kilowatt](/solar-panel-cost-per-watt/)-hour, but that number hides a lot. Connecticut and Massachusetts customers regularly pay 25–30 cents. California's tiered rates can exceed 35 cents in upper tiers. If you're in one of those states, solar math looks fantastic. If you're in Louisiana or Washington state, where rates sit closer to 9–11 cents, the numbers are tighter and payback takes longer.
 
 Your consumption matters just as much. A 2,000 sq ft home in Phoenix running central AC might use 1,500–2,000 kWh per month in summer. That same-sized home in Seattle might use 700 kWh. Solar panels produce power roughly proportional to sun hours, and [NREL's PVWatts calculator](https://www.nrel.gov/) lets you plug in your zip code, system size, and roof angle to get a realistic annual production estimate. It's free, and it's what professional installers use.
 

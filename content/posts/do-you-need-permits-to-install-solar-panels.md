@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand solar panel permit requirements, inspection processes, and local regulations to ensure your installation meets code and stays compliant."
 image: "/img/heroes/9875683.jpg"
-categories: ["Installation"]
+categories: ["Solar Installation"]
 tags: ["need", "permits", "install", "solar", "panels"]
 author: "Patricia Moore"
 author_slug: "patricia-moore"

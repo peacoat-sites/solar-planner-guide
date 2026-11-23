@@ -28,7 +28,7 @@ faqs:
 
 About 3% of homeowners who go solar end up replacing their inverter within the first five years. That number comes from my own informal tally across client follow-ups, but it tracks with what I hear from other installers. And in nearly every one of those cases, the decision that led to an early replacement came down to this exact choice: Enphase or SolarEdge.
 
-You might be wondering why the inverter matters so much when [solar panels](/how-much-do-solar-panels-cost-2026/) get all the attention. Here's what I tell people: the inverter is where your panels' raw DC power becomes the AC electricity that runs your house. Get it wrong, and you're leaving money on the table, or worse, staring at a system that's offline during peak summer hours. The panels are the engine; the inverter is the transmission. Both have to be right for the car to move.
+You might be wondering why the inverter matters so much when [solar panels](/how-much-do-solar-panels-cost/) get all the attention. Here's what I tell people: the inverter is where your panels' raw DC power becomes the AC electricity that runs your house. Get it wrong, and you're leaving money on the table, or worse, staring at a system that's offline during peak summer hours. The panels are the engine; the inverter is the transmission. Both have to be right for the car to move.
 
 I've sat across from homeowners in Phoenix who have a perfectly shaded-free roof and homeowners in Portland who have a single pine tree casting a shadow over one corner of their array. Those two people should not be buying the same inverter technology. That's the most honest thing I can say before we get into any of the specs.
 
@@ -36,7 +36,7 @@ I've sat across from homeowners in Phoenix who have a perfectly shaded-free roof
 
 ## How Each System Actually Works
 
-SolarEdge uses what's called a DC-optimized [string inverter](/microinverters-vs-string-inverter/) setup. Each panel gets a small power optimizer attached to it, which handles shade mitigation and monitoring at the panel level. All that optimized DC power then runs to a single central inverter, usually mounted on your garage wall or near your electrical panel. The optimizer is roughly the size of a thick paperback book; the inverter itself is maybe the size of a carry-on suitcase.
+SolarEdge uses what's called a DC-optimized [string inverter](/microinverters-vs-string-inverters/) setup. Each panel gets a small power optimizer attached to it, which handles shade mitigation and monitoring at the panel level. All that optimized DC power then runs to a single central inverter, usually mounted on your garage wall or near your electrical panel. The optimizer is roughly the size of a thick paperback book; the inverter itself is maybe the size of a carry-on suitcase.
 
 Enphase goes a different direction entirely. Each panel gets its own microinverter, a palm-sized unit mounted directly on the racking underneath the panel. The conversion from DC to AC happens right there, on the roof. Nothing routes back to a central box on your wall.
 
@@ -64,7 +64,7 @@ The monitoring is also quite good. The mySolarEdge app gives panel-level data vi
 
 SolarEdge is also the cleaner choice for large, uniform roofs, think a 10-13 kW system on a ranch-style home with full southern exposure. In that scenario, the cost savings over Enphase can be $2,500 or more, and the performance difference is genuinely minimal.
 
-One worked example: A homeowner in Tucson, Arizona, 12 kW system, completely unshaded, oriented due south at 20-degree tilt. SolarEdge installed at $2.90/W came in at $34,800 before the 30% federal [tax credit](/solar-roi-without-the-tax-credit-how-to-size-your-system-now/). Enphase would have been an estimated $37,200 for the same array. Over a 25-year system life with roughly equivalent production, SolarEdge was the financially smarter call by a wide margin.
+One worked example: A homeowner in Tucson, Arizona, 12 kW system, completely unshaded, oriented due south at 20-degree tilt. SolarEdge installed at $2.90/W came in at $34,800 before the 30% federal [tax credit](/how-to-size-your-solar-system-when-the-roi-math-has-changed/). Enphase would have been an estimated $37,200 for the same array. Over a 25-year system life with roughly equivalent production, SolarEdge was the financially smarter call by a wide margin.
 
 ## Where Enphase Wins
 

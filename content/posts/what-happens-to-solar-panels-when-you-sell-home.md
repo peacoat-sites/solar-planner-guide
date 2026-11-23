@@ -74,7 +74,7 @@ Get a solar-specific appraisal addendum if you can. The Appraisal Institute has 
 
 ## Before You List: A Pre-Sale Solar Checklist
 
-Pull your original installation contract and identify whether you own, lease, or have a PPA. If you're unsure, [your installer](/how-to-choose-a-solar-installer/) or a quick search of your county's property records (look for a UCC-1 financing statement filed by the solar company) will tell you.
+Pull your original installation contract and identify whether you own, lease, or have a PPA. If you're unsure, [your installer](/solar-installer-red-flags-to-avoid/) or a quick search of your county's property records (look for a UCC-1 financing statement filed by the solar company) will tell you.
 
 Get the system inspected. A $150-250 inspection from a certified solar technician will catch any underperforming panels, degraded connections, or inverter issues before a buyer's inspector does. Fixing a $400 inverter issue proactively is a lot cheaper than a price reduction during negotiations.
 

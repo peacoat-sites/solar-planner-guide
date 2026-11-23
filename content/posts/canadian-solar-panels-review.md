@@ -88,7 +88,7 @@ I don't want to oversell these. A few honest limitations:
 
 Aesthetics. The HiKu panels have a silver frame and aren't all-black. If curb appeal is a priority, REC or Qcells' all-black options look sharper. Canadian Solar does offer some all-black products but availability through U.S. installers is spotty.
 
-Efficiency ceiling. At 21 to 22% for the standard residential line, you're not at the top. If you're working with a small or awkwardly shaped roof, a [SunPower or Maxeon panel](/solar-panel-brand-comparison-2026/) at 22.8% might let you fit a meaningfully larger system. On a generous south-facing roof, the efficiency gap matters less.
+Efficiency ceiling. At 21 to 22% for the standard residential line, you're not at the top. If you're working with a small or awkwardly shaped roof, a [SunPower or Maxeon panel](/solar-panel-brand-comparison/) at 22.8% might let you fit a meaningfully larger system. On a generous south-facing roof, the efficiency gap matters less.
 
 Installer markup variability. Because Canadian Solar panels are widely distributed, installer margins vary significantly. Quotes for the same panel model can differ by $0.40 per watt depending on the installer's buying relationship. Get at least three quotes.
 

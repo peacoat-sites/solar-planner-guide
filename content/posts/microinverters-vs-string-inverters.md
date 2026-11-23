@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare microinverters and string inverters to find the right solar solution for your home, roof type, and budget."
 image: "/img/heroes/16427010.jpg"
-categories: ["Equipment"]
+categories: ["Solar Panels & Equipment"]
 tags: ["microinverters", "string", "inverters"]
 author: "Derek Hansen"
 author_slug: "derek-hansen"
@@ -28,7 +28,7 @@ faqs:
 
 [Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) shopping for solar get told by their installer that microinverters are "the better technology" and string inverters are "old school." That pitch gets delivered confidently on driveways across the country, and it's mostly a sales frame, not an engineering truth. The right inverter depends on your specific roof, your shading situation, your utility, and frankly how long you plan to stay in the house.
 
-I've walked hundreds of homeowners through this decision. What independent analysts and experienced homeowners often find is that the "premium" microinverter recommendation is frequently driven by installer margin rather than any honest site assessment. Enphase IQ8 microinverters run roughly $150-$180 per unit installed, and a typical 10-panel system means 10 units. A single SolarEdge [string inverter](/microinverters-vs-string-inverter/) with HD-Wave technology for that same system might run $1,200-$1,500 total. That's a real cost gap, and it doesn't automatically close just because one approach sounds more sophisticated.
+I've walked hundreds of homeowners through this decision. What independent analysts and experienced homeowners often find is that the "premium" microinverter recommendation is frequently driven by installer margin rather than any honest site assessment. Enphase IQ8 microinverters run roughly $150-$180 per unit installed, and a typical 10-panel system means 10 units. A single SolarEdge string inverter with HD-Wave technology for that same system might run $1,200-$1,500 total. That's a real cost gap, and it doesn't automatically close just because one approach sounds more sophisticated.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Microinverters cost $800–$2,000+ more upfront on average but pay off mainly on shaded or complex roofs.</li><li style="margin:5px 0">String inverters (with or without optimizers) are the right call for simple, south-facing roofs with minimal shading.</li><li style="margin:5px 0">Enphase IQ8 microinverters and SolarEdge HD-Wave string inverters dominate the U.S. residential market as of 2026.</li><li style="margin:5px 0">Both technologies carry 25-year warranties today, so longevity alone is no longer a strong differentiator.</li><li style="margin:5px 0">The typical payback gap between the two options is 6–18 months longer for microinverters, depending on system size.</li></ul></div>
 
@@ -36,7 +36,7 @@ I've walked hundreds of homeowners through this decision. What independent analy
 
 A string inverter does what it sounds like: your panels connect in a series string, DC electricity flows to one central box (usually mounted on your garage or exterior wall), and that box converts everything to AC. Simple, proven, easy for any electrician to service. The weakness is the "Christmas lights" problem: if one panel underperforms, say from shade or debris, the whole string's output can drop toward that panel's level. Modern string inverters have improved dramatically here, but the fundamental limitation remains.
 
-Microinverters flip the equation by placing a small inverter directly behind each panel. Each panel operates independently. Panel 7 gets hit by a chimney shadow at 2pm? Panels 1-6 and 8-10 don't care. Enphase basically owns this segment in the U.S. [right now](/what-homeowners-must-know-about-feoc-panel-rules-right-now/), and their IQ8 series added a notable wrinkle: it can form a microgrid during a grid outage even without a battery, which is genuinely useful for daytime resilience.
+Microinverters flip the equation by placing a small inverter directly behind each panel. Each panel operates independently. Panel 7 gets hit by a chimney shadow at 2pm? Panels 1-6 and 8-10 don't care. Enphase basically owns this segment in the U.S. [right now](/what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/), and their IQ8 series added a notable wrinkle: it can form a microgrid during a grid outage even without a battery, which is genuinely useful for daytime resilience.
 
 There's also a hybrid approach worth knowing: a string inverter paired with power optimizers (DC-to-DC converters at each panel). SolarEdge is the main player here. You get panel-level monitoring and shade mitigation without paying full microinverter prices. This middle path often gets undersold by installers, likely because it's more complex to explain in a brief consultation.
 

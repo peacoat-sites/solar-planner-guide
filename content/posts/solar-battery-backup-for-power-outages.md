@@ -65,7 +65,7 @@ A solar-plus-storage system costs significantly more than solar alone. According
 
 The 30% federal Investment Tax Credit (ITC) now applies to standalone battery storage systems, not just batteries purchased with solar. That changed with the Inflation Reduction Act in 2023. A $12,000 battery installation becomes $8,400 after the credit. Many states layer on additional incentives. California's SGIP program, for example, can rebate $200 per kWh or more for qualifying low-income or high-fire-risk households.
 
-Here's the hard part: [batteries don't save you money](/solar-battery-storage-worth-it/) the way solar panels do. Their financial value comes from three places: time-of-use arbitrage (charging cheap, discharging during peak rate hours), demand charge reduction for homes on those rate structures, and backup value, which is real but hard to quantify on a spreadsheet.
+Here's the hard part: [batteries don't save you money](/solar-with-battery-storage-vs-without/) the way solar panels do. Their financial value comes from three places: time-of-use arbitrage (charging cheap, discharging during peak rate hours), demand charge reduction for homes on those rate structures, and backup value, which is real but hard to quantify on a spreadsheet.
 
 For those in areas with frequent outages, the [battery cost can look almost like insurance](/off-grid-solar-battery-system-cost/). If you lose $3,000 worth of inventory in a home-based business during a single extended outage, the math shifts quickly. If you're in Phoenix with reliable grid power and no time-of-use rates, the financial case for batteries is weaker.
 

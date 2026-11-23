@@ -4,7 +4,7 @@ date: 2026-11-22T15:16:11.417102+00:00
 draft: false
 description: "Compare solar generators and home batteries: costs, capacity, efficiency, and which backup power solution works best for your needs."
 image: "/img/heroes/30440512.jpg"
-categories: ["Batteries"]
+categories: ["Home Battery Storage"]
 tags: ["solar", "generator", "home", "battery"]
 author: "Derek Hansen"
 author_slug: "derek-hansen"
@@ -27,7 +27,7 @@ faqs:
 
 Solar generators and home batteries solve different problems. If you need something you can grab and run during a camping trip or a brief outage, a solar generator makes sense. If you want to keep your refrigerator, medical devices, and lights running through a multi-day grid failure, or if you're trying to cut your [electricity bill](/solar-cost-vs-electricity-bill-savings/) with stored solar energy, a home battery is what you actually need. The confusion between them is real and understandable, because marketing has blurred the lines significantly.
 
-A solar generator is essentially a portable power station with a built-in battery, an inverter, and sometimes a folding solar panel included in the bundle. The EcoFlow DELTA Pro and Jackery Explorer 2000 Pro are two of the best-known examples. They're self-contained, they weigh somewhere between 30 and 100 pounds, and they're not wired into your home. A home battery, by contrast, is a fixed, wall-mounted system like the [Tesla Powerwall](/tesla-powerwall-cost-2026/) 3 or Enphase IQ Battery 5P. It connects to your home's electrical panel, charges from your rooftop solar array or the grid, and can power whole circuits or even your entire house automatically when the power goes out.
+A solar generator is essentially a portable power station with a built-in battery, an inverter, and sometimes a folding solar panel included in the bundle. The EcoFlow DELTA Pro and Jackery Explorer 2000 Pro are two of the best-known examples. They're self-contained, they weigh somewhere between 30 and 100 pounds, and they're not wired into your home. A home battery, by contrast, is a fixed, wall-mounted system like the [Tesla Powerwall](/tesla-powerwall-cost/) 3 or Enphase IQ Battery 5P. It connects to your home's electrical panel, charges from your rooftop solar array or the grid, and can power whole circuits or even your entire house automatically when the power goes out.
 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar generators are portable, affordable ($500–$3,500), and best for outages under 24 hours or off-grid use.</li><li style="margin:5px 0">Home batteries (Powerwall 3, Enphase IQ) are fixed systems costing $10,000–$18,000 installed, designed for whole-home backup and solar self-consumption.</li><li style="margin:5px 0">Home batteries qualify for the federal 30% Investment Tax Credit; most portable solar generators do not.</li><li style="margin:5px 0">If your outages last more than a day or you have rooftop solar, a home battery almost always wins on value.</li><li style="margin:5px 0">Capacity is not the same as usable capacity, check both numbers before comparing products.</li></ul></div>

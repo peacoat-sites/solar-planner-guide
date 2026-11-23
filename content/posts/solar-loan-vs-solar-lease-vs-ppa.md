@@ -23,7 +23,7 @@ Before comparing them, it helps to actually know what each one is and how owners
 
 ### Solar Loans
 
-A solar loan works much like a car loan or a home improvement loan. You borrow money to purchase a [solar panel system outright](/how-to-finance-solar-panels-with-no-money-down/), then repay that loan over time with interest. At the end of the loan term, you own the system free and clear. Solar loans can be secured (often structured as a home equity loan or HELOC) or unsecured (a personal loan specifically for solar). Many solar installers partner with lenders to offer in-house financing, and specialty solar lenders like Mosaic, GoodLeap, and Sunlight Financial have emerged to make the process easier.
+A solar loan works much like a car loan or a home improvement loan. You borrow money to purchase a [solar panel system outright](/zero-down-solar-financing-options/), then repay that loan over time with interest. At the end of the loan term, you own the system free and clear. Solar loans can be secured (often structured as a home equity loan or HELOC) or unsecured (a personal loan specifically for solar). Many solar installers partner with lenders to offer in-house financing, and specialty solar lenders like Mosaic, GoodLeap, and Sunlight Financial have emerged to make the process easier.
 
 Loan terms typically range from 5 to 25 years, with interest rates generally falling between 3.99% and 8.99% depending on your credit score, loan term, and lender.
 
@@ -47,7 +47,7 @@ This is where things get really interesting. And where the stakes are highest. L
 
 ### Who Gets the Tax Credits?
 
-This is arguably the most critical distinction between ownership and non-ownership options. Under the current federal Investment Tax Credit (ITC), solar system owners can claim a **[30% federal tax credit](/best-solar-financing-options/)** on the full cost of installation. That's a massive financial benefit.
+This is arguably the most critical distinction between ownership and non-ownership options. Under the current federal Investment Tax Credit (ITC), solar system owners can claim a **30% federal tax credit** on the full cost of installation. That's a massive financial benefit.
 
 - **Solar Loan:** You own the system, so **you** claim the 30% federal tax credit. On a $25,000 system, that's $7,500 back at tax time.
 - **Solar Lease:** The solar company owns the system, so **they** claim the tax credit. You get none of it directly, though the company may factor it into your lease pricing.
