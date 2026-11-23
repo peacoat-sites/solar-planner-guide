@@ -35,7 +35,7 @@ The good news is that the federal residential clean energy credit ([IRS Form 569
 
 ## Inverter Compatibility: The Part That Changes Everything
 
-Most homeowners shopping for batteries focus on brand names and capacity. That's backwards. The first thing to determine is whether your existing solar inverter is a [string inverter](/microinverters-vs-string-inverters/), a hybrid (battery-ready) inverter, or whether you have microinverters or DC optimizers on each panel.
+Most homeowners shopping for batteries focus on brand names and capacity. That's backwards. The first thing to determine is whether your existing solar inverter is a string inverter, a hybrid (battery-ready) inverter, or whether you have microinverters or DC optimizers on each panel.
 
 If you have an older string inverter (a SolarEdge, Fronius, SMA, or similar unit installed without battery capability), you have two main paths. You can AC-couple a battery system like the Tesla Powerwall 3 or Enphase IQ Battery, which connects on the AC side of your existing inverter. Or you can replace your string inverter with a hybrid inverter (sometimes called a storage-ready inverter) and DC-couple a battery bank directly. AC-coupling is generally cheaper and faster to install. DC-coupling is more efficient but requires pulling a permit for a full inverter swap.
 

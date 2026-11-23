@@ -39,7 +39,7 @@ So let's talk about what these warranties actually say, what matters, and where 
 
 This is where most people get confused, and I get it. The language sounds interchangeable. It isn't.
 
-Your [solar panels](/solar-panels-in-illinois-guide/) come with a **product warranty** (sometimes called a materials or equipment warranty) and a **performance warranty** (sometimes called a power output or linear degradation warranty). They cover completely different things.
+Your solar panels come with a **product warranty** (sometimes called a materials or equipment warranty) and a **performance warranty** (sometimes called a power output or linear degradation warranty). They cover completely different things.
 
 The product warranty covers physical defects: delamination, cracking, junction box failures, frame corrosion. Most reputable manufacturers offer 12 to 15 years here. Some, like Panasonic and SunPower, offer 25 years on materials. That gap, 12 years versus 25, is meaningful when you're putting something on your roof that you expect to last three decades.
 
@@ -65,7 +65,7 @@ Let me put the numbers side by side, because this is where it gets concrete.
 
 What this table tells you practically: if you have a 10 kW system today, SunPower's warranty guarantees you'll have at least 9.2 kW of capacity in 2051. A budget panel might only guarantee 7 kW. Over 25 years, that gap compounds into thousands of dollars of lost production.
 
-Scenario example: A homeowner in Phoenix installs a 10 kW system in 2026. They choose budget panels with a 70% output guarantee at year 25. A neighbor installs the same [size system](/how-to-size-your-solar-system-when-the-roi-math-has-changed/) with panels guaranteeing 92% at year 25. At an average retail rate of $0.14/kWh (conservative for Arizona), that 2.2 kW difference in guaranteed output translates to roughly $2,700 in lost electricity value over the life of the system, assuming the same sun hours. And that's the guaranteed floor, not the average outcome.
+Scenario example: A homeowner in Phoenix installs a 10 kW system in 2026. They choose budget panels with a 70% output guarantee at year 25. A neighbor installs the same size system with panels guaranteeing 92% at year 25. At an average retail rate of $0.14/kWh (conservative for Arizona), that 2.2 kW difference in guaranteed output translates to roughly $2,700 in lost electricity value over the life of the system, assuming the same sun hours. And that's the guaranteed floor, not the average outcome.
 
 ## The Installer Warranty Nobody Reads
 

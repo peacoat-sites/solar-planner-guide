@@ -26,7 +26,7 @@ faqs:
     a: "Absolutely, and this is the biggest risk in SREC-dependent financial models. Prices fluctuate based on supply (how much solar has been installed) versus demand (how aggressive the state RPS is). Ohio's market collapse and New Jersey's past volatility are real precedents. Long-term SREC contracts with utilities trade upside for price certainty, which is worth considering in high-value markets."
 ---
 
-Most homeowners who go solar [have never heard](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) of SRECs. The ones who have often think they're a nice-but-minor bonus. The reality: in certain states, SREC income alone can cover 20–40% of a solar system's total cost over ten years, and that's not a stretch figure I pulled from a brochure. It comes from looking at what New Jersey and Massachusetts homeowners have actually banked over the past decade.
+Most homeowners who go solar have never heard of SRECs. The ones who have often think they're a nice-but-minor bonus. The reality: in certain states, SREC income alone can cover 20–40% of a solar system's total cost over ten years, and that's not a stretch figure I pulled from a brochure. It comes from looking at what New Jersey and Massachusetts homeowners have actually banked over the past decade.
 
 So let's talk about what SRECs are, where they pay well, where they pay [almost nothing](/how-to-size-a-solar-system-when-exporting-power-pays-almost-nothing/), and what the installers pitching you a system in Ohio probably won't emphasize enough.
 
@@ -34,7 +34,7 @@ So let's talk about what SRECs are, where they pay well, where they pay [almost 
 
 ## What an SREC Actually Is
 
-Every time your [solar panels](/how-much-do-solar-panels-increase-home-value/) generate 1,000 kilowatt-hours of electricity, one SREC is created and registered in your name. That's separate from the electricity itself, which you either use or export to the grid. The SREC is essentially a certificate proving that a megawatt-hour of clean power was produced, and utilities in certain states are legally required to buy a certain percentage of their electricity from renewable sources. When they can't build enough solar themselves, they buy SRECs from homeowners like you to satisfy what's called a Renewable Portfolio Standard (RPS).
+Every time your solar panels generate 1,000 kilowatt-hours of electricity, one SREC is created and registered in your name. That's separate from the electricity itself, which you either use or export to the grid. The SREC is essentially a certificate proving that a megawatt-hour of clean power was produced, and utilities in certain states are legally required to buy a certain percentage of their electricity from renewable sources. When they can't build enough solar themselves, they buy SRECs from homeowners like you to satisfy what's called a Renewable Portfolio Standard (RPS).
 
 That legal mandate is what gives SRECs real monetary value. Without an RPS with teeth, the market collapses. This is why you can't just sell SRECs to anyone, anywhere. The buyer has to be a utility operating under a state RPS with a solar carve-out, which is a specific requirement within the RPS that power must come from solar, not just any renewable.
 

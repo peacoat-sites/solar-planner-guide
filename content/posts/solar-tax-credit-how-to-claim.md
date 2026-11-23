@@ -25,7 +25,7 @@ author_title: "Installation and Permits"
 author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most homeowners leave thousands of dollars on the table every year simply because they don't understand how a tax credit actually works. Take a real example: a family in Phoenix installs a $28,000 solar system in 2024. They're entitled to a $7,840 federal tax credit (that's 30% of $28,000 under the current [Residential Clean Energy Credit](/itc-solar-investment-tax-credit-explained/)). But if they file incorrectly, forget Form 5695, or misunderstand the "carry forward" rules, that money either delays itself by a year or disappears entirely. Getting this right isn't complicated, but it does require knowing exactly what you're doing before you file.
+Most homeowners leave thousands of dollars on the table every year simply because they don't understand how a tax credit actually works. Take a real example: a family in Phoenix installs a $28,000 solar system in 2024. They're entitled to a $7,840 federal tax credit (that's 30% of $28,000 under the current Residential Clean Energy Credit). But if they file incorrectly, forget Form 5695, or misunderstand the "carry forward" rules, that money either delays itself by a year or disappears entirely. Getting this right isn't complicated, but it does require knowing exactly what you're doing before you file.
 
 ## What the Solar Tax Credit Actually Is (and What It Isn't)
 

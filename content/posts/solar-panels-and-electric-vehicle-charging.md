@@ -1,5 +1,5 @@
 ---
-title: "Power Your EV With Solar Panels at Home"
+title: "Solar Panels and Electric Vehicle Charging at Home"
 date: 2026-05-30T10:55:31.108655+00:00
 draft: false
 description: "Discover how solar panels can power your electric vehicle charging at home, reduce energy costs, and help you drive on clean, renewable energy every day."

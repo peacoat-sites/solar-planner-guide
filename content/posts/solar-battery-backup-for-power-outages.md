@@ -1,5 +1,5 @@
 ---
-title: "Keep Your Home Powered When the Grid Goes Down"
+title: "Solar Battery Backup for Power Outages: What to Know"
 date: 2026-05-23T04:19:21.111184+00:00
 draft: false
 description: "Stay powered during outages with a solar battery backup system. Learn how these systems work, top options available, and how to choose the right one for your ho"
@@ -67,7 +67,7 @@ The 30% federal Investment Tax Credit (ITC) now applies to standalone battery st
 
 Here's the hard part: [batteries don't save you money](/solar-with-battery-storage-vs-without/) the way solar panels do. Their financial value comes from three places: time-of-use arbitrage (charging cheap, discharging during peak rate hours), demand charge reduction for homes on those rate structures, and backup value, which is real but hard to quantify on a spreadsheet.
 
-For those in areas with frequent outages, the [battery cost can look almost like insurance](/off-grid-solar-battery-system-cost/). If you lose $3,000 worth of inventory in a home-based business during a single extended outage, the math shifts quickly. If you're in Phoenix with reliable grid power and no time-of-use rates, the financial case for batteries is weaker.
+For those in areas with frequent outages, the battery cost can look almost like insurance. If you lose $3,000 worth of inventory in a home-based business during a single extended outage, the math shifts quickly. If you're in Phoenix with reliable grid power and no time-of-use rates, the financial case for batteries is weaker.
 
 ## Comparing the Top Home Battery Systems
 

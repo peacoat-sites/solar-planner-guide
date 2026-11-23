@@ -56,7 +56,7 @@ Once you have your annual kWh, here's the basic calculation:
 
 **Number of panels = Annual kWh usage / (panel wattage x peak sun hours x 365)**
 
-Let me use real numbers. Say your home uses 10,500 kWh per year. You're considering 400-watt panels, which is standard now in 2024 (Qcells Q.PEAK DUO BLK ML-G10 and REC Alpha Pure-Black both sit around that range). Your location gets about 4.5 [peak sun hours per day](/what-size-solar-system-for-2000-sq-ft-home/), which is roughly average for somewhere like Nashville or Charlotte.
+Let me use real numbers. Say your home uses 10,500 kWh per year. You're considering 400-watt panels, which is standard now in 2024 (Qcells Q.PEAK DUO BLK ML-G10 and REC Alpha Pure-Black both sit around that range). Your location gets about 4.5 peak sun hours per day, which is roughly average for somewhere like Nashville or Charlotte.
 
 400W x 4.5 hours x 365 days = 657 kWh per panel per year (in theory)
 

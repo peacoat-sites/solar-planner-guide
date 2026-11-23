@@ -1,5 +1,5 @@
 ---
-title: "Power Purchase Agreements: Pros and Cons Explained"
+title: "Solar PPA Pros and Cons: What to Know Before Signing"
 date: 2026-05-29T13:24:48.451121+00:00
 draft: false
 description: "Discover the key solar PPA pros and cons, including zero upfront costs and long-term savings, plus potential drawbacks to help you decide if it is right for you"
@@ -37,7 +37,7 @@ That's the key distinction most people miss. When you finance or pay cash for so
 
 The appeal is obvious. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) notes that PPAs and leases remove the barrier of upfront cost, which for a typical residential system can run $25,000 to $35,000 before incentives. For homeowners who don't have that cash or don't want a loan payment, a PPA can deliver real bill savings starting day one with zero capital required.
 
-The tradeoff is that you're giving up ownership, and with ownership goes the [federal tax credit](/solar-loan-vs-solar-lease-vs-ppa/), the equity, and a lot of control.
+The tradeoff is that you're giving up ownership, and with ownership goes the federal tax credit, the equity, and a lot of control.
 
 ## The Real Pros: Where PPAs Genuinely Shine
 

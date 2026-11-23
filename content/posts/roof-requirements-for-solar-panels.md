@@ -39,7 +39,7 @@ Most residential roofs are fine. But "most" isn't all of them, and the specifics
 
 If your asphalt shingle roof is more than 15 years old, you need an honest conversation with a roofing contractor before you commit to solar. Standard 3-tab asphalt shingles last roughly 20 to 25 years. Architectural shingles push that to 25 to 30 years. If your roof has 8 years left on it, you do not want to install solar and then pull everything off in year 6 for a reroof.
 
-A full solar reroof removal and reinstallation on a 7-kilowatt system can cost $3,500 or more. If you need a new roof anyway, it's almost always smarter to do both projects together. Many roofing companies now offer [solar-ready reroofs](/solar-installation-process-step-by-step/), and you can sometimes negotiate a combined discount.
+A full solar reroof removal and reinstallation on a 7-kilowatt system can cost $3,500 or more. If you need a new roof anyway, it's almost always smarter to do both projects together. Many roofing companies now offer solar-ready reroofs, and you can sometimes negotiate a combined discount.
 
 Homeowners can get burned both ways: some install solar on a 22-year-old roof and pay for reroof removal two years later, while others panic unnecessarily and spend money on a roof that had plenty of life left. Get a qualified roofer, not your solar installer, to give you an independent assessment of remaining life. Those are two different businesses with two different incentives.
 

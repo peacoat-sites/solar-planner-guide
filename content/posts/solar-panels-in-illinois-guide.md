@@ -38,7 +38,7 @@ What I want to do here is give you the actual numbers, the catches, and the hone
 
 The average cost for a residential [solar installation](/average-cost-of-solar-installation-by-state/) in Illinois, as of mid-2026, runs between $2.85 and $3.10 per watt before any incentives. For a typical 8-kilowatt system (which handles most of a 2,000-square-foot home's annual usage in the Chicago area), that's roughly $22,800 to $24,800 out of pocket before tax credits kick in.
 
-Apply the 30% federal Investment [Tax Credit](/how-to-size-your-solar-system-when-the-roi-math-has-changed/), and you're down to roughly $15,960 to $17,360. Then Illinois's Adjustable Block Program layered on top of that, and the numbers get genuinely interesting.
+Apply the 30% federal Investment Tax Credit, and you're down to roughly $15,960 to $17,360. Then Illinois's Adjustable Block Program layered on top of that, and the numbers get genuinely interesting.
 
 I want to be clear about one thing most installers gloss over: the federal ITC is a tax *credit*, not a rebate. You have to owe federal taxes to benefit from it. Some retirees and others on fixed income have very little federal tax liability, so the ITC provides minimal benefit. If that's your situation, talk to a CPA before signing anything.
 

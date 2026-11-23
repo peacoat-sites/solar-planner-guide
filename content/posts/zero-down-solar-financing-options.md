@@ -1,5 +1,5 @@
 ---
-title: "Go Solar Without Paying Upfront"
+title: "Zero Down Solar Financing Options and What They Cost You"
 date: 2026-05-24T14:47:46.169640+00:00
 draft: false
 description: "Discover zero down solar financing options that make going solar affordable with no upfront costs. Compare loans, leases, and PPAs to find your best fit today."

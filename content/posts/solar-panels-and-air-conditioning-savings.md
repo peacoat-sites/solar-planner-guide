@@ -28,7 +28,7 @@ faqs:
 
 Sixty percent. That's the share of a typical home's [electricity bill](/solar-cost-vs-electricity-bill-savings/) that air conditioning alone can devour during a hot summer, according to the U.S. Department of Energy. I don't lead with that number to scare you. I lead with it because it's the reason solar panels and air conditioning are, for most American homeowners, one of the most financially compelling combinations you can make in home energy.
 
-In hot climates like Phoenix, Atlanta, or Houston, homeowners often face $350+ [electric bills](/is-solar-worth-it-with-low-electric-bills/) during peak summer months. Running the numbers can reveal that solar covers most or all of the summer load. However, many people make this decision without fully understanding how sizing and pricing actually work, leading to overpaying or undersizing their system.
+In hot climates like Phoenix, Atlanta, or Houston, homeowners often face $350+ electric bills during peak summer months. Running the numbers can reveal that solar covers most or all of the summer load. However, many people make this decision without fully understanding how sizing and pricing actually work, leading to overpaying or undersizing their system.
 
 So let me give you that version.
 

@@ -28,7 +28,7 @@ faqs:
 
 Most solar coverage about the Pacific Northwest makes the same mistake: it leads with sunshine maps that show the region as a gray wasteland, scares people off, and stops there. That's wrong, and the numbers prove it.
 
-Seattle gets roughly 2,080 hours of daylight per year. [Solar panels](/can-solar-panels-power-a-whole-house-off-grid/) don't run on direct sunshine alone; they run on daylight, and modern monocrystalline panels are genuinely efficient in diffuse, overcast conditions. Germany, which produces more solar energy per capita than almost anywhere on earth, gets *less* annual sun than Portland. That comparison is often the single fact that changes skeptical homeowners' minds fastest.
+Seattle gets roughly 2,080 hours of daylight per year. Solar panels don't run on direct sunshine alone; they run on daylight, and modern monocrystalline panels are genuinely efficient in diffuse, overcast conditions. Germany, which produces more solar energy per capita than almost anywhere on earth, gets *less* annual sun than Portland. That comparison is often the single fact that changes skeptical homeowners' minds fastest.
 
 The real variables in the Pacific Northwest aren't cloud cover. They're your roof angle, your utility's [net metering policy](/net-metering-policy-by-state/), and whether you qualify for the state-specific incentives that most installers underplay because they're complicated to explain in a sales pitch.
 
@@ -36,7 +36,7 @@ The real variables in the Pacific Northwest aren't cloud cover. They're your roo
 
 ## The Numbers Behind the Gray Sky
 
-Let me give you a concrete baseline. A typical PNW home uses between 9,000 and 11,000 kWh per year, which is actually lower than the national average (around 10,500 kWh) partly because [air conditioning](/solar-panels-and-air-conditioning-savings/) loads are smaller here. That matters because a system that offsets your full usage is a smaller, cheaper system than what a Phoenix homeowner needs.
+Let me give you a concrete baseline. A typical PNW home uses between 9,000 and 11,000 kWh per year, which is actually lower than the national average (around 10,500 kWh) partly because air conditioning loads are smaller here. That matters because a system that offsets your full usage is a smaller, cheaper system than what a Phoenix homeowner needs.
 
 Average system size in the region runs around 7 to 9 kW. EnergySage's market data puts the pre-incentive cost for a quality residential system at roughly $2.70 to $3.10 per watt installed in the Pacific Northwest as of 2026, which puts an 8 kW system at $21,600 to $24,800 before any credits.
 

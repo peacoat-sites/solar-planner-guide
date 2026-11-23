@@ -30,7 +30,7 @@ $0.53. That's how much of every dollar you spend on a residential [solar install
 
 [Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) fixate on the total system price, which is fair. But understanding the labor slice matters a lot, because it's the piece that varies most between competing quotes, and it's the piece where you can actually get taken advantage of without knowing it. Equipment prices are relatively transparent. Labor markups are not.
 
-Let me show you what the numbers actually [look like](/how-to-size-your-solar-system-when-the-roi-math-has-changed/).
+Let me show you what the numbers actually look like.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Labor typically costs $0.50–$1.00 per watt, or roughly 10–15% of a total solar installation quote</li><li style="margin:5px 0">A standard 8 kW residential system runs $4,000–$8,000 in labor alone before incentives</li><li style="margin:5px 0">Labor costs vary significantly by state, roof type, and system complexity, not just installer margin</li><li style="margin:5px 0">The 30% federal Investment Tax Credit applies to the full installed cost, including labor</li><li style="margin:5px 0">Getting 3+ quotes can reveal labor markup gaps of $2,000–$4,000 on identical systems</li></ul></div>
 

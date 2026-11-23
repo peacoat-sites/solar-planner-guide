@@ -69,7 +69,7 @@ A few factors can shift your ideal system size by 2-4 kW in either direction.
 
 **Shading.** A single large tree casting shade on even two or three panels between 10 AM and 2 PM can cut your system's output by 20-30%. Microinverters like those from Enphase, or DC power optimizers like SolarEdge, mitigate this significantly compared to old-school string inverters, but shading always costs you something. Be honest with yourself about your roof before you get deep into quotes.
 
-**Your electricity rate and whether it's time-of-use.** If your utility charges you different rates at different times of day, the economics of solar change. A higher on-peak rate makes solar more valuable if you're home during the day, and it also makes [battery storage](/solar-battery-sizing-calculator/) more attractive if you're not.
+**Your electricity rate and whether it's time-of-use.** If your utility charges you different rates at different times of day, the economics of solar change. A higher on-peak rate makes solar more valuable if you're home during the day, and it also makes battery storage more attractive if you're not.
 
 **Battery storage.** This doesn't change how much solar you need to generate, but it changes how much of that generation you actually use yourself. A Tesla Powerwall 3 (13.5 kWh capacity) or an Enphase IQ Battery 5P lets you store midday production for evening use instead of sending it to the grid at a lower export rate. For homes with high evening loads, adding storage can justify a slightly larger array.
 

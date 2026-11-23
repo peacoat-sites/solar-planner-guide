@@ -42,7 +42,7 @@ The average residential solar installation in Texas runs between $2.50 and $3.20
 
 Then the federal tax credit hits. The Inflation Reduction Act locked in a 30% federal Investment Tax Credit through 2032, so on a $28,000 system, that's $8,400 back when you file your taxes. Important: that's a credit, not a refund. You need actual tax liability to use it fully. I've talked to retirees who were blindsided by this distinction.
 
-Texas has no state income tax, which means [no state solar tax credit](/best-states-for-solar-energy-savings/) to layer on top. That's the bad news. The good news: Texas does have a strong property tax exemption for solar. The added value that solar puts on your home (NREL research puts this at roughly $15,000 for an average system) is exempt from property taxes. In a state where property taxes run 1.5% to 2.5% annually, that exemption quietly saves you $300 to $600 every year for the life of the system.
+Texas has no state income tax, which means no state solar tax credit to layer on top. That's the bad news. The good news: Texas does have a strong property tax exemption for solar. The added value that solar puts on your home (NREL research puts this at roughly $15,000 for an average system) is exempt from property taxes. In a state where property taxes run 1.5% to 2.5% annually, that exemption quietly saves you $300 to $600 every year for the life of the system.
 
 Most Texas utilities also offer a sales tax exemption on solar equipment. Not all installers will mention this automatically, so ask.
 
@@ -68,7 +68,7 @@ Without a battery, a grid-tied solar system goes dark during an outage. This is 
 
 A Tesla Powerwall 3 currently retails around $9,000 to $11,000 installed. An Enphase IQ Battery 5P runs comparable numbers. These costs also qualify for the 30% federal tax credit when installed alongside solar (or even on an existing solar system). So the after-credit cost is more like $6,300 to $7,700.
 
-Is it worth it? Depends on where you live and [how risk-tolerant you are](/solar-panels-in-california-nem-30/). Coastal Texas and areas with aging infrastructure see more outages, and a battery there feels less like a luxury. In parts of North Texas with newer infrastructure, you might go a decade without a meaningful outage. I wouldn't tell everyone to buy one, but if your household has someone on medical equipment or you simply can't handle another week without power, the math is secondary to the peace of mind.
+Is it worth it? Depends on where you live and how risk-tolerant you are. Coastal Texas and areas with aging infrastructure see more outages, and a battery there feels less like a luxury. In parts of North Texas with newer infrastructure, you might go a decade without a meaningful outage. I wouldn't tell everyone to buy one, but if your household has someone on medical equipment or you simply can't handle another week without power, the math is secondary to the peace of mind.
 
 One underrated option: a hybrid inverter like the SMA Sunny Boy Storage or the Enphase IQ8 series can give you limited backup from your panels during daytime outages even without a large battery bank. The Enphase IQ8 microinverters specifically have a "Sunlight Backup" feature that a lot of homeowners don't know about. Worth asking your installer if that's built into their proposal.
 

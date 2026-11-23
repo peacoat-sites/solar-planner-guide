@@ -94,7 +94,7 @@ Incentives only matter if your system is designed correctly for NEM 3.0. Here's 
 
 **Step 4: Calculate actual net cost.** Total system cost minus 30% ITC minus any SGIP rebate you qualify for. Our [how much solar panels cost in 2026](/how-much-do-solar-panels-cost/) guide breaks down current market pricing.
 
-**Step 5: Run honest payback math.** California's high electricity rates plus 3% annual rate increases (conservative, given recent PG&E and SDG&E approvals) mean most well-designed systems pay back in 7 to 10 years under NEM 3.0, depending on battery and SGIP eligibility. Use a [solar payback period calculator](/how-long-to-pay-off-solar-panels/) for your specific numbers.
+**Step 5: Run honest payback math.** California's high electricity rates plus 3% annual rate increases (conservative, given recent PG&E and SDG&E approvals) mean most well-designed systems pay back in 7 to 10 years under NEM 3.0, depending on battery and SGIP eligibility. Use a solar payback period calculator for your specific numbers.
 
 **Step 6: Think through financing.** Cash or a solar loan preserves the tax credit for you. Leasing or a PPA means the installer keeps it. See the full breakdown in our [solar loan vs. solar lease vs. PPA comparison](/solar-loan-vs-solar-lease-vs-ppa/).
 

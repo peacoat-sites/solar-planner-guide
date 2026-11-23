@@ -26,9 +26,9 @@ Here's the honest situation: BloombergNEF projects U.S. residential solar additi
 
 ## The Out-of-Pocket Shock Is Real, and the Numbers Explain Why
 
-Let me put the credit loss in concrete terms. On a $20,000 system, the old 30% credit handed you $6,000 back at tax time. Now that $6,000 stays in your pocket before the install, not after. To net the same effective cost, you'd need to either negotiate a 30% price cut (not happening in this market) or shrink the system. Infinity Solar's June 2026 analysis puts it this way: losing the credit effectively means [homeowners must](/what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/) spend about 43% more out-of-pocket for the same system. Payback stretches from roughly 7 years to 9 years on a system sized the way most people sized them in 2023 and 2024.
+Let me put the credit loss in concrete terms. On a $20,000 system, the old 30% credit handed you $6,000 back at tax time. Now that $6,000 stays in your pocket before the install, not after. To net the same effective cost, you'd need to either negotiate a 30% price cut (not happening in this market) or shrink the system. Infinity Solar's June 2026 analysis puts it this way: losing the credit effectively means homeowners must spend about 43% more out-of-pocket for the same system. Payback stretches from roughly 7 years to 9 years on a system sized the way most people sized them in 2023 and 2024.
 
-Nine years is still well inside a 25-year panel lifespan. The long-term value proposition hasn't collapsed. But 9 years is a harder sell when you're writing a bigger check on day one, especially if you're financing and interest [charges are](/how-demand-charges-are-rewriting-your-solar-roi-in-2026/) stacking on top.
+Nine years is still well inside a 25-year panel lifespan. The long-term value proposition hasn't collapsed. But 9 years is a harder sell when you're writing a bigger check on day one, especially if you're financing and interest charges are stacking on top.
 
 The practical response isn't to walk away from solar. It's to walk into the sizing conversation with a different goal: optimize for payback period, not for maximum offset. Those are different targets, and they produce different system sizes.
 

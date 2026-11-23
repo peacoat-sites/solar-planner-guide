@@ -39,7 +39,7 @@ Here's what installers don't always volunteer: the results of this assessment ca
 
 The National Renewable Energy Laboratory (NREL) has published extensive data on how orientation affects solar output, and the difference between a south-facing array and a west-facing one can mean a 10 to 20 percent reduction in annual energy generation depending on your location. That's not nothing. Make sure your installer shows you their shading analysis and production estimates, not just the system size.
 
-After the physical assessment, engineers will design your system. This includes panel layout, inverter type and placement, electrical wiring diagrams, and sometimes a structural analysis of your [roof's load-bearing capacity](/roof-requirements-for-solar-panels/). This phase typically takes one to three weeks.
+After the physical assessment, engineers will design your system. This includes panel layout, inverter type and placement, electrical wiring diagrams, and sometimes a structural analysis of your roof's load-bearing capacity. This phase typically takes one to three weeks.
 
 ---
 
@@ -59,7 +59,7 @@ I'll be honest: this is the part that kills the timeline, and it's almost entire
 
 Before your installer can put a single panel on your roof, they need two separate approvals. The first is a building permit from your local municipality. The second, which runs on a different track entirely, is an interconnection application submitted to your utility company.
 
-Permit timelines vary wildly by location. In some jurisdictions, permits are pulled in a few days. In others, I've seen clients wait six to ten weeks. Cities and counties that have adopted [SolarAPP+](/solar-installation-timeline-how-long/) (an automated permit processing tool backed by the U.S. Department of Energy) tend to move much faster, sometimes issuing permits in hours. If you want to know whether your area uses it, ask your installer directly.
+Permit timelines vary wildly by location. In some jurisdictions, permits are pulled in a few days. In others, I've seen clients wait six to ten weeks. Cities and counties that have adopted SolarAPP+ (an automated permit processing tool backed by the U.S. Department of Energy) tend to move much faster, sometimes issuing permits in hours. If you want to know whether your area uses it, ask your installer directly.
 
 The interconnection application is a separate beast. This is the formal request to connect your solar system to the grid, allowing you to either draw from it or feed power back into it. Utilities are notoriously slow here. The average interconnection approval takes anywhere from two weeks to three months, depending on your utility and whether your area has grid capacity constraints.
 

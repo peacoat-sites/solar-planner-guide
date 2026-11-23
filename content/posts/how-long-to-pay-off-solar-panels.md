@@ -1,5 +1,5 @@
 ---
-title: "When Will Your Solar Investment Break Even?"
+title: "How Long to Pay Off Solar Panels and Break Even"
 date: 2026-05-22T03:53:48.345042+00:00
 draft: false
 description: "Discover how long it takes to pay off solar panels, what affects your payback period, and tips to maximize your savings and return on investment faster."
@@ -39,7 +39,7 @@ There's also the question of how you define "cost." If you financed your system 
 
 According to EnergySage's market data, the average solar payback period in the United States falls between 8 and 9 years. That's a reasonable benchmark, but it hides enormous regional variation. In Hawaii, where electricity costs around 40 cents per kilowatt-hour, payback periods can drop below 5 years. In Louisiana, where rates hover around 12 cents per kilowatt-hour, the same system might take 14 or 15 years to pay off.
 
-The [federal Investment Tax Credit (ITC)](/solar-cost-vs-electricity-bill-savings/) is currently set at 30% through 2032, which dramatically improves payback for homeowners who owe enough federal taxes to claim the full credit. If you're retired and your tax liability is low, you might only capture a fraction of that credit, which pushes your payback period out.
+The federal Investment Tax Credit (ITC) is currently set at 30% through 2032, which dramatically improves payback for homeowners who owe enough federal taxes to claim the full credit. If you're retired and your tax liability is low, you might only capture a fraction of that credit, which pushes your payback period out.
 
 Here's a simplified look at how location alone changes the math:
 

@@ -28,7 +28,7 @@ faqs:
 
 [Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) I talk to can tell me their panel's wattage within about five seconds. Ask them about efficiency, though, and you get a pause, a guess somewhere between 15% and 25%, and then: "Does it actually matter that much?"
 
-It matters more than the wattage number does, honestly. Wattage is a product of efficiency and panel size, so a 400W panel can be either a reasonably sized unit running at 22% efficiency or a bigger panel doing the same job at 18%. Same output, different footprint, different [cost per](/solar-panel-cost-per-watt/) usable square foot on your roof. Homeowners with limited south-facing roof space can end up with a system that doesn't fit enough panels to cover their bill if they don't realize their installer has quoted a lower-efficiency product.
+It matters more than the wattage number does, honestly. Wattage is a product of efficiency and panel size, so a 400W panel can be either a reasonably sized unit running at 22% efficiency or a bigger panel doing the same job at 18%. Same output, different footprint, different cost per usable square foot on your roof. Homeowners with limited south-facing roof space can end up with a system that doesn't fit enough panels to cover their bill if they don't realize their installer has quoted a lower-efficiency product.
 
 Let me walk you through what these numbers actually mean, where they come from, and when they're worth paying a premium for.
 
@@ -36,7 +36,7 @@ Let me walk you through what these numbers actually mean, where they come from, 
 
 ## What the Percentage Actually Measures
 
-Efficiency is a simple ratio: how much of the sunlight hitting the panel gets converted into usable electricity. A panel rated at 21% converts 21% of the [solar energy](/whole-home-solar-energy-system/) that strikes it into AC power (after the inverter does its job). The other 79% is lost, mostly as heat.
+Efficiency is a simple ratio: how much of the sunlight hitting the panel gets converted into usable electricity. A panel rated at 21% converts 21% of the solar energy that strikes it into AC power (after the inverter does its job). The other 79% is lost, mostly as heat.
 
 This measurement happens under Standard Test Conditions: 1,000 watts per square meter of irradiance, 25°C cell temperature, and a specific air mass coefficient. The National Renewable Energy Laboratory (NREL) maintains the most rigorous cell efficiency research and regularly publishes a "best research-cell efficiency chart" that shows where commercial products sit versus theoretical limits. Silicon-based cells have a theoretical maximum around 29.4%, and the best commercial monocrystalline panels sit around 22-23% today. We're not close to a dramatic efficiency breakthrough anytime soon, despite what you might read in tech headlines about perovskite cells.
 

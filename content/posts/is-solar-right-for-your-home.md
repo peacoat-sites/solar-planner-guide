@@ -17,7 +17,7 @@ This quick 7-question quiz walks you through the pieces that actually matter. Tw
 
 {{< quiz >}}
 
-However you scored, don't treat this as a final answer. Every home's different, and the only real way to know your actual payback period and savings is a custom estimate from someone who'll actually visit your property. Check out our [beginner guides](/best-solar-companies/) to see what separates a solid installer from one that'll disappear after the install, then grab a couple of competing quotes when you're ready to make a real decision.
+However you scored, don't treat this as a final answer. Every home's different, and the only real way to know your actual payback period and savings is a custom estimate from someone who'll actually visit your property. Check out our beginner guides to see what separates a solid installer from one that'll disappear after the install, then grab a couple of competing quotes when you're ready to make a real decision.
 
 ---
 

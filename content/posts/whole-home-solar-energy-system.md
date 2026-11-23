@@ -1,5 +1,5 @@
 ---
-title: "Complete Home Solar Setup: What You Need To Know"
+title: "Whole Home Solar Energy System: What You Need to Know"
 date: 2026-06-19T11:41:59.451948+00:00
 draft: false
 description: "Discover how a whole home solar energy system works, cuts electricity bills, and powers every appliance with clean renewable energy year-round."

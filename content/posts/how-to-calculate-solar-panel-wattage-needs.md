@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people get this wrong before they even talk to an installer.
 
-They Google "how many solar panels do I need," find a calculator that spits out a number, and walk into a sales conversation already anchored to a figure that might be off by 30 percent. I've sat across from homeowners who were quoted systems ranging from 6 kW to 11 kW for the [same house](/what-size-solar-system-for-2000-sq-ft-home/). That range isn't installer dishonesty (usually). It's what happens when the math starts from fuzzy inputs.
+They Google "how many solar panels do I need," find a calculator that spits out a number, and walk into a sales conversation already anchored to a figure that might be off by 30 percent. I've sat across from homeowners who were quoted systems ranging from 6 kW to 11 kW for the same house. That range isn't installer dishonesty (usually). It's what happens when the math starts from fuzzy inputs.
 
 So let's do this right.
 

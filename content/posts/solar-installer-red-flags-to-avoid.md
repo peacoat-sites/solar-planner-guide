@@ -52,7 +52,7 @@ Ask specifically: what software did you use to model this? What shading assumpti
 
 This one is sneaky because it often looks fine on the surface. The installer has good reviews, a professional website, a clean proposal. But they're actually a sales organization that subcontracts installation to a third party, who subcontracts the electrical work to someone else. By the time something goes wrong with your system three years from now, good luck figuring out who's responsible.
 
-Not all subcontracting is bad. Large national installers like [Sunrun and SunPower](/sunrun-vs-sunpower-vs-tesla-solar/) have used subcontractors for years, and some of those jobs are done well. But you need to know upfront who is actually going to be on your roof, who is pulling the permits, and who you call if there's a problem.
+Not all subcontracting is bad. Large national installers like Sunrun and SunPower have used subcontractors for years, and some of those jobs are done well. But you need to know upfront who is actually going to be on your roof, who is pulling the permits, and who you call if there's a problem.
 
 Ask directly: "Will your company's employees be doing the installation, or will you be subcontracting it?" Then ask: "Who do I contact for warranty service, and is that you or a third party?" The [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) specifically recommends verifying that your installer will be present throughout the process and responsible for the permits. If the answers are fuzzy, that's a flag.
 

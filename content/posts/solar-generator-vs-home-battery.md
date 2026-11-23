@@ -25,7 +25,7 @@ faqs:
     a: "Yes, with caveats. AC-coupled batteries like the Enphase IQ can attach to almost any existing solar system. DC-coupled options (which are more efficient) generally require compatible inverters. If you have an older string inverter system, you may need an inverter upgrade alongside the battery, which affects the total cost. Have an installer pull your existing system specs before you price anything."
 ---
 
-Solar generators and home batteries solve different problems. If you need something you can grab and run during a camping trip or a brief outage, a solar generator makes sense. If you want to keep your refrigerator, medical devices, and lights running through a multi-day grid failure, or if you're trying to cut your [electricity bill](/solar-cost-vs-electricity-bill-savings/) with stored solar energy, a home battery is what you actually need. The confusion between them is real and understandable, because marketing has blurred the lines significantly.
+Solar generators and home batteries solve different problems. If you need something you can grab and run during a camping trip or a brief outage, a solar generator makes sense. If you want to keep your refrigerator, medical devices, and lights running through a multi-day grid failure, or if you're trying to cut your electricity bill with stored solar energy, a home battery is what you actually need. The confusion between them is real and understandable, because marketing has blurred the lines significantly.
 
 A solar generator is essentially a portable power station with a built-in battery, an inverter, and sometimes a folding solar panel included in the bundle. The EcoFlow DELTA Pro and Jackery Explorer 2000 Pro are two of the best-known examples. They're self-contained, they weigh somewhere between 30 and 100 pounds, and they're not wired into your home. A home battery, by contrast, is a fixed, wall-mounted system like the [Tesla Powerwall](/tesla-powerwall-cost/) 3 or Enphase IQ Battery 5P. It connects to your home's electrical panel, charges from your rooftop solar array or the grid, and can power whole circuits or even your entire house automatically when the power goes out.
 
@@ -35,7 +35,7 @@ A solar generator is essentially a portable power station with a built-in batter
 
 ## What You're Actually Comparing
 
-The core difference isn't really about [solar panels](/solar-panels-in-illinois-guide/). It's about how much energy you can store, how fast you can discharge it, and how the system integrates with your home.
+The core difference isn't really about solar panels. It's about how much energy you can store, how fast you can discharge it, and how the system integrates with your home.
 
 | Feature | Solar Generator | Home Battery |
 |---|---|---|

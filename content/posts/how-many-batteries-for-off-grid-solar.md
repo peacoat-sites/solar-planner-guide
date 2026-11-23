@@ -30,7 +30,7 @@ Most people who come to me asking about off-grid [battery sizing](/solar-battery
 
 That's not a dodge. It's just how the math works.
 
-Let me walk you through how I actually size battery banks for off-grid systems, what the real [numbers look like](/how-to-size-your-solar-system-when-the-roi-math-has-changed/) for typical households, and where people consistently get it wrong.
+Let me walk you through how I actually size battery banks for off-grid systems, what the real numbers look like for typical households, and where people consistently get it wrong.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most off-grid homes need 2–4 days of battery autonomy, which typically means 20–40 kWh of usable storage.</li><li style="margin:5px 0">A "standard" 100Ah 12V battery holds only 1.2 kWh, you'll almost certainly need more than a handful.</li><li style="margin:5px 0">Lithium (LiFePO4) batteries can be discharged to 80–100%, while lead-acid should stop at 50% to preserve lifespan.</li><li style="margin:5px 0">System voltage (12V, 24V, or 48V) affects how many batteries wire together, not just how many you need total.</li><li style="margin:5px 0">The average off-grid home in the U.S. uses 30 kWh/day, but aggressive efficiency measures can cut that to 10–15 kWh.</li></ul></div>
 
@@ -38,7 +38,7 @@ Let me walk you through how I actually size battery banks for off-grid systems, 
 
 Before anyone can tell you how many batteries you need, you need to know how much energy you actually consume in a day. Not a rough guess. A real number.
 
-Pull your last 12 months of utility bills if you have them, because seasonal variation matters a lot. The average U.S. household uses about 29 kWh [per day](/how-many-kwh-does-a-solar-panel-produce-per-day/) according to the U.S. Energy Information Administration, but off-grid homes that have gone through the exercise of auditing their loads tend to land much lower, often 8–15 kWh/day, once you've swapped out resistance heating, old refrigerators, and incandescent lighting.
+Pull your last 12 months of utility bills if you have them, because seasonal variation matters a lot. The average U.S. household uses about 29 kWh per day according to the U.S. Energy Information Administration, but off-grid homes that have gone through the exercise of auditing their loads tend to land much lower, often 8–15 kWh/day, once you've swapped out resistance heating, old refrigerators, and incandescent lighting.
 
 I did this exercise with a family in rural New Mexico a couple of years back. They assumed they needed a massive system. When we went appliance by appliance with a [Kill A Watt meter](https://www.amazon.com/P3-International-P4400-Electricity-Monitor/dp/B00009MDBU?tag=contentportfo-20) (about $25 on Amazon, and genuinely one of the most useful tools I've ever handed a client), their actual daily load came out to 11.4 kWh. Not 30. That changed everything downstream in the sizing calculation.
 

@@ -112,7 +112,7 @@ California's SGIP shifted almost entirely to battery storage. Xcel's Solar*Rewar
 
 The reality: if a rebate program exists in your state today, waiting might mean losing it. This isn't fearmongering, it's documented history. The best incentive window for most people is now, not in two years.
 
-For context on solar costs and savings in your specific state before incentives, [average cost of solar installation by state](/average-cost-of-solar-installation-by-state/) is a solid starting point. Running numbers through a [solar payback period calculator](/how-long-to-pay-off-solar-panels/) with and without rebates shows exactly how much that rebate accelerates your break-even.
+For context on solar costs and savings in your specific state before incentives, [average cost of solar installation by state](/average-cost-of-solar-installation-by-state/) is a solid starting point. Running numbers through a solar payback period calculator with and without rebates shows exactly how much that rebate accelerates your break-even.
 
 ---
 

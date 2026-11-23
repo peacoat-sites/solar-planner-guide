@@ -1,5 +1,5 @@
 ---
-title: "How Fast Do Solar Panels Really Lose Efficiency?"
+title: "Solar Panel Degradation Rate: How Fast Efficiency Drops"
 date: 2026-06-17T11:57:31.288304+00:00
 draft: false
 description: "Learn how fast solar panels lose efficiency over time, what causes degradation, and how to maximize your systems lifespan and energy output."
@@ -31,7 +31,7 @@ I've talked to hundreds of homeowners about this. What almost nobody realizes is
 
 ## What degradation actually means in dollars
 
-Panel degradation is straightforward: a panel loses power output over time. Your 400-watt panel won't produce 400 watts in year fifteen. The industry standard, backed by NREL research, sits around 0.5% per year for modern [monocrystalline panels](/monocrystalline-vs-polycrystalline-solar-panels/). That sounds trivial until you actually do the math.
+Panel degradation is straightforward: a panel loses power output over time. Your 400-watt panel won't produce 400 watts in year fifteen. The industry standard, backed by NREL research, sits around 0.5% per year for modern monocrystalline panels. That sounds trivial until you actually do the math.
 
 A 10-panel system producing 14,000 kWh annually loses roughly 70 kWh in year one alone. After 25 years, you're generating about 17% less than day one. At the current national average of $0.17/kWh, that's $300 a year in lost production by year 25. Just from slow, invisible attrition.
 

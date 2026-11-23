@@ -28,7 +28,7 @@ faqs:
 
 Most people who plug their address into a solar savings calculator walk away thinking they understand what they're about to save. I'll be honest: most of them are wrong, and the calculator is often part of the problem.
 
-I've watched homeowners make $30,000 decisions based on a number that took 45 seconds to generate. I've also seen people dismiss solar entirely because a poorly built tool spat out a [payback period](/how-long-to-pay-off-solar-panels/) of 19 years when the real number was closer to 8. Solar savings calculators can be genuinely powerful. They can also mislead you in ways that don't become obvious until year three of ownership, when your actual bill looks nothing like what the tool promised.
+I've watched homeowners make $30,000 decisions based on a number that took 45 seconds to generate. I've also seen people dismiss solar entirely because a poorly built tool spat out a payback period of 19 years when the real number was closer to 8. Solar savings calculators can be genuinely powerful. They can also mislead you in ways that don't become obvious until year three of ownership, when your actual bill looks nothing like what the tool promised.
 
 So let me walk you through what's actually going on inside these calculators, where they reliably go wrong, and how to use one in a way that produces a number you can actually trust.
 

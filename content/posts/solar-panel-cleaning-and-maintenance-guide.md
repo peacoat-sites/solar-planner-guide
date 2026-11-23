@@ -1,5 +1,5 @@
 ---
-title: "Keep Your Solar Panels Running at Peak Performance"
+title: "Solar Panel Cleaning and Maintenance: A Practical Guide"
 date: 2026-06-29T12:08:24.143565+00:00
 draft: false
 description: "Keep your solar panels working at peak efficiency with our complete cleaning and maintenance guide covering tools, schedules, and safety tips."

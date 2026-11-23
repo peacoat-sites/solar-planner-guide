@@ -25,9 +25,9 @@ faqs:
     a: "There's no announced plan for that as of late 2026. Panasonic still has interests in energy storage and EV batteries, but residential solar panels are not part of their current product roadmap. Waiting would be speculative."
 ---
 
-SunPower, LG, and Panasonic have long been the three names that show up whenever a homeowner wants the best residential [solar panels money](/zero-down-solar-financing-options/) can buy. But the competitive picture has shifted significantly, and buying decisions made on five-year-old comparisons can lead you somewhere you didn't intend to go.
+SunPower, LG, and Panasonic have long been the three names that show up whenever a homeowner wants the best residential solar panels money can buy. But the competitive picture has shifted significantly, and buying decisions made on five-year-old comparisons can lead you somewhere you didn't intend to go.
 
-The short version: SunPower is still making panels and is arguably the strongest brand standing, though it went through bankruptcy restructuring in 2023 and emerged as a more focused company. LG exited the [solar panel](/solar-panel-shading-impact-on-output/) business entirely in 2022. Panasonic stopped manufacturing its own HIT panels and wound down its solar module production around the same time. So if you're shopping today, one of these three is a live option and two are essentially legacy products you'd only encounter as used inventory or on homes being resold.
+The short version: SunPower is still making panels and is arguably the strongest brand standing, though it went through bankruptcy restructuring in 2023 and emerged as a more focused company. LG exited the solar panel business entirely in 2022. Panasonic stopped manufacturing its own HIT panels and wound down its solar module production around the same time. So if you're shopping today, one of these three is a live option and two are essentially legacy products you'd only encounter as used inventory or on homes being resold.
 
 That matters a lot before you read any spec sheet.
 

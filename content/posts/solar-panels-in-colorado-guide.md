@@ -26,7 +26,7 @@ faqs:
     a: "For Xcel Energy customers especially, yes, it's worth evaluating. The gap between what Xcel pays for exported power (~$0.07-$0.09/kWh) and what it charges for grid electricity (~$0.14-$0.16/kWh) means self-consumption has real value. Add Colorado's hail and severe weather profile and backup power starts making more sense. A Tesla Powerwall 3 runs approximately $11,500 installed; expect a 10-14 year payback on the battery component alone unless backup value is part of your calculus."
 ---
 
-Colorado gets 300 days of sunshine a year. That number gets repeated so often in solar marketing that it's basically become a slogan, and like most slogans, it's technically true and slightly misleading at the same time. Yes, Denver averages about 300 sunny days annually, more than Miami, more than Los Angeles. But "sunny days" and "optimal solar production" aren't the same thing, and a lot of [homeowners have](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) signed contracts based on the former without fully understanding the latter.
+Colorado gets 300 days of sunshine a year. That number gets repeated so often in solar marketing that it's basically become a slogan, and like most slogans, it's technically true and slightly misleading at the same time. Yes, Denver averages about 300 sunny days annually, more than Miami, more than Los Angeles. But "sunny days" and "optimal solar production" aren't the same thing, and a lot of homeowners have signed contracts based on the former without fully understanding the latter.
 
 Let me be direct: Colorado is one of the best states in the country to go solar. The combination of high solar irradiance, a generous state net metering policy, the federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) (ITC), and genuinely competitive installer market makes the numbers work for most homeowners. But there are real gotchas, particularly around Xcel Energy's evolving rate structure, HOA restrictions in newer subdivisions, and the hail risk that nobody mentions until after the panels are on your roof.
 
@@ -36,7 +36,7 @@ This guide covers what actually matters for Colorado homeowners in 2026, with re
 
 ## What Colorado Solar Actually Costs Right Now
 
-As of July 2026, EnergySage's market data puts the average Colorado [solar installation](/solar-installation-timeline-how-long/) at around $2.70-$3.10 per watt before incentives. On a typical 9 kW system, that's $24,300 to $27,900 installed. After the 30% federal ITC, you're looking at $17,010 to $19,530 out of pocket.
+As of July 2026, EnergySage's market data puts the average Colorado solar installation at around $2.70-$3.10 per watt before incentives. On a typical 9 kW system, that's $24,300 to $27,900 installed. After the 30% federal ITC, you're looking at $17,010 to $19,530 out of pocket.
 
 Colorado itself doesn't offer a state solar income tax credit anymore (it expired in 2015 and was never reinstated, despite occasional legislative proposals). What the state does offer is a sales tax exemption on solar equipment and a property tax exemption that prevents your home's assessed value increase from raising your property taxes. Both are real money. The sales tax exemption alone saves you roughly $600-$900 on an average system.
 

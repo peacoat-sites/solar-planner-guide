@@ -71,7 +71,7 @@ A battery changes that equation significantly. The Tesla Powerwall 3, currently 
 
 One thing Florida-specific to keep in mind: the battery incentive situation is improving. If your battery is charged exclusively by solar (not from the grid), it qualifies for the federal 30% ITC alongside your panels. That helps offset the sting of the upfront cost.
 
-The NREL has published research showing that [solar-plus-storage systems](/best-states-for-solar-energy-savings/) in high-irradiance climates like Florida can achieve better financial returns than solar-only when you account for time-of-use rates and avoided demand charges, which some Florida utilities are moving toward for residential customers. The resilience value during hurricane season is harder to put a dollar figure on, but it's real.
+The NREL has published research showing that solar-plus-storage systems in high-irradiance climates like Florida can achieve better financial returns than solar-only when you account for time-of-use rates and avoided demand charges, which some Florida utilities are moving toward for residential customers. The resilience value during hurricane season is harder to put a dollar figure on, but it's real.
 
 ## Roof Conditions, HOAs, and the Bureaucratic Reality
 

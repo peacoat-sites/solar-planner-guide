@@ -35,7 +35,7 @@ The numbers tell a clear story. According to [EnergySage's market data](https://
 
 Then there's the resilience factor. Grid outages are getting longer and more frequent. The U.S. Energy Information Administration reported that average outage duration per customer has increased over the past decade, partly due to extreme weather events. For a lot of homeowners I talk to, the math isn't purely financial. Peace of mind has real value.
 
-But here's what matters: a battery isn't a magic box. It's an investment that makes sense in specific situations and doesn't in others. If your utility still offers strong net metering, your electricity rates are low, and you don't live in an outage-prone area, the [payback period on a battery](/solar-with-battery-storage-vs-without/) can stretch past 15 years. That's important to understand before we even get to brand comparisons.
+But here's what matters: a battery isn't a magic box. It's an investment that makes sense in specific situations and doesn't in others. If your utility still offers strong net metering, your electricity rates are low, and you don't live in an outage-prone area, the payback period on a battery can stretch past 15 years. That's important to understand before we even get to brand comparisons.
 
 ## What to Actually Look for in a Home Battery
 

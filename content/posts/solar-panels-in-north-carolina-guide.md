@@ -28,7 +28,7 @@ faqs:
 
 North Carolina has quietly become one of the better states for residential solar, and most coverage either oversells it or buries the details that actually matter when you're signing a contract. So let me give you the real picture.
 
-The state sits in a genuinely good solar sweet spot. Not Arizona sun, but not Seattle gloom either. Raleigh averages about 4.5 peak sun hours per day, which NREL's solar resource data confirms is solidly above the national median. That number matters more than [most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) realize, because it's what determines how much electricity a given system size actually produces over a year.
+The state sits in a genuinely good solar sweet spot. Not Arizona sun, but not Seattle gloom either. Raleigh averages about 4.5 peak sun hours per day, which NREL's solar resource data confirms is solidly above the national median. That number matters more than most homeowners realize, because it's what determines how much electricity a given system size actually produces over a year.
 
 What most coverage glosses over: North Carolina's retail electricity rates are currently around 13 cents per kWh, which is below the U.S. average of roughly 17 cents. That one fact meaningfully changes your payback math compared to, say, California or Massachusetts. Lower rates mean slower payback, full stop. I'll show you exactly what that looks like.
 
@@ -38,7 +38,7 @@ What most coverage glosses over: North Carolina's retail electricity rates are c
 
 As of August 2026, the average installed cost for residential solar in North Carolina runs between $2.50 and $3.20 [per watt](/solar-panel-cost-per-watt/) before incentives, based on EnergySage's current market data for the state. A typical 10 kW system lands between $25,000 and $32,000 before any credits.
 
-The federal Residential Clean [Energy Credit](/srec-solar-renewable-energy-credit/) remains at 30% through 2032 (thank the Inflation Reduction Act for that runway). On a $28,000 system, that's $8,400 back at tax time. Not a rebate, a tax credit, so you need to actually owe that much in federal taxes to use it fully. If you don't, the unused portion carries forward to subsequent years, which most installers mention and then immediately underexplain.
+The federal Residential Clean Energy Credit remains at 30% through 2032 (thank the Inflation Reduction Act for that runway). On a $28,000 system, that's $8,400 back at tax time. Not a rebate, a tax credit, so you need to actually owe that much in federal taxes to use it fully. If you don't, the unused portion carries forward to subsequent years, which most installers mention and then immediately underexplain.
 
 | System Size | Gross Cost (est.) | After 30% Federal Credit | Annual Production (est.) | Simple Payback |
 |---|---|---|---|---|

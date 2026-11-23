@@ -1,5 +1,5 @@
 ---
-title: "The Real Lifespan of Solar Panels Explained"
+title: "How Long Do Solar Panels Last? Real Lifespan Explained"
 date: 2026-05-18T20:33:14.964066+00:00
 draft: false
 description: "Discover how long solar panels last, what affects their lifespan, and tips to maximise performance. Most panels last 25-30 years with proper care."
@@ -83,7 +83,7 @@ Not all panels age the same way. Here's how the main types stack up for longevit
 | Polycrystalline | ~0.5-0.7%/year | 10-12 years | 80% at 25 years |
 | Thin-film (commercial) | ~0.5-1%/year | 10 years | 80% at 25 years |
 
-Polycrystalline panels are largely being phased out of the residential market, but if you're buying a used home with an older system, you might have them. Thin-film is rarely used in residential installs. For most homeowners right now, the real decision is between standard monocrystalline (your workhorse mid-range option) and [premium monocrystalline](/best-solar-panels-for-home/) from manufacturers like LG, SunPower, or REC.
+Polycrystalline panels are largely being phased out of the residential market, but if you're buying a used home with an older system, you might have them. Thin-film is rarely used in residential installs. For most homeowners right now, the real decision is between standard monocrystalline (your workhorse mid-range option) and premium monocrystalline from manufacturers like LG, SunPower, or REC.
 
 The premium panels cost 20 to 40% more per watt, but their lower degradation rate compounds meaningfully over 30 years. On a 10 kW system, the difference between 0.3% and 0.5% annual degradation is roughly 2,000 extra kilowatt-hours over 25 years. At $0.15 per kWh, that's $300. Whether that math justifies the price premium depends on your electricity rates and how long you plan to stay in the home.
 

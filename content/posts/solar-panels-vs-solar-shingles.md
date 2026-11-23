@@ -41,7 +41,7 @@ Solar shingles make financial sense for a narrower slice of people than the mark
 | Installation timeline | 1-3 days | 1-2 weeks |
 | Warranty (Tesla/GAF) | 25 years (power) | 25 years (weatherization/labor) |
 
-Traditional solar panels bolted onto brackets above your roof have been refined over 40-plus years. A standard residential system using monocrystalline panels (think LG, REC, or Qcells) runs somewhere between $2.50 and $3.50 per watt installed, before the [federal tax credit](/itc-solar-investment-tax-credit-explained/). On a typical 8 kW system, that's $20,000 to $28,000 upfront, dropping to roughly $14,800 to $20,720 after the current 30% federal Investment Tax Credit.
+Traditional solar panels bolted onto brackets above your roof have been refined over 40-plus years. A standard residential system using monocrystalline panels (think LG, REC, or Qcells) runs somewhere between $2.50 and $3.50 per watt installed, before the federal tax credit. On a typical 8 kW system, that's $20,000 to $28,000 upfront, dropping to roughly $14,800 to $20,720 after the current 30% federal Investment Tax Credit.
 
 Solar shingles are different. Tesla's Solar Roof, the most-recognized product in this category, prices out at approximately $4.50 to $6.50 per watt of solar capacity, not counting the non-solar "dummy" shingles that fill the rest of your roof. A full Tesla Solar Roof installation on an average-sized home, including both active and inactive tiles, typically runs $35,000 to $70,000 before incentives. GAF Energy's Timberline Solar shingles come in cheaper and work differently (overlaid onto an existing roof rather than replacing it), but they're still substantially more expensive per watt than conventional panels.
 

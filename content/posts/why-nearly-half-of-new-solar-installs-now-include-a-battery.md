@@ -14,7 +14,7 @@ slug: "why-nearly-half-of-new-solar-installs-now-include-a-battery"
 affiliate_disclosure: true
 ---
 
-The number you'll hear from installers is 45%. That's the share of new residential solar systems sold with a battery in Q1 2026, up from 38% just a year earlier, according to SEIA's Solar Market Insight report published June 10, 2026. Most coverage treats this as a feel-good milestone. What it actually signals is a fundamental rewiring of the economics behind home solar, driven by a tax policy split that [most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) don't fully understand yet.
+The number you'll hear from installers is 45%. That's the share of new residential solar systems sold with a battery in Q1 2026, up from 38% just a year earlier, according to SEIA's Solar Market Insight report published June 10, 2026. Most coverage treats this as a feel-good milestone. What it actually signals is a fundamental rewiring of the economics behind home solar, driven by a tax policy split that most homeowners don't fully understand yet.
 
 Here's the short version: Congress, through the One Big Beautiful Bill Act, killed the 30% residential solar tax credit (Section 25D) for systems placed in service after December 31, 2025. Gone. But the federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) for standalone battery storage? Preserved. That's not a minor footnote. It means a battery you add to a new solar system in 2026 still qualifies for a federal credit, while the panels themselves no longer do. The incentive structure now actively tilts toward storage in a way it never has before.
 

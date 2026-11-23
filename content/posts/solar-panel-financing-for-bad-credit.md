@@ -64,7 +64,7 @@ PACE loans carry real risks. Interest rates run 7-12% or higher, and if you sell
 
 **Secured personal loans or home equity products.** If you have equity, a HELOC or [home equity loan](/home-equity-loan-for-solar-panels/) lets you use your house as collateral, which dramatically softens the credit requirement. Current HELOC rates are variable and running around 8-10% depending on your lender and market conditions, which is not better than a good solar-specific loan, but it's accessible to more people.
 
-**Leases and PPAs.** Here's where I see a lot of people land, and I have genuinely mixed feelings about it. Solar leases and power purchase agreements (PPAs) often have lower credit thresholds than loans, sometimes as low as 620, because the installer owns the panels and just charges you for the electricity they produce. You avoid the upfront cost entirely. But you also give up the [federal Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) (currently 30% through 2032 under the Inflation Reduction Act), and your long-term savings are capped. It's a tradeoff, not a slam dunk.
+**Leases and PPAs.** Here's where I see a lot of people land, and I have genuinely mixed feelings about it. Solar leases and power purchase agreements (PPAs) often have lower credit thresholds than loans, sometimes as low as 620, because the installer owns the panels and just charges you for the electricity they produce. You avoid the upfront cost entirely. But you also give up the federal Investment Tax Credit (currently 30% through 2032 under the Inflation Reduction Act), and your long-term savings are capped. It's a tradeoff, not a slam dunk.
 
 ---
 

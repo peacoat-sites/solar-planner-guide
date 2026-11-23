@@ -25,7 +25,7 @@ faqs:
     a: "Check whether your county or municipality has a local exemption, since some states leave this to local governments. If there's nothing at the local level either, talk to a property tax attorney or your assessor about whether the system can be treated as personal property (which is taxed differently than real property in some states) or whether it depreciates quickly enough to minimize the assessed value over time."
 ---
 
-[Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) don't realize that adding solar panels can trigger a property tax reassessment, and in many states, that's exactly the wrong outcome. The good news: 36 states plus Washington D.C. have passed some form of solar property tax exemption, meaning the added value from your system won't increase your annual tax bill. The bad news: "some form" covers enormous variation, and a handful of states offer protections that look good on paper but have significant gaps.
+Most homeowners don't realize that adding solar panels can trigger a property tax reassessment, and in many states, that's exactly the wrong outcome. The good news: 36 states plus Washington D.C. have passed some form of solar property tax exemption, meaning the added value from your system won't increase your annual tax bill. The bad news: "some form" covers enormous variation, and a handful of states offer protections that look good on paper but have significant gaps.
 
 This matters more than people think. A typical residential solar installation adds roughly $15,000 to $25,000 in home value, according to [EnergySage's market data](https://news.energysage.com/). Without an exemption, that bump gets assessed at your local property tax rate. At 1.2% (a rough national average), that's $180 to $300 in extra taxes every year for as long as you own the home. Over 20 years, the exemption is worth $3,600 to $6,000 in today's dollars, before any rate increases.
 
@@ -35,7 +35,7 @@ This matters more than people think. A typical residential solar installation ad
 
 ## How the exemptions actually work
 
-Property tax exemptions for solar come in two main flavors. The more common type is a full value exclusion: the assessed value of your home is calculated as if the [solar system](/how-to-size-your-solar-system-when-the-roi-math-has-changed/) doesn't exist. The second type is a partial or capped exemption, where only a portion of the added value is shielded. A handful of states use a time-limited version, where the exemption applies for a set number of years and then expires.
+Property tax exemptions for solar come in two main flavors. The more common type is a full value exclusion: the assessed value of your home is calculated as if the solar system doesn't exist. The second type is a partial or capped exemption, where only a portion of the added value is shielded. A handful of states use a time-limited version, where the exemption applies for a set number of years and then expires.
 
 The distinction matters enormously for your math. A full exclusion in a high-tax state like New Jersey (effective property tax rate around 2.2%) saves you a lot more than a 50% partial exemption in a low-tax state. Don't just look at whether your state has an exemption. Look at what it covers and for how long.
 
@@ -58,7 +58,7 @@ Rather than listing all 36 states in prose, here's a comparison of the states wh
 | North Carolina | 80% of appraised value excluded | Indefinite | Partial; weaker than full-exclusion states |
 | Georgia | No statewide exemption | N/A | Local exemptions exist in some counties |
 
-California deserves a special note because the mechanism confuses a lot of people. The state doesn't have a solar property tax "exemption" in the traditional sense. Instead, Proposition 13 normally prevents reassessment until a sale, and solar falls under an "active [solar energy system](/whole-home-solar-energy-system/) construction exclusion" that keeps it off the assessment entirely. The practical result is the same as an exemption, but the legal path is different.
+California deserves a special note because the mechanism confuses a lot of people. The state doesn't have a solar property tax "exemption" in the traditional sense. Instead, Proposition 13 normally prevents reassessment until a sale, and solar falls under an "active solar energy system construction exclusion" that keeps it off the assessment entirely. The practical result is the same as an exemption, but the legal path is different.
 
 Georgia is an example of why you can't just look at a "36 states" headline and assume you're covered. If you're in Georgia, you need to check with your specific county, because there's no statewide backstop.
 

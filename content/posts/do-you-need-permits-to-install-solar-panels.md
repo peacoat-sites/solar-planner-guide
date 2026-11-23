@@ -26,7 +26,7 @@ faqs:
     a: "Your installer should tell you, but you can also look it up directly. Search your city or county building department website for 'solar permit requirements.' NREL's SolarApp+ site also lists participating jurisdictions. When in doubt, call the building department directly. Most have someone who handles solar applications regularly and can walk you through requirements in about 10 minutes."
 ---
 
-[Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) assume the hardest part of going solar is choosing between installers or figuring out financing. The permit question barely registers. Then they get a call from their installer saying the project is delayed six weeks because the local building department is backed up, and suddenly permits are all they can think about.
+Most homeowners assume the hardest part of going solar is choosing between installers or figuring out financing. The permit question barely registers. Then they get a call from their installer saying the project is delayed six weeks because the local building department is backed up, and suddenly permits are all they can think about.
 
 Permit requirements vary significantly from one jurisdiction to the next, and mishandling the permit process can derail an otherwise smooth installation. Understanding your local requirements upfront is essential.
 
@@ -36,7 +36,7 @@ So here's the real story.
 
 ## Yes, You Almost Certainly Need Permits
 
-There is no federal law that says you must pull a permit for solar. What there is, instead, is a patchwork of state and local codes that almost universally require it. The National [Renewable Energy](/srec-solar-renewable-energy-credit/) Laboratory (NREL) has tracked solar permitting across hundreds of jurisdictions and consistently found that unpermitted residential solar installations are the exception, not the rule, and that when homeowners skip permits, they typically discover the problem at resale, during a homeowner's insurance claim, or both.
+There is no federal law that says you must pull a permit for solar. What there is, instead, is a patchwork of state and local codes that almost universally require it. The National Renewable Energy Laboratory (NREL) has tracked solar permitting across hundreds of jurisdictions and consistently found that unpermitted residential solar installations are the exception, not the rule, and that when homeowners skip permits, they typically discover the problem at resale, during a homeowner's insurance claim, or both.
 
 The specific permits you'll need depend on your jurisdiction, but the two most common are a building permit (covering structural modifications to your roof) and an electrical permit (covering the wiring, inverter, and connection to your panel). Some jurisdictions roll these into a single "solar permit." Others also require a separate [utility interconnection](/utility-interconnection-process-solar/) application before they'll allow permission to operate, which is different from a building permit but equally non-negotiable.
 

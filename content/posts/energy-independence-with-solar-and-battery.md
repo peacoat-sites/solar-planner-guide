@@ -1,5 +1,5 @@
 ---
-title: "Break Free From The Grid With Solar And Batteries"
+title: "Energy Independence With Solar and Battery Storage"
 date: 2026-05-31T11:09:41.901068+00:00
 draft: false
 description: "Discover how solar panels and battery storage can help you achieve true energy independence, reduce utility bills, and protect your home from grid outages."
@@ -66,7 +66,7 @@ Let's talk numbers honestly. This is where I see people get burned by overly opt
 
 A typical grid-tied solar-only system for a 2,000-square-foot home runs between $15,000 and $25,000 before the federal tax credit. Add one battery unit (like a Powerwall or Enphase IQ Battery 5P) and you're looking at roughly $10,000 to $15,000 more. So a solar-plus-storage system lands somewhere in the $25,000 to $40,000 range for most homeowners.
 
-The 30% federal Investment Tax Credit (ITC), extended through 2032 under the Inflation Reduction Act, applies to both solar and battery components when the [battery is charged by solar](/solar-panels-with-heat-pump/). On a $35,000 system, that's $10,500 back against your federal tax liability. Real money, but it only works if you have sufficient tax liability to claim it. Retirees with little tax liability may need to spread the credit over multiple years or explore financing options.
+The 30% federal Investment Tax Credit (ITC), extended through 2032 under the Inflation Reduction Act, applies to both solar and battery components when the battery is charged by solar. On a $35,000 system, that's $10,500 back against your federal tax liability. Real money, but it only works if you have sufficient tax liability to claim it. Retirees with little tax liability may need to spread the credit over multiple years or explore financing options.
 
 Where does the payback come from? Three places.
 

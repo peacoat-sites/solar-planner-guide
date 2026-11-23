@@ -1,5 +1,5 @@
 ---
-title: "Which Solar Panel Type Delivers Better Returns?"
+title: "Monocrystalline vs Polycrystalline Solar Panels Compared"
 date: 2026-05-19T12:42:18.640916+00:00
 draft: false
 description: "Compare monocrystalline vs polycrystalline solar panels across efficiency, cost, lifespan, and appearance to find the best option for your home or business."

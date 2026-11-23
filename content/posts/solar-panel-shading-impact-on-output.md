@@ -1,5 +1,5 @@
 ---
-title: "How Tree Shade Kills Solar Panel Performance"
+title: "Solar Panel Shading Impact on Output and Performance"
 date: 2026-06-16T12:21:32.799644+00:00
 draft: false
 description: "Learn how shading affects solar panel output, why even partial shadows cause major power loss, and how to optimize your system for maximum energy production."
@@ -62,7 +62,7 @@ If you have significant shading on more than 10-15% of your roof area, microinve
 
 Most installers use software like Aurora Solar or PVWatts during the site assessment. These tools pull in satellite imagery and model shadows based on sun position at your latitude across the full year. They're decent, not perfect.
 
-The real problem is winter sun angles. A tree that clears your panels fine in July might cast a long shadow across three rows from November through February, precisely when [your production is already lowest](/do-solar-panels-work-in-winter/). Shading analyses done during a summer site visit can miss trees that become problematic in winter, when lower sun angles create long shadows across panels for months.
+The real problem is winter sun angles. A tree that clears your panels fine in July might cast a long shadow across three rows from November through February, precisely when your production is already lowest. Shading analyses done during a summer site visit can miss trees that become problematic in winter, when lower sun angles create long shadows across panels for months.
 
 If you want to check this yourself before any installer shows up, the [Sunpath app](https://www.solardesigntool.com) and the Solar Pathfinder tool are both respected options. The Solar Pathfinder (around $250 on Amazon, [check current price here](https://www.amazon.com/s?k=solar+pathfinder&tag=contentportfo-20)) is the old-school physical instrument that lets you photograph the full sky obstruction at each panel location. It's what serious installers use on complex sites. Renting one from a local solar training program is an option if you don't want to buy.
 

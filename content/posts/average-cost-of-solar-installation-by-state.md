@@ -63,7 +63,7 @@ After applying the federal ITC (currently 30% through 2032), those numbers drop 
 
 ## How to Calculate Your True Payback Period by State
 
-The sticker price matters, but what really determines whether solar makes financial sense is the [payback period](/how-long-to-pay-off-solar-panels/), which is how many years it takes for your energy savings to offset your upfront cost.
+The sticker price matters, but what really determines whether solar makes financial sense is the payback period, which is how many years it takes for your energy savings to offset your upfront cost.
 
 **Step 1: Get your actual system cost after incentives.**
 Take your installer quote, subtract the 30% federal ITC, then subtract any state or utility rebates.
@@ -84,7 +84,7 @@ If you want to track your production and savings once you're live, a home energy
 
 ## States Where Solar Makes the Most Sense Right Now
 
-High installation cost doesn't mean bad investment. Low installation cost doesn't automatically mean great investment. You need to look at the full picture: sun hours, electricity rates, incentives, and [net metering policies](/net-metering-savings-explained/).
+High installation cost doesn't mean bad investment. Low installation cost doesn't automatically mean great investment. You need to look at the full picture: sun hours, electricity rates, incentives, and net metering policies.
 
 **Massachusetts** is expensive upfront, but the SMART program pays you per kilowatt-hour your system generates for 10 years, regardless of what you consume. Combined with high local electricity rates ($0.25+ per kWh) and a 25% state tax credit, the lifetime return can be excellent.
 

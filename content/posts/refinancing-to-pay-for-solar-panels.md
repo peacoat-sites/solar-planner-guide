@@ -1,5 +1,5 @@
 ---
-title: "Refinance Your Home to Go Solar: A Complete Guide"
+title: "Refinancing to Pay for Solar Panels: A Complete Guide"
 date: 2026-06-26T10:30:17.125624+00:00
 draft: false
 description: "Learn how refinancing your home can fund solar panel installation, lower your energy bills, and potentially increase your property value."
@@ -68,7 +68,7 @@ Run these numbers before you request a quote from the lender. Walking in with yo
 
 ## The 30% federal tax credit changes everything
 
-This is where refinancing to pay for solar gets genuinely compelling. The [federal Investment Tax Credit](/solar-loan-vs-solar-lease-vs-ppa/) (ITC) currently sits at 30% of the total installed system cost. If your system costs $28,000, you get an $8,400 credit against your federal tax liability in the year the system is installed. That's not a deduction. It's a dollar-for-dollar reduction in what you owe.
+This is where refinancing to pay for solar gets genuinely compelling. The federal Investment Tax Credit (ITC) currently sits at 30% of the total installed system cost. If your system costs $28,000, you get an $8,400 credit against your federal tax liability in the year the system is installed. That's not a deduction. It's a dollar-for-dollar reduction in what you owe.
 
 Here's what I tell people: if you finance the whole system through a HELOC, then apply the ITC to immediately pay down that HELOC balance, you've effectively funded a $28,000 solar system for $19,600 out of pocket. The NREL has documented that the ITC is the single biggest driver of residential solar payback periods, and it absolutely affects whether a refi-based financing strategy makes sense.
 

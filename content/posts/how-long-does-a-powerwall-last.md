@@ -1,5 +1,5 @@
 ---
-title: "Powerwall Battery Lifespan: What Solar Owners Need to Know"
+title: "How Long Does a Powerwall Last? What Owners Should Know"
 date: 2026-06-21T10:45:45.934454+00:00
 draft: false
 description: "Discover how long a Tesla Powerwall lasts on a single charge and over its lifetime, plus tips to maximize battery performance and lifespan."

@@ -16,7 +16,7 @@ How much electricity your rooftop solar system produces comes down to one thing:
 
 {{< solar-table >}}
 
-Peak sun hours measure the average daily hours when sunlight's strong enough to generate at full capacity. Arizona and Nevada punch way above cloudier northern states on a per-panel basis. But here's the thing: solar still pencils out in low-sun states if your electricity rates are high enough. The savings estimates below use a national average rate, so they're ballpark only. Your actual numbers depend entirely on what your utility charges and [whether it offers net metering](/how-to-read-a-solar-electricity-bill/).
+Peak sun hours measure the average daily hours when sunlight's strong enough to generate at full capacity. Arizona and Nevada punch way above cloudier northern states on a per-panel basis. But here's the thing: solar still pencils out in low-sun states if your electricity rates are high enough. The savings estimates below use a national average rate, so they're ballpark only. Your actual numbers depend entirely on what your utility charges and whether it offers net metering.
 
 ## Sources
 

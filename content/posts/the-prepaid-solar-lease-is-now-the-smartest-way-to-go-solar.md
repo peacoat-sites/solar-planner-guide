@@ -30,7 +30,7 @@ But the commercial Section 48E credit is still alive. Third-party ownership prov
 
 Standard solar leases have been around since the late 2000s. You pay nothing upfront, a company installs panels on your roof, and you pay them a monthly fee for power. The economics were often mediocre, and the ownership transfer terms ranged from fine to genuinely terrible.
 
-The prepaid variant is structurally different. You pay roughly 70% of the system cost upfront, either in cash or financed through a loan. The TPO provider owns the system for six years, during which they claim the [Section 48E commercial credit](/solar-leases-and-ppas-are-back-how-to-size-for-a-third-party-system/). After that period, ownership transfers to you. As EnergySage's analysis of prepaid leases notes, this structure lets homeowners effectively capture credit value that's no longer available to direct system owners, since the provider prices the upfront cost to reflect the tax benefit they're receiving.
+The prepaid variant is structurally different. You pay roughly 70% of the system cost upfront, either in cash or financed through a loan. The TPO provider owns the system for six years, during which they claim the Section 48E commercial credit. After that period, ownership transfers to you. As EnergySage's analysis of prepaid leases notes, this structure lets homeowners effectively capture credit value that's no longer available to direct system owners, since the provider prices the upfront cost to reflect the tax benefit they're receiving.
 
 Think of it this way: you're paying about 70 cents on the dollar for a system you'll own free and clear in six years. The provider gets the 30% credit, you get the discount. It's a clean arbitrage, and right now it's legal and available.
 
@@ -50,7 +50,7 @@ Why does this matter to you? Because Chinese-manufactured equipment dominates th
 
 ## The Battery Question Is Worth Asking Separately
 
-BloombergNEF's June 15 report buried a number that deserves more attention: 40% of new residential solar systems in Q1 2026 were paired with batteries. That's up substantially from prior years, partly because [battery incentives under 48E](/how-your-solar-battery-can-now-earn-money-through-vpps/) can stack with the solar credit when the system is designed correctly, and partly because grid reliability concerns are driving independent homeowner demand.
+BloombergNEF's June 15 report buried a number that deserves more attention: 40% of new residential solar systems in Q1 2026 were paired with batteries. That's up substantially from prior years, partly because battery incentives under 48E can stack with the solar credit when the system is designed correctly, and partly because grid reliability concerns are driving independent homeowner demand.
 
 If you're entering a prepaid TPO arrangement, ask explicitly whether battery storage is included and whether the provider is claiming the storage credit separately. The FEOC battery threshold of 60% creates real constraints here; qualifying battery options are narrower than they were two years ago, and some providers are quietly dropping storage from TPO packages rather than sourcing compliant product. A solar system without storage installed in 2026 isn't wrong, but you should be making that choice consciously, not because your provider took the path of least resistance.
 

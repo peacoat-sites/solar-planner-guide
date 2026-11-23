@@ -1,5 +1,5 @@
 ---
-title: "How Net Metering Cuts Your Solar Energy Bills"
+title: "Net Metering Savings Explained: How the Math Works"
 date: 2026-05-29T13:23:41.628159+00:00
 draft: false
 description: "Learn how net metering works and how much money you can save on your electricity bill by sending unused solar energy back to the grid for credits."

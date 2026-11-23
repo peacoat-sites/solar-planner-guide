@@ -14,7 +14,7 @@ slug: "solar-group-buying-goes-statewide-what-virginia-got-right"
 affiliate_disclosure: true
 ---
 
-Most solar coverage right now is obsessing over the death of the federal tax credit. That's fair, but it's leaving out something more immediately useful: Virginia just built a model that cuts installation costs by nearly a quarter, costs the state nothing, and launched statewide on July 13, 2026. If you're a homeowner anywhere in the country trying to figure out how to go solar without a 30% [federal credit](/the-prepaid-solar-lease-is-now-the-smartest-way-to-go-solar/) backstopping your investment, pay attention to what Spanberger's office pulled off.
+Most solar coverage right now is obsessing over the death of the federal tax credit. That's fair, but it's leaving out something more immediately useful: Virginia just built a model that cuts installation costs by nearly a quarter, costs the state nothing, and launched statewide on July 13, 2026. If you're a homeowner anywhere in the country trying to figure out how to go solar without a 30% federal credit backstopping your investment, pay attention to what Spanberger's office pulled off.
 
 Governor Abigail Spanberger announced the Switch Together program as the first statewide solar group-purchasing initiative in the U.S. The mechanics are straightforward, which is part of why they work. Homeowners register (free, no commitment), the program aggregates them into a buying bloc, and pre-vetted installers then compete in a reverse auction to win those contracts. Competition drives prices down. The average result: a 23% discount, or about $6,300 off a typical 9 kW system, according to the Governor's office press release from July 13. Nearly 6,000 Virginians have already signed up since the launch, and the registration window runs through October 15.
 
@@ -30,7 +30,7 @@ Group-buying programs aren't new. Cities have run them. Nonprofits have run them
 
 When installers know they're bidding for hundreds or thousands of jobs at once, they sharpen their pencils. That's the mechanism behind the 23% average discount. For context, EnergySage's 2025 data put the average [solar installation](/average-cost-of-solar-installation-by-state/) at roughly $3.00 per watt before incentives. A 23% reduction brings that closer to $2.30 per watt at scale. On a 9 kW system, you're looking at a difference that exceeds what a lot of homeowners were netting from state-level incentives alone.
 
-The reverse auction format also solves a problem [most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) don't realize they have: installer vetting. The program pre-screens participating companies before they ever bid. You're not sorting through a dozen cold calls from installers of wildly varying quality. You're choosing from a pool that already cleared a baseline.
+The reverse auction format also solves a problem most homeowners don't realize they have: installer vetting. The program pre-screens participating companies before they ever bid. You're not sorting through a dozen cold calls from installers of wildly varying quality. You're choosing from a pool that already cleared a baseline.
 
 ## The Numbers, Compared
 

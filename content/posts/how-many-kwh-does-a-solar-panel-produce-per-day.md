@@ -1,5 +1,5 @@
 ---
-title: "Daily Solar Panel Output: What To Expect"
+title: "How Many kWh Does a Solar Panel Produce Per Day"
 date: 2026-06-07T10:13:15.064851+00:00
 draft: false
 description: "Discover how many kWh a solar panel produces per day, what factors affect output, and how to calculate your system's energy generation for maximum savings."
