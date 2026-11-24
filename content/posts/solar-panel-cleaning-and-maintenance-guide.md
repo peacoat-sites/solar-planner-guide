@@ -72,7 +72,7 @@ For panels you can reach safely from the ground with an extended pole, cleaning 
 | Heavy agricultural/dust (San Joaquin Valley) | Variable | Monthly or as-needed | 25%+ seasonal | High - professional cleaning justified |
 | High bird activity | Any | Monthly spot-check + full cleanings | Variable (20-40% per affected panel) | High - immediate spot-cleaning critical |
 
-This is where I'll give you a real answer instead of a wishy-washy "it depends." Here's what I tell clients:
+Here's what matters:
 
 If you get more than 20 inches of rain annually and don't live near active farmland, construction sites, or a major bird roost, clean once a year in early spring. That's it. You'll capture any winter grime buildup right before peak summer production months.
 

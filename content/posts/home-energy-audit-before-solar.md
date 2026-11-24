@@ -81,7 +81,7 @@ The Building Performance Institute (BPI) certifies energy auditors, and finding 
 
 For a rough DIY picture while you wait, a plug-in energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+Energy+Monitor&tag=contentportfo-20) (around $70 on Amazon, the site may earn a commission) lets you monitor circuit-level consumption in real time. It won't catch building envelope issues, but it will tell you immediately if your dryer, hot tub, or chest freezer is eating 20% of your monthly bill. Sometimes that one data point changes everything.
 
-I thought for a long time that whole-home energy monitors were overkill for most people. Then a reader emailed me in April 2026 to say she'd discovered her 2017 refrigerator was drawing nearly 900 kWh per year, way above spec, due to a faulty compressor. She'd been about to add that load to her solar sizing. One $70 monitor and a $650 fridge replacement later, she dropped her system size by nearly 800 watts.
+Whole-home energy monitors can reveal unexpected power draws before they affect your solar sizing. Say an older refrigerator with a failing compressor is drawing nearly 900 kWh a year, well above its rated use. A $70 monitor would flag it. Replacing the fridge (around $650) instead of sizing panels to cover that load could shrink the planned system by roughly 800 watts.
 
 ## The Timing Question
 
