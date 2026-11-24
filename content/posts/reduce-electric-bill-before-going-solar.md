@@ -23,7 +23,7 @@ faqs:
   - q: "Is it worth getting a home energy audit before talking to solar companies?"
     a: "I think so, even though it adds a step. An audit tells you exactly what to fix and in what order. Without one, you're guessing, and I've watched people spend $3,000 on improvements that moved the needle minimally while ignoring things that would have saved twice as much for half the cost."
   - q: "Can I get tax credits for efficiency upgrades AND solar?"
-    a: "Yes, and this is one of the most underused strategies available as of July 2026. The Inflation Reduction Act's Energy Efficient Home Improvement Credit (25C) covers things like heat pump water heaters (30%, up to $2,000), heat pumps for heating and cooling (30%, up to $2,000), and insulation and air sealing (30%, up to $1,200). These are separate from the 30% residential solar investment tax credit. You can claim both in the same tax year, subject to your tax liability."
+    a: "No, this strategy is no longer available for new installations. The Energy Efficient Home Improvement Credit (25C) ended for property placed in service after December 31, 2025. It previously covered things like heat pump water heaters (30%, up to $2,000), heat pumps for heating and cooling (30%, up to $2,000), and insulation and air sealing (30%, up to $1,200). The 30% residential solar investment tax credit also ended for installations completed after December 31, 2025. If your qualifying property was placed in service by December 31, 2025, you may still be able to claim a missed credit on an amended return within three years."
 ---
 
 Most homeowners I talk to have it backwards. They call a [solar installer](/solar-installer-red-flags-to-avoid/), get a quote for a 10-kilowatt system, and start daydreaming about a $0 electric bill, before they've ever looked at *why* their bill is so high in the first place.
@@ -65,7 +65,7 @@ I want to be blunt about windows: they are usually a terrible efficiency investm
 
 Your solar installer will size your system based on your current consumption, which is usually your last 12 months of utility bills. If your HVAC system is 15+ years old and running at 60-70% of its original efficiency, you're sizing solar to cover a broken system.
 
-A homeowner in Atlanta, 2,600 sq ft house, $290/month average electric bill. Got a solar quote for a 12kW system at $31,000 after the federal tax credit. She decided to replace her 17-year-old heat pump first. New heat pump, professionally installed: $14,200 after rebates (and the Inflation Reduction Act heat pump tax credit brought that closer to $11,000 out of pocket). Her next 12 months averaged $155/month. She went back to solar, got re-quoted at 7kW, paid $18,500 after credits. Total spent: roughly $29,500. Total if she'd just done solar first without the HVAC upgrade: closer to $42,000 with the new HVAC added later. Same house. Same comfort. About $12,500 less spent.
+Say a homeowner in Atlanta has a 2,600 sq ft house with a $290/month average electric bill. They got a solar quote for a 12kW system at $31,000. They decided to replace their 17-year-old heat pump first. New heat pump, professionally installed: $14,200 after rebates. Their next 12 months averaged $155/month. They went back to solar, got re-quoted at 7kW, paid $18,500. Total spent: roughly $32,700. Total if they had just done solar first without the HVAC upgrade: closer to $45,200 with the new HVAC added later. Same house. Same comfort.
 
 The sequence matters enormously.
 
@@ -73,7 +73,7 @@ The sequence matters enormously.
 
 Heat pump water heaters are worth considering even though many people overlook them. A standard electric resistance water heater converts 1 kWh of electricity into roughly 1 kWh of heat. A heat pump water heater pulls heat from the surrounding air and achieves 3-4x efficiency, meaning 1 kWh becomes effectively 3-4 kWh of water heating. Brands like Rheem ProTerra and A.O. Smith Voltex have been around long enough that the reliability kinks are worked out.
 
-The 30% federal tax credit (currently available as of July 2026 through the Inflation Reduction Act) applies to heat pump water heaters, and many utilities stack on additional rebates. After all incentives, a Rheem ProTerra 50-gallon can come in around $800-$1,000 installed depending on your region. At $400/year in savings over a standard resistance heater, that's a 2-year payback. After that you're just banking money.
+The federal tax credit for heat pump water heaters ended for property placed in service after December 31, 2025. Many utilities stack on additional rebates. At $400/year in savings over a standard resistance heater, the payback period depends on your region and any remaining state or utility incentives. After that you're just banking money.
 
 One thing installers don't always mention: heat pump water heaters pull heat from the air around them, so they work best in spaces that are at least 700-1,000 cubic feet (an attached garage or utility room, not a tiny closet). They also cool and dehumidify that space slightly, which is a bonus in summer and a mild nuisance in a cold basement in January. Worth knowing before you commit.
 

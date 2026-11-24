@@ -76,11 +76,11 @@ The formula above gives you a starting estimate. These factors will either push 
 
 ## What the Quotes Will Actually Show You
 
-Once you have your own estimate, you can read installer proposals intelligently. [EnergySage's market data](https://news.energysage.com/) consistently shows that getting three or more competing quotes saves homeowners an average of 10% on system cost. That's real money at current prices of roughly $2.80 to $3.20 per watt installed before the federal tax credit.
+Once you have your own estimate, you can read installer proposals intelligently. [EnergySage's market data](https://news.energysage.com/) consistently shows that getting three or more competing quotes saves homeowners an average of 10% on system cost. That's real money at current prices of roughly $2.80 to $3.20 per watt installed.
 
 If a proposal comes in significantly larger than your calculated size, ask why. "Bigger is better for resale" and "this covers future usage" are both ways to sell you capacity you don't need. Sometimes the reasoning is valid. Sometimes it isn't.
 
-The 30% federal investment tax credit is still in place through at least 2032 under current law. On a $28,000 system, that's $8,400 back in your pocket at tax time, though you need a sufficient tax liability to use it fully.
+The 30% federal investment tax credit expired for homeowner-owned systems installed after December 31, 2025. On a $28,000 system, you need a sufficient tax liability to use the credit fully.
 
 A home energy monitor like the [Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+energy+monitor&tag=contentportfo-20) *(affiliate link)* installed before you go solar gives you a much sharper picture of where your kWh are actually going. For example, an old chest freezer in the garage might add 1,200 kWh per year to the bill. Replacing it before sizing a system could save more than a panel's worth of capacity.
 

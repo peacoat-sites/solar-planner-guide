@@ -18,7 +18,7 @@ faqs:
   - q: "Does roof direction matter a lot for solar sizing?"
     a: "Yes, more than most people expect. A true south-facing roof at a 30-35 degree pitch in the continental U.S. captures roughly 20-30% more energy than an east- or west-facing roof. If your best roof exposure is east or west, your installer should account for this in their production model, which may mean adding 2-4 more panels to hit the same annual output."
   - q: "Should I buy or lease a solar system for my home?"
-    a: "Buy if you can. Purchasing outright (or with a solar loan) gives you the 30% federal tax credit and all the long-term savings. Leases and PPAs transfer those benefits to the third-party owner, and they can complicate home sales. The monthly payment structure feels comfortable, but the 25-year math almost always favors ownership."
+    a: "Buy if you can. Purchasing outright (or with a solar loan) no longer qualifies for the 30% federal tax credit for systems installed after December 31, 2025. Leases and PPAs transfer any available tax benefits to the third-party owner, and they can complicate home sales. The monthly payment structure feels comfortable, but the 25-year math almost always favors ownership."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "System Design"
@@ -75,7 +75,7 @@ A few factors can shift your ideal system size by 2-4 kW in either direction.
 
 ## What Does This Cost, Honestly?
 
-The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) puts average installed solar costs at roughly $2.95 per watt before incentives as of 2024. For a 7.5 kW system, that's about $22,125 before the federal tax credit. The Residential Clean Energy Credit covers 30% of that, dropping it to around $15,487. A 10 kW system would run approximately $29,500 before the credit, or about $20,650 after.
+The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) puts average installed solar costs at roughly $2.95 per watt before incentives as of 2024. For a 7.5 kW system, that's about $22,125 before incentives. A 10 kW system would run approximately $29,500 before incentives.
 
 Those are averages. Quotes can come in $4,000 under or over those figures depending on the installer, the equipment tier, roof complexity, and local permitting costs. EnergySage's marketplace data consistently shows that getting three or more quotes saves homeowners an average of 20% on their final price. On a $20,000 system, that's $4,000. That's not nothing.
 

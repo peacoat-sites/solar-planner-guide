@@ -113,7 +113,7 @@ The [U.S. Department of Energy's Homeowner's Guide to Going Solar](https://www.e
 
 A [clamp-on solar monitoring device](https://www.amazon.com/s?k=solar+monitoring+device) can help you verify what your system is actually producing at the panel level versus what your inverter is reporting. It's a useful cross-check, especially in the first year.
 
-Also: apply for your federal tax credit. The Residential Clean Energy Credit (formerly the Investment Tax Credit, or ITC) currently covers 30 percent of your total system cost. You claim it on your federal taxes for the year the system was installed. Talk to a tax professional, not just your installer, about how to apply it correctly.
+Also: check whether any state tax credits or utility rebates apply to your system. State tax credits, utility rebates, net metering, and other incentives vary by location and were not affected by recent federal law changes. Talk to a tax professional, not just your installer, about what may be available to you.
 
 ---
 

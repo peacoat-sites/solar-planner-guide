@@ -19,7 +19,7 @@ faqs:
   - q: "Will doing an energy audit delay my solar installation?"
     a: "Not significantly. If you schedule an audit now and implement only the quick wins, you're typically looking at 4 to 8 weeks before re-requesting solar proposals. Given that most installers are booking 6 to 12 weeks out anyway as of mid-2026, the timelines often run parallel in practice."
   - q: "Do energy efficiency upgrades qualify for the federal tax credit?"
-    a: "Generally, no, not under the residential clean energy credit (which covers solar). However, the Inflation Reduction Act's Energy Efficient Home Improvement Credit (25C) does cover insulation, air sealing, and heat pump water heaters at up to 30%, capped at $1,200 to $2,000 depending on the upgrade. Talk to a tax professional for your specific situation."
+    a: "Generally, no, not under the residential clean energy credit (which covers solar). The Energy Efficient Home Improvement Credit (25C), which covered insulation, air sealing, and heat pump water heaters at up to 30%, capped at $1,200 to $2,000 depending on the upgrade, ended for property placed in service after December 31, 2025. Talk to a tax professional for your specific situation."
   - q: "What if my utility doesn't offer a free audit?"
     a: "BPI-certified independent auditors typically charge $200 to $450 for a thorough blower-door audit with written report. Some states have low-income weatherization assistance programs that cover audits and improvements at no cost. Check DSIRE (the Database of State Incentives for Renewables & Efficiency at dsireusa.org) for your state's programs."
   - q: "Can I use my smart meter data instead of getting an audit?"
@@ -32,7 +32,7 @@ Here's what I tell people when they call me with their first solar quote in hand
 
 A professional [home energy](/smart-home-energy-management-with-solar/) audit typically runs between $150 and $500, depending on your region and how thorough you want to be. The U.S. Department of Energy has documented cases where simple efficiency upgrades, found during an audit, reduce a home's energy load by 15 to 30 percent. That's not a rounding error. That's potentially two or three fewer solar panels you'd need to buy.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A home energy audit ($150-$500) often reveals 15-30% reducible energy waste before you size a solar system.</li><li style="margin:5px 0">Oversizing your solar array around inefficiencies means paying for panels you wouldn't need after basic weatherization.</li><li style="margin:5px 0">Air sealing and insulation upgrades typically cost $1,000-$3,500 and can shrink your required system size significantly.</li><li style="margin:5px 0">Many utilities offer free or heavily subsidized audits, check before paying out of pocket.</li><li style="margin:5px 0">The 30% federal tax credit applies to solar costs, not efficiency upgrades, so reducing load first gives you a smaller, cheaper system that still qualifies.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A home energy audit ($150-$500) often reveals 15-30% reducible energy waste before you size a solar system.</li><li style="margin:5px 0">Oversizing your solar array around inefficiencies means paying for panels you wouldn't need after basic weatherization.</li><li style="margin:5px 0">Air sealing and insulation upgrades typically cost $1,000-$3,500 and can shrink your required system size significantly.</li><li style="margin:5px 0">Many utilities offer free or heavily subsidized audits, check before paying out of pocket.</li><li style="margin:5px 0">The 30% federal tax credit for solar installations ended for systems whose installation was completed after December 31, 2025, so reducing load first gives you a smaller, cheaper system.</li></ul></div>
 
 ## Why Solar Installers Don't Usually Bring This Up
 
@@ -59,7 +59,7 @@ The auditor should give you a written report with prioritized recommendations. I
 
 ## The Audit-to-Solar Sizing Connection
 
-This is the part that actually changes your quote. [EnergySage's market data](https://news.energysage.com/) shows the average residential solar installation in the U.S. currently runs around $2.95 per watt before incentives. That means every kilowatt you don't need to install saves you roughly $2,950 before applying the 30% federal tax credit. Trim 2 kW off your required system size and you've saved close to $4,100 net.
+This is the part that actually changes your quote. [EnergySage's market data](https://news.energysage.com/) shows the average residential solar installation in the U.S. currently runs around $2.95 per watt before incentives. That means every kilowatt you don't need to install saves you roughly $2,950.
 
 Here's a straightforward comparison of common audit findings and their impact on solar sizing:
 
@@ -71,7 +71,7 @@ Here's a straightforward comparison of common audit findings and their impact on
 | Switch to heat pump water heater | $900 - $1,800 | 8 - 12% | 1 - 2 kW | $2,065 - $4,130 |
 | LED lighting retrofit (whole house) | $150 - $400 | 2 - 5% | 0.3 - 0.8 kW | $620 - $1,650 |
 
-*Load reduction estimates based on DOE data and NREL modeling benchmarks. Savings on solar calculated at $2.95/W before the 30% ITC.*
+*Load reduction estimates based on DOE data and NREL modeling benchmarks. Savings on solar calculated at $2.95/W.*
 
 Not every fix makes financial sense on its own timeline. Replacing a 12-year-old HVAC that's still functional is a big decision. But knowing how it affects your solar design is information you should have before you sign anything.
 

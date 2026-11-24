@@ -14,7 +14,7 @@ faqs:
  - q: "Can I get a utility rebate if I lease my solar panels?"
    a: "Usually not. Most utility rebate programs require that the homeowner own the solar system outright or through a loan. If you're leasing, the third-party system owner typically claims the rebate and may pass some of the savings to you through lower lease rates, but you won't see the rebate directly. This is one of several financial reasons to consider buying versus leasing. The solar lease vs. buy cost comparison breaks down the full trade-off."
  - q: "Do utility rebates affect my federal solar tax credit?"
-   a: "They can, depending on the program. Some utility rebates reduce the cost basis you use to calculate the 30% federal ITC. Others don't. You need to read the specific program documentation or ask your installer and a tax advisor. The federal solar tax credit for 2026 covers the ITC rules in detail if you want to understand the full picture before doing the math."
+   a: "They can, depending on the program. Some utility rebates reduce the cost basis you use to calculate federal tax credits. Others don't. You need to read the specific program documentation or ask your installer and a tax advisor. The federal solar tax credit rules cover the ITC details if you want to understand the full picture before doing the math."
  - q: "How do I know if my utility offers a solar rebate?"
    a: "Start with your utility's official website and look for sections labeled 'solar,' 'renewable energy,' or 'energy efficiency programs.' Also check dsireusa.org, which is the most comprehensive national database of utility and state incentives. EnergySage's marketplace also shows available incentives when you enter your address. If you can't find clear information online, call your utility directly and ask about solar interconnection incentives and any current rebate programs."
  - q: "What happens if the rebate program runs out of funding before my installation is complete?"
@@ -25,7 +25,7 @@ author_title: "System Design"
 author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Your neighbor mentions she got an extra $1,500 back from the electric company. You didn't know that existed. Your solar quote was $28,000, the federal tax credit gets you $8,400, but apparently there's more money sitting on the table that nobody told you about. That kind of oversight happens constantly. Utility solar rebates are one of the least-advertised ways to cut your upfront costs, and they can legitimately change whether a system makes sense for your wallet.
+Your neighbor mentions she got an extra $1,500 back from the electric company. You didn't know that existed. Your solar quote was $28,000, but apparently there's more money sitting on the table that nobody told you about. That kind of oversight happens constantly. Utility solar rebates are one of the least-advertised ways to cut your upfront costs, and they can legitimately change whether a system makes sense for your wallet.
 
 ## What Utility Solar Rebates Actually Are (And How They Differ From Tax Credits)
 
@@ -35,7 +35,7 @@ Rebates come in two flavors. Some utilities pay per installed watt, typically $0
 
 The funding varies too. State public utility commissions mandate some rebates as part of renewable energy requirements. Others are voluntary programs utilities run to manage peak demand, since rooftop solar reduces their load during the hottest hours. That's worth remembering: your utility isn't doing you a favor. They benefit when you generate your own power.
 
-Keep utility rebates separate from [state-level incentives](/state-solar-incentives-by-state/). State tax credits come through your state revenue department. Utility rebates come directly from your power company. You can usually stack both with the federal credit, though some programs require you to subtract the federal credit first before calculating the rebate. Always read that fine print.
+Keep utility rebates separate from [state-level incentives](/state-solar-incentives-by-state/). State tax credits come through your state revenue department. Utility rebates come directly from your power company. Some utility programs calculate rebates based on the federal credit amount, so always read that fine print carefully to understand how your rebate is determined.
 
 ## Where Utility Rebates Exist (And Where They Don't)
 
@@ -80,14 +80,12 @@ Check the status if you haven't heard anything. Program administrators are somet
 |---|---|---|
 | Gross system cost | $28,000 | Before any incentives |
 | Utility rebate | -$2,500 | Paid directly by utility |
-| Adjusted cost basis | $25,500 | For federal ITC calculation |
-| Federal ITC (30%) | -$7,650 | Applied to adjusted basis |
 | State tax credit (10%) | -$2,550 | Hypothetical state incentive |
-| **Net out-of-pocket cost** | **$13,300** | **52% reduction from gross cost** |
+| **Net out-of-pocket cost** | **Varies** | **Depends on applicable incentives** |
 
-The math gets interesting here. Utility rebates, the federal ITC, and most state credits stack on top of each other. The complicated part is the order matters.
+The math gets interesting here. Utility rebates and most state credits stack on top of each other. The complicated part is the order matters.
 
-The federal ITC is 30% of total installed cost. Say your system costs $25,000 and you get a $2,000 utility rebate. Some programs let you subtract the rebate first, dropping your ITC basis to $23,000. Your federal credit drops from $7,500 to $6,900. That's a $600 swing. Other programs don't require basis reduction. Check your utility's specific rules.
+The federal ITC for homeowner-installed systems ended for installations completed after December 31, 2025. If your system was installed by that date, the credit was 30% of total installed cost. Some programs let you subtract the rebate first, reducing your ITC basis. Other programs don't require basis reduction. Check your utility's specific rules.
 
 Here's how a 10 kW system breaks down in a state with solid utility support:
 
@@ -95,10 +93,10 @@ Here's how a 10 kW system breaks down in a state with solid utility support:
 |---|---|---|
 | Gross system cost | $28,000 | Before anything |
 | Utility rebate | -$2,500 | Paid by utility |
-| Adjusted cost basis | $25,500 | For ITC calculation |
-| Federal ITC (30%) | -$7,650 | On your tax return |
+| Adjusted cost basis | $25,500 | For state credit calculation |
+| Federal ITC (30%) | N/A | No longer available for new installations |
 | State tax credit (10%) | -$2,550 | Hypothetical state credit |
-| Net out-of-pocket cost | $13,300 | 52% off the original |
+| Net out-of-pocket cost | Varies | Depends on applicable incentives |
 
 That's a completely different financial picture from the installer's first quote. Knowing how to calculate ROI with all available incentives is what separates a mediocre solar investment from a strong one.
 

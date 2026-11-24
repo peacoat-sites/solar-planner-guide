@@ -60,13 +60,13 @@ For monitoring how your system is actually performing day to day, a home energy 
 | Grid-tied solar only (2,000 sq ft home) | $15,000-$25,000 | Before federal tax credit |
 | One battery unit (Powerwall or equivalent) | $10,000-$15,000 | Adds storage capability |
 | Solar-plus-storage system combined | $25,000-$40,000 | Before incentives |
-| Federal Investment Tax Credit (ITC) | 30% of system cost | Available through 2032; example: $10,500 on $35,000 system |
+| Federal Investment Tax Credit (ITC) | 30% of system cost | Only for systems with installation completed by December 31, 2025; not available for installations completed in 2026 or later |
 
 Let's talk numbers honestly. This is where I see people get burned by overly optimistic sales pitches.
 
-A typical grid-tied solar-only system for a 2,000-square-foot home runs between $15,000 and $25,000 before the federal tax credit. Add one battery unit (like a Powerwall or Enphase IQ Battery 5P) and you're looking at roughly $10,000 to $15,000 more. So a solar-plus-storage system lands somewhere in the $25,000 to $40,000 range for most homeowners.
+A typical grid-tied solar-only system for a 2,000-square-foot home runs between $15,000 and $25,000. Add one battery unit (like a Powerwall or Enphase IQ Battery 5P) and you're looking at roughly $10,000 to $15,000 more. So a solar-plus-storage system lands somewhere in the $25,000 to $40,000 range for most homeowners.
 
-The 30% federal Investment Tax Credit (ITC), extended through 2032 under the Inflation Reduction Act, applies to both solar and battery components when the battery is charged by solar. On a $35,000 system, that's $10,500 back against your federal tax liability. Real money, but it only works if you have sufficient tax liability to claim it. Retirees with little tax liability may need to spread the credit over multiple years or explore financing options.
+The 30% federal Investment Tax Credit (ITC) for homeowner-owned systems applied to both solar and battery components when the battery is charged by solar. The credit was available for installations completed by December 31, 2025. It only works if you have sufficient tax liability to claim it, and unused credit carries forward to later years. Retirees with little tax liability may need to spread the credit over multiple years or explore financing options.
 
 Where does the payback come from? Three places.
 
@@ -94,7 +94,7 @@ Here's a practical way to think through what you need:
 
 **Step 5: Account for panel degradation.** Panels lose roughly 0.5% of production capacity per year. A system sized perfectly for your needs today should be sized slightly large to account for this and for lifestyle changes (electric vehicle, new appliances).
 
-| Goal | Solar Size | Battery | Estimated Cost (Before ITC) |
+| Goal | Solar Size | Battery | Estimated Cost |
 |---|---|---|---|
 | Bill reduction only | 6-8 kW | None | $15,000-$22,000 |
 | Outage backup (critical loads) | 8-10 kW | 1 battery (13.5 kWh) | $28,000-$35,000 |

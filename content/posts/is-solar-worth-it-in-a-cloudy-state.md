@@ -16,7 +16,7 @@ faqs:
   - q: "Does solar work on cloudy days?"
     a: "Yes, but at reduced output. Solar panels generate electricity from daylight, not just direct sunlight. On overcast days, most panels produce 10-25% of their rated capacity. It's not nothing, and it adds up across a year."
   - q: "Which cloudy states have the best solar economics?"
-    a: "New York and Massachusetts consistently come out ahead because of high electricity rates ($0.22-0.28/kWh) combined with strong net metering and state-level incentives layered on top of the federal ITC. Oregon and Washington are close behind. Michigan and Ohio are reasonable depending on your utility's net metering terms."
+    a: "New York and Massachusetts consistently come out ahead because of high electricity rates ($0.22-0.28/kWh) combined with strong net metering and state-level incentives. Oregon and Washington are close behind. Michigan and Ohio are reasonable depending on your utility's net metering terms."
   - q: "Is battery storage necessary if I live in a cloudy state?"
     a: "Generally no, if your state has one-to-one net metering. The grid effectively stores your excess production as a credit. If net metering is weak or unavailable in your area, then batteries start making sense, but they'll add $10,000-$15,000 to your system cost and extend your payback period significantly."
   - q: "How do I know if my installer's production estimate is realistic?"
@@ -56,7 +56,7 @@ I'd push back on that, with numbers.
 | Ohio | 4.0 | $18,400 | 8,300 kWh | 8-10 years |
 | New York | 4.1 | $20,800 | 8,700 kWh | 8-10 years |
 
-(Costs reflect current market pricing as of July 2026, before the 30% federal Investment Tax Credit. Payback estimates assume average local electricity rates and net metering.)
+(Costs reflect current market pricing as of July 2026, before any applicable tax credits. Payback estimates assume average local electricity rates and net metering.)
 
 Ohio and Michigan payback periods of under 12 years look a lot better when you realize that electricity rates in those states have climbed 18-22% in the last four years. A longer payback on a lower-cost system, with rising rates, can actually outperform a shorter payback in a cheap-electricity state. A common mistake is comparing raw payback periods without factoring in local utility cost trends.
 
@@ -98,9 +98,11 @@ And honestly? If your consumption is low -- say, under 400 kWh a month -- the sy
 
 ## Real-World Numbers from Three Situations
 
-Sarah in Tacoma, Washington, 2,100 sq ft home, 1,100 kWh/month average consumption. South-facing roof, no significant shading. Installed 9.6kW system with Enphase IQ8 microinverters, $22,400 before tax credit, $15,680 after the federal 30% ITC. First-year production: 9,800 kWh. Annual savings at $0.12/kWh local rate: $1,176. Estimated payback: 13.3 years. Decent, not spectacular. But Washington electricity rates have risen 15% in three years. She's looking at 10-11 years if that trend continues.
+Solar Panels in Cloudy States: Is the Investment Worth It?
 
-A 7.2kW system in Ohio with strong net metering (like AEP Ohio offers) costs around $17,600 before ITC, $12,320 after. With Ohio's average rate at $0.15/kWh and climbing, such a system projects a 9-year payback - competitive with systems in the Southwest.
+Sarah in Tacoma, Washington, 2,100 sq ft home, 1,100 kWh/month average consumption. South-facing roof, no significant shading. Installed 9.6kW system with Enphase IQ8 microinverters, $22,400 before tax credit. First-year production: 9,800 kWh. Annual savings at $0.12/kWh local rate: $1,176. Estimated payback: Varies. Decent, not spectacular. But Washington electricity rates have risen 15% in three years. She's looking at 10-11 years if that trend continues.
+
+A 7.2kW system in Ohio with strong net metering (like AEP Ohio offers) costs around $17,600. With Ohio's average rate at $0.15/kWh and climbing, such a system projects a 9-year payback - competitive with systems in the Southwest.
 
 For example: a west-facing roof with large trees shading the south side where a 10kW string system was installed anyway. First-year production was 40% below the model. That's not a cloudy-state solar problem - it's a shading problem that should have been addressed upfront.
 

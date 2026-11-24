@@ -10,7 +10,7 @@ slug: "solar-incentives-new-york"
 affiliate_disclosure: true
 faqs:
  - q: "Can I claim both the federal ITC and the New York state tax credit on the same system?"
-   a: "Yes. These are separate credits from separate governments and they don't interfere with each other. You claim the 30% federal credit on your IRS return and the 25% New York credit (up to $5,000) on your state return. Most New York homeowners claim both, and that's what makes the combined incentive package so strong."
+   a: "No. The 30% federal Residential Clean Energy Credit (Section 25D) is no longer available for systems whose installation was completed after December 31, 2025, so homeowners installing solar in 2026 or later cannot claim it. The 25% New York credit (up to $5,000) on your state return remains available and was not changed by federal law. If your system was installed and completed by December 31, 2025, you can still claim both credits, which made the combined incentive package strong. For new installations in 2026 or later, only the New York state credit applies."
  - q: "Does the New York state solar tax credit expire?"
    a: "The NY state credit has been in place for years and there's no current sunset date for 2026. That said, the $5,000 cap hasn't been adjusted for inflation in a long time, so its real value has declined. There's no indication it's going away, but as with any tax policy, it's subject to legislative changes."
  - q: "What if I don't owe enough state or federal taxes to use the credits?"
@@ -25,15 +25,15 @@ author_title: "Solar Policy"
 author_bio: "Patricia Moore is the byline used at Solar Planner Guide for articles on incentives, net metering and state solar policy. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-If you're a New York homeowner and your electricity bill has hit $200 a month, you're probably already doing the math on solar. Here's the number that should grab you: the average New York residential installation runs $28,000 to $35,000 before incentives, but after stacking the state and federal programs available in 2026, many homeowners bring that down to $16,000 or less. That's not marketing spin. That's what happens when you combine a 30% federal tax credit with New York's own 25% state credit, a property tax exemption, and a sales tax exemption. The incentive stack in New York is genuinely one of the best in the country. Knowing exactly how it works can mean the difference between a system that pays for itself in 8 years versus 13.
+If you're a New York homeowner and your electricity bill has hit $200 a month, you're probably doing the math on solar. Here's the number that should grab you: the average New York residential installation runs $28,000 to $35,000 before incentives. New York offers its own 25% state credit, a property tax exemption, and a sales tax exemption. The incentive stack in New York remains strong. Note that the 30% federal tax credit for homeowner-installed solar (IRC Section 25D) is no longer available for systems whose installation was completed after December 31, 2025, so the after-incentive figures that combined the federal and state credits no longer apply to new installations. Knowing exactly how the remaining incentives work can mean the difference between a system that pays for itself in 8 years versus 13.
 
-## The Federal Investment Tax Credit Still Applies in Full
+## The Federal Tax Credit Ended After 2025
 
-The Inflation Reduction Act locked the Investment Tax Credit (ITC) at 30% through 2032. Start here because it's the biggest single amount on the table. If your system costs $30,000, that's a $9,000 reduction in your federal income tax liability. Not a deduction. A credit, dollar for dollar against what you owe.
+The 30% federal Residential Clean Energy Credit (Section 25D) is no longer available for systems installed after December 31, 2025. If your system was installed and completed by December 31, 2025, you may still claim the credit on your tax return or an amended return. Not a deduction. A credit, dollar for dollar against what you owe.
 
-The catch most installers gloss over: you need to *owe* at least that much in federal taxes to capture the full credit in a single year. If you only owe $5,000 in federal taxes for 2026, you claim $5,000 this year and carry the remaining $4,000 forward to 2027. The ITC carries forward, so you don't lose it, but it does slow down your payback timeline.
+The catch most installers gloss over: you need to *owe* at least that much in federal taxes to capture the full credit in a single year. The federal Residential Clean Energy Credit (Section 25D) is no longer available for systems whose installation was completed after December 31, 2025, so homeowners who installed in 2026 or later cannot claim it. If your system was installed and completed by December 31, 2025, any unused credit carries forward to later tax years, so you don't lose it, but it does slow down your payback timeline.
 
-For a full breakdown of how the credit works and what qualifies, read our guide on the [federal solar tax credit for 2026](/itc-solar-investment-tax-credit-explained/). Battery storage installed at the same time as your panels also qualifies, which matters increasingly in New York given the grid reliability issues some downstate customers hit in recent summers.
+For a full breakdown of how the credit works and what qualifies, read our guide on the [federal solar tax credit for 2026](/itc-solar-investment-tax-credit-explained/). Battery storage installed at the same time as your panels no longer qualifies for a federal residential tax credit, as the 30% Residential Clean Energy Credit ended for installations completed after December 31, 2025.
 
 ## New York's 25% State Tax Credit
 
@@ -41,7 +41,7 @@ This is where New York separates itself from most other states. The NY-Sun progr
 
 On a $30,000 system, 25% would be $7,500, but the $5,000 cap applies. You're capped at the same $5,000 whether you're installing a 6 kW system or a 12 kW system for a high-usage home. That cap hasn't budged in years, and it's a real limitation for larger installations.
 
-Like the federal credit, this is a credit against your New York State income tax liability. You claim it on Form IT-255 when you file. If you can't use it all in one year, you can carry it forward for up to five years. New York is one of only a handful of states with a robust state-level credit layered on top of the federal one, which is why the combined incentive picture here is so compelling.
+Like the federal credit, this is a credit against your New York State income tax liability. You claim it on Form IT-255 when you file. If you can't use it all in one year, you can carry it forward for up to five years. New York is one of only a handful of states with a robust state-level credit, which is why the state incentive picture here remains compelling.
 
 ## Sales Tax Exemption and Property Tax Abatement
 
@@ -65,21 +65,19 @@ Net metering remains available in New York, though the state has been transition
 
 | Incentive | Amount | Notes |
 |---|---|---|
-| Federal ITC (30%) | -$9,360 | Claimed on federal return |
 | NY State Tax Credit (25%, capped) | -$5,000 | Claimed on NY Form IT-255 |
 | Sales Tax Exemption (8.52%) | -$2,556 | Applied at purchase |
 | Property Tax Exemption (15 years, est.) | -$4,500 | Avoided annual property tax |
-| **Net Cost After Incentives** | **$10,344** | Out-of-pocket for 8 kW system |
+| **Net Cost After Incentives** | **Varies** | Out-of-pocket for 8 kW system |
 
 A homeowner in Westchester County installs an 8 kW system in early 2026. Before any incentives, installed cost is $31,200 (roughly $3.90 per watt, in line with current New York averages).
 
 | Incentive | Amount | Notes |
 |---|---|---|
-| Federal ITC (30%) | -$9,360 | Claimed on federal return |
 | NY State Tax Credit (25%, capped) | -$5,000 | Claimed on NY return, Form IT-255 |
 | Sales Tax Exemption | -$2,658 | Applied at purchase |
 | Property Tax Exemption (15 years) | ~$4,500 est. | Depends on local mil rate |
-| **Net System Cost** | **~$14,182** | Before utility rebates |
+| **Net System Cost** | **Varies** | Before utility rebates |
 
 That's a 55% reduction from the gross cost. The [average cost of solar installation by state](/average-cost-of-solar-installation-by-state/) shows New York on the higher end of installed costs nationally, but the incentive stack brings the effective cost much closer to the national average net cost.
 
@@ -93,7 +91,7 @@ For this household, assuming a $180/month electricity bill and good south-facing
 
 3. **Verify NY-Sun availability.** Ask for the current NYSERDA incentive schedule for your utility territory. If funding is exhausted, that line item disappears from your math.
 
-4. **Finance strategically.** If you're paying cash or taking a solar loan, you'll be eligible for both the federal and state tax credits. If you go the lease or PPA route, the installer captures the federal ITC, not you. Understand this trade-off. Our comparison of [solar loan vs solar lease vs PPA options](/solar-loan-vs-solar-lease-vs-ppa/) lays out what you actually own and what you give up with each structure.
+4. **Finance strategically.** If you're paying cash or taking a solar loan, you'll be eligible for the state tax credit. The federal residential clean energy credit is no longer available for homeowner-owned systems installed after December 31, 2025. If you go the lease or PPA route, the installing company may capture a federal business credit, not you. Understand this trade-off. Our comparison of [solar loan vs solar lease vs PPA options](/solar-loan-vs-solar-lease-vs-ppa/) lays out what you actually own and what you give up with each structure.
 
 5. **File Form 5695** with your federal return (for the ITC) and **Form IT-255** with your New York State return (for the state credit). Your CPA or tax software will handle this, but flag it proactively.
 

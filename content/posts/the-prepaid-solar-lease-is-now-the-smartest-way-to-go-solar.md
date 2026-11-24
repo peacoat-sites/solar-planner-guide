@@ -32,7 +32,7 @@ Standard solar leases have been around since the late 2000s. You pay nothing upf
 
 The prepaid variant is structurally different. You pay roughly 70% of the system cost upfront, either in cash or financed through a loan. The TPO provider owns the system for six years, during which they claim the Section 48E commercial credit. After that period, ownership transfers to you. As EnergySage's analysis of prepaid leases notes, this structure lets homeowners effectively capture credit value that's no longer available to direct system owners, since the provider prices the upfront cost to reflect the tax benefit they're receiving.
 
-Think of it this way: you're paying about 70 cents on the dollar for a system you'll own free and clear in six years. The provider gets the 30% credit, you get the discount. It's a clean arbitrage, and right now it's legal and available.
+Think of it this way: you're paying about 70 cents on the dollar for a system you'll own free and clear in six years. The provider may get a business credit, and any benefit reaches you only through pricing. It's a clean arbitrage, and right now it's legal and available.
 
 ## Why the June 2026 Deadline Is Different From the Usual Solar Urgency Theater
 

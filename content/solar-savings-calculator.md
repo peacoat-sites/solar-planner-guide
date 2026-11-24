@@ -1,7 +1,7 @@
 ---
-title: "Solar Savings Calculator: Estimate Your System Cost, Tax Credit & 25-Year Savings"
+title: "Solar Savings Calculator: Estimate System Cost, Payback and 25-Year Savings"
 hide_title: true
-description: "Use our free solar savings calculator to estimate your net system cost after the federal ITC, annual production, payback period, and 25-year savings, customized by state."
+description: "Use our free solar savings calculator to estimate your system cost, annual production, payback period, and 25-year savings, customized by state."
 date: 2026-06-10
 slug: "solar-savings-calculator"
 author: "Patricia Moore"
@@ -22,7 +22,7 @@ The Solar Savings Calculator factors in the most important variables that drive 
 
 **Peak sun hours by state.** A solar panel in Phoenix captures far more energy than one in Seattle. We use average daily peak sun hours for every US state so your production estimate reflects your actual geography, not a national average that could be off by 30% or more.
 
-**Federal Investment Tax Credit (ITC).** The 30% federal ITC reduces your net system cost significantly. If you owe $25,000 for a system, the ITC takes $7,500 off your federal tax bill, bringing your real out-of-pocket cost to $17,500. The calculator toggles this on or off so you can see both scenarios.
+**Federal Investment Tax Credit (ITC).** The 30% federal ITC applied to homeowner-owned systems installed by December 31, 2025. For systems installed in 2026 or later, no federal tax credit is available for homeowners. If you owe $25,000 for a system, there is no federal credit to reduce that cost. The calculator toggles this on or off so you can see both scenarios.
 
 **Electricity rate inflation.** Utility rates have risen an average of 2.5–4% annually over the past decade. Because solar locks in your electricity cost, savings compound every year as grid rates climb. The 25-year projection accounts for this.
 

@@ -60,9 +60,9 @@ Here's a realistic comparison for a 2,000-square-foot home in a mid-cost market:
 
 *Bundling often saves $1,000-$2,000 on roofing labor because the roofer isn't working around an existing array and scaffolding is shared.
 
-The Federal Investment Tax Credit (ITC) currently sits at 30% and applies to the solar portion of your installation. It does not apply to a standalone roof replacement, but if the roofing work is done specifically to support the solar installation (new decking, waterproofing under the array footprint), some of those costs may qualify. Worth asking your tax advisor, not your solar installer, since installers tend to be optimistic about what the IRS will accept.
+The Federal Investment Tax Credit (ITC) for homeowners ended for installations completed after December 31, 2025. For systems whose installation was completed by December 31, 2025, the credit applied to the solar portion of the installation, not to a standalone roof replacement, though roofing work done specifically to support the solar installation (new decking, waterproofing under the array footprint) may have qualified for a portion. Worth asking your tax advisor, not your solar installer, since installers tend to be optimistic about what the IRS will accept.
 
-As of July 2026, the 30% ITC is still in effect through 2032 under the Inflation Reduction Act. That gives you real flexibility in timing without rushing into a bad decision.
+The 30% federal Residential Clean Energy Credit ended for installations completed after December 31, 2025. There is no longer a federal tax credit available for homeowner-owned solar systems installed in 2026 or later.
 
 ## Reading Your Roof Before You Call Anyone
 
@@ -96,15 +96,15 @@ Rather than generalizing, here's how I'd actually call each situation:
 
 Worked example, real scenario:
 
-A homeowner in Portland with a 2015 architectural shingle roof (about 11 years old at consultation) priced both options. A roofer quoted $13,200 for a full replacement. Solar-only was $24,500 after incentives. Bundled cost came to $35,800 before the ITC, or about $25,060 after. He chose the bundle. Had he done solar-only and needed a removal-reinstall in year 8, his all-in cost would have been $28,500 versus $25,060.
+A homeowner in Portland with a 2015 architectural shingle roof (about 11 years old at consultation) priced both options. A roofer quoted $13,200 for a full replacement. Solar-only was $24,500. Bundled cost came to $35,800. He chose the bundle. Had he done solar-only and needed a removal-reinstall in year 8, his all-in cost would have been $28,500 versus $35,800.
 
 ## Sources
 
 - [NREL Solar Panel Degradation Rates](https://www.nrel.gov/): National Renewable Energy Laboratory research on average 0.5%/year panel output degradation over system lifetime.
 - [EnergySage Solar Marketplace Data](https://news.energysage.com/): Installer quotes, average system pricing, and remove-reinstall cost ranges as of 2026.
-- [U.S. Department of Energy, Homeowner's Guide to Going Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar): Federal ITC eligibility rules and solar installation guidance.
+- [U.S. Department of Energy, Homeowner's Guide to Going Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar): Solar installation guidance.
 - [SEIA U.S. Solar Market Insight](https://www.seia.org/): Residential installation trends and system sizing benchmarks.
-- [IRS Form 5695 Instructions](https://www.irs.gov/): Residential energy credit qualification criteria, including which roofing costs may be includable under the solar ITC.
+- [IRS Form 5695 Instructions](https://www.irs.gov/): Residential energy credit qualification criteria, including which roofing costs may be includable under the solar ITC, applicable to systems whose installation was completed by December 31, 2025.
 
 ---
 

@@ -12,7 +12,7 @@ faqs:
  - q: "What is a good interest rate for a solar loan in 2026?"
    a: "For a borrower with a credit score of 720 or higher, a genuinely good rate in 2026 falls in the 5.5% to 7% range for an unsecured solar-specific loan. If you're using home equity, you might find 5% to 6.5%. Anything advertised below 4% almost certainly involves a dealer fee that inflates your system price, so calculate the effective rate including that markup before celebrating the low headline number."
  - q: "How does the 30% solar tax credit affect my loan?"
-   a: "The federal Investment Tax Credit gives you 30% of the total installed system cost as a credit against your federal taxes, not a refund. If your system costs $28,000, that's a $8,400 credit. Most financial advisors recommend applying this credit directly to your loan principal the year it's received, which can cut years off your loan term and save significantly on interest. Some solar loan products are specifically structured with a balloon payment at 18 months to capture this credit, so read your loan terms carefully."
+   a: "The federal Residential Clean Energy Credit, which gave homeowners 30% of the total installed system cost as a credit against federal taxes, is no longer available for systems whose installation is completed after December 31, 2025. Most financial advisors recommend applying any available credit directly to your loan principal the year it is received, which can cut years off your loan term and save significantly on interest. Some solar loan products are specifically structured with a balloon payment at 18 months to capture this credit, so read your loan terms carefully."
  - q: "Is a HELOC or home equity loan better for solar financing?"
    a: "It depends on your risk tolerance. A home equity loan gives you a fixed rate and fixed payment, which makes it easier to model your break-even. A HELOC is variable and could rise if rates climb, but it gives you flexibility to draw only what you need. In a stable or declining rate environment, a HELOC can work well. In an uncertain rate environment like 2026, many homeowners prefer the predictability of a fixed home equity loan."
  - q: "Can I refinance a solar loan if rates drop?"
@@ -84,7 +84,7 @@ Most people get one quote, like it, and sign. That's how you overpay. Here's wha
 
 6. **Understand what happens to your loan if you sell.** PACE loans and some secured solar loans attach to the property, not the borrower. This can complicate a home sale significantly. Know before you sign.
 
-7. **Factor in the federal tax credit.** The 30% federal Investment Tax Credit (ITC) applies to the full system cost, including the financed amount. If you finance $30,000, you get a $9,000 credit against your federal tax liability. Apply that credit to your loan principal in the year you receive it, which dramatically changes your effective interest cost.
+7. **Factor in the federal tax credit.** The 30% federal Residential Clean Energy Credit applied to the full system cost, including the financed amount, for systems whose installation was completed by December 31, 2025. For systems installed after that date, no federal tax credit is available, so the full financed amount remains your loan principal with no credit to apply against it.
 
 ## The Research Is Mixed on Whether Loans Beat Leases in 2026
 

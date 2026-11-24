@@ -15,7 +15,7 @@ slug: "is-solar-worth-it-with-low-electric-bills"
 affiliate_disclosure: true
 faqs:
   - q: "Does the 30% federal tax credit apply if my bill is low?"
-    a: "Yes, the 30% Investment Tax Credit applies based on system cost, not your electric bill size. The catch: it's a tax credit, not a refund, so you need sufficient federal tax liability to use it. If you owe less than the credit amount in a given year, you can carry the remainder forward to the next tax year."
+    a: "No, the 30% Residential Clean Energy Credit is no longer available for solar systems installed after December 31, 2025. The catch: it was a tax credit, not a refund, so you needed sufficient federal tax liability to use it. If you owed less than the credit amount in a given year, you could carry the remainder forward to the next tax year."
   - q: "What's the minimum electric bill where solar starts making financial sense?"
     a: "There's no clean universal threshold, because your rate per kWh matters as much as the bill total. Roughly speaking, if you're paying above $0.18/kWh and your bill exceeds $100/month, solar typically shows a payback under 15 years. Below $0.12/kWh and under $80/month, the math usually doesn't work without other factors driving it."
   - q: "Is it worth getting a smaller solar system to match my low usage?"
@@ -32,7 +32,7 @@ Let me be direct: low electric bills are the single most common reason solar doe
 
 ## The math that doesn't get discussed
 
-Here's the core problem. A typical residential solar installation today runs $25,000 to $35,000 before incentives, according to EnergySage's current market data. The federal Investment Tax Credit (ITC) knocks 30% off that, so you're looking at a net cost somewhere in the $17,500 to $24,500 range for most homeowners. That's real money that has to be recovered through electricity savings.
+Here's the core problem. A typical residential solar installation today runs $25,000 to $35,000 before incentives, according to EnergySage's current market data. The federal Investment Tax Credit (ITC) that previously offered 30% off is no longer available for homeowner-owned systems installed after December 31, 2025. That's real money that has to be recovered through electricity savings.
 
 If you're saving $150 a month on electricity, you recover $1,800 a year. Your payback period on a $20,000 net system is about 11 years. Workable.
 
@@ -40,7 +40,7 @@ If you're saving $50 a month? That's $600 a year. You're looking at a 33-year pa
 
 The uncomfortable truth is that solar ROI is almost entirely driven by how much electricity you use and what you pay per kilowatt-hour. Low bills usually mean one or both of those numbers is small.
 
-A real example from my consulting work: a couple in Sacramento ran me their utility bills from the previous year. Average was $68/month. They'd gotten a quote for a 6 kW system at $21,000, which would have covered essentially all their usage. After the ITC, net cost was about $14,700. Their projected savings: $55/month. Payback: 22 years. I told them not to do it. They were not thrilled to hear that.
+A real example from consulting work: a couple in Sacramento shared their utility bills from the previous year. Average was $68/month. They'd gotten a quote for a 6 kW system at $21,000, which would have covered essentially all their usage. Their projected savings: $55/month. Payback: 22 years. They were told not to do it. They were not thrilled to hear that.
 
 ## Why your rate matters more than your bill
 
@@ -80,7 +80,7 @@ Let me put some scenarios side by side, because "it depends" is a useless answer
 | Low usage, poor net metering | $75 | $0.15 | $16,000 | 22 years | No |
 | Low usage, battery storage goal | $60 | $0.14 | $28,000 | 40+ years | Financial no, resilience maybe |
 
-These numbers are current as of July 2026 and use the 30% federal ITC, which remains in place through 2032 under current law. State incentives vary and can shift these materially.
+These numbers are current as of July 2026. The 30% federal ITC ended for installations completed after December 31, 2025 and is no longer available for new residential installations. State incentives vary and can shift these materially.
 
 ## What installers won't tell you
 
@@ -98,7 +98,7 @@ A useful thing to track once you're a solar owner: a home energy monitor like th
 
 **Low bill, cheap rate, no planned changes** → Client in Spokane, $62/month, $0.09/kWh, no EV plans, gas heat → Recommended against solar, suggested a home energy audit instead. Cost of audit: $350. Found air sealing opportunities worth roughly $20/month in reduced heating. Better ROI by a wide margin.
 
-**Low bill, high rate, EV incoming** → Client in suburban Boston, $74/month, $0.28/kWh, buying a Tesla Model 3 → Sized a 7 kW system for combined house plus EV load. Net cost after ITC: $18,900. Projected combined savings once EV arrived: $155/month. Payback estimate: 10.2 years. They signed. Made sense.
+**Low bill, high rate, EV incoming** → Client in suburban Boston, $74/month, $0.28/kWh, buying a Tesla Model 3 → Sized a 7 kW system for combined house plus EV load. Projected combined savings once EV arrived: $155/month. They signed. Made sense.
 
 **Low bill, battery focus, wildfire area** → Client in the Sierra Nevada foothills, $68/month, $0.22/kWh, PG&E territory with regular PSPS shutoffs → The financials alone barely justified solar. Added a 10 kWh battery (Enphase IQ Battery 10T). Total net cost: $29,500. Financial payback: 18+ years. But they'd had two 4-day outages the prior year, one coinciding with a family member's medical equipment needs. They did it. I understood completely, and I wouldn't call it the wrong decision.
 

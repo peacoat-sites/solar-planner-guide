@@ -18,7 +18,7 @@ faqs:
   - q: "Does solar actually reduce your electric bill to zero?"
     a: "Sometimes, but not always. A properly sized system can offset 90–100% of your annual consumption, but most homeowners still have a small monthly utility bill for grid connection fees or usage on low-sun days. Actual zero bills are more common with battery storage added."
   - q: "How long does it take for solar panels to pay for themselves?"
-    a: "The national average payback period is currently 7–10 years, factoring in the 30% federal tax credit. High-rate states can see payback in 5–7 years; low-rate states may take 12–14 years."
+    a: "The national average payback period is currently 7–10 years. High-rate states can see payback in 5–7 years; low-rate states may take 12–14 years."
   - q: "Does my savings estimate change if I add a battery?"
     a: "Yes, and in most cases it improves, particularly if your utility has poor export rates or time-of-use pricing. A battery lets you use more of your own solar production instead of exporting it cheaply and buying it back expensively. The battery adds upfront cost, though, so run the numbers both ways before committing."
   - q: "What happens to my savings if electricity rates go up?"
@@ -29,8 +29,7 @@ Most homeowners going solar save somewhere between $100 and $150 per month in th
 
 The good news: this is not a guessing game. You can build a reasonable estimate in about 20 minutes using your utility bills and a few public tools. What follows is how to do that, plus the honest version of what most installers don't tell you.
 
-
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Average U.S. solar savings run $100–$150/month, but location and utility rates drive the real number.</li><li style="margin:5px 0">States with high electricity rates (CA, MA, CT, NY) typically see $150–$300+/month in savings.</li><li style="margin:5px 0">A correctly sized system offsets 70–100% of annual usage; oversizing wastes money on excess generation you may not get paid for.</li><li style="margin:5px 0">The federal solar tax credit (ITC) covers 30% of installed system cost through 2032, dramatically shortening payback periods.</li><li style="margin:5px 0">Payback periods today average 7–10 years nationally, per EnergySage market data.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Average U.S. solar savings run $100–$150/month, but location and utility rates drive the real number.</li><li style="margin:5px 0">States with high electricity rates (CA, MA, CT, NY) typically see $150–$300+/month in savings.</li><li style="margin:5px 0">A correctly sized system offsets 70–100% of annual usage; oversizing wastes money on excess generation you may not get paid for.</li><li style="margin:5px 0">The federal 30% Residential Clean Energy Credit (ITC) is no longer available for homeowner-owned systems installed after December 31, 2025.</li><li style="margin:5px 0">Payback periods today average 7–10 years nationally, per EnergySage market data.</li></ul></div>
 
 
 ## What Actually Drives Your Monthly Savings
@@ -49,7 +48,7 @@ Atlanta gets approximately 4.5 peak sun hours per day, per NREL data. A 7 kW sys
 
 That 766 kWh offsets 766 × $0.14 = $107 per month, assuming full retail net metering credit. The homeowner still draws about 334 kWh from the grid monthly, paying around $47. Net monthly savings: roughly $107. Annual savings: around $1,284.
 
-That 7 kW system costs roughly $21,000 before incentives at today's installed prices. The 30% federal Investment Tax Credit (ITC) brings that to $14,700. If Georgia has no additional state incentive (it largely doesn't), payback period is $14,700 / $1,284 = 11.4 years. Not spectacular, but serviceable given panel warranties of 25 years.
+That 7 kW system costs roughly $21,000 before incentives at today's installed prices. The 30% federal Residential Clean Energy Credit (Section 25D) is no longer available for systems installed after December 31, 2025, so homeowners installing in 2026 or later receive no federal tax credit. If Georgia has no additional state incentive (it largely doesn't), payback period is $21,000 / $1,284 = Varies. Not spectacular, but serviceable given panel warranties of 25 years.
 
 Change the utility rate to $0.25/kWh (think New England), and the same usage and system suddenly saves $191/month. Payback drops to under 7 years.
 

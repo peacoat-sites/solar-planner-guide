@@ -34,7 +34,7 @@ The practical response isn't to walk away from solar. It's to walk into the sizi
 
 ## Why the 7.4 kW "Median" Is the Wrong Starting Point Now
 
-The recent median residential system size of 7.4 kW was partly shaped by the tax credit. When 30% of your system cost comes back as a federal credit, there's a strong incentive to size up. Cover 100% or even 110% of your usage. Add a little buffer for an EV you might buy someday. The credit softened the upfront pain of going bigger.
+The recent median residential system size of 7.4 kW was partly shaped by the tax credit. With the federal residential clean energy credit no longer available for systems installed after December 31, 2025, the financial incentive to size up has changed. Cover 100% or even 110% of your usage. Add a little buffer for an EV you might buy someday. Without the credit softening the upfront cost of going bigger, sizing decisions now rest more heavily on your actual energy needs and payback expectations.
 
 That logic no longer applies. Here's a simple way to think about the tradeoff in 2026:
 

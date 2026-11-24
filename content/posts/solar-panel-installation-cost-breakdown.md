@@ -53,25 +53,25 @@ This is the honest part most installers won't advertise. Salesperson commissions
 
 ## National Averages and What to Actually Expect
 
-| System Size | Gross Cost (before ITC) | After 30% ITC | Typical Annual Output |
-|-------------|------------------------|---------------|-----------------------|
-| 5 kW | $14,000-$16,000 | $9,800-$11,200 | 6,000-7,500 kWh |
-| 8 kW | $22,400-$25,600 | $15,680-$17,920 | 9,600-12,000 kWh |
-| 10 kW | $28,000-$32,000 | $19,600-$22,400 | 12,000-15,000 kWh |
-| 12 kW | $33,600-$38,400 | $23,520-$26,880 | 14,400-18,000 kWh |
+| System Size | Gross Cost (before ITC) | Typical Annual Output |
+|-------------|------------------------|-----------------------|
+| 5 kW | $14,000-$16,000 | 6,000-7,500 kWh |
+| 8 kW | $22,400-$25,600 | 9,600-12,000 kWh |
+| 10 kW | $28,000-$32,000 | 12,000-15,000 kWh |
+| 12 kW | $33,600-$38,400 | 14,400-18,000 kWh |
 
 Before the federal tax credit, the national average cost for a residential solar installation sits at roughly **$2.80 to $3.20 per watt** as of 2024. For a typical 8 kW system, that puts the gross cost between $22,400 and $25,600.
 
-The [federal Investment Tax Credit](/how-long-to-pay-off-solar-panels/) (ITC), currently at 30% through 2032 per the Inflation Reduction Act, brings that same 8 kW system down to $15,680 to $17,920 after the credit is applied. That's not a rebate. It's a credit against your federal tax liability, so you need to actually owe taxes to use it.
+The [federal Investment Tax Credit](/how-long-to-pay-off-solar-panels/) (ITC), which was 30% under the Inflation Reduction Act, is no longer available for homeowner-owned systems installed after December 31, 2025. That's not a rebate. It's a credit against your federal tax liability, so you need to actually owe taxes to use it.
 
 System size is the biggest lever on total price. Here's what the math looks like based on current national averages:
 
 | System Size | Gross Cost (before ITC) | After 30% ITC | Typical Annual Output |
 |-------------|------------------------|---------------|-----------------------|
-| 5 kW | $14,000-$16,000 | $9,800-$11,200 | 6,000-7,500 kWh |
-| 8 kW | $22,400-$25,600 | $15,680-$17,920 | 9,600-12,000 kWh |
-| 10 kW | $28,000-$32,000 | $19,600-$22,400 | 12,000-15,000 kWh |
-| 12 kW | $33,600-$38,400 | $23,520-$26,880 | 14,400-18,000 kWh |
+| 5 kW | $14,000-$16,000 | Varies | 6,000-7,500 kWh |
+| 8 kW | $22,400-$25,600 | Varies | 9,600-12,000 kWh |
+| 10 kW | $28,000-$32,000 | Varies | 12,000-15,000 kWh |
+| 12 kW | $33,600-$38,400 | Varies | 14,400-18,000 kWh |
 
 Annual output assumes average U.S. irradiance. Your actual production depends on location, roof orientation, and shading.
 

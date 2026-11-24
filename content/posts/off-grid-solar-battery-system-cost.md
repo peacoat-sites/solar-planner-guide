@@ -62,7 +62,7 @@ A good home energy monitor (something like the [Emporia Vue](https://www.amazon.
 
 Installation labor for off-grid systems is harder to find and more expensive than grid-tied work. Most grid-tied installers don't want to touch a complex off-grid build. Specialists exist, but they charge accordingly, often $8,000-$15,000 in labor for a full residential system. Add permits, trenching if batteries are in a separate structure, a backup generator (a quality propane unit like a Kohler or Cummins runs $3,000-$8,000 plus installation), and the fuel infrastructure to run it, and the full picture gets expensive fast.
 
-The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) notes that off-grid systems don't qualify for the federal Investment Tax Credit (ITC) unless they're also connected to the grid. That's a meaningful detail. Grid-tied battery systems and hybrid systems can still claim the 30% ITC. Pure off-grid doesn't qualify. I'd love to tell you otherwise, but that's the rule as it stands.
+The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) notes that off-grid systems don't qualify for the federal Investment Tax Credit (ITC) unless they're also connected to the grid. That's a meaningful detail. The 30% Residential Clean Energy Credit for homeowner-owned systems ended for installations completed after December 31, 2025, so grid-tied battery systems and hybrid systems installed in 2026 or later no longer qualify either. Pure off-grid doesn't qualify.
 
 ---
 
@@ -86,7 +86,7 @@ Technically yes, but it's not what the Powerwall was designed for and Tesla's of
 
 #### Do off-grid solar systems qualify for the federal tax credit?
 
-No, not if the system is completely disconnected from the grid. The 30% federal ITC applies to grid-tied and hybrid systems, but a standalone off-grid array and battery bank doesn't qualify. Some states have their own incentives that may apply regardless, so it's worth checking your state's database.
+No, not if the system is completely disconnected from the grid. The 30% federal tax credit for homeowners no longer applies to new residential solar installations, and a standalone off-grid array and battery bank doesn't qualify in any case. Some states have their own incentives that may apply regardless, so it's worth checking your state's database.
 
 ---
 

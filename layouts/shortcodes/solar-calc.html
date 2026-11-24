@@ -88,9 +88,9 @@
         <input type="number" id="sc-infl" value="3" min="0" max="10" step="0.5">
       </label>
     </div>
-    <label class="chk"><input type="checkbox" id="sc-itc" checked> Apply 30% Federal Investment Tax Credit (ITC)</label>
+    <label class="chk"><input type="checkbox" id="sc-itc"> Apply 30% federal credit (only for systems installed by Dec 31, 2025; ended for later installs)</label>
     <div class="rg">
-      <div class="rc"><span class="rl">Net system cost</span><span class="rv" id="sc-netcost">—</span><span class="rs">after ITC</span></div>
+      <div class="rc"><span class="rl">Net system cost</span><span class="rv" id="sc-netcost">—</span><span class="rs">after credits</span></div>
       <div class="rc"><span class="rl">Annual production</span><span class="rv" id="sc-kwh">—</span><span class="rs">kWh/year</span></div>
       <div class="rc"><span class="rl">Annual savings</span><span class="rv" id="sc-yr1">—</span><span class="rs">year 1</span></div>
       <div class="rc"><span class="rl">Simple payback</span><span class="rv" id="sc-pay">—</span><span class="rs">years</span></div>
@@ -126,7 +126,7 @@
     if(c&&psh>0&&bill>0&&kw>0){
       var roi=net>0?((total-net)/net*100):0;
       c.innerHTML='A <b>'+kw+' kW</b> system in your state could produce roughly <b>'+Math.round(kwh).toLocaleString()+' kWh/year</b>, '
-        +'saving you approximately <b>'+fmt(yr1)+'</b> in year one. After the ITC your net cost is <b>'+fmt(net)+'</b>, '
+        +'saving you approximately <b>'+fmt(yr1)+'</b> in year one. Your net cost is <b>'+fmt(net)+'</b>, '
         +'with a payback of about <b>'+payback.toFixed(1)+' years</b> and a <b>'+Math.round(roi)+'% ROI</b> over 25 years.';
     }
   }

@@ -17,7 +17,7 @@ faqs:
   - q: "How long does solar payback take in North Carolina?"
     a: "Most NC homeowners see payback in 9–13 years depending on system size, shading, and how aggressively they consume their own solar production. Lower electricity rates than coastal states extend that timeline, so anyone quoting you 6–7 years deserves skepticism."
   - q: "Does North Carolina have a state solar tax credit?"
-    a: "No. The state's 35% credit expired at the end of 2015 and hasn't been reinstated. The 30% federal Residential Clean Energy Credit still applies, plus a property tax exemption and sales tax exemption on equipment."
+    a: "No. The state's 35% credit expired at the end of 2015 and hasn't been reinstated. The 30% federal Residential Clean Energy Credit expired at the end of 2025 and is no longer available for new installations. North Carolina still offers a property tax exemption and sales tax exemption on equipment."
   - q: "Which solar installers are best in North Carolina?"
     a: "Statewide, well-reviewed companies include Sunrun, Pink Energy (now out of business, a cautionary tale), Astrum Solar, and regional players like NC-based Sun Farm Network. The most important filters are NABCEP certification, workmanship warranty length, and verifiable references from 3+ year-old installations."
   - q: "Does solar increase home value in North Carolina?"
@@ -32,20 +32,20 @@ The state sits in a genuinely good solar sweet spot. Not Arizona sun, but not Se
 
 What most coverage glosses over: North Carolina's retail electricity rates are currently around 13 cents per kWh, which is below the U.S. average of roughly 17 cents. That one fact meaningfully changes your payback math compared to, say, California or Massachusetts. Lower rates mean slower payback, full stop. I'll show you exactly what that looks like.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NC homeowners average $25,000–$33,000 before incentives for a 10–12 kW system; after the 30% federal tax credit, expect $17,500–$23,100.</li><li style="margin:5px 0">NC's retail electricity rate (~13¢/kWh) is below the U.S. average, so payback periods run 9–13 years, longer than in high-rate states.</li><li style="margin:5px 0">NC has no state solar tax credit as of 2026, but a solid Property Tax Exemption on solar's added home value.</li><li style="margin:5px 0">Duke Energy and Dominion offer net metering, but the policy caps and credit rates have gotten less generous since 2023.</li><li style="margin:5px 0">A south-facing roof with minimal shade and a pitch between 15–40 degrees is where NC solar performs best.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NC homeowners average $25,000–$33,000 before incentives for a 10–12 kW system; the 30% federal tax credit ended for systems installed after December 31, 2025, so new installations no longer reduce that cost with a federal credit.</li><li style="margin:5px 0">NC's retail electricity rate (~13¢/kWh) is below the U.S. average, so payback periods run 9–13 years, longer than in high-rate states.</li><li style="margin:5px 0">NC has no state solar tax credit as of 2026, but a solid Property Tax Exemption on solar's added home value.</li><li style="margin:5px 0">Duke Energy and Dominion offer net metering, but the policy caps and credit rates have gotten less generous since 2023.</li><li style="margin:5px 0">A south-facing roof with minimal shade and a pitch between 15–40 degrees is where NC solar performs best.</li></ul></div>
 
 ## What Solar Actually Costs in North Carolina Right Now
 
 As of August 2026, the average installed cost for residential solar in North Carolina runs between $2.50 and $3.20 [per watt](/solar-panel-cost-per-watt/) before incentives, based on EnergySage's current market data for the state. A typical 10 kW system lands between $25,000 and $32,000 before any credits.
 
-The federal Residential Clean Energy Credit remains at 30% through 2032 (thank the Inflation Reduction Act for that runway). On a $28,000 system, that's $8,400 back at tax time. Not a rebate, a tax credit, so you need to actually owe that much in federal taxes to use it fully. If you don't, the unused portion carries forward to subsequent years, which most installers mention and then immediately underexplain.
+The federal Residential Clean Energy Credit ended for installations completed after December 31, 2025. Not a rebate, a tax credit, so you need to actually owe that much in federal taxes to use it fully. If you don't, the unused portion carries forward to subsequent years, which most installers mention and then immediately underexplain.
 
-| System Size | Gross Cost (est.) | After 30% Federal Credit | Annual Production (est.) | Simple Payback |
-|---|---|---|---|---|
-| 8 kW | $20,000–$25,600 | $14,000–$17,920 | 10,400–11,200 kWh | 11–14 years |
-| 10 kW | $25,000–$32,000 | $17,500–$22,400 | 13,000–14,000 kWh | 9–13 years |
-| 12 kW | $30,000–$38,400 | $21,000–$26,880 | 15,600–16,800 kWh | 10–14 years |
-| 14 kW | $35,000–$44,800 | $24,500–$31,360 | 18,200–19,600 kWh | 10–14 years |
+| System Size | Gross Cost (est.) | Annual Production (est.) | Simple Payback |
+|---|---|---|---|
+| 8 kW | $20,000–$25,600 | 10,400–11,200 kWh | Varies |
+| 10 kW | $25,000–$32,000 | 13,000–14,000 kWh | Varies |
+| 12 kW | $30,000–$38,400 | 15,600–16,800 kWh | Varies |
+| 14 kW | $35,000–$44,800 | 18,200–19,600 kWh | Varies |
 
 Production estimates assume 4.5 peak sun hours and a quality system with less than 10% shading loss. Add battery storage and you're typically looking at another $10,000–$15,000 for a single Enphase IQ Battery 5P or Tesla Powerwall 3.
 

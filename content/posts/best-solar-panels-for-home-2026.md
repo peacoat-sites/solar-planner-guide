@@ -12,7 +12,7 @@ faqs:
  - q: "Are more expensive solar panels always worth it?"
    a: "Not automatically. The premium for top-tier panels like Maxeon pays off most clearly in three situations: you have limited roof space and need maximum watts per square foot; you're in a hot climate where temperature coefficient makes a real production difference; or you plan to stay in the home for 20-plus years and want to capture every percentage point of long-term degradation advantage. If you have a large, unshaded roof and a shorter ownership horizon, mid-range panels from Canadian Solar or Qcells often deliver better financial returns."
  - q: "What solar incentives are available in 2026?"
-   a: "The federal Investment Tax Credit (ITC) remains at 30% through 2032 under the Inflation Reduction Act, covering the full installed cost including panels, inverter, labor, and battery storage. Separately, many states offer additional credits, rebates, or property tax exemptions. The Database of State Incentives for Renewables and Efficiency (DSIRE) at dsireusa.org is the best place to check your specific state. Don't rely on your installer's summary alone."
+   a: "The federal 30% Residential Clean Energy Credit (Section 25D) is no longer available for solar systems installed after December 31, 2025. It covered the full installed cost including panels, inverter, labor, and battery storage for systems completed by that date. Separately, many states offer additional credits, rebates, or property tax exemptions. The Database of State Incentives for Renewables and Efficiency (DSIRE) at dsireusa.org is the best place to check your specific state. Don't rely on your installer's summary alone."
  - q: "How do I know if my installer is recommending the right panels for my roof, not just what they stock?"
    a: "Ask them directly which panels they're a certified installer for and whether they receive volume rebates for pushing specific brands. A good installer will walk you through the reasoning for their recommendation and offer alternatives. If they can't explain why one panel is better for your specific roof orientation, shading situation, and climate, that's a red flag."
  - q: "Do solar panels work well in cold or cloudy climates?"
@@ -83,7 +83,7 @@ Efficiency: ~21.4%. Qcells is manufactured in Georgia, which matters if you care
 | Canadian Solar HiHero | 22.5% | -0.34%/°C | 0.50% | 25 years | Baseline |
 | Qcells Q.TRON BLK | 21.4% | -0.34%/°C | 0.40% | 25 years | Baseline |
 
-Prices reflect installer-level costs, not retail. Your final number depends heavily on system size, location, and labor market. According to [EnergySage's market data](https://news.energysage.com/), the average installed cost for residential solar in 2024 was $2.95/watt before incentives, meaning a 10 kW system runs about $29,500 before the 30% federal tax credit brings it to roughly $20,650.
+Prices reflect installer-level costs, not retail. Your final number depends heavily on system size, location, and labor market. According to [EnergySage's market data](https://news.energysage.com/), the average installed cost for residential solar in 2024 was $2.95/watt before incentives, meaning a 10 kW system runs about $29,500.
 
 ## How to Actually Choose: A Step-by-Step Framework
 

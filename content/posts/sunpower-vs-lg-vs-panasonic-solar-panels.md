@@ -78,7 +78,7 @@ The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) tracks m
 
 ## The Federal Tax Credit and Panel Choice
 
-One thing that changes the math: the federal residential clean energy credit currently allows you to claim 30% of your total installed system cost. That includes the panels, inverter, racking, and labor. Because the credit applies to total cost, buying more expensive panels means a larger absolute credit. If your SunPower system costs $28,000 and a standard panel system costs $22,000, your credit is $8,400 vs. $6,600. The gap in out-of-pocket cost narrows from $6,000 to $4,200. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has good background on how to claim the credit using IRS Form 5695.
+The federal residential clean energy credit ended for systems whose installation was completed after December 31, 2025, so homeowners installing in 2026 or later receive no federal tax credit. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has good background on solar installation considerations.
 
 ## Monitoring and Keeping an Eye on Performance
 

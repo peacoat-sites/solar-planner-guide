@@ -29,8 +29,7 @@ Solar generators and home batteries solve different problems. If you need someth
 
 A solar generator is essentially a portable power station with a built-in battery, an inverter, and sometimes a folding solar panel included in the bundle. The EcoFlow DELTA Pro and Jackery Explorer 2000 Pro are two of the best-known examples. They're self-contained, they weigh somewhere between 30 and 100 pounds, and they're not wired into your home. A home battery, by contrast, is a fixed, wall-mounted system like the [Tesla Powerwall](/tesla-powerwall-cost/) 3 or Enphase IQ Battery 5P. It connects to your home's electrical panel, charges from your rooftop solar array or the grid, and can power whole circuits or even your entire house automatically when the power goes out.
 
-
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar generators are portable, affordable ($500–$3,500), and best for outages under 24 hours or off-grid use.</li><li style="margin:5px 0">Home batteries (Powerwall 3, Enphase IQ) are fixed systems costing $10,000–$18,000 installed, designed for whole-home backup and solar self-consumption.</li><li style="margin:5px 0">Home batteries qualify for the federal 30% Investment Tax Credit; most portable solar generators do not.</li><li style="margin:5px 0">If your outages last more than a day or you have rooftop solar, a home battery almost always wins on value.</li><li style="margin:5px 0">Capacity is not the same as usable capacity, check both numbers before comparing products.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar generators are portable, affordable ($500–$3,500), and best for outages under 24 hours or off-grid use.</li><li style="margin:5px 0">Home batteries (Powerwall 3, Enphase IQ) are fixed systems costing $10,000–$18,000 installed, designed for whole-home backup and solar self-consumption.</li><li style="margin:5px 0">The federal 30% Investment Tax Credit for homeowner-owned home batteries is no longer available for systems installed after December 31, 2025; most portable solar generators did not qualify either.</li><li style="margin:5px 0">If your outages last more than a day or you have rooftop solar, a home battery almost always wins on value.</li><li style="margin:5px 0">Capacity is not the same as usable capacity, check both numbers before comparing products.</li></ul></div>
 
 
 ## What You're Actually Comparing
@@ -44,7 +43,7 @@ The core difference isn't really about solar panels. It's about how much energy 
 | Installation | None required | Professional, permitted |
 | Grid integration | No | Yes |
 | Automatic transfer (whole-home) | No | Yes (most systems) |
-| Federal 30% ITC eligible | No (generally) | Yes |
+| Federal 30% ITC eligible | No (generally) | No (for homeowner-owned systems installed after December 31, 2025) |
 | Typical all-in cost | $500 – $3,500 | $10,000 – $18,000 installed |
 | Portability | Yes | No |
 | Lifespan | 500 – 1,000 cycles | 3,000 – 6,000+ cycles |
@@ -65,7 +64,7 @@ If you want one to have on hand, the [EcoFlow DELTA Pro](https://www.amazon.com/
 
 EnergySage's market data shows that homeowners with solar panels who add a battery are storing excess midday generation and drawing it back during evening peak rate hours, which in time-of-use utility markets can be a meaningful monthly reduction on the electricity bill. That's something no portable generator can do.
 
-The economics do require real scrutiny though. A Powerwall 3 installed runs roughly $12,000 to $15,000 before incentives. After the federal 30% Investment Tax Credit (ITC), which applies to battery systems charged primarily by solar, you're looking at $8,400 to $10,500. Add state incentives where available (California's SGIP, for example, pays rebates per watt-hour of storage for eligible households) and the gap narrows further.
+The economics do require real scrutiny though. A Powerwall 3 installed runs roughly $12,000 to $15,000 before incentives. The federal 30% Investment Tax Credit (ITC) for homeowner-owned battery systems is no longer available for installations completed after December 31, 2025. Add state incentives where available (California's SGIP, for example, pays rebates per watt-hour of storage for eligible households) and the gap narrows further.
 
 The Solar Energy Industries Association (SEIA) reports that residential battery attachment rates have increased sharply in recent years, driven partly by grid reliability concerns and partly by time-of-use billing becoming more common. That trend is real. So is the reality that in a sunny state without frequent outages and no time-of-use rates, the financial case alone may take 10 to 15 years to pencil out.
 

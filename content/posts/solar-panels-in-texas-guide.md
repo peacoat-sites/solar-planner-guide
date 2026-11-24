@@ -16,7 +16,7 @@ faqs:
   - q: "What's the best roof type for solar in Texas?"
     a: "South-facing roofs with a pitch between 15 and 40 degrees work best in Texas. West-facing roofs actually perform well for Texas homeowners on time-of-use rates, since they capture afternoon sun when grid electricity is most expensive. Flat commercial-style roofs can use racking to optimize angle. Shake and wood roofs require special handling and can increase installation costs."
   - q: "Is a solar lease or PPA a good idea in Texas?"
-    a: "Generally, I'd lean toward cash purchase or a solar loan if you can qualify for financing. Leases and PPAs eliminate your upfront cost but also eliminate your access to the 30% federal tax credit, which goes to the leasing company instead. They can also complicate home sales. They make more sense for homeowners with very low tax liability who genuinely can't use the credit."
+    a: "Generally, lean toward cash purchase or a solar loan if you can qualify for financing. Leases and PPAs eliminate your upfront cost but also eliminate your access to the federal tax credit, which goes to the leasing company instead. They can also complicate home sales. They make more sense for homeowners who genuinely cannot use a cash or loan purchase."
   - q: "How much does solar add to a Texas home's value?"
     a: "NREL research suggests solar adds roughly $15,000 to $20,000 in resale value for a typical residential system, and Texas exempts that added value from property taxes entirely. That exemption alone can save you several thousand dollars over the system's life, and it's one of the better state-level solar incentives Texas actually offers."
 author: "Nadia Patel"
@@ -31,22 +31,22 @@ Let's do this properly.
 
 ## What Solar Actually Costs in Texas Right Now
 
-| Component | Cost Range | After 30% Federal Credit |
-| --- | --- | --- |
-| 10 kW Solar System | $25,000-$32,000 | $17,500-$22,400 |
-| Tesla Powerwall 3 (installed) | $9,000-$11,000 | $6,300-$7,700 |
-| Enphase IQ Battery 5P (installed) | $9,000-$11,000 | $6,300-$7,700 |
-| Emporia Vue Energy Monitor | ~$80 | ~$80 |
+| Component | Cost Range |
+| --- | --- |
+| 10 kW Solar System | $25,000-$32,000 |
+| Tesla Powerwall 3 (installed) | $9,000-$11,000 |
+| Enphase IQ Battery 5P (installed) | $9,000-$11,000 |
+| Emporia Vue Energy Monitor | ~$80 |
 
 The average residential solar installation in Texas runs between $2.50 and $3.20 per watt before incentives, based on current EnergySage market data. For a typical 10 kW system (which is what a lot of Texas homes need, given the air conditioning load), you're looking at $25,000 to $32,000 before any credits come in.
 
-Then the federal tax credit hits. The Inflation Reduction Act locked in a 30% federal Investment Tax Credit through 2032, so on a $28,000 system, that's $8,400 back when you file your taxes. Important: that's a credit, not a refund. You need actual tax liability to use it fully. I've talked to retirees who were blindsided by this distinction.
+Then the federal tax credit is no longer available for new installations. The 30% Residential Clean Energy Credit (Section 25D) ended for systems whose installation was completed after December 31, 2025, so a system installed in 2026 or later receives no federal tax credit. If your system was installed and completed by December 31, 2025, you may still be able to claim that credit on an original or amended return. Important: that credit was never a refund. You need actual tax liability to use it fully.
 
 Texas has no state income tax, which means no state solar tax credit to layer on top. That's the bad news. The good news: Texas does have a strong property tax exemption for solar. The added value that solar puts on your home (NREL research puts this at roughly $15,000 for an average system) is exempt from property taxes. In a state where property taxes run 1.5% to 2.5% annually, that exemption quietly saves you $300 to $600 every year for the life of the system.
 
 Most Texas utilities also offer a sales tax exemption on solar equipment. Not all installers will mention this automatically, so ask.
 
-After the federal credit, net system cost lands around $17,500 to $22,500 for most homeowners. Payback periods typically run 7 to 11 years, depending on your usage, your specific utility, and whether you add battery storage.
+Payback periods typically run 7 to 11 years, depending on your usage, your specific utility, and whether you add battery storage.
 
 ## The Grid Situation You Actually Need to Understand
 
@@ -66,7 +66,7 @@ February 2021 settled this debate for a lot of people.
 
 Without a battery, a grid-tied solar system goes dark during an outage. This is a safety requirement (to protect line workers), and it's a fact that more than a few solar salespeople gloss over. During Winter Storm Uri, solar owners without batteries had panels sitting on their roofs doing nothing while the grid was down. Hard lesson.
 
-A Tesla Powerwall 3 currently retails around $9,000 to $11,000 installed. An Enphase IQ Battery 5P runs comparable numbers. These costs also qualify for the 30% federal tax credit when installed alongside solar (or even on an existing solar system). So the after-credit cost is more like $6,300 to $7,700.
+A Tesla Powerwall 3 currently retails around $9,000 to $11,000 installed. An Enphase IQ Battery 5P runs comparable numbers. The 30% federal Residential Clean Energy Credit (Section 25D) for battery storage is no longer available for systems installed after December 31, 2025.
 
 Is it worth it? Depends on where you live and how risk-tolerant you are. Coastal Texas and areas with aging infrastructure see more outages, and a battery there feels less like a luxury. In parts of North Texas with newer infrastructure, you might go a decade without a meaningful outage. I wouldn't tell everyone to buy one, but if your household has someone on medical equipment or you simply can't handle another week without power, the math is secondary to the peace of mind.
 
@@ -92,7 +92,7 @@ And check reviews specifically on Google and the Better Business Bureau for the 
 
 ## How Long Before You Break Even?
 
-For a $28,000 system with the federal tax credit applied, net cost of $19,600, producing 13,000 kWh per year in central Texas, and with an average retail rate of $0.14 per kWh: you're looking at about $1,820 in annual savings if you're self-consuming most of that production. Payback period: roughly 10.8 years.
+For a $28,000 system producing 13,000 kWh per year in central Texas, and with an average retail rate of $0.14 per kWh: you're looking at about $1,820 in annual savings if you're self-consuming most of that production. Payback period: Varies.
 
 Push your self-consumption higher (time your laundry, pool pump, EV charging to daytime hours) and that payback tightens. Rates go up, as they have pretty much every year in Texas, and it tightens further. Panels degrade slowly, about 0.5% per year on modern equipment, so you'll still have a productive system at year 25.
 

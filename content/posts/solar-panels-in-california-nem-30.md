@@ -10,7 +10,7 @@ slug: "solar-panels-in-california-nem-30"
 affiliate_disclosure: true
 faqs:
   - q: "Is solar still worth it in California under NEM 3.0?"
-    a: "For many homeowners, yes, but the math is tighter than it was. Systems paired with battery storage and optimized for self-consumption can still achieve 8 to 12 year paybacks, and given California's rising utility rates and the 30% federal tax credit, the 25-year ROI remains positive for most installations. If you have high daytime electricity use or an EV, the case is stronger. If you have a small bill and no storage, I'd run the numbers carefully before committing."
+    a: "For many homeowners, yes, but the math is tighter than it was. Systems paired with battery storage and optimized for self-consumption can still achieve 8 to 12 year paybacks, and given California's rising utility rates, the 25-year ROI remains positive for most installations. If you have high daytime electricity use or an EV, the case is stronger. If you have a small bill and no storage, run the numbers carefully before committing."
   - q: "Can I still get grandfathered into NEM 2.0?"
     a: "No, not for new applications. Any system that didn't have a completed interconnection application before April 14, 2023 falls under NEM 3.0. Customers already on NEM 2.0 remain grandfathered for 20 years from their approval date, so if you're on NEM 2.0, don't change your system in ways that might trigger re-enrollment."
   - q: "How much does battery storage actually help under NEM 3.0?"
@@ -18,7 +18,7 @@ faqs:
   - q: "What export rates can I actually expect under NEM 3.0?"
     a: "They vary by hour and season, but as a rough planning figure: midday summer exports (10 AM to 3 PM) typically earn $0.04 to $0.08 per kWh, while late afternoon and evening exports (4 to 8 PM) can earn $0.18 to $0.30 per kWh. These rates are determined by the Avoided Cost Calculator, which updates annually, so they'll shift over time."
   - q: "Does NEM 3.0 affect solar leases and PPAs differently?"
-    a: "Mostly no. If you're leasing panels or buying power through a PPA, the export credit structure still applies in the same way, but the financial arrangement you have with the leasing company may or may not pass those credits through to you. Read your contract carefully. Some lease agreements lock in rates that assumed NEM 2.0 export values, which can make the deal worse than expected. Ownership, especially with the federal tax credit, tends to look better under NEM 3.0 than third-party financing."
+    a: "Mostly no. If you're leasing panels or buying power through a PPA, the export credit structure still applies in the same way, but the financial arrangement you have with the leasing company may or may not pass those credits through to you. Read your contract carefully. Some lease agreements lock in rates that assumed NEM 2.0 export values, which can make the deal worse than expected. Ownership tends to look better under NEM 3.0 than third-party financing, as the federal residential solar tax credit is no longer available for systems installed after December 31, 2025."
 author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "System Design"
@@ -81,13 +81,13 @@ For panels, the efficiency question matters more under NEM 3.0 because every kWh
 
 One thing installers sometimes gloss over: the interconnection timeline. As of late 2024, PG&E and SDG&E interconnection queues have stretched to 4 to 9 months in many areas. That's time you're not producing power and not earning credits. Factor it into your decision, especially if you're planning around a federal tax credit deadline.
 
-## The 30% Federal Tax Credit Still Applies, and It's Real Money
+## The 30% Federal Tax Credit Ended After 2025
 
-The Inflation Reduction Act's residential clean energy credit gives you 30% of total system cost back as a direct tax credit. On a $30,000 solar plus storage system, that's $9,000 off your federal tax bill. That credit applies to battery storage even if it's added without new panels starting in 2023.
+The federal residential clean energy credit that previously gave homeowners 30% of total system cost back as a direct tax credit has ended for systems whose installation is completed after December 31, 2025. That credit applied to battery storage even if added without new panels.
 
 This doesn't change the NEM 3.0 math, but it meaningfully changes the absolute numbers. A $30,000 system becomes a $21,000 out-of-pocket system if you have sufficient federal tax liability to absorb the credit. That improved payback period enough that plenty of NEM 3.0 systems still pencil out, particularly when you factor in California's generally rising utility rates and SDG&E bills that routinely run $300 to $500 a month for moderately-sized homes.
 
-The credit is currently set to stay at 30% through 2032, then step down. There's always political uncertainty around these things, but for now the 30% number is reliable planning material.
+The federal residential clean energy credit ended for systems installed after December 31, 2025. For systems whose installation was completed by December 31, 2025, the 30% credit remains claimable. State tax credits, utility rebates, net metering, and other state-level incentives are separate and were not affected by this change.
 
 What the NEM 3.0 transition really is, stripped of all the policy language, is a shift in who captures the value of solar: from any solar homeowner to solar homeowners who are thoughtful about storage and consumption timing. That's a harder bar to clear than it was two years ago, but it's not an impossible one. The homeowners who make this work are the ones who go in with accurate numbers rather than the numbers an eager salesperson puts on a proposal. Get your own numbers.
 

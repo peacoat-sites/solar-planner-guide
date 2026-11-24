@@ -32,7 +32,7 @@ The best solar financing choice on paper doesn't always deliver the best real-wo
 
 ## The Basic Mechanics (and Why They Matter More Than People Think)
 
-When you buy a solar system outright, or finance it with a solar loan, you own the equipment. You claim the 30% federal Investment Tax Credit (the ITC, currently sitting at 30% through 2032 under the Inflation Reduction Act), any applicable state incentives, and the full value of every kilowatt-hour those panels produce for the next 25 or 30 years. A typical 8-kilowatt residential system installed today costs somewhere between $20,000 and $28,000 before incentives, based on EnergySage's market data, which puts average national pricing around $2.85 per watt as of 2026. After the 30% federal credit, you're looking at $14,000 to $19,600 net cost depending on system size, roof complexity, and where you live.
+When you buy a solar system outright, or finance it with a solar loan, you own the equipment. The 30% federal Residential Clean Energy Credit (IRC Section 25D) is no longer available for systems installed after December 31, 2025, so homeowners who complete installation in 2026 or later receive no federal tax credit. Any applicable state incentives still apply, and you retain the full value of every kilowatt-hour those panels produce for the next 25 or 30 years. A typical 8-kilowatt residential system installed today costs somewhere between $20,000 and $28,000 before incentives, based on EnergySage's market data, which puts average national pricing around $2.85 per watt as of 2026.
 
 A lease is completely different. A third-party company (SunPower, Sunrun, Tesla Energy, and others) owns the panels. They install them on your roof, and you pay a fixed monthly rate, typically somewhere between $80 and $150 per month, for the electricity they generate. Some agreements are structured as a Power Purchase Agreement, or PPA, where you pay per kilowatt-hour rather than a flat monthly fee. Either way, you don't own the equipment, you don't get the tax credit, and your contract usually runs 20 to 25 years with annual escalator clauses that bump your payment 1% to 3% per year.
 
@@ -44,11 +44,11 @@ Let me put the comparison on the table, because I find most articles bury these 
 
 | Factor | Purchase (cash or loan) | Solar Lease / PPA |
 |---|---|---|
-| Upfront cost | $0 (loan) or $14K-$20K (cash after ITC) | $0 |
-| Federal tax credit (30% ITC) | You keep it (~$6,000-$8,400 value) | Goes to leasing company |
+| Upfront cost | $0 (loan) or $14K-$20K (cash) | $0 |
+| Federal tax credit (30% ITC) | No longer available for installations completed after December 31, 2025 | Goes to leasing company (subject to eligibility rules) |
 | Monthly cost | $120-$180/mo (loan, 10-yr) or $0 (paid cash) | $80-$150/mo fixed (escalating) |
 | Electricity bill impact | Near-zero (you own the production) | Reduced but not eliminated |
-| 25-year net savings estimate | $30,000-$60,000 (varies by market) | $10,000-$20,000 (varies) |
+| 25-year net savings estimate | Varies by market | $10,000-$20,000 (varies) |
 | System ownership | You | Third-party company |
 | Home sale complications | Minimal to none | Buyer must assume lease or you buy out |
 | Maintenance responsibility | Yours (or warranty coverage) | Leasing company's |
@@ -66,7 +66,7 @@ Here's where I'll push back on the "leasing is always worse" crowd. A few scenar
 
 **You genuinely don't want to think about it.** Maintenance, monitoring, inverter replacement around year 10 to 12 (typically $1,000 to $2,500 depending on whether you have string inverters or microinverters), dealing with roof repairs under owned panels. None of that is your problem with a lease. Some people value the peace of mind enough that it's worth the financial tradeoff.
 
-Scenario example: A retired couple in Phoenix, fixed income, tax liability around $2,000/year. They signed a Sunrun lease at $105/month with a 2% annual escalator. Their prior electric bill averaged $180/month with APS. Net savings in year one: $75/month. After 25 years accounting for escalators, they saved approximately $14,000 total. Had they purchased a comparable system outright with a loan at 6.99% (a common solar loan rate right now), they'd have spent more per month in the first 10 years but saved closer to $42,000 net over 25 years. The purchase wins on paper. But they couldn't use the tax credit, didn't want maintenance headaches, and had no loan appetite. For them specifically, the lease was defensible.
+Scenario example: A retired couple in Phoenix, fixed income, tax liability around $2,000/year. They signed a Sunrun lease at $105/month with a 2% annual escalator. Their prior electric bill averaged $180/month with APS. Net savings in year one: $75/month. After 25 years accounting for escalators, they saved approximately $14,000 total. Had they purchased a comparable system outright with a loan at 6.99% (a common solar loan rate right now), they'd have spent more per month in the first 10 years. The purchase may win on paper over 25 years. But the federal tax credit is no longer available for homeowner-owned systems installed in 2026 or later, they didn't want maintenance headaches, and had no loan appetite. For them specifically, the lease was defensible.
 
 ## The Home Sale Problem Is Real, But Overblown
 
@@ -78,11 +78,11 @@ If you buy, this goes away entirely. The panels are a home improvement, similar 
 
 ## Financing Options for Ownership (Because "Go Solar" Doesn't Have to Mean "Pay Cash")
 
-This is the part that changes the calculation for most people. You don't have to choose between a lease and writing a check for $20,000. Solar-specific loans from lenders like Mosaic, Goodleap, and Sunlight Financial are widely available, typically ranging from 4.99% to 8.99% APR as of this year depending on credit score and loan term. A 10-year loan on a $16,000 net system (after ITC) runs roughly $165/month at 6.99%. For a homeowner who was paying $200/month in electricity, that's still cash-flow positive from day one, and they own the asset.
+This is the part that changes the calculation for most people. You don't have to choose between a lease and writing a check for $20,000. Solar-specific loans from lenders like Mosaic, Goodleap, and Sunlight Financial are widely available, typically ranging from 4.99% to 8.99% APR as of this year depending on credit score and loan term. A 10-year loan on a $20,000 system runs roughly $165/month at 6.99%. For a homeowner who was paying $200/month in electricity, that's still cash-flow positive from day one, and they own the asset.
 
 Many solar installers push their preferred financing partner, which isn't always the cheapest option. Getting a competing quote from your local credit union or using a HELOC (if you have equity and good rates) can save $1,500 to $4,000 over the loan term.
 
-Scenario example: A homeowner in Austin, Texas, 2,000 sq ft house, $190/month average electric bill (Oncor service territory). Purchased a 9.5 kW system at $27,000 gross, received $8,100 in federal ITC, net cost $18,900. Financed with a 10-year Mosaic loan at 5.99%, payment $209/month. Electric bill dropped to roughly $15/month. Net monthly change: paying $29 more per month than before. After loan payoff in year 10, saves $190/month with a system expected to perform well into the mid-2040s. 25-year estimated net savings: roughly $48,000.
+Scenario example: A homeowner in Austin, Texas, 2,000 sq ft house, $190/month average electric bill (Oncor service territory). Purchased a 9.5 kW system at $27,000 gross. Financed with a 10-year Mosaic loan at 5.99%, payment $209/month. Electric bill dropped to roughly $15/month. Net monthly change: paying $29 more per month than before. After loan payoff in year 10, saves $190/month with a system expected to perform well into the mid-2040s. 25-year estimated net savings: Varies.
 
 ## Monitoring and the Ownership Experience
 

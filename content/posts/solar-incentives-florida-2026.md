@@ -1,8 +1,8 @@
 ---
-title: "How to Get Solar Tax Credits in Florida"
+title: "Florida Solar Incentives in 2026: What You Can Still Get"
 date: 2026-05-29T02:07:32.191954+00:00
 draft: false
-description: "Discover Florida's solar incentives for 2026, including tax credits, rebates, and financing options to reduce your installation costs and go solar affordably."
+description: "Florida solar incentives in 2026, now that the federal credit has ended: the state's sales and property tax exemptions, net metering and financing options."
 image: "/img/heroes/4320475.jpg"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "Florida", "2026"]
@@ -10,13 +10,13 @@ slug: "solar-incentives-florida"
 affiliate_disclosure: true
 faqs:
  - q: "Does Florida have a state solar tax credit in 2026?"
-   a: "No. Florida has no state income tax, so there's no state-level solar tax credit. What Florida does offer are a sales tax exemption on solar equipment and a property tax exemption on the value solar adds to your home. Combined with the 30% federal ITC, these create a meaningful incentive package even without a direct state tax credit."
+   a: "No. Florida has no state income tax, so there's no state-level solar tax credit. What Florida does offer are a sales tax exemption on solar equipment and a property tax exemption on the value solar adds to your home. These state incentives remain available, though the 30% federal ITC is no longer available for systems installed after December 31, 2025."
  - q: "Is net metering still worth it for Florida homeowners?"
    a: "Yes, but the calculation has changed. Florida has moved away from full retail-rate net metering credit for exported excess power, so oversizing your system to maximize exports is less effective than it was before 2023. The smartest approach in 2026 is sizing your system to match your consumption and pairing it with battery storage to use more of what you generate on-site."
  - q: "How long does it take to pay back a solar system in Florida?"
-   a: "For most Florida homeowners, the payback period runs 7 to 11 years after applying the federal ITC and accounting for electricity savings. Homes with higher electricity usage, south-facing roofs, and high local utility rates tend to hit the shorter end of that range. How long to pay off solar panels walks through the variables in detail."
+   a: "For most Florida homeowners, the payback period runs 7 to 11 years, accounting for electricity savings. Homes with higher electricity usage, south-facing roofs, and high local utility rates tend to hit the shorter end of that range. How long to pay off solar panels walks through the variables in detail."
  - q: "Should I buy my system or lease it in 2026?"
-   a: "Buying (either cash or a solar loan) makes more financial sense in most scenarios because you own the ITC and all future savings. Leases and PPAs transfer the tax credit to the installer. That said, leases can work for homeowners who can't use the ITC due to low tax liability, or who simply don't want any maintenance responsibility. The solar loan vs solar lease vs PPA comparison is worth reading before you decide."
+   a: "Buying (either cash or a solar loan) made more financial sense in most scenarios because you owned the ITC and all future savings. Leases and PPAs transfer the tax credit to the installer. That said, leases can work for homeowners who simply don't want any maintenance responsibility. The solar loan vs solar lease vs PPA comparison is worth reading before you decide."
  - q: "Do I need to worry about hurricane-proofing my solar installation in Florida?"
    a: "Yes, and it's not optional. Florida Building Code requires solar installations to meet specific wind load standards. Make sure your installer is pulling permits and that the racking system is rated for your local wind zone. Most quality residential installations in Florida are engineered to withstand 160+ mph winds. Ask for documentation of the wind rating before signing any contract."
 author: "Alex Rivera"
@@ -29,15 +29,15 @@ Florida gets more sun than almost any other state in the country, yet it ranks b
 
 ---
 
-## The Federal Tax Credit: Still the Biggest Lever You Can Pull
+## The Federal Tax Credit: What Changed After 2025
 
-The 30% federal Investment Tax Credit (ITC) is the foundation of every Florida solar deal right now. If your system costs $28,000 before incentives, you're looking at an $8,400 credit directly against your federal tax liability. Not a deduction. A credit. That's real money off your tax bill.
+The 30% federal Investment Tax Credit (ITC) for homeowners ended for systems whose installation was completed after December 31, 2025. If your system costs $28,000, that is the price you pay. Not a deduction. A credit. That was real money off your tax bill for systems installed by December 31, 2025.
 
 The credit applies to panels, inverters, batteries (if charged by solar), labor, and even sales tax on equipment. Many homeowners are surprised by how broad the eligible costs are.
 
 One thing installers sometimes gloss over: you have to have sufficient federal tax liability to use the full credit in a single year. If you owe $5,000 in federal taxes annually, you can carry the remaining credit forward into future years, but that does affect your effective payback timeline. Retirees living on Social Security income should run this scenario carefully with a tax professional before signing any contract.
 
-The 30% rate runs through 2032, then steps down to 26% in 2033 and 22% in 2034. So while there's no panic-now urgency, waiting until 2034 means leaving thousands of dollars on the table. For a deeper look at how the credit works mechanically, the [ITC solar investment tax credit explained](/itc-solar-investment-tax-credit-explained/) guide on this site is worth reading before you meet with any installer.
+The federal 30% Residential Clean Energy Credit is no longer available for systems installed after December 31, 2025, so homeowners who complete a new solar installation in 2026 or later cannot claim it. For a deeper look at how the credit worked mechanically, the [ITC solar investment tax credit explained](/itc-solar-investment-tax-credit-explained/) guide on this site is worth reading before you meet with any installer.
 
 ---
 
@@ -45,7 +45,7 @@ The 30% rate runs through 2032, then steps down to 26% in 2033 and 22% in 2034. 
 
 | Incentive | Type | Value | Duration | Notes |
 | --- | --- | --- | --- | --- |
-| Federal ITC | Tax Credit | 30% of system cost | Through 2032 | Steps down to 26% in 2033, 22% in 2034 |
+| Federal ITC | Tax Credit | 30% of system cost | Ended December 31, 2025 | Only available for systems whose installation was completed by December 31, 2025 |
 | Sales Tax Exemption | State Exemption | 6% of equipment cost | Ongoing | Automatic; covers panels, inverters, batteries |
 | Property Tax Exemption | State Exemption | 100% of solar-added home value | Ongoing | Indefinite annual savings; example: $450/year at 1.5% tax rate on $30k added value |
 | Net Metering Credits | Utility Compensation | Reduced from retail rate | Ongoing | Now closer to avoided cost rate; less favorable for oversized systems |
@@ -107,8 +107,8 @@ Let's put concrete numbers on a typical scenario. An Orlando homeowner with a 1,
 | System size | 10 kW |
 | Gross system cost | $28,000 |
 | Florida sales tax savings (6%) | $1,680 (already excluded) |
-| Federal ITC (30%) | $8,400 credit |
-| Net out-of-pocket after ITC | $19,600 |
+| Federal ITC (30%) | Not available for systems installed after December 31, 2025 |
+| Net out-of-pocket after ITC | Varies |
 | Annual electricity savings (est.) | $1,800 to $2,100 |
 | Property tax savings per year | $400 to $500 |
 | Estimated payback period | 8 to 10 years |
@@ -126,7 +126,7 @@ Getting incentives isn't automatic. Here's the process most Florida homeowners f
 
 **Step 1: Get multiple quotes.** EnergySage data shows that homeowners who get at least three quotes save an average of 10% on system costs. Don't sign with the first installer who knocks on your door.
 
-**Step 2: Confirm your tax situation.** Talk to your accountant before signing. Confirm your expected federal tax liability for the year of installation. This determines how much of the ITC you can use immediately versus carry forward.
+**Step 2: Confirm your tax situation.** Talk to your accountant before signing. Confirm your expected federal tax liability for the year of installation, keeping in mind that the federal residential solar tax credit (ITC) is no longer available for systems installed after December 31, 2025. If your installation was completed by that date, this determines how much of the ITC you can use immediately versus carry forward.
 
 **Step 3: Verify interconnection timelines.** FPL and Duke can take 4 to 12 weeks to approve interconnection and install a bidirectional meter. Your installer should handle this, but ask about expected timelines upfront.
 
@@ -138,7 +138,7 @@ Getting incentives isn't automatic. Here's the process most Florida homeowners f
 
 ---
 
-Florida homeowners who act in 2026 are working with one of the better incentive windows the state has seen: a 30% federal credit, no sales tax on equipment, permanent property tax protection, and utility rates that keep climbing. The incentive math is honest and the savings are real. Just go in with accurate expectations about net metering, get multiple quotes, and nail down your tax situation first. Do that, and solar in Florida makes sense.
+Florida homeowners considering solar in 2026 are working with a reduced incentive picture compared to recent years: the 30% federal credit ended for installations completed after December 31, 2025, but the state still offers no sales tax on equipment, permanent property tax protection, and utility rates that keep climbing. The incentive math is more limited now, but state and local savings remain real. Go in with accurate expectations about net metering, get multiple quotes, and nail down your tax situation first. Do that, and solar in Florida can still make sense.
 
 ---
 

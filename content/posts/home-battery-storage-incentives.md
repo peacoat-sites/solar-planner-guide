@@ -21,26 +21,26 @@ faqs:
   - q: "What if I don't owe enough in taxes to use the full credit?"
     a: "The residential clean energy credit is non-refundable (meaning the IRS won't cut you a check for the excess), but it is fully carryforward eligible. Any unused portion rolls to the next tax year. This continues until the credit is fully used or the program expires."
   - q: "How long does it take to get the incentive money back?"
-    a: "The federal ITC comes when you file your taxes for the year the system is installed. If you install in October 2026 and file in April 2027, you get the credit then. State rebates vary wildly: SGIP in California can take 3-9 months to process; utility rebates in Texas and Illinois are often faster, sometimes 6-8 weeks after inspection."
+    a: "The federal ITC is no longer available for battery storage systems installed after December 31, 2025. State rebates vary wildly: SGIP in California can take 3-9 months to process; utility rebates in Texas and Illinois are often faster, sometimes 6-8 weeks after inspection."
   - q: "Are there income limits for any of these programs?"
     a: "The federal ITC has no income cap. Some state programs do: California's SGIP equity tier is specifically for low-income households or those in high fire/medical baseline zones. Maryland's rebate and several utility demand-response programs have no income restrictions, but equity-focused tiers often exist at higher payment levels for qualifying households."
 ---
 
 [Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) I talk to think the federal battery incentive is capped at some modest amount. They're stunned when I tell them it's 30% of the total installed cost, with zero dollar ceiling, and it applies to batteries even if you don't have solar panels.
 
-That last part is the kicker. The Inflation Reduction Act's [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) (ITC), extended and expanded, now covers standalone home battery storage starting in 2023. A system that costs $15,000 installed gets you a $4,500 federal tax credit. On a $25,000 whole-home backup setup with a Tesla Powerwall 3 or a Generac PWRcell, you're looking at $7,500 back from the IRS. That's real money, and most people only find out about it after they've already been quoted by an installer who, mysteriously, didn't mention it upfront.
+That last part is the kicker. The Inflation Reduction Act's [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) (ITC), extended and expanded, covered standalone home battery storage starting in 2023. For systems whose installation was completed by December 31, 2025, the credit applied to the full installed cost. That's real money, and most people only find out about it after they've already been quoted by an installer who, mysteriously, didn't mention it upfront. For battery storage installed in 2026 or later in a homeowner-owned system, no federal tax credit is available.
 
 The standalone battery rule can seem complex at first glance. There is one, sort of. The battery has to be charged "predominantly" from a renewable source (at least 3 kWh capacity, charged at least 70% from renewables) to qualify as standalone. But if it's paired with solar, you're automatically covered. In practice, almost every residential installation qualifies.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The federal ITC is 30% of installed battery cost, no dollar cap, through 2032.</li><li style="margin:5px 0">Standalone batteries (no solar required) qualify as of 2023, per IRA expansion.</li><li style="margin:5px 0">Many states stack additional incentives on top: OR, CA, NY, and MA are the strongest right now.</li><li style="margin:5px 0">Utilities in 20+ states offer demand response programs that pay you to discharge your battery.</li><li style="margin:5px 0">The ITC is a tax credit, not a deduction, it reduces your tax bill dollar-for-dollar.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The federal residential battery credit (Section 25D) is no longer available for installations completed after December 31, 2025.</li><li style="margin:5px 0">Standalone batteries (no solar required) qualified as of 2023, per IRA expansion, for installations completed by December 31, 2025.</li><li style="margin:5px 0">Many states stack additional incentives on top: OR, CA, NY, and MA are the strongest right now.</li><li style="margin:5px 0">Utilities in 20+ states offer demand response programs that pay you to discharge your battery.</li><li style="margin:5px 0">A tax credit, not a deduction, reduces your tax bill dollar-for-dollar.</li></ul></div>
 
 ## The Federal ITC: What the Numbers Actually Mean
 
 A tax credit and a tax deduction are not the same thing, and conflating them is the single most expensive mistake I see homeowners make in their planning. A deduction reduces your taxable income. A credit reduces your actual tax liability. If you owe $8,000 in federal taxes this year and claim a $5,000 battery credit, you pay $3,000. Full stop.
 
-What surprised me when I went deep on this: the ITC is also refundable across multiple years under certain conditions. If your credit exceeds your tax liability in year one, you can carry the excess forward. So if your credit is $7,500 but you only owe $5,000, you don't lose $2,500. You roll it into next year. This is huge for people who are retired or had a low-income year.
+What surprised many homeowners when researching this: the ITC carry-forward provision. If your credit exceeds your tax liability in year one, you can carry the excess forward. So if your credit is $7,500 but you only owe $5,000, you don't lose $2,500. You roll it into next year. This was significant for people who are retired or had a low-income year. Note that the Residential Clean Energy Credit (Section 25D) is no longer available for battery storage installations completed after December 31, 2025, so this carry-forward benefit applies only to systems whose installation was completed by that date.
 
-The 30% rate holds through 2032, then steps down to 26% in 2033 and 22% in 2034 before expiring entirely for residential (commercial keeps going). According to the Solar Energy Industries Association (SEIA), the battery storage market has nearly tripled since the IRA passed, which tracks with what I'm seeing on the ground. Installers who used to have 2-month backlogs now have 6-month ones in some markets.
+The federal residential clean energy credit for battery storage ended for installations completed after December 31, 2025. According to the Solar Energy Industries Association (SEIA), the battery storage market has nearly tripled since the IRA passed. Installers who used to have 2-month backlogs now have 6-month ones in some markets.
 
 One thing that tripped me up the first time I walked through this with a client: the credit applies to the battery hardware AND the installation labor. I had assumed it was equipment-only. The IRS's Form 5695 is where you claim this, and line 5d is specifically for battery storage. Print it, read it, don't just let your tax software autopilot you through it.
 
@@ -60,7 +60,7 @@ Here's the honest picture of the best state programs as of August 2026:
 | Maryland | Residential Clean Energy Rebate | Rebate | $1,000 flat | First-come, first-served; often depleted |
 | Illinois | ComEd Smart Grid Program | Demand response | Up to $600/yr | Varies by dispatch events |
 
-California's SGIP is worth pursuing quickly. The equity tiers (for customers in high fire-risk zones or low-income households) are genuinely remarkable: up to $0.85 per watt-hour means a 13.5 kWh Powerwall 3 could get you over $11,000 in rebates on top of the federal credit. In high fire-risk or low-income areas, combined incentives can exceed the upfront cost.
+California's SGIP is worth pursuing quickly. The equity tiers (for customers in high fire-risk zones or low-income households) are genuinely remarkable: up to $0.85 per watt-hour means a 13.5 kWh Powerwall 3 could get you over $11,000 in rebates. In high fire-risk or low-income areas, combined incentives can exceed the upfront cost.
 
 The Massachusetts ConnectedSolutions program deserves more attention than it gets. It's a utility demand-response program where National Grid, Eversource, and other utilities pay you to let them pull power from your battery during peak grid stress events. A reader, Dave from Westborough, emailed me after his first full year enrolled: he got a check for $1,347 without doing anything except setting his battery to "grid services" mode. His installer hadn't told him this existed.
 
@@ -71,26 +71,24 @@ This is where the abstract gets concrete.
 **Scenario 1:** Maria in Sacramento, paired solar + battery
 
 Setup: 8 kW solar array + one Tesla Powerwall 3 (13.5 kWh). Total installed cost: $38,500.
-Federal ITC (30%): $11,550 credit.
+Federal ITC (30%): No federal tax credit is available for solar or battery storage systems installed after December 31, 2025.
 California SGIP rebate (standard tier): $3,375.
-Net cost after incentives: $23,575.
-Simple payback at current CA rates (~$0.34/kWh avg): approximately 7.2 years.
+Net cost after incentives: Varies.
+Simple payback at current CA rates (~$0.34/kWh avg): Varies.
 
 **Scenario 2:** James in suburban Chicago, standalone battery only
 
 Setup: Enphase IQ Battery 5P (15.36 kWh), no solar, installed cost: $14,200.
-Federal ITC (30%): $4,260 credit.
+Federal ITC (30%): No federal tax credit is available for standalone battery storage installed in 2026 or later.
 Illinois ComEd demand response enrollment: ~$550/year expected.
-Net cost after year-one credit: $9,940.
-Three-year effective cost after demand response payments: roughly $8,290.
+Three-year effective cost after demand response payments: Varies.
 
 **Scenario 3:** A couple in rural Oregon, fire-risk zone
 
 Setup: Generac PWRcell with 18 kWh capacity, backup panel, total installed: $22,800.
-Federal ITC: $6,840.
+Federal ITC: No longer available for systems installed after December 31, 2025.
 Oregon state tax credit: $2,500.
-Net out of pocket: $13,460.
-That's a 41% reduction in cost. Staggering, if you ask me.
+Net out of pocket: Varies.
 
 ## Utility Incentives and the Programs Most People Miss
 
@@ -116,7 +114,7 @@ The programs I'd look at first, by utility: Tesla VPP (PG&E territory), Swell En
 
 Before talking to an installer, consider using a [home energy monitor like the Emporia Vue 3](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor). Understanding your actual load profile tells you whether a 10 kWh or 20 kWh system makes more sense, and it helps you make a more informed decision. (The site may earn a commission on purchases through that link.) The installers who design systems without looking at your usage data are the ones who'll sell you more than you need.
 
-The math on home batteries has genuinely shifted over the past two years. The federal credit is real, the state programs in several states are extraordinary, and the utility programs are getting more structured. If you're in the right state with the right utility and you actually owe federal taxes, there are realistic scenarios where a battery system's net cost after incentives is under half its sticker price. That's not a sales pitch. It's arithmetic.
+The math on home batteries has genuinely shifted over the past two years. State programs in several states are extraordinary, and the utility programs are getting more structured. If you're in the right state with the right utility, there are realistic scenarios where a battery system's net cost after state and utility incentives is well below its sticker price. That's not a sales pitch. It's arithmetic.
 
 *Photo: [Ramesh Kambattan](https://www.pexels.com/@rameshkambattan) via Pexels*
 

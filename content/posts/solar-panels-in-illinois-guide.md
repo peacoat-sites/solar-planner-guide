@@ -15,41 +15,41 @@ slug: "solar-panels-in-illinois-guide"
 affiliate_disclosure: true
 faqs:
   - q: "Is Illinois a good state for solar in 2026?"
-    a: "Yes, for most homeowners with south- or west-facing roofs and meaningful electric bills (above $100/month), Illinois's combination of the 30% federal ITC and the Adjustable Block Program makes solar financially sound. Payback typically runs 7 to 10 years with all incentives applied."
+    a: "Yes, for most homeowners with south- or west-facing roofs and meaningful electric bills (above $100/month), Illinois's Adjustable Block Program makes solar financially sound. Payback typically runs 7 to 10 years with all incentives applied."
   - q: "How does the Illinois Adjustable Block Program actually pay me?"
     a: "Your installer enrolls your system through the IPA, and you receive payments over 15 years based on your system's electricity production, measured in megawatt-hours. Payments arrive as REC credits, typically quarterly or annually. Some installers offer an upfront lump sum purchase of your RECs at a discount instead."
   - q: "What's the best solar company in Illinois?"
     a: "I'd be skeptical of any article that names one 'best' installer. Illinois has dozens of reputable regional and national installers. Getting at least three quotes through EnergySage or directly from local installers (look for NABCEP-certified crews) is more reliable than any ranking. Price variation between quotes on the same system often runs $3,000 to $5,000."
   - q: "Does Illinois have a state solar tax credit?"
-    a: "No, not currently. Illinois doesn't have a dedicated state income tax credit for solar. The main financial incentives are the federal ITC (30%), the ABP REC payments, and net metering bill credits. Some municipalities, including Chicago and Evanston, have offered small rebates historically, but these programs come and go."
+    a: "No, not currently. Illinois doesn't have a dedicated state income tax credit for solar. The main financial incentives are the ABP REC payments and net metering bill credits. Some municipalities, including Chicago and Evanston, have offered small rebates historically, but these programs come and go."
   - q: "How long does the solar installation process take in Illinois?"
     a: "From signed contract to system turned on, expect 2 to 4 months. Permitting with local municipalities (Chicago in particular) can run 6 to 10 weeks. ABP enrollment after installation adds another 8 to 12 weeks before REC payments begin. Utility interconnection approval is usually the last step and can take 3 to 6 weeks with ComEd or Ameren."
 ---
 
 Forty-four percent. That's the share of Illinois homeowners who, according to EnergySage's most recent market data, overpay for solar because they accept the first quote they get. Many homeowners accept the first quote they receive and end up paying $4,000 to $6,000 more than necessary.
 
-Illinois is genuinely one of the better states in the country to go solar right now. Not the best, not California-level obvious, but better than most people realize. The combination of the federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/), the state's SREC successor program, and some of the country's more utility-friendly net metering policies puts Illinois solidly in the "yes, this pencils out for most homeowners" category. But the details matter enormously, and a few of them could change in 2027 depending on how the General Assembly handles the next revision of the Climate and Equitable Jobs Act (CEJA). More on that in a minute.
+Illinois is genuinely one of the better states in the country to go solar right now. Not the best, not California-level obvious, but better than most people realize. The state's SREC successor program and some of the country's more utility-friendly net metering policies keep Illinois in the "this can pencil out" category, even though the [federal tax credit](/itc-solar-investment-tax-credit-explained/) ended for systems installed after 2025. But the details matter enormously, and a few of them could change in 2027 depending on how the General Assembly handles the next revision of the Climate and Equitable Jobs Act (CEJA). More on that in a minute.
 
 What I want to do here is give you the actual numbers, the catches, and the honest picture of what going solar in Illinois looks like in 2026, not the sales pitch.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Illinois homeowners pay roughly $2.85–$3.10/watt installed, putting a typical 8 kW system at $22,800–$24,800 before incentives.</li><li style="margin:5px 0">The federal ITC currently covers 30% of system cost; combined with Illinois's SREC program, payback can run 7–10 years.</li><li style="margin:5px 0">ComEd and Ameren customers both have net metering, but the rates differ meaningfully and affect your ROI.</li><li style="margin:5px 0">Illinois's Adjustable Block Program (ABP) pays cash for every kWh your system produces over 15 years, real money, not just bill credits.</li><li style="margin:5px 0">Getting 3–5 quotes typically saves $3,000–$6,000 on an average Illinois install.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Illinois homeowners pay roughly $2.85–$3.10/watt installed, putting a typical 8 kW system at $22,800–$24,800 before incentives.</li><li style="margin:5px 0">The federal residential solar tax credit ended for systems installed after December 31, 2025; combined with Illinois's SREC program, payback varies by system and utility.</li><li style="margin:5px 0">ComEd and Ameren customers both have net metering, but the rates differ meaningfully and affect your ROI.</li><li style="margin:5px 0">Illinois's Adjustable Block Program (ABP) pays cash for every kWh your system produces over 15 years, real money, not just bill credits.</li><li style="margin:5px 0">Getting 3–5 quotes typically saves $3,000–$6,000 on an average Illinois install.</li></ul></div>
 
 ## What Solar Actually Costs in Illinois Right Now
 
-The average cost for a residential [solar installation](/average-cost-of-solar-installation-by-state/) in Illinois, as of mid-2026, runs between $2.85 and $3.10 per watt before any incentives. For a typical 8-kilowatt system (which handles most of a 2,000-square-foot home's annual usage in the Chicago area), that's roughly $22,800 to $24,800 out of pocket before tax credits kick in.
+The average cost for a residential [solar installation](/average-cost-of-solar-installation-by-state/) in Illinois, as of mid-2026, runs between $2.85 and $3.10 per watt before any incentives. For a typical 8-kilowatt system (which handles most of a 2,000-square-foot home's annual usage in the Chicago area), that's roughly $22,800 to $24,800.
 
-Apply the 30% federal Investment Tax Credit, and you're down to roughly $15,960 to $17,360. Then Illinois's Adjustable Block Program layered on top of that, and the numbers get genuinely interesting.
+The Illinois Adjustable Block Program can bring costs down further, and the numbers get genuinely interesting.
 
 I want to be clear about one thing most installers gloss over: the federal ITC is a tax *credit*, not a rebate. You have to owe federal taxes to benefit from it. Some retirees and others on fixed income have very little federal tax liability, so the ITC provides minimal benefit. If that's your situation, talk to a CPA before signing anything.
 
 Here's what a typical Illinois solar deal looks like with all the incentives stacked:
 
-| Scenario | System Size | Gross Cost | Federal ITC (30%) | Net After ITC | Est. ABP Income (15 yr) | Final Effective Cost |
-|---|---|---|---|---|---|---|
-| Smaller home, Peoria | 6 kW | $17,700 | $5,310 | $12,390 | ~$4,200 | ~$8,190 |
-| Average home, Chicago suburbs | 8 kW | $23,600 | $7,080 | $16,520 | ~$5,600 | ~$10,920 |
-| Larger home, Springfield | 10 kW | $29,500 | $8,850 | $20,650 | ~$7,000 | ~$13,650 |
-| High-usage home, Naperville | 12 kW | $35,400 | $10,620 | $24,780 | ~$8,400 | ~$16,380 |
+| Scenario | System Size | Gross Cost | Est. ABP Income (15 yr) |
+|---|---|---|---|
+| Smaller home, Peoria | 6 kW | $17,700 | ~$4,200 |
+| Average home, Chicago suburbs | 8 kW | $23,600 | ~$5,600 |
+| Larger home, Springfield | 10 kW | $29,500 | ~$7,000 |
+| High-usage home, Naperville | 12 kW | $35,400 | ~$8,400 |
 
 ABP income estimates assume current Adjustable Block Program pricing for the ComEd territory, Block 1 pricing tier. Ameren territory rates differ slightly. These are estimates, not guarantees.
 
@@ -77,9 +77,9 @@ What most people don't realize: Illinois's net metering rules require annual "tr
 
 **Homeowner in Aurora, 2,100 sq ft, ComEd territory** → Installed a 9.2 kW system in March 2025, paid $26,500 gross, received $7,950 ITC, enrolled in ABP at $67/REC, and nets about $610/year in REC payments plus roughly $1,400/year in eliminated electric bills. Total payback: projected 8.2 years. Monthly "savings" after loan payment: approximately $68. Not life-changing, but the system adds to home value and locks in predictable energy costs.
 
-**Retired couple in Rockford, Ameren territory** → 6 kW system, fixed income, federal tax liability of only $2,100/year. They couldn't use the full $5,040 ITC in year one (the credit carries forward, but they likely won't absorb it all for several years). ABP enrollment added about $395/year. Payback stretched to nearly 13 years. In their situation, I would have had a candid conversation about whether solar actually made sense vs. weatherization and LED upgrades.
+**Retired couple in Rockford, Ameren territory** → 6 kW system, fixed income, federal tax liability of only $2,100/year. The federal residential clean energy credit is no longer available for systems installed after December 31, 2025, so a system installed in 2026 or later would not qualify. ABP enrollment added about $395/year. Payback stretched to nearly 13 years. In their situation, a candid conversation about whether solar actually made sense vs. weatherization and LED upgrades would be worthwhile.
 
-**New construction in Naperville** → Builder included a 10 kW system in the mortgage at $29,000, which meant the ITC was financed rather than reducing out-of-pocket cash. The monthly mortgage increase was about $118; electricity bill dropped by about $145. Net positive on day one, basically. This is increasingly the best solar deal available, and the Solar Energy Industries Association (SEIA) has flagged new construction integration as one of the fastest-growing segments of residential solar nationally. Worth asking your builder about if you're building.
+**New construction in Naperville** → Builder included a 10 kW system in the mortgage at $29,000. The monthly mortgage increase was about $118; electricity bill dropped by about $145. Net positive on day one, basically. This is increasingly a compelling solar option, and the Solar Energy Industries Association (SEIA) has flagged new construction integration as one of the fastest-growing segments of residential solar nationally. Worth asking your builder about if you're building.
 
 ## The Honest Downsides
 

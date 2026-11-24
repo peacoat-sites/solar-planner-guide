@@ -16,7 +16,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Forty-seven thousand dollars. That's what one Phoenix family paid for a solar system they could've gotten for $31,000 from a different installer. Same panels. Nearly identical production estimates. Both companies had decent online reviews. The difference was a salesperson who pushed hard, moved fast, and gave them almost no time to compare.
 
-A lot of solar advice focuses on the exciting stuff: your potential savings, the 30% federal tax credit, grid independence. The industry does have a serious bad-actor problem that deserves attention. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has been pushing for stronger installer standards for years precisely because consumer complaints keep climbing alongside the market's growth.
+A lot of solar advice focuses on the exciting stuff: your potential savings, grid independence. The industry does have a serious bad-actor problem that deserves attention. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) has been pushing for stronger installer standards for years precisely because consumer complaints keep climbing alongside the market's growth.
 
 Here is what every homeowner should know before sitting down with a quote.
 
@@ -30,7 +30,7 @@ Here is what every homeowner should know before sitting down with a quote.
 | Lease-Backs or "Free" Offers | Check if you own panels or are leasing; review escalator clauses | Leases lock you in 20-25 years with cost escalators that nearly double rates by end |
 | Missing NABCEP Certification | Ask if installation team holds North American Board of Certified Energy Practitioners credentials | Certification requires real training and experience; its absence warrants scrutiny |
 
-This one is the most common red flag, and it's also the one people rationalize away the most. You'll hear things like "this pricing is only locked in until Friday" or "the tax credit situation is changing" (it's not, the 30% Residential Clean Energy Credit runs through 2032 under the Inflation Reduction Act) or "we only have one installation slot left in your area this month."
+This one is the most common red flag, and it's also the one people rationalize away the most. You'll hear things like "this pricing is only locked in until Friday" or "the tax credit situation is changing" (the 30% Residential Clean Energy Credit ended for installations completed after December 31, 2025, so for new installations in 2026 and later there is no federal homeowner tax credit) or "we only have one installation slot left in your area this month."
 
 None of that is real. Not the deadline, not the slot, not the urgency. Reputable installers will tell you to take your time. The good ones actually prefer it, because they know their quote will hold up to comparison. When a salesperson is manufacturing urgency, ask yourself why. The answer is almost always that the quote doesn't hold up.
 

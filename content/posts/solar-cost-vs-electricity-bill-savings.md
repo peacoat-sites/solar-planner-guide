@@ -29,7 +29,7 @@ Your neighbor's $14 electricity bill versus your $220 one. That's the question t
 
 ## What Solar Actually Costs in 2024
 
-A typical residential solar installation runs $17,000 to $28,000 before incentives. That's for an 8 kilowatt (kW) system, which breaks down to roughly $2.75 to $3.00 per watt installed. Once you account for the federal Investment Tax Credit (ITC) covering 30% of the cost, that $23,000 system drops to about $16,100 out of pocket. Some states add their own credits on top.
+A typical residential solar installation runs $17,000 to $28,000 before incentives. That's for an 8 kilowatt (kW) system, which breaks down to roughly $2.75 to $3.00 per watt installed. The federal 30% Residential Clean Energy Credit (Section 25D) is no longer available for systems installed after December 31, 2025, so homeowners installing solar in 2026 or later receive no federal tax credit. Some states add their own credits on top.
 
 Several things move the price up or down:
 
@@ -54,23 +54,23 @@ Here's what installers often bury: [net metering policies](/net-metering-savings
 
 ## The Payback Period: What's Realistic?
 
-| Scenario | System Cost (After ITC) | Annual Savings | Payback Period |
+| Scenario | System Cost | Annual Savings | Payback Period |
 |---|---|---|---|
-| High-rate state (CA, 32¢/kWh) | $16,100 | ~$3,100 | ~5 years |
-| Average U.S. rate (16¢/kWh) | $16,100 | ~$1,550 | ~10 years |
-| Low-rate state (LA, 11¢/kWh) | $16,100 | ~$1,065 | ~15 years |
-| High-rate + poor sun (Pacific NW) | $16,100 | ~$1,800 | ~9 years |
+| High-rate state (CA, 32¢/kWh) | Varies | ~$3,100 | ~5 years |
+| Average U.S. rate (16¢/kWh) | Varies | ~$1,550 | ~10 years |
+| Low-rate state (LA, 11¢/kWh) | Varies | ~$1,065 | ~15 years |
+| High-rate + poor sun (Pacific NW) | Varies | ~$1,800 | ~9 years |
 
 You deserve honest benchmarks, not the optimistic projections on a solar company's brochure.
 
 [The National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) shows average payback periods for residential solar ranging from 6 to 12 years depending on local rates and sun availability. That range reflects real-world outcomes across a wide variety of installations.
 
-| Scenario | System Cost (After ITC) | Annual Savings | Payback Period |
+| Scenario | System Cost | Annual Savings | Payback Period |
 |---|---|---|---|
-| High-rate state (CA, 32¢/kWh) | $16,100 | ~$3,100 | ~5 years |
-| Average U.S. rate (16¢/kWh) | $16,100 | ~$1,550 | ~10 years |
-| Low-rate state (LA, 11¢/kWh) | $16,100 | ~$1,065 | ~15 years |
-| High-rate + poor sun (Pacific NW) | $16,100 | ~$1,800 | ~9 years |
+| High-rate state (CA, 32¢/kWh) | Varies | ~$3,100 | ~5 years |
+| Average U.S. rate (16¢/kWh) | Varies | ~$1,550 | ~10 years |
+| Low-rate state (LA, 11¢/kWh) | Varies | ~$1,065 | ~15 years |
+| High-rate + poor sun (Pacific NW) | Varies | ~$1,800 | ~9 years |
 
 That low-rate scenario deserves hard scrutiny. If you're in a state with cheap electricity and mediocre sun, solar's financial case weakens significantly. A 15-year payback on a 25-year system technically works, but you're absorbing weather risk, equipment risk, and the possibility of policy shifts over that entire window. Homeowners in some Southeastern states are often better served by waiting until rates climb or battery economics improve.
 
@@ -86,7 +86,7 @@ You don't need a sales appointment to run your own numbers. This takes about 20 
 
 **Step 3: [Estimate your system size](/how-many-solar-panels-to-power-a-house/).** Divide your annual kWh by 1,200. That's a rough rule of thumb based on average U.S. sun hours. A home using 10,800 kWh per year needs about 9 kW. NREL's free PVWatts calculator gives more precision based on your ZIP code.
 
-**Step 4: Estimate installed cost.** Multiply your system size in kW by $2.75 for a baseline. Subtract 30% for the federal tax credit. You need enough tax liability to claim the full credit in the installation year, or you can spread it across future years.
+**Step 4: Estimate installed cost.** Multiply your system size in kW by $2.75 for a baseline. For systems installed in 2026 or later, the federal 30% residential solar tax credit is no longer available. You need to check whether any state tax credits or utility rebates apply in your area.
 
 **Step 5: Estimate annual savings.** Multiply your system's estimated annual production (from PVWatts) by your blended rate per kWh. That's your gross savings before loan interest.
 

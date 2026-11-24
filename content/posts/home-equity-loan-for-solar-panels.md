@@ -54,11 +54,11 @@ There's also the tax angle. Interest paid on a home equity loan used for home im
 
 You need to understand how the [30% federal Investment Tax Credit](/solar-panel-financing-calculator/) (ITC) interacts with your financing choice, because it affects which loan structure makes the most sense.
 
-The ITC, currently at 30% for residential installs, is a credit against your federal tax liability. Not a rebate, not a check in the mail. You have to actually owe that much in federal taxes to use it all in year one. If your system costs $30,000, your credit is $9,000. If you only owe $4,000 in federal taxes that year, you carry the rest forward.
+The federal residential solar tax credit (Section 25D) is no longer available for systems installed after December 31, 2025. For systems whose installation was completed by December 31, 2025, the credit was applied against your federal tax liability. Not a rebate, not a check in the mail. You had to actually owe that much in federal taxes to use it all in year one. If your system costs $30,000, your credit was $9,000. If you only owed $4,000 in federal taxes that year, you could carry the rest forward.
 
 Here's where I got this wrong for a long time: many [solar loan products](/solar-loan-interest-rates/) are structured assuming you'll receive the ITC quickly and apply it to the principal. If you don't do that within 12-18 months, your payment can balloon significantly. I watched a reader in Sacramento, Michael, get blindsided by exactly this. He had a low tax year, couldn't apply the credit on schedule, and his "affordable" monthly payment jumped by $180. That almost never happens with a home equity loan, because the repayment structure doesn't depend on a tax credit timing assumption.
 
-With a home equity loan, the ITC credit comes to you independently. You use it however you want. Pay down the principal early, put it in savings, offset the next year's utility bills. It's yours to deploy strategically.
+With a home equity loan, any applicable tax credits come to you independently. You use them however you want. Pay down the principal early, put them in savings, offset the next year's utility bills. They're yours to deploy strategically.
 
 ---
 
@@ -66,8 +66,8 @@ With a home equity loan, the ITC credit comes to you independently. You use it h
 
 | Financing Option | Interest Rate | Monthly Payment (12-year, $25k) | Total Repaid | Pros | Cons |
 | --- | --- | --- | --- | --- | --- |
-| Solar-Specific Loan | 12.99% | ~$316 | ~$45,500 | Quick approval, no collateral risk | Higher rates, dealer fees (10-25%), ITC timing dependent |
-| Home Equity Loan | 8.25% | ~$275 | ~$39,600 | Lower rates, tax-deductible interest, ITC flexibility | Closing costs (2-5%), foreclosure risk, minimum equity required |
+| Solar-Specific Loan | 12.99% | ~$316 | ~$45,500 | Quick approval, no collateral risk | Higher rates, dealer fees (10-25%) |
+| Home Equity Loan | 8.25% | ~$275 | ~$39,600 | Lower rates, tax-deductible interest | Closing costs (2-5%), foreclosure risk, minimum equity required |
 | Difference | 4.74% | ~$41/mo savings | ~$5,900 savings | - | - |
 
 I want to be honest with you here: using a home equity loan for solar isn't the right move for everyone, and anyone who tells you otherwise isn't paying enough attention to your specific situation.

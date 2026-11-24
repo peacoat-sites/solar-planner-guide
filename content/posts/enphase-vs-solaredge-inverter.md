@@ -64,7 +64,7 @@ The monitoring is also quite good. The mySolarEdge app gives panel-level data vi
 
 SolarEdge is also the cleaner choice for large, uniform roofs, think a 10-13 kW system on a ranch-style home with full southern exposure. In that scenario, the cost savings over Enphase can be $2,500 or more, and the performance difference is genuinely minimal.
 
-One worked example: A homeowner in Tucson, Arizona, 12 kW system, completely unshaded, oriented due south at 20-degree tilt. SolarEdge installed at $2.90/W came in at $34,800 before the 30% federal tax credit. Enphase would have been an estimated $37,200 for the same array. Over a 25-year system life with roughly equivalent production, SolarEdge was the financially smarter call by a wide margin.
+One worked example: A homeowner in Tucson, Arizona, 12 kW system, completely unshaded, oriented due south at 20-degree tilt. SolarEdge installed at $2.90/W came in at $34,800. Enphase would have been an estimated $37,200 for the same array. Over a 25-year system life with roughly equivalent production, SolarEdge was the financially smarter call by a wide margin.
 
 ## Where Enphase Wins
 

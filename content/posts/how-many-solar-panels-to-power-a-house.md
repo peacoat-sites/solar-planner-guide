@@ -98,7 +98,7 @@ Roof orientation matters too. South-facing is optimal in the Northern Hemisphere
 
 ## What Does This Actually Cost?
 
-A 20-panel, 8 kW system in 2024 runs somewhere between $20,000 and $28,000 before incentives, based on current EnergySage marketplace data. After the 30% federal Investment Tax Credit (which runs through 2032 under the Inflation Reduction Act), that drops to $14,000 to $19,600. Some states stack additional incentives on top.
+A 20-panel, 8 kW system in 2024 runs somewhere between $20,000 and $28,000 before incentives, based on current EnergySage marketplace data. Some states stack additional incentives on top.
 
 Payback periods nationally run between 7 and 12 years right now, depending on your local electricity rates, incentives, and net metering policy. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a solid breakdown of what incentives are available and how to stack them. Read it before you talk to any installer.
 

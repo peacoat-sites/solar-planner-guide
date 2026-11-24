@@ -16,7 +16,7 @@ faqs:
  - q: "How long does a home battery actually last?"
    a: "Most current home batteries are warrantied for 10 years at 70% of original capacity. Real-world longevity appears to track close to that warranty for most homeowners who don't deeply cycle their batteries daily in extreme temperatures. A well-managed battery in a moderate climate should deliver useful service for 12 to 15 years, though this is still an evolving data set given how relatively new modern home batteries are."
  - q: "Is the federal tax credit really 30% for batteries?"
-   a: "Yes, as of 2023, standalone battery storage systems qualify for the 30% federal Investment Tax Credit even if they're not paired with solar, thanks to the Inflation Reduction Act. The battery must have a capacity of at least 3 kWh. This credit is nonrefundable, meaning it reduces your tax liability dollar-for-dollar but won't generate a refund if you don't owe that much. Talk to a tax advisor if your tax situation is complicated."
+   a: "No, standalone battery storage systems no longer qualify for the 30% federal Residential Clean Energy Credit for homeowners. The credit ended for expenditures on installations completed after December 31, 2025. The battery must have a capacity of at least 3 kWh. This credit is nonrefundable, meaning it reduces your tax liability dollar-for-dollar but won't generate a refund if you don't owe that much. Talk to a tax advisor if your tax situation is complicated."
  - q: "What size battery do I actually need to get through the night?"
    a: "The average U.S. home uses about 30 kWh per day, but evening and nighttime consumption from about 5pm to 7am is typically 10 to 15 kWh. A single Powerwall 3 (13.5 kWh) covers most homes through a normal night at moderate consumption. If you have electric heating, a hot tub, or an EV you charge overnight, you'll want to model your actual evening load more carefully before sizing. An installer can pull this data from your utility account."
 author: "Nadia Patel"
@@ -57,27 +57,27 @@ A home battery, most commonly a [Tesla Powerwall 3](/tesla-powerwall-cost/), Enp
 
 ## The Real Cost Difference: What the Numbers Look Like
 
-| Configuration | Avg. Installed Cost (After 30% ITC) | Typical Payback Period |
+| Configuration | Avg. Installed Cost | Typical Payback Period |
 |---|---|---|
-| Solar only (good net metering) | $12,000 - $17,000 | 6 - 9 years |
-| Solar only (weak net metering) | $12,000 - $17,000 | 8 - 12 years |
-| Solar + 1 battery (TOU market) | $22,000 - $28,000 | 9 - 13 years |
-| Solar + 1 battery (backup priority) | $22,000 - $28,000 | 11 - 16 years |
+| Solar only (good net metering) | Varies | 6 - 9 years |
+| Solar only (weak net metering) | Varies | 8 - 12 years |
+| Solar + 1 battery (TOU market) | Varies | 9 - 13 years |
+| Solar + 1 battery (backup priority) | Varies | 11 - 16 years |
 
-A solar system without a battery typically costs $2.50 to $3.50 per watt installed. A 7 kW system runs roughly $17,500 to $24,500 before the federal tax credit (which is 30% through at least 2032 under the Inflation Reduction Act). After the credit, you're looking at $12,000 to $17,000.
+A solar system without a battery typically costs $2.50 to $3.50 per watt installed. A 7 kW system runs roughly $17,500 to $24,500. The 30% Residential Clean Energy Credit under the Inflation Reduction Act is no longer available for homeowner-owned systems installed after December 31, 2025.
 
-Add a single Tesla Powerwall 3, and you're adding approximately $11,500 to $15,000 installed, before incentives. The 30% federal tax credit also applies to battery storage now. But your all-in cost for solar plus storage still typically runs $25,000 to $35,000 on a mid-sized home.
+Add a single Tesla Powerwall 3, and you're adding approximately $11,500 to $15,000 installed, before incentives. The 30% federal tax credit applied to battery storage for systems whose installation was completed by December 31, 2025, but is no longer available for installations completed after that date. Your all-in cost for solar plus storage still typically runs $25,000 to $35,000 on a mid-sized home.
 
 Several states offer additional battery incentives worth researching. California's SGIP rebate can knock several thousand dollars off. Oregon, New York, and Massachusetts also have meaningful battery incentives.
 
 The payback period comparison:
 
-| Configuration | Avg. Installed Cost (After 30% ITC) | Typical Payback Period |
+| Configuration | Avg. Installed Cost | Typical Payback Period |
 |---|---|---|
 | Solar only (good net metering) | $12,000 - $17,000 | 6 - 9 years |
 | Solar only (weak net metering) | $12,000 - $17,000 | 8 - 12 years |
-| Solar + 1 battery (TOU market) | $22,000 - $28,000 | 9 - 13 years |
-| Solar + 1 battery (backup priority) | $22,000 - $28,000 | 11 - 16 years |
+| Solar + 1 battery (TOU market) | Varies | 9 - 13 years |
+| Solar + 1 battery (backup priority) | Varies | 11 - 16 years |
 
 These ranges reflect national averages from EnergySage's 2023 solar marketplace data. Your specific numbers will vary based on local electricity rates, usage profile, and available incentives.
 

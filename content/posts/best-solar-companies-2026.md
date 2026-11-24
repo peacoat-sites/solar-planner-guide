@@ -10,9 +10,9 @@ slug: "best-solar-companies"
 affiliate_disclosure: true
 faqs:
  - q: "How much does a solar installation cost in 2026?"
-   a: "The national average for a residential solar system sits around $3.00 to $3.50 per watt before incentives, according to EnergySage marketplace data. A typical 8 kilowatt system runs $24,000 to $28,000 before the 30% federal tax credit, dropping to roughly $16,800 to $19,600 after applying the credit. State incentives, utility rebates, and local permitting costs can push that number further in either direction."
+   a: "The national average for a residential solar system sits around $3.00 to $3.50 per watt before incentives, according to EnergySage marketplace data. A typical 8 kilowatt system runs $24,000 to $28,000. State incentives, utility rebates, and local permitting costs can push that number further in either direction."
  - q: "Is 2026 a good time to go solar, or should I wait?"
-   a: "The 30% federal tax credit is locked in through 2032, so there's no urgency on that front. Panel prices have plateaued after years of decline, so waiting for dramatically cheaper hardware is probably wishful thinking. The real variable is your electricity rate. If your utility has been raising rates consistently (most have), every year you wait is a year you pay full price for grid power."
+   a: "The 30% federal tax credit for homeowner-owned solar installations ended for systems installed after December 31, 2025, so installations completed in 2026 or later receive no federal tax credit. Panel prices have plateaued after years of decline, so waiting for dramatically cheaper hardware is probably wishful thinking. The real variable is your electricity rate. If your utility has been raising rates consistently (most have), every year you wait is a year you pay full price for grid power."
  - q: "How do I know if my roof is suitable for solar?"
    a: "Age and condition matter most. A roof with less than 10 years of life remaining should be replaced before solar goes on it; removing and reinstalling panels adds $1,500 to $3,000 to the cost of a future roof job. South-facing slopes with minimal shading between 9am and 3pm produce the most energy, but east- and west-facing roofs are often viable. You can get a preliminary shade assessment using Google's Project Sunroof or by asking an installer to run a Solargraf or Aurora analysis on your address before any site visit."
  - q: "What solar monitoring equipment should I have?"
@@ -89,7 +89,7 @@ Don't outsource this to a review site. Do it yourself in an afternoon.
 | PPA (Power Purchase Agreement) | None | Variable | Very limited | Those wanting zero maintenance hassle |
 | PACE financing | None | Moderate | Tied to property | Homeowners who plan to sell |
 
-The federal Investment Tax Credit (ITC) currently stands at 30% through 2032, which means a $30,000 system generates a $9,000 federal tax credit. That credit only helps you if you have sufficient tax liability to use it. A common scenario: someone plans a cash purchase around the ITC, only to discover their retirement income leaves them with minimal tax liability to use it against. Run this by a tax professional before it factors into your financial model.
+The federal Investment Tax Credit (ITC) for homeowner-owned residential solar systems ended for installations completed after December 31, 2025, so new installations in 2026 or later receive no federal tax credit. That credit only helps you if you have sufficient tax liability to use it. A common scenario: someone plans a cash purchase around the ITC, only to discover their retirement income leaves them with minimal tax liability to use it against. Run this by a tax professional before it factors into your financial model.
 
 ## Red Flags That Should End the Conversation
 

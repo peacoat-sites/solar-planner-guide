@@ -2,7 +2,7 @@
 title: "Best States for Solar Energy Savings That Pay Off"
 date: 2026-06-08T12:08:07.023502+00:00
 draft: false
-description: "Discover which states offer the best solar energy savings through top incentives, tax credits, net metering policies, and abundant sunshine to maximize your inv"
+description: "Discover which states offer the best solar energy savings through top incentives, net metering policies, and abundant sunshine to maximize your investment."
 image: "/img/heroes/15751120.jpg"
 categories: ["State Solar Guides"]
 tags: ["best", "states", "solar", "energy", "savings"]
@@ -50,28 +50,28 @@ Here's what most people don't realize. The [Solar Energy Industries Association 
 
 ## The States Where Savings Are Genuinely Excellent Right Now
 
-**Massachusetts** keeps showing up at the top of every serious analysis I've done, and it keeps earning that spot. Rates average around 24 to 27 cents per kWh depending on the season. The state has a Solar Massachusetts Renewable Target (SMART) program that pays you a per-kWh incentive on top of net metering credits. And they still have real net metering. A typical 8 kW system in the Boston suburbs costs around $24,000 before the 30% federal tax credit, which brings it to roughly $16,800. With current rates and incentives, payback periods of 6 to 8 years are common. That's strong money on what's essentially a home improvement investment.
+**Massachusetts** keeps showing up at the top of every serious analysis, and it keeps earning that spot. Rates average around 24 to 27 cents per kWh depending on the season. The state has a Solar Massachusetts Renewable Target (SMART) program that pays you a per-kWh incentive on top of net metering credits. And they still have real net metering. A typical 8 kW system in the Boston suburbs costs around $24,000. With current rates and incentives, payback periods of 6 to 8 years are common. That's strong money on what's essentially a home improvement investment.
 
 **New Jersey** is a sleeper that catches people off guard. High electricity rates (often 18 to 21 cents per kWh), a functioning Solar Renewable Energy Certificate (SREC-II) market, full retail net metering, and property tax exemptions on added home value. Paybacks in New Jersey can reach 7 years. The market is competitive enough that you can get multiple quotes and actually drive down installation costs.
 
 **Illinois** became much more interesting after the Climate and Equitable Jobs Act passed in 2021. Their Adjustable Block Program pays upfront incentives for solar, electricity rates have crept up toward 15 to 17 cents, and Chicago gets more peak sun hours than most people assume (around 4.2 to 4.5 per day). Not California, but respectable.
 
-**Texas** is complicated, and I'll be direct: it depends almost entirely on where in Texas you live. Houston residents served by CenterPoint Energy see rates of 12 to 14 cents, which is on the lower end. But Texans in deregulated areas can shop for retail plans that pair well with solar, and the state has no income tax, which affects how you benefit from the federal credit. West Texas sun is exceptional. The problem is no statewide net metering mandate, so you're dependent on your utility's export policy.
+**Texas** is complicated, and I'll be direct: it depends almost entirely on where in Texas you live. Houston residents served by CenterPoint Energy see rates of 12 to 14 cents, which is on the lower end. But Texans in deregulated areas can shop for retail plans that pair well with solar, and the state has no income tax. West Texas sun is exceptional. The problem is no statewide net metering mandate, so you're dependent on your utility's export policy.
 
 **Maryland** is underrated. The state's net metering is solid, there's a residential clean energy rebate, and average rates around 14 to 17 cents make savings meaningful. The Baltimore/DC suburbs in particular have seen strong installer competition, which keeps prices down.
 
-## The Federal Tax Credit Is the Baseline, But Don't Stop There
+## The Federal Tax Credit Is No Longer Available, But Don't Stop There
 
-Every state benefits from the federal Investment Tax Credit (ITC), which is 30% through 2032 under the Inflation Reduction Act. On a $25,000 system, that's a $7,500 credit against your federal tax liability. Not a deduction. A credit. The distinction matters enormously.
+Every state benefits from federal solar incentives, but the 30% Residential Clean Energy Credit (Section 25D) is no longer available for systems whose installation was completed after December 31, 2025. Not a deduction. A credit. The distinction matters enormously.
 
 But here's what a lot of homeowners miss: if your federal tax liability is less than $7,500 in a given year, you can only claim what you owe. The unused portion rolls forward one year, then it's gone. I've talked to retirees on fixed income who were sold systems partly on a big tax credit they couldn't actually use. Before you run numbers on any incentive, run your tax numbers first.
 
-State-level incentives stack on top of the federal credit, and that's where real differentiation happens. A few things worth checking for any state you're considering:
+State-level incentives stack on top of any applicable federal credit, and that's where real differentiation happens. A few things worth checking for any state you're considering:
 
 - Net metering: Does your utility have to credit you at full retail rate, or some lower "avoided cost" rate? This single policy can cut annual savings by 40 to 60%.
 - Sales tax exemption on equipment: Some states exempt solar hardware from sales tax, saving you 5 to 8% on equipment costs.
 - Property tax exemption: Many states exclude added home value from solar panels when calculating property tax. In a state with 1.5% property tax rates, this compounds.
-- State income tax credit or rebate: On top of the federal 30%, some states chip in another 15 to 25%.
+- State income tax credit or rebate: Some states offer their own income tax credit or rebate of another 15 to 25%.
 
 The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a state-by-state breakdown worth bookmarking before you call any installer.
 

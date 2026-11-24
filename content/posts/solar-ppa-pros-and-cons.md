@@ -55,7 +55,7 @@ Let's be fair here. A PPA isn't a scam. For the right household, it makes a lot 
 
 Here's where I need to be blunt.
 
-**You lose the federal tax credit.** A 30% credit on a $28,000 system is $8,400. That goes to the PPA company, not you. Over a 20-25 year contract, the cumulative value of ownership, including that credit, often exceeds the savings you'd get from a PPA. EnergySage's data consistently shows that owned systems generate better long-term returns than leased or PPA systems for most homeowners.
+**You lose the federal tax credit.** That goes to the PPA company, not you. Over a 20-25 year contract, the cumulative value of ownership, including that credit, often exceeds the savings you'd get from a PPA. EnergySage's data consistently shows that owned systems generate better long-term returns than leased or PPA systems for most homeowners.
 
 **The rate escalator can erode your savings.** Many PPAs include an annual escalator, typically 1-3%, written into the contract. Sounds small. But at 2.9% over 20 years, your per-kWh rate nearly doubles. If utility rates don't rise as fast as projected, or if technology makes solar cheaper (which it has, dramatically), you could end up paying above-market rates in the back half of your contract.
 
@@ -70,11 +70,11 @@ Here's where I need to be blunt.
 | Factor | PPA | Solar Loan | Cash Purchase |
 |---|---|---|---|
 | Upfront cost | $0 | $0 | $28,000 |
-| Federal tax credit (30%) | Goes to company | You keep it ($8,400) | You keep it ($8,400) |
+| Federal tax credit (30%) | Goes to company (if eligible) | Not available for new installs | Not available for new installs |
 | Monthly payment | Per kWh rate | Fixed loan payment | None |
 | System ownership | No | Yes | Yes |
 | Maintenance responsibility | Company's | Yours | Yours |
-| Typical 20-year net savings | $10,000-$18,000 | $20,000-$35,000 | $30,000-$45,000 |
+| Typical 20-year net savings | Varies | Varies | Varies |
 | Home sale complexity | Moderate | Low | Low |
 
 Here's how the options actually stack up for a typical $28,000 residential system in a moderate-sun state:
@@ -82,13 +82,13 @@ Here's how the options actually stack up for a typical $28,000 residential syste
 | Factor | PPA | Solar Loan | Cash Purchase |
 |---|---|---|---|
 | Upfront cost | $0 | $0 | $28,000 |
-| Federal tax credit (30%) | Goes to company | You keep it ($8,400) | You keep it ($8,400) |
+| Federal tax credit (30%) | Goes to company (if eligible) | Not available for new installs | Not available for new installs |
 | Monthly payment | Per kWh rate | Fixed loan payment | None |
 | System ownership | No | Yes | Yes |
 | Maintenance responsibility | Company's | Yours | Yours |
-| Typical 20-year net savings | $10,000-$18,000 | $20,000-$35,000 | $30,000-$45,000 |
+| Typical 20-year net savings | $10,000-$18,000 | Varies | Varies |
 | Home sale complexity | Moderate | Low | Low |
-| Best for | Limited tax liability, no upfront cash, minimal hassle | Good credit, wants ownership, prefers no upfront cost | Strong finances, max long-term return |
+| Best for | Limited upfront cash, minimal hassle | Good credit, wants ownership, prefers no upfront cost | Strong finances, max long-term return |
 
 The savings ranges above are estimates based on EnergySage data and NREL modeling. Your actual numbers depend on your utility rate, system size, sun exposure, and contract terms.
 
@@ -116,7 +116,7 @@ I don't steer people away from PPAs across the board. There are situations where
 
 Consider one if you have little or no federal tax liability and can't use the 30% credit. Consider it if your roof will need replacement in 10 years anyway and you'd rather not invest heavily in a permanent system now. Consider it if you're planning to stay in the home long-term, want someone else to handle all maintenance, and the rate offered is well below your current utility rate.
 
-Think carefully before signing if you're planning to sell within 5-7 years, if your local real estate market skews toward buyers unfamiliar with solar contracts, or if you qualify for strong financing and have the tax appetite to capture the full 30% credit.
+Think carefully before signing if you're planning to sell within 5-7 years, if your local real estate market skews toward buyers unfamiliar with solar contracts, or if you qualify for strong financing.
 
 The math usually favors ownership for people with tax liability and good credit. But "usually" isn't "always," and the best decision is the one that fits your actual financial picture, not the one that looks best on a generic comparison chart.
 

@@ -34,7 +34,7 @@ Whether you put solar on your roof or on a ground-mounted racking system in your
 
 ## What You're Actually Choosing Between
 
-A rooftop system mounts panels directly to your existing roof structure using racking hardware bolted through the sheathing into your rafters. Labor is typically faster, the footprint is zero (you're using space you already have), and installation costs are generally lower. As of July 2026, EnergySage's market data puts the average cost of a residential rooftop install at around $2.85 to $3.10 per watt before incentives. For a 10 kW system, you're looking at roughly $28,500 to $31,000 before the federal tax credit.
+A rooftop system mounts panels directly to your existing roof structure using racking hardware bolted through the sheathing into your rafters. Labor is typically faster, the footprint is zero (you're using space you already have), and installation costs are generally lower. EnergySage's market data puts the average cost of a residential rooftop install at around $2.85 to $3.10 per watt before incentives. For a 10 kW system, you're looking at roughly $28,500 to $31,000.
 
 Ground mounts are a different animal. You're digging footings, pouring concrete, erecting a steel racking structure, and running conduit back to the house. All of that adds labor and materials. Typical ground-mount premium runs $0.25 to $0.50 per watt more than an equivalent rooftop system, which on a 10 kW install means an extra $2,500 to $5,000 out of pocket. That number can reflexively push homeowners and advisors toward roof installs. But tracking actual system production over time often changes that initial instinct.
 

@@ -14,7 +14,7 @@ faqs:
  - q: "Will zero-down solar affect my credit score?"
    a: "Taking out a solar loan will show up as an installment loan on your credit report, which can temporarily lower your score by a small amount due to the hard inquiry and new account. PACE financing doesn't involve a traditional credit check and generally doesn't appear on your credit report the same way. Solar leases and PPAs don't typically affect credit directly, though some companies do a soft pull during qualification."
  - q: "Can I still get the 30% federal tax credit with zero-down financing?"
-   a: "Yes, if you own the system through a loan or PACE. No, if you lease or sign a PPA. The tax credit goes to whoever owns the panels. With a loan, that's you. With a lease or PPA, the solar company owns the panels and claims the credit themselves. This is one of the most misunderstood points in residential solar, and some less-than-honest sales reps have implied that lease customers receive the credit indirectly. They don't, at least not in a way that flows real dollars back to you."
+   a: "No, regardless of whether you own the system through a loan or PACE, or lease or sign a PPA. The federal residential clean energy tax credit (Section 25D) is no longer available for systems installed after December 31, 2025. For systems installed by that date, the credit went to whoever owned the panels: with a loan, that was you; with a lease or PPA, the solar company owned the panels and claimed the credit themselves. This was one of the most misunderstood points in residential solar, and some less-than-honest sales reps implied that lease customers received the credit indirectly. They did not, at least not in a way that flowed real dollars back to them."
  - q: "What credit score do I need for a solar loan?"
    a: "Most solar-specific lenders want a FICO score of at least 650, with the best rates reserved for scores above 720 or 740. Some lenders will go down to 600 with higher rates or a co-signer. If your credit is below 650, PACE financing (where available) or a solar lease may be your practical options, though I'd strongly encourage working on your credit first if you can afford to wait 6 to 12 months."
  - q: "What happens at the end of a solar lease or PPA?"
@@ -35,14 +35,14 @@ Here's the honest part: not all zero-down options are created equal. Some are ge
 
 | Financing Option | Ownership | Tax Credit Eligible | Monthly Cost | Best For |
 | --- | --- | --- | --- | --- |
-| Solar Loan | You own system | Yes (30% ITC) | Often lower than old electric bill | Most homeowners; builds home equity |
+| Solar Loan | You own system | No | Often lower than old electric bill | Most homeowners; builds home equity |
 | Solar Lease | Company owns | No | Fixed monthly fee + escalator (1-3% annually) | No tax liability; roof needs replacement soon |
 | Power Purchase Agreement (PPA) | Company owns | No | Per kWh rate (below utility price) | No tax liability; performance risk mitigation |
-| PACE Financing | You own system | Yes (30% ITC) | Repaid via property tax bill | Poor credit; want ownership; available states only |
+| PACE Financing | You own system | No | Repaid via property tax bill | Poor credit; want ownership; available states only |
 
 There are four primary ways to go solar without putting money down: solar loans, solar leases, power purchase agreements (PPAs), and PACE financing. Each has a fundamentally different structure, and the one that's right for you depends on factors most installers won't mention unless you ask.
 
-**Solar Loans** are ownership without a cash purchase. You borrow the money, install the panels, and own the system outright. Because you own it, you claim the 30% federal Investment Tax Credit (ITC), which as of 2024 is still fully available under the Inflation Reduction Act. On a $25,000 system, that's $7,500 back from the federal government. Your monthly payment often runs lower than your old electric bill, especially with loan terms stretched to 10 or 25 years.
+**Solar Loans** are ownership without a cash purchase. You borrow the money, install the panels, and own the system outright. The 30% federal Residential Clean Energy Credit (Section 25D) is no longer available for systems installed after December 31, 2025, so homeowners whose installation is completed in 2026 or later receive no federal tax credit. Your monthly payment often runs lower than your old electric bill, especially with loan terms stretched to 10 or 25 years.
 
 **Solar Leases** mean a solar company installs panels and you pay a fixed monthly fee to use the electricity. You don't own the panels. You don't get the tax credit. You don't benefit from rising electricity rates the way an owner does. But you also don't worry about maintenance.
 
@@ -79,7 +79,7 @@ The escalator clause is the detail most people miss. Many leases include annual 
 
 PACE financing gets a complicated reputation, and it deserves more nuance than it usually gets.
 
-The appeal is obvious: no credit score requirements, no down payment, terms up to 25 years, repayments built into your property tax bill. For homeowners with bruised credit who genuinely want to own their system and capture the tax credit, PACE can work.
+The appeal is obvious: no credit score requirements, no down payment, terms up to 25 years, repayments built into your property tax bill. For homeowners with bruised credit who genuinely want to own their system, PACE can work.
 
 The serious concerns: PACE liens are senior to your mortgage in most states, meaning if you default on property taxes, your mortgage lender can't easily protect their interest. Several major mortgage servicers have flagged PACE obligations during refinancing, and some homeowners have had refinance applications denied or complicated by existing PACE liens. [The U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) recommends reviewing all loan terms carefully and consulting with a HUD-approved housing counselor if you're uncertain about PACE's implications for your mortgage.
 
@@ -93,7 +93,7 @@ Here's a straightforward comparison to help you think through which option fits 
 |---|---|---|---|---|
 | Upfront cost | $0 | $0 | $0 | $0 |
 | System ownership | You | Solar company | Solar company | You |
-| Claim federal tax credit (30%) | Yes | No | No | Yes |
+| Claim federal tax credit (30%) | No | No | No | No |
 | Home value increase | Yes | Minimal/Complicated | Minimal/Complicated | Yes |
 | Maintenance responsibility | You | Solar company | Solar company | You |
 | Rate flexibility | Fixed or variable | Fixed monthly | Per-kWh rate | Fixed |
@@ -111,7 +111,7 @@ When a quote lands in your inbox, most homeowners have no idea what to actually 
 
 2. **For loans: find the actual loan principal.** Ask the installer what the "dealer fee" or "finance fee" is. Subtract it from the loan amount to see the true cash price. Compare that price against at least two other installer quotes on EnergySage or a similar marketplace.
 
-3. **Calculate your all-in cost.** For loans: total monthly payments multiplied by the term, minus the value of the ITC (30% of system cost), minus expected utility savings over that period. For leases/PPAs: total payments over 20 years, including any escalator clause projections.
+3. **Calculate your all-in cost.** For loans: total monthly payments multiplied by the term, minus expected utility savings over that period. For leases/PPAs: total payments over 20 years, including any escalator clause projections.
 
 4. **Check the escalator clause.** For leases and PPAs, demand the annual escalation rate in writing. Model it out to year 20.
 

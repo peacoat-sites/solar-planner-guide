@@ -18,7 +18,7 @@ faqs:
  - q: "What maintenance does a home battery require?"
    a: "Very little, which is one of the genuine appeals. Most modern lithium home batteries are essentially maintenance-free. The main thing is keeping the area around the unit ventilated and within its operating temperature range. Firmware updates happen automatically on most platforms. You'll want an annual check-in with your installer to review performance data, but there's nothing like an oil change involved."
  - q: "Is the 30% federal tax credit still available in 2026?"
-   a: "As of the writing of this article, the 30% Residential Clean Energy Credit under the Inflation Reduction Act is scheduled to remain at 30% through 2032. However, tax law can change, and I always tell people not to make purchasing decisions assuming a tax credit will definitely be there. Check IRS.gov or consult a tax professional for current guidance, especially given the legislative environment around clean energy incentives."
+   a: "The 30% Residential Clean Energy Credit under the Inflation Reduction Act has ended for installations completed after December 31, 2025. Tax law can change, and purchasing decisions should not be made assuming a tax credit will definitely be there. Check IRS.gov or consult a tax professional for current guidance, especially given the legislative environment around clean energy incentives."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy"
@@ -98,7 +98,7 @@ Generac brings generator-brand credibility to this space. Their modular system i
 
 I tell people this all the time: the battery brand matters less than the installer and the incentives you capture. Here's how to approach the purchase intelligently.
 
-**Check the federal tax credit first.** The Residential Clean Energy Credit under the Inflation Reduction Act covers 30% of the cost of a battery system installed with solar. As of 2025, standalone batteries (without solar) may also qualify if they meet capacity requirements. Verify current IRS guidance or ask a tax professional, because this alone can save you $3,000-$5,000.
+**Check the federal tax credit first.** The Residential Clean Energy Credit covered 30% of the cost of a battery system installed with solar, and standalone batteries meeting capacity requirements could also qualify. However, the credit is no longer available for installations completed after December 31, 2025. If your installation was completed by that date, verify current IRS guidance or ask a tax professional about claiming or amending your return.
 
 **Get at least three installer quotes.** Use a marketplace like EnergySage to compare quotes, or ask your local solar co-op. Installer markup on batteries varies widely, so comparing quotes from multiple installers in your area is essential.
 

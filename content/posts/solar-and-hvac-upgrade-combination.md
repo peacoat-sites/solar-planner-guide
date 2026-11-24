@@ -17,7 +17,7 @@ faqs:
   - q: "How much bigger does my solar array need to be if I add a heat pump?"
     a: "Plan on adding 2 to 4 kW of solar capacity to offset a ducted heat pump in a typical 1,800 to 2,500 square foot home. The exact number depends on your climate, the heat pump's efficiency rating, and your local solar production hours. Ask your installer to model both scenarios side by side."
   - q: "Can I claim both the solar ITC and the 25C heat pump credit in the same year?"
-    a: "Yes, these are separate credits and can be claimed in the same tax year. The ITC (30% of solar system cost) goes on IRS Form 5695 alongside the 25C credits for the heat pump and any qualifying panel upgrades. Talk to a tax professional if your tax liability is less than the total credit amount, since the ITC carries forward but 25C typically doesn't."
+    a: "No, these credits are no longer available for installations completed after December 31, 2025. The 30% Residential Clean Energy Credit (solar) and the Section 25C Energy Efficient Home Improvement Credit (heat pump and panel upgrades) both ended for property placed in service after December 31, 2025. If your installation was completed by December 31, 2025, the credits could be claimed on IRS Form 5695 for that tax year, and the solar credit carried forward while 25C typically did not. Talk to a tax professional about your specific situation."
   - q: "Is a heat pump worth it if I live somewhere with cold winters?"
     a: "Modern cold-climate heat pumps, like the Mitsubishi Hyper-Heat MXZ series or Bosch IDS, operate efficiently down to minus 13°F. Above about 5°F, they still outperform electric resistance heating on efficiency. If you're in Minnesota or Vermont, they work, though you may want a small backup resistance element for the coldest weeks. The efficiency advantage is smaller in extreme cold but still real."
   - q: "Should I do solar or HVAC first if I can't afford both at once?"
@@ -30,7 +30,7 @@ Forty-three percent. That's the share of a typical home's energy bill that heati
 
 Combining a solar upgrade with an HVAC replacement isn't just a good idea. It's genuinely one of the best financial moves a homeowner can make, and most installers won't bring it up because they're selling panels, not heat pumps. Let me walk you through what actually makes sense, what the numbers look like, and where people go wrong.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pairing solar with a new heat pump can cut total home energy bills by 50-70%, vs. 25-30% from solar alone.</li><li style="margin:5px 0">The federal solar tax credit (30%) also applies to battery storage and some efficiency upgrades through 2032.</li><li style="margin:5px 0">Right-sizing your solar array for a heat pump load requires adding roughly 2-4 kW of panels beyond a typical install.</li><li style="margin:5px 0">Average payback on a combined solar + heat pump project runs 7-9 years vs. 10-12 years for solar-only in most U.S. markets.</li><li style="margin:5px 0">Doing both projects simultaneously saves $1,500-$3,000 in avoided re-permitting and electrical work duplication.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pairing solar with a new heat pump can cut total home energy bills by 50-70%, vs. 25-30% from solar alone.</li><li style="margin:5px 0">The federal solar tax credit (30%) and efficiency upgrade credits have ended for property installed after December 31, 2025.</li><li style="margin:5px 0">Right-sizing your solar array for a heat pump load requires adding roughly 2-4 kW of panels beyond a typical install.</li><li style="margin:5px 0">Doing both projects simultaneously saves $1,500-$3,000 in avoided re-permitting and electrical work duplication.</li></ul></div>
 
 ## Why HVAC Is the Variable Nobody Talks About
 
@@ -55,7 +55,7 @@ Let me put a real scenario together, because the abstract version loses people f
 **Scenario A: Solar only, no HVAC change**
 A homeowner in Raleigh, NC has a 2,200 sq ft home with a 2012 gas furnace and 2014 central AC. Annual electricity bill: $1,980. Annual gas bill: $1,100. Total: $3,080.
 
-They go solar. Install a 9 kW system for approximately $25,200 before incentives, $17,640 after the 30% federal tax credit. Solar offsets electricity; gas bill stays. Net annual savings: $1,980. Payback: roughly 8.9 years.
+They go solar. Install a 9 kW system for approximately $25,200 before incentives. Solar offsets electricity; gas bill stays. Net annual savings: $1,980. Payback: Varies.
 
 **Scenario B: Solar + heat pump, coordinated**
 Same homeowner, same house. They replace the gas HVAC with a Carrier heat pump (installed cost: $9,500) and install an 11 kW solar array (cost: $30,800 before incentives, $21,560 after). Total project cost: $31,060 after credits. Annual energy bill drops from $3,080 to roughly $320 (minimal grid draw for edge-case cold days). Annual savings: $2,760. Payback: approximately 11.2 years.
@@ -67,7 +67,7 @@ Same homeowner as Scenario B, but they install solar first, then heat pump later
 
 ## The Incentive Stack You Might Be Missing
 
-Here's where I genuinely see people leave money behind. The federal Investment Tax Credit (ITC) at 30%, currently running through 2032 under the Inflation Reduction Act, covers solar panels, inverters, and battery storage. What most homeowners don't realize is that the IRA's separate 25C tax credit covers heat pump installations at 30%, up to $2,000 per year. These are stackable. A qualifying heat pump and a solar array in the same tax year can net you both credits.
+Here's where people often leave money behind. The federal 30% Residential Clean Energy Credit (Section 25D) covered solar panels, inverters, and battery storage, but it is no longer available for systems whose installation was completed after December 31, 2025. Similarly, the Section 25C tax credit for heat pump installations, which ran at 30% up to $2,000 per year, ended for property placed in service after December 31, 2025. For systems installed by December 31, 2025, both credits were stackable, meaning a qualifying heat pump and a solar array in the same tax year could net you both credits.
 
 There's also the 25C credit for upgraded electrical panels (up to $600), which matters because adding a heat pump and solar often requires a panel upgrade from 100A to 200A service. That upgrade alone runs $1,500 to $3,500 depending on your electrician and local costs, so recouping $600 of it is worth doing the paperwork.
 
@@ -75,9 +75,9 @@ As of August 2026, several states have layered additional rebates on top of fede
 
 | Incentive | Type | Max Amount | Stackable? |
 |---|---|---|---|
-| Federal ITC (solar) | Tax credit | 30% of system cost | Yes |
-| Federal 25C (heat pump) | Tax credit | $2,000/year | Yes |
-| Federal 25C (panel upgrade) | Tax credit | $600 | Yes |
+| Federal ITC (solar) | Tax credit | 30% of system cost (installations completed by Dec. 31, 2025 only) | Yes |
+| Federal 25C (heat pump) | Tax credit | $2,000/year (property placed in service by Dec. 31, 2025 only) | Yes |
+| Federal 25C (panel upgrade) | Tax credit | $600 (property placed in service by Dec. 31, 2025 only) | Yes |
 | MassSave heat pump rebate | State rebate | $10,000 | Yes |
 | NY Clean Heat | State rebate | ~$1,000/ton | Yes |
 | CA TECH Clean CA | State rebate | Up to $3,000 | Yes |

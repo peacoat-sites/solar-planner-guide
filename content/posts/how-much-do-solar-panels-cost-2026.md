@@ -10,11 +10,11 @@ slug: "how-much-do-solar-panels-cost"
 affiliate_disclosure: true
 faqs:
  - q: "How much do solar panels cost per month if I finance?"
-   a: "On a $20,000 net system cost (after the federal tax credit) financed over 12 years at 6.5% interest, you're looking at roughly $220-$240 per month. For most homeowners with electric bills above $150, that payment is close to or less than their current utility cost, which is why loans make solar feel accessible. The key difference: your loan payment ends after 12 years. Your utility bill doesn't."
+   a: "On a $20,000 system cost financed over 12 years at 6.5% interest, you're looking at roughly $220-$240 per month. For most homeowners with electric bills above $150, that payment is close to or less than their current utility cost, which is why loans make solar feel accessible. The key difference: your loan payment ends after 12 years. Your utility bill doesn't."
  - q: "Do solar panel prices vary significantly by state?"
    a: "Yes, by more than you'd expect. California, New York, and Massachusetts tend to have higher installation costs due to labor rates and permitting complexity, but they also have some of the highest electricity prices, making the economics work well. States like Florida and Texas have seen prices drop thanks to high installer competition. Arizona and New Mexico are among the best markets for solar production per dollar spent."
  - q: "Is 2026 a good time to buy solar, or should I wait for prices to drop further?"
-   a: "Waiting for a better deal is a reasonable instinct, but the math doesn't usually support it. Solar prices have largely plateaued. The 30% federal tax credit is available today and steps down starting in 2033. Every year you wait is a year you're still paying full retail electricity rates. For most homeowners with a solid tax liability and electricity bills above $150/month, the financially optimal move is to act now, not wait."
+   a: "Waiting for a better deal is a reasonable instinct, but the math doesn't usually support it. Solar prices have largely plateaued. The 30% federal tax credit is no longer available for new installations completed after December 31, 2025. Every year you wait is a year you're still paying full retail electricity rates. For most homeowners with a solid tax liability and electricity bills above $150/month, the financially optimal move is to act now, not wait."
  - q: "What's included in the cost of a solar installation?"
    a: "A standard quote covers the panels themselves, the inverter or microinverters, racking and mounting hardware, electrical wiring and disconnect switches, the monitoring system, permitting and inspection fees, and labor. Some quotes also include a production guarantee and critter guard mesh to keep birds and squirrels from nesting under the panels. Always ask for a line-item breakdown."
  - q: "How long do solar panels actually last?"
@@ -33,28 +33,30 @@ Let's start with the raw numbers. According to data tracked by [EnergySage](http
 
 Here's a quick breakdown by system size:
 
-| System Size | Avg. Gross Cost | After 30% Federal Tax Credit |
-|-------------|-----------------|-------------------------------|
-| 5 kW | $15,000, $17,500 | $10,500, $12,250 |
-| 8 kW | $22,400, $28,000 | $15,680, $19,600 |
-| 10 kW | $28,000, $35,000 | $19,600, $24,500 |
-| 12 kW | $33,600, $42,000 | $23,520, $29,400 |
+| System Size | Avg. Gross Cost |
+|-------------|-----------------|
+| 5 kW | $15,000, $17,500 |
+| 8 kW | $22,400, $28,000 |
+| 10 kW | $28,000, $35,000 |
+| 12 kW | $33,600, $42,000 |
 
 The right system size depends on your annual electricity consumption. A home using 10,000 kWh per year typically needs a 7-9 kW system, depending on how much sun your roof gets and the panel efficiency you choose.
 
 Panel prices have dropped dramatically over the past 15 years. In 2010, residential solar cost over $7 per watt. That decline has slowed considerably. We're not seeing the year-over-year price drops of the early 2010s anymore. The equipment cost is a fairly mature market now. What actually moves the needle on your quote today is labor, permitting, installer margin, and your specific roof situation.
 
-## The Federal Tax Credit: Still 30% in 2026 (For Now)
+## The Federal Tax Credit: No Longer Available for 2026 Installations
 
-The Investment Tax Credit (ITC) is the single most important financial lever for most homeowners. In 2026, it remains at **30% of your total system cost**, including installation labor and equipment. Pay $25,000 for a system, get a $7,500 credit directly off your federal income tax bill. Not a deduction. A credit.
+The Investment Tax Credit (ITC) for homeowners ended for systems whose installation was completed after December 31, 2025. Systems installed in 2026 or later get no federal tax credit.
 
 A few things people get wrong about the ITC:
 
 **You need a tax liability to use it.** The credit reduces what you owe the IRS. If you only owe $3,000 in federal taxes this year, you only capture $3,000 of a $7,500 credit. The good news is the ITC is rollable. Carry the unused portion forward to subsequent tax years.
 
-**It applies to battery storage too.** If you add a home battery like the Tesla Powerwall or Enphase IQ Battery to your system, the full battery cost qualifies for the 30% credit as well, provided it's charged by solar.
+Note: The federal Residential Clean Energy Credit is no longer available for solar installations completed after December 31, 2025.
 
-**It doesn't last forever at 30%.** Under current law established by the Inflation Reduction Act, the 30% rate runs through 2032, then steps down to 26% in 2033 and 22% in 2034, before expiring for residential installations in 2035. There's always legislative uncertainty, so don't assume it'll be extended.
+**It applies to battery storage too.** If you add a home battery like the Tesla Powerwall or Enphase IQ Battery to your system, the full battery cost qualified for the 30% credit as well, provided it was charged by solar, for installations completed by December 31, 2025.
+
+**It doesn't last forever at 30%.** The 30% Residential Clean Energy Credit has already ended for homeowners. Under Public Law 119-21, the credit cannot be claimed for installations completed after December 31, 2025. There is no phase-down period remaining for residential installations.
 
 Beyond the federal credit, 37 states offer additional incentives ranging from property tax exemptions (so your home value increase from solar doesn't raise your property tax bill) to state income tax credits and net metering programs. The [U.S. Department of Energy's homeowner guide to going solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a solid breakdown of how to stack these incentives.
 
@@ -78,7 +80,7 @@ This is where most solar articles fail homeowners. They quote averages, but your
 
 How you pay for solar affects your total cost dramatically.
 
-**Cash purchase** is always the financially optimal choice if you can swing it. You capture the full tax credit, own the system outright, and your payback period typically runs 7-11 years, after which you're generating essentially free electricity for the remaining 14-18 years of the system's life.
+**Cash purchase** is always the financially optimal choice if you can swing it. You own the system outright, and your payback period typically runs 7-11 years, after which you're generating essentially free electricity for the remaining 14-18 years of the system's life.
 
 **Solar loans** are the most popular financing method today, used in roughly 60% of residential installs. A common structure is a 12-year loan at 5-8% interest. Your monthly payment often comes close to matching your current electric bill, which is the pitch installers use. What they don't always emphasize: a $25,000 loan at 7% over 12 years costs you about $7,400 in interest, which eats into your savings. Shop loan rates aggressively. Credit unions often beat the installer's preferred lender.
 
@@ -96,7 +98,7 @@ Getting quotes is easy. Comparing them intelligently is harder.
 
 **Step 4: Understand the warranty coverage.** Good installers offer a workmanship warranty of at least 10 years. Some offer 25. This matters because roof penetrations and electrical connections are where problems show up years later.
 
-**Step 5: Run your own payback calculation.** Take your estimated annual savings (Year 1 production estimate times your per-kWh electricity rate), divide your net system cost (after tax credit) by that number. That's your simple payback period. A 7-9 year payback on a system with a 25-year lifespan is a solid investment.
+**Step 5: Run your own payback calculation.** Take your estimated annual savings (Year 1 production estimate times your per-kWh electricity rate), divide your system cost by that number. That's your simple payback period. A 7-9 year payback on a system with a 25-year lifespan is a solid investment.
 
 To monitor your system's output once it's installed, a home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=Emporia+Vue+Energy+Monitor) (available on Amazon, and yes, this site may earn a commission) can give you whole-home visibility into production and consumption, not just what your inverter app shows.
 

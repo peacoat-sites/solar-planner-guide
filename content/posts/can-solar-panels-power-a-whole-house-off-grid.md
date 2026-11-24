@@ -90,7 +90,7 @@ A modestly-sized off-grid home in the Southwest (1,600 sq ft, efficient applianc
 - Propane backup generator: $3,000-5,000
 - **Total: roughly $70,000-$95,000**
 
-The federal Investment Tax Credit (ITC) currently covers 30% of the total system cost, which brings that down by $21,000-28,000. Check whether your state offers additional credits. After incentives, that Southwest system might land at $50,000-$70,000.
+The federal Investment Tax Credit (ITC) for homeowner-owned systems installed after December 31, 2025 is no longer available. Check whether your state offers additional credits.
 
 For comparison, [EnergySage's market data](https://news.energysage.com/) shows the average grid-tied residential solar installation in the U.S. runs $30,000-$40,000 before incentives and $21,000-$28,000 after. Off-grid costs roughly double that, sometimes more.
 

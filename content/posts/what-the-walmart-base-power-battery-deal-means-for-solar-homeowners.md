@@ -26,7 +26,7 @@ Base Power already has more than 35,000 members in Texas and over 20,000 home ba
 
 ## Why the "Company-Owned" Battery Model Matters Now
 
-The traditional path to home storage looks like this: buy panels, buy a battery, claim the tax credit, own everything. That worked well when the 30% federal credit was available and when net metering paid close to retail rates for excess generation. Both of those conditions have weakened significantly.
+The traditional path to home storage looks like this: buy panels, buy a battery, own everything. That worked well when the 30% federal credit was available and when net metering paid close to retail rates for excess generation. Both of those conditions have weakened significantly.
 
 Base Power's model flips the ownership question. You don't own the battery. You pay a monthly fee and get backup power plus, in most cases, reduced electricity bills. Base retains control over when the battery discharges to the grid. For homeowners who don't want to manage a large capital purchase right now, that's genuinely appealing. For solar homeowners specifically, it raises a question worth sitting with: who benefits more from arbitrage, you or the company that owns the hardware?
 

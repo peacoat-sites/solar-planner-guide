@@ -14,7 +14,7 @@ faqs:
  - q: "Is a battery worth it for Arizona solar?"
    a: "For APS customers who are home during the day, probably not essential. For SRP customers or anyone who wants backup power during grid outages, yes, the math is much more favorable in Arizona than in most states, given the rate structure and the high value of self-consuming your own solar production."
  - q: "Does Arizona still have a solar tax credit in 2024?"
-   a: "Yes. Arizona's state income tax credit is 25% of the system cost up to $1,000, and it stacks with the 30% federal ITC. You also get exemption from state sales tax on the purchase and a full property tax exemption on the added home value."
+   a: "Yes. Arizona's state income tax credit is 25% of the system cost up to $1,000. You also get exemption from state sales tax on the purchase and a full property tax exemption on the added home value."
  - q: "Will solar panels survive Arizona heat and monsoon storms?"
    a: "Quality panels are rated to handle temperatures well above what Arizona sees, and most carry hail and wind certifications. Heat does reduce real-time output slightly, but it doesn't damage the panels. Monsoon wind and debris is a bigger consideration, and proper mounting by a licensed contractor matters more than brand in that respect."
  - q: "How do I find a reputable solar installer in Arizona?"
@@ -45,7 +45,7 @@ A 6-kilowatt system in Phoenix will produce roughly 9,000 to 10,000 kWh per year
 
 Arizona also has some of the highest residential electricity rates in the West, hovering around 12 to 14 cents per kWh on average. APS customers have watched rates creep higher in recent years. When your grid power is expensive, every kWh your panels produce is worth more. The financial case for solar in Phoenix is stronger than in states with cheaper utility rates.
 
-The federal Investment Tax Credit still applies. That's 30% of your total system cost credited against your federal taxes, not a deduction but an actual credit. On a $25,000 system, that's $7,500 back. Arizona adds its own state income tax credit of up to $1,000, and the state exempts solar from both property tax increases and sales tax. A system that adds $20,000 to your home's appraised value won't raise your property tax bill at all.
+The federal Residential Clean Energy Credit no longer applies to systems installed after December 31, 2025. Arizona adds its own state income tax credit of up to $1,000, and the state exempts solar from both property tax increases and sales tax. A system that adds $20,000 to your home's appraised value won't raise your property tax bill at all.
 
 ## The APS and SRP Problem Nobody Warns You About
 
@@ -65,7 +65,7 @@ The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) tracks s
 
 ## What a Real Arizona Solar Quote Should Look Like
 
-A 6 kW system in Phoenix typically runs $18,000 to $24,000 before incentives, based on current EnergySage market data. That's roughly $3.00 to $4.00 per watt. After the 30% federal ITC and the $1,000 state credit, you're looking at a net cost of around $11,600 to $15,800.
+A 6 kW system in Phoenix typically runs $18,000 to $24,000 before incentives, based on current EnergySage market data. That's roughly $3.00 to $4.00 per watt. The 30% federal Residential Clean Energy Credit is no longer available for systems installed after December 31, 2025. The $1,000 Arizona state credit remains available separately.
 
 On a 2,000 square foot home with a $180 to $220 monthly APS bill, that system usually pays itself back in 7 to 10 years. For a home with a $300 monthly summer electric bill, payback happens closer to 6 years. Arizona summers are brutal. July and August bills at $350 or more aren't unusual for larger homes, and that's exactly where solar proves itself fastest.
 

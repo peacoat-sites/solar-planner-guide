@@ -66,7 +66,7 @@ The product warranty (covering manufacturing defects) is separate from the power
 
 ## Real Scenarios, Real Math
 
-**Scenario 1:** Homeowner in San Diego, 2,100 sq ft home, 8.4 kW system using 21 REC Alpha Pure panels (400W each). Average daily production: 42 kWh based on NREL's PVWatts calculator for that ZIP code. At SDG&E's current rate of roughly $0.47/kWh, that's about $7,200/year in avoided electricity costs. After 30% federal ITC and California's NEM 3.0 tariff structure, payback period: 7.2 years. → Result: $127,000+ in lifetime bill savings over 25 years at projected rate escalation of 3.5%/year.
+**Scenario 1:** Homeowner in San Diego, 2,100 sq ft home, 8.4 kW system using 21 REC Alpha Pure panels (400W each). Average daily production: 42 kWh based on NREL's PVWatts calculator for that ZIP code. At SDG&E's current rate of roughly $0.47/kWh, that's about $7,200/year in avoided electricity costs. Under California's NEM 3.0 tariff structure, payback period: Varies. → Result: $127,000+ in lifetime bill savings over 25 years at projected rate escalation of 3.5%/year.
 
 **Scenario 2:** Homeowner in Houston comparing REC Alpha Pure vs. a standard PERC panel at $0.40/watt less installed. On a 10 kW system, PERC saves $4,000 upfront. But applying NREL's degradation differential (0.26%/yr vs. 0.55%/yr), the PERC system produces approximately 8,200 fewer kWh over 25 years. At CenterPoint's current average rate: roughly $1,100 lost in production value, not counting rate increases. The gap closes but doesn't fully close. → Result: PERC saves money upfront if you're keeping the house less than 12 years. Alpha Pure wins on a 20+ year horizon.
 

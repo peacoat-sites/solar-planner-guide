@@ -44,9 +44,9 @@ Not everyone. I'll say that plainly because installers won't.
 
 Rooftop solar has a strong financial case when you own your home, have a south or west-facing roof with minimal shading, use a meaningful amount of electricity (think $150+ monthly bills), and plan to stay put for at least seven to ten years. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published research showing that only about half of U.S. residential rooftops are even technically suitable for solar, when you factor in orientation, shading, and structural issues.
 
-When conditions are right, the numbers are genuinely compelling. The average residential system currently runs around $3.00 to $3.50 per watt installed before incentives, so a 7 kW system lands at $21,000 to $24,500. The federal Investment Tax Credit (ITC) at 30% knocks that down to roughly $14,700 to $17,150. Payback periods in high-electricity-cost states like California, Massachusetts, or Hawaii typically run six to nine years. After that, you're generating essentially free electricity for another fifteen to twenty years.
+When conditions are right, the numbers are genuinely compelling. The average residential system currently runs around $3.00 to $3.50 per watt installed before incentives, so a 7 kW system lands at $21,000 to $24,500. The federal Residential Clean Energy Credit (Section 25D) at 30% is no longer available for homeowner-owned systems installed after December 31, 2025. Payback periods in high-electricity-cost states like California, Massachusetts, or Hawaii typically run six to nine years. After that, you're generating essentially free electricity for another fifteen to twenty years.
 
-Worked example: A homeowner in Massachusetts with a $220/month electricity bill installs a 9 kW system for $27,000 before incentives. After the 30% ITC, net cost is $18,900. The system covers 95% of her usage. She pays off the system in approximately 7.5 years and saves an estimated $38,000 over 25 years.
+Worked example: A homeowner in Massachusetts with a $220/month electricity bill installs a 9 kW system for $27,000 before incentives. The system covers 95% of her usage. She saves an estimated Varies over 25 years.
 
 That math doesn't work if you're in a state with weak net metering policies (Utah and Tennessee, for instance, have increasingly hostile net metering rules), if your roof needs replacement in five years, or if you're renting.
 
@@ -66,9 +66,9 @@ There's a catch I wish someone had explained to me earlier. Contract terms vary 
 
 | Factor | Rooftop Solar | Community Solar |
 | --- | --- | --- |
-| Upfront Cost | $15,000-$25,000+ (after 30% ITC) | $0 |
+| Upfront Cost | $15,000-$25,000+ | $0 |
 | Long-term Return (IRR) | 8-12% in good markets | Modest annual savings ($50-$200) |
-| Payback Period | 6-9 years (high-cost states) | N/A (subscription model) |
+| Payback Period | Varies | N/A (subscription model) |
 | Home Value Impact | ~4% increase | None |
 | Ownership Required | Yes | No (renters eligible) |
 | Roof Suitability | South/west-facing, minimal shading | N/A (no roof installation) |
@@ -79,7 +79,7 @@ There's a catch I wish someone had explained to me earlier. Contract terms vary 
 
 Let me be concrete about the financial comparison because vague generalities are useless here.
 
-Rooftop solar: high upfront cost ($15,000 to $25,000+ after tax credits for a typical system), strong long-term return (IRR often in the 8-12% range in good markets), adds home value (Zillow research suggests roughly 4% average home value increase), requires ownership and suitable roof.
+Rooftop solar: high upfront cost ($15,000 to $25,000+ for a typical system), strong long-term return (IRR often in the 8-12% range in good markets), adds home value (Zillow research suggests roughly 4% average home value increase), requires ownership and suitable roof.
 
 Community solar: zero upfront cost, modest annual savings ($50 to $200 for a typical household depending on state and subscription size), no home value benefit, works for renters and unsuitable rooftops, subject to solar farm availability in your area.
 

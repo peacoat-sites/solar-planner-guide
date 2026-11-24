@@ -19,18 +19,18 @@ faqs:
   - q: "Is solar worth it on a small house with a low electric bill?"
     a: "Honestly, it depends on your bill level. If you're paying under $80/month, the payback math gets challenging. At $100-$150/month and above, most small-home systems pencil out within 8-12 years in most U.S. regions."
   - q: "Can I get solar panels with no upfront cost?"
-    a: "Yes, through solar loans, leases, or power purchase agreements (PPAs). Loans are generally the best deal since you keep the tax credit. Leases and PPAs mean the installer keeps the ITC, which reduces your long-term savings meaningfully."
+    a: "No, through solar loans, leases, or power purchase agreements (PPAs). Loans no longer offer a federal tax credit advantage for systems installed in 2026 or later, since the Residential Clean Energy Credit has ended for homeowner-owned systems. Leases and PPAs mean the installer may claim a business credit if the project meets applicable construction or placed-in-service deadlines, which can influence pricing, but any benefit reaches the homeowner only through the terms offered."
   - q: "Does a small solar system qualify for the federal tax credit?"
-    a: "Any size system qualifies for the 30% federal ITC, with no minimum system size. You need a federal tax liability to use it, but unused credits carry forward to subsequent tax years."
+    a: "Any size system qualified for the 30% federal ITC, with no minimum system size. However, the federal credit is no longer available for systems installed after December 31, 2025. For systems installed by that date, unused credits carry forward to subsequent tax years."
   - q: "How long do solar panels last on a small home?"
     a: "Most tier-1 panels (SunPower, REC, Panasonic, Q CELLS) carry 25-year product and performance warranties. Real-world degradation runs about 0.5% per year, so a panel producing 400W today should still produce around 390W in 25 years."
 ---
 
 Roughly 40% of U.S. homes are under 1,500 square feet. And a huge chunk of those homeowners assume solar just isn't worth it for them. I've heard it dozens of times: "My roof isn't big enough," "My bill isn't high enough," "The payback period would be forever." Honestly? That instinct is wrong more often than right. A smaller house typically means a smaller system, which means lower upfront cost, faster payback, and in many cases, better economics per watt than a sprawling 3,000-square-foot system that needs premium panels just to squeeze onto the roof.
 
-The number that usually surprises people: according to EnergySage's current market data, the average cost of a small residential solar system (4-6 kW, which covers most homes under 1,500 sq ft) runs between $11,000 and $17,000 before incentives. After the federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) (ITC), which sits at 30% as of this year, that drops to roughly $7,700 to $11,900. That's not pocket change, but it's not the $30,000 figure people assume when they picture "going solar."
+The number that usually surprises people: according to EnergySage's current market data, the average cost of a small residential solar system (4-6 kW, which covers most homes under 1,500 sq ft) runs between $11,000 and $17,000 before incentives. The federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) (ITC) for homeowner-installed residential solar systems ended for installations completed after December 31, 2025, so systems installed in 2026 or later do not qualify for a federal tax credit. That's not pocket change, but it's not the $30,000 figure people assume when they picture "going solar."
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A typical 4-6 kW system for a small home costs $11,000-$17,000 before incentives in 2026.</li><li style="margin:5px 0">The 30% federal tax credit reduces that to roughly $7,700-$11,900 out of pocket.</li><li style="margin:5px 0">Payback periods for small homes commonly run 7-10 years, with 25+ year panel warranties.</li><li style="margin:5px 0">Homes under 1,500 sq ft often need only 8-14 panels, fitting on most standard roofs.</li><li style="margin:5px 0">State incentives, net metering, and local utility rates change the math significantly by region.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A typical 4-6 kW system for a small home costs $11,000-$17,000 before incentives in 2026.</li><li style="margin:5px 0">The 30% federal tax credit expired for systems installed after December 31, 2025 and is no longer available for new homeowner-owned installations.</li><li style="margin:5px 0">Payback periods for small homes commonly run 7-10 years, with 25+ year panel warranties.</li><li style="margin:5px 0">Homes under 1,500 sq ft often need only 8-14 panels, fitting on most standard roofs.</li><li style="margin:5px 0">State incentives, net metering, and local utility rates change the math significantly by region.</li></ul></div>
 
 ## What Does a Small Home Actually Need?
 
@@ -44,12 +44,12 @@ One thing installers often don't mention upfront: roof orientation matters more 
 
 Here's a breakdown I put together from current installer quotes and EnergySage market data. These figures reflect installed costs (equipment plus labor) before any incentives, current as of July 2026.
 
-| System Size | Typical Home Size | Est. Before ITC | After 30% ITC | Est. Annual Savings | Simple Payback |
-|---|---|---|---|---|---|
-| 3 kW | Under 800 sq ft | $8,400-$10,500 | $5,880-$7,350 | $600-$900 | 7-10 years |
-| 4 kW | 800-1,100 sq ft | $11,200-$14,000 | $7,840-$9,800 | $800-$1,200 | 7-10 years |
-| 5 kW | 1,100-1,400 sq ft | $14,000-$17,500 | $9,800-$12,250 | $1,000-$1,500 | 8-11 years |
-| 6 kW | 1,400-1,600 sq ft | $16,800-$21,000 | $11,760-$14,700 | $1,200-$1,800 | 8-11 years |
+| System Size | Typical Home Size | Est. Before ITC | Est. Annual Savings | Simple Payback |
+|---|---|---|---|---|
+| 3 kW | Under 800 sq ft | $8,400-$10,500 | $600-$900 | 7-10 years |
+| 4 kW | 800-1,100 sq ft | $11,200-$14,000 | $800-$1,200 | 7-10 years |
+| 5 kW | 1,100-1,400 sq ft | $14,000-$17,500 | $1,000-$1,500 | 8-11 years |
+| 6 kW | 1,400-1,600 sq ft | $16,800-$21,000 | $1,200-$1,800 | 8-11 years |
 
 *Annual savings depend heavily on local electricity rates and net metering policies. Figures assume ~$0.15/kWh average retail rate and full net metering credit.*
 
@@ -67,17 +67,17 @@ One thing I got wrong for years: I underestimated how much local electricity rat
 
 ## Three Real-World Scenarios
 
-Maria, a reader from Tucson with an 1,100 sq ft home, got quotes ranging from $13,500 to $19,200 for a 5 kW system. She used EnergySage's marketplace to get competitive bids and landed at $14,800 before incentives. After the 30% ITC, her effective cost was $10,360. Her Tucson Electric Power bill was averaging $148/month before solar. Post-install, it dropped to roughly $18/month (a connection fee), saving her about $1,560/year. Payback: about 6.6 years.
+Maria, a reader from Tucson with an 1,100 sq ft home, got quotes ranging from $13,500 to $19,200 for a 5 kW system. She used EnergySage's marketplace to get competitive bids and landed at $14,800 before incentives. Her Tucson Electric Power bill was averaging $148/month before solar. Post-install, it dropped to roughly $18/month (a connection fee), saving her about $1,560/year.
 
 David, outside Portland, Oregon, installed a 5 kW system on his 1,300 sq ft bungalow. Same system size as Maria's, but with significantly less sun exposure (Portland averages 4.1 peak sun hours vs. Tucson's 6.5). His annual production is about 5,200 kWh versus Maria's projected 8,100 kWh. His annual savings are closer to $780, giving him a payback closer to 12 years after incentives. Still positive, but the difference is real.
 
-A third case worth mentioning: a couple in Massachusetts with a 900 sq ft cape who installed a 4 kW system with battery backup (a Tesla Powerwall 3). Total cost before incentives was $28,500. The ITC covered $8,550, but they also qualified for the Massachusetts Solar Tax Credit (15%, up to $1,000) and a net metering credit that's above-average in that state. Their payback is closer to 10-11 years, but they bought the battery for backup power during outages, not payback math. That's a legitimate reason to go bigger on budget if grid reliability matters to you. But if pure economics is the goal, skip the battery for now. The numbers don't support it for most small homes.
+A third case worth mentioning: a couple in Massachusetts with a 900 sq ft cape who installed a 4 kW system with battery backup (a Tesla Powerwall 3). Total cost before incentives was $28,500. The federal residential clean energy credit is no longer available for systems installed after December 31, 2025, so a system installed in 2026 or later would not receive that federal benefit. They also qualified for the Massachusetts Solar Tax Credit (15%, up to $1,000) and a net metering credit that's above-average in that state. Their payback period depends on remaining available incentives, but they bought the battery for backup power during outages, not payback math. That's a legitimate reason to go bigger on budget if grid reliability matters to you. But if pure economics is the goal, skip the battery for now. The numbers don't support it for most small homes.
 
 If you want to track your production yourself, a home energy monitor like the [Emporia Vue 2](https://www.amazon.com/s?k=Emporia+Vue+2+energy+monitor) (affiliate link) is a practical way to see exactly what your panels are generating and where your consumption goes before you even get a solar quote. I've pointed a lot of homeowners toward this step first, and it almost always changes what system size they end up buying.
 
 ## The Incentive Landscape Right Now
 
-The 30% federal ITC runs through 2032, then steps down to 26% (2033), 22% (2034), and potentially expires or changes after that. As of July 2026, no new federal legislation has altered that schedule. Claim it via IRS Form 5695 on your federal return. One common mistake: it's a tax credit, not a rebate. If your federal tax liability is only $4,000 and your credit is $9,000, you only get $4,000 this year. The rest carries forward to the next year. Most people don't realize you can split it across years.
+The 30% federal residential clean energy credit (Section 25D) is no longer available for solar installations completed after December 31, 2025. Systems whose installation was completed by December 31, 2025 may still claim it via IRS Form 5695 on your federal return, and a missed credit can generally be claimed on an amended return within three years. One common mistake: it's a tax credit, not a rebate. If your federal tax liability is only $4,000 and your credit is $9,000, you only get $4,000 this year. The rest carries forward to the next year. Most people don't realize you can split it across years.
 
 State and utility incentives vary enormously. Some states, like New York and California, layer on additional rebates. Others, like Florida, have good net metering but minimal direct rebates. Check your state energy office and DSIRE (the Database of State Incentives for Renewables and Efficiency) before you sign anything. I'd also check whether your utility offers a net metering program and what the compensation rate is. Full retail net metering (where you get credited at the same rate you pay) makes a 25-35% difference in long-term economics versus programs that only credit at wholesale rates.
 
@@ -87,7 +87,7 @@ State and utility incentives vary enormously. Some states, like New York and Cal
 - [Solar Energy Industries Association (SEIA)](https://www.seia.org/): U.S. residential solar market statistics, capacity trends, and policy tracking
 - [NREL (National Renewable Energy Laboratory)](https://www.nrel.gov/): Peak sun hours by region, system performance modeling, and electricity rate trend data
 - [DSIRE (Database of State Incentives for Renewables & Efficiency)](https://www.dsireusa.org/): State-by-state solar incentives, rebates, and net metering policy details
-- IRS Form 5695 instructions: Federal solar Investment Tax Credit (ITC) eligibility and carry-forward rules
+- IRS Form 5695 instructions: Federal solar Investment Tax Credit (ITC) eligibility and carry-forward rules for installations completed by December 31, 2025
 
 ---
 

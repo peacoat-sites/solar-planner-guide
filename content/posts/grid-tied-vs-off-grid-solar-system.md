@@ -41,7 +41,7 @@ There's also a third option that gets underdiscussed: grid-tied with battery bac
 
 Here's where I'm going to say something some installers won't: for the majority of U.S. homeowners with grid access, off-grid solar makes no financial sense.
 
-A grid-tied system for a typical American home runs about $20,000-$30,000 before the 30% federal Investment Tax Credit (ITC), which has been extended through 2032. After that credit, you're often looking at $14,000-$21,000 out of pocket for a 6-12 kW system. [EnergySage's market data](https://news.energysage.com/) consistently shows average payback periods in the 7-10 year range depending on your state, utility rates, and net metering policy.
+A grid-tied system for a typical American home runs about $20,000-$30,000. The 30% federal Residential Clean Energy Credit (IRC Section 25D) is no longer available for systems installed after December 31, 2025, so homeowners installing in 2026 or later receive no federal tax credit. [EnergySage's market data](https://news.energysage.com/) consistently shows average payback periods in the 7-10 year range depending on your state, utility rates, and net metering policy.
 
 Off-grid for the same home? Add a battery bank large enough to carry you through 2-3 cloudy days (industry standard for sizing), and you've easily added $20,000-$40,000 to the project. Plus you need a bigger array since there's no grid to lean on during low-production periods. Total system costs for a properly sized off-grid residential system regularly land between $45,000 and $80,000. Quotes can come in over $100,000 for large homes in cloudy climates.
 

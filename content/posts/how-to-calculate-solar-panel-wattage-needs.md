@@ -129,7 +129,7 @@ But doing the math yourself accomplishes two things. First, you can spot a propo
 
 A lot of installers, especially those working tight margins, size for 80-90 percent offset rather than 100 percent. That's not automatically bad, depends on your goals and your utility's net metering rules. But you should know they're doing it.
 
-The 30 percent federal Investment Tax Credit (good through 2032 under the Inflation Reduction Act) applies to total installed cost, so a bigger system costs less after tax credits than the sticker suggests. Keep that in mind before you write off a larger system as unaffordable.
+The 30 percent federal Residential Clean Energy Credit no longer applies to solar systems installed after December 31, 2025, so homeowners whose installation is completed in 2026 or later receive no federal tax credit. Keep that in mind when budgeting for a larger system.
 
 ---
 

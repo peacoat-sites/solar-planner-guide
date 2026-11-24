@@ -12,7 +12,7 @@ faqs:
  - q: "How many Powerwalls do I need for whole-home backup?"
    a: "One Powerwall 3 (13.5 kWh) can typically power essential loads, lights, outlets, and a refrigerator for 12 to 24 hours. Running central HVAC, an electric range, and a water heater simultaneously will drain it in 3 to 6 hours. Most households doing genuine whole-home backup for multi-day outages need two units. If you're in a region with frequent extended outages, size for two and don't let a salesperson talk you down to one."
  - q: "Does Powerwall work without solar panels?"
-   a: "Yes. Since the IRA's 2023 provisions, Powerwall can be installed and used as a standalone grid-storage system and still qualify for the 30% federal tax credit. However, a grid-only Powerwall is charging on electricity you're already paying for. The financial case is weaker without solar generation behind it."
+   a: "No. The 30% federal tax credit for homeowner-owned battery storage (Section 25D) is no longer available for installations completed after December 31, 2025. However, a grid-only Powerwall is charging on electricity you're already paying for. The financial case is weaker without solar generation behind it."
  - q: "Will Powerwall 3 pricing drop in 2026?"
    a: "Unlikely to drop significantly. Battery cell costs have stabilized after the sharp declines of 2018 to 2022. The more realistic variable is tariff exposure on imported cells, which could push prices modestly higher if trade policy tightens. Plan around current pricing rather than waiting for a deal that may not come."
  - q: "Can I install a Powerwall myself to save on labor?"
@@ -88,19 +88,19 @@ Tesla sells and installs Powerwall directly through its app and website, but thi
 
 ---
 
-## The Federal Tax Credit: Your Single Biggest Lever
+## The Federal Tax Credit Ended for 2026 Installs
 
-The 30% federal Investment Tax Credit (ITC) applies to [battery storage installed in 2026](/solar-with-battery-storage-vs-without/), and it's the most impactful financial tool available to you. A $15,000 all-in Powerwall installation reduces your federal tax liability by $4,500. A $28,000 two-unit system saves $8,400.
+The 30% federal credit for home batteries ended for systems installed after December 31, 2025, so a Powerwall bought and installed in 2026 has no federal credit. That makes the full price, $15,000 all-in for one unit or $28,000 for two, the number to plan around. If the battery comes through a lease or a third-party-owned program, the company may claim a business credit and price it in. See our comparison of [battery storage installed in 2026](/solar-with-battery-storage-vs-without/) for when a battery earns its cost.
 
 A few things installers sometimes gloss over:
 
 **It's a tax credit, not a rebate.** You need to owe at least that amount in federal taxes in the year you install, or you'll need to carry it forward. If you're retired on a fixed income with minimal tax liability, the ITC may not help you much. Check with a tax professional before building your payback calculation around it.
 
-**Battery-only systems qualify.** Since the Inflation Reduction Act updated the ITC rules in 2023, [standalone battery storage](/best-home-battery/) (not paired with solar) qualifies for the full 30% credit. You don't need to install solar simultaneously to capture it.
+**Battery-only systems no longer qualify for a federal tax credit for new installations.** Since the Inflation Reduction Act updated the ITC rules in 2023, [standalone battery storage](/best-home-battery/) (not paired with solar) had qualified for the full 30% credit. That credit is no longer available for homeowner-owned systems with installation completed after December 31, 2025.
 
 **State incentives stack on top.** California's SGIP rebate program, New York's NY-Sun initiative, and similar programs in Oregon, Massachusetts, and Maryland can cut another $1,000 to $5,000 off your net cost. The [U.S. Department of Energy's homeowner guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) maintains a reasonably current list of state-level programs worth cross-referencing with your state's PUC website.
 
-After the 30% federal credit and a moderate state incentive, a single Powerwall system that costs $14,000 installed can net down to $8,500 to $9,500. That's a different conversation than $14,000.
+A single Powerwall system that costs $14,000 installed can vary in final cost depending on available state incentives. That's a different conversation than $14,000.
 
 ---
 
@@ -118,11 +118,11 @@ The variables that actually drive your payback:
 
 **Rough payback estimates for 2026:**
 
-| Scenario | Net Cost After ITC | Annual Savings | Estimated Payback |
+| Scenario | Cost | Annual Savings | Estimated Payback |
 |---|---|---|---|
-| Solar + Powerwall, high TOU rates | $9,500 | $900-$1,400 | 7-11 years |
-| Solar + Powerwall, flat rates | $9,500 | $300-$600 | 16-25 years |
-| Powerwall only, grid charging, TOU | $9,500 | $500-$900 | 11-19 years |
+| Solar + Powerwall, high TOU rates | Varies | $900-$1,400 | 7-11 years |
+| Solar + Powerwall, flat rates | Varies | $300-$600 | 16-25 years |
+| Powerwall only, grid charging, TOU | Varies | $500-$900 | 11-19 years |
 
 Powerwall warranty covers 10 years with a guarantee of 70% capacity retention. Your payback should probably happen before the warranty expires. With flat rate utilities and no solar, it often doesn't.
 
@@ -144,7 +144,7 @@ To monitor any battery system's performance and catch degradation early, a home 
 
 ---
 
-The Tesla Powerwall 3 is a genuinely good product in 2026 with a pricing structure that still requires careful evaluation. If you have solar, live with time-of-use rates or frequent outages, and can use the 30% federal credit fully, the numbers work. If you're on flat-rate utility pricing with no solar and your grid is reliable, a Powerwall is mostly a premium insurance policy. Know which buyer you are before you sign anything.
+The Tesla Powerwall 3 is a genuinely good product in 2026 with a pricing structure that still requires careful evaluation. If you have solar, live with time-of-use rates or frequent outages, the numbers may work. If you're on flat-rate utility pricing with no solar and your grid is reliable, a Powerwall is mostly a premium insurance policy. Know which buyer you are before you sign anything.
 
 ---
 

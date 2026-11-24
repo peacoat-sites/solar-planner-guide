@@ -56,7 +56,7 @@ The **TOPBiHiKu** line is their bifacial product, capturing light from both side
 
 The **HiHero** series is their TOPCon product, sitting at 22 to 23% efficiency. Pricier, genuinely better for space-constrained roofs.
 
-Typical installed costs for Canadian Solar systems run $2.80 to $3.30 per watt before the federal tax credit, based on EnergySage's market data, which tracks real quotes across the U.S. That's right in line with similarly tiered competitors.
+Typical installed costs for Canadian Solar systems run $2.80 to $3.30 per watt, based on EnergySage's market data, which tracks real quotes across the U.S. That's right in line with similarly tiered competitors.
 
 ---
 

@@ -16,7 +16,7 @@ faqs:
  - q: "Is a HELOC or a cash-out refinance better for paying for solar?"
    a: "For most homeowners who locked in a mortgage rate below 5%, a HELOC is almost always the better choice because it preserves your existing rate. Cash-out refis make more sense if you're refinancing anyway for another reason or if your current rate is close to today's market rate. Compare your total interest cost over the life of each option, not just the monthly payment."
  - q: "Will financing solar through a HELOC affect my ability to claim the 30% federal tax credit?"
-   a: "No. The ITC is based on the installed system cost regardless of how you financed it. Whether you paid cash, used a solar loan, or drew from a HELOC, you're entitled to the 30% credit as long as you own the system and it was installed on your primary or secondary residence."
+   a: "No. The federal residential clean energy credit (30%) for homeowner-owned solar systems expired for installations completed after December 31, 2025. Whether you paid cash, used a solar loan, or drew from a HELOC, there is no federal tax credit available if your system was installed in 2026 or later."
  - q: "How much equity do I need to finance solar with a cash-out refinance or HELOC?"
    a: "Most lenders require you to maintain at least 10% to 15% equity in your home after the transaction (meaning a max CLTV of 85% to 90%). For a $25,000 to $35,000 solar system, you generally need $60,000 or more in accessible equity, and more cushion is better."
  - q: "What's the risk of using home equity to pay for solar?"
@@ -66,11 +66,11 @@ The practical minimum equity threshold to make a HELOC work comfortably: most le
 
 Run these numbers before you request a quote from the lender. Walking in with your own math will save you time and make you a better negotiator.
 
-## The 30% federal tax credit changes everything
+## What the end of the 30% federal tax credit changes
 
-This is where refinancing to pay for solar gets genuinely compelling. The federal Investment Tax Credit (ITC) currently sits at 30% of the total installed system cost. If your system costs $28,000, you get an $8,400 credit against your federal tax liability in the year the system is installed. That's not a deduction. It's a dollar-for-dollar reduction in what you owe.
+This is where refinancing to pay for solar gets genuinely compelling. The federal Investment Tax Credit (ITC) sat at 30% of the total installed system cost, but it is no longer available for homeowner-owned systems installed after December 31, 2025. If your system costs $28,000 and was installed by that deadline, you get an $8,400 credit against your federal tax liability in the year the system is installed. That's not a deduction. It's a dollar-for-dollar reduction in what you owe.
 
-Here's what I tell people: if you finance the whole system through a HELOC, then apply the ITC to immediately pay down that HELOC balance, you've effectively funded a $28,000 solar system for $19,600 out of pocket. The NREL has documented that the ITC is the single biggest driver of residential solar payback periods, and it absolutely affects whether a refi-based financing strategy makes sense.
+Here's what I tell people: if you finance the whole system through a HELOC, the federal residential clean energy credit that previously reduced that effective cost is no longer available for systems installed after December 31, 2025. The NREL has documented that the federal credit was the single biggest driver of residential solar payback periods, and its elimination affects whether a refi-based financing strategy makes sense.
 
 One caveat. You need to actually owe $8,400 in federal taxes to use the full credit in year one. If your tax liability is lower, the remaining credit rolls forward to subsequent years, but that delays your payback timeline. Worth checking with a tax professional before you commit.
 

@@ -2,7 +2,7 @@
 title: "Texas Solar Incentives: How To Maximize Your Savings"
 date: 2026-05-25T19:11:58.886637+00:00
 draft: false
-description: "Discover the latest solar incentives and rebates available in Texas for 2026. Learn about federal tax credits, state programs, and how to maximize your savings."
+description: "Discover the latest solar incentives and rebates available in Texas for 2026. Learn about state programs and how to maximize your savings."
 image: "/img/heroes/15751131.jpg"
 categories: ["Tax Credits & Incentives"]
 tags: ["solar", "incentives", "Texas", "2026"]
@@ -16,7 +16,7 @@ faqs:
  - q: "How much can I save with solar in Texas?"
    a: "The average Texas homeowner using 1,200 kWh per month and paying around 13 cents per kWh spends roughly $1,850 a year on electricity. A correctly sized solar system can eliminate 80% to 100% of that bill. Over 25 years, that's $30,000 to $40,000 in energy cost savings before factoring in rate inflation, which has historically run 2% to 4% annually in Texas. For a personalized look at this, the solar panel ROI calculator guide can help you build a realistic projection."
  - q: "Is solar worth it in Texas if I don't have a good utility rebate?"
-   a: "Yes, for most homeowners. The combination of the 30% federal ITC, the property tax exemption, the sales tax exemption, Texas's high sun hours (most areas receive 5 to 5.5 peak sun hours daily), and a competitive installer market makes the economics work even without a utility rebate. The payback period is longer without a rebate, typically 9 to 11 years versus 7 to 8 years with one, but the long-term savings are still substantial."
+   a: "No, the federal 30% Residential Clean Energy Credit is no longer available for systems installed in 2026 or later. However, the combination of the property tax exemption, the sales tax exemption, Texas's high sun hours (most areas receive 5 to 5.5 peak sun hours daily), and a competitive installer market can still make the economics work even without a utility rebate. The payback period without a rebate will vary depending on available state and local incentives, but the long-term savings can still be substantial."
  - q: "Does adding solar really increase my home's value in Texas?"
    a: "Research from NREL has found that solar homes sell for a premium of roughly $4 per watt of installed capacity, which on a 10 kW system equals about $40,000 in added home value on the high end. Texas-specific data tends to show premiums in the $15,000 to $25,000 range for typical residential systems, varying by market. Critically, that added value is completely exempt from Texas property taxes under state law."
 author: "Derek Hansen"
@@ -27,15 +27,17 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Texas gets more solar energy than almost any other state in the country, yet the average Texas homeowner leaves thousands of dollars in incentives unclaimed every year. In 2024, Texas crossed 40 gigawatts of installed solar capacity, ranking second nationally behind only California according to SEIA data. And yet, many installers will hand you a quote without explaining the full picture of what's available to reduce that number. Let's fix that.
 
-## The Federal Tax Credit: Still the Biggest Lever You Can Pull
+## The Federal Tax Credit: What Changed After 2025
 
-Before we even get to Texas-specific programs, the [federal Investment Tax Credit (ITC)](/itc-solar-investment-tax-credit-explained/) deserves serious attention because it's the largest single discount most homeowners will see.
+Before we even get to Texas-specific programs, the [federal Investment Tax Credit (ITC)](/itc-solar-investment-tax-credit-explained/) deserves serious attention because it was the largest single discount most homeowners could see. However, the federal residential clean energy credit for homeowner-owned solar systems has ended for installations completed after December 31, 2025, so Texas homeowners installing solar in 2026 or later cannot claim it.
 
-Through 2032, the ITC lets you claim 30% of your total system cost as a direct credit against your federal income tax bill. Not a deduction. A credit. That means if your system costs $28,000, you're looking at an $8,400 reduction in what you owe the IRS. The credit applies to panels, inverters, labor, permitting fees, and even battery storage as long as the battery is charged by solar.
+The federal residential clean energy credit that let you claim 30% of your total system cost as a direct credit against your federal income tax bill has ended for installations completed after December 31, 2025. Not a deduction. A credit. The credit applied to panels, inverters, labor, permitting fees, and even battery storage as long as the battery was charged by solar.
 
 You need enough federal tax liability to absorb the credit. If you only owe $3,000 in federal taxes in year one, you don't lose the remaining $5,400. You carry it forward to the next tax year. But if you're retired on Social Security with minimal taxable income, the credit may not help you much. In this situation, some installers may not mention the limitation upfront.
 
 For a full breakdown of how this works, including how to claim it correctly, check out [this detailed guide to the federal solar tax credit for 2026](/itc-solar-investment-tax-credit-explained/).
+
+Note: The federal Residential Clean Energy Credit (Section 25D) is no longer available for solar installations completed after December 31, 2025.
 
 ## Texas State-Level Incentives: What Actually Exists
 
@@ -93,11 +95,10 @@ Now let's layer the incentives:
 
 | Incentive | Estimated Value | Notes |
 |---|---|---|
-| Federal ITC (30%) | $7,800 to $8,700 | Applied to full system cost |
 | TX Property Tax Exemption | $8,000 to $12,000 | Lifetime estimate, varies by county |
 | TX Sales Tax Exemption | $1,600 to $2,000 | Automatic, no application needed |
 | Utility Rebate (if available) | $0 to $2,500 | CPS Energy, PEC, others |
-| **Net out-of-pocket** | **$5,000 to $12,000** | Wide range by utility territory |
+| **Net out-of-pocket** | **Varies** | Wide range by utility territory |
 
 Those numbers assume you own the system outright or use a solar loan. If you're weighing whether to lease or buy, the [solar loan vs. solar lease vs. PPA comparison](/solar-loan-vs-solar-lease-vs-ppa/) is worth reading before you sign anything. Leases don't qualify for the federal tax credit. The leasing company takes that credit, not you.
 
@@ -111,6 +112,8 @@ Payback periods in Texas commonly run 7 to 11 years depending on your electricit
 
 3. **Calculate your federal tax liability before assuming the ITC is useful to you.** Pull last year's tax return. Look at Line 24 (total tax). That's approximately how much of the 30% credit you can use in year one.
 
+Wait, the federal residential clean energy credit (30%) is no longer available for solar installations completed after December 31, 2025, so this step applies only if your installation was completed by that date.
+
 4. **Apply for any utility rebate before or right after installation.** Most rebates require pre-approval or have application deadlines tied to install dates. CPS Energy's program, for example, has a waiting list process.
 
 5. **File IRS Form 5695 the tax year your system is placed in service.** "Placed in service" means commissioned and operational, not just purchased. Your installer should provide a completion certificate for your records.
@@ -121,7 +124,7 @@ Payback periods in Texas commonly run 7 to 11 years depending on your electricit
 
 ---
 
-Texas isn't the easiest state to navigate for solar incentives. The fragmented utility landscape means you genuinely have to do some homework. But for homeowners willing to take the time to understand the federal ITC, claim the automatic state tax exemptions, and choose their REP strategically, the financial case for solar in Texas in 2026 is strong. The sun in Texas doesn't care about grid politics. It shows up reliably, and with the right system design, so do the savings.
+Texas isn't the easiest state to navigate for solar incentives. The fragmented utility landscape means you genuinely have to do some homework. But for homeowners willing to take the time to understand the available incentives, claim the automatic state tax exemptions, and choose their REP strategically, the financial case for solar in Texas in 2026 is strong. The sun in Texas doesn't care about grid politics. It shows up reliably, and with the right system design, so do the savings.
 
 ---
 

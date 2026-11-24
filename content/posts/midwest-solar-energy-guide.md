@@ -16,7 +16,7 @@ faqs:
  - q: "Is the Midwest a good region for solar?"
    a: "Yes, genuinely, though not as strong as the Sunbelt. Most Midwest cities average 4.0 to 4.6 peak sun hours per day, which supports financially viable solar installations. The bigger variable is your state's net metering policy, not the sun itself."
  - q: "Which Midwest states have the best solar incentives?"
-   a: "Illinois leads the Midwest thanks to its Shines program and strong net metering, followed by Minnesota. Ohio, Indiana, and Missouri are workable but offer fewer state-level incentives, so your returns depend more heavily on the federal ITC and your utility's specific tariff."
+   a: "Illinois leads the Midwest thanks to its Shines program and strong net metering, followed by Minnesota. Ohio, Indiana, and Missouri are workable but offer fewer state-level incentives, so your returns depend more heavily on your utility's specific tariff."
  - q: "How does winter affect solar production in the Midwest?"
    a: "Significantly in December and January, less than most people fear over a full year. Snow on panels temporarily reduces output but typically slides off on its own. Cold temperatures actually improve panel efficiency slightly. Expect 20-40% of peak production in midwinter months, with summer making up much of the difference."
  - q: "What's the realistic payback period for Midwest solar?"
@@ -42,7 +42,7 @@ NREL's PVWatts calculator puts the average annual solar irradiance for cities li
 
 What actually eats into production here isn't the sun hours, it's winter cloud cover. January in Cleveland or Minneapolis can run 20+ overcast days. Your panels still produce on cloudy days (roughly 10-25% of rated output), but January genuinely underperforms. The saving grace is that summer production in the Midwest is excellent, often rivaling Sunbelt performance for the June-August window when days are long and skies are clear.
 
-For example, consider a home with a 7 kW system and a $180/month average electric bill. After solar installation, summer bills might drop to near zero, but winter months like January and February could still run $40-60/month even with net metering. A system this size typically offsets about 87% of electricity use annually. While not complete offset, the payback period could still be under 9 years with the federal tax credit factored in.
+For example, consider a home with a 7 kW system and a $180/month average electric bill. After solar installation, summer bills might drop to near zero, but winter months like January and February could still run $40-60/month even with net metering. A system this size typically offsets about 87% of electricity use annually. While not complete offset, the payback period could still be under 9 years.
 
 ---
 
@@ -74,16 +74,15 @@ The safest move before you get a single quote: call your utility, ask specifical
 
 ## What a Midwest System Should Actually Cost
 
-The federal Investment Tax Credit (ITC) currently stands at 30%, and as of this year there's no sunset in sight for residential systems through 2032 under existing law. That's real money.
+The federal 30% Residential Clean Energy Credit for homeowner-installed solar systems ended for installations completed after December 31, 2025. Homeowners who completed installation by that date may still claim or carry forward the credit.
 
-On a $28,000 system (roughly a 9-10 kW array, which is appropriate for a 2,400 sq ft home with average Midwest energy use), the 30% credit brings your net cost down to about $19,600. Some states layer additional incentives on top. Illinois's SREC market has historically added another $3,000-$6,000 in value over several years, though SREC prices fluctuate and I wouldn't bank on the high end.
+On a $28,000 system (roughly a 9-10 kW array, which is appropriate for a 2,400 sq ft home with average Midwest energy use), the 30% federal residential clean energy credit is no longer available for systems installed after December 31, 2025. Some states layer additional incentives on top. Illinois's SREC market has historically added another $3,000-$6,000 in value over several years, though SREC prices fluctuate and you should not bank on the high end.
 
 Payback periods in the Midwest realistically run 8 to 12 years depending on your utility rates, system size, and how aggressively your state supports net metering. The national average is around 8-9 years per [EnergySage's market data](https://news.energysage.com/), but Midwest homeowners should plan for the longer end of that range unless you're in Illinois or Minnesota.
 
 Here's a worked example from my own consulting:
 
-Homeowner in Kansas City, MO, 8 kW system, $24,500 installed price, 30% ITC applied.
-Net cost after credit: $17,150. Missouri doesn't have strong state incentives, but the homeowner's utility offered retail-rate net metering. Average monthly savings: $110. Annual savings: $1,320. Payback: just under 13 years. Not spectacular. But the system will produce for 25+ years, so years 13-25 represent roughly $17,000+ in avoided electricity costs, and that's using today's rates. If electricity prices rise (historically they've gone up about 2-3% per year), the back half of that equation gets significantly better.
+Homeowner in Kansas City, MO, 8 kW system, $24,500 installed price. No federal tax credit is available for systems installed in 2026 or later. Missouri doesn't have strong state incentives, but the homeowner's utility offered retail-rate net metering. Average monthly savings: $110. Annual savings: $1,320. Payback: Varies. The system will produce for 25+ years, representing significant avoided electricity costs over its lifetime, and that's using today's rates. If electricity prices rise (historically they've gone up about 2-3% per year), the back half of that equation gets significantly better.
 
 ---
 

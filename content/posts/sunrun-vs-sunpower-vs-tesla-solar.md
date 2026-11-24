@@ -48,7 +48,7 @@ Tesla Solar is the one everyone has an opinion about before they actually resear
 | Sunrun | Solar financing & installation services | Varies by package | $2.90-$3.20 (cash); PPA-based pricing | Depends on equipment sourced |
 | Market Average | - | - | $3.00 | - |
 
-Here's the number that should anchor your thinking: the average residential solar installation in the U.S. cost about $3.00 per watt before incentives in 2023, per EnergySage market data. For a 8 kW system (typical for a 2,000 sq ft home), that's $24,000 before the 30% federal tax credit brings it to roughly $16,800.
+Here's the number that should anchor your thinking: the average residential solar installation in the U.S. cost about $3.00 per watt before incentives in 2023, per EnergySage market data. For a 8 kW system (typical for a 2,000 sq ft home), that's $24,000. The 30% federal tax credit is no longer available for systems installed after December 31, 2025.
 
 Tesla consistently undercuts that. Their pricing is often in the $2.65-$2.85/watt range before incentives. The catch is that pricing is non-negotiable (it's fixed online), you can't mix and match equipment, and the monitoring app is the only visibility you get. No sales rep, no customization consultation. For a lot of people, that's fine. For people who want to optimize around a complicated roof, a home battery, or a time-of-use utility rate, it's limiting.
 

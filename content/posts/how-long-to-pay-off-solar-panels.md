@@ -12,7 +12,7 @@ faqs:
  - q: "How long does it take for solar panels to pay for themselves on average?"
    a: "The national average is 8 to 9 years, but real payback periods range from under 5 years in Hawaii to 15 years or more in low-rate states like Louisiana. Your specific number depends on your system cost, local utility rate, net metering policy, and available incentives."
  - q: "Does the federal tax credit affect my payback period?"
-   a: "Yes, significantly. The 30% federal Investment Tax Credit reduces your net system cost by about $9,000 on a typical $30,000 installation. If you can claim the full credit, that alone can shorten your payback period by 2 to 3 years. The catch: you need sufficient federal tax liability to use it."
+   a: "No, not anymore. The 30% federal Residential Clean Energy Credit (Section 25D) is no longer available for solar installations completed after December 31, 2025. If your installation was completed by that date, the credit could reduce your net system cost, but for systems installed in 2026 or later, no federal tax credit applies. The catch: you need sufficient federal tax liability to use it."
  - q: "Does financing with a solar loan extend my payback period?"
    a: "It does if you account for interest. A $21,000 loan at 7% over 10 years costs about $29,000 total. Your payback period based on total dollars paid will be longer than for a cash purchase, even if your monthly loan payment is lower than your old electric bill."
  - q: "Will my solar payback period change if electricity rates go up?"
@@ -25,7 +25,7 @@ author_title: "System Design"
 author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
-The average American homeowner installs a solar system that costs around $30,000 before incentives. After the federal tax credit brings that down to roughly $21,000, many people assume they'll be saving money from day one. Sometimes that's true. But I've watched clients with that exact system take anywhere from 6 years to 14 years to fully pay it off, depending on factors their installer never brought up. The payback period is the most important number in solar, and it's also the most misunderstood.
+The average American homeowner installs a solar system that costs around $30,000 before incentives. Many people assume they'll be saving money from day one. Sometimes that's true. But clients with that exact system can take anywhere from 6 years to 14 years to fully pay it off, depending on factors their installer never brought up. The payback period is the most important number in solar, and it's also the most misunderstood.
 
 ## What "Payback Period" Actually Means
 
@@ -39,17 +39,17 @@ There's also the question of how you define "cost." If you financed your system 
 
 According to EnergySage's market data, the average solar payback period in the United States falls between 8 and 9 years. That's a reasonable benchmark, but it hides enormous regional variation. In Hawaii, where electricity costs around 40 cents per kilowatt-hour, payback periods can drop below 5 years. In Louisiana, where rates hover around 12 cents per kilowatt-hour, the same system might take 14 or 15 years to pay off.
 
-The federal Investment Tax Credit (ITC) is currently set at 30% through 2032, which dramatically improves payback for homeowners who owe enough federal taxes to claim the full credit. If you're retired and your tax liability is low, you might only capture a fraction of that credit, which pushes your payback period out.
+The federal Investment Tax Credit (ITC) for homeowner-owned solar installations ended for systems installed after December 31, 2025, so new installations in 2026 or later receive no federal tax credit. If you're retired and your tax liability is low, this is less of a concern now, but your payback period will depend entirely on state incentives, utility rates, and net metering policies in your area.
 
 Here's a simplified look at how location alone changes the math:
 
-| State | Avg. Electric Rate | Typical System Cost (after ITC) | Est. Annual Savings | Payback Period |
+| State | Avg. Electric Rate | Typical System Cost | Est. Annual Savings | Payback Period |
 |---|---|---|---|---|
-| Hawaii | $0.40/kWh | $18,500 | $3,700 | ~5 years |
-| California | $0.29/kWh | $19,800 | $2,600 | ~7.5 years |
-| New York | $0.23/kWh | $20,500 | $2,100 | ~9.8 years |
-| Texas | $0.14/kWh | $18,200 | $1,400 | ~13 years |
-| Louisiana | $0.12/kWh | $17,900 | $1,150 | ~15.5 years |
+| Hawaii | $0.40/kWh | Varies | $3,700 | ~5 years |
+| California | $0.29/kWh | Varies | $2,600 | ~7.5 years |
+| New York | $0.23/kWh | Varies | $2,100 | ~9.8 years |
+| Texas | $0.14/kWh | Varies | $1,400 | ~13 years |
+| Louisiana | $0.12/kWh | Varies | $1,150 | ~15.5 years |
 
 These numbers assume average system production and full net metering. Your actual results will vary, but this table gives you a real sense of the range.
 
@@ -65,19 +65,19 @@ These numbers assume average system production and full net metering. Your actua
 
 ## How Financing Changes the Payback Picture
 
-Paying cash is the simplest path. You buy the system, you claim the tax credit, and every dollar of electricity savings goes straight toward recouping your investment. No interest, no middleman.
+Paying cash is the simplest path. You buy the system and every dollar of electricity savings goes straight toward recouping your investment. No interest, no middleman.
 
-Solar loans are the most popular financing option, used in roughly 40% of residential installations based on EnergySage data. They let you own the system (and claim the tax credit) without a large upfront payment. The catch is interest. On a $21,000 loan at 7% over 10 years, you'll pay about $8,000 in interest. Your true payback period needs to account for that extra cost.
+Solar loans are the most popular financing option, used in roughly 40% of residential installations based on EnergySage data. They let you own the system without a large upfront payment. The catch is interest. On a $21,000 loan at 7% over 10 years, you'll pay about $8,000 in interest. Your true payback period needs to account for that extra cost.
 
 Solar leases and Power Purchase Agreements (PPAs) are a different animal entirely. You don't own the system. You're paying a company for the electricity the panels produce, usually at a rate slightly below your utility rate. Payback in the traditional sense doesn't apply because you'll never own the equipment. These arrangements can still save you money each month, but the long-term value compared to ownership is much weaker. I've seen lease agreements with 2.9% annual escalators that end up costing homeowners more than their utility bill would have by year 15.
 
 **A quick step-by-step to calculate your own payback period:**
 
-1. Get at least three installer quotes so you have a real net system cost after the 30% federal tax credit. Check your state's database of incentives at dsireusa.org for any additional rebates.
+1. Get at least three installer quotes so you have a real system cost. Check your state's database of incentives at dsireusa.org for any additional rebates.
 2. Pull your last 12 months of electric bills and add up total kilowatt-hours used, not just dollars paid. This is your annual consumption.
 3. Use NREL's PVWatts tool with your address, roof tilt, and orientation to estimate annual system production in kilowatt-hours.
 4. Multiply your estimated annual production by your current utility rate to get estimated annual savings. If you're in a full retail net metering state, this is straightforward. If not, factor in that you'll only earn export credits on roughly 20-30% of your production (the portion you don't use on-site).
-5. Divide your net system cost by your annual savings. That's your payback period in years.
+5. Divide your system cost by your annual savings. That's your payback period in years.
 6. Cross-check with a home energy monitor like the Emporia Vue Energy Monitor to make sure your baseline consumption numbers are accurate before you commit.
 
 ## What Happens After Payback

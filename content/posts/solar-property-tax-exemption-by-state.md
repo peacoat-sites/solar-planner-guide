@@ -70,7 +70,7 @@ Texas is one of the stronger states here, the exemption covers leased systems to
 
 If you're financing with a lease or PPA, ask your installer specifically: does your state's exemption apply to this ownership structure? Get the answer in writing, and check the state statute yourself if you're uncertain.
 
-**Example:** A homeowner in New York installs a 10 kW system. The installer quotes a system cost of $28,000. After federal tax credits, the net cost is roughly $19,600. Zillow and similar platforms suggest the home's market value increases by about $20,000 (a figure consistent with NREL research on solar home value premiums). Without New York's 15-year exemption, at a 1.5% effective property tax rate, that's $300 per year in additional taxes, or $4,500 over 15 years. With the exemption filed correctly, that entire amount is preserved.
+**Example:** A homeowner in New York installs a 10 kW system. The installer quotes a system cost of $28,000. Zillow and similar platforms suggest the home's market value increases by about $20,000 (a figure consistent with NREL research on solar home value premiums). Without New York's 15-year exemption, at a 1.5% effective property tax rate, that's $300 per year in additional taxes, or $4,500 over 15 years. With the exemption filed correctly, that entire amount is preserved.
 
 ## How to claim the exemption: the steps most people miss
 

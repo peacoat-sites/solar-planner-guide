@@ -23,14 +23,14 @@ faqs:
   - q: "What if my installer charged me sales tax in a state with an exemption?"
     a: "It happens. You have a few options: ask the installer to correct the invoice and refund the tax (they can file an amended return with the state), or contact your state's department of revenue directly and ask about filing for a refund yourself. Keep your original invoice and contract as documentation. The window for these refunds varies by state, typically one to three years."
   - q: "Does the sales tax exemption affect my federal ITC calculation?"
-    a: "Slightly, yes. The ITC is calculated on your net system cost including sales tax paid. If an exemption reduces your sales tax to zero, your ITC base is modestly lower. But as the table above shows, the upfront savings from the exemption almost always outweigh the marginal reduction in your ITC value. You come out ahead by having the exemption."
+    a: "Slightly, yes. If an exemption reduces your sales tax to zero, your upfront system cost is modestly lower. You come out ahead by having the exemption."
 ---
 
 Thirty-one states have a solar sales tax exemption on the books right now. Most homeowners going solar have no idea, and more than a few installers don't volunteer the information either. That's a problem, because on a $25,000 system, a 6% state sales tax is $1,500 walking out your door for no reason.
 
 Let me be clear about what this article is and isn't. It's not a fluffy "check with your tax professional" overview that tells you nothing. It's a working guide to how solar sales tax exemptions actually function, which states have them, how to claim them, and where the rules get weird enough to bite you. I've walked through this with enough homeowners to know the mistakes people make, and most of them are avoidable.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">31 states currently offer full or partial sales tax exemptions on residential solar equipment.</li><li style="margin:5px 0">On a $25,000 system, a 6% exemption saves roughly $1,500 at point of sale, no filing required.</li><li style="margin:5px 0">Exemptions typically apply to equipment (panels, inverters, batteries), not labor, verify with your installer.</li><li style="margin:5px 0">Some states require the homeowner to submit a form to claim the exemption; it's not always automatic.</li><li style="margin:5px 0">The federal ITC and state sales tax exemptions stack, you can claim both.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">31 states currently offer full or partial sales tax exemptions on residential solar equipment.</li><li style="margin:5px 0">On a $25,000 system, a 6% exemption saves roughly $1,500 at point of sale, no filing required.</li><li style="margin:5px 0">Exemptions typically apply to equipment (panels, inverters, batteries), not labor, verify with your installer.</li><li style="margin:5px 0">Some states require the homeowner to submit a form to claim the exemption; it's not always automatic.</li><li style="margin:5px 0">The federal residential clean energy tax credit ended for installations completed after December 31, 2025, but state sales tax exemptions remain in effect and can still be claimed independently.</li></ul></div>
 
 ## How the Exemption Actually Works
 
@@ -56,7 +56,7 @@ A few states worth knowing in detail:
 
 **New Jersey** exempts solar panels and related equipment from its 6.625% sales tax. New Jersey also has one of the more active solar markets in the country, and installers there are generally familiar with the rules.
 
-States without exemptions include California (which relies more heavily on its own incentive programs), Illinois, and Georgia. If you're in one of these states, the federal 30% Investment Tax Credit is your main lever, and it's still substantial.
+States without exemptions include California (which relies more heavily on its own incentive programs), Illinois, and Georgia. If you're in one of these states, state and utility incentive programs are your main lever.
 
 ## The States That Make You Work for It
 
@@ -70,15 +70,15 @@ This is the kind of thing only someone who's actually worked through the paperwo
 
 ## How This Stacks With Other Incentives
 
-Here's what I find most homeowners miss: the federal Investment Tax Credit and the sales tax exemption aren't mutually exclusive, and one affects the other in a specific way.
+Here's what most homeowners miss: the federal Investment Tax Credit and the sales tax exemption aren't mutually exclusive, and one affects the other in a specific way.
 
-The 30% federal ITC is calculated on your total system cost. If your system costs $25,000 and you pay no sales tax because of a state exemption, your ITC is calculated on $25,000. If you somehow paid $1,500 in sales tax on top of that (say, in a state without an exemption), your ITC base would be $26,500, giving you a marginally larger credit. The difference isn't massive, but the math matters.
+The federal tax credit for new residential solar installations is no longer available for systems installed after December 31, 2025. If your system costs $25,000 and you pay no sales tax because of a state exemption, your taxable base is $25,000. If you paid $1,500 in sales tax on top of that (say, in a state without an exemption), your taxable base would be $26,500. The difference isn't massive, but the math matters for any applicable state-level credits or incentives.
 
-| Scenario | System Cost | Sales Tax | ITC Base (30%) | ITC Value | Net Cost |
-|---|---|---|---|---|---|
-| With exemption (6% state) | $25,000 | $0 | $25,000 | $7,500 | $17,500 |
-| Without exemption (6% state) | $25,000 | $1,500 | $26,500 | $7,950 | $18,550 |
-| Without exemption, no ITC | $25,000 | $1,500 | N/A | $0 | $26,500 |
+| Scenario | System Cost | Sales Tax | Net Cost |
+|---|---|---|---|
+| With exemption (6% state) | $25,000 | $0 | $25,000 |
+| Without exemption (6% state) | $25,000 | $1,500 | $26,500 |
+| Without exemption, no ITC | $25,000 | $1,500 | $26,500 |
 
 The point: the exemption saves you more than it costs you in reduced ITC base. By about $1,050 in this example.
 

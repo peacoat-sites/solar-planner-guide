@@ -65,7 +65,7 @@ A few things worth asking your installer before you sign anything: Does GreenSky
 
 ## Who GreenSky Works Well For
 
-Short promotional payoff timeline + solid credit + disciplined payoff plan: that's the profile where GreenSky financing makes sense. If you're expecting a federal tax credit (the Residential Clean Energy Credit is currently 30% of system cost) and you plan to apply that refund directly toward the loan balance before the promo period ends, deferred interest products can legitimately cost you nothing.
+Short promotional payoff timeline + solid credit + disciplined payoff plan: that's the profile where GreenSky financing makes sense. The Residential Clean Energy Credit is no longer available for systems installed after December 31, 2025, so homeowners who had installation completed by that date and have an unused credit may still apply it toward the loan balance before the promo period ends; for those installs, deferred interest products can legitimately cost you nothing.
 
 For homeowners with good to excellent credit who qualify for a home equity loan or HELOC, those products will almost always carry lower rates than GreenSky's post-promo APR. EnergySage's market data has consistently shown that purpose-built solar loans from lenders like Mosaic tend to offer lower starting APRs than GreenSky's standard (non-promo) products. That doesn't mean GreenSky is a bad product, just that it shouldn't be your only quote.
 

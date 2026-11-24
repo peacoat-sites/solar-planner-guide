@@ -18,7 +18,7 @@ faqs:
   - q: "How long do home batteries actually last?"
     a: "Manufacturer warranties typically cover 10 years or a specified number of cycles (often 3,000 to 4,000 full cycles). Real-world degradation data suggests most lithium iron phosphate systems maintain usable capacity for 10 to 15 years under normal cycling patterns."
   - q: "Does the 30% federal tax credit apply to batteries added after solar?"
-    a: "Yes, as of current IRA provisions, standalone batteries that are charged at least partially from renewable sources qualify for the 30% residential clean energy credit, even if added years after the original solar installation. Verify current eligibility with a tax professional before filing."
+    a: "No, standalone batteries no longer qualify for the 30% residential clean energy credit for homeowners. The credit ended for installations completed after December 31, 2025. Verify current eligibility with a tax professional before filing."
   - q: "What's the best state to get a home battery right now?"
     a: "California offers the clearest financial case, combining NEM 3.0 incentives to store solar, the SGIP rebate program, high electricity rates, and high outage frequency in many regions. New York and Hawaii are also strong markets for similar reasons."
   - q: "Should I size my battery for whole-home backup or just critical loads?"
@@ -27,10 +27,9 @@ faqs:
 
 [Most homeowners](/the-july-4-solar-deadline-most-homeowners-have-never-heard-of/) shopping for a home battery are asking the wrong question. They want to know if a battery will "pay off" the same way a solar panel system does. It usually won't, not on its own, and understanding why that is will save you a lot of money and disappointment.
 
-The honest payback math on a standalone home battery (no solar attached) runs anywhere from 10 to 20+ years under typical conditions. Add solar to the equation, and that number can tighten considerably, sometimes to 7 to 12 years depending on where you live, your utility's rate structure, and whether you qualify for the federal Investment Tax Credit (ITC). But there's a wide range, and some installations never financially break even within a reasonable battery lifespan.
+The honest payback math on a standalone home battery (no solar attached) runs anywhere from 10 to 20+ years under typical conditions. Add solar to the equation, and that number can tighten considerably, sometimes to 7 to 12 years depending on where you live, your utility's rate structure, and whether you qualify for any available state or utility incentives. But there's a wide range, and some installations never financially break even within a reasonable battery lifespan.
 
-
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standalone battery payback typically runs 10-20+ years; solar-paired systems can reach payback in 7-12 years.</li><li style="margin:5px 0">The federal ITC (currently 30%) applies to batteries paired with solar, cutting upfront cost significantly.</li><li style="margin:5px 0">Time-of-use rate arbitrage and backup value are the two main financial levers, only one shows up on a bill.</li><li style="margin:5px 0">In areas without strong net metering, outage protection, or time-of-use rates, payback may never realistically occur.</li><li style="margin:5px 0">Battery lifespan is roughly 10-15 years; if payback exceeds that, the investment is financially underwater.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standalone battery payback typically runs 10-20+ years; solar-paired systems can reach payback in 7-12 years.</li><li style="margin:5px 0">The federal ITC no longer applies to homeowner-owned batteries installed after December 31, 2025.</li><li style="margin:5px 0">Time-of-use rate arbitrage and backup value are the two main financial levers, only one shows up on a bill.</li><li style="margin:5px 0">In areas without strong net metering, outage protection, or time-of-use rates, payback may never realistically occur.</li><li style="margin:5px 0">Battery lifespan is roughly 10-15 years; if payback exceeds that, the investment is financially underwater.</li></ul></div>
 
 
 ## What You're Actually Paying For
@@ -49,7 +48,7 @@ Daily savings: 10 kWh × ($0.50 - $0.30) = $2.00/day during peak billing periods
 
 The homeowner also has solar. Under California's current NEM 3.0 net metering structure, exported solar power earns far less per kWh than it used to, which makes storing that solar energy and using it during peak hours much more attractive. Add another $400/year in avoided exports. Total annual benefit: roughly $700/year.
 
-Before incentives: $14,500 / $700 = about 20.7 years. After the 30% federal ITC ($4,350 reduction): $10,150 / $700 = about 14.5 years.
+Before incentives: $14,500 / $700 = about 20.7 years.
 
 That's borderline. Battery warranties typically run 10 years; real-world lifespan runs 10 to 15 years. At 14.5 years, you're betting on the high end of battery longevity.
 
@@ -57,19 +56,19 @@ Bump the utility rate spread, add a state incentive (California's SGIP program c
 
 ## How Location Changes Everything
 
-| Scenario | Installed Cost (after 30% ITC) | Annual Benefit | Payback Period |
+| Scenario | Installed Cost | Annual Benefit | Payback Period |
 |---|---|---|---|
-| CA, NEM 3.0, solar paired, SGIP rebate | ~$7,000-$9,000 | $900-$1,200 | 7-9 years |
-| TX, solar paired, no state incentive, variable rates | ~$10,000-$11,000 | $500-$800 | 13-20 years |
-| NY, Con Edison, TOU rates, solar paired | ~$9,500-$11,000 | $700-$1,000 | 10-14 years |
-| Flat-rate state, no solar, no utility incentive | ~$10,000-$12,000 | $150-$300 | 33-80+ years |
-| Any state, outage-only use case, no TOU benefit | ~$10,000-$13,000 | $0-$150 (bill) | Financially never |
+| CA, NEM 3.0, solar paired, SGIP rebate | Varies | $900-$1,200 | 7-9 years |
+| TX, solar paired, no state incentive, variable rates | Varies | $500-$800 | 13-20 years |
+| NY, Con Edison, TOU rates, solar paired | Varies | $700-$1,000 | 10-14 years |
+| Flat-rate state, no solar, no utility incentive | Varies | $150-$300 | 33-80+ years |
+| Any state, outage-only use case, no TOU benefit | Varies | $0-$150 (bill) | Financially never |
 
 The flat-rate, no-solar scenario isn't hypothetical. Plenty of homeowners in states with stable grids and flat residential rates have almost zero bill-based payback potential. For them, a battery is effectively a backup power appliance, like a whole-home generator, and should be priced that way mentally.
 
 ## The Federal ITC and State Incentives
 
-The 30% federal Investment Tax Credit applies to battery storage systems installed alongside solar, and as of the Inflation Reduction Act's provisions currently in effect, standalone batteries (no solar required) also qualify for the 30% credit when charged at least 70% from renewable sources, per IRS guidance. File using IRS Form 3468 for business installations or IRS Form 5695 (Residential Energy Credits) for homeowners, with the resulting credit carried to Schedule 3 of Form 1040. Confirm the current rules with a tax professional, since IRA-related incentives remain subject to Congressional action.
+The 30% federal Residential Clean Energy Credit for homeowner-owned battery storage systems installed in 2025 or earlier could be claimed on IRS Form 5695 (Residential Energy Credits), with the resulting credit carried to Schedule 3 of Form 1040. That credit is no longer available for homeowner-owned systems whose installation was completed after December 31, 2025. Confirm the current rules with a tax professional, since these incentives remain subject to Congressional action.
 
 State-level programs vary widely. California's Self-Generation Incentive Program (SGIP) is one of the most generous in the country. New York's Con Edison and other utilities run demand response programs that pay battery owners to discharge during grid stress events. Some utilities in Texas, Florida, and the Mid-Atlantic offer similar programs. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) maintains research on storage incentive economics if you want to go deeper on the data.
 

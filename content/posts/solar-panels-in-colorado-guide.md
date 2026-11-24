@@ -17,7 +17,7 @@ faqs:
   - q: "How long is the payback period for solar in Colorado?"
     a: "Currently, most Colorado homeowners in Xcel Energy territory should plan for 13-16 years, depending on system size and consumption. Homeowners served by municipal utilities or co-ops with more favorable net metering terms can see paybacks closer to 10-12 years. Battery storage adds cost but can improve the economics if you have high daytime electricity use."
   - q: "Does Colorado have a state solar tax credit in 2026?"
-    a: "No. Colorado's state income tax credit for solar expired in 2015 and has not been reinstated. You can claim the 30% federal Investment Tax Credit, plus Colorado's sales tax exemption on solar equipment and a property tax exemption on the added home value."
+    a: "No. Colorado's state income tax credit for solar expired in 2015 and has not been reinstated. Colorado's sales tax exemption on solar equipment and a property tax exemption on the added home value remain available."
   - q: "Will hail damage my solar panels?"
     a: "Quality panels rated to IEC 61215 Class C are tested to withstand 2-inch hailstones at 88 mph. Most Tier 1 panels meet this standard. Confirm your installer's panel specs before signing, and verify with your homeowner's insurer that panels are covered at replacement cost under your current policy."
   - q: "Can an HOA in Colorado prevent me from installing solar?"
@@ -28,15 +28,17 @@ faqs:
 
 Colorado gets 300 days of sunshine a year. That number gets repeated so often in solar marketing that it's basically become a slogan, and like most slogans, it's technically true and slightly misleading at the same time. Yes, Denver averages about 300 sunny days annually, more than Miami, more than Los Angeles. But "sunny days" and "optimal solar production" aren't the same thing, and a lot of homeowners have signed contracts based on the former without fully understanding the latter.
 
-Let me be direct: Colorado is one of the best states in the country to go solar. The combination of high solar irradiance, a generous state net metering policy, the federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) (ITC), and genuinely competitive installer market makes the numbers work for most homeowners. But there are real gotchas, particularly around Xcel Energy's evolving rate structure, HOA restrictions in newer subdivisions, and the hail risk that nobody mentions until after the panels are on your roof.
+Let me be direct: Colorado is one of the best states in the country to go solar. The combination of high solar irradiance, a generous state net metering policy and a genuinely competitive installer market makes the numbers work for many homeowners, even though the [federal tax credit](/itc-solar-investment-tax-credit-explained/) ended for systems installed after 2025. But there are real gotchas, particularly around Xcel Energy's evolving rate structure, HOA restrictions in newer subdivisions, and the hail risk that nobody mentions until after the panels are on your roof.
 
 This guide covers what actually matters for Colorado homeowners in 2026, with real numbers, not estimates dressed up to look precise.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Colorado averages 5.5 peak sun hours daily, among the top tier nationally for solar production.</li><li style="margin:5px 0">The federal ITC covers 30% of total system cost through 2032; Colorado adds no state income tax credit on top.</li><li style="margin:5px 0">Typical Colorado system (8-10 kW) costs $22,000-$28,000 before the ITC, or roughly $15,400-$19,600 after.</li><li style="margin:5px 0">Xcel Energy's net metering has changed: new solar customers get "avoided cost" rates, not full retail, so payback periods have lengthened.</li><li style="margin:5px 0">Hail is a genuine risk; confirm your installer uses IEC 61215 Class C panels and check your homeowner's insurance before signing.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Colorado averages 5.5 peak sun hours daily, among the top tier nationally for solar production.</li><li style="margin:5px 0">The federal residential clean energy credit ended for systems whose installation was completed after December 31, 2025; Colorado adds no state income tax credit on top.</li><li style="margin:5px 0">Typical Colorado system (8-10 kW) costs $22,000-$28,000.</li><li style="margin:5px 0">Xcel Energy's net metering has changed: new solar customers get "avoided cost" rates, not full retail, so payback periods have lengthened.</li><li style="margin:5px 0">Hail is a genuine risk; confirm your installer uses IEC 61215 Class C panels and check your homeowner's insurance before signing.</li></ul></div>
 
 ## What Colorado Solar Actually Costs Right Now
 
-As of July 2026, EnergySage's market data puts the average Colorado solar installation at around $2.70-$3.10 per watt before incentives. On a typical 9 kW system, that's $24,300 to $27,900 installed. After the 30% federal ITC, you're looking at $17,010 to $19,530 out of pocket.
+Solar Panels in Colorado: Your Complete Installation Guide
+
+EnergySage's market data puts the average Colorado solar installation at around $2.70-$3.10 per watt before incentives. On a typical 9 kW system, that's $24,300 to $27,900 installed. The 30% federal Residential Clean Energy Credit is no longer available for systems installed after December 31, 2025, so homeowners installing in 2026 or later receive no federal tax credit for homeowner-owned systems.
 
 Colorado itself doesn't offer a state solar income tax credit anymore (it expired in 2015 and was never reinstated, despite occasional legislative proposals). What the state does offer is a sales tax exemption on solar equipment and a property tax exemption that prevents your home's assessed value increase from raising your property taxes. Both are real money. The sales tax exemption alone saves you roughly $600-$900 on an average system.
 
@@ -44,11 +46,11 @@ Utility rebates vary. Black Hills Energy customers can access modest rebates. Xc
 
 Here's a realistic cost-and-payback comparison for a Denver homeowner versus two other Colorado profiles:
 
-| Scenario | System Size | Gross Cost | After ITC | Est. Annual Savings | Payback Period |
-|---|---|---|---|---|---|
-| Denver, Xcel territory, avg. bill $140/mo | 9 kW | $25,200 | $17,640 | ~$1,260 | 14 years |
-| Colorado Springs, avg. bill $160/mo | 10 kW | $27,500 | $19,250 | ~$1,440 | 13.4 years |
-| Fort Collins (PRPA), avg. bill $120/mo | 8 kW | $22,400 | $15,680 | ~$1,080 | 14.5 years |
+| Scenario | System Size | Gross Cost | Est. Annual Savings | Payback Period |
+|---|---|---|---|---|
+| Denver, Xcel territory, avg. bill $140/mo | 9 kW | $25,200 | ~$1,260 | Varies |
+| Colorado Springs, avg. bill $160/mo | 10 kW | $27,500 | ~$1,440 | Varies |
+| Fort Collins (PRPA), avg. bill $120/mo | 8 kW | $22,400 | ~$1,080 | Varies |
 
 The Xcel scenario is the one that stings a little. Xcel's move away from full retail net metering toward an "avoided cost" compensation rate (currently around $0.07-$0.09/kWh for excess generation, versus the retail rate of ~$0.14-$0.16/kWh) meaningfully extends payback periods compared to five years ago. I've talked to homeowners who went solar in 2019 under the old Solar*Rewards program and are genuinely happy. Homeowners who signed in 2024 or later under the new structure are looking at payback periods that run 13-16 years on average. That's not disqualifying, but it's not the "7-year payback" you'll still see on some installer websites.
 

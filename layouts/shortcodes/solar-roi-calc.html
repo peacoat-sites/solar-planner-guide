@@ -36,7 +36,7 @@
         <input type="number" id="rf-bill" value="160" min="0" step="5">
       </label>
     </div>
-    <label class="chk"><input type="checkbox" id="rf-itc" checked> Apply 30% Federal ITC (reduces upfront cost)</label>
+    <label class="chk"><input type="checkbox" id="rf-itc"> Apply 30% federal credit (only for systems installed by Dec 31, 2025; ended for later installs)</label>
 
     <div class="sec-lbl">Financing Option</div>
     <div style="margin-bottom:14px">
@@ -67,7 +67,7 @@
       <div class="rg" id="rf-cards"></div>
       <div class="callout" id="rf-callout">Select your financing option and fill in the details to compare your solar ROI.</div>
     </div>
-    <p class="note">Solar production assumed at 1,100 kWh/kW/year (US average). ITC applies to cash and loan purchases (you must have sufficient federal tax liability). Lease/PPA payments are typically fixed or escalate 1–3%/year — read your contract. This calculator uses simple 25-year projections; actual results vary. Not financial advice.</p>
+    <p class="note">Solar production assumed at 1,100 kWh/kW/year (US average). The 30% federal credit (Section 25D) applied only to cash and loan purchases whose installation was completed by December 31, 2025, so leave it unchecked for a 2026 or later install. Lease and PPA companies may still claim a business credit (Section 48E), which can lower lease prices. Lease/PPA payments are typically fixed or escalate 1–3%/year, so read your contract. This calculator uses simple 25-year projections; actual results vary. Not financial advice.</p>
   </div>
 </div>
 <script>(function(){
@@ -101,12 +101,12 @@
       var payback=annualSavings>0?net/annualSavings:0;
       var total25=annualSavings*25;
       var roi25=net>0?((total25-net)/net*100):0;
-      cards=card('Net cost (after ITC)','$'+Math.round(net).toLocaleString(),'upfront investment')
+      cards=card('Net cost','$'+Math.round(net).toLocaleString(),'upfront investment')
            +card('Year-1 savings','$'+Math.round(annualSavings).toLocaleString(),'vs current bill')
            +card('Simple payback',payback>0?payback.toFixed(1)+' yrs':'—','break-even')
            +card('25-yr total savings','$'+Math.round(total25).toLocaleString(),'gross')
            +card('25-yr ROI',Math.round(roi25)+'%','return on investment');
-      callout='<b>Cash purchase</b>: You invest <b>$'+Math.round(net).toLocaleString()+'</b> net (after ITC) and break even in about <b>'+payback.toFixed(1)+' years</b>. '
+      callout='<b>Cash purchase</b>: You invest <b>$'+Math.round(net).toLocaleString()+'</b> net and break even in about <b>'+payback.toFixed(1)+' years</b>. '
         +'Over 25 years you save roughly <b>$'+Math.round(total25).toLocaleString()+'</b> — a <b>'+Math.round(roi25)+'% ROI</b>. Cash is the highest-return option when you have the capital.';
     } else if(type==='loan'){
       var apr=n('rf-apr')/100/12;
@@ -137,7 +137,7 @@
            +card('Upfront cost','$0','no capital required');
       callout='<b>Lease / PPA</b>: You pay <b>$'+Math.round(leasePmt).toLocaleString()+'/mo</b> instead of your <b>$'+Math.round(bill).toLocaleString()+'/mo</b> electric bill — '
         +'saving <b>$'+Math.round(moSaveLease).toLocaleString()+'/mo</b> with no upfront cost. '
-        +'Note: you do <b>not</b> receive the ITC (the lessor does), and you won\'t build equity in the system. Good for those who prefer no capital outlay.';
+        +'Note: any federal business credit goes to the leasing company, not you, and you won\'t build equity in the system. Good for those who prefer no capital outlay.';
     }
 
     var cardsEl=g('rf-cards');

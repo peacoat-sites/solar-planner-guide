@@ -16,7 +16,7 @@ faqs:
  - q: "How does system size affect cost per watt?"
    a: "Larger systems almost always cost less per watt because fixed costs like permitting, project management, and truck rolls are spread across more capacity. A 4 kW system might run $3.50 per watt while a 12 kW system from the same installer might price at $2.80 per watt. Getting at least 3 to 5 proposals from competing installers is the best way to benchmark your specific size and market."
  - q: "Should I finance or pay cash for solar?"
-   a: "Cash purchases almost always produce the best return because you avoid interest costs. A $24,000 system financed over 25 years at 6.99% will cost significantly more in total outlay than paying upfront. That said, for homeowners who don't have liquid savings, a solar loan at a competitive rate (under 5% if you can find it) still typically produces positive returns over the full system life. Leases and PPAs have a lower upfront cost but you give up the tax credit and won't own the asset, which complicates home sales."
+   a: "Cash purchases almost always produce the best return because you avoid interest costs. A $24,000 system financed over 25 years at 6.99% will cost significantly more in total outlay than paying upfront. That said, for homeowners who don't have liquid savings, a solar loan at a competitive rate (under 5% if you can find it) still typically produces positive returns over the full system life. Leases and PPAs have a lower upfront cost and, since the federal tax credit is no longer available to homeowners, the advantage of owning the system outright is reduced to asset ownership itself, which still complicates home sales."
  - q: "How do I monitor my solar system's actual performance?"
    a: "Your inverter manufacturer's app (Enphase Enlighten, SolarEdge monitoring portal, etc.) is the primary tool. For a more detailed whole-home view, a dedicated energy monitor like the Sense Home Energy Monitor (Amazon, affiliate link) identifies individual appliance consumption and can help you understand whether your panels are actually offsetting what you expected. This kind of independent verification catches production shortfalls that might otherwise go unnoticed for months."
 author: "Craig Stevens"
@@ -29,7 +29,7 @@ Three quotes just landed on your kitchen table. One says $2.40 per watt. Another
 
 ## What Solar Panels Actually Cost Per Watt in 2026
 
-The national average for residential solar right now hovers around $2.80 to $3.10 per watt before incentives kick in. That means an 8 kilowatt system runs roughly $22,400 to $24,800 upfront. Throw in the 30% federal Investment Tax Credit (still active through 2032), and you're looking at a net cost closer to $15,700 to $17,400.
+The national average for residential solar right now hovers around $2.80 to $3.10 per watt before incentives kick in. That means an 8 kilowatt system runs roughly $22,400 to $24,800 upfront. The 30% federal Residential Clean Energy Credit (Section 25D) is no longer available for systems installed after December 31, 2025, so homeowners installing solar in 2026 or later receive no federal tax credit.
 
 Except averages lie. [EnergySage's market data](https://news.energysage.com/) shows actual homeowner quotes ranging from $2.40 to $3.80 per watt depending on system size, location, roof type, and equipment choices. A small 4 kW system always costs more per watt than a 12 kW system. Labor and permits don't scale linearly with capacity.
 
@@ -43,13 +43,13 @@ Panel efficiency is a trickier variable. Premium panels like Maxeon 7 or Hanwha 
 
 Inverters shift your costs too. String inverters are cheapest at $0.10 to $0.15 per watt. Microinverters (Enphase IQ8) or DC optimizers (SolarEdge) add $0.20 to $0.40 per watt but give you panel-level monitoring and shrink shading losses. Partial roof shade from trees or a chimney? Microinverters or optimizers almost always pay for themselves over your system's life.
 
-Batteries flip the whole equation. A single 10 kWh Tesla Powerwall 3 or Enphase IQ Battery 5P runs $8,000 to $12,000 before incentives. Both qualify for the 30% ITC in 2026 if they're charged primarily from solar. Don't let installers bundle battery cost into the per-watt solar number. It kills any real comparison.
+Batteries flip the whole equation. A single 10 kWh Tesla Powerwall 3 or Enphase IQ Battery 5P runs $8,000 to $12,000. The federal 30% credit for homeowner-owned battery storage ended for installations completed after December 31, 2025. Don't let installers bundle battery cost into the per-watt solar number. It kills any real comparison.
 
 ## How to Compare Quotes Without Getting Confused
 
 | Factor | Budget Tier | Mid Tier | Premium Tier |
 |---|---|---|---|
-| Cost per watt (before ITC) | $2.40 to $2.70 | $2.80 to $3.20 | $3.30 to $4.00+ |
+| Cost per watt | $2.40 to $2.70 | $2.80 to $3.20 | $3.30 to $4.00+ |
 | Panel brand examples | Astronergy, Jinko | REC, Q.CELLS | Maxeon, Panasonic |
 | Inverter type | String | String or SolarEdge | Enphase micro |
 | Workmanship warranty | 5 to 10 years | 10 years | 10 to 25 years |
@@ -73,7 +73,7 @@ Use this approach:
 
 | Factor | Budget Tier | Mid Tier | Premium Tier |
 |---|---|---|---|
-| Cost per watt (before ITC) | $2.40 to $2.70 | $2.80 to $3.20 | $3.30 to $4.00+ |
+| Cost per watt | $2.40 to $2.70 | $2.80 to $3.20 | $3.30 to $4.00+ |
 | Panel brand examples | Astronergy, Jinko | REC, Q.CELLS | Maxeon, Panasonic |
 | Inverter type | String | String or SolarEdge | Enphase micro |
 | Workmanship warranty | 5 to 10 years | 10 years | 10 to 25 years |
@@ -89,7 +89,7 @@ To monitor your system after it goes live, something like the [Emporia Vue Energ
 
 ## The Incentives That Still Change Everything in 2026
 
-The 30% federal ITC is your biggest lever. A $25,000 system cuts your federal tax bill by $7,500. Catch: it's a credit, not a refund. You need sufficient federal tax liability to use it. If you owe less than $7,500 in federal taxes, the unused portion carries forward to future years.
+The 30% federal ITC for homeowner-installed systems ended for installations completed after December 31, 2025. If your system was installed and completed by December 31, 2025, you may still claim the credit on your tax year 2025 return, or on an amended return within three years. Catch: it's a credit, not a refund. You need sufficient federal tax liability to use it. The unused portion carries forward to future years.
 
 State and utility incentives swing wildly. Massachusetts runs the Solar Massachusetts Renewable Target (SMART) program paying per-kWh rates for production. New York's NY-Sun offers rebates varying by utility. Texas has no state income tax (so no state solar credit) but many Texas utilities offer generous net metering or time-of-use rates that improve solar returns. [The U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) maintains a homeowner guide linking current state programs. Check it before you sign.
 

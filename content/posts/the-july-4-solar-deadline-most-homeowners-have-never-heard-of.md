@@ -30,7 +30,7 @@ The catch is that 48E doesn't last forever, and its clock is ticking in a way mo
 
 | Scenario | Federal Credit | Financing Option | Key Deadline | Price Impact |
 | --- | --- | --- | --- | --- |
-| Cash or solar loan purchase | Section 25D | Direct ownership | December 31, 2025 | $6,000-$10,000 lost |
+| Cash or solar loan purchase | Section 25D (ended) | Direct ownership | December 31, 2025 | Varies |
 | Third-party lease/PPA | Section 48E (48%) | TPO company owns system | July 4, 2026 (construction start) | 10-12% price increase post-deadline |
 | Third-party lease/PPA (missed deadline) | Section 48E (reduced) | TPO company owns system | December 31, 2027 (placed in service) | Credit expires entirely after 2027 |
 

@@ -1,142 +1,95 @@
 ---
-title: "How To Claim Your Solar Investment Tax Credit"
+title: "Federal Solar Tax Credit in 2026: What Ended and What's Left"
 date: 2026-05-27T20:31:45.882838+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
-description: "Learn how the ITC solar investment tax credit works, who qualifies, how much you can save, and how to claim it to reduce your federal tax bill."
+description: "The 30% federal solar tax credit for homeowners ended for systems installed after 2025. Here's who can still claim it, how leases and PPAs fit in, and what's left."
 image: "/img/heroes/5816298.jpg"
 categories: ["Tax Credits & Incentives"]
-tags: ["solar", "investment", "credit", "explained"]
+tags: ["solar tax credit", "25D", "48E", "2026"]
 slug: "itc-solar-investment-tax-credit-explained"
 affiliate_disclosure: true
 faqs:
- - q: "Can I claim the ITC if I lease my solar system or use a power purchase agreement (PPA)?"
-   a: "No. This is a critical point. When you lease a system or sign a PPA, the solar company owns the equipment. They claim the ITC, not you. To receive the federal tax credit, you must purchase the system outright or finance it with a solar loan. If someone is pitching you a lease and mentioning tax credit savings, that's a red flag."
- - q: "Does the ITC apply to solar water heaters?"
-   a: "Yes, with conditions. Solar water heaters qualify for the 30% credit, but at least half of the home's water heating must come from the solar system, and the unit must be certified by the Solar Rating Certification Corporation (SRCC). Heating water for swimming pools or hot tubs doesn't qualify."
- - q: "What if I installed my system over two calendar years, with some costs in year one and some in year two?"
-   a: "You claim the ITC in the year the installation is complete and the system is 'placed in service.' That typically means the date of final inspection or interconnection approval from your utility. If panels were delivered in December but inspection didn't happen until January, your credit year is January's tax year."
- - q: "I'm buying a new construction home that already has solar included in the mortgage. Can I claim the ITC?"
-   a: "Yes. New construction qualifies, and folding the cost into your mortgage doesn't disqualify it. The IRS cares about the fair market value of the solar system as a separate cost, so your builder should provide documentation showing what portion of the purchase price is attributable to the solar installation. Get that number in writing at closing."
- - q: "Can I claim the ITC on a vacation home or second home?"
-   a: "Yes. The residential ITC applies to your primary residence and a second home that you use personally. It does not apply to residential rental property you own. If the second home is sometimes rented, you may only be able to claim a proportional credit based on personal-use days. Talk to a tax professional if your second home has mixed use."
+ - q: "Is there still a federal solar tax credit in 2026?"
+   a: "Not for homeowners who buy a system. The 30% Residential Clean Energy Credit (Section 25D) can't be claimed for expenditures made after December 31, 2025, and the IRS treats the expenditure as made when installation is completed. Systems installed in 2026 or later get no federal credit when you buy them with cash or a loan."
+ - q: "I paid for my system in 2025 but it was installed in 2026. Do I qualify?"
+   a: "No. The IRS says an expenditure counts as made when the original installation is completed. If installation was completed after December 31, 2025, you can't claim the credit, even if you paid earlier."
+ - q: "Can I still get a federal credit with a solar lease or PPA?"
+   a: "You can't claim one yourself, but the company that owns a leased or PPA system may claim a business credit under Section 48E. Solar projects generally must have started construction by July 4, 2026, or be placed in service by December 31, 2027. Any savings reach you only if the company passes them through in a lower price."
+ - q: "What if my 2025 credit was bigger than my tax bill?"
+   a: "The unused part carries forward to later tax years. You report the carryforward on Form 5695."
+ - q: "Did the battery storage credit end too?"
+   a: "Yes, for homeowners. Battery storage of at least 3 kWh qualified under the same Section 25D credit, so it ended on the same schedule. Batteries owned by a third party may still qualify for that company's business credit."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation and Permits"
 author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
----
-If you installed a solar system on your home last year and paid $20,000 for it, the federal government will hand you back $6,000 on your tax return. Not a deduction. Not a rebate check in the mail. A dollar-for-dollar reduction in what you owe the IRS. That's the solar Investment Tax Credit (ITC) in action, and it's one of the most valuable financial incentives available to American homeowners right now. Yet I've talked to dozens of people who either didn't claim it correctly, left money on the table, or passed on going solar because they didn't understand how it actually works. Let's fix that.
-
-<div class="value-module">
- <div class="vm-head">ITC Savings by System Cost</div>
- <div class="vm-body">
- <p class="vm-intro">This table shows illustrative federal tax credit amounts at the current 30% rate for common residential solar system price points.</p>
- <table><thead><tr><th>Total System Cost</th><th>ITC Credit (30%)</th><th>Net Cost After Credit</th><th>Typical System Size</th></tr></thead><tbody><tr><td>$12,000</td><td>$3,600</td><td>$8,400</td><td>4-5 kW</td></tr><tr><td>$18,000</td><td>$5,400</td><td>$12,600</td><td>6-7 kW</td></tr><tr><td>$24,000</td><td>$7,200</td><td>$16,800</td><td>8-9 kW</td></tr><tr><td>$30,000</td><td>$9,000</td><td>$21,000</td><td>10-11 kW</td></tr><tr><td>$40,000</td><td>$12,000</td><td>$28,000</td><td>12-15 kW (with battery)</td></tr></tbody></table>
- <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
- </div>
-</div>
-
-## What the ITC Actually Is (and What It Isn't)
-
-The solar Investment Tax Credit, now technically called the Residential Clean Energy Credit after the Inflation Reduction Act of 2022, lets you deduct 30% of the total cost of a qualifying solar installation from your federal income taxes. It's been around since 2006, but the IRA locked in that 30% rate through 2032. That's genuinely huge. Before the IRA passed, the credit was set to drop to 22% in 2023 and eventually vanish for homeowners entirely.
-
-Here's the critical distinction most people miss: a tax credit is not the same as a tax deduction. A deduction reduces your taxable income. A credit reduces your actual tax bill. You're in the 22% tax bracket and claim a $6,000 deduction? You save $1,320. Claim a $6,000 tax credit instead? You save $6,000. The difference matters.
-
-The ITC is a federal tax credit, not a check or rebate mailed by your state government (though many states offer their own incentives on top of this). The federal government issues it entirely through [IRS Form 5695](/irs-form-5695-solar-credit-instructions/), applied against what you owe when you file.
-
-## What Costs Qualify for the 30% Credit
-
-This is where homeowners often leave money on the table. The ITC doesn't just cover the solar panels themselves. According to the [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar), you can count:
-
-- Solar panels or photovoltaic cells
-- Labor costs for installation, including permitting and inspection fees
-- Balance-of-system equipment: wiring, inverters, mounting hardware
-- Battery storage systems, as of 2023, even if installed separately from panels
-- Sales taxes on eligible equipment
-
-That battery storage piece is genuinely new and important. A Tesla Powerwall or Enphase IQ Battery typically runs $10,000 to $15,000 installed. Add one to your system, and that entire cost now qualifies for the 30% credit. Understanding this provision can cut the payback period for battery storage by roughly three years.
-
-What doesn't qualify: the cost of a roof replacement, even if you need a new roof before installation. But if you install solar roofing tiles that function as both your roof and your generation system, like a Tesla Solar Roof, those tiles do qualify. Regular roofing materials underneath them don't.
-
-To make sure you're capturing everything, ask your installer for an itemized contract. Don't accept a single "system cost" line item. Line-by-line invoices make filing Form 5695 much cleaner and give you protection if the IRS ever questions your claim.
-
-## How to Actually Claim It: A Step-by-Step Guide
-
-Claiming the ITC isn't complicated, but you need to get it right. Here's how:
-
-**Step 1: Confirm your installation qualifies.**
-The system must be installed at your primary or secondary U.S. residence. Rentals you own don't qualify for the residential credit (though a commercial ITC exists for business properties). The system has to be new, not a used purchase.
-
-**Step 2: Get your final documentation together.**
-Gather your signed installation contract, final invoice with itemized costs, and your interconnection approval from your utility. Keep these for at least three years after filing.
-
-**Step 3: Complete IRS Form 5695.**
-This is the Residential Energy Credits form. Line 1 is where you enter your total qualified solar costs. The form walks you through calculating 30% of that. The resulting credit flows to Schedule 3, Line 5, of your Form 1040.
-
-**Step 4: Apply the credit against your tax liability.**
-Your federal tax bill for the year is $8,000 and your credit is $6,000? You'll owe $2,000. Credit larger than your tax liability? You don't lose the difference.
-
-**Step 5: Carry forward any unused credit.**
-Most people don't know this part. The ITC is fully carryforward eligible. You only owed $4,000 in taxes but your credit was $6,000? The remaining $2,000 rolls forward to next year's return. You keep carrying it forward until it's fully used.
-
-If you're self-filing, tax software like TurboTax or H&R Block will walk you through Form 5695, but double-check the math yourself. Tax software sometimes miscategorizes battery storage costs. Over $25,000 in system costs? Have a CPA review your return the year you claim the credit.
-
-## The Income and Tax Liability Reality Check
-
-Here's where solar salespeople often gloss over the honest part. The ITC only reduces what you owe. It doesn't create a refund beyond your actual tax liability.
-
-Your solar system cost $20,000, so your credit is $6,000. But if you only owe $2,500 in federal taxes for the year, you only get $2,500 applied immediately. The remaining $3,500 carries forward. That's still valuable, but it changes the cash-flow math significantly if you financed the system expecting the tax credit to immediately help pay down your loan.
-
-Low-income households and retirees living primarily on Social Security, which is largely tax-exempt, need to think carefully. If your annual federal tax liability is consistently below $3,000, a $6,000 credit might take two to three years to fully consume. That's not a reason to skip solar, but it's a reason to plan your financing around realistic timelines.
-
-[EnergySage's market data](https://news.energysage.com/) shows the average residential solar system costs between $17,000 and $23,000 before incentives in 2024. At 30%, that's a $5,100 to $6,900 credit. Most working households with full-time income will have sufficient tax liability to absorb that in one or two years.
-
-## Does the ITC Stack With Other Incentives?
-
-Yes, and this is one of the best parts. The federal ITC doesn't reduce or eliminate your eligibility for state-level incentives, utility rebates, or net metering programs. They stack.
-
-A homeowner in Massachusetts could claim the federal 30% ITC, the state solar tax credit (15% of costs, up to $1,000), and potentially a utility rebate from National Grid. Each incentive is calculated independently.
-
-A few nuances:
-
-Utility rebates received before installation reduce your qualified cost basis for the ITC. Your utility gives you a $2,000 rebate upfront? Your ITC is calculated on $18,000 instead of $20,000. The IRS treats those rebates as a reduction in purchase price.
-
-State tax credits don't affect your federal ITC calculation.
-
-In a state with a solar renewable energy certificate (SREC) market, like New Jersey or Massachusetts? The income you earn selling SRECs is taxable, but it doesn't affect your ITC eligibility.
-
-Tracking all of this gets complex. Keep a simple spreadsheet logging your system cost, every rebate or credit received, the source, and the year. It makes tax prep significantly easier and protects you if there's ever a question about your filings.
-
-Want to monitor your system's production closely to maximize the value of every incentive tied to output? A home energy monitor like the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor) (Amazon, affiliate link) gives you real-time data on solar production and home consumption down to the circuit level.
-
-## ITC Timeline and What Happens After 2032
-
-The 30% rate holds through 2032. Then it steps down to 26% in 2033 and 22% in 2034, and it's scheduled to expire for residential installations at the end of 2034 unless Congress acts.
-
-That timeline matters for your planning. If you're on the fence about going solar, the math is cleanest right now. Waiting until 2033 isn't catastrophic, but on a $20,000 system you'd leave $800 on the table compared to the 30% rate. On a $50,000 system with storage, that gap is $2,000.
-
-One thing worth watching: tax policy can change. The IRA passed with strong clean energy support, but credit structures can be modified by future legislation. Historically, these credits have been extended more often than they've expired, but past behavior isn't a guarantee.
-
-For homeowners considering a large system or adding battery storage, the window from now through 2032 is about as favorable as this policy environment has been in two decades. That's not sales pressure. That's just the numbers being honest with you.
-
 ---
 
-The solar ITC is genuinely one of the most powerful financial tools available to homeowners right now, but it rewards those who understand the details. Know what costs qualify, confirm you have enough tax liability to use the credit efficiently, and keep clean records. A 30% reduction in a $20,000 investment is $6,000 back in your pocket. That kind of return doesn't come along often. Make sure you're positioned to capture every dollar of it.
+The 30% federal solar tax credit for homeowners is gone for new installations. The 2025 budget law (Public Law 119-21, often called the One Big Beautiful Bill Act) ended the Residential Clean Energy Credit, Section 25D, for expenditures made after December 31, 2025. If you buy a solar system with cash or a loan and it's installed in 2026 or later, there is no federal tax credit for it.
+
+That one change reshapes the math behind most solar advice written before 2026, including payback periods that assumed a 30% discount. Here's what still applies, what doesn't, and where federal money can still reach a homeowner.
+
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Homeowner-owned solar and batteries installed after December 31, 2025 get no federal credit.</li><li style="margin:5px 0">The deadline is about installation, not payment: paying in 2025 doesn't help if installation was completed in 2026.</li><li style="margin:5px 0">Systems installed by the end of 2025 are claimed on your 2025 return with Form 5695, and unused credit carries forward.</li><li style="margin:5px 0">Leases and PPAs can still benefit indirectly, because the owner may claim a business credit (Section 48E).</li><li style="margin:5px 0">State incentives, utility rebates, net metering and property and sales tax exemptions are separate and weren't affected by the federal change.</li></ul></div>
+
+## What changed, in plain terms
+
+| Situation | Federal credit available? |
+|---|---|
+| You bought a system and installation was completed by December 31, 2025 | Yes: 30% of qualified costs, claimed for the 2025 tax year |
+| You paid in 2025, but installation was completed in 2026 | No |
+| You buy (cash or loan) and install in 2026 or later | No |
+| Home battery of 3 kWh or more, owned by you, installed in 2026 or later | No |
+| Leased system or PPA | Not for you directly; the owner may claim Section 48E |
+
+The IRS spells out the timing rule in its FAQs on the 2025 law: under Section 25D(e)(8)(A), an expenditure is treated as made when the original installation of the item is completed. So a deposit or full payment in December 2025 doesn't qualify a system that was finished in January 2026.
+
+The same law also ended the Energy Efficient Home Improvement Credit (Section 25C) for property placed in service after December 31, 2025. That covered items such as heat pumps, insulation and efficient windows, so those upgrades lost their federal credit at the same time.
+
+## If your system was installed in 2025 or earlier
+
+You can still claim the credit for that tax year. It's 30% of qualified costs, which include the panels, inverter, mounting and wiring, installation labor and permitting, and battery storage of at least 3 kWh. You claim it on IRS Form 5695 with your 2025 federal return.
+
+Two details matter:
+
+- **The credit is nonrefundable, but it carries forward.** If your credit is larger than your federal income tax, you use what you can and carry the rest to later years. Form 5695 has a line for the carryforward, and you keep filing it until the credit is used up.
+- **Missed it? You can amend.** If you didn't claim the credit for a qualifying 2025 or earlier installation, you can generally file an amended return (Form 1040-X) within three years of filing the original.
+
+Our [Form 5695 walkthrough](/irs-form-5695-solar-credit-instructions/) covers the lines you need for solar and batteries and how the carryforward works.
+
+## Leases and PPAs: where federal money can still show up
+
+Third-party-owned systems are treated differently. When a solar company owns the equipment on your roof and sells you the power (a PPA) or rents you the system (a lease), the company can claim the business investment credit under Section 48E, which the 2025 law did not end on the same schedule.
+
+For solar, that business credit generally requires the project to have begun construction by July 4, 2026, or be placed in service by December 31, 2027. Energy storage was not given that placed-in-service deadline. New sourcing rules on foreign-made components also apply.
+
+What this means for you:
+
+- **You never claim the credit.** The owner does, and it shows up, if at all, as a lower monthly payment or prepaid price.
+- **Compare offers, not promises.** Ask each company for the total lease or PPA cost over the contract term, the annual escalator, and what happens when you sell the house.
+- **Read the details.** Our guides to [solar loans vs. leases vs. PPAs](/solar-loan-vs-solar-lease-vs-ppa/) and [how the foreign-component rules affect leases and PPAs](/what-feoc-rules-mean-for-your-solar-lease-or-ppa-right-now/) go further.
+
+## What still lowers the cost of solar
+
+The federal change didn't touch state and local programs. Depending on where you live, these can still matter:
+
+- **State tax credits and rebates.** A handful of states run their own credits or rebates. See our [state-by-state solar incentives](/state-solar-incentives-by-state/) guide.
+- **Utility rebates and performance payments.** Some utilities pay per installed watt or per kWh produced.
+- **Net metering or net billing.** How your utility credits exported power has a bigger effect on payback than almost anything else.
+- **Property and sales tax exemptions.** Many states exclude solar from property tax assessments or sales tax.
+
+## Redo the payback math without the credit
+
+If you're pricing a system now, use the full installed cost. A $20,000 system that would have netted $14,000 after the credit now costs $20,000, so the payback period is about 43% longer at the same annual savings ($20,000 ÷ $14,000 = 1.43). Our [solar savings calculator](/solar-savings-calculator/) lets you run the numbers with the federal credit switched off, which is the right setting for any system installed in 2026 or later.
 
 ## Sources
 
-- [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar)
-- [EnergySage's market data](https://news.energysage.com/)
-- [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor)
-- [Emporia Smart Outlet with Energy Monitoring](https://www.amazon.com/dp/B07PHBFQXQ?tag=contentportfo-20)
-- [Lutron Caséta Wireless Smart Dimmer Kit](https://www.amazon.com/dp/B07W8QW9VG?tag=contentportfo-20)
+- [IRS: FAQs for modification of sections 25C, 25D, 25E, 30C, 30D, 45L, 45W and 179D under Public Law 119-21](https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-act-obbb): termination dates and the installation-completed rule
+- [IRS: Instructions for Form 5695 (2025)](https://www.irs.gov/instructions/i5695): qualified costs, battery capacity rule and carryforward
+- [Congressional Research Service: Expiration and Carryforward Rules for the Residential Clean Energy Credit](https://www.everycrsreport.com/reports/IN12611.html)
+- [SEIA: Clean energy provisions in the One Big Beautiful Bill](https://seia.org/research-resources/clean-energy-provisions-big-beautiful-bill/): Section 48E timelines for solar and storage
 
-**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+*This article is general information, not tax advice. Tax rules for your situation depend on when your system was installed, who owns it and your tax liability. Check with a tax professional or IRS.gov before filing.*
 
 ---
 
@@ -146,4 +99,3 @@ The solar ITC is genuinely one of the most powerful financial tools available to
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

@@ -18,7 +18,7 @@ faqs:
   - q: "What's the payback period for solar in New York?"
     a: "For a cash purchase, 6 to 9 years is a realistic range for most New York homeowners, with some Con Edison customers seeing 5 to 7 years due to high rates. After payback, the panels continue producing for another 20-plus years, which is where the real financial benefit accumulates."
   - q: "Can I add a battery to my solar system in New York?"
-    a: "Yes, and New York has a specific incentive for it: the NYSERDA Battery Storage Incentive provides upfront rebates ranging from roughly $150 to $250 per kWh of storage capacity. A Tesla Powerwall 3 (13.5 kWh) could qualify for $2,000 to $3,375 in state incentives on top of the federal tax credit. Given how often the grid gets stressed during New York summer heat events, this is becoming a much more common add-on."
+    a: "Yes, and New York has a specific incentive for it: the NYSERDA Battery Storage Incentive provides upfront rebates ranging from roughly $150 to $250 per kWh of storage capacity. A Tesla Powerwall 3 (13.5 kWh) could qualify for $2,000 to $3,375 in state incentives. Given how often the grid gets stressed during New York summer heat events, this is becoming a much more common add-on."
 author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation and Permits"
@@ -43,9 +43,9 @@ I'd push back on the assumption that New York is cloudy and therefore bad for so
 
 New York's incentive stack is one of the most generous in the country, and it's layered in a way that meaningfully reduces your out-of-pocket cost.
 
-Start with the federal Investment Tax Credit (ITC). As of 2025, it's 30% of your total system cost, and it comes directly off your federal tax liability. On a $28,000 system (a reasonable midpoint for a 7-8 kW installation in New York), that's $8,400 back. You need to actually owe that much in federal taxes to claim it fully, though it can roll forward if you don't use it all in year one. Worth confirming with a tax professional.
+Start with the federal Investment Tax Credit (ITC). It was 30% of your total system cost, and it came directly off your federal tax liability. However, the credit is no longer available for homeowner-owned solar systems whose installation was completed after December 31, 2025. If your installation was completed by that date, you may still claim the credit on IRS Form 5695, and any unused portion can roll forward if you don't use it all in year one. Worth confirming with a tax professional.
 
-On top of that, New York State offers its own solar tax credit: 25% of system cost up to $5,000. That's almost always the full $5,000 for a typical residential system. Combined with the federal credit, you're looking at $13,400 off a $28,000 system before touching any other programs.
+On top of that, New York State offers its own solar tax credit: 25% of system cost up to $5,000. That's almost always the full $5,000 for a typical residential system.
 
 Then there's NY-Sun, the state's solar incentive program run through NYSERDA. It provides upfront incentives per watt of installed capacity, with amounts varying by your utility territory and whether you're on Con Edison, National Grid, NYSEG, or another provider. As of early 2025, the Con Edison territory incentive was around $0.20 per watt for residential systems, adding another $1,400 to $1,600 for a typical installation. Check the [NYSERDA NY-Sun dashboard](https://www.nyserda.ny.gov/) for current rates, because these step down as the program fills up.
 
@@ -66,7 +66,7 @@ The thing to watch: VDER (sometimes called "net billing") has been expanding, an
 | 7 kW | ~7,500 kWh | ~$1,800 | $22,000-$24,500 | $13,000-$16,000 |
 | 8 kW | ~8,500-9,500 kWh | ~$2,000-$2,280 | $25,000-$28,000 | $13,600-$18,600 |
 
-EnergySage's 2024 solar market data puts the average New York installation cost at about $3.15 to $3.50 per watt before incentives. A 7 kW system lands at roughly $22,000 to $24,500. An 8 kW system runs closer to $25,000 to $28,000. After federal and state tax credits, you're often in the $13,000 to $18,000 range, depending on your specific credits and whether you're cash-purchasing or financing.
+EnergySage's 2024 solar market data puts the average New York installation cost at about $3.15 to $3.50 per watt before incentives. A 7 kW system lands at roughly $22,000 to $24,500. An 8 kW system runs closer to $25,000 to $28,000. State tax credits and other state and local incentives may reduce your net cost; the federal residential solar tax credit is no longer available for systems installed after December 31, 2025.
 
 If you're comparing quotes, watch the cost-per-watt number, not just the total. Installers in New York are often charging in the $3.00 to $4.00 range, with premium brands (SunPower, Maxeon, REC Alpha) at the higher end and mainstream options (Qcells, Canadian Solar, Jinko) at the lower end. For most homeowners, a Qcells or REC Alpha panel at $3.20 per watt will outperform a premium brand at $4.20 per watt on a payback basis. The efficiency difference rarely justifies the price gap.
 

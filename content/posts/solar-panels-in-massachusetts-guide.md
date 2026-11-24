@@ -14,7 +14,7 @@ slug: "solar-panels-in-massachusetts-guide"
 affiliate_disclosure: true
 faqs:
   - q: "How much does a solar system cost in Massachusetts after incentives?"
-    a: "A typical 8-10 kW system runs $28,000-$35,000 before incentives. After the 30% federal tax credit, the $1,000 state credit, and SMART program payments over 10 years, net costs often land in the $15,000-$22,000 range. Actual numbers vary significantly by system size, installer, and utility territory."
+    a: "A typical 8-10 kW system runs $28,000-$35,000 before incentives. The federal 30% residential clean energy credit is no longer available for systems installed after December 31, 2025. The $1,000 state credit and SMART program payments over 10 years continue to apply. Actual numbers vary significantly by system size, installer, and utility territory."
   - q: "Does Massachusetts have a solar battery incentive?"
     a: "Yes. The ConnectedSolutions program, run through Eversource and National Grid, pays battery owners to dispatch stored energy during demand response events, typically summer and winter peak periods. Payments have ranged from $200 to $1,000+ per year depending on battery capacity and performance. It's one of the better battery incentive programs in the country right now."
   - q: "Can I go solar if I have a shaded roof in Massachusetts?"
@@ -22,7 +22,7 @@ faqs:
   - q: "Does going solar affect my home's resale value in Massachusetts?"
     a: "Generally yes. Lawrence Berkeley National Laboratory research has found solar adds roughly $4 per watt of installed capacity to home value on average. In Massachusetts, where electricity rates are high, buyer willingness to pay a premium for solar tends to be above the national average. And since there's no property tax on that added value here, it's clean upside."
   - q: "Is it better to buy or lease solar panels in Massachusetts?"
-    a: "Buy if you can, either cash or a solar loan. Leases and power purchase agreements (PPAs) transfer most of the financial upside (tax credits, SMART payments) to the leasing company. You get a lower monthly bill with less hassle, but the 25-year numbers look much worse. The one exception: if you can't use the federal tax credit because your tax liability is too low, a PPA might actually make more sense, since the installer captures the credit and can price the PPA accordingly."
+    a: "Buy if you can, either cash or a solar loan. Leases and power purchase agreements (PPAs) transfer most of the financial upside (SMART payments) to the leasing company. You get a lower monthly bill with less hassle, but the 25-year numbers look much worse. The one exception: if a leasing company qualifies for a business credit on a system meeting applicable deadlines, it may price the PPA or lease accordingly, which could make third-party ownership more attractive if you have no other way to capture that benefit."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Massachusetts is one of the best states in the country to go solar. I'll say that upfront, without the usual installer-script enthusiasm, because the numbers actually back it up. Electricity here costs around 25-28 cents per kilowatt-hour depending on your utility and season, which is nearly double the national average. That single fact changes the math on solar more than almost anything else.
@@ -33,13 +33,13 @@ You might be wondering if solar makes sense for *your* specific house, your roof
 
 | Incentive Type | Details | Typical Value |
 | --- | --- | --- |
-| Federal ITC | 30% of system cost | $8,400-$10,500 |
+| Federal ITC | No longer available for systems installed after December 31, 2025 | $0 for 2026 installs |
 | Massachusetts Income Tax Credit | 15% of system cost, capped | Up to $1,000 |
 | Property Tax Exemption | Solar installations exempt from property tax increases | Varies by municipality |
 | SMART Program | Fixed rate per kWh for 10 years (utility-dependent) | $3,000-$8,000+ over program term |
 | Net Metering | Full retail rate credit for excess power to grid | Included in annual savings |
 
-The federal Investment Tax Credit currently gives you 30% of your total system cost back as a tax credit. On a typical Massachusetts installation, which runs around $28,000-$35,000 before incentives (for an 8-10 kW system), that's $8,400 to $10,500 back. That credit applies to the year you install, though it can carry forward if you don't owe enough in taxes that year. Worth confirming with your accountant before assuming you'll capture the full amount.
+The federal 30% Residential Clean Energy Credit (Section 25D) is no longer available for homeowners whose installation was completed after December 31, 2025. For systems installed in Massachusetts after that date, there is no federal tax credit. For systems whose installation was completed by December 31, 2025, that credit applied to the year of installation and any unused portion could carry forward if you did not owe enough in taxes that year. Worth confirming with your accountant before assuming you'll capture the full amount.
 
 Massachusetts-specific incentives are where things get interesting.
 

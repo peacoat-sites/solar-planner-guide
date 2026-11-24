@@ -18,7 +18,7 @@ faqs:
  - q: "What size solar system does a Florida home need?"
    a: "Most Florida homes need between 8 kW and 14 kW due to high air conditioning loads. A more accurate way to size it: take your average monthly kWh usage from your electric bill, divide by roughly 130 (average monthly kWh production per installed kW in Florida), and that gives you the system size in kW. Don't let an installer upsell you past your actual consumption."
  - q: "Does Florida have a state solar tax credit?"
-   a: "No. Florida has no state income tax, so there's no state tax credit. The available financial incentives are the federal 30% Investment Tax Credit, the state sales tax exemption on solar equipment, and the property tax exemption that prevents your home's assessed value from rising due to a solar installation."
+   a: "No. Florida has no state income tax, so there's no state tax credit. The available financial incentives are the state sales tax exemption on solar equipment, and the property tax exemption that prevents your home's assessed value from rising due to a solar installation."
 author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy"
@@ -44,7 +44,6 @@ None of this makes Florida a bad solar state. It makes it a state where system d
 | Item | Cost | Notes |
 | --- | --- | --- |
 | 10 kW system (before incentives) | $28,500 | Based on $2.85/watt average installed cost |
-| 10 kW system (after 30% federal ITC) | $19,950 | Federal Investment Tax Credit through 2032 |
 | Tesla Powerwall 3 (installed) | ~$12,000 | Most common battery option in Florida |
 | Tile roof installation premium | $0.20-$0.40/watt | Additional cost vs. asphalt shingle |
 | Panel removal/reinstall for re-roof | $1,500-$4,000+ | Depends on system size |
@@ -55,7 +54,7 @@ The average Florida home uses around 1,200 kWh per month, which is higher than t
 
 System pricing in Florida has come down meaningfully. EnergySage's market data puts the average installed cost for a residential solar system at around $2.85 per watt before incentives in 2024. For a typical 10 kW system (which is what many Florida homes need), that's roughly $28,500 before incentives.
 
-After the federal Investment Tax Credit, which covers 30% of total system costs and applies through 2032, you're looking at about $19,950 out of pocket for that 10 kW system. Florida also exempts solar equipment from the state sales tax and property tax, which together can save several thousand dollars more. No state income tax credit, though, so the federal ITC is carrying most of the financial weight.
+After the federal Investment Tax Credit, which covered 30% of total system costs, applied only through December 31, 2025, so homeowner-owned systems installed in 2026 or later receive no federal tax credit. Florida also exempts solar equipment from the state sales tax and property tax, which together can save several thousand dollars more. No state income tax credit, though, so for systems installed after 2025, Florida's sales and property tax exemptions are carrying most of the financial weight.
 
 Expected monthly savings vary, but a well-designed system in central or south Florida can realistically offset $150 to $200 per month in electricity costs if you've sized it right and run major loads during peak solar hours. Some homeowners I've spoken with are saving more than that by shifting dishwasher and laundry cycles to midday. Simple, but it adds up.
 
@@ -69,7 +68,7 @@ Without a battery, your solar panels go dark during a grid outage. This surprise
 
 A battery changes that equation significantly. The Tesla Powerwall 3, currently priced around $12,000 installed, is the most common choice I see in Florida right now. The Enphase IQ Battery 5P is another strong option, particularly if you're pairing it with Enphase microinverters. For larger homes or longer backup needs, some homeowners are stacking two Powerwalls or looking at the Franklin WH5000 as a slightly more affordable alternative.
 
-One thing Florida-specific to keep in mind: the battery incentive situation is improving. If your battery is charged exclusively by solar (not from the grid), it qualifies for the federal 30% ITC alongside your panels. That helps offset the sting of the upfront cost.
+One thing Florida-specific to keep in mind: the battery incentive situation has changed. The federal 30% ITC for homeowner-owned systems is no longer available for installations completed after December 31, 2025, so a battery installed in 2026 or later would not qualify for that credit regardless of how it is charged.
 
 The NREL has published research showing that solar-plus-storage systems in high-irradiance climates like Florida can achieve better financial returns than solar-only when you account for time-of-use rates and avoided demand charges, which some Florida utilities are moving toward for residential customers. The resilience value during hurricane season is harder to put a dollar figure on, but it's real.
 

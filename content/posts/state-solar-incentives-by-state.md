@@ -12,13 +12,13 @@ faqs:
  - q: "Do state tax credits reduce the amount I can claim for the federal ITC?"
    a: "Generally no, but there's an important nuance. If a state offers a direct rebate (cash from the government to the installer), that can reduce your system's tax basis and therefore your federal credit. State income tax credits applied on your personal return typically don't reduce your ITC basis. Ask your tax professional to confirm the treatment for any specific rebate you're receiving."
  - q: "Can I claim both a state tax credit and the federal credit on the same system?"
-   a: "Yes. Most state credits are designed to stack with the federal ITC. In New York, for example, you can claim both the 25% state credit and the 30% federal credit, which is one reason New York has some of the best payback numbers in the country. Just confirm you have sufficient tax liability to absorb both credits, or understand the carry-forward rules if you don't."
+   a: "Yes. Most state credits are designed to stack with federal incentives. In New York, for example, you can claim the 25% state credit alongside any applicable federal incentives, which is one reason New York has some of the best payback numbers in the country. Just confirm you have sufficient tax liability to absorb the credit, or understand the carry-forward rules if you don't."
  - q: "How do I know if my installer is telling me about all available incentives?"
    a: "The honest answer is you often don't, until you do your own homework first. Run through DSIRE before your first quote call. That way, if an installer misses a significant utility rebate or SREC program in your area, you'll catch it. In my experience, most installers are thorough on the big items but sometimes miss smaller utility rebates that still add up to real money."
  - q: "Are SREC markets available in my state?"
    a: "Active SREC markets as of 2025 exist primarily in New Jersey, Maryland, Pennsylvania, Massachusetts (which uses a similar structure via SMART), Ohio, and Washington D.C. Illinois has the Adjustable Block Program (also called Illinois Shines) which functions similarly. If you're in one of these markets, factoring SREC income into your solar panel ROI calculation can meaningfully improve your projected returns."
  - q: "Do incentive programs run out of money?"
-   a: "They do. This is one of the most important things I tell clients who are still in the 'thinking about it' phase. NY-Sun has closed specific tranches when funding caps were hit. California's SGIP battery rebate regularly runs waitlists. The Massachusetts SMART program sets incentive rates by capacity block, and rates drop as blocks fill. Waiting six months to get a better quote could mean missing a current incentive block entirely. The federal 30% credit is currently scheduled to step down after 2032, but state programs can change with much less notice. The gap between the best and worst states"
+   a: "They do. NY-Sun has closed specific tranches when funding caps were hit. California's SGIP battery rebate regularly runs waitlists. The Massachusetts SMART program sets incentive rates by capacity block, and rates drop as blocks fill. Waiting six months to get a better quote could mean missing a current incentive block entirely. The federal 30% credit for homeowners ended for installations completed after December 31, 2025, but state programs can change with much less notice. The gap between the best and worst states"
 author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Solar Financing"
@@ -29,9 +29,9 @@ Most homeowners I talk to are shocked when they realize the federal tax credit i
 
 State solar incentives vary wildly, and most installers won't walk you through all of them. Their job is to sell a system. Your job is to know what you're entitled to before you sign anything.
 
-## Why State Incentives Matter as Much as the Federal Credit
+## Why State Incentives Matter More Than the Federal Credit
 
-The federal Investment Tax Credit (ITC) is the headline number. In 2025, it's 30% of your total installed system cost, and you can read the full mechanics of how to claim it in our [breakdown of the federal solar tax credit for 2026](/itc-solar-investment-tax-credit-explained/). That's meaningful, but it's the floor, not the ceiling.
+The federal Investment Tax Credit (ITC) for homeowners ended for systems whose installation was completed after December 31, 2025. You can read about the credit's history and rules in our [breakdown of the federal solar tax credit for 2026](/itc-solar-investment-tax-credit-explained/). That's meaningful context, but state credits, rebates, and incentives exist independently and are not affected by the federal change.
 
 State incentives can slash your payback period by two to five years depending on where you live. They come in several forms: direct rebates paid to you or your installer, state income tax credits that reduce your annual tax bill, property tax exemptions that prevent your home's assessed value from rising because you added solar, sales tax exemptions that knock 5-9% off the upfront equipment cost, and net metering policies that determine how much your utility pays you for excess power you push to the grid.
 
@@ -43,7 +43,7 @@ Some states have built incentive stacks so aggressive that solar is almost a no-
 
 **Massachusetts** runs one of the most generous programs in the country. The state offers a 15% personal income tax credit worth up to $1,000, but the real engine is the Solar Massachusetts Renewable Target (SMART) program. It's a production-based incentive where you earn a fixed rate per kilowatt-hour your system generates for 10 years. Rates vary by utility and system size but have historically run between $0.05 and $0.20 per kWh on top of any net metering credits. Add the statewide sales tax exemption on solar equipment (Massachusetts charges no sales tax on solar installations) and the property tax exemption, and you're looking at a very stacked deal.
 
-**New York** has the NY-Sun Megawatt Block program, which pays upfront incentives based on system size. Residential systems have received between $0.20 and $0.40 per watt depending on the utility territory. The state also offers a 25% tax credit worth up to $5,000. On a $25,000 system, that $5,000 state credit plus the $7,500 federal credit brings your net cost to roughly $12,500 before any utility rebates.
+**New York** has the NY-Sun Megawatt Block program, which pays upfront incentives based on system size. Residential systems have received between $0.20 and $0.40 per watt depending on the utility territory. The state also offers a 25% tax credit worth up to $5,000. On a $25,000 system, the $5,000 state credit brings your net cost to $20,000 before any utility rebates.
 
 **New Jersey** abolished its solar sales tax years ago, exempts 100% of solar added home value from property tax assessments, and has a competitive Solar Renewable Energy Certificate (SREC) market where homeowners earn tradeable credits for every 1,000 kWh generated.
 
@@ -98,7 +98,7 @@ Here's a practical process I recommend to every client before they get their fir
 
 **Step 1: Start at the Database of State Incentives for Renewables and Efficiency (DSIRE) at dsireusa.org.** Enter your zip code and filter for solar. You'll see every state, utility, and local incentive available. Don't skip utility programs. Some of the best rebates come from utilities, not the state.
 
-**Step 2: Calculate your federal credit first.** Your 30% ITC is calculated on the full system cost before any other rebates reduce the price. In most cases, utility rebates don't reduce your ITC basis, but state tax credits might depending on how they're structured. This distinction can affect your credit amount by hundreds or thousands of dollars. Our [ITC solar investment tax credit explanation](/itc-solar-investment-tax-credit-explained/) walks through how the credit applies to different system cost scenarios.
+**Step 2: Consider your federal credit status.** The 30% federal residential clean energy credit applied to the full system cost before any other rebates reduced the price. In most cases, utility rebates did not reduce the credit basis, but state tax credits might depending on how they were structured. This distinction could affect the credit amount by hundreds or thousands of dollars. Our [ITC solar investment tax credit explanation](/itc-solar-investment-tax-credit-explained/) walks through how the credit applied to different system cost scenarios.
 
 **Step 3: Identify whether your state has a production incentive (like SMART or an SREC market) versus a one-time rebate.** Production incentives pay out over years and can be more valuable in the long run, but they require paperwork and registration with your utility or state program.
 

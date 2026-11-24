@@ -22,7 +22,7 @@ faqs:
  - q: "Does roof size matter for a 2,000 sq ft home?"
    a: "Not all 2,000 sq ft of your home is available roof space, and of that roof, only the south, southwest, or west-facing sections at low pitch angles are really useful. A typical home this size usually has enough usable roof area for a 7-10 kW system, but complex rooflines with lots of dormers or heavy shading can create real constraints."
  - q: "Can I get solar with no upfront cost?"
-   a: "Yes, through solar loans, leases, or power purchase agreements (PPAs). Solar loans let you own the system (and claim the tax credit yourself), while leases and PPAs mean the installer owns the system and you pay for the power it produces at a contracted rate. Loans are generally the better financial deal if you have decent credit. Leases and PPAs have improved, but the savings are smaller and they complicate home sales."
+   a: "Yes, through solar loans, leases, or power purchase agreements (PPAs). Solar loans let you own the system, while leases and PPAs mean the installer owns the system and you pay for the power it produces at a contracted rate. Loans are generally the better financial deal if you have decent credit. Leases and PPAs have improved, but the savings are smaller and they complicate home sales."
 lastmod: 2026-11-16T16:00:00Z
 ---
 
@@ -34,11 +34,11 @@ So let's talk real costs.
 
 ## What a 2,000 Sq Ft Home Actually Needs (and What It'll Cost)
 
-| System Size | Monthly Usage | Gross Cost | Federal Credit (30%) | Net Cost | Payback Period |
-| --- | --- | --- | --- | --- | --- |
-| 6.5 kW | 780 kWh | $18,100 | $5,430 | $12,670 | ~10-12 years |
-| 8.0 kW | 1,050 kWh | $24,000 | $7,200 | $16,800 | ~8-9 years |
-| 8.5 kW | 1,050 kWh | $25,500 | $7,650 | $17,850 | ~8-9 years |
+| System Size | Monthly Usage | Gross Cost | Payback Period |
+| --- | --- | --- | --- |
+| 6.5 kW | 780 kWh | $18,100 | Varies |
+| 8.0 kW | 1,050 kWh | $24,000 | Varies |
+| 8.5 kW | 1,050 kWh | $25,500 | Varies |
 
 Square footage isn't what determines system size. Your electricity consumption does.
 
@@ -46,15 +46,15 @@ A 2,000 sq ft home in Phoenix uses a completely different amount of electricity 
 
 That said, you need a starting point. A 2,000 sq ft home in a temperate U.S. climate typically uses between 900 and 1,200 kWh per month. That usually translates to a solar system in the 7 to 10 kilowatt range.
 
-As of June 2026, the national average installed cost for residential solar runs about $2.80 to $3.20 per watt before incentives, according to data tracked by [the Solar Energy Industries Association (SEIA)](https://www.seia.org/). On a 8 kW system (a reasonable midpoint for this home size), that puts you at roughly $22,400 to $25,600 gross before any tax credits.
+The national average installed cost for residential solar runs about $2.80 to $3.20 per watt before incentives, according to data tracked by [the Solar Energy Industries Association (SEIA)](https://www.seia.org/). On a 8 kW system (a reasonable midpoint for this home size), that puts you at roughly $22,400 to $25,600 gross before any tax credits.
 
-Then the federal tax credit comes in.
+Then the federal tax credit does not apply to systems installed after December 31, 2025.
 
-The Residential Clean Energy Credit currently sits at 30% of the total installed cost. On that $24,000 midpoint, that's $7,200 back on your federal taxes. Net cost: around $16,800. Some states layer additional rebates on top, Massachusetts, New York, and Minnesota have been particularly generous, so your actual out-of-pocket could come down further.
+The Residential Clean Energy Credit at 30% ended for systems whose installation was completed after December 31, 2025. Homeowners who had their system installed in 2026 or later receive no federal tax credit. Some states layer additional rebates on top; Massachusetts, New York, and Minnesota have been particularly generous, so your actual out-of-pocket could come down further.
 
 A worked example that's pretty typical:
 
-A homeowner in suburban Atlanta, 2,100 sq ft, using about 1,050 kWh/month → Quoted an 8.5 kW system at $25,500 gross → After 30% federal credit ($7,650), net cost of $17,850. Georgia Power net metering at the time added an estimated $90-120/month in bill offset, giving them a payback period of around 8-9 years.
+A homeowner in suburban Atlanta, 2,100 sq ft, using about 1,050 kWh/month → Quoted an 8.5 kW system at $25,500 gross. The 30% federal tax credit is no longer available for systems installed after December 31, 2025, so a system installed in 2026 or later receives no federal credit. Georgia Power net metering at the time added an estimated $90-120/month in bill offset.
 
 Not spectacular, but not bad either. Especially with panels carrying 25-year production warranties.
 
@@ -72,7 +72,7 @@ These ranges are genuinely wide, and homeowners can get burned by anchoring on t
 
 A second worked example, from the other direction:
 
-A reader named Carolyn emailed me last fall about her quote in rural Tennessee. 2,000 sq ft, simple gable roof, full southern exposure, no trees, modest electricity use (about 780 kWh/month) → Installer recommended a 6.5 kW system → Gross cost $18,100, net after federal credit $12,670. She added a small battery (LG RESU 10H) for backup, which added $8,000. Total with storage: ~$20,670. Still a reasonable investment given her area's occasional grid outages.
+Say a homeowner in rural Tennessee gets a quote: 2,000 sq ft, simple gable roof, full southern exposure, no trees, modest electricity use (about 780 kWh/month) → Installer recommended a 6.5 kW system → Gross cost $18,100. They added a small battery (LG RESU 10H) for backup, which added $8,000. Total with storage: ~$26,100. Still a reasonable investment given occasional grid outages in the area.
 
 ## The Battery Question
 

@@ -62,7 +62,7 @@ As a general rule of thumb:
 - Each kilowatt of solar panels installed produces roughly 4 kWh per day in moderate U.S. climates.
 - To offset 1,216 kWh per month (about 40 kWh/day), you'd need approximately 10 kW of solar capacity.
 - A 10 kW system costs between $25,000 and $35,000 before incentives.
-- The federal solar tax credit covers 30 percent of that cost, bringing a $30,000 system down to $21,000.
+- The federal solar tax credit for homeowner-owned systems ended for installations completed after December 31, 2025, so a system installed in 2026 or later receives no federal tax credit.
 
 Add 1 to 2 kW extra if you charge an SUV-sized EV like a Ford F-150 Lightning or Rivian R1T, which have larger batteries and higher energy consumption per mile.
 
@@ -107,8 +107,8 @@ Use EnergySage's marketplace or ask for referrals. Tell each installer specifica
 **Step 5: Evaluate your net metering situation.**
 Call your utility or check their website for the current net metering rate. If it's been cut, factor battery storage into your quote comparison.
 
-**Step 6: Apply for the 30% federal tax credit.**
-Use IRS Form 5695 when you file taxes for the year your system is installed. If your tax liability is less than the credit amount, you can carry the remaining credit forward.
+**Step 6: Check whether a federal tax credit applies.**
+Use IRS Form 5695 when you file taxes for the year your system is installed. The 30% Residential Clean Energy Credit is available only for systems whose installation was completed by December 31, 2025. If your tax liability is less than the credit amount, you can carry the remaining credit forward.
 
 ## How the Numbers Actually Stack Up: A Quick Comparison
 

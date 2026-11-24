@@ -21,7 +21,7 @@ faqs:
   - q: "Do permits cost extra on top of my installation quote?"
     a: "It depends on your installer's contract. Some include permit fees in their base quote; others itemize them separately. Always ask. The fees themselves are usually $150 to $500, but some jurisdictions charge per-watt fees that can run higher on larger systems. Read the permit section of your contract before signing."
   - q: "Does the 30% federal solar tax credit cover permit costs?"
-    a: "Yes. Permit and inspection fees that are directly related to your solar installation are considered part of the total system cost for purposes of the federal Investment Tax Credit. So if you paid $350 in permit fees, that's included in the basis you claim the credit against."
+    a: "Yes. Permit and inspection fees that are directly related to your solar installation are considered part of the total system cost for purposes of the federal Residential Clean Energy Credit. So if you paid $350 in permit fees, that's included in the basis you claim the credit against, provided the installation was completed by December 31, 2025."
   - q: "How do I know which permits my specific jurisdiction requires?"
     a: "Your installer should tell you, but you can also look it up directly. Search your city or county building department website for 'solar permit requirements.' NREL's SolarApp+ site also lists participating jurisdictions. When in doubt, call the building department directly. Most have someone who handles solar applications regularly and can walk you through requirements in about 10 minutes."
 ---

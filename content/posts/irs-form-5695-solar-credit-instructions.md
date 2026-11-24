@@ -1,11 +1,12 @@
 ---
-title: "Claim Your Solar Tax Credit: Form 5695 Step-by-Step"
+title: "Form 5695 for Solar: Claiming a 2025 Install and Carryforwards"
 date: 2026-07-05T09:47:00.288954+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
-description: "Learn how to complete IRS Form 5695 to claim your residential solar energy tax credit and reduce your federal tax bill with step-by-step instructions."
+description: "How to use IRS Form 5695 for a solar system or battery installed by December 31, 2025, how the carryforward works, and how to amend if you missed the credit."
 image: "/img/heroes/12243093.jpg"
 categories: ["Tax Credits & Incentives"]
-tags: ["form", "5695", "solar", "credit", "instructions"]
+tags: ["form 5695", "solar tax credit", "carryforward", "amended return"]
 author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "System Design"
@@ -13,126 +14,92 @@ author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles 
 slug: "irs-form-5695-solar-credit-instructions"
 affiliate_disclosure: true
 faqs:
+  - q: "Can I use Form 5695 for a solar system installed in 2026?"
+    a: "Not to claim a new credit. The Residential Clean Energy Credit can't be claimed for expenditures made after December 31, 2025, and the IRS treats the expenditure as made when installation is completed. You may still file Form 5695 in 2026 or later to use a carryforward from an earlier installation."
   - q: "Can I claim the solar credit if I financed my system with a loan?"
-    a: "Yes. The credit is based on the total installed cost of your system, regardless of how you paid for it. Enter the full purchase price on Line 1, not the loan amount."
+    a: "Yes, for a qualifying system installed by December 31, 2025. The credit is based on the qualified cost of the system, not on how you paid for it, so you enter the cost of the property rather than the loan balance."
   - q: "What if my credit is larger than my tax liability for the year?"
-    a: "The unused portion carries forward to the following tax year. There's no limit on how many years it can carry, as long as the Residential Clean Energy Credit remains active (currently scheduled through 2032)."
-  - q: "Does the 30% credit apply to installation labor, or just the panels?"
-    a: "It applies to both. Qualified labor costs, including electrical work and permitting directly tied to the solar installation, are included in your Line 1 total."
-  - q: "Can I claim the credit on a second home or vacation property?"
-    a: "Yes, as long as you own the home and it's a residence in the United States. Rental properties where you don't personally live don't qualify for the residential credit (there are separate commercial credits for those)."
-  - q: "What if I forgot to claim the credit in the year I installed my panels?"
-    a: "You can file an amended return (Form 1040-X) with Form 5695 attached. The IRS generally allows amendments up to three years after the original due date, so a 2023 installation is still fixable in 2026."
-lastmod: 2026-11-16T16:00:00Z
+    a: "You use what your tax liability allows and carry the rest forward. Form 5695 tracks the unused amount, and you claim it on later returns until it's used up."
+  - q: "Can I claim the credit on a second home?"
+    a: "The credit covers qualifying property installed on a home in the United States that you live in, which can include a second home. A rental property you don't live in doesn't qualify for this residential credit."
+  - q: "What if I forgot to claim the credit for a system installed in 2025 or earlier?"
+    a: "You can generally file an amended return (Form 1040-X) with Form 5695 within three years of filing the original return."
 ---
 
-The first time I sat down with a client to walk through Form 5695, we spent forty minutes on it together and still almost missed a line that would have cost her $1,800. That's not a knock on the IRS, exactly. The form itself is only two pages. But the instructions? They assume you already know things you probably don't.
+Form 5695 is the IRS form for the Residential Clean Energy Credit, the 30% federal credit for solar panels and home batteries. That credit ended for systems installed after December 31, 2025, so the form now matters in three situations:
 
-So let's fix that.
+1. **Your system was installed in 2025** and you're filing (or extended) your 2025 return.
+2. **You have a carryforward** from an earlier year because the credit was larger than your tax bill.
+3. **You missed the credit** for a 2025 or earlier installation and need to amend.
 
-This is a line-by-line, plain-English guide to Form 5695, specifically Part I, which covers the Residential Clean Energy Credit (the 30% solar credit). As of July 2026, that credit is still in effect at the full 30% rate, locked in by the Inflation Reduction Act through 2032. I want to make sure you actually get every dollar you're owed.
+If your system was installed in 2026 or later, there's no federal credit to claim for it. Our [federal solar tax credit guide](/itc-solar-investment-tax-credit-explained/) explains what ended and where leases and PPAs fit in.
 
----
+## The date that decides everything
 
-## What Form 5695 Actually Does (and What It Doesn't)
+The IRS treats your expenditure as made when the original installation is completed, not when you sign a contract or pay. A system paid for in December 2025 but finished in January 2026 doesn't qualify. Keep the installer's completion paperwork, such as the final inspection or permission-to-operate date, with your tax records in case you need to show when installation was finished.
 
-Form 5695 is the IRS mechanism for claiming residential energy credits. It doesn't calculate your savings. It calculates your *credit*, which gets applied against your federal income tax liability. There's a difference that matters a lot.
+## What counts as a qualified cost
 
-A deduction lowers your taxable income. A credit lowers your actual tax bill, dollar for dollar. The Residential Clean Energy Credit is nonrefundable, which is the part most people miss. If you owe $4,000 in federal taxes and your credit works out to $6,000, you only get to use $4,000 of it this year. The other $2,000 carries forward to next year's return. The carryforward is unlimited as long as the credit program remains in effect, so you won't lose it, but you also won't get a check in the mail for the difference.
+For a qualifying installation, the credit is 30% of:
 
-Homeowners often feel upset when they discover mid-filing that the tax credit works this way. If your installer told you "you'll get 30% back," that's technically true, but it can take more than one tax year to fully capture that benefit if your annual tax liability is modest.
+- Solar panels and the rest of the solar electric system: inverter, racking, wiring
+- Installation labor, including permitting and inspection tied to the system
+- Battery storage with a capacity of at least 3 kWh
+- Sales tax on qualifying equipment, as part of the price you paid
 
----
+What doesn't count: a general roof replacement, even if you needed it before going solar. Roofing that is itself a solar electric product, such as integrated solar shingles, is different from ordinary roofing.
 
-## What Qualifies (Don't Assume Your Whole Invoice Counts)
+Some rebates and subsidies reduce the amount you can count. If you received a utility rebate or other incentive for the installation, check the IRS energy credit FAQs or ask a tax professional how it affects your qualified cost.
 
-Before you ever touch the form, you need to know your qualified expenditure, because that's what you're taking 30% of.
+## The lines that matter for solar
 
-For solar specifically, qualified costs include:
+These line numbers are from the 2025 Form 5695, Part I.
 
-- Solar panels or photovoltaic cells
-- Labor costs for installation (including electrician work and permits tied to the solar system)
-- The inverter
-- Wiring and mounting hardware directly associated with the panels
-- Battery storage systems installed at the same time as the solar system (and as of current IRS guidance, standalone battery storage added after the fact also qualifies at 30%)
+| Line | What goes there |
+|---|---|
+| 1 | Qualified solar electric property costs |
+| 5a and 5b | Check "Yes" on 5a if your battery is 3 kWh or larger, then enter the battery costs on 5b |
+| 6a and 6b | Add your qualified costs, then multiply by 30% |
+| 12 | Any residential clean energy credit carried forward from your 2024 return |
+| 13 | Your total credit available this year |
+| 14 | Your tax liability limit, from the worksheet in the instructions |
+| 15 | The credit you can use this year, which carries to Schedule 3 (Form 1040) |
+| 16 | The unused amount you carry forward to 2026 |
 
-What doesn't count: your roof repair. I can't tell you how many homeowners have tried to include the cost of re-roofing they did before the solar install. Unless the roofing material itself is a qualifying solar product (like certain integrated solar shingles), your roof replacement is not a qualified solar expenditure. The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) has published detailed guidance on what systems qualify, and the IRS is increasingly cross-referencing equipment lists.
+The IRS instructions say to file the form even if you can't use any of the credit in the current year, because that's how the carryforward is recorded.
 
-Also: if you leased your panels, you get zero credit. The credit goes to the system owner. That's the installer/leasing company, not you.
+## How the carryforward works: a worked example
 
----
+The credit is nonrefundable. It can reduce your federal income tax to zero, but the IRS won't pay out the excess as a refund. Instead, the leftover carries forward.
 
-## The Line-by-Line Walkthrough
+Say a system finished in October 2025 has $26,500 of qualified costs:
 
-Here's where most guides vague out. I'm not going to do that.
+| Step | Amount |
+|---|---|
+| Qualified cost | $26,500 |
+| Credit (30%) | $7,950 |
+| Tax liability limit for 2025 (line 14) | $5,200 |
+| Credit used on the 2025 return | $5,200 |
+| Carried forward to 2026 (line 16) | $2,750 |
 
-**Line 1:** Enter the total cost you paid for a solar electric system. This is your total contract price minus any utility rebates or grants you received *before* the installation. If your utility gave you a $500 rebate at purchase, subtract it here.
+On the 2026 return, the $2,750 goes in as the carryforward, and you use as much as that year's tax liability allows. Anything still unused carries forward again.
 
-Quick note on dealer incentives: if your installer gave you a cash discount at the point of sale, your qualified cost is the discounted price. No gaming the system by listing the pre-discount amount.
+## Missed the credit? Amend
 
-**Line 6a:** This is where you sum up all your clean energy costs from Lines 1 through 5b. If you only have solar (no solar water heating, no fuel cells, no wind), this will just be your Line 1 number.
+If you had a qualifying installation in 2025 or an earlier year and didn't claim the credit, you can generally file Form 1040-X with Form 5695 attached within three years of filing the original return. Tax software handles amended returns, or a tax preparer can file it for you.
 
-**Line 6b:** Multiply Line 6a by 30%. That's your credit amount, assuming you have enough tax liability to absorb it this year.
+## Do it yourself or get help?
 
-**Lines 12 through 15:** This is the carryforward section, and it's where people get confused. Line 14 asks for your tax liability limitation from the Credit Limit Worksheet in the instructions. You need to complete that worksheet separately. It's not complicated, but it is a separate calculation. Your actual credit for the year is the *lesser* of your calculated credit (Line 6b) and your tax liability (from the worksheet). The difference, if any, goes on Line 16 and carries to next year's Form 5695.
-
-**Line 15:** Enter whatever credit you're actually able to use this year. This number flows to Schedule 3, Line 5, and from there to your Form 1040. That's it. That's the connection.
-
----
-
-## Three Worked Examples
-
-| Scenario | System Cost | Utility Rebate | Qualified Cost | Credit (30%) | Tax Liability | Used This Year | Carryforward |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Phoenix homeowner (9 kW) | $27,000 | $500 | $26,500 | $7,950 | $5,200 | $5,200 | $2,750 |
-| Tucson couple (10 kWh battery) | $9,800 | $0 | $9,800 | $2,940 | $1,100 | $1,100 | $1,840 |
-
-**Scenario 1:** Homeowner in Phoenix installs a 9 kW system in October 2025 for $27,000 after a $500 utility rebate, bringing the qualified cost to $26,500.
-→ Line 6b calculation: $26,500 × 30% = $7,950 credit.
-→ Federal tax liability for the year: $5,200.
-→ Result: $5,200 used in 2025, $2,750 carries forward to 2026.
-
-**Scenario 2:** Retired couple in Tucson adds a 10 kWh battery (standalone, no new panels) in early 2026 for $9,800 all-in.
-→ Qualified cost: $9,800. Credit: $2,940.
-→ Their federal liability on a mostly Social Security income: $1,100.
-→ Result: They use $1,100 this year, carry forward $1,840. At that rate, it takes them about two more tax years to fully capture the credit. Worth it, but not the windfall they expected.
-
-If you missed claiming the credit in the year you installed your panels, you can amend your return. File a 1040-X with Form 5695 attached; you should receive your refund within a few months.
-→ The point: you can go back three years. If you installed solar in 2023 or later and forgot to file the credit, amend your return.
-
----
-
-## Common Mistakes I See Every Season
-
-The one I see most often: people enter their full loan amount instead of the actual system cost. If you financed your solar through a loan, you still enter the *purchase price of the system*, not the loan balance or monthly payments. The credit is based on what you paid for the property, not how you're paying for it.
-
-Second most common: forgetting the battery. If you added energy storage at the same time as your panels, it belongs on Line 1 combined with your panel cost. Per IRS guidance that's been reinforced through 2026, battery storage systems with at least 3 kWh of capacity qualify at the full 30%. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) has a homeowner's guide that spells this out clearly if you want the official language.
-
-Third: trying to include sales tax separately. It's already part of the purchase price. Don't double-count it.
-
----
-
-## Should You File This Yourself or Get Help?
-
-If your situation is straightforward (one system, one home, you own it outright or financed it, no home office deduction involved), you can absolutely handle Form 5695 yourself. TurboTax, FreeTaxUSA, and H&R Block all walk you through it with prompts. The form really is short.
-
-Where I'd say get a CPA: if you have a home office, if you installed the system on a property you also use for rental income, or if you're in a year with unusual income that might affect the credit limitation worksheet. Those situations add variables that are genuinely worth a professional set of eyes.
-
-If you want to monitor your system's output (useful for documenting performance and validating your system cost), the [Emporia Vue Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor) tracks consumption in real time. It's around $70 and a solid tool for anyone who wants data. (The site may earn a commission on purchases through that link.)
-
----
+For one system on the home you live in, mainstream tax software walks through Form 5695 with prompts. A tax professional is worth it if the system serves a home office or rental space as well as your residence, if you're amending more than one year, or if you received rebates and aren't sure how they affect your qualified cost.
 
 ## Sources
 
-- [IRS Form 5695 Instructions (current year)](https://www.irs.gov/forms-pubs/about-form-5695): Official IRS instructions for the Residential Clean Energy Credit and Energy Efficient Home Improvement Credit.
-- [U.S. Department of Energy, Homeowners Guide to Going Solar](https://www.energy.gov/eere/solar/homeowners-guide-going-solar): DOE plain-language overview of federal solar incentives, qualifying equipment, and the tax credit structure.
-- [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/): Research and data on solar system qualifications, installation costs, and clean energy policy.
-- [EnergySage Solar Marketplace Report (2025)](https://www.energysage.com/data/): Annual data on average solar installation costs, financing options, and consumer trends in residential solar.
-- [IRS Publication 946 and Schedule 3 instructions](https://www.irs.gov/pub/irs-pdf/i1040s3.pdf): Explains how the credit from Form 5695 flows to your 1040 via Schedule 3.
+- [IRS: Instructions for Form 5695 (2025)](https://www.irs.gov/instructions/i5695): line-by-line instructions, battery capacity rule and carryforward
+- [IRS: About Form 5695](https://www.irs.gov/forms-pubs/about-form-5695)
+- [IRS: FAQs on the 2025 law's changes to residential energy credits](https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-act-obbb): termination date and the installation-completed rule
+- [Congressional Research Service: Expiration and Carryforward Rules for the Residential Clean Energy Credit](https://www.everycrsreport.com/reports/IN12611.html)
 
----
-
----
+*This article is general information, not tax advice. Confirm the details for your situation with IRS.gov or a tax professional.*
 
 ---
 
@@ -142,4 +109,3 @@ If you want to monitor your system's output (useful for documenting performance 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

@@ -47,10 +47,10 @@ This is where things get really interesting. And where the stakes are highest. L
 
 ### Who Gets the Tax Credits?
 
-This is arguably the most critical distinction between ownership and non-ownership options. Under the current federal Investment Tax Credit (ITC), solar system owners can claim a **30% federal tax credit** on the full cost of installation. That's a massive financial benefit.
+This is arguably the most critical distinction between ownership and non-ownership options. The **30% federal tax credit** for homeowner-owned solar installations ended for systems whose installation was completed after December 31, 2025, so new owner-installed systems no longer qualify for a federal tax credit.
 
-- **Solar Loan:** You own the system, so **you** claim the 30% federal tax credit. On a $25,000 system, that's $7,500 back at tax time.
-- **Solar Lease:** The solar company owns the system, so **they** claim the tax credit. You get none of it directly, though the company may factor it into your lease pricing.
+- **Solar Loan:** You own the system. The 30% federal tax credit ended for installations completed after December 31, 2025, so systems installed in 2026 or later receive no federal tax credit.
+- **Solar Lease:** The solar company owns the system, so **they** may claim applicable business tax credits. You get none of it directly, though the company may factor it into your lease pricing.
 - **PPA:** Same as the lease. The third-party owner claims all incentives. You don't qualify for any direct tax credits.
 
 This single factor often makes solar loans the financially superior choice for homeowners who have sufficient tax liability to claim the full credit.
@@ -65,10 +65,10 @@ Leases and PPAs deliver more modest but often immediate savings with little to n
 
 | Option | Upfront Cost | Who Owns It | Eligible for Tax Credit |
 |---|---|---|---|
-| Solar Loan | Low to $0 down | You | Yes |
+| Solar Loan | Low to $0 down | You | No |
 | Solar Lease | $0 | Solar Company | No |
 | PPA | $0 | Solar Company | No |
-| Cash Purchase | Full system cost | You | Yes |
+| Cash Purchase | Full system cost | You | No |
 
 ## A Side-by-Side Comparison of Solar Loan vs Lease vs PPA
 
@@ -76,7 +76,7 @@ Leases and PPAs deliver more modest but often immediate savings with little to n
 |---|---|---|---|
 | Upfront Cost | $0-$2,000 typical | $0 | $0 |
 | Ownership | Homeowner | Solar Company | Solar Company |
-| Federal Tax Credit | Yes (30%) | No | No |
+| Federal Tax Credit | No | No | No |
 | Monthly Payment | Fixed loan payment | Fixed payment (may escalate) | Per-kWh rate (may escalate) |
 | Maintenance Responsibility | Homeowner | Solar Company | Solar Company |
 | Home Sale Impact | Adds home value | [Lease transfer required](/transferring-solar-lease-when-selling-home/) | PPA transfer required |
@@ -133,7 +133,7 @@ Use this process to work through the decision systematically rather than getting
 
 **Step 1: Check Your Federal Tax Liability**
 
-Pull out last year's tax return and look at your total federal tax owed (before withholding). If it's above $7,500-$10,000, you have enough liability to benefit significantly from the 30% ITC. This strongly favors a loan or cash purchase.
+Pull out last year's tax return and look at your total federal tax owed (before withholding). If you installed your system by December 31, 2025, you may have enough liability to benefit significantly from the 30% ITC. Systems installed after December 31, 2025 receive no federal tax credit, so for those installations the loan versus lease versus PPA decision is not affected by the ITC. For installations completed by December 31, 2025, this strongly favors a loan or cash purchase.
 
 **Step 2: Assess Your Credit Score**
 
@@ -149,7 +149,7 @@ Never let a solar company only present you with one financing option. Ask explic
 
 **Step 5: Calculate Your True Break-Even Point**
 
-Take the net system cost (after tax credits), subtract annual electricity savings, and divide to find your break-even timeline. A well-sized system with good sun exposure in an average electricity-rate market typically breaks even in 6-10 years under a loan scenario.
+Take the system cost, subtract annual electricity savings, and divide to find your break-even timeline. A well-sized system with good sun exposure in an average electricity-rate market typically breaks even in 6-10 years under a loan scenario.
 
 **Step 6: Read the Fine Print**
 

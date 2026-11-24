@@ -20,7 +20,7 @@ faqs:
   - q: "Is a standby generator worth the cost over a portable one?"
     a: "For most homeowners who only need backup for occasional outages, a portable generator is hard to beat on value. A standby unit makes sense if you have medical equipment that requires power, if you frequently lose power for multiple days, or if you simply want zero manual effort during an outage (standby units start automatically). The $8,000-$12,000 price gap is hard to justify otherwise."
   - q: "Does adding a battery to my solar system qualify for the federal tax credit?"
-    a: "As of July 2026, yes. A battery system installed alongside a new solar array qualifies for the 30% federal Investment Tax Credit. Standalone battery additions to existing solar systems also qualify, as long as the battery is charged primarily from solar (not the grid). Consult a tax professional for your specific situation."
+    a: "No. A battery system installed alongside a new solar array no longer qualifies for the 30% federal tax credit for homeowner-owned systems, as that credit ended for installations completed after December 31, 2025. Consult a tax professional for your specific situation."
   - q: "Which is better for frequent short outages vs. rare long ones?"
     a: "Short, frequent outages: solar plus battery wins easily. Silent, automatic, no fuel needed, and it reduces your bill the rest of the year. Rare but long outages (multi-day): a whole-home standby generator on natural gas or propane is hard to beat, because it has unlimited runtime. Many homeowners in high-risk weather areas choose to have both for complete coverage."
 lastmod: 2026-11-16T16:00:00Z
@@ -44,10 +44,10 @@ Let me put some real numbers on the table, because the range here is enormous an
 |---|---|---|---|---|
 | Portable generator (3,500-7,500W) | $500 - $2,000 | $150-$400 (fuel + maintenance) | 10-15 years | Yes (gasoline) |
 | Standby generator (7,000-22,000W) | $3,500 - $12,000 installed | $200-$500 (maintenance + fuel) | 15-20 years | Yes (propane/natural gas) |
-| Solar + 1 battery (e.g., Tesla Powerwall 3) | $12,000 - $18,000 after federal tax credit | Near-zero (monitoring, occasional service) | 25-30 years panels / 10-15 years battery | No |
-| Solar + 2 batteries | $18,000 - $28,000 after credit | Near-zero | Same | No |
+| Solar + 1 battery (e.g., Tesla Powerwall 3) | Varies | Near-zero (monitoring, occasional service) | 25-30 years panels / 10-15 years battery | No |
+| Solar + 2 batteries | Varies | Near-zero | Same | No |
 
-A few things to flag in that table. The federal Investment Tax Credit (ITC) is currently 30%, which knocks a meaningful chunk off the solar side. As of July 2026, that credit is still intact, though its long-term status has been subject to political debate, so I won't pretend it's guaranteed forever. The generator costs also assume you're using it only occasionally. If you're running a portable generator for hours every week, fuel costs add up fast at $4-5/gallon.
+A few things to flag in that table. The federal Investment Tax Credit (ITC) for homeowner-owned solar systems ended for installations completed after December 31, 2025, so systems installed in 2026 or later do not qualify for the federal credit. The generator costs also assume you're using it only occasionally. If you're running a portable generator for hours every week, fuel costs add up fast at $4-5/gallon.
 
 The standby generator installed cost is the one that catches people off guard. A 22kW Generac Guardian, which is a popular whole-home option, runs about $5,000-$7,000 for the unit alone, then you're paying an electrician and possibly a gas line extension on top of that. I've seen installations come in over $15,000 for larger homes with complicated setups.
 

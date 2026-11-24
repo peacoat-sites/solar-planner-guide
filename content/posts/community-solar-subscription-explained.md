@@ -95,9 +95,9 @@ One thing worth having at home: a basic [energy monitor like the Emporia Vue 2](
 | Available to renters | Yes | No | Sometimes |
 | Requires roof work | No | Yes | Yes |
 | Transferable if you move | Often (within utility area) | Adds home value / transfer | Complicated |
-| Federal tax credit eligible | No | Yes (30% ITC through 2032) | No (lessor claims it) |
+| Federal tax credit eligible | No | No (credit ended for installations completed after December 31, 2025) | No (lessor claims it) |
 
-That tax credit column matters. If you own your home and can qualify for the 30% Investment Tax Credit, rooftop solar's economics are considerably stronger than community solar's. But if you can't, community solar becomes one of the few clean-energy options with actual financial upside rather than just a feel-good premium.
+That tax credit column matters. If you own your home and installed rooftop solar by December 31, 2025, you may have qualified for the 30% Residential Clean Energy Credit, which made rooftop solar's economics considerably stronger than community solar's. For installations completed after that date, no federal tax credit is available to homeowners, so community solar becomes one of the few clean-energy options with actual financial upside rather than just a feel-good premium.
 
 ## Sources
 

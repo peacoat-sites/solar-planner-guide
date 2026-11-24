@@ -14,9 +14,9 @@ slug: "utility-solar-incentive-programs"
 affiliate_disclosure: true
 faqs:
  - q: "What's the difference between a state solar incentive and a utility solar incentive?"
-   a: "State incentives come from your state government, like a state tax credit or a rebate funded by the state energy office. Utility incentives come directly from your electric utility company, funded through ratepayer charges or state mandates. You can often stack both, along with the federal tax credit."
+   a: "State incentives come from your state government, like a state tax credit or a rebate funded by the state energy office. Utility incentives come directly from your electric utility company, funded through ratepayer charges or state mandates. You can often stack both, along with any available state or local incentives."
  - q: "Do utility rebates affect my federal tax credit?"
-   a: "Yes, they can. Utility rebates that come as up-front payments at the time of installation generally reduce your system's cost basis for calculating the 30% federal Investment Tax Credit. A $2,000 rebate on a $20,000 system means your tax credit is calculated on $18,000, not $20,000. SREC income and bill credits work differently and don't reduce the tax credit. Confirm with a tax professional."
+   a: "Yes, some can affect your federal tax credit calculation, but the 30% federal Investment Tax Credit (Section 25D) is no longer available for systems installed after December 31, 2025. For systems whose installation was completed by December 31, 2025, utility rebates that came as up-front payments at the time of installation generally reduced the system's cost basis for calculating the credit: a $2,000 rebate on a $20,000 system meant the tax credit was calculated on $18,000, not $20,000. SREC income and bill credits work differently and don't reduce the tax credit. Confirm with a tax professional."
  - q: "How do I know if net metering is available in my area?"
    a: "Check DSIRE first, then call your utility's interconnection department and ask directly. Your installer should also be able to tell you, but verify it independently because installers have an obvious interest in minimizing bad news. The export rate matters as much as whether net metering exists at all."
  - q: "Can I participate in utility battery programs if I already have solar without storage?"
@@ -25,8 +25,7 @@ faqs:
    a: "Some are, though fewer. States without an RPS have less regulatory pressure on utilities to fund solar programs. That said, some rural electric co-ops and municipal utilities in RPS-free states run their own programs independently. It's worth checking even if your state doesn't have a strong renewable policy. Texas is a good example: the state has almost no solar mandates, yet some Texas co-ops run decent net metering programs because their members asked for them."
 lastmod: 2026-11-16T16:00:00Z
 ---
-
-Most homeowners who go solar focus entirely on the [federal tax credit](/itc-solar-investment-tax-credit-explained/) and stop there. That's understandable. The 30% Investment Tax Credit is real money and easy to understand. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.
+Most homeowners who go solar focus entirely on the [federal tax credit](/itc-solar-investment-tax-credit-explained/) and stop there. That's understandable. The 30% Investment Tax Credit was real money and easy to understand, but it is no longer available for systems installed after December 31, 2025. But in many states, the programs your utility company runs quietly add thousands more to the equation, and almost nobody talks about them seriously.
 
 Homeowners often leave $3,000 to $6,000 on the table by not asking the right questions upfront.
 

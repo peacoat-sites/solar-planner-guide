@@ -17,7 +17,7 @@ faqs:
   - q: "Is Louisiana really the worst state for solar?"
     a: "It's consistently near the bottom of financial return rankings, mostly because electricity rates are so low (around $0.09 to $0.10/kWh) and net metering policy has historically undervalued exported energy. It's not the worst for sunshine, just for the economics."
   - q: "Does the 30% federal tax credit change the math in these states?"
-    a: "It helps, but it doesn't fix the underlying problem. The federal Residential Clean Energy Credit (currently 30% as of 2026) reduces upfront cost, but if your electricity rate is $0.09/kWh and you're exporting at $0.035/kWh, the savings per year are still modest. A shorter payback becomes a slightly shorter payback."
+    a: "It helps, but it doesn't fix the underlying problem. The federal Residential Clean Energy Credit is no longer available for systems installed after December 31, 2025, so homeowners installing in 2026 or later receive no federal tax credit. If your electricity rate is $0.09/kWh and you're exporting at $0.035/kWh, the savings per year are still modest."
   - q: "What about battery storage in bad solar states?"
     a: "Batteries like the Tesla Powerwall 3 or Enphase IQ Battery can partially compensate for poor net metering by letting you store and use your own power instead of exporting it cheaply. They add $8,000 to $15,000 to a system cost, though, and extend payback periods unless your state has a storage incentive."
   - q: "Can I tell upfront if net metering in my state is good or bad?"
@@ -60,9 +60,9 @@ Nevada gutted net metering in 2015 and solar adoption collapsed almost immediate
 
 These worked examples are estimates based on industry averages and published state data, not guarantees:
 
-**Louisiana homeowner, $180/month electric bill** → Installs 8kW system at $2.90/watt after 30% federal tax credit ($16,240 net cost), offsetting $0.09/kWh power with a net metering rate of $0.035/kWh for exports → Estimated payback: 19 to 22 years. The system is financially marginal at best.
+**Say a homeowner in Louisiana with a $180/month electric bill** → Installs 8kW system at $2.90/watt ($23,200 gross cost), offsetting $0.09/kWh power with a net metering rate of $0.035/kWh for exports → Estimated payback: Varies. The system is financially marginal at best.
 
-**North Dakota homeowner, $95/month electric bill** → Installs 7kW system at $3.10/watt after federal credit ($15,295 net cost), limited sun hours, no state incentive → Annual savings: roughly $640. Payback: 24 years. Hard to recommend.
+**Hypothetical North Dakota homeowner, $95/month electric bill** → Installs 7kW system at $3.10/watt ($21,700 gross cost), limited sun hours, no state incentive → Annual savings: roughly $640. Payback: Varies. Hard to recommend.
 
 **Michigan homeowner, zero-export design** → Works with installer to size a 6kW system explicitly for on-site consumption only, monitors closely with a [home energy monitor like the Emporia Vue](https://www.amazon.com/s?k=Emporia+Vue+home+energy+monitor) (the site may earn a commission on purchases like this) to avoid exporting to the grid at low rates → Payback drops to approximately 11 years. Still longer than Arizona or Massachusetts, but workable.
 

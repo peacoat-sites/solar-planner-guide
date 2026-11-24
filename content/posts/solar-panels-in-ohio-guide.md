@@ -18,7 +18,7 @@ faqs:
  - q: "Does Ohio get enough sun for solar panels to be worth it?"
    a: "Yes. Ohio averages 4.0 to 4.5 peak sun hours per day depending on location, with the southern part of the state (Cincinnati area) slightly outperforming Cleveland. That's enough to make solar financially viable, particularly given the long warranty periods on modern panels."
  - q: "Is there an Ohio state solar tax credit?"
-   a: "No. Ohio does not currently offer a state income tax credit for residential solar. The 30% federal Investment Tax Credit is the main incentive available to Ohio homeowners, along with a property tax exemption that prevents your home's assessed value from rising due to the solar installation."
+   a: "No. Ohio does not currently offer a state income tax credit for residential solar. For systems whose installation was completed by December 31, 2025, Ohio homeowners may have been able to claim the 30% federal Residential Clean Energy Credit, but that credit is no longer available for systems installed after that date. Ohio's property tax exemption remains in place and prevents your home's assessed value from rising due to the solar installation."
  - q: "What happens to net metering in Ohio if the rules change?"
    a: "Customers who install systems before any rule change are typically grandfathered under the existing terms for a set period, often 25 years. Getting installed while retail-rate net metering is still in place is a real reason not to delay if you're already leaning toward solar."
  - q: "How do I know if my roof is ready for solar in Ohio?"
@@ -36,9 +36,9 @@ Let's get into the actual numbers.
 
 The average installed cost for a residential solar system in Ohio sits around $2.70 to $3.10 per watt before incentives. A typical 8 kW system, which covers most of the state's average household usage of roughly 900 kWh per month, lands between $21,600 and $24,800 before anything gets applied.
 
-Then the federal Investment Tax Credit knocks 30% off your federal tax liability. On a $23,000 system, that's $6,900 back. Not a rebate, a tax credit, which means you need to actually owe that much in federal taxes over the year to capture it fully. If you don't, you can carry the remainder forward one year. This matters: a retiree on a fixed income with minimal tax liability gets less value here than a dual-income household. Nobody tells you this at the sales appointment.
+Then the federal Residential Clean Energy Credit (Section 25D) no longer applies to systems installed after December 31, 2025, so Ohio homeowners whose installation is completed in 2026 or later receive no federal tax credit. Nobody tells you this at the sales appointment.
 
-After the federal credit, effective net cost on that 8 kW system drops to roughly $16,100. Ohio has no statewide residential solar rebate program currently, and the state's Solar Renewable Energy Credit (SREC) market collapsed years ago when the legislature weakened the renewable portfolio standard. SRECs are basically irrelevant for Ohio homeowners in 2026. Don't let any installer wave them in front of you as a meaningful income stream.
+After the federal credit, the net cost figure has been removed because the federal residential solar tax credit (Section 25D) is no longer available for systems installed after December 31, 2025. Ohio has no statewide residential solar rebate program currently, and the state's Solar Renewable Energy Credit (SREC) market collapsed years ago when the legislature weakened the renewable portfolio standard. SRECs are basically irrelevant for Ohio homeowners in 2026. Don't let any installer wave them in front of you as a meaningful income stream.
 
 EnergySage's market data consistently shows Ohio installers quoting slightly below the national average, which is one of the state's quiet advantages. Competition is decent in the major metros.
 
@@ -77,7 +77,7 @@ Get at least three quotes. EnergySage's marketplace lets you do this without han
 
 Ask about the warranty structure carefully. A 25-year panel warranty only matters if the manufacturer is still around. Tier 1 panel manufacturers with bankable warranties in 2026 include Qcells (which manufactures in Georgia now, domestically), REC Group, Panasonic, and Canadian Solar. Micro-inverters from Enphase carry a 25-year warranty and are generally the right call in Ohio because partial shading from trees, clouds, and Ohio's infamous overcast winters means string inverters underperform more here than in Arizona.
 
-A word on leases and PPAs: just don't. In Ohio's market, buying outright or with a solar loan captures the federal tax credit, maintains your roof warranty rights, and keeps a lien off your title. A leased system on your home when you go to sell it is a negotiation headache every single time.
+A word on leases and PPAs: just don't. In Ohio's market, buying outright or with a solar loan maintains your roof warranty rights and keeps a lien off your title. A leased system on your home when you go to sell it is a negotiation headache every single time.
 
 ---
 

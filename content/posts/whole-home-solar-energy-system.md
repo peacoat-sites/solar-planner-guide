@@ -48,13 +48,12 @@ The [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) publish
 | --- | --- | --- |
 | System Size | 8-15 kW | Most residential whole home systems |
 | Gross Cost (before incentives) | $20,000-$52,000 | At $2.50-$3.50 per watt installed |
-| Cost After 30% Federal Tax Credit | $14,000-$36,000 | Out-of-pocket, varies by installer |
 | Battery Units (if used) | 1-2 units | One for backup; two for daily cycling |
 | Panel Efficiency (premium tier) | 22%+ | REC Alpha Pure, Panasonic EverVolt |
 | Roof Age Threshold for Inspection | 15+ years | Recommended before solar installation |
 | Typical Roof Lifespan | 25-30 years | Matches solar panel lifespan (25+ years) |
 
-A system genuinely designed to cover your whole home typically runs between 8 kW and 15 kW for most residential installations. At current pricing (roughly $2.50 to $3.50 per watt installed before incentives), that's a $20,000 to $52,000 gross cost. After the federal Investment Tax Credit, which is currently 30%, you're looking at $14,000 to $36,000 out of pocket depending on system size and your specific installer.
+A system genuinely designed to cover your whole home typically runs between 8 kW and 15 kW for most residential installations. At current pricing (roughly $2.50 to $3.50 per watt installed before incentives), that's a $20,000 to $52,000 gross cost. The federal 30% Residential Clean Energy Credit is no longer available for systems installed after December 31, 2025, so homeowners installing in 2026 or later receive no federal tax credit to offset this cost.
 
 On panels: the premium tier right now is pretty clearly REC Alpha Pure or Panasonic EverVolt for efficiency and warranty terms. Both push 22%+ panel efficiency. If your roof space is limited, efficiency matters a lot. If you've got a big south-facing roof with no shading, you can use slightly less efficient panels and make it up in quantity. SunPower's Maxeon line is excellent but tends to come with a price premium that's hard to justify unless space is genuinely constrained.
 
@@ -76,7 +75,7 @@ Also: shading is a bigger deal than most installers admit during the sales proce
 
 ## The Financial Picture, Honestly
 
-The 30% federal tax credit is real and significant. But you need to actually owe that much in federal taxes to capture it fully. If your annual federal tax liability is $4,000 and your credit is $9,000, you can carry the remainder forward one year, but not indefinitely. This trips up retirees on fixed income more than anyone else. Talk to your tax person before assuming you'll get the full credit.
+The 30% federal tax credit was real and significant, but it is no longer available for systems installed after December 31, 2025. If your system was installed by that date and you have an unused credit, you can carry the remainder forward to later years, not just one year. This trips up retirees on fixed income more than anyone else. Talk to your tax person before assuming you'll get the full credit.
 
 State incentives vary wildly. Massachusetts, New York, and Illinois have strong additional programs. Texas has almost nothing at the state level (though low electricity prices in some parts partly offset this). EnergySage maintains an updated database of state and utility incentives that's more reliable than what any individual installer will tell you.
 

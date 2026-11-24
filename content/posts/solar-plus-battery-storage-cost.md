@@ -10,7 +10,7 @@ slug: "solar-plus-battery-storage-cost"
 affiliate_disclosure: true
 faqs:
  - q: "Is it worth adding a battery to an existing solar system?"
-   a: "It can be, but the economics are different than installing everything together. You'll likely pay a separate installation fee, you may need an inverter upgrade, and the battery may not qualify for the full 30% federal tax credit unless it's charged exclusively from solar. Get a specific retrofit quote and run the numbers against your current utility rate structure. If you're on TOU rates with high peak pricing, a retrofit often pencils out. On flat-rate billing with strong net metering, the payback math is harder."
+   a: "It can be, but the economics are different than installing everything together. You'll likely pay a separate installation fee, you may need an inverter upgrade, and the battery no longer qualifies for the federal tax credit for homeowner-owned systems installed after December 31, 2025. Get a specific retrofit quote and run the numbers against your current utility rate structure. If you're on TOU rates with high peak pricing, a retrofit often pencils out. On flat-rate billing with strong net metering, the payback math is harder."
  - q: "How long do residential solar batteries actually last?"
    a: "Most lithium iron phosphate (LFP) batteries like the Tesla Powerwall 3 and Franklin WH 13.6 are warrantied to retain at least 70% of original capacity after 10 years or a specified number of cycles (often 3,000 to 4,000 cycles). Real-world degradation data suggests this is roughly accurate. At 10 years, you'll likely need to decide whether to replace the battery or continue with reduced capacity. Budget roughly $8,000 to $12,000 for replacement hardware at that point, though battery costs have historically dropped over time."
  - q: "What's the difference between partial and whole-home backup?"
@@ -29,15 +29,15 @@ Most homeowners assume adding a battery will roughly double the cost of a solar 
 
 ## What Solar Plus Battery Storage Actually Costs in 2024
 
-A standard residential solar system without storage runs between $15,000 and $30,000 before incentives, depending on size. According to [EnergySage's market data](https://news.energysage.com/), the average solar-only installation in 2023 came in around $31,558 before the federal tax credit, or roughly $23,000 after applying the 30% Investment Tax Credit (ITC).
+A standard residential solar system without storage runs between $15,000 and $30,000 before incentives, depending on size. According to [EnergySage's market data](https://news.energysage.com/), the average solar-only installation in 2023 came in around $31,558 before the federal tax credit.
 
 Then you add a battery. A Tesla Powerwall 3 stores 13.5 kWh and costs about $9,200 to $11,500 for the hardware, plus $1,500 to $3,000 in installation labor. The LG RESU Prime 16H lands in roughly the same ballpark. Want whole-home backup that can actually last through a multi-day outage? Most installers recommend two batteries. That's $20,000+ just for storage hardware before labor even enters the picture.
 
 Here's what realistic budgets look like in 2024: an 8 kW solar array paired with one 13.5 kWh battery costs about $35,000 to $50,000 before incentives. After the 30% federal tax credit, you're looking at $25,000 to $35,000. That's the honest number most installers dance around.
 
-## The Tax Credit Math Changes Everything (If You Do It Right)
+## Running the Numbers Without the Federal Credit
 
-The 30% federal ITC is your single biggest financial lever, and the rules actually matter. Under the Inflation Reduction Act, the credit covers both solar panels and battery storage, but only if the battery gets charged primarily by solar. A standalone battery retrofit doesn't automatically qualify. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) is clear: the battery needs to be on-site with your solar system and hit certain capacity thresholds.
+The federal tax credit for homeowner-installed solar battery storage has ended for installations completed after December 31, 2025. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) is clear: the battery needs to be on-site with your solar system and hit certain capacity thresholds.
 
 Here's what surprised me: homeowners often install batteries a year or two after their solar system goes in, then discover they've tangled their taxes unnecessarily. If you're even thinking about storage, do it at the same time as solar. You capture the credit on everything in one shot. You pay one round of installation labor. You skip a second permitting process entirely.
 

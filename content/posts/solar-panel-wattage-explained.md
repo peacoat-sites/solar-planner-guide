@@ -50,7 +50,7 @@ Residential [solar panels](/how-many-solar-panels-to-power-a-house/) have gotten
 | High-efficiency premium | 420–480W | Small roofs, shaded installs | $0.50–$0.75 |
 | Premium/TOPCon or HJT | 480–580W | Space-constrained, max output | $0.65–$1.00+ |
 
-Pricing above is panel-only cost, not installed cost. Installed residential systems run considerably higher once you add labor, inverters, racking, permitting, and the installer's margin. EnergySage's market data consistently puts the median installed cost somewhere around $2.50–$3.50 per watt before the federal tax credit, though local variation is real and significant.
+Pricing above is panel-only cost, not installed cost. Installed residential systems run considerably higher once you add labor, inverters, racking, permitting, and the installer's margin. EnergySage's market data consistently puts the median installed cost somewhere around $2.50–$3.50 per watt, though local variation is real and significant.
 
 ## How to calculate how many panels you actually need
 

@@ -12,7 +12,7 @@ faqs:
  - q: "What is the cheapest state to install solar in?"
    a: "Based on recent EnergySage data, states like Georgia, Florida, Arizona, and Texas tend to have the lowest average installation costs, often running 10-20% below the national average. Lower labor costs and competitive installer markets are the primary drivers. That said, low upfront cost doesn't always mean fastest payback, since state incentive availability and local utility rates play a huge role in determining total financial return."
  - q: "Does the federal solar tax credit apply in every state?"
-   a: "Yes. The federal Investment Tax Credit (ITC) is a federal program, so it applies regardless of where you live, as long as you owe federal income taxes. It's currently 30% of the total system cost and applies to systems installed through 2032. If your tax liability is lower than your credit amount in year one, you can carry the remainder forward to subsequent tax years."
+   a: "No. The federal Residential Clean Energy Credit that previously offered 30% of the total system cost is no longer available for homeowner-owned systems installed after December 31, 2025. If your system installation was completed by December 31, 2025, you can still claim the credit regardless of where you live, as long as you owe federal income taxes. If your tax liability is lower than your credit amount in year one, you can carry the remainder forward to subsequent tax years."
  - q: "How much does solar add to home value in different states?"
    a: "NREL research has shown that solar installations increase home resale value by an average of about $4 per watt of installed capacity nationally, which works out to roughly $15,000 to $20,000 for a typical 4-5kW system. The value boost tends to be stronger in states with high electricity rates and strong solar awareness among buyers, like California, Massachusetts, and New York. In states with lower rates or less solar adoption, the resale premium can be harder to capture."
  - q: "Should I get multiple quotes, and how many?"
@@ -35,7 +35,7 @@ Labor markets matter enormously. Installers in California, New York, and Massach
 
 Permitting is another big one. Some municipalities have streamlined digital permitting systems that can process a solar permit in a day or two. Others require physical inspections, multi-department approvals, and months of back-and-forth. A 2023 study from the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/) found that soft costs, which include permitting, installation overhead, and customer acquisition, account for roughly 65% of the total cost of a residential solar system. That means the panel hardware itself is almost the smaller part of what you're paying for.
 
-State-level incentives create real price differences too. Some states pile on rebates and tax credits that effectively lower what you pay out of pocket. Others offer almost nothing beyond the federal Investment Tax Credit (ITC).
+State-level incentives create real price differences too. Some states pile on rebates and tax credits that effectively lower what you pay out of pocket. Others offer almost nothing beyond state-level programs.
 
 Competition density plays a role as well. In solar-saturated markets like California, you have dozens of installers fighting for your business, which tends to compress margins. In states where solar is still emerging, fewer installers means less competitive pricing.
 
@@ -59,14 +59,14 @@ The national average for a 6-kilowatt residential solar system sits around $16,0
 
 Massachusetts is routinely the most expensive state for solar installation, often 20-30% above the national average. Meanwhile, Georgia and Florida tend to come in on the lower end, largely due to lower labor costs. Though Georgia's thin incentive landscape means you won't recover as much of that cost quickly.
 
-After applying the federal ITC (currently 30% through 2032), those numbers drop significantly. A $20,500 Massachusetts system becomes roughly $14,350 out of pocket. A $15,000 Arizona system drops to around $10,500. That's still a real difference, but the gap narrows.
+After applying the federal ITC, those numbers drop significantly. A $20,500 Massachusetts system and a $15,000 Arizona system represent real differences, but the gap narrows.
 
 ## How to Calculate Your True Payback Period by State
 
 The sticker price matters, but what really determines whether solar makes financial sense is the payback period, which is how many years it takes for your energy savings to offset your upfront cost.
 
 **Step 1: Get your actual system cost after incentives.**
-Take your installer quote, subtract the 30% federal ITC, then subtract any state or utility rebates.
+Take your installer quote, then subtract any state or utility rebates.
 
 **Step 2: Calculate your [annual solar savings](/solar-savings-calculator/).**
 Multiply your system's estimated annual production (in kilowatt-hours) by your utility's per-kWh rate. If your 6kW system produces 8,000 kWh per year and you pay $0.15/kWh, that's $1,200 in annual savings.
@@ -92,7 +92,7 @@ High installation cost doesn't mean bad investment. Low installation cost doesn'
 
 **Texas** has low installation costs and high sun exposure in most of the state, but it lacks both state income tax credits and robust net metering policies. You're primarily saving through direct self-consumption rather than billing credits. If you have high daytime usage, that works well. If you're away all day, it's less ideal.
 
-**New York** offers one of the most generous state tax credit structures in the country: 25% of installation costs up to $5,000, on top of the federal 30%. A $20,000 New York system could net $11,000 in combined tax credits if your tax liability supports it.
+**New York** offers one of the most generous state tax credit structures in the country: 25% of installation costs up to $5,000, on top of the federal 30%. A $20,000 New York system could net $11,000 in combined tax credits if your tax liability supports it. Note that the federal 30% Residential Clean Energy Credit is no longer available for systems installed after December 31, 2025; for installations completed in 2026 or later, only the New York state credit applies.
 
 **Florida** surprises a lot of people. No state income tax means no state tax credit, but Florida does offer property tax exemptions on added home value from solar (significant, since solar typically adds $15,000+ to resale value) and net metering has historically been strong, though that's been under legislative pressure.
 

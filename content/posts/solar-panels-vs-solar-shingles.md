@@ -14,7 +14,7 @@ faqs:
   - q: "Can I add a battery to either system?"
     a: "Yes to both. Tesla Solar Roof is designed to pair with the Powerwall 3, and that integration is genuinely seamless from a software standpoint. Conventional panel systems can pair with a wide range of batteries: Tesla Powerwall, Enphase IQ Battery, Franklin WH, or SolarEdge. The conventional panel route gives you more battery options and more competitive pricing through that competition."
   - q: "Do solar shingles qualify for the federal tax credit?"
-    a: "Yes. Both Tesla Solar Roof and GAF Timberline Solar qualify for the 30% federal Investment Tax Credit under current law. The credit applies to the solar-generating portions of the roof. Non-solar structural components (the 'dummy tiles') have had some ambiguity in past IRS guidance, so consult a tax professional about exactly what percentage of your total project cost is creditable."
+    a: "No. The 30% federal Residential Clean Energy Credit under IRC Section 25D is no longer available for systems whose installation is completed after December 31, 2025. If your Tesla Solar Roof or GAF Timberline Solar installation was completed by December 31, 2025, the credit applies to the solar-generating portions of the roof. Non-solar structural components (the 'dummy tiles') have had some ambiguity in past IRS guidance, so consult a tax professional about exactly what percentage of your total project cost is creditable."
   - q: "What happens if one shingle gets damaged?"
     a: "With Tesla Solar Roof, Tesla replaces individual tiles rather than the entire roof, but sourcing replacements and scheduling a repair can be slow depending on your region and service backlog. With conventional panels, a single damaged panel is straightforward to swap out since they're modular and multiple installers in any market can service them. This is genuinely one of the practical advantages of traditional panels that doesn't get enough attention."
   - q: "Is the resale value boost the same for both?"
@@ -35,13 +35,13 @@ Solar shingles make financial sense for a narrower slice of people than the mark
 | --- | --- | --- |
 | Cost per watt (installed) | $2.50-$3.50 | $4.50-$6.50 |
 | Full system cost (8 kW, before incentives) | $20,000-$28,000 | $35,000-$70,000 |
-| Cost after 30% federal tax credit | $14,800-$20,720 | $24,500-$49,000 |
+| Cost after 30% federal tax credit | Varies | Varies |
 | Panel efficiency | 20-22.8% | ~19.8% |
 | Typical payback period | 6-9 years | 12-18+ years |
 | Installation timeline | 1-3 days | 1-2 weeks |
 | Warranty (Tesla/GAF) | 25 years (power) | 25 years (weatherization/labor) |
 
-Traditional solar panels bolted onto brackets above your roof have been refined over 40-plus years. A standard residential system using monocrystalline panels (think LG, REC, or Qcells) runs somewhere between $2.50 and $3.50 per watt installed, before the federal tax credit. On a typical 8 kW system, that's $20,000 to $28,000 upfront, dropping to roughly $14,800 to $20,720 after the current 30% federal Investment Tax Credit.
+Traditional solar panels bolted onto brackets above your roof have been refined over 40-plus years. A standard residential system using monocrystalline panels (think LG, REC, or Qcells) runs somewhere between $2.50 and $3.50 per watt installed, before the federal tax credit. On a typical 8 kW system, that's $20,000 to $28,000 upfront. The 30% federal Residential Clean Energy Credit is no longer available for systems installed after December 31, 2025.
 
 Solar shingles are different. Tesla's Solar Roof, the most-recognized product in this category, prices out at approximately $4.50 to $6.50 per watt of solar capacity, not counting the non-solar "dummy" shingles that fill the rest of your roof. A full Tesla Solar Roof installation on an average-sized home, including both active and inactive tiles, typically runs $35,000 to $70,000 before incentives. GAF Energy's Timberline Solar shingles come in cheaper and work differently (overlaid onto an existing roof rather than replacing it), but they're still substantially more expensive per watt than conventional panels.
 
@@ -67,7 +67,7 @@ Complex roof geometries also push toward shingles. Lots of hips, valleys, and do
 
 ## The Payback Period Problem
 
-A well-sized conventional panel system in a sun-rich state like Arizona or Texas, after the federal tax credit, often pays back in 6 to 9 years. EnergySage's 2023 data puts the national average payback period at about 8.7 years. Quality panels are warrantied for 25 years and realistically last 30+, so you're looking at 15-20 years of essentially free electricity after breakeven.
+A well-sized conventional panel system in a sun-rich state like Arizona or Texas often pays back in a number of years that varies by location and financing. EnergySage's 2023 data puts the national average payback period at about 8.7 years. Quality panels are warrantied for 25 years and realistically last 30+, so you're looking at 15-20 years of essentially free electricity after breakeven.
 
 Tesla Solar Roof payback periods tend to run 12 to 18 years or longer, and that's assuming you needed the roof replacement anyway. If your existing roof was in fine shape, you're looking at even longer. The [U.S. Department of Energy's homeowner solar guide](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) makes clear that payback periods are highly location-sensitive, but the premium for integrated shingles doesn't disappear just because your sun hours are good.
 

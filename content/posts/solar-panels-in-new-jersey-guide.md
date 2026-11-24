@@ -15,9 +15,9 @@ slug: "solar-panels-in-new-jersey-guide"
 affiliate_disclosure: true
 faqs:
   - q: "How long does a solar payback period take in New Jersey?"
-    a: "Most NJ homeowners see payback in 6 to 9 years when combining the federal tax credit with SREC II income and net metering bill savings. Higher electricity rates and favorable roof orientation can push that closer to 6 years."
+    a: "Most NJ homeowners see payback in 6 to 9 years when combining SREC II income and net metering bill savings. Higher electricity rates and favorable roof orientation can push that closer to 6 years."
   - q: "Does New Jersey still have a solar tax credit in 2026?"
-    a: "New Jersey doesn't offer a separate state income tax credit, but the state sales tax exemption and property tax exemption are both active as of 2026. These are effectively worth thousands of dollars and often go unmentioned. The 30% federal ITC is the primary tax credit that applies."
+    a: "New Jersey doesn't offer a separate state income tax credit, but the state sales tax exemption and property tax exemption are both active as of 2026. These are effectively worth thousands of dollars and often go unmentioned. The 30% federal ITC applied to systems installed by December 31, 2025, and is no longer available for new installations."
   - q: "Can I go solar if I have a flat or east-west facing roof in NJ?"
     a: "Yes, though you'll lose 10-20% production compared to a true south-facing pitch. Microinverters (from Enphase) or DC optimizers (SolarEdge) help maximize output on non-ideal orientations. A well-designed east-west split system can still offer solid returns in NJ given the strong SREC program."
   - q: "What happens to my SREC income if I sell my house?"
@@ -32,19 +32,19 @@ Most installers won't emphasize upfront that New Jersey isn't a great solar stat
 
 Let me walk you through what's actually going on here, as of August 2026.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NJ homeowners can combine the 30% federal tax credit with the state's SREC II program, reducing payback periods to 6-8 years in many cases.</li><li style="margin:5px 0">Average installed cost in NJ runs $2.80-$3.20 per watt before incentives, or roughly $16,800-$19,200 for a 6 kW system.</li><li style="margin:5px 0">NJ solar systems are exempt from both state sales tax and property tax reassessment, two savings most homeowners overlook.</li><li style="margin:5px 0">The NJ net metering policy is under pressure; locking in current terms sooner rather than later may be worth the urgency.</li><li style="margin:5px 0">A south-facing roof with minimal shading will outperform a larger system on a compromised roof, shade is the enemy here.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30% federal tax credit is no longer available for homeowner-owned systems installed after December 31, 2025; NJ homeowners installing in 2026 or later can still benefit from the state's SREC II program.</li><li style="margin:5px 0">Average installed cost in NJ runs $2.80-$3.20 per watt before incentives, or roughly $16,800-$19,200 for a 6 kW system.</li><li style="margin:5px 0">NJ solar systems are exempt from both state sales tax and property tax reassessment, two savings most homeowners overlook.</li><li style="margin:5px 0">The NJ net metering policy is under pressure; locking in current terms sooner rather than later may be worth the urgency.</li><li style="margin:5px 0">A south-facing roof with minimal shading will outperform a larger system on a compromised roof, shade is the enemy here.</li></ul></div>
 
 ## What It Actually Costs in NJ Right Now
 
 Before incentives, a typical 8 kW residential system in New Jersey will run you somewhere between $22,400 and $25,600 based on current EnergySage market data for the Mid-Atlantic region. Most quotes from NJ homeowners fall in that $2.80 to $3.20 [per watt](/solar-panel-cost-per-watt/) range. There are outliers on both ends, and quotes under $2.50/watt warrant scrutiny about exactly what equipment is being used.
 
-After the 30% federal Investment Tax Credit (applied in 2026, which remains at 30% through 2032 under current law), that $24,000 system drops to roughly $16,800 out of pocket. That's before New Jersey's own incentives touch it.
+That $24,000 system is the starting point before any incentives. That's before New Jersey's own incentives touch it.
 
-| System Size | Pre-Incentive Cost | After 30% ITC | Est. SREC II Value (10 yr) | Approx. Net Cost |
-|---|---|---|---|---|
-| 6 kW | $16,800 – $19,200 | $11,760 – $13,440 | $4,200 – $5,400 | $6,360 – $9,240 |
-| 8 kW | $22,400 – $25,600 | $15,680 – $17,920 | $5,600 – $7,200 | $8,480 – $10,720 |
-| 10 kW | $28,000 – $32,000 | $19,600 – $22,400 | $7,000 – $9,000 | $10,600 – $13,400 |
+| System Size | Pre-Incentive Cost | Est. SREC II Value (10 yr) | Approx. Net Cost |
+|---|---|---|---|
+| 6 kW | $16,800 – $19,200 | $4,200 – $5,400 | Varies |
+| 8 kW | $22,400 – $25,600 | $5,600 – $7,200 | Varies |
+| 10 kW | $28,000 – $32,000 | $7,000 – $9,000 | Varies |
 
 *SREC II values estimated at $70-$90 per SREC over 15 years, discounted to present value. Actual prices fluctuate.*
 
@@ -74,7 +74,7 @@ The interconnection timeline matters enormously in NJ. JCP&L and PSE&G have diff
 
 Panel choice in NJ: given the modest sun hours, high-efficiency panels (Panasonic, REC Alpha, or Maxeon series) can recover 8-12% more energy from the same roof footprint compared to budget modules. On a shaded or smaller roof, this is the upgrade worth paying for.
 
-Scenario: A homeowner in Montclair with a 1,400 sq ft south-facing roof section got competing quotes of $31,000 (SunPower/Maxeon, 9.4 kW) and $24,500 (generic modules, 10 kW). After the 30% ITC, the gap narrowed to about $4,550. Projected SREC and bill savings over 15 years favored the higher-efficiency system by roughly $3,200, nearly closing the cost gap entirely. Not always the case, but worth running the numbers.
+Scenario: Say a homeowner in Montclair with a 1,400 sq ft south-facing roof section got competing quotes of $31,000 (SunPower/Maxeon, 9.4 kW) and $24,500 (generic modules, 10 kW). The gap between the two quotes is $6,500. Projected SREC and bill savings over 15 years favored the higher-efficiency system by roughly $3,200, narrowing the cost gap. Not always the case, but worth running the numbers.
 
 ## Battery Storage: Does It Pencil Out in NJ?
 

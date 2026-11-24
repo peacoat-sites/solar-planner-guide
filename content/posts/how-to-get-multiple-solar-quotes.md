@@ -31,7 +31,7 @@ Getting multiple quotes isn't just about finding the cheapest price. It's about 
 
 ## Why the Solar Market Rewards Shoppers (More Than Almost Any Other Home Purchase)
 
-Solar installation pricing is, bluntly, all over the map. According to [SEIA](https://www.seia.org/), residential solar installations averaged around $3.00 per watt in 2023, but in practice you'll see quotes ranging from $2.50 to $4.50 per watt for nearly identical systems depending on your region, the installer's overhead, and frankly, how much they think they can charge you. On a 10 kW system, that's the difference between $25,000 and $45,000 before the federal tax credit. That gap doesn't reflect quality differences. A lot of it is just margin.
+Solar installation pricing is, bluntly, all over the map. According to [SEIA](https://www.seia.org/), residential solar installations averaged around $3.00 per watt in 2023, but in practice you'll see quotes ranging from $2.50 to $4.50 per watt for nearly identical systems depending on your region, the installer's overhead, and frankly, how much they think they can charge you. On a 10 kW system, that's the difference between $25,000 and $45,000. That gap doesn't reflect quality differences. A lot of it is just margin.
 
 Solar installers also vary enormously in what they actually propose for your roof. One company might quote you 18 panels; another looks at your utility bills more carefully and realizes 22 panels is what you need to offset 90% of your usage. One installer defaults to the module-level microinverters they get a good deal on; another might spec a string inverter with a power optimizer that's a better fit for your shading situation. You can't know any of this without comparison.
 

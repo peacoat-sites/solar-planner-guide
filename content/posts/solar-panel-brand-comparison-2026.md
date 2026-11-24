@@ -91,7 +91,7 @@ When an installer hands you a proposal, here's what I'd go through before signin
 
 **Step 5: Use a monitoring device to track performance after installation.** A home energy monitor like the [Emporia Vue Smart Home Energy Monitor](https://www.amazon.com/s?k=emporia+vue+energy+monitor) (affiliate link, we may earn a commission) lets you catch underperformance early. If a panel starts degrading faster than warranted, you need data to back a claim. Don't count on your installer noticing.
 
-**Step 6: Ask about domestic content.** Under current IRA rules, panels manufactured in the U.S. may qualify for an additional 10% tax credit adder. Q CELLS' Georgia facility makes their panels worth considering here.
+**Step 6: Ask about domestic content.** Under current rules, panels manufactured in the U.S. may qualify for certain incentives. Q CELLS' Georgia facility makes their panels worth considering here.
 
 ## What the Research Actually Says About Long-Term Performance
 

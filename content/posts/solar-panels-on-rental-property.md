@@ -32,11 +32,11 @@ Rental properties sit in an awkward middle ground. The person paying the [electr
 
 I've sat across from a lot of landlords over the years who came in thinking solar was either a no-brainer investment or a total scam, and almost none of them were right. The real answer lives somewhere specific, and it depends on a handful of variables that most solar salespeople won't bother to work through with you.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30% federal tax credit applies to rental properties, but only if you have enough tax liability to use it.</li><li style="margin:5px 0">Landlord-owned solar typically increases property value 3-4%, per Zillow research, which can matter more than monthly savings.</li><li style="margin:5px 0">Utility-included leases are where solar ROI for landlords actually works; tenant-paid utilities flip the math entirely.</li><li style="margin:5px 0">Payback periods on rental solar average 8-12 years, about 2-3 years longer than owner-occupied installs.</li><li style="margin:5px 0">Single-family rentals almost always pencil better than multifamily for solar; the economics are just different.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30% federal tax credit applied to rental properties for installations completed by December 31, 2025, but is no longer available for new installations.</li><li style="margin:5px 0">Landlord-owned solar typically increases property value 3-4%, per Zillow research, which can matter more than monthly savings.</li><li style="margin:5px 0">Utility-included leases are where solar ROI for landlords actually works; tenant-paid utilities flip the math entirely.</li><li style="margin:5px 0">Payback periods on rental solar average 8-12 years, about 2-3 years longer than owner-occupied installs.</li><li style="margin:5px 0">Single-family rentals almost always pencil better than multifamily for solar; the economics are just different.</li></ul></div>
 
 ## The Tax Credit Math (And Where It Gets Complicated)
 
-The federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) currently sits at 30% through 2032, then steps down. On a $20,000 system, that's $6,000 back. The credit only offsets federal income tax liability. If your rental income and other income don't generate at least $6,000 in federal taxes owed that year, you don't lose the credit forever, but you do carry it forward, sometimes for years before it's fully absorbed.
+The federal [Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) for homeowner-owned systems ended for installations completed after December 31, 2025. The credit only offsets federal income tax liability. If your rental income and other income don't generate enough in federal taxes owed that year, you don't lose the credit forever, but you do carry it forward, sometimes for years before it's fully absorbed.
 
 I worked with a landlord in Phoenix a few years back, a retired couple with two single-family rentals and modest Social Security income. Their installer told them the 30% credit would make payback happen in under six years. What nobody told them was that their federal tax liability was about $2,200 per year. That $6,000 credit took them almost three years to fully use. Not a disaster, but not what they were sold.
 
@@ -56,11 +56,11 @@ Short-term rentals like Airbnbs are actually one of the strongest cases for land
 
 Let me give you some concrete examples that reflect real-world installs, not hypotheticals cooked up by a sales spreadsheet.
 
-**Scenario 1:** Single-family rental in Albuquerque, NM, utility-included lease, 6.4 kW system, total cost $17,800 after installer discounts, federal tax credit of $5,340 absorbed over two years → Annual savings of $1,580 from reduced utility bills → Payback period of 7.9 years → At year 25, net gain of approximately $21,000 after system cost.
+**Scenario 1:** Single-family rental in Albuquerque, NM, utility-included lease, 6.4 kW system, total cost $17,800 after installer discounts → Annual savings of $1,580 from reduced utility bills → Payback period of Varies → At year 25, net gain of Varies after system cost.
 
-**Scenario 2:** Duplex in Cleveland, OH, tenant-pays utilities on both units, 8 kW system, total cost $22,000, federal tax credit of $6,600 → Landlord earns no direct utility savings, adds a $75/month solar surcharge per unit after lease renewal, one tenant leaves over the change → Net savings after vacancy and turn costs: closer to $900/year → Payback stretches to 14+ years.
+**Scenario 2:** Duplex in Cleveland, OH, tenant-pays utilities on both units, 8 kW system, total cost $22,000, landlord earns no direct utility savings, adds a $75/month solar surcharge per unit after lease renewal, one tenant leaves over the change → Net savings after vacancy and turn costs: closer to $900/year → Payback stretches to 14+ years.
 
-**Scenario 3:** Three-bedroom Airbnb in Scottsdale, AZ, owner-managed, 7.2 kW system with a [solar monitoring system](https://www.amazon.com/s?k=solar+monitoring+system&tag=contentportfo-20) to track production per guest stay, total cost $19,500, federal tax credit of $5,850 → Annual utility savings of $1,840, plus owner lists "solar-powered home" in listing and sees 9% higher nightly rate in A/B test over 60 days → Payback estimated at 6.2 years.
+**Scenario 3:** Three-bedroom Airbnb in Scottsdale, AZ, owner-managed, 7.2 kW system with a [solar monitoring system](https://www.amazon.com/s?k=solar+monitoring+system&tag=contentportfo-20) to track production per guest stay, total cost $19,500, no federal tax credit available for systems installed in 2026 or later → Annual utility savings of $1,840, plus owner lists "solar-powered home" in listing and sees 9% higher nightly rate in A/B test over 60 days → Payback estimated at Varies.
 
 That third scenario is genuinely one of the better use cases I've encountered. The energy cost savings plus the marketing upside on short-term rentals can change the whole calculus.
 
@@ -72,11 +72,11 @@ If you're considering a solar lease or PPA (power purchase agreement) for a rent
 
 | Ownership Type | Tax Credit | Property Value Impact | Lease Transfer Complication | Best For |
 |---|---|---|---|---|
-| Owned (cash) | Full 30% | +3-4% | None | Long-term holds |
-| Owned (loan) | Full 30% | +3-4% | Low | Mid-term holds, 7+ yrs |
+| Owned (cash) | None | +3-4% | None | Long-term holds |
+| Owned (loan) | None | +3-4% | Low | Mid-term holds, 7+ yrs |
 | Solar Lease | None | Minimal or negative | High | Rarely makes sense |
 | PPA | None | Neutral to slightly negative | High | Rarely makes sense |
-| PACE Financing | Full 30% | +3-4% | Moderate (stays with property) | Cash-constrained owners |
+| PACE Financing | None | +3-4% | Moderate (stays with property) | Cash-constrained owners |
 
 PACE financing is underused by landlords and worth researching in your state. The lien stays with the property, not the borrower, which can simplify things when selling, though buyers need to understand what they're assuming.
 

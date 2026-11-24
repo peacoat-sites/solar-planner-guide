@@ -64,13 +64,13 @@ PACE loans carry real risks. Interest rates run 7-12% or higher, and if you sell
 
 **Secured personal loans or home equity products.** If you have equity, a HELOC or [home equity loan](/home-equity-loan-for-solar-panels/) lets you use your house as collateral, which dramatically softens the credit requirement. Current HELOC rates are variable and running around 8-10% depending on your lender and market conditions, which is not better than a good solar-specific loan, but it's accessible to more people.
 
-**Leases and PPAs.** Here's where I see a lot of people land, and I have genuinely mixed feelings about it. Solar leases and power purchase agreements (PPAs) often have lower credit thresholds than loans, sometimes as low as 620, because the installer owns the panels and just charges you for the electricity they produce. You avoid the upfront cost entirely. But you also give up the federal Investment Tax Credit (currently 30% through 2032 under the Inflation Reduction Act), and your long-term savings are capped. It's a tradeoff, not a slam dunk.
+**Leases and PPAs.** Here's where a lot of people land, and there are genuinely mixed feelings about it. Solar leases and power purchase agreements (PPAs) often have lower credit thresholds than loans, sometimes as low as 620, because the installer owns the panels and just charges you for the electricity they produce. You avoid the upfront cost entirely. But you also give up any federal tax credit benefit, as the 30% Residential Clean Energy Credit for homeowner-owned systems ended for installations completed after December 31, 2025, and for third-party-owned systems the credit goes to the installing company, not to you, and reaches you only through pricing. Your long-term savings are capped. It's a tradeoff, not a slam dunk.
 
 ---
 
 ## What the Numbers Actually Look Like
 
-**Scenario 1:** Homeowner in Phoenix, credit score 610, $1,800 in annual electricity costs, owns home free and clear with $180,000 in equity. Applies for and gets a HELOC at 9.5% to finance a $18,000 system. After the 30% federal tax credit is applied (reducing effective cost to ~$12,600), monthly HELOC payments run about $130. Previous average electric bill: $150/month. Net savings: modest in year one, but the loan pays down and utility rates don't.
+**Scenario 1:** Homeowner in Phoenix, credit score 610, $1,800 in annual electricity costs, owns home free and clear with $180,000 in equity. Applies for and gets a HELOC at 9.5% to finance a $18,000 system. The 30% federal tax credit is no longer available for systems installed after December 31, 2025, so the full $18,000 system cost applies. Monthly HELOC payments run based on the full financed amount. Previous average electric bill: $150/month. Net savings: modest in year one, but the loan pays down and utility rates don't.
 
 **Scenario 2:** Renter-turned-homeowner in Georgia, credit score 585, has 20% equity but spotty payment history. Got declined by two solar-specific lenders. Found a Ygrene PACE loan at 10.9%, financed $16,500 system. PACE payments are $210/month via property tax. Pre-solar electric bill was $180/month. Paying more now, but locked into a fixed payment while neighbors watch their utility bills climb.
 
@@ -94,7 +94,7 @@ If you're monitoring your home energy usage more carefully while you go through 
 
 I'll be honest about what the research shows: borrowers with lower credit scores who access solar through higher-rate products (PACE, high-APR personal loans) do sometimes end up in situations where the monthly payment exceeds the utility savings, at least in the early years. The U.S. Department of Energy's consumer guidance on going solar specifically flags the importance of comparing total financing costs against projected savings, not just the monthly payment, and that advice is worth taking seriously.
 
-The other thing worth saying plainly: solar isn't right for everyone, even if you can find financing. If your roof needs replacement in the next five years, or if you're planning to sell and move in three years, stretching to finance solar with high-rate products may not make financial sense. The 30% federal tax credit helps, but only if you have sufficient federal tax liability to use it. People with lower incomes who pay little federal tax often can't capture the full benefit.
+The other thing worth saying plainly: solar isn't right for everyone, even if you can find financing. If your roof needs replacement in the next five years, or if you're planning to sell and move in three years, stretching to finance solar with high-rate products may not make financial sense. The 30% federal tax credit for homeowner-owned systems is no longer available for installations completed after December 31, 2025. People with lower incomes who pay little federal tax often can't capture the full benefit.
 
 ---
 

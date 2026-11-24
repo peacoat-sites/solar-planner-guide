@@ -18,7 +18,7 @@ faqs:
  - q: "How does time-of-use pricing interact with net metering?"
    a: "Under time-of-use net metering, the value of your exported electricity depends on when you export it. Peak hours (typically late afternoon and evening) carry higher rates, while midday exports may be credited at lower off-peak rates. This is increasingly common and one reason battery storage has become more valuable in states like California and Nevada."
  - q: "Will net metering policy changes affect my decision to go solar right now?"
-   a: "It depends on your state. If you're in a state with strong retail-rate net metering, locking in now before any potential changes is a reasonable argument for moving forward. If your state already has degraded net metering, you need to run the numbers based on current, not historical, export rates. Either way, factoring in the 30% federal tax credit still makes the economics significantly more favorable than they were even five years ago. Net metering policy isn't the only factor in your solar decision, but ignoring it is one of the most common and costly mistakes I see homeowners make. The pan"
+   a: "It depends on your state. If you're in a state with strong retail-rate net metering, locking in now before any potential changes is a reasonable argument for moving forward. If your state already has degraded net metering, you need to run the numbers based on current, not historical, export rates. Net metering policy isn't the only factor in your solar decision, but ignoring it is one of the most common and costly mistakes homeowners make. The pan"
 author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "System Design"
@@ -55,7 +55,7 @@ Your state's position matters enormously when calculating real return on investm
 
 ## How Net Metering Policy Changes Your Payback Period
 
-Take a real example: a 7 kW system in Phoenix, Arizona. Cost is $21,000 before incentives. The 30% [federal Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) brings it to $14,700. Annual production is about 11,900 kWh. You use 9,500 and export 2,400.
+Take a real example: a 7 kW system in Phoenix, Arizona. Cost is $21,000 before incentives. The 30% [federal Investment Tax Credit](/itc-solar-investment-tax-credit-explained/) is no longer available for systems installed after December 31, 2025. Annual production is about 11,900 kWh. You use 9,500 and export 2,400.
 
 Under full-retail net metering at $0.12/kWh (roughly APS's rate), those 2,400 exported kWh earn about $288 annually. Self-consumed power saves $1,140. Total yearly benefit: roughly $1,428. Payback period: about 10.3 years.
 

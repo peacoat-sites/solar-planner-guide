@@ -1,5 +1,5 @@
 ---
-title: "40% Solar Tax Credit: How SRECs Maximize Your Energy Savings"
+title: "SRECs Explained: How Solar Renewable Energy Credits Pay You"
 date: 2026-07-19T09:18:14.953878+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -56,7 +56,7 @@ Let's run some real scenarios, because "it depends" is a useless answer.
 
 **New Jersey, 8 kW system** → Produces roughly 9,600 kWh/year → Generates ~9.6 SRECs/year. At $285/credit (mid-2026), that's about $2,736/year. Over a 15-year system life (NJ's SREC program now runs on a successor called TREC, but legacy systems still trade), total SREC income approaches $30,000–$40,000.
 
-**Massachusetts, 7 kW system** → ~8,400 kWh/year → ~8.4 SRECs. At $195/credit, roughly $1,638/year. Still material. After the 26% federal ITC (which in 2026 sits at 30% for residential under the Inflation Reduction Act), SREC income is a meaningful second income stream.
+**Massachusetts, 7 kW system** → ~8,400 kWh/year → ~8.4 SRECs. At $195/credit, roughly $1,638/year. Still material. SREC income is a meaningful second income stream.
 
 **Ohio, 10 kW system** → ~11,000 kWh/year → 11 SRECs. At $8/credit... $88/year. You wouldn't notice it. An installer who leads with SREC income in Ohio today is telling you something about their sales tactics.
 
