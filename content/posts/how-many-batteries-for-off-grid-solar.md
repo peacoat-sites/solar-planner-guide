@@ -25,8 +25,7 @@ faqs:
   - q: "Does the number of solar panels affect how many batteries I need?"
     a: "Indirectly, yes. More solar panels means faster recharge, which means you can potentially get away with fewer days of autonomy in your battery sizing. But panels don't store energy, batteries do. If you have three consecutive days of cloud cover, it's your battery bank that keeps the lights on, not your panel count."
 ---
-
-Most people who come to me asking about off-grid [battery sizing](/solar-battery-sizing-calculator/) have already made one of two mistakes: they've either grabbed a random number from a forum ("someone said 4 batteries is enough") or they've gotten a quote from an installer that felt suspiciously round. I've sat across the table from both types. The honest answer is that the number of batteries you need is almost entirely driven by your specific load, your location, and how many days of cloudy weather you're willing to survive on stored power alone.
+Most people asking about off-grid [battery sizing](/solar-battery-sizing-calculator/) have already made one of two mistakes: they've either grabbed a random number from a forum ("someone said 4 batteries is enough") or they've gotten a quote from an installer that felt suspiciously round. The honest answer is that the number of batteries you need is almost entirely driven by your specific load, your location, and how many days of cloudy weather you're willing to survive on stored power alone.
 
 That's not a dodge. It's just how the math works.
 

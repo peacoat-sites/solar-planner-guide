@@ -36,7 +36,7 @@ When you buy a solar system outright, or finance it with a solar loan, you own t
 
 A lease is completely different. A third-party company (SunPower, Sunrun, Tesla Energy, and others) owns the panels. They install them on your roof, and you pay a fixed monthly rate, typically somewhere between $80 and $150 per month, for the electricity they generate. Some agreements are structured as a Power Purchase Agreement, or PPA, where you pay per kilowatt-hour rather than a flat monthly fee. Either way, you don't own the equipment, you don't get the tax credit, and your contract usually runs 20 to 25 years with annual escalator clauses that bump your payment 1% to 3% per year.
 
-That escalator is the part nobody reads carefully enough. I've sat with homeowners who were shocked to realize their "$100/month lease" would cost $122/month in year 10 and $134/month in year 15. It doesn't sound catastrophic, but it quietly eats into the savings.
+That escalator clause is the part nobody reads carefully enough. A "$100/month lease" can grow to $122/month in year 10 and $134/month in year 15. It doesn't sound catastrophic, but it quietly eats into the savings.
 
 ## The Numbers Side by Side
 

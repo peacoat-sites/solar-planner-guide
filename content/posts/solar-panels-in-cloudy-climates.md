@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Seattle gets about 226 cloudy days a year. And yet it's one of the cities where I most often tell people to go solar.
 
-That probably sounds backwards. Most of what you've read about solar panels implies they're really a product for Phoenix or Miami, places where the sun is relentless and the electricity bills are punishing. You might be wondering whether panels are even worth considering if you live somewhere like Portland, Buffalo, Chicago, or the UK-adjacent corners of the Pacific Northwest. Here's what I tell people who come to me with that exact question: solar panels don't run on sunshine. They run on light. And that distinction matters more than most installers bother to explain.
+That probably sounds backwards. Most of what you've read about solar panels implies they're really a product for Phoenix or Miami, places where the sun is relentless and the electricity bills are punishing. You might be wondering whether panels are even worth considering if you live somewhere like Portland, Buffalo, Chicago, or the UK-adjacent corners of the Pacific Northwest. The key point is this: solar panels don't run on sunshine. They run on light. And that distinction matters more than most installers bother to explain.
 
 ## Why Clouds Don't Kill Solar Production
 

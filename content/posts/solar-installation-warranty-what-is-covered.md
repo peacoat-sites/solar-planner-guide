@@ -56,7 +56,7 @@ That's a real gap. The performance warranty covers individual panels, not the sy
 
 Other common exclusions I've seen buried in the fine print:
 
-- Acts of God (hail, hurricane wind damage) -- usually the domain of homeowner's insurance, not solar warranties
+- Acts of God (hail, hurricane wind damage), usually the domain of homeowner's insurance, not solar warranties
 - Damage from "improper maintenance" (this one's vague enough to be dangerous)
 - Cosmetic damage that doesn't affect output
 - Panels installed on non-permitted structures

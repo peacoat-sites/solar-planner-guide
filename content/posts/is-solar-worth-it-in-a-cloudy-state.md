@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most solar advice is written for Phoenix. Clear skies, 300 sun-days a year, and payback periods that practically sell themselves. If you live in Seattle, Cleveland, or Portland, that advice doesn't just fail you -- it can cost you tens of thousands of dollars in a bad decision.
+Most solar advice is written for Phoenix. Clear skies, 300 sun-days a year, and payback periods that practically sell themselves. If you live in Seattle, Cleveland, or Portland, that advice doesn't just fail you, it can cost you tens of thousands of dollars in a bad decision.
 
 Here's the truth most installers won't say out loud: solar can absolutely make sense in cloudy states. But the math works differently, the equipment choices matter more, and there are specific situations where I'd tell you to skip it entirely. Let me walk through all of it.
 
@@ -34,7 +34,7 @@ Here's the truth most installers won't say out loud: solar can absolutely make s
 
 The first time I ran numbers for a homeowner in western Oregon, I expected the system to barely pencil out. What I found surprised me. The system was producing about 85% of what a comparable setup in central California would generate. Not because Oregon is secretly sunny. Because modern solar panels don't need direct sunlight to generate power.
 
-They need daylight. Specifically, they work on something called peak sun hours, which is a measure of cumulative solar irradiance (total energy from the sun), not just "hours without clouds." Portland averages around 4.0 peak sun hours per day. Phoenix gets about 6.5. That's a real gap -- but it's not a dealbreaker.
+They need daylight. Specifically, they work on something called peak sun hours, which is a measure of cumulative solar irradiance (total energy from the sun), not just "hours without clouds." Portland averages around 4.0 peak sun hours per day. Phoenix gets about 6.5. That's a real gap, but it's not a dealbreaker.
 
 What installers won't always explain: panel efficiency at high temperatures drops. A hot sunny day isn't as efficient as you'd think, because silicon loses output as it heats up. Cloudy, cool climates partially compensate for their lower irradiance through better panel performance per photon. Germany, not exactly a sun belt country, gets around 3.0 to 3.5 peak sun hours daily and still generates roughly 8% of its total electricity from solar. That's a data point worth sitting with.
 
@@ -64,9 +64,9 @@ Ohio and Michigan payback periods of under 12 years look a lot better when you r
 
 Forget sun hours for a second. In cloudy states, three factors will make or break your solar economics more than cloud cover will.
 
-**Your electricity rate.** This is the single biggest lever. If you're paying $0.09/kWh in a low-rate state (parts of the Southeast), solar is a harder case to make regardless of sun. If you're in Massachusetts at $0.26/kWh, or Connecticut at $0.28/kWh, solar pencils out faster even with mediocre sun, because every kilowatt-hour your panels produce is displacing an expensive one. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) tracks average retail electricity rates by state -- look yours up before taking any installer's payback estimate at face value.
+**Your electricity rate.** This is the single biggest lever. If you're paying $0.09/kWh in a low-rate state (parts of the Southeast), solar is a harder case to make regardless of sun. If you're in Massachusetts at $0.26/kWh, or Connecticut at $0.28/kWh, solar pencils out faster even with mediocre sun, because every kilowatt-hour your panels produce is displacing an expensive one. The [U.S. Department of Energy](https://www.energy.gov/eere/solar/homeowners-guide-going-solar) tracks average retail electricity rates by state, look yours up before taking any installer's payback estimate at face value.
 
-**Net metering policy.** When your panels overproduce during a sunny afternoon, where does that power go? In states with strong net metering (Washington, New York, Illinois), your utility credits you at the full retail rate for every kilowatt-hour you export. That credit offsets what you draw from the grid at night or on cloudy days. Without net metering, or with reduced-rate net metering, you need battery storage to make the economics work -- which adds $10,000 to $15,000 to your system cost and changes everything. Michigan gutted its one-to-one net metering in 2024. Ohio's is still relatively strong. These policy differences between neighboring states matter more than 20 miles of latitude.
+**Net metering policy.** When your panels overproduce during a sunny afternoon, where does that power go? In states with strong net metering (Washington, New York, Illinois), your utility credits you at the full retail rate for every kilowatt-hour you export. That credit offsets what you draw from the grid at night or on cloudy days. Without net metering, or with reduced-rate net metering, you need battery storage to make the economics work, which adds $10,000 to $15,000 to your system cost and changes everything. Michigan gutted its one-to-one net metering in 2024. Ohio's is still relatively strong. These policy differences between neighboring states matter more than 20 miles of latitude.
 
 **Your roof situation.** South-facing roof with minimal shading is the ideal. A tree-covered west-facing roof in Seattle compounds an already-challenging irradiance environment. I'd never tell a homeowner with heavy shading that solar is worth it in a cloudy state. In sunny states, shading is a problem. In cloudy states, shading is often a project-killer.
 
@@ -74,7 +74,7 @@ Forget sun hours for a second. In cloudy states, three factors will make or brea
 
 Here's where equipment choice separates an okay system from a good one.
 
-Traditional string inverters chain your panels together. If one panel underperforms -- because a cloud shadow, a wet leaf, or a pigeon decided to sit on it -- the whole string drops to that panel's output level. In Phoenix, where most days are clear, this matters less. In Cleveland, where you're frequently dealing with partial cloud cover and variable conditions panel to panel, it matters a lot.
+Traditional string inverters chain your panels together. If one panel underperforms, because a cloud shadow, a wet leaf, or a pigeon decided to sit on it, the whole string drops to that panel's output level. In Phoenix, where most days are clear, this matters less. In Cleveland, where you're frequently dealing with partial cloud cover and variable conditions panel to panel, it matters a lot.
 
 Microinverters (Enphase is the dominant brand; IQ8 series is what most installers are deploying today) convert power at each individual panel. A shadow on one panel doesn't tank the others. In cloudy-climate installs, microinverters typically recover 5-15% more production compared to string systems under the same conditions. That gap narrows in consistently sunny climates but widens in variable ones.
 
@@ -94,7 +94,7 @@ If your roof is more than 15 years old, solar is probably the second thing you d
 
 If your utility has unfavorable net metering and you can't justify a $30,000+ system with storage, wait. Net metering policy in cloudy states is the swing factor. A few states are actively reconsidering it. Check what your utility is currently doing before committing.
 
-And honestly? If your consumption is low -- say, under 400 kWh a month -- the system size you need is small enough that the fixed soft costs (permitting, installation labor, interconnection fees) eat into your economics badly. A $12,000 system for a small household in Portland might have a 13-14 year payback. That's not catastrophic, but it's not exciting either.
+And honestly? If your consumption is low, say, under 400 kWh a month, the system size you need is small enough that the fixed soft costs (permitting, installation labor, interconnection fees) eat into your economics badly. A $12,000 system for a small household in Portland might have a 13-14 year payback. That's not catastrophic, but it's not exciting either.
 
 ## Real-World Numbers from Three Situations
 

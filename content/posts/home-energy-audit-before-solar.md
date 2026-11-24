@@ -40,7 +40,7 @@ I'll be honest: this isn't a conspiracy. Installers sell solar. That's their job
 
 That methodology works fine if your home is already tight. But if you're running a 20-year-old central air system, or you've got two inches of attic insulation when code now calls for R-38, you're baking inefficiency into your solar math permanently.
 
-One client I worked with in Phoenix had a 2,200 sq ft home pulling $340 a month in summer. The installer quoted her a 9.8 kW system. After a utility-sponsored audit found serious duct leakage and a failing HVAC blower motor, she fixed both issues for about $2,100 total. Her usage dropped enough that a 7.2 kW system covered her needs, saving her roughly $6,400 on the solar install itself, more than triple what the audit and repairs cost.
+A homeowner with a 2,200 sq ft home pulling $340 a month in summer electricity costs might receive an initial quote for a 9.8 kW solar system. A utility-sponsored audit could reveal serious duct leakage and a failing HVAC blower motor. After fixing both issues for about $2,100 total, usage might drop enough that a 7.2 kW system covers the home's needs instead, saving roughly $6,400 on the solar install itself, more than triple what the audit and repairs cost.
 
 ## What a Good Audit Actually Looks At
 

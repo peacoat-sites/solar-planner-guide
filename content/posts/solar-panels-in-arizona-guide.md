@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Arizona gets more sunshine than almost anywhere in the country. About 300 days of it per year in Phoenix alone. You'd think going solar here would be a no-brainer, and for most homeowners, it actually is. But I've talked with enough people in Scottsdale, Tucson, and Mesa to know that "Arizona is great for solar" is where the conversation starts, not where it ends.
 
-When people come to me with a stack of installer quotes and that look somewhere between excited and overwhelmed, here's what I tell them: the fundamentals really do work in your favor. But the details matter more. Your utility company, your roof age, your electric bill, your financing choice. Those are what separate a smart solar investment from a regrettable one.
+When facing a stack of installer quotes, the fundamentals really do work in your favor. But the details matter more. Your utility company, your roof age, your electric bill, your financing choice. Those are what separate a smart solar investment from a regrettable one.
 
 Let's work through it.
 

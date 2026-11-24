@@ -25,7 +25,7 @@ author_title: "Home Electrification"
 author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You're standing in your backyard, squinting at your roof, and the solar installer just handed you a quote with two options. One says "monocrystalline" and costs about 20% more. The other says "polycrystalline" and looks like it might save you a decent chunk of money upfront. The installer gave you a quick explanation, but you walked away more confused than when you started. That's exactly where most people are when they come to me, and I want to give you the honest breakdown that the quote sheet doesn't.
+When comparing solar panel quotes, you'll often see two main options: monocrystalline panels that cost about 20% more, and polycrystalline panels that look cheaper upfront. The quote sheet rarely explains the real differences between them. Here's the breakdown that matters.
 
 ## What Actually Makes These Two Panel Types Different
 
