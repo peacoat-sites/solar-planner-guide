@@ -23,7 +23,7 @@ faqs:
    a: "Yes. Canadian Solar appears on Bloomberg NEF's tier one list, which is the most commonly cited industry benchmark. Tier one status reflects bankability and manufacturing scale, not necessarily panel quality per se. It's a floor, not a ceiling."
  - q: "How long does a Canadian Solar warranty claim actually take?"
    a: "Based on real cases I've tracked, expect six to twelve weeks from claim submission to replacement panel delivery in the U.S. market. It's not fast. Document everything from day one, including photos and installer assessments, and contact both the installer and Canadian Solar directly."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Canadian Solar panels are competitive on price compared to SunPower and Qcells, with reasonable warranty coverage. Their track record over multi-year installations supports a closer look at this brand's performance and value.

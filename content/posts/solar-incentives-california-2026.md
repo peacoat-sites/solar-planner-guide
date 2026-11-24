@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Solar Financing"
 author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 California's electricity costs around 29 cents per kilowatt-hour as of early 2025. That's nearly double what most Americans pay. A solar system that takes 10 years to pay off in Ohio could be cash-positive in 6 or 7 years here in Sacramento or San Diego.
 

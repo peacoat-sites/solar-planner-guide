@@ -1,6 +1,7 @@
 ---
 title: "SunPower vs LG vs Panasonic: Which Solar Panels Perform Best"
 date: 2026-11-16T15:59:59.919711+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Compare SunPower, LG, and Panasonic solar panels on efficiency, durability, warranty, and cost to find the right fit for your home."
 image: "/img/heroes/9875683.jpg"

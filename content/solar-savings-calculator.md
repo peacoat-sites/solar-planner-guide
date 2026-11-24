@@ -3,6 +3,7 @@ title: "Solar Savings Calculator: Estimate System Cost, Payback and 25-Year Savi
 hide_title: true
 description: "Use our free solar savings calculator to estimate your system cost, annual production, payback period, and 25-year savings, customized by state."
 date: 2026-06-10
+lastmod: 2026-11-24T12:00:00Z
 slug: "solar-savings-calculator"
 author: "Patricia Moore"
 author_slug: "patricia-moore"

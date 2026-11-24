@@ -1,6 +1,7 @@
 ---
 title: "Solar Panel Wattage Explained: How to Choose the Right Size"
 date: 2026-11-22T21:54:47.237151+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how solar panel wattage works, what affects output, and how to select the right wattage for your home's energy needs."
 image: "/img/heroes/9875408.jpg"

@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Solar Financing"
 author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most homeowners I talk to are shocked when they realize the federal tax credit is only part of the story. A homeowner in Massachusetts can stack so many incentives that a $28,000 solar system ends up costing closer to $10,000 out of pocket. Meanwhile, a neighbor in a state with weak net metering laws and no state rebate might wait 12 years just to break even on the same size system. The difference isn't the panels. It's the policy.
 

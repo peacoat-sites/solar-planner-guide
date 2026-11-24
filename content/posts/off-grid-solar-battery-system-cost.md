@@ -12,7 +12,7 @@ author_title: "Installation and Permits"
 author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
 slug: "off-grid-solar-battery-system-cost"
 affiliate_disclosure: true
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most people who ask me about off-grid solar expect a simple answer. They're usually shocked when I tell them that the battery system alone, before you count a single solar panel, can easily run $15,000 to $50,000 for a full-size home. That number isn't a scare tactic. It's just math, and I think more homeowners deserve to hear it up front.
 

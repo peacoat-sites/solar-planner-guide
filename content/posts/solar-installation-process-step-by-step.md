@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Home Electrification"
 author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Many homeowners think the hardest part of going solar is deciding to do it. Then they sign the contract and realize there's a whole other journey ahead of them, typically taking 2 to 4 months before a single panel produces a single kilowatt-hour. Without clear guidance on what's happening behind the scenes, the timeline can feel surprising and stressful. Here's a breakdown of what the solar installation process actually looks like from contract to first power bill.
 

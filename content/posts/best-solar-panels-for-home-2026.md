@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Solar Financing"
 author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most homeowners spend more time comparing refrigerators than solar panels. That's a problem, because a refrigerator costs $1,200 and lasts a decade. A solar system costs $20,000-plus and sits on your roof for 25 years. The panel you pick affects every kilowatt-hour you produce for the next quarter-century, and yet most installers will steer you toward whatever they have in stock. Here's what actually matters when choosing the best solar panels for your home in 2026.
 

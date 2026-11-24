@@ -1,6 +1,7 @@
 ---
 title: "Why Nearly Half of New Solar Installs Now Include a Battery"
 date: 2026-07-23T09:35:35.333124+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover why battery storage is becoming essential for solar systems. Learn about cost reductions, energy independence, and grid resilience driving adoption rat"
 image: "/img/heroes/12243093.jpg"

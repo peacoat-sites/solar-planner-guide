@@ -12,7 +12,7 @@ author_title: "Home Electrification"
 author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "the-prepaid-solar-lease-is-now-the-smartest-way-to-go-solar"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most solar coverage right now is either doom-and-gloom about the tax credit dying or cheerful nonsense about how "solar is still worth it!" Neither is useful. Here's what's actually happening: a financing structure that's been around for years just became, arguably, the best way to go solar in America. And it has a hard expiration date of July 4, 2026.
 

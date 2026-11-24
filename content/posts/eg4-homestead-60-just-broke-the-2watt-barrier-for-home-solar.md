@@ -1,6 +1,7 @@
 ---
 title: "EG4 Homestead 60 Just Broke the $2/Watt Barrier for Home Solar"
 date: 2026-11-18T16:26:22.666521+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "EG4 Homestead 60 battery system achieves breakthrough $2/watt pricing, making home solar storage more affordable. Learn how this impacts residential energy inde"
 image: "/img/heroes/14384696.jpg"

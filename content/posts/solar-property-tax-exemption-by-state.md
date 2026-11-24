@@ -1,6 +1,7 @@
 ---
 title: "Solar Tax Exemptions by State: Where You Save the Most"
 date: 2026-11-20T16:06:24.333689+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Compare solar property tax exemptions across states. Find which states offer full exemptions, partial credits, and how to claim tax benefits for home solar inst"
 image: "/img/heroes/12284244.jpg"

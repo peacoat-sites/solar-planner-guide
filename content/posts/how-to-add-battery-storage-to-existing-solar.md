@@ -1,6 +1,7 @@
 ---
 title: "Adding Battery Storage to Solar: Options and Installation"
 date: 2026-11-22T21:51:55.177662+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how to add battery storage to your existing solar system, compare storage options, and understand installation costs and benefits."
 image: "/img/heroes/8853537.jpg"

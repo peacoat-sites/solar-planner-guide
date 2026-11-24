@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Solar Financing"
 author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 The average American household spends about $1,500 a year on electricity. Over 25 years, that's $37,500 flowing straight to your utility company, and that's before accounting for the rate increases that have averaged around 2-3% annually for the past decade. So when a solar installer quotes you $25,000 for a rooftop system, the sticker shock hits hard. But that number only tells part of the story. Here's what solar panels actually cost in 2026, and more importantly, what they'll really cost you after the dust settles.
 

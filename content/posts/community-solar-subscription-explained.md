@@ -1,7 +1,7 @@
 ---
 title: "Community Solar Subscriptions: How They Work and What You Pay"
 date: 2026-07-13T10:35:46.326133+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how community solar subscriptions let you benefit from shared solar energy without rooftop panels. See costs, savings, and eligibility requirements."
 image: "/img/heroes/7339349.jpg"

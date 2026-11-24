@@ -23,7 +23,7 @@ faqs:
     a: "This is the question people forget to ask before signing. Some subscriptions are transferable to a new address within the same utility territory. Others can be assigned to the next tenant or homeowner. Some require you to buy out the contract. Read the exit terms carefully before signing anything longer than a one-year term."
   - q: "Can I have both rooftop solar and a community solar subscription?"
     a: "Technically sometimes, but most utilities and community solar programs restrict this or limit how much net metering credit you can stack. In practice, if you have a well-sized rooftop system, a community solar subscription adds little value. They're generally alternatives, not complements."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Most articles on this topic spend three paragraphs explaining what solar panels are before getting to anything useful. Let's skip that.

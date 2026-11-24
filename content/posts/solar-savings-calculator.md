@@ -1,7 +1,7 @@
 ---
 title: "Solar Savings Calculator: Estimate Your Annual Costs"
 date: 2026-07-19T09:16:14.830232+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Use a solar savings calculator to see potential energy bill reductions and determine if solar panels make financial sense for your home."
 image: "/img/heroes/7339349.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "Then you have four options: accept partial offset, use higher-wattage panels to maximize limited space, consider a ground mount if you have yard space, or reduce your electricity consumption first (LED lighting, efficient appliances, better insulation) to shrink the required system size. Demand reduction often has better ROI than the incremental solar capacity anyway."
  - q: "How many solar panels do I need for a 2,000-square-foot house?"
    a: "There's no reliable answer to this question because square footage doesn't determine electricity use. A 2,000-square-foot house in Minnesota with gas heat and no pool might use 8,000 kWh per year. The same-sized house in Texas with electric everything might use 18,000. Get your actual annual kWh from your utility bill. That number tells you everything; the square footage tells you almost nothing."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Most solar calculators are built by installers who want to sell you a system. That's not a conspiracy theory, it's just business. When the default output of a "free calculator" is always "yes, solar makes sense for you," you should wonder what variable they're rounding in your favor.

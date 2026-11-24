@@ -1,6 +1,7 @@
 ---
 title: "Solar Panels and Roof Replacement: $6,000 Timing Strategy"
 date: 2026-07-26T09:22:43.354623+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn when to replace your roof before installing solar panels. Avoid costly mistakes and maximize your energy investment with expert timing."
 image: "/img/heroes/9875679.jpg"

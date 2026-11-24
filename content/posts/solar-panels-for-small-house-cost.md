@@ -1,7 +1,7 @@
 ---
 title: "Solar Panels for Small Houses: $11,000 to $17,000 Installation"
 date: 2026-07-22T09:39:50.752496+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn real costs for solar panel installation on small homes, from system sizes to financing options and long-term savings."
 image: "/img/heroes/11645008.jpg"

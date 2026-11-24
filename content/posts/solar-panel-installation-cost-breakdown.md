@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "System Design"
 author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 The average American homeowner gets three solar quotes and picks the middle one. It feels safe. But here's the real problem: most people have no idea what they're actually paying for, which means they can't tell if the middle quote is fair, inflated, or missing something critical. A $28,000 quote and a $19,000 quote for the "same" 8 kW system can both be legitimate, or one can be a complete rip-off. You won't know until you understand what's bundled into that number.
 

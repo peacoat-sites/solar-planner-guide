@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Home Electrification"
 author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 A $340 electric bill is often the moment homeowners start seriously thinking about solar, and it's a reasonable instinct. Texas gets more solar irradiance than almost any other state, ERCOT rates have been volatile enough to make grown adults cry, and the economics can be genuinely compelling. But "Texas is great for solar" is also a sales pitch. Many homeowners sign agreements without fully understanding what their actual numbers look like.
 

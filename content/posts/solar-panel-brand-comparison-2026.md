@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Home Electrification"
 author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most homeowners spend more time picking a refrigerator than picking their solar panels. That's a real problem. The panels you choose will be bolted to your roof for 25 to 30 years, and the gap between a mediocre brand and a great one can cost you thousands in lost production, a warranty claim that evaporates into nothing, or a company that simply doesn't exist when something breaks in year 12.
 

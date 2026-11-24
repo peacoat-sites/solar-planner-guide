@@ -1,6 +1,7 @@
 ---
 title: "What the Walmart-Base Power Battery Deal Means for Solar Homeowners"
 date: 2026-11-16T16:02:33.141631+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Walmart and Base Power's battery partnership could reshape solar energy storage for homeowners. Learn how this deal affects costs, technology, and your solar in"
 image: "/img/heroes/13068371.jpg"

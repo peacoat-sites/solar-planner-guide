@@ -1,7 +1,7 @@
 ---
 title: "Solar Panels in Colorado: Your Complete Installation Guide"
 date: 2026-07-21T09:39:14.345967+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how to install solar panels in Colorado, including costs, incentives, best practices, and what to expect from Colorado's climate and energy market."
 image: "/img/heroes/38021376.jpg"

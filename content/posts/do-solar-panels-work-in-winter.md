@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Home Electrification"
 author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Picture this: it's January, there's six inches of snow on your roof, the sun sets at 4:30 PM, and your solar installer is telling you your panels are still generating power. You probably think they're just trying to keep you happy. I thought the same thing. But after spending time digging into actual production data and talking to homeowners from Minnesota to Maine, I'll be honest: winter solar performance surprised me more than almost any other topic I've researched in this industry.
 

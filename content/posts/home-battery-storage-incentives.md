@@ -1,7 +1,7 @@
 ---
 title: "Get Up to $25,000 for Home Battery Storage"
 date: 2026-08-10T08:49:59.451859+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover federal and state incentives worth thousands for installing home battery storage systems. Learn which programs apply to you."
 image: "/img/heroes/38040017.jpg"

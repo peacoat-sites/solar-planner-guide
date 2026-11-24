@@ -1,7 +1,7 @@
 ---
 title: "Solar and HVAC Upgrades: 70% Savings Potential"
 date: 2026-08-13T08:41:53.577152+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover how combining solar panels with HVAC upgrades can maximize energy savings and reduce your utility bills significantly."
 image: "/img/heroes/30440447.jpg"

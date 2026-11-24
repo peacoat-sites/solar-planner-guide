@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Solar Financing"
 author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 It's 2 a.m. during a winter storm and your neighborhood goes dark. Your neighbors are scrambling for flashlights, the heat's cut out, and someone's insulin is sitting in a refrigerator that stopped running an hour ago. Your house, though? Lights on. Fridge humming. You slept through the whole thing.
 

@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy"
 author_bio: "Patricia Moore is the byline used at Solar Planner Guide for articles on incentives, net metering and state solar policy. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 If you're a New York homeowner and your electricity bill has hit $200 a month, you're probably doing the math on solar. Here's the number that should grab you: the average New York residential installation runs $28,000 to $35,000 before incentives. New York offers its own 25% state credit, a property tax exemption, and a sales tax exemption. The incentive stack in New York remains strong. Note that the 30% federal tax credit for homeowner-installed solar (IRC Section 25D) is no longer available for systems whose installation was completed after December 31, 2025, so the after-incentive figures that combined the federal and state credits no longer apply to new installations. Knowing exactly how the remaining incentives work can mean the difference between a system that pays for itself in 8 years versus 13.
 

@@ -23,7 +23,7 @@ author: "Nadia Patel"
 author_slug: "nadia-patel"
 author_title: "Home Electrification"
 author_bio: "Nadia Patel is the byline used at Solar Planner Guide for articles on solar alongside home electrification and household energy use. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Your neighbor's $14 electricity bill versus your $220 one. That's the question that kicks off most solar conversations, and it's the right one to ask, just not always in the way people ask it. The honest answer depends on numbers most solar salespeople won't sit down and walk through carefully. So let's actually do that.
 

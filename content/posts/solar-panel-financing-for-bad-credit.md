@@ -23,7 +23,7 @@ faqs:
     a: "A solar lease doesn't typically affect refinancing the way a PACE lien does, but it does complicate home sales. The buyer has to either assume the lease or you pay it off at closing. Lenders reviewing your refinance may count the lease payment as a liability. It's not disqualifying, but it adds paperwork and occasionally headaches."
   - q: "Is PACE financing actually worth it for bad credit borrowers?"
     a: "The research here is genuinely mixed. PACE makes solar accessible to people who have no other path, which is real value. But the interest rates are higher than conventional solar loans, the lien structure carries risks if you sell or refinance, and some states have passed consumer protection restrictions on PACE after complaints about aggressive sales practices. Go in knowing what you're agreeing to, especially the lien terms, before signing anything."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 A bad credit score doesn't automatically disqualify you from going solar. It makes things harder, yes. It costs you more, absolutely. But the path exists. Homeowners with scores in the low 600s have financed panels for less than they were paying in utility bills.

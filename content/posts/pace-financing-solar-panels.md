@@ -1,7 +1,7 @@
 ---
 title: "PACE Financing for Solar Panels: How It Works"
 date: 2026-08-12T08:38:48.533383+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Explore PACE financing options for solar panel installation. Learn how Property Assessed Clean Energy programs can help fund your solar energy system."
 image: "/img/heroes/38171120.jpg"

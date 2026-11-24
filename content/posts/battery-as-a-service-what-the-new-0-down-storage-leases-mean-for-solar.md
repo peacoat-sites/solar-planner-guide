@@ -1,7 +1,7 @@
 ---
 title: "Battery-as-a-Service: What the New $0-Down Storage Leases Mean for Solar Sizing"
 date: 2026-07-25T09:10:08.528714+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Battery-as-a-Service solar storage leases eliminate upfront costs. Learn how $0-down battery programs change solar system sizing decisions and maximize your sav"
 image: "/img/heroes/36085816.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Solar Generator vs Home Battery: $500-$3,500 Comparison"
 date: 2026-11-22T15:16:11.417102+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Compare solar generators and home batteries: costs, capacity, efficiency, and which backup power solution works best for your needs."
 image: "/img/heroes/30440512.jpg"

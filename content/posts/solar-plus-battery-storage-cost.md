@@ -23,7 +23,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation and Permits"
 author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most homeowners assume adding a battery will roughly double the cost of a solar quote. This misconception often derails projects. The reality is more complex: upfront costs may be higher than expected, but the actual value can exceed simple math. Battery payback depends heavily on local rates and usage patterns.
 

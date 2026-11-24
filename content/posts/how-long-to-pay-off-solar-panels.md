@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "System Design"
 author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 The average American homeowner installs a solar system that costs around $30,000 before incentives. Many people assume they'll be saving money from day one. Sometimes that's true. But clients with that exact system can take anywhere from 6 years to 14 years to fully pay it off, depending on factors their installer never brought up. The payback period is the most important number in solar, and it's also the most misunderstood.
 

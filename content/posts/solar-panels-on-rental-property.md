@@ -1,7 +1,7 @@
 ---
 title: "Solar Panels on Rental Property: $25,000 Investment Breakdown"
 date: 2026-07-24T09:30:35.011042+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how solar panels work on rental properties, from installation costs to tax incentives and tenant considerations for landlords."
 image: "/img/heroes/9875680.jpg"

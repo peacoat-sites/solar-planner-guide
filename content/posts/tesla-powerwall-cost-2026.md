@@ -23,7 +23,7 @@ author: "Patricia Moore"
 author_slug: "patricia-moore"
 author_title: "Solar Policy"
 author_bio: "Patricia Moore is the byline used at Solar Planner Guide for articles on incentives, net metering and state solar policy. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most people searching for Tesla Powerwall pricing find a number, feel good about it, and then discover at installation that the real cost was 40% higher. That gap between the sticker price and the check you actually write is where most solar coverage fails you. Let's close it.
 

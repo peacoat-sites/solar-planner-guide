@@ -1,6 +1,7 @@
 ---
 title: "Home Battery Storage Payback Period: When You Break Even"
 date: 2026-11-23T19:13:31.888464+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Calculate how long it takes to recoup your home battery investment. Learn what factors affect payback timelines and if storage makes financial sense."
 image: "/img/heroes/9875683.jpg"

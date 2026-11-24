@@ -11,7 +11,7 @@ author: "Derek Hansen"
 author_slug: "derek-hansen"
 author_title: "Installation and Permits"
 author_bio: "Derek Hansen is the byline used at Solar Planner Guide for articles on installation, permitting and utility interconnection. It is a pen name, not a licensed installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 You've finally decided to go solar. The utility bills are too high, the environmental benefits are compelling, and your neighbor just installed panels and won't stop talking about how great they are. But then you sit down with a solar installer and suddenly you're staring at a menu of financing options that sounds more like a financial exam than a home improvement project. Solar loan? Solar lease? Power Purchase Agreement? What does any of this actually mean for your wallet, your home, and your long-term energy future?
 

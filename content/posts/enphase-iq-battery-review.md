@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "System Design"
 author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 You've just gotten three solar-plus-storage quotes, and every single installer is pushing the Enphase IQ Battery. One says it's "the most reliable system on the market." Another calls it "the best fit for microinverter setups." The third hands you a glossy brochure and circles the 10-year warranty. What none of them mention is how the system actually performs when the grid goes down at 2 a.m., whether the usable capacity matches the spec sheet, or why some homeowners end up underwhelmed despite spending $10,000 or more on storage. That's what we're going to get into here.
 

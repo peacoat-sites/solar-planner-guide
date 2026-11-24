@@ -1,6 +1,7 @@
 ---
 title: "Solar Panel Savings Per Month: What to Actually Expect"
 date: 2026-11-21T15:19:59.894994+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover how much you can realistically save monthly with solar panels, including factors that affect your actual savings and ROI."
 image: "/img/heroes/9875683.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Solar Grants for Homeowners: Get Up to $24,000"
 date: 2026-07-15T09:22:51.051009+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover how homeowners can access solar grants and state incentives worth thousands. Learn eligibility requirements and application deadlines."
 image: "/img/heroes/9875683.jpg"

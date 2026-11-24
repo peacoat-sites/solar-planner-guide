@@ -23,7 +23,7 @@ author: "Alex Rivera"
 author_slug: "alex-rivera"
 author_title: "System Design"
 author_bio: "Alex Rivera is the byline used at Solar Planner Guide for articles on solar system sizing and design. It is a pen name, not an engineer or installer; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Install a $15,000 home battery system and the federal government gives you $3,750 back at tax time. That was what the Residential Clean Energy Credit did, but it cannot be claimed for installations completed after December 31, 2025. Some homeowners already bought a battery and missed the credit entirely because they didn't plan ahead.
 

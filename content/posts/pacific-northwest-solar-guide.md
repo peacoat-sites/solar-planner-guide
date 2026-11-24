@@ -1,7 +1,7 @@
 ---
 title: "Solar in the Pacific Northwest: What Homeowners Need to Know"
 date: 2026-08-11T08:14:56.477495+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover how solar works in cloudy climates, system costs, incentives, and best practices for Pacific Northwest homes."
 image: "/img/heroes/9799702.jpg"

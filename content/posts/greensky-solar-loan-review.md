@@ -1,6 +1,7 @@
 ---
 title: "GreenSky Solar Loans: Rates, Terms, and What to Know"
 date: 2026-11-17T16:53:06.715945+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Review of GreenSky solar financing options, including loan terms, interest rates, approval process, and how it compares to other solar lending choices."
 image: "/img/heroes/9875679.jpg"

@@ -23,7 +23,7 @@ author: "Craig Stevens"
 author_slug: "craig-stevens"
 author_title: "Solar Financing"
 author_bio: "Craig Stevens is the byline used at Solar Planner Guide for articles on solar loans, leases, power purchase agreements and tax credits. It is a pen name, not a financial advisor; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 Three quotes just landed on your kitchen table. One says $2.40 per watt. Another says $3.80. Same roof. Same neighborhood. Same equipment, supposedly. This isn't a sales gimmick or a mistake. It's just how solar pricing works in 2026, and if you don't get it, you'll either overpay or make a decision you regret later.
 

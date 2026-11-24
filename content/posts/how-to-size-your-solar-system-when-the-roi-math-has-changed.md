@@ -1,6 +1,7 @@
 ---
 title: "How to Size Your Solar System When the ROI Math Has Changed"
 date: 2026-07-31T09:52:01.313367+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Here's a meta description for that article:
 

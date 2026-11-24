@@ -1,7 +1,7 @@
 ---
 title: "REC Solar Panels: 97.2% Efficiency Rating Explained"
 date: 2026-07-14T09:16:01.179260+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn why REC solar panels rank among the best. We review efficiency ratings, durability, warranty coverage, and real-world performance data."
 image: "/img/heroes/6961112.jpg"
