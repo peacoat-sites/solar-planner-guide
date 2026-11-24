@@ -845,6 +845,7 @@ Writing rules (follow every one):
 - Add something the top search results usually lack: a decision rule ("if X, do Y"), a worked calculation with stated assumptions, the exact order of steps with what can go wrong at each, or who should NOT do this and why.
 - Never invent personal anecdotes, clients, patients, reader emails, conversations, or events, and never claim the author did, saw, tested, or experienced anything specific. General professional judgment is fine ("a common mistake is...", "most people in this situation..."). If a scenario helps, label it clearly as a hypothetical, starting the paragraph with "**Illustration:**". Make sections practical with concrete, verifiable detail instead.
 - Only name a study, report, survey, book, rule, product, or statistic you are confident actually exists, with its correct source or maker. Official figures (rates, limits, fees, prices, dates) must be values you are sure are current and correct; if unsure, explain the idea and point readers to the official source instead of stating a number. Never invent figures.
+- FEDERAL SOLAR CREDIT FACTS (current law): the 30% Residential Clean Energy Credit (Section 25D) cannot be claimed for expenditures made after December 31, 2025 (Public Law 119-21); the IRS treats the expenditure as made when installation is completed. Homeowner-owned solar and batteries installed in 2026 or later get NO federal tax credit. Never say or imply a homeowner can claim it for a 2026 or later install, never cite a 2032-2034 schedule, and never subtract a federal credit in cost or payback math for a current purchase. Systems installed by the end of 2025 are claimed on Form 5695 for that year and unused credit carries forward. Leases and PPAs can benefit only indirectly, through the owner's Section 48E business credit. State incentives, rebates, net metering and tax exemptions are separate.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
@@ -1696,6 +1697,9 @@ def _depersona(content: str, niche: str) -> str:
     return content
 
 
+SOLAR_CREDIT_FACTS = "FEDERAL SOLAR CREDIT FACTS (current law): the 30% Residential Clean Energy Credit (Section 25D) cannot be claimed for expenditures made after December 31, 2025 (Public Law 119-21); the IRS treats the expenditure as made when installation is completed. Homeowner-owned solar and batteries installed in 2026 or later get NO federal tax credit. Never say or imply a homeowner can claim it for a 2026 or later install, never cite a 2032-2034 schedule, and never subtract a federal credit in cost or payback math for a current purchase. Systems installed by the end of 2025 are claimed on Form 5695 for that year and unused credit carries forward. Leases and PPAs can benefit only indirectly, through the owner's Section 48E business credit. State incentives, rebates, net metering and tax exemptions are separate."
+
+
 def _fact_check(content: str, niche: str) -> str:
     """Second pass: correct or soften unverifiable claims before publishing. Fails open."""
     try:
@@ -1711,7 +1715,7 @@ def _fact_check(content: str, niche: str) -> str:
             "Each find must be ONE complete sentence copied exactly, and each replace must be the complete rewritten sentence that "
             "reads correctly in context (never a fragment), or \"\" to delete a sentence that says nothing once the claim is removed. Check who makes or owns every named product or company. "
             "Do not change style, headings, or anything correct. "
-            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\nARTICLE:\n" + content
+            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\n" + SOLAR_CREDIT_FACTS + " Treat any statement that contradicts these facts as wrong and fix it.\n\nARTICLE:\n" + content
         )
         msg = client.messages.create(model="claude-sonnet-4-6", max_tokens=3000,
                                      messages=[{"role": "user", "content": prompt}])
