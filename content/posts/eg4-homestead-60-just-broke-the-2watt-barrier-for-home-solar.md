@@ -21,7 +21,6 @@ The 30% federal 25D residential clean energy credit has ended for systems whose 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">EG4 Homestead 60 prices solar at $1.20/watt vs. a 2026 national installed average of $2.50–$3.50/watt</li><li style="margin:5px 0">Full system (14.4 kW solar + 60 kWh storage) starts at $20,499; storage costs $342/usable kWh</li><li style="margin:5px 0">The 30% federal 25D residential clean energy credit ended for installations completed after December 31, 2025 and is no longer available for homeowner-owned systems installed in 2026 or later</li><li style="margin:5px 0">System is FEOC-compliant, preserving eligibility for any future federal incentives tied to IRA sourcing rules</li><li style="margin:5px 0">Shipments start Q1 2027; a $5,000 deposit reserves your place in the queue</li></ul></div>
 
-
 ## What You Get for $20,499
 
 The Homestead 60 is prewired and preassembled, which is not a small thing. Most DIY solar kits hand you a pile of components and a manual. EG4 ships four ground-mount racks with the solar array and battery storage already integrated at the factory level, according to the product listing on Signature Solar's site. That cuts installation labor significantly, at least in theory.
@@ -78,4 +77,3 @@ The EG4 Homestead 60 doesn't fix every problem in residential solar economics, a
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

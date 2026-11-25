@@ -21,9 +21,7 @@ If you've been sitting on a solar quote for the last year or two, waiting to see
 
 Here's the honest situation: BloombergNEF projects U.S. residential solar additions will fall to just 4.1 GW in 2026, down 15% from 2025 and the lowest level in five years. Roth Capital Partners put an even sharper number on it, projecting a 33% year-over-year drop in residential volume. When installers are hurting for business, the pressure to sell you a bigger system than you need gets worse, not better. This is exactly the moment to understand how to size a system for the financial reality you're actually in, not the one that existed in 2024.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 30% federal solar tax credit expired December 31, 2025, leaving cash and loan buyers with $0 in federal incentives.</li><li style="margin:5px 0">Without the credit, average payback periods stretch from ~7 years to ~9 years, per Infinity Solar's June 2026 analysis.</li><li style="margin:5px 0">Losing the credit means paying ~43% more out-of-pocket for the same system size.</li><li style="margin:5px 0">BloombergNEF projects residential solar additions will hit a 5-year low of 4.1 GW in 2026.</li><li style="margin:5px 0">Right-sizing down from the recent 7.4 kW median can restore payback timelines closer to pre-credit-loss levels.</li></ul></div>
-
 
 ## The Out-of-Pocket Shock Is Real, and the Numbers Explain Why
 
@@ -55,9 +53,7 @@ With the federal credit gone, state and utility programs have become the primary
 
 Florida is the standout story right now. BloombergNEF projects Florida's residential solar additions will hit 710 MW in 2026, a 62% increase over last year, driven by a sweeping permitting reform law that took effect in summer 2025. That law cut permitting timelines dramatically, which lowers soft costs for installers and, eventually, prices for homeowners. If you're in Florida, you're in an unusually good position heading into the second half of 2026.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Projected 2026 Residential Solar Additions</div><div class="sc-row"><span class="sc-label">U.S. Total</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">4.1 GW</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">0.7 GW</span></div><div class="sc-src">Source: BloombergNEF, June 2026</div></div>
-
 
 Outside of Florida, look hard at your state's net metering policy before you size anything. Net metering rules determine what your utility pays you for excess power you push back to the grid. Several states have weakened these rules in the last two years. If your utility offers a low buy-back rate, oversizing your system just means producing cheap power you're giving away at a discount. That makes the case for a smaller, tighter system even stronger.
 
@@ -92,4 +88,3 @@ The solar market in mid-2026 is harder than it was two years ago. That's just tr
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

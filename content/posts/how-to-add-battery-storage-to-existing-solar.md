@@ -32,7 +32,6 @@ The federal residential clean energy credit ([IRS Form 5695](/irs-form-5695-sola
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Your existing inverter type (string, microinverter, or hybrid) is the single biggest factor determining which batteries work and what retrofitting costs.</li><li style="margin:5px 0">The 30% federal tax credit (Form 5695) for retrofit batteries charged by solar ended for installations completed after December 31, 2025.</li><li style="margin:5px 0">Expect total installed costs of $10,000–$20,000 for one to two battery units before incentives.</li><li style="margin:5px 0">AC-coupled systems work with almost any existing solar setup but add conversion losses of roughly 5–10%.</li><li style="margin:5px 0">Some utilities cap export or change rate structures when you add storage, check before you buy.</li></ul></div>
 
-
 ## Inverter Compatibility: The Part That Changes Everything
 
 Most homeowners shopping for batteries focus on brand names and capacity. That's backwards. The first thing to determine is whether your existing solar inverter is a string inverter, a hybrid (battery-ready) inverter, or whether you have microinverters or DC optimizers on each panel.
@@ -101,7 +100,6 @@ If you want to compare how financing this addition stacks up against paying cash
 
 ---
 
-
 *Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*
 
 ---
@@ -113,4 +111,3 @@ If you want to compare how financing this addition stacks up against paying cash
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
-

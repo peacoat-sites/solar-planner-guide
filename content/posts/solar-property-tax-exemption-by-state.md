@@ -30,9 +30,7 @@ Most homeowners don't realize that adding solar panels can trigger a property ta
 
 This matters more than people think. A typical residential solar installation adds roughly $15,000 to $25,000 in home value, according to [EnergySage's market data](https://news.energysage.com/). Without an exemption, that bump gets assessed at your local property tax rate. At 1.2% (a rough national average), that's $180 to $300 in extra taxes every year for as long as you own the home. Over 20 years, the exemption is worth $3,600 to $6,000 in today's dollars, before any rate increases.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">36 states + D.C. offer some form of solar property tax exemption, but coverage varies widely.</li><li style="margin:5px 0">Without an exemption, a $20,000 solar system could add $200+ to your annual property tax bill.</li><li style="margin:5px 0">Some states exempt 100% of added solar value; others cap the exemption or set time limits.</li><li style="margin:5px 0">You often need to file paperwork proactively, the exemption rarely applies automatically.</li><li style="margin:5px 0">A few states (notably California) exclude solar through other mechanisms, not a formal exemption.</li></ul></div>
-
 
 ## How the exemptions actually work
 
@@ -97,7 +95,6 @@ If you want to track your system's output and verify it's performing as expected
 
 ---
 
-
 *Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*
 
 ---
@@ -108,4 +105,3 @@ If you want to track your system's output and verify it's performing as expected
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

@@ -32,7 +32,6 @@ The good news: this is not a guessing game. You can build a reasonable estimate 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Average U.S. solar savings run $100–$150/month, but location and utility rates drive the real number.</li><li style="margin:5px 0">States with high electricity rates (CA, MA, CT, NY) typically see $150–$300+/month in savings.</li><li style="margin:5px 0">A correctly sized system offsets 70–100% of annual usage; oversizing wastes money on excess generation you may not get paid for.</li><li style="margin:5px 0">The federal 30% Residential Clean Energy Credit (ITC) is no longer available for homeowner-owned systems installed after December 31, 2025.</li><li style="margin:5px 0">Payback periods today average 7–10 years nationally, per EnergySage market data.</li></ul></div>
 
-
 ## What Actually Drives Your Monthly Savings
 
 Start with your utility rate. The national average residential electricity rate is around 16–17 cents per kilowatt-hour, but that number hides a lot. Connecticut and Massachusetts customers regularly pay 25–30 cents. California's tiered rates can exceed 35 cents in upper tiers. If you're in one of those states, solar math looks fantastic. If you're in Louisiana or Washington state, where rates sit closer to 9–11 cents, the numbers are tighter and payback takes longer.
@@ -96,7 +95,6 @@ One step most people skip: check your utility's interconnection queue wait time 
 
 ---
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
@@ -108,4 +106,3 @@ One step most people skip: check your utility's interconnection queue wait time 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

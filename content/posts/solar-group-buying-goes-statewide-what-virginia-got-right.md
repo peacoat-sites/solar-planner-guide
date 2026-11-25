@@ -20,9 +20,7 @@ Governor Abigail Spanberger announced the Switch Together program as the first s
 
 The program runs through a partnership between Solar United Neighbors, the D.C.-based nonprofit, and iChoosr, a Dutch group-buying platform that has run similar campaigns in Europe and select U.S. cities. No state dollars required.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Virginia's Switch Together program launched statewide July 13, 2026, the first of its kind in the U.S.</li><li style="margin:5px 0">The reverse-auction model cuts average installation costs by 23%, roughly $6,300 on a 9 kW system.</li><li style="margin:5px 0">Homeowners can register free through October 15, 2026; no purchase commitment required to sign up.</li><li style="margin:5px 0">The program estimates $2,200 per year in electricity savings per participating household.</li><li style="margin:5px 0">Switch Together costs the state nothing, funded through the iChoosr and Solar United Neighbors partnership.</li></ul></div>
-
 
 ## Why the Reverse Auction Actually Works
 
@@ -60,9 +58,7 @@ Nationally, more than 101,800 households have registered for Switch Together pro
 
 The replication case is strong because the cost structure is so clean. No state appropriation. No bureaucracy to stand up. Solar United Neighbors and iChoosr bring the infrastructure; the state brings the megaphone and the data partnerships to identify eligible households. A governor's office announcement plus a functional website is most of what's required on the government side.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Switch Together: Cost vs. savings by scenario</div><div class="sc-row"><span class="sc-label">Open market cost (9kW)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$27,000</span></div><div class="sc-row"><span class="sc-label">Switch Together cost (9kW)</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">$20,700</span></div><div class="sc-row"><span class="sc-label">Annual savings: open market</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">$1,650</span></div><div class="sc-row"><span class="sc-label">Annual savings: Switch Together</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">$2,200</span></div><div class="sc-src">Source: Virginia Governor's Office, U.S. Dept. of Treasury, EnergySage 2025</div></div>
-
 
 States watching Virginia right now include some with aggressive renewable targets and no obvious state-funded incentive pipeline to replace the federal credit. The Virginia Mercury noted on July 13 that the program is specifically designed to help residents "trim electric bills" at a moment when utility rates are climbing. That framing isn't accidental. This is a political win that's also substantively useful, a combination that tends to travel.
 
@@ -87,4 +83,3 @@ Virginia's experiment is only weeks old. The October 15 deadline will tell us ho
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

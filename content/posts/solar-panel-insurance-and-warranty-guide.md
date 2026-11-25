@@ -29,9 +29,7 @@ faqs:
 
 The short version: you'll typically have three separate warranties on a residential solar system (equipment, performance, and workmanship), plus two distinct insurance questions (does your homeowner's policy cover the panels, and do you need separate solar-specific coverage?). None of these automatically cover everything, and they don't all come from the same place.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most solar panels carry a 25-year performance warranty, but the guarantee is often only 80% of rated output at year 25.</li><li style="margin:5px 0">Equipment (product) warranties and performance warranties are different documents with different terms, read both.</li><li style="margin:5px 0">Homeowner's insurance usually covers solar panels, but you may need to increase your dwelling coverage limit.</li><li style="margin:5px 0">Installer workmanship warranties vary from 1 to 10+ years; this is one of the biggest differentiators between installers.</li><li style="margin:5px 0">If your installer goes out of business, your workmanship warranty may be worthless unless backed by a third party.</li></ul></div>
-
 
 ## The Three Warranties You'll Actually Receive
 
@@ -90,7 +88,6 @@ Most people don't read the warranty document until something breaks. By then it'
 
 ---
 
-
 *Photo: [Lena Netkach](https://www.pexels.com/@lena-netkach-395486) via Pexels*
 
 ---
@@ -101,4 +98,3 @@ Most people don't read the warranty document until something breaks. By then it'
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

@@ -30,9 +30,7 @@ GreenSky solar loans are worth a close look, but they're not the right fit for e
 
 GreenSky is a financial technology company that partners with home improvement contractors, solar installers among them, to offer point-of-sale financing. You don't apply through a bank's website or a solar marketplace. You apply through the contractor, which creates a dynamic worth understanding: the installer picks the lender, not you. That alone should prompt a few questions.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">GreenSky offers promotional 0% APR periods, but deferred interest can apply if the balance isn't paid in full by the deadline.</li><li style="margin:5px 0">Loan amounts typically range from $1,000 to $65,000, covering most residential solar installs.</li><li style="margin:5px 0">GreenSky loans are unsecured, so your home equity is not at risk, but rates for non-promo plans can exceed 20% APR.</li><li style="margin:5px 0">You can only access GreenSky through a contractor partner, not directly, limiting your ability to shop around.</li><li style="margin:5px 0">For homeowners who qualify for a home equity loan or PACE financing, GreenSky may not be the cheapest path.</li></ul></div>
-
 
 ## How GreenSky Solar Loans Actually Work
 
@@ -88,7 +86,6 @@ If you want to monitor your solar system's performance alongside your loan balan
 
 ---
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
@@ -99,4 +96,3 @@ If you want to monitor your solar system's performance alongside your loan balan
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

@@ -32,7 +32,6 @@ A solar generator is essentially a portable power station with a built-in batter
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solar generators are portable, affordable ($500–$3,500), and best for outages under 24 hours or off-grid use.</li><li style="margin:5px 0">Home batteries (Powerwall 3, Enphase IQ) are fixed systems costing $10,000–$18,000 installed, designed for whole-home backup and solar self-consumption.</li><li style="margin:5px 0">The federal 30% Investment Tax Credit for homeowner-owned home batteries is no longer available for systems installed after December 31, 2025; most portable solar generators did not qualify either.</li><li style="margin:5px 0">If your outages last more than a day or you have rooftop solar, a home battery almost always wins on value.</li><li style="margin:5px 0">Capacity is not the same as usable capacity, check both numbers before comparing products.</li></ul></div>
 
-
 ## What You're Actually Comparing
 
 The core difference isn't really about solar panels. It's about how much energy you can store, how fast you can discharge it, and how the system integrates with your home.
@@ -93,7 +92,6 @@ Also, peak vs. continuous output is a real distinction. A unit that claims "3,60
 
 ---
 
-
 *Photo: [Budget Bizar](https://www.pexels.com/@budget-bizar-92378004) via Pexels*
 
 ---
@@ -106,4 +104,3 @@ Also, peak vs. continuous output is a real distinction. A unit that claims "3,60
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
 - **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599), 1002Wh portable power station with three 1000W AC outlets, one of the best-reviewed solar generators on Amazon.
-

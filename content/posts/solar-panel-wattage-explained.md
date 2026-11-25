@@ -30,9 +30,7 @@ faqs:
 
 Wattage, technically called "rated power" or "peak power output," tells you how many watts a panel generates under Standard Test Conditions (STC): 1,000 watts of irradiance per square meter, 25°C cell temperature, and 1.5 air mass spectrum. Real-world output is always lower. How much lower depends on your climate, roof angle, shading, and the ambient temperature where you live. This gap is not a flaw or a dealer trick. It's physics.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Residential panels today typically range from 370W to 450W; premium models reach 500W+.</li><li style="margin:5px 0">STC ratings overstate real output; expect 75–85% of rated wattage under typical conditions.</li><li style="margin:5px 0">More watts per panel means fewer panels needed, but higher upfront cost per unit.</li><li style="margin:5px 0">System wattage (all panels combined) matters more for sizing than any single panel's rating.</li><li style="margin:5px 0">A 10 kW system (10,000W) covers roughly 900–1,100 kWh/month depending on sun hours.</li></ul></div>
-
 
 ## What "rated wattage" actually means
 
@@ -95,7 +93,6 @@ A 10 kW DC system (say, 25 panels at 400W) will push through roughly 9.4–9.8 k
 
 ---
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
@@ -106,4 +103,3 @@ A 10 kW DC system (say, 25 panels at 400W) will push through roughly 9.4–9.8 k
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
-

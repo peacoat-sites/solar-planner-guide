@@ -20,9 +20,7 @@ That's the short version. The long version matters, because getting this wrong i
 
 A quick note on federal incentives: the 30% Residential Clean Energy Credit (Section 25D) expired for systems installed after December 31, 2025 under Public Law 119-21. If you're buying solar today in 2026, there's no federal tax credit to subtract from your cost math. Some states still offer their own incentives, so check your state's energy office before assuming you're getting nothing back.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most EV drivers need 2-4 additional kW of solar panels to cover their driving miles.</li><li style="margin:5px 0">The math starts with your annual mileage divided by your EV's miles-per-kWh efficiency rating.</li><li style="margin:5px 0">Peak sun hours at your location (not daylight hours) determine how many panels convert that number to reality.</li><li style="margin:5px 0">No federal tax credit applies to solar installed in 2026 or later, state rebates and net metering still vary widely.</li><li style="margin:5px 0">A Level 2 home charger (240V) pairs far better with solar than a standard 120V outlet.</li></ul></div>
-
 
 ## The Core Calculation
 
@@ -125,4 +123,3 @@ No. The 30% Residential Clean Energy Credit (Section 25D) expired for homeowner 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

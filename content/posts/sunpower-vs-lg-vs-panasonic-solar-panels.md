@@ -32,9 +32,7 @@ The short version: SunPower is still making panels and is arguably the strongest
 
 That matters a lot before you read any spec sheet.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">LG exited solar panels in 2022; Panasonic stopped module production around the same time, neither is available new.</li><li style="margin:5px 0">SunPower survived bankruptcy restructuring and remains the primary active brand of the three.</li><li style="margin:5px 0">SunPower's Maxeon-based panels typically carry 22%+ efficiency ratings, among the highest available for residential use.</li><li style="margin:5px 0">Used LG and Panasonic panels can still be found, but warranty coverage is essentially void for new buyers.</li><li style="margin:5px 0">If you want premium efficiency today, compare SunPower against REC, Maxeon (now its own company), and Qcells.</li></ul></div>
-
 
 ## What Happened to LG and Panasonic
 
@@ -95,7 +93,6 @@ Regardless of which panels you end up with, real-time monitoring is how you catc
 
 ---
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
@@ -107,4 +104,3 @@ Regardless of which panels you end up with, real-time monitoring is how you catc
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

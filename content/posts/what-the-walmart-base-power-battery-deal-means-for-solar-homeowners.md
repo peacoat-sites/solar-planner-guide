@@ -21,9 +21,7 @@ For solar homeowners, the timing is pointed. The federal 30% residential [solar 
 
 Base Power already has more than 35,000 members in Texas and over 20,000 home batteries deployed. The company monetizes that network by discharging stored energy into the grid during price spikes, which is how it can offer customers a relatively low monthly lease, reportedly in the range of $19 to $29, on top of a reduced upfront installation fee. It acts as the household's retail electricity provider. That's a different business model than buying a Powerwall.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Base Power charges ~$19–$29/month and a reduced upfront fee; it owns and maintains the battery.</li><li style="margin:5px 0">Walmart enrollees get 20% off Base Power's standard installation cost starting November 2026.</li><li style="margin:5px 0">The 30% federal solar tax credit (25D) expired December 31, 2025, raising the cost of owned systems.</li><li style="margin:5px 0">Arizona's grid export rate for new solar customers dropped to ~$0.0555/kWh as of September 2026.</li><li style="margin:5px 0">A November 2026 analysis cited by Free Press found rooftop solar and batteries could cut average household bills ~$122/year.</li></ul></div>
-
 
 ## Why the "Company-Owned" Battery Model Matters Now
 
@@ -85,4 +83,3 @@ The Walmart channel is worth watching regardless of whether you'd personally sub
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
-

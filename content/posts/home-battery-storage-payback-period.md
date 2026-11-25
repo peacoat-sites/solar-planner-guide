@@ -32,7 +32,6 @@ The honest payback math on a standalone home battery (no solar attached) runs an
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standalone battery payback typically runs 10-20+ years; solar-paired systems can reach payback in 7-12 years.</li><li style="margin:5px 0">The federal ITC no longer applies to homeowner-owned batteries installed after December 31, 2025.</li><li style="margin:5px 0">Time-of-use rate arbitrage and backup value are the two main financial levers, only one shows up on a bill.</li><li style="margin:5px 0">In areas without strong net metering, outage protection, or time-of-use rates, payback may never realistically occur.</li><li style="margin:5px 0">Battery lifespan is roughly 10-15 years; if payback exceeds that, the investment is financially underwater.</li></ul></div>
 
-
 ## What You're Actually Paying For
 
 A fully installed home battery system today, using the most common products (Tesla Powerwall 3, Enphase IQ Battery 5P, Franklin Home Power), typically runs $12,000 to $18,000 installed before any incentives. The [Solar Energy Industries Association (SEIA)](https://www.seia.org/) tracks installed storage costs, and prices have come down notably over the past few years but appear to be leveling off in the $1,000 to $1,300 per kilowatt-hour range for residential systems. A single 10 kWh unit installed might cost $13,000; a 20 kWh setup (two units or a larger single unit) could reach $22,000 or more.
@@ -95,7 +94,6 @@ A good [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor) (af
 
 ---
 
-
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
@@ -108,4 +106,3 @@ A good [home energy monitor](https://www.amazon.com/s?k=home+energy+monitor) (af
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

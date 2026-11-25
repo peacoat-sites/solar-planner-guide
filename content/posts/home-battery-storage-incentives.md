@@ -110,10 +110,6 @@ The programs I'd look at first, by utility: Tesla VPP (PG&E territory), Swell En
 
 ---
 
----
-
-Before talking to an installer, consider using a [home energy monitor like the Emporia Vue 3](https://www.amazon.com/s?k=emporia+vue+home+energy+monitor). Understanding your actual load profile tells you whether a 10 kWh or 20 kWh system makes more sense, and it helps you make a more informed decision. (The site may earn a commission on purchases through that link.) The installers who design systems without looking at your usage data are the ones who'll sell you more than you need.
-
 The math on home batteries has genuinely shifted over the past two years. State programs in several states are extraordinary, and the utility programs are getting more structured. If you're in the right state with the right utility, there are realistic scenarios where a battery system's net cost after state and utility incentives is well below its sticker price. That's not a sales pitch. It's arithmetic.
 
 *Photo: [Ramesh Kambattan](https://www.pexels.com/@rameshkambattan) via Pexels*
@@ -127,4 +123,3 @@ The math on home batteries has genuinely shifted over the past two years. State 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
-
